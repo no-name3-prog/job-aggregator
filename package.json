@@ -1,0 +1,47 @@
+{
+  "name": "job-aggregator",
+  "version": "0.2.0",
+  "private": true,
+  "description": "DE job radar + application tracker (manual apply, free stack)",
+  "type": "module",
+  "scripts": {
+    "ingest": "tsx src/ingest.ts",
+    "ingest:limit": "tsx src/ingest.ts --limit=20",
+    "ingest:de": "tsx src/flows/ingestDataEngineer.ts",
+    "ingest:de:limit": "tsx src/flows/ingestDataEngineer.ts --limit=30",
+    "sync:jobs": "tsx src/sync/syncJobsToDb.ts",
+    "pipeline:de": "tsx src/flows/ingestDataEngineer.ts && tsx src/sync/syncJobsToDb.ts && tsx src/sync/pruneStaleJobs.ts",
+    "api": "tsx src/api/server.ts",
+    "dev:api": "tsx watch src/api/server.ts",
+    "dev:web": "npm run dev --prefix web",
+    "build:web": "npm run build --prefix web",
+    "typecheck": "tsc --noEmit",
+    "setup:web": "npm install --prefix web",
+    "docker:build": "docker build -t job-aggregator:app .",
+    "docker:up": "docker compose up --build -d",
+    "docker:down": "docker compose down",
+    "docker:logs": "docker compose logs -f app",
+    "docker:pipeline": "docker compose run --rm --entrypoint '' worker npm run pipeline:de",
+    "docker:mongo": "docker compose -f docker-compose.yml -f docker-compose.mongo.yml --profile mongo up --build -d",
+    "ci:ingest": "bash scripts/ci-ingest.sh all",
+    "ci:ingest:de": "bash scripts/ci-ingest.sh de-only",
+    "prune:jobs": "tsx src/sync/pruneStaleJobs.ts"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.12.0",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

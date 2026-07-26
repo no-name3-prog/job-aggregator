@@ -1,0 +1,176 @@
+# Scheduled job scrape → write JSON (+ optional Mongo) → commit data/
+#
+# Secrets (optional):
+#   MONGODB_URI  — if set, also upserts jobs into MongoDB Atlas free cluster
+#   MONGODB_DB   — optional, default job_aggregator
+#
+# Manual run: Actions → "Ingest jobs" → Run workflow
+
+name: Ingest jobs
+
+on:
+  schedule:
+    # Every 3 hours (UTC). GitHub cron can delay under load.
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "What to scrape"
+        required: true
+        default: "all"
+        type: choice
+        options:
+          - all
+          - de-only
+          - general-only
+      commit_data:
+        description: "Commit updated JSON back to the repo"
+        required: true
+        default: true
+        type: boolean
+
+concurrency:
+  group: ingest-jobs
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    name: Scrape & store
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Needed so the push can update the default branch
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run general ingest
+        if: ${{ github.event_name == 'schedule' || inputs.mode == 'all' || inputs.mode == 'general-only' }}
+        run: npm run ingest
+        env:
+          CI: true
+
+      - name: Run Data Engineer discovery
+        if: ${{ github.event_name == 'schedule' || inputs.mode == 'all' || inputs.mode == 'de-only' }}
+        run: npm run ingest:de
+        env:
+          CI: true
+
+      - name: Sync JSON → Mongo (optional) + prune store
+        env:
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}
+          MONGODB_DB: ${{ secrets.MONGODB_DB }}
+          JOB_RETENTION_DAYS: ${{ vars.JOB_RETENTION_DAYS }}
+          CI: true
+        run: |
+          export JOB_RETENTION_DAYS="${JOB_RETENTION_DAYS:-15}"
+          if [ -z "${MONGODB_URI:-}" ]; then
+            echo "No MONGODB_URI secret — skipping Mongo sync (will still prune JSON)."
+            exit 0
+          fi
+          export MONGODB_DB="${MONGODB_DB:-job_aggregator}"
+          npm run sync:jobs
+
+      - name: Prune jobs older than retention window
+        env:
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}
+          MONGODB_DB: ${{ secrets.MONGODB_DB }}
+          JOB_RETENTION_DAYS: ${{ vars.JOB_RETENTION_DAYS }}
+          CI: true
+        run: |
+          export JOB_RETENTION_DAYS="${JOB_RETENTION_DAYS:-15}"
+          export MONGODB_DB="${MONGODB_DB:-job_aggregator}"
+          # Prunes Mongo/local store (if URI set) + data/*.json dumps
+          npm run prune:jobs
+
+      - name: Write ingest status stamp
+        env:
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}
+          JOB_RETENTION_DAYS: ${{ vars.JOB_RETENTION_DAYS }}
+        run: |
+          export JOB_RETENTION_DAYS="${JOB_RETENTION_DAYS:-15}"
+          mkdir -p data
+          node <<'NODE'
+          const fs = require("fs");
+          const path = require("path");
+          const stamp = {
+            lastCiIngestAt: new Date().toISOString(),
+            runId: process.env.GITHUB_RUN_ID || null,
+            repository: process.env.GITHUB_REPOSITORY || null,
+            ref: process.env.GITHUB_REF || null,
+            actor: process.env.GITHUB_ACTOR || null,
+            event: process.env.GITHUB_EVENT_NAME || null,
+            hasMongo: Boolean(process.env.MONGODB_URI),
+            retentionDays: Number(process.env.JOB_RETENTION_DAYS || 15),
+          };
+          fs.writeFileSync(
+            path.join("data", "ci-status.json"),
+            JSON.stringify(stamp, null, 2) + "\n",
+          );
+          console.log(JSON.stringify(stamp, null, 2));
+          NODE
+
+      - name: Show data summary
+        run: |
+          node <<'NODE'
+          const fs = require("fs");
+          function count(p) {
+            try {
+              const j = JSON.parse(fs.readFileSync(p, "utf8"));
+              return Array.isArray(j) ? j.length : (j.totalJobs ?? j.jobCount ?? "?");
+            } catch {
+              return "missing";
+            }
+          }
+          console.log("data/jobs.json jobs:", count("data/jobs.json"));
+          console.log("data/data-engineer/jobs.json:", count("data/data-engineer/jobs.json"));
+          console.log("data/data-engineer/companies.json:", count("data/data-engineer/companies.json"));
+          try {
+            console.log("meta:", fs.readFileSync("data/meta.json", "utf8").slice(0, 400));
+          } catch {}
+          try {
+            console.log("de meta:", fs.readFileSync("data/data-engineer/meta.json", "utf8").slice(0, 500));
+          } catch {}
+          NODE
+
+      - name: Commit & push updated job JSON
+        if: ${{ github.event_name == 'schedule' || inputs.commit_data != false }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Persist public job dumps only — never commit personal app store
+          git add \
+            data/jobs.json \
+            data/meta.json \
+            data/sample.json \
+            data/ci-status.json \
+            data/data-engineer/jobs.json \
+            data/data-engineer/companies.json \
+            data/data-engineer/meta.json \
+            data/data-engineer/sample.json \
+            2>/dev/null || true
+
+          if git diff --cached --quiet; then
+            echo "No job data changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore(data): refresh jobs from scheduled ingest [skip ci]"
+          # Push to the branch that triggered the workflow
+          git push origin "HEAD:${GITHUB_REF_NAME}"

@@ -1,0 +1,37 @@
+{
+  "lastRunAt": "2026-07-26T16:42:08.372Z",
+  "durationMs": 50834,
+  "totalJobs": 1537,
+  "sources": [
+    {
+      "source": "remotive",
+      "fetched": 37,
+      "kept": 37
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "source": "jobicy",
+      "fetched": 50,
+      "kept": 50
+    },
+    {
+      "source": "remoteok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "source": "greenhouse",
+      "fetched": 750,
+      "kept": 750
+    },
+    {
+      "source": "workday",
+      "fetched": 500,
+      "kept": 500
+    }
+  ]
+}

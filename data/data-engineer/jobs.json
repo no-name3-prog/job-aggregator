@@ -1,0 +1,763 @@
+[
+  {
+    "id": "jobicy:144689",
+    "externalId": "144689",
+    "source": "jobicy",
+    "title": "Senior Data Platform Engineer",
+    "company": "1Password",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/09/WRILS-200909195848-296323.png",
+    "location": "Canada,  USA",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/144689-senior-data-platform-engineer",
+    "description": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.\n About 1Password\n At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic, every application sign-in is secure, and every device is trusted. We innovated the market-leading enterprise password manager and pioneered Unified Access Management, a new cybersecurity category built for the way people and AI agents work today. As one of the most loved brands in cybersecurity, we take a human-centric approach in everything from product strategy to user experience. Over 180,000 businesses, from Fortune 100 leaders to the world’s most innovative AI companies, trust 1Password to help their teams securely adopt the SaaS and AI tools they need to do their best work.\n If you're excited about the opportunity to contribute to the digital safety of millions, to work alongside a team of curious, driven individuals, and to solve hard problems in a fast-paced, dynamic environment, then we want to hear from you. Come join us and help shape a safer, simpler digital future.\n We are looking for a Senior Data Platform Engineer to help us build the next generation of our data platform, a streaming-first, domain-oriented foundation designed for speed, ownership, and trust. You will work on the infrastructure, tooling, and paved paths that allow data to flow from production systems into a governed medallion architecture, enabling near real-time access for analysts, engineers, AI systems, and business users across the organization.\n This is a high-impact role at the center of a platform transformation: enabling self-serve data access, moving towards near real time data access, and establishing data as a first-class product surface owned at…",
+    "tags": [
+      "Software Engineering",
+      "Senior"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-07-26T11:50:03.000Z",
+    "scrapedAt": "2026-07-26T16:47:42.572Z"
+  },
+  {
+    "id": "greenhouse:coinbase-8082199",
+    "externalId": "coinbase:8082199",
+    "source": "greenhouse",
+    "title": "Senior Software Engineer, Data Engineering Platform",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "remote": true,
+    "url": "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n The Data Platform team builds and operates the systems that centralize all of Coinbase's internal and third-party data, making it easy for teams across the company to access, process, and transform that data for analytics, machine learning, and powering end-user experiences. As an engineer on the team you'll contribute across the full spectrum of our systems, from foundational processing and storage to scalable pipelines to the frameworks, tools, and internal applications that make data easily and efficiently available.\n We have a number of open roles within the Data Platform team, each with a different focus area; read on to see if you'll be a good fit as a Data Engineering Platform Engineer.\n This role sits between our platform and the analysts, data scientists, and data engineers who use it every day. You'll build the SDKs, self-service apps, and abstractions that let thousands of pipelines and analyses run without those users needing to understand the plumbing underneath.\n What you'll do:\n Own the design and delivery of blockchain network infrastructure that abstracts blockchain complexity into reliable, platform APIs\n Lead multi-quarter initiatives including new chain integrations, re-architecture efforts, and data migrations that improve system latency, reliability, and cost\n Define and maintain APIs, SLOs, and observability for the systems you build, including on-call o…",
+    "tags": [
+      "Engineering - Backend"
+    ],
+    "postedAt": "2026-07-24T19:33:43.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "arbeitnow:senior-consultant-azure-data-engineer-mannheim-157148",
+    "externalId": "senior-consultant-azure-data-engineer-mannheim-157148",
+    "source": "arbeitnow",
+    "title": "Senior Consultant Azure Data Engineer (m/w/d)",
+    "company": "Kubidat GmbH",
+    "location": "Mannheim",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/kubidat-gmbh/senior-consultant-azure-data-engineer-mannheim-157148",
+    "description": "Als Senior Consultant Azure Data Engineer unterstützt du ein strategisches Daten- und Reporting-Transformationsvorhabens mit Zielplattform Microsoft-Fabric. Der Fokus liegt auf der technischen Konzeption und Implementierung von Microsoft Fabric, beginnend mit PoC- und Pilot-Szenarien für ein gemeinsames Reporting aus SAS 9.4 und SAP BW mittels Power BI. Ziel ist es, die interne IT zu befähigen, die Plattform mittel- bis langfristig eigenständig weiterzuentwickeln und zu betreiben sowie eine fundierte Entscheidungsgrundlage für die Ablösung bestehender DWH-Plattformen zu schaffen.\n Aufgaben\n Zu Deinen Kernaufgaben zählen folgende Bereiche:\n Analyse der bestehenden Daten- und Reporting-Landschaften\n Erarbeitung technischen Zielarchitekturen auf Basis von Microsoft Fabric (OneLake, Lakehouse, Warehouse, Power BI Semantic Models)\n Definition geeigneter Integrations- und Migrationsszenarien (Koexistenz, schrittweise Ablösung, Parallelbetrieb)\n Technische Konzeption der Datenanbindung von SAS und SAP BW an Microsoft Fabric\n Konzeption performanter Datenmodelle und semantischer Schichten für Power BI sowie das Erstellen von Row-Level-Security-Konzepten\n Definition von Governance-, Security- und Berechtigungskonzepten in Fabric und Power BI\n Bewertung von Ablöse-Optionen für SAS 9.4 und SAP BW inkl. Abhängigkeiten, Risiken und Migrationsaufwand\n Begleitende technische Umsetzung der PoC- und Pilot-Projekte auf Microsoft Fabric\n Aufbau und Konfiguration von Fabric Artefakten (Lakehouse, Warehouse, Pipelines, Dataflows Gen2)\n Implementierung der Datenbelieferung aus SAS 9.4 und SAP BW nach OneLake\n Technische Umsetzung von Transformations- und Ladeprozessen\n Aufbau und Optimierung von Power-BI-Semantic-Models für das gemeinsame Reporting\n Sicherstellung von Performance, Skalierbarkeit und Wartbarkeit\n Umsetzung technischer Best Practices für Fabric und Power BI\n Technische Reviews, Qualitätssicherung und Begleitung der Umsetzungsarbeiten der internen Teams\n Qualifikation\n Was…",
+    "tags": [
+      "Consulting",
+      "Engineering",
+      "berufserfahren"
+    ],
+    "jobType": "berufserfahren",
+    "postedAt": "2026-07-24T18:00:30.000Z",
+    "scrapedAt": "2026-07-26T16:47:42.115Z"
+  },
+  {
+    "id": "greenhouse:cloudflare-8055118",
+    "externalId": "cloudflare:8055118",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer",
+    "company": "Cloudflare",
+    "location": "In-Office",
+    "remote": false,
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118",
+    "description": "About Us\n At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.\n At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.\n Location: Austin (Hybrid)\n About Us\n At Cloudflare, we have our eyes set on an ambitious goal: to help build a better Internet. Today the company runs one of the world’s largest networks that powers trillions of requests per month. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare have all web traffic routed through i…",
+    "tags": [
+      "Engineering"
+    ],
+    "postedAt": "2026-07-14T14:54:05.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "greenhouse:scaleai-4713597005",
+    "externalId": "scaleai:4713597005",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer, Public Sector",
+    "company": "Scale AI",
+    "location": "Washington, DC",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4713597005",
+    "description": "Senior Data Engineer, Public Sector\n As a Data Engineer for the Public Sector business unit, you will build Scale's analytical and business-intelligence infrastructure. Scale's customers process millions of tasks through our APIs, and we're looking for a talented Data Engineer to build scalable solutions to support this growth. You will have widespread purview, with responsibility for understanding, mining, aggregating, and exposing data across the entire business unit to support timely and efficient decision-making and data exploration. You will also implement Scale's data warehouse, data mart, and business intelligence reporting environments, and help users transition their workflows to these systems.\n This role requires collaboration with leadership and cross-functional teams to solve complex problems and develop sustainable, scalable data solutions. Your responsibilities will include both ad-hoc analyses and the creation of core data models and pipelines, directly impacting how Scale operates and evaluates its performance.\n You will:\n Work with operations, finance, and engineering to drive the development of pipelines that provide single-source-of-truth foundational accuracy\n Continually improve ongoing data pipelines and simplify self-service support for business stakeholders\n Perform regular system audits, and create data quality tests to ensure complete and accurate reporting of data/metrics\n Develop repeatable, scalable analytical solutions, such as data models, improved pipelines, or better underlying tables\n Have an active Secret security clearance (Top Secret preferred)\n Ideally You’d Have:\n 5+ years of relevant work experience in a role requiring application of data modeling and analytic skills\n Ability to create extensible and scalable data schema and pipelines that lay the foundation for downstream analysis\n Mastery of SQL and relational databases; experience with programming languages (e.g., Python/R)\n Experience building a reliable transformation la…",
+    "tags": [
+      "Data, Technology & Systems"
+    ],
+    "postedAt": "2026-07-11T02:29:10.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "greenhouse:block-5281312008",
+    "externalId": "block:5281312008",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer, Risk",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "remote": false,
+    "url": "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008",
+    "description": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.\nToday, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.\n The Role\n As a Data Engineer you will handle everything from data architecture and modeling to data pipeline tooling and dashboarding. You will enable other compliance and risk teams to make impactful business decisions by laying the foundation of our large and unique datasets that span across multiple products. This role will support compliance or risk product data engineering teams.\n The Compliance Data Engineering team at Block supports the detection and reporting of suspicious financial crimes activity across Cash App, Square, and Afterpay. We work globally with partners in business, engineering, counsel, and product to provide a safe user experience for our customers while minimizing and potentially eliminating bad activity on our platform.\n The Risk Product Data Engineering team at Block builds reliable data foundations that help protect customers across Cash App, Square, and Afterpay. We partner with product, engineering, compliance, and legal teams to support risk detection, reporting, instrumentation, and ML-ready datasets across critical domains including identity…",
+    "tags": [
+      "10109 Risk - Risk ML & DS"
+    ],
+    "postedAt": "2026-07-02T17:34:01.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "greenhouse:anthropic-5240422008",
+    "externalId": "anthropic:5240422008",
+    "source": "greenhouse",
+    "title": "Data Engineer, Safeguards",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\n As a Data Engineer on the Safeguards team, you will build the data foundations that keep our AI systems safe. The Safeguards team works to monitor models, prevent misuse, and ensure user well-being — and doing that well requires robust, reliable data infrastructure.\n In this role, you will design and build the pipelines, warehousing solutions, and analytical tooling that power our safety and trust efforts at scale. You'll work closely with engineers, data scientists, and policy teams to ensure the Safeguards organization has the data it needs to detect abuse patterns, measure the effectiveness of safety interventions, and make informed decisions about model behavior and enforcement. This is a high-impact role where your work directly supports Anthropic's mission to develop AI that is safe and beneficial.\n Key responsibilities\n Design, build, and maintain scalable data pipelines that support safety monitoring, abuse detection, and enforcement workflows\n Develop and optimize data models and warehousing solutions to enable efficient analysis of large-scale usage and safety data\n Build and maintain dashboards and reporting infrastructure that give Safeguards teams visibility into model behavior, misuse patterns, and enforcement outcomes\n Collaborate with engineers to integrate data from multiple sources — including model outputs, user reports, and automated classifiers — into a unified analytical layer\n Implement data quality frameworks, monitoring, and alerting to ensure the reliability of safety-critical data\n Partner with research teams to surface data insights that inform model improvements and safety interventions…",
+    "tags": [
+      "Data Science & Analytics"
+    ],
+    "postedAt": "2026-07-01T20:26:10.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "greenhouse:coinbase-8024880",
+    "externalId": "coinbase:8024880",
+    "source": "greenhouse",
+    "title": "Analytics Engineer, GFCO Analytics",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "remote": true,
+    "url": "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n We're hiring an Analytics Engineer to join the GFCO Analytics Engineering team and build the data foundations that power customer experience and compliance operations at Coinbase. You'll own end-to-end data pipelines, develop trusted metrics, and enable CX stakeholders to make faster, better decisions with clean, reliable data. This is a high-impact role where you'll directly influence how we serve and protect our customers while scaling our analytics capabilities.\n What you'll do:\n Own the design, build, and maintenance of data models and pipelines that support CX operations, compliance reporting, and customer insights, ensuring data is accurate, timely, and well-documented.\n Partner with CX Operations, Compliance, and Product teams to translate business needs into data requirements and deliver self-serve analytics solutions that reduce manual effort.\n Build and maintain dashboards, metrics, and reporting tools that give CX leaders visibility into performance, customer trends, and compliance health.\n Drive data quality and governance within the CX data domain by implementing testing, monitoring, and documentation standards that ensure stakeholder trust in the data.\n Identify opportunities to automate recurring data workflows and reporting processes, shifting the team from reactive requests toward scalable, self-serve solutions.\n Collaborate with broader Data Engineering and A…",
+    "tags": [
+      "Customer Experience"
+    ],
+    "postedAt": "2026-06-25T23:35:31.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "greenhouse:lyft-8605842002",
+    "externalId": "lyft:8605842002",
+    "source": "greenhouse",
+    "title": "Data Engineer, Pricing",
+    "company": "Lyft",
+    "location": "Toronto, Canada",
+    "remote": false,
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8605842002?gh_jid=8605842002",
+    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n Pricing is at the core of Lyft’s business, driving revenue, balancing supply and demand, and shaping user experience through real-time and strategic decisions. The Pricing team builds and maintains the systems that determine what a ride should cost—incorporating demand forecasts, marketplace signals, promotions, cost models, and more.\n As a Data Engineer on the Pricing team, you will help build the data foundation that powers Lyft’s pricing strategies. You will architect, build, and maintain scalable data pipelines to support real-time pricing, experimentation, analytics, and modeling. Your work will enable integration with partner teams and allow stakeholders across Engineering, Data Science, and Product to make data-informed decisions that directly impact Lyft’s growth and profitability.\n Our technology stack is based on the latest technologies such as AWS, Kubernetes and Apache Airflow. You will work with incredibly passionate and talented colleagues from software engineering, machine learning and data science on projects that directly impact millions of riders and drivers.\n Responsibilities:\n Owner of the pricing data pipeline, responsible for scaling up data processing flow to meet the rapid data growth at Lyft\n Evolve data model and data schema based on business and engineering needs\n Implement systems tracking data quality and consistency\n Develop tools supporting self-service data pipeline management (ETL)\n SQL and MapReduce job tuning to improve data processing performance\n Write well-crafted, well-tested, readable, maintainable code\n Participate in code reviews to ensure code quality and distribute knowledge\n Unblock, support and communicate with internal & external partners to achieve results\n Experience:\n Bachelor's degree in Computer Science, Engineering, Mathematics, Statistics, or a…",
+    "tags": [
+      "Pricing"
+    ],
+    "postedAt": "2026-06-24T15:02:28.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "greenhouse:cloudflare-8007032",
+    "externalId": "cloudflare:8007032",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer",
+    "company": "Cloudflare",
+    "location": "In-Office",
+    "remote": false,
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8007032?gh_jid=8007032",
+    "description": "About Us\n At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.\n At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.\n Available Locations - Bengaluru, India\n About the Role\n The Data Intelligence & Analytics organization builds the core data platform and internal products that power decision-making across the company. We design and operate large-scale data systems, own the company’s data lake, ingestion infrastructure, and platform tooling, and develop end-to-end applications that transform complex datasets into fast, reliable, business-critical products used daily…",
+    "tags": [
+      "Business Intelligence"
+    ],
+    "postedAt": "2026-06-19T05:40:45.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "greenhouse:twilio-8008538",
+    "externalId": "twilio:8008538",
+    "source": "greenhouse",
+    "title": "Staff, Analytics Engineer, GTM Data Science & Analytics",
+    "company": "Twilio",
+    "location": "Remote - US",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8008538",
+    "description": "Who we are\n At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.\n Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.\nWe use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!\n .\n See yourself at Twilio\n Join the team as Twilio’s next Staff, Analytics Engineer, GTM Data Science & Analytics.\n About the job\n This position is needed to advance the quality, reliability, and strategic value of Twilio’s Go-To-Market (GTM) data by designing and maintaining a robust business data layer to enable trusted sales analytics, reporting, data science, & AI capabilities. The Staff, Analytics Engineer will play a mission-critical role in driving cross-functional alignment within GTM Data Science & Analytics and Sales Operations on key Sales & Finance business metrics, ensuring data consistency and empowering data-driven decision-making.\n Responsibilities\n In this role, you’ll:\n Design and implement a formal business data layer in dbt, ensuring that data from multiple sources is centralized, reconciled, and serves as a single source of truth for GTM metrics.\n Collaborate with stakeholders within the GTM Operations team and Finance to define, document, and maintain alignment on key business metrics and data definitions.\n Develop and maintain automated data reconciliation and quality checks to proactively identify and resolve discrepancies, ensuring accuracy and consistency of c…",
+    "tags": [
+      "IT"
+    ],
+    "postedAt": "2026-06-17T20:36:24.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "greenhouse:stripe-8013220",
+    "externalId": "stripe:8013220",
+    "source": "greenhouse",
+    "title": "Staff Software Engineer, Data Engineering Solutions",
+    "company": "Stripe",
+    "location": "Seattle",
+    "remote": false,
+    "url": "https://stripe.com/jobs/search?gh_jid=8013220",
+    "description": "Who we are\n About Stripe\n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n About the team\n We are experts in data, working to make it cost-effective, understandable, and trustworthy. We build pipelines processing billions of events a day and are stewards of canonical data warehouses and datasets delivering products for Stripe Users while embedding with teams to build their data products. We are experts in using the Stripe Data Platform and to scale we lead the data culture and data education to enable product teams to own their data. We invest in AI-driven Data Ops to scale incident handling and serve as an escalation path for data incidents to minimize their impact. The Data Engineering Solutions team will work closely with product teams delivering trustworthy data / backend code / and innovative AI tools/platforms/services for data.\n What you’ll do\n We're looking for a person who could drive the Data Engineering Solutions team in solving high-impact, cutting-edge data problems. The ideal candidate will be someone that has built data pipelines for large scale volume, is deeply knowledgeable of key tools including Airflow/Spark/Kafka/Flink, is empathetic, excels at building strong relationships, and collaborates effectively with other Stripe teams to understand their use cases and unlock new capabilities.\n Responsibilities\n Lead the technical outcomes for a team of ambitious, talented engineers, providing mentorship, guidance, and support to ensure their success\n Partner with our recruiting team to attract and hire top talent…",
+    "tags": [
+      "8122 Data Foundations"
+    ],
+    "postedAt": "2026-06-17T17:52:36.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "greenhouse:affirm-7764109003",
+    "externalId": "affirm:7764109003",
+    "source": "greenhouse",
+    "title": "Analytics Engineer II",
+    "company": "Affirm",
+    "location": "Remote Poland",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7764109003",
+    "description": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.\n Financial Systems owns the data and reporting foundation for Accounting, and the operational reliability of the pipelines that power reporting, reconciliations, and automation. We are building a single source of truth for financial information using dbt and Snowflake to enable scalable BI and process automation across the org.\n We are hiring an Analytics Engineer focused on maintaining and optimizing our finance data platform , improving reliability, efficiency, and performance of our pipelines and core datasets. This role is ideal for someone who enjoys operational ownership, building strong foundations, and making data systems easier and safer to run at scale.\n What You’ll Do\n Build and maintain dbt models and core datasets that support Accounting reporting and downstream automation use cases.\n Improve platform reliability through strong testing patterns, alerting, and runbooks.\n Own and document data pipelines and lineage, ensuring changes are understandable and auditable.\n Identify, troubleshoot, and resolve production data issues, and drive root-cause fixes.\n Optimize performance and cost in Snowflake and dbt to support scaling needs.\n Partner with engineering and business stakeholders to translate requirements into durable, well-tested data assets.\n Contribute to the team’s best practices in version control, code review, documentation, and release hygiene (GitHub-based workflows).\n What We Look For\n 3+ years of experience in analytics engineering, data engineering, or similar roles working with production data systems.\n Strong SQL skills and hands-on experience building in dbt (modeling, testing, documentation).\n Experience operating in a modern development workflow:\n Git and pull-request based collaboration (GitHub preferred).\n Familiarity with standard IDEs and collaborative debugging p…",
+    "tags": [
+      "Accounting"
+    ],
+    "postedAt": "2026-06-17T09:53:12.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "greenhouse:lyft-8594129002",
+    "externalId": "lyft:8594129002",
+    "source": "greenhouse",
+    "title": "Data Engineer",
+    "company": "Lyft",
+    "location": "Mexico City, Mexico",
+    "remote": false,
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8594129002?gh_jid=8594129002",
+    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n The Safety and Customer Care (SCC) team at Lyft manages over 1.7 million monthly human and AI interactions and serves as Lyft's primary direct touchpoint with riders and drivers. We handle critical infrastructure that powers both human associates and AI agents to make riders and drivers feel safe and comfortable while riding or driving with Lyft, transforming every support interaction into a moment of genuine connection.\n As a Data Engineer on the SCC team, you will have ownership over the data modeling and pipelines that power SCC’s Associate and AI Agent Platform . Your efforts will be critical to the reliability of our pipelines, execution of third party data integrations, accurate reporting of agents performance, and efficiency improvements that can save millions of dollars / year. You will work cross-functionally to bridge Lyft's business goals with data engineering. Your efforts will allow access to business and user behavior insights, using huge amounts of Lyft data to fuel several teams such as Analytics, Data Science, Engineering, and many others.\n Responsibilities:\n Owner of the core data pipeline, responsible for scaling up data processing flow to meet the rapid data growth at Lyft\n Evolve data model and data schema based on business and engineering needs\n Implement systems tracking data quality and consistency\n Develop tools supporting self-service data pipeline management (ETL)\n SQL and MapReduce job tuning to improve data processing performance\n Write well-crafted, well-tested, readable, maintainable code\n Participate in code reviews to ensure code quality and distribute knowledge\n Collaborate cross-functionally with product, engineering, data science, and marketing teams to understand business problems and align on prioritization and solutions\n Experience:\n 4+ years of professional e…",
+    "tags": [
+      "SCC Tech"
+    ],
+    "postedAt": "2026-06-16T23:45:54.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "greenhouse:airbnb-7998356",
+    "externalId": "airbnb:7998356",
+    "source": "greenhouse",
+    "title": "Senior Staff Data Engineer - Data Stewardship",
+    "company": "Airbnb",
+    "location": "United States",
+    "remote": false,
+    "url": "https://careers.airbnb.com/positions/7998356?gh_jid=7998356",
+    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n The Community You Will Join:\n The Data Stewardship team is a group of passionate data practitioners with a diverse background in analytics, data modeling, governance, compliance, and scaled data quality. We are responsible for ensuring Airbnb is meeting its compliance obligations across our data ecosystem and ensuring data consumers are able to easily identify the best data for their needs. We support the pipelines, programs, and policy-bodies that make this possible. You’ll be part of the overall Data Infrastructure organization that is responsible for online and offline data infrastructure across the company, and the components that transition data between these environments.\n The Difference You Will Make\n Set the North Star: you will define the multi-year vision for Data Governance and Data Quality that scales with our global business and evolving AI landscape.\n Organizational Influence: Act as a primary consultant for executive leadership on data governance, ensuring that compliance and stewardship are integrated into the data product lifecycle from day one.\n A Typical Day\n Architect Ecosystems: Lead the design of overarching data architectures that don't just solve today’s batch needs but anticipate future real-time and AI-driven requirements.\n Scale Best Practices: Rather than just \"ensuring quality,\" you will define the best practices, tooling, and culture that enable data organizations to maintain high-quality data autonomously.\n Policy Stewardship: Lead cross-functional task forces (Infosec, Legal, Privacy) to navigate complex regulatory landscapes (like GDPR or AI Act) and translate them into engine…",
+    "tags": [
+      "Software Engineering"
+    ],
+    "postedAt": "2026-06-10T23:39:45.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "lever:spotify-08d82da1-0c72-44d1-91eb-7fa22dee3d39",
+    "externalId": "spotify:08d82da1-0c72-44d1-91eb-7fa22dee3d39",
+    "source": "lever",
+    "title": "Analytics Engineer II",
+    "company": "Spotify",
+    "location": "Stockholm",
+    "remote": false,
+    "url": "https://jobs.lever.co/spotify/08d82da1-0c72-44d1-91eb-7fa22dee3d39",
+    "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\nWe’re looking for an Analytics Engineer II to join Spotify's Platform Central Data (PCD) squad, a cross-functional Data Engineering and Analytics Engineering team within the Platform Mission. You’ll help build and maintain trusted analytical models, metrics, and data products that power developer productivity, platform health, and leadership decision-making. Working closely with Data Engineers, Product, Engineering, and Platform partners, you’ll translate platform signals into reliable, well-modeled data assets that help Spotify ship faster and safer.\n",
+    "tags": [
+      "Platform",
+      "Data and Analytics",
+      "Permanent",
+      "hybrid"
+    ],
+    "jobType": "Permanent",
+    "postedAt": "2026-05-13T15:23:52.322Z",
+    "scrapedAt": "2026-07-26T16:51:55.396Z"
+  },
+  {
+    "id": "greenhouse:brex-8523806002",
+    "externalId": "brex:8523806002",
+    "source": "greenhouse",
+    "title": "Data Engineer",
+    "company": "Brex",
+    "location": "São Paulo, São Paulo, Brazil",
+    "remote": false,
+    "url": "https://www.brex.com/careers/8523806002?gh_jid=8523806002",
+    "description": "Why join us\n Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.\n Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.\n Data at Brex\n Our Scientists and Engineers work together to make data — and insights derived from data — a core asset across Brex. But it's more than just crunching numbers. The Data team at Brex develops infrastructure, statistical models, and products using data. Our work is ingrained in Brex's decision-making process, the efficiency of our operations, our risk management policies, and the unparalleled experience we provide our customers.\n What You’ll Do\n As a Data Engineer at Brex, you will be a core contributor in transforming raw data into actionable insights for various departments across the organization. You'll collaborate closely with Data Scientists, Software Engineers, and business units to create efficient data models, pipelines, and analytics frameworks that drive the business forward. You also play a leading role in the design, implementation, and maintenance of Core Data tables, our high-quality, curated data source…",
+    "tags": [
+      "Finance"
+    ],
+    "postedAt": "2026-04-24T20:47:23.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "lever:spotify-4303f795-d0a5-41ed-8c78-0941780b6e54",
+    "externalId": "spotify:4303f795-d0a5-41ed-8c78-0941780b6e54",
+    "source": "lever",
+    "title": "Data Infrastructure Engineer – Platform",
+    "company": "Spotify",
+    "location": "Toronto",
+    "remote": true,
+    "url": "https://jobs.lever.co/spotify/4303f795-d0a5-41ed-8c78-0941780b6e54",
+    "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\n\nThe Data Infrastructure product area sits at the heart of Spotify’s Platform mission, enabling teams across the company to solve complex data challenges at scale. We build the infrastructure and tooling that powers data pipelines used in some of Spotify’s most loved experiences, like Discover Weekly and Wrapped. As part of this team, you’ll collaborate with engineers across multiple squads to shape the future of data processing and developer experience at Spotify, especially as AI and intelligent agents become more central to how we work with data.\n",
+    "tags": [
+      "Platform",
+      "Engineering",
+      "Permanent",
+      "remote"
+    ],
+    "jobType": "Permanent",
+    "postedAt": "2026-04-20T19:31:08.951Z",
+    "scrapedAt": "2026-07-26T16:51:55.396Z"
+  },
+  {
+    "id": "ashby:notion-a1216dba-e175-4a3d-b712-401c9fbdcd92",
+    "externalId": "notion:a1216dba-e175-4a3d-b712-401c9fbdcd92",
+    "source": "ashby",
+    "title": "Data Engineer, People Analytics",
+    "company": "Notion",
+    "location": "San Francisco, California",
+    "remote": true,
+    "url": "https://jobs.ashbyhq.com/notion/a1216dba-e175-4a3d-b712-401c9fbdcd92",
+    "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE\n\nAs Notion scales, there is a unique opportunity to build the data foundations for People Analytics that enable better decisions around hiring, performance, compensation, and org design - while maintaining strong privacy guarantees for sensitive employee data.\n\n\n\nIn this role, you will design, build, and operate scalable data systems and pipelines that power People data. Your work will ensure that employee data is reliable, secure, and production-ready, enabling both analytics and AI-driven people workflows across the company.\n\n\n\nThis role can be based in either San Francisco or New York City. We work from our offices on Mondays, Tuesdays and Thursdays (our Anchor Days) because we do our best thinking and building together in person. We’re looking for someone who’s excited to work alongside the team during those days.\n\n\n\n\nWHAT YOU'LL ACHIEVE\n\n - Partner closely with the Chief People Officer and People leadership team to translate strategic questions into clear metrics and data products that inform workforce planning, organization design, performance reviews, compensat…",
+    "tags": [
+      "Engineering",
+      "Engineering",
+      "Hybrid"
+    ],
+    "jobType": "FullTime",
+    "postedAt": "2026-04-14T18:14:37.287Z",
+    "scrapedAt": "2026-07-26T16:51:59.238Z"
+  },
+  {
+    "id": "greenhouse:coinbase-7736521",
+    "externalId": "coinbase:7736521",
+    "source": "greenhouse",
+    "title": "Senior Analytics Engineer (Platform - Financial Analytics)",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "remote": true,
+    "url": "https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Senior Analytics Engineer\n As a Senior Analytics Engineer on the Platform team, you'll build the scalable data models and pipelines that power analytics, experimentation, and decision-making across Coinbase. Our Analytics Engineering team transforms raw data into trusted, well-modeled sources that stakeholders across Product, Engineering, and Data Science rely on daily. You'll own end-to-end data solutions for specific business domains, turning complex data flows into clean, reusable frameworks that unlock commercial value at scale.\n What you'll do:\n Own end-to-end data modeling for assigned business domains, from understanding source system data flows through designing modular, reusable models (star/snowflake schemas) that serve as the single source of truth for downstream teams.\n Build and optimize ETL/ELT pipelines using modern tools like dbt and Airflow, ensuring data quality, reliability, and performance at scale across Snowflake or similar warehouse architectures.\n Partner with Engineering, Product, and Data Science teams to identify data gaps, define requirements, and deliver data products that directly enable experimentation, ad hoc analysis, and business metric optimization.\n Develop scalable abstractions and frameworks (UDFs, Python packages, internal data apps) that multiply the efficiency of other data teams and reduce time-to-insight across the organization.\n Desi…",
+    "tags": [
+      "Data Engineering"
+    ],
+    "postedAt": "2026-03-31T00:37:32.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "greenhouse:anthropic-5125387008",
+    "externalId": "anthropic:5125387008",
+    "source": "greenhouse",
+    "title": "Data Engineering Manager, Product",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5125387008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\n As a Data Engineering Manager focused on Product, you will build and lead the analytics engineering team responsible for creating the data foundations that enable data-driven decision making across Anthropic’s Product organization. You will oversee the development of scalable data solutions for Product pillars – including Consumer, Claude Code, Enterprise & Verticals, Growth, Platform Product – managing a team of analytics engineers and working closely with stakeholders across Data Science, Product, and Engineering to ensure teams have access to reliable, accurate metrics that can scale with our company’s growth.\n In this role, you will balance hands-on technical leadership with people management, setting the strategic vision for product data foundations while developing and mentoring team members. You will partner closely with Product Data Scientists, Product Managers, and Product Engineers to understand how users interact with Claude, how to measure product quality and growth, and how to transform raw event logs into insightful data marts that power product decisions.\n Responsibilities :\n Build and scale the Product Analytics Engineering team, including hiring and mentoring a team of high-performing analytics engineers embedded with Product pillars\n Define and execute the strategic roadmap for product data foundations and analytics capabilities\n Oversee the design and implementation of scalable data pipelines, data models, and analytics solutions that transform raw product event logs into canonical datasets and insightful data marts\n Partner with Data Science, Product, and Engineering leadership to understand data…",
+    "tags": [
+      "Data Science & Analytics"
+    ],
+    "postedAt": "2026-02-20T00:49:54.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "greenhouse:stripe-7548037",
+    "externalId": "stripe:7548037",
+    "source": "greenhouse",
+    "title": "Staff Software Engineer, Data Engineering Solutions",
+    "company": "Stripe",
+    "location": "Bengaluru",
+    "remote": false,
+    "url": "https://stripe.com/jobs/search?gh_jid=7548037",
+    "description": "Who we are\n About Stripe\n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.\n About the team\n We're experts in data, working to make it cost-effective, understandable, and trustworthy. We build pipelines processing billions of events a day and are stewards of canonical data warehouses and datasets delivering products for Stripe Users while embedding with teams to build their data products. We're experts in using the Stripe Data Platform and to scale we lead the data culture and data education to enable product teams to own their data. We invest in AI Data Ops to scale incident handling and serve as an escalation path for data incidents to minimize their impact. The Data Engineering Solutions team works closely with product teams delivering trustworthy data, backend code, and innovative AI tools, platforms, and services for data.\n What you'll do\n We're looking for a person who drives the Data Engineering Solutions Team in solving high-impact, cutting-edge data problems. The ideal candidate is someone who has built data pipelines for large-scale volume, is deeply knowledgeable of Data Engineering tools including Airflow, Spark, Kafka, and Flink, is empathetic, excels at building strong relationships, and collaborates effectively with other Stripe teams to understand their use cases and unlock new capabilities.\n • Lead the technical outcomes for a team of ambitious, talented engineers, providing mentorship, guidance, and support to ensure their success\n • Partner with our recruiting team to attract and hire top talent. • Deliver cu…",
+    "tags": [
+      "8122 Data Foundations"
+    ],
+    "postedAt": "2026-01-20T05:58:11.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "greenhouse:brex-8366850002",
+    "externalId": "brex:8366850002",
+    "source": "greenhouse",
+    "title": "Data Engineer",
+    "company": "Brex",
+    "location": "San Francisco, California, United States",
+    "remote": false,
+    "url": "https://www.brex.com/careers/8366850002?gh_jid=8366850002",
+    "description": "Why join us\n Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.\n Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.\n Data at Brex\n Our Scientists and Engineers work together to make data — and insights derived from data — a core asset across Brex. But it's more than just crunching numbers. The Data team at Brex develops infrastructure, statistical models, and products using data. Our work is ingrained in Brex's decision-making process, the efficiency of our operations, our risk management policies, and the unparalleled experience we provide our customers.\n What You’ll Do\n As a Data Engineer at Brex, you will be a core contributor in transforming raw data into actionable insights for various departments across the organization. You'll collaborate closely with Data Scientists, Software Engineers, and business units to create efficient data models, pipelines, and analytics frameworks that drive the business forward. You also play a leading role in the design, implementation, and maintenance of Core Data tables, our high-quality, curated data source…",
+    "tags": [
+      "Finance"
+    ],
+    "postedAt": "2026-01-08T22:13:05.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "greenhouse:anthropic-4956672008",
+    "externalId": "anthropic:4956672008",
+    "source": "greenhouse",
+    "title": "Data Engineer",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4956672008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the Role\n As a Data Engineer, you will be an early member of the Data Science & Analytics team building the foundation to scale analytics across our organization. You will collaborate with key stakeholders in Engineering, Product, GTM and other areas to build scalable solutions to transform data into key metrics reporting and insights. You will be responsible for ensuring teams have access to reliable, accurate metrics that can scale with our company’s growth. You will also lead your own projects to enable self-serve insights to help teams make data-driven decisions.\n Responsibilities :\n Understand the data needs of stakeholder teams in terms of key data models and reporting, and translate that into technical requirements\n Define, build and manage key data pipelines in dbt that transform raw logs into canonical datasets\n Establish high data integrity standards and SLAs to ensure timely, accurate delivery of data\n Develop insightful and reliable dashboards to track performance of core metrics that will deliver insights to the whole company\n Build foundational data products, dashboards and tools to enable self-serve analytics to scale across the company\n Influence the future roadmap of Product and GTM teams from a data systems perspective\n Become an expert in our organization’s data models and the company's data architecture\n You might be a good fit if you have:\n 5+ years of experience as a Data Engineer or similar Data Science & Analytics roles, preferably partnering with GTM and Product leads to build and report on key company-wide metrics.\n A passion for the company's mission of building helpful, honest, and harmless AI.\n Ex…",
+    "tags": [
+      "Data Science & Analytics"
+    ],
+    "postedAt": "2025-10-17T18:13:10.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "greenhouse:figma-5220003004",
+    "externalId": "figma:5220003004",
+    "source": "greenhouse",
+    "title": "Data Engineer",
+    "company": "Figma",
+    "location": "San Francisco, CA • New York, NY • United States",
+    "remote": false,
+    "url": "https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004",
+    "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!\n We are looking for an experienced Data Engineer to partner with our Data Science and Data Infrastructure teams to own and scale our data pipelines. You’ll also work closely with stakeholders across business teams including sales, marketing, and finance to ensure that the data they need arrives promptly and reliably. You’ll play an integral role in building the metrics and self-serve reporting capabilities to unlock Figma’s next phase of growth.\n This is a great role for an individual who is passionate about working with data and data systems, and who love s solving problems. You’ll have a good sense for when it makes sense to build fast, scrappy solution s to unblock a key stakeholder vs. when to push back or bring in an outside service. The ideal candidate will be a great communicator who can help coordinate across multiple internal and external teams and take s pride in building end-to-end projects.\nThis is a full time role that can be held from one of our US hubs or remotely in the United States.\n What you'll do at Figma :\n Own, build, and maintai n scalable data pipelines that connect various cloud data sources.\n Develop a deep understanding of Figma’s core data model s and optimize data pipelines for scale.\n Partner with the Data Science and Data Infrastructure teams to build new foundational data sets that are trusted, well understood, and enable self-service .\n Work with a wide range of cross-functional stakeholders to derive requirements and architect shared datasets; ability to docume…",
+    "tags": [
+      "Engineering"
+    ],
+    "postedAt": "2024-07-08T16:15:29.000Z",
+    "scrapedAt": "2026-07-26T16:47:43.929Z"
+  },
+  {
+    "id": "workday:workday-JR-0107830",
+    "externalId": "workday:JR-0107830",
+    "source": "workday",
+    "title": "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
+    "company": "Workday",
+    "location": "2 Locations",
+    "remote": false,
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
+    "description": "",
+    "tags": [
+      "Flex"
+    ],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:workday-JR-0107814",
+    "externalId": "workday:JR-0107814",
+    "source": "workday",
+    "title": "Senior Cybersecurity Data Engineer - AI/ML SME",
+    "company": "Workday",
+    "location": "2 Locations",
+    "remote": false,
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---AI-ML-SME_JR-0107814",
+    "description": "",
+    "tags": [
+      "Flex"
+    ],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:workday-JR-0107883",
+    "externalId": "workday:JR-0107883",
+    "source": "workday",
+    "title": "Principal Analytics Engineer",
+    "company": "Workday",
+    "location": "2 Locations",
+    "remote": false,
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Principal-Analytics-Engineer_JR-0107883",
+    "description": "",
+    "tags": [
+      "Flex"
+    ],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:nvidia-JR2021179",
+    "externalId": "nvidia:JR2021179",
+    "source": "workday",
+    "title": "Supply Chain Data Engineer",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "remote": false,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Supply-Chain-Data-Engineer_JR2021179",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:nvidia-JR2021331",
+    "externalId": "nvidia:JR2021331",
+    "source": "workday",
+    "title": "Senior Data Engineer, PE",
+    "company": "NVIDIA",
+    "location": "Israel, Yokneam",
+    "remote": false,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Data-Engineer--PE_JR2021331",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:nvidia-JR2009512",
+    "externalId": "nvidia:JR2009512",
+    "source": "workday",
+    "title": "Senior Data Engineer - Financial Transactions & Automation",
+    "company": "NVIDIA",
+    "location": "2 Locations",
+    "remote": false,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer---Financial-Transactions---Automation_JR2009512",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:nvidia-JR2019415",
+    "externalId": "nvidia:JR2019415",
+    "source": "workday",
+    "title": "Principal Security Data Engineer, Infrastructure Security Engineering - DGX Cloud",
+    "company": "NVIDIA",
+    "location": "4 Locations",
+    "remote": false,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Security-Data-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2019415",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:salesforce-JR353004",
+    "externalId": "salesforce:JR353004",
+    "source": "workday",
+    "title": "Data Engineer Senior",
+    "company": "Salesforce",
+    "location": "Mexico - Mexico City",
+    "remote": false,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:salesforce-JR336657",
+    "externalId": "salesforce:JR336657",
+    "source": "workday",
+    "title": "Senior Data Engineer",
+    "company": "Salesforce",
+    "location": "Mexico - Mexico City",
+    "remote": false,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:redhat-R-058408",
+    "externalId": "redhat:R-058408",
+    "source": "workday",
+    "title": "Principal Data Engineer",
+    "company": "Red Hat",
+    "location": "Raleigh",
+    "remote": true,
+    "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Principal-Data-Engineer_R-058408",
+    "description": "",
+    "tags": [
+      "Remote"
+    ],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:adobe-R170274",
+    "externalId": "adobe:R170274",
+    "source": "workday",
+    "title": "Data Engineer",
+    "company": "Adobe",
+    "location": "Bangalore",
+    "remote": false,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-Engineer_R170274",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:adobe-R159981",
+    "externalId": "adobe:R159981",
+    "source": "workday",
+    "title": "Senior Data Engineer",
+    "company": "Adobe",
+    "location": "San Jose",
+    "remote": false,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Engineer_R159981-1",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:adobe-R169988",
+    "externalId": "adobe:R169988",
+    "source": "workday",
+    "title": "Senior Data Engineer",
+    "company": "Adobe",
+    "location": "San Jose",
+    "remote": false,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Science-Engineer_R169988",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:adobe-R169536",
+    "externalId": "adobe:R169536",
+    "source": "workday",
+    "title": "Data Platform Engineer",
+    "company": "Adobe",
+    "location": "Bucharest",
+    "remote": false,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:adobe-R166484",
+    "externalId": "adobe:R166484",
+    "source": "workday",
+    "title": "Senior Data Engineer - Streaming, Kafka & AI Platforms",
+    "company": "Adobe",
+    "location": "Bangalore",
+    "remote": false,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-engineer_R166484-1",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:adobe-R170588",
+    "externalId": "adobe:R170588",
+    "source": "workday",
+    "title": "Principal Scientist - Data Pipeline Engineer",
+    "company": "Adobe",
+    "location": "3 Locations",
+    "remote": false,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:adobe-R166812",
+    "externalId": "adobe:R166812",
+    "source": "workday",
+    "title": "Sr. Computer Scientist (Data Platform Engineer)",
+    "company": "Adobe",
+    "location": "Bangalore",
+    "remote": false,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Computer-Scientist--Data-Platform-Engineer-_R166812",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:autodesk-26WD99684",
+    "externalId": "autodesk:26WD99684",
+    "source": "workday",
+    "title": "Associate Data Engineer",
+    "company": "Autodesk",
+    "location": "Singapore, SGP",
+    "remote": false,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Associate-Data-Engineer_26WD99684",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:autodesk-26WD97991",
+    "externalId": "autodesk:26WD97991",
+    "source": "workday",
+    "title": "Principal Data Engineer, User Success",
+    "company": "Autodesk",
+    "location": "Toronto, ON, CAN",
+    "remote": false,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:autodesk-26WD98052",
+    "externalId": "autodesk:26WD98052",
+    "source": "workday",
+    "title": "Principal Data Engineer, User Success (Agentic Experiences)",
+    "company": "Autodesk",
+    "location": "Toronto, ON, CAN",
+    "remote": false,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:autodesk-25WD89669",
+    "externalId": "autodesk:25WD89669",
+    "source": "workday",
+    "title": "Principal Data Engineer -General application",
+    "company": "Autodesk",
+    "location": "2 Locations",
+    "remote": false,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:48:03.283Z"
+  },
+  {
+    "id": "workday:salesforce-JR347383",
+    "externalId": "salesforce:JR347383",
+    "source": "workday",
+    "title": "PMTS - Principal Agentic Data Engineer",
+    "company": "Salesforce",
+    "location": "Mexico - Mexico City",
+    "remote": false,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:49:31.421Z"
+  },
+  {
+    "id": "workday:salesforce-JR338656",
+    "externalId": "salesforce:JR338656",
+    "source": "workday",
+    "title": "Lead Data Engineer (Lead Member of Technical Staff)",
+    "company": "Salesforce",
+    "location": "Mexico - Mexico City",
+    "remote": false,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Lead-Data-Engineer---Senior-Python---SQL_JR338656",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:49:31.421Z"
+  },
+  {
+    "id": "workday:salesforce-JR347388",
+    "externalId": "salesforce:JR347388",
+    "source": "workday",
+    "title": "Data Engineer (SMTS / LMTS) - MDM",
+    "company": "Salesforce",
+    "location": "4 Locations",
+    "remote": false,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Data-Engineer--SMTS---LMTS----MDM_JR347388",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-26T16:50:17.603Z"
+  }
+]

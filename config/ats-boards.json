@@ -1,0 +1,83 @@
+{
+  "greenhouse": [
+    { "token": "stripe", "company": "Stripe" },
+    { "token": "airbnb", "company": "Airbnb" },
+    { "token": "gitlab", "company": "GitLab" },
+    { "token": "discord", "company": "Discord" },
+    { "token": "cloudflare", "company": "Cloudflare" },
+    { "token": "figma", "company": "Figma" },
+    { "token": "anthropic", "company": "Anthropic" },
+    { "token": "robinhood", "company": "Robinhood" },
+    { "token": "datadog", "company": "Datadog" },
+    { "token": "coinbase", "company": "Coinbase" },
+    { "token": "pinterest", "company": "Pinterest" },
+    { "token": "lyft", "company": "Lyft" },
+    { "token": "twilio", "company": "Twilio" },
+    { "token": "dropbox", "company": "Dropbox" },
+    { "token": "airtable", "company": "Airtable" },
+    { "token": "reddit", "company": "Reddit" },
+    { "token": "duolingo", "company": "Duolingo" },
+    { "token": "instacart", "company": "Instacart" },
+    { "token": "affirm", "company": "Affirm" },
+    { "token": "brex", "company": "Brex" },
+    { "token": "scaleai", "company": "Scale AI" },
+    { "token": "block", "company": "Block" },
+    { "token": "linkedin", "company": "LinkedIn" }
+  ],
+  "workday": [
+    {
+      "company": "Workday",
+      "host": "workday.wd5.myworkdayjobs.com",
+      "tenant": "workday",
+      "site": "Workday"
+    },
+    {
+      "company": "NVIDIA",
+      "host": "nvidia.wd5.myworkdayjobs.com",
+      "tenant": "nvidia",
+      "site": "NVIDIAExternalCareerSite"
+    },
+    {
+      "company": "Salesforce",
+      "host": "salesforce.wd12.myworkdayjobs.com",
+      "tenant": "salesforce",
+      "site": "External_Career_Site"
+    },
+    {
+      "company": "Red Hat",
+      "host": "redhat.wd5.myworkdayjobs.com",
+      "tenant": "redhat",
+      "site": "jobs"
+    },
+    {
+      "company": "Adobe",
+      "host": "adobe.wd5.myworkdayjobs.com",
+      "tenant": "adobe",
+      "site": "external_experienced"
+    },
+    {
+      "company": "Autodesk",
+      "host": "autodesk.wd1.myworkdayjobs.com",
+      "tenant": "autodesk",
+      "site": "Ext"
+    }
+  ],
+  "lever": [
+    { "site": "spotify", "company": "Spotify" }
+  ],
+  "ashby": [
+    { "board": "notion", "company": "Notion" },
+    { "board": "linear", "company": "Linear" },
+    { "board": "ramp", "company": "Ramp" }
+  ],
+  "eightfold": [
+    { "domain": "nvidia.com", "company": "NVIDIA" },
+    { "domain": "capitalone.com", "company": "Capital One" },
+    { "domain": "visa.com", "company": "Visa" }
+  ],
+  "options": {
+    "maxJobsPerBoard": 100,
+    "workdayPageSize": 20,
+    "requestDelayMs": 250
+  }
+}

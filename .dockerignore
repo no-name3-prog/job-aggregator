@@ -1,0 +1,13 @@
+node_modules
+web/node_modules
+web/dist
+dist
+.git
+.env
+.env.*
+*.log
+.DS_Store
+data/store
+**/.vite
+**/*.md
+!README.md

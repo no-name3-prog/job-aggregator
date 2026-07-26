@@ -1,0 +1,9 @@
+# Use with: docker compose -f docker-compose.yml -f docker-compose.mongo.yml --profile mongo up --build -d
+services:
+  app:
+    environment:
+      MONGODB_URI: mongodb://mongo:27017
+      MONGODB_DB: job_aggregator
+    depends_on:
+      mongo:
+        condition: service_healthy

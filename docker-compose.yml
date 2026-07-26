@@ -1,0 +1,85 @@
+# DE Apply Tracker
+#
+# Quick start:
+#   docker compose up --build -d
+#   open http://localhost:8787
+#
+# Optional Mongo:
+#   docker compose --profile mongo up --build -d
+#   (set MONGODB_URI in .env or use default below)
+#
+# One-shot DE ingest + sync (uses same image):
+#   docker compose run --rm worker pipeline:de
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: app
+    image: job-aggregator:app
+    container_name: job-aggregator-app
+    ports:
+      - "${APP_PORT:-8787}:8787"
+    environment:
+      PORT: "8787"
+      CORS_ORIGIN: "${CORS_ORIGIN:-*}"
+      MONGODB_URI: "${MONGODB_URI:-}"
+      MONGODB_DB: "${MONGODB_DB:-job_aggregator}"
+    volumes:
+      # Persist local JSON store + job dumps
+      - app-data:/app/data
+      # Live ATS board config (optional host edit)
+      - ./config:/app/config:ro
+    restart: unless-stopped
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "node",
+          "-e",
+          "fetch('http://127.0.0.1:8787/api/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))",
+        ]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
+
+  # Same image, different command — run ingest/sync jobs
+  worker:
+    image: job-aggregator:app
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: app
+    profiles: ["worker"]
+    environment:
+      MONGODB_URI: "${MONGODB_URI:-}"
+      MONGODB_DB: "${MONGODB_DB:-job_aggregator}"
+    volumes:
+      - app-data:/app/data
+      - ./config:/app/config:ro
+    # override: docker compose run --rm worker npm run pipeline:de
+    entrypoint: ["npx", "tsx"]
+    command: ["src/flows/ingestDataEngineer.ts"]
+
+  # Optional free local Mongo (not required — app falls back to JSON store)
+  mongo:
+    image: mongo:7
+    profiles: ["mongo"]
+    container_name: job-aggregator-mongo
+    ports:
+      - "${MONGO_PORT:-27017}:27017"
+    volumes:
+      - mongo-data:/data/db
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 20s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
+
+volumes:
+  app-data:
+  mongo-data:
