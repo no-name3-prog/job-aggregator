@@ -1,10 +1,10 @@
 {
-  "lastCiIngestAt": "2026-07-26T18:06:44.382Z",
-  "runId": "30213015905",
+  "lastCiIngestAt": "2026-07-26T19:35:16.210Z",
+  "runId": "30216089374",
   "repository": "no-name3-prog/job-aggregator",
   "ref": "refs/heads/main",
   "actor": "no-name3-prog",
-  "event": "workflow_dispatch",
+  "event": "schedule",
   "hasMongo": true,
   "retentionDays": 15
 }
