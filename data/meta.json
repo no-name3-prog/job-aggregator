@@ -1,7 +1,7 @@
 {
-  "lastRunAt": "2026-07-26T19:05:46.704Z",
-  "durationMs": 50028,
-  "totalJobs": 3243,
+  "lastRunAt": "2026-07-26T21:56:47.029Z",
+  "durationMs": 44331,
+  "totalJobs": 3253,
   "sources": [
     {
       "source": "remotive",
@@ -10,8 +10,8 @@
     },
     {
       "source": "arbeitnow",
-      "fetched": 100,
-      "kept": 100
+      "fetched": 110,
+      "kept": 110
     },
     {
       "source": "jobicy",
