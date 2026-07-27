@@ -1,45 +1,23 @@
 [
   {
-    "id": "arbeitnow:data-engineer-all-genders-hamburg-214194",
-    "externalId": "data-engineer-all-genders-hamburg-214194",
-    "source": "arbeitnow",
-    "title": "Data Engineer (all genders)",
-    "company": "Vrame Consult Gmbh",
-    "location": "Hamburg",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/vrame-consult-gmbh/data-engineer-all-genders-hamburg-214194",
-    "description": "Deine Rolle bei uns Du machst aus komplexen Geo-, Sensor- und Infrastrukturdaten nutzbare Informationen. Von Punktwolken, Raster- und Vektordaten bis hin zu Befahrungs- und Befliegungsdaten entwickelst du leistungsfähige Datenlösungen und stellst sicher, dass räumliche Zusammenhänge, Datenqualität und fachliche Konsistenz jederzeit gewährleistet sind.\n Welche Aufgaben auf dich warten Entwicklung und Betrieb skalierbarer Datenlösungen für die Verarbeitung großer Geo-, Infrastruktur- und Sensordatenbestände im Bahninfrastruktur-Umfeld. Konzeption und Optimierung von Datenarchitekturen, Datenmodellen und Datenpipelines mit Fokus auf Performance, Qualität und Wiederverwendbarkeit für Analytics-, API- und KI-Anwendungen. Verarbeitung und Qualitätssicherung von Geodaten, einschließlich Lagebezug, Referenzsystemen sowie der Sicherstellung fachlicher Konsistenz über Systemgrenzen hinweg. Analyse und Interpretation komplexer Geodaten aus Befahrungen, Befliegungen, Sensorik und Infrastrukturquellen sowie Ableitung geeigneter Qualitäts- und Prüfmechanismen. Beratung von Produktmanagement, Architektur, Entwicklung und Fachbereichen bei der Bewertung von Datenquellen, technischen Lösungen und datengetriebenen Use Cases. Mitgestaltung eines stabilen und skalierbaren Produktivbetriebs durch die Berücksichtigung von Betriebs-, Monitoring-, Deployment- und Wartungsanforderungen.\n Was du mitbringst Mehrjährige Erfahrung im Data Engineering sowie in der Entwicklung und Optimierung leistungsfähiger Datenarchitekturen in Cloud-Umgebungen. Fundiertes Know-how im Umgang mit großen Datenmengen und deren effizienten Verarbeitung in produktionskritischen Systemen. Erfahrung in der Verarbeitung und Modellierung von Geodaten, z. B. Vektor-, Raster- oder Punktwolkendaten. Verständnis für den Betrieb skalierbarer Datenplattformen, einschließlich Monitoring, Logging, Stabilität und Wartbarkeit. Kenntnisse moderner DevOps- und CI/CD-Methoden zur Automatisierung von Build-, Test- und Deployment-Pr…",
+    "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
+    "externalId": "spotify:ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
+    "source": "lever",
+    "title": "Staff Data Engineer — Subscriptions User Understanding",
+    "company": "Spotify",
+    "location": "London",
+    "remote": true,
+    "url": "https://jobs.lever.co/spotify/ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
+    "description": "Spotify is on an ambitious path to reach one billion users and $100 billion in revenue, and the Subscriptions User Understanding team plays a key role in making that possible.\n Our team builds the foundational data platform that helps Spotify understand conversion, retention, engagement, and subscriber health for more than 200 million Premium subscribers around the world. We enable better decisions across analytics, experimentation, machine learning, and product development.\n We're looking for a Staff Data Engineer who combines deep technical expertise with strategic thinking. You'll help define the long-term direction of our data ecosystem, influence engineering across multiple teams, and build the foundations that will scale with Spotify's future.",
     "tags": [
-      "#daten",
-      "#IT-Lösungen",
-      "#geo",
-      "#infraHub",
-      "Experienced",
+      "Subscriptions R&D",
+      "Engineering",
       "Permanent",
-      "Full time"
+      "remote"
     ],
-    "jobType": "Experienced",
-    "postedAt": "2026-07-27T11:10:42.000Z",
-    "scrapedAt": "2026-07-27T16:56:10.136Z"
-  },
-  {
-    "id": "arbeitnow:remote-data-engineer-409534",
-    "externalId": "remote-data-engineer-409534",
-    "source": "arbeitnow",
-    "title": "Data Engineer (m/f/d)",
-    "company": "Jedox GmbH",
-    "location": "Germany remote",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/jedox-gmbh/remote-data-engineer-409534",
-    "description": "Find Jobs in Germany on Arbeitnow",
-    "tags": [
-      "Experienced",
-      "Permanent",
-      "Full time"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-07-27T11:09:40.000Z",
-    "scrapedAt": "2026-07-27T16:56:10.136Z"
+    "jobType": "Permanent",
+    "postedAt": "2026-07-27T17:30:15.579Z",
+    "scrapedAt": "2026-07-27T19:25:36.488Z"
   },
   {
     "id": "jobicy:142570",
@@ -58,7 +36,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-07-27T08:30:06.000Z",
-    "scrapedAt": "2026-07-27T16:56:10.199Z"
+    "scrapedAt": "2026-07-27T19:22:13.116Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -74,7 +52,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-07-27T16:56:10.635Z"
+    "scrapedAt": "2026-07-27T19:22:13.548Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -90,7 +68,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-07-27T16:56:10.635Z"
+    "scrapedAt": "2026-07-27T19:22:13.548Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -106,7 +84,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-07-27T16:56:10.635Z"
+    "scrapedAt": "2026-07-27T19:22:13.548Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -122,7 +100,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-07-27T16:56:10.635Z"
+    "scrapedAt": "2026-07-27T19:22:13.548Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -138,7 +116,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-07-27T16:56:10.635Z"
+    "scrapedAt": "2026-07-27T19:22:13.548Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -154,7 +132,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-07-27T16:56:10.635Z"
+    "scrapedAt": "2026-07-27T19:22:13.548Z"
   },
   {
     "id": "greenhouse:lyft-8605842002",
@@ -170,6 +148,22 @@
       "Pricing"
     ],
     "postedAt": "2026-06-24T15:02:28.000Z",
-    "scrapedAt": "2026-07-27T16:56:10.635Z"
+    "scrapedAt": "2026-07-27T19:22:13.548Z"
+  },
+  {
+    "id": "greenhouse:cloudflare-8007032",
+    "externalId": "cloudflare:8007032",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer",
+    "company": "Cloudflare",
+    "location": "In-Office",
+    "remote": false,
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8007032?gh_jid=8007032",
+    "description": "About Us\n At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.\n At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.\n Available Locations - Bengaluru, India\n About the Role\n The Data Intelligence & Analytics organization builds the core data platform and internal products that power decision-making across the company. We design and operate large-scale data systems, own the company’s data lake, ingestion infrastructure, and platform tooling, and develop end-to-end applications that transform complex datasets into fast, reliable, business-critical products used daily…",
+    "tags": [
+      "Business Intelligence"
+    ],
+    "postedAt": "2026-06-19T05:40:45.000Z",
+    "scrapedAt": "2026-07-27T19:22:13.548Z"
   }
 ]
