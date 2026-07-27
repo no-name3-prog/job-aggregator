@@ -17,7 +17,7 @@
     ],
     "jobType": "Mid",
     "postedAt": "2026-07-26T14:51:22.000Z",
-    "scrapedAt": "2026-07-26T21:56:47.655Z"
+    "scrapedAt": "2026-07-27T02:34:52.764Z"
   },
   {
     "id": "arbeitnow:remote-senior-azure-data-engineer-agentic-ai-platform-paderborn-486076",
@@ -37,7 +37,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-07-26T14:51:22.000Z",
-    "scrapedAt": "2026-07-26T21:56:47.655Z"
+    "scrapedAt": "2026-07-27T02:34:52.764Z"
   },
   {
     "id": "arbeitnow:remote-lead-azure-data-engineer-agentic-ai-platform-paderborn-239773",
@@ -57,7 +57,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-07-26T14:51:22.000Z",
-    "scrapedAt": "2026-07-26T21:56:47.655Z"
+    "scrapedAt": "2026-07-27T02:34:52.764Z"
   },
   {
     "id": "jobicy:144689",
@@ -76,26 +76,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-07-26T11:50:03.000Z",
-    "scrapedAt": "2026-07-26T21:56:47.696Z"
-  },
-  {
-    "id": "arbeitnow:intern-robot-teaching-vla-data-engineering-germany-munich-hq-479137",
-    "externalId": "intern-robot-teaching-vla-data-engineering-germany-munich-hq-479137",
-    "source": "arbeitnow",
-    "title": "Intern (m/f/d) Robot Teaching & VLA Data Engineering",
-    "company": "Agile Robots SE",
-    "location": "Germany, Munich (HQ)",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/agile-robots-se/intern-robot-teaching-vla-data-engineering-germany-munich-hq-479137",
-    "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
-    "tags": [
-      "Student",
-      "Intern",
-      "Full time"
-    ],
-    "jobType": "Student",
-    "postedAt": "2026-07-25T20:09:41.000Z",
-    "scrapedAt": "2026-07-26T21:56:47.655Z"
+    "scrapedAt": "2026-07-27T02:34:52.878Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -111,7 +92,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-07-26T21:56:48.177Z"
+    "scrapedAt": "2026-07-27T02:34:53.390Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -127,7 +108,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-07-26T21:56:48.177Z"
+    "scrapedAt": "2026-07-27T02:34:53.390Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -143,7 +124,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-07-26T21:56:48.177Z"
+    "scrapedAt": "2026-07-27T02:34:53.390Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -159,7 +140,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-07-26T21:56:48.177Z"
+    "scrapedAt": "2026-07-27T02:34:53.390Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -175,6 +156,22 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-07-26T21:56:48.177Z"
+    "scrapedAt": "2026-07-27T02:34:53.390Z"
+  },
+  {
+    "id": "greenhouse:coinbase-8024880",
+    "externalId": "coinbase:8024880",
+    "source": "greenhouse",
+    "title": "Analytics Engineer, GFCO Analytics",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "remote": true,
+    "url": "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n We're hiring an Analytics Engineer to join the GFCO Analytics Engineering team and build the data foundations that power customer experience and compliance operations at Coinbase. You'll own end-to-end data pipelines, develop trusted metrics, and enable CX stakeholders to make faster, better decisions with clean, reliable data. This is a high-impact role where you'll directly influence how we serve and protect our customers while scaling our analytics capabilities.\n What you'll do:\n Own the design, build, and maintenance of data models and pipelines that support CX operations, compliance reporting, and customer insights, ensuring data is accurate, timely, and well-documented.\n Partner with CX Operations, Compliance, and Product teams to translate business needs into data requirements and deliver self-serve analytics solutions that reduce manual effort.\n Build and maintain dashboards, metrics, and reporting tools that give CX leaders visibility into performance, customer trends, and compliance health.\n Drive data quality and governance within the CX data domain by implementing testing, monitoring, and documentation standards that ensure stakeholder trust in the data.\n Identify opportunities to automate recurring data workflows and reporting processes, shifting the team from reactive requests toward scalable, self-serve solutions.\n Collaborate with broader Data Engineering and A…",
+    "tags": [
+      "Customer Experience"
+    ],
+    "postedAt": "2026-06-25T23:35:31.000Z",
+    "scrapedAt": "2026-07-27T02:34:53.390Z"
   }
 ]
