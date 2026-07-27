@@ -1,63 +1,45 @@
 [
   {
-    "id": "arbeitnow:remote-azure-data-engineer-ii-agentic-ai-platform-paderborn-270575",
-    "externalId": "remote-azure-data-engineer-ii-agentic-ai-platform-paderborn-270575",
+    "id": "arbeitnow:data-engineer-all-genders-hamburg-214194",
+    "externalId": "data-engineer-all-genders-hamburg-214194",
     "source": "arbeitnow",
-    "title": "Azure Data Engineer II - Agentic AI Platform",
-    "company": "paiqo GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "url": "https://www.arbeitnow.com/jobs/companies/paiqo-gmbh/remote-azure-data-engineer-ii-agentic-ai-platform-paderborn-270575",
-    "description": "We digitize decisions with data—would you like to get involved?\n We shape our customers' data-driven future with scalable, secure, and automated Azure platforms. As a Professional Data Platform Engineer, you will be responsible for complex data pipelines: from zero-ETL replication of operational data (mirroring) to Delta Lake-based lakehouses. Our vision: self-service data access for all departments, supported by DataOps and governance.\n Tasks & Responsibilities:\n Planning, development, and maintenance of robust batch and streaming pipelines with Azure Data Factory, MS Fabric and Databricks\n Integration of new Azure features such as mirroring (zero ETL), Delta Live Tables, and Unity Catalog for centralized governance\n Automation of deployments and testing using CI/CD (Azure DevOps or GitHub Actions) and infrastructure as code (Bicep/Terraform)\n Ensuring data quality, lineage, and security—using Microsoft Purview and role-based access control\n Collaborating with data scientists, product owners, and customers to translate requirements into scalable data solutions\n Evaluating new services such as Lakeflow or Microsoft Fabric for productive use\n What we offer you\n Flexible working: Trust-based working hours, hybrid working, and remote working possible (residence in Germany)\n State-of-the-art technology stack: Work with Fabric, Delta Lake, Databricks, Mirroring—ideal for tech-savvy juniors\n Targeted further training: Working hours for training, certifications, and mentoring\n Innovation space: Opportunity to test new tools and frameworks and develop proof-of-concepts\n Diversity & inclusion: We welcome all applicants and promote an inclusive environment; your ideas are important to us\n Real influence: You can help shape technology decisions and contribute your ideas directly to product roadmaps\n If you want to take on responsibility, enjoy working with the latest Azure technology, and value an open, learning-oriented team culture, we look forward to receiving your applica…",
+    "title": "Data Engineer (all genders)",
+    "company": "Vrame Consult Gmbh",
+    "location": "Hamburg",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/vrame-consult-gmbh/data-engineer-all-genders-hamburg-214194",
+    "description": "Deine Rolle bei uns Du machst aus komplexen Geo-, Sensor- und Infrastrukturdaten nutzbare Informationen. Von Punktwolken, Raster- und Vektordaten bis hin zu Befahrungs- und Befliegungsdaten entwickelst du leistungsfähige Datenlösungen und stellst sicher, dass räumliche Zusammenhänge, Datenqualität und fachliche Konsistenz jederzeit gewährleistet sind.\n Welche Aufgaben auf dich warten Entwicklung und Betrieb skalierbarer Datenlösungen für die Verarbeitung großer Geo-, Infrastruktur- und Sensordatenbestände im Bahninfrastruktur-Umfeld. Konzeption und Optimierung von Datenarchitekturen, Datenmodellen und Datenpipelines mit Fokus auf Performance, Qualität und Wiederverwendbarkeit für Analytics-, API- und KI-Anwendungen. Verarbeitung und Qualitätssicherung von Geodaten, einschließlich Lagebezug, Referenzsystemen sowie der Sicherstellung fachlicher Konsistenz über Systemgrenzen hinweg. Analyse und Interpretation komplexer Geodaten aus Befahrungen, Befliegungen, Sensorik und Infrastrukturquellen sowie Ableitung geeigneter Qualitäts- und Prüfmechanismen. Beratung von Produktmanagement, Architektur, Entwicklung und Fachbereichen bei der Bewertung von Datenquellen, technischen Lösungen und datengetriebenen Use Cases. Mitgestaltung eines stabilen und skalierbaren Produktivbetriebs durch die Berücksichtigung von Betriebs-, Monitoring-, Deployment- und Wartungsanforderungen.\n Was du mitbringst Mehrjährige Erfahrung im Data Engineering sowie in der Entwicklung und Optimierung leistungsfähiger Datenarchitekturen in Cloud-Umgebungen. Fundiertes Know-how im Umgang mit großen Datenmengen und deren effizienten Verarbeitung in produktionskritischen Systemen. Erfahrung in der Verarbeitung und Modellierung von Geodaten, z. B. Vektor-, Raster- oder Punktwolkendaten. Verständnis für den Betrieb skalierbarer Datenplattformen, einschließlich Monitoring, Logging, Stabilität und Wartbarkeit. Kenntnisse moderner DevOps- und CI/CD-Methoden zur Automatisierung von Build-, Test- und Deployment-Pr…",
     "tags": [
-      "Paderborn",
-      "Remote",
-      "Mid",
-      "fulltime permanent"
-    ],
-    "jobType": "Mid",
-    "postedAt": "2026-07-26T14:51:22.000Z",
-    "scrapedAt": "2026-07-27T06:26:54.033Z"
-  },
-  {
-    "id": "arbeitnow:remote-senior-azure-data-engineer-agentic-ai-platform-paderborn-486076",
-    "externalId": "remote-senior-azure-data-engineer-agentic-ai-platform-paderborn-486076",
-    "source": "arbeitnow",
-    "title": "Senior Azure Data Engineer - Agentic AI Platform",
-    "company": "paiqo GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "url": "https://www.arbeitnow.com/jobs/companies/paiqo-gmbh/remote-senior-azure-data-engineer-agentic-ai-platform-paderborn-486076",
-    "description": "We digitize decisions with data—would you like to get involved?\n In the role of Senior Azure Data Engineer, you will design the architecture of modern lakehouse platforms and enable self-service data access. You will combine Azure services (OneLake, Fabric, Databricks, Mirroring) to create scalable end-to-end solutions and implement governance, security, and cost optimization strategies. Your work will lay the foundation for successful AI projects.\n Tasks & Responsibilities\n Architecture of lakehouse platforms with Fabric/OneLake, Synapse, and Delta Lake; introduction of zero-ETL data integration via mirroring\n Implementation of Unity Catalog for centralized data management and fine-grained access control, as well as integration with Purview\n Building DataOps frameworks: using Delta Live Tables, serverless SQL pools, and automated monitoring tools for performance and cost management\n Development of security and compliance concepts; integration of VNet, Private Link, Key Vault, and AD integration\n Mentoring of junior engineers, leading code reviews, assisting with architecture decisions\n Advising stakeholders on data strategy, technology selection, and business impact\n What we offer you\n Flexible working: Trust-based working hours, hybrid working, and remote working possible (residence in Germany)\n State-of-the-art technology stack: Work with Fabric, Delta Lake, Databricks, Mirroring—ideal for tech-savvy juniors\n Targeted further training: Working hours for training, certifications, and mentoring\n Innovation space: Opportunity to test new tools and frameworks and develop proof-of-concepts\n Diversity & inclusion: We welcome all applicants and promote an inclusive environment; your ideas are important to us\n Leadership influence : You will shape technical strategies, establish governance processes, and drive innovation in a rapidly growing team\n If you want to take on responsibility, enjoy working with the latest Azure technology, and value an open, learning-oriented…",
-    "tags": [
-      "Paderborn",
-      "Remote",
+      "#daten",
+      "#IT-Lösungen",
+      "#geo",
+      "#infraHub",
       "Experienced",
-      "fulltime permanent"
+      "Permanent",
+      "Full time"
     ],
     "jobType": "Experienced",
-    "postedAt": "2026-07-26T14:51:22.000Z",
-    "scrapedAt": "2026-07-27T06:26:54.033Z"
+    "postedAt": "2026-07-27T11:10:42.000Z",
+    "scrapedAt": "2026-07-27T12:19:16.304Z"
   },
   {
-    "id": "arbeitnow:remote-lead-azure-data-engineer-agentic-ai-platform-paderborn-239773",
-    "externalId": "remote-lead-azure-data-engineer-agentic-ai-platform-paderborn-239773",
+    "id": "arbeitnow:remote-data-engineer-409534",
+    "externalId": "remote-data-engineer-409534",
     "source": "arbeitnow",
-    "title": "Lead Azure Data Engineer - Agentic AI Platform",
-    "company": "paiqo GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "url": "https://www.arbeitnow.com/jobs/companies/paiqo-gmbh/remote-lead-azure-data-engineer-agentic-ai-platform-paderborn-239773",
-    "description": "We digitize decisions with data—would you like to get involved?\n As Lead Data Platform Engineer, you define the technical vision and strategy for data-driven platforms on Azure. You coordinate multiple projects, develop reference architectures, and ensure governance, compliance, and sustainability. With your expertise, you help ensure that our solutions provide the best foundation for AI and analytics initiatives.\n Tasks & Responsibilities:\n Development and implementation of the lakehouse strategy: Defining standards, roadmaps, and best practices for Fabric, Delta Lake, mirroring, and Unity Catalog\n Cross-project technical management: Harmonizing architectures, managing resources, monitoring quality standards and costs\n Evaluating innovative Azure features (LakeFlow, AI-powered pipeline designers, Fabric integrations) for productive use\n Conducting risk and compliance assessments; responsibility for data protection, security, and governance\n Leading and coaching teams; building a learning-oriented culture\n Active participation in pre-sales and strategic consulting; presenting solutions to C-level stakeholders\n What we offer you\n Flexible working: Trust-based working hours, hybrid working, and remote working possible (residence in Germany)\n State-of-the-art technology stack: Work with Fabric, Delta Lake, Databricks, Mirroring—ideal for tech-savvy juniors\n Targeted further training: Working hours for training, certifications, and mentoring\n Innovation space: Opportunity to test new tools and frameworks and develop proof-of-concepts\n Diversity & inclusion: We welcome all applicants and promote an inclusive environment; your ideas are important to us\n Leadership influence : You will shape technical strategies, establish governance processes, and drive innovation in a rapidly growing team\n If you want to take on responsibility, enjoy working with the latest Azure technology, and value an open, learning-oriented team culture, we look forward to receiving your application…",
+    "title": "Data Engineer (m/f/d)",
+    "company": "Jedox GmbH",
+    "location": "Germany remote",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/jedox-gmbh/remote-data-engineer-409534",
+    "description": "Find Jobs in Germany on Arbeitnow",
     "tags": [
-      "Paderborn",
-      "Remote",
       "Experienced",
-      "fulltime permanent"
+      "Permanent",
+      "Full time"
     ],
     "jobType": "Experienced",
-    "postedAt": "2026-07-26T14:51:22.000Z",
-    "scrapedAt": "2026-07-27T06:26:54.033Z"
+    "postedAt": "2026-07-27T11:09:40.000Z",
+    "scrapedAt": "2026-07-27T12:19:16.304Z"
   },
   {
     "id": "jobicy:144689",
@@ -76,7 +58,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-07-26T11:50:03.000Z",
-    "scrapedAt": "2026-07-27T06:26:54.078Z"
+    "scrapedAt": "2026-07-27T12:19:16.349Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -92,7 +74,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-07-27T06:26:54.473Z"
+    "scrapedAt": "2026-07-27T12:19:16.768Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -108,7 +90,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-07-27T06:26:54.473Z"
+    "scrapedAt": "2026-07-27T12:19:16.768Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -124,7 +106,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-07-27T06:26:54.473Z"
+    "scrapedAt": "2026-07-27T12:19:16.768Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -140,7 +122,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-07-27T06:26:54.473Z"
+    "scrapedAt": "2026-07-27T12:19:16.768Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -156,7 +138,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-07-27T06:26:54.473Z"
+    "scrapedAt": "2026-07-27T12:19:16.768Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -172,6 +154,22 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-07-27T06:26:54.473Z"
+    "scrapedAt": "2026-07-27T12:19:16.768Z"
+  },
+  {
+    "id": "greenhouse:lyft-8605842002",
+    "externalId": "lyft:8605842002",
+    "source": "greenhouse",
+    "title": "Data Engineer, Pricing",
+    "company": "Lyft",
+    "location": "Toronto, Canada",
+    "remote": false,
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8605842002?gh_jid=8605842002",
+    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n Pricing is at the core of Lyft’s business, driving revenue, balancing supply and demand, and shaping user experience through real-time and strategic decisions. The Pricing team builds and maintains the systems that determine what a ride should cost—incorporating demand forecasts, marketplace signals, promotions, cost models, and more.\n As a Data Engineer on the Pricing team, you will help build the data foundation that powers Lyft’s pricing strategies. You will architect, build, and maintain scalable data pipelines to support real-time pricing, experimentation, analytics, and modeling. Your work will enable integration with partner teams and allow stakeholders across Engineering, Data Science, and Product to make data-informed decisions that directly impact Lyft’s growth and profitability.\n Our technology stack is based on the latest technologies such as AWS, Kubernetes and Apache Airflow. You will work with incredibly passionate and talented colleagues from software engineering, machine learning and data science on projects that directly impact millions of riders and drivers.\n Responsibilities:\n Owner of the pricing data pipeline, responsible for scaling up data processing flow to meet the rapid data growth at Lyft\n Evolve data model and data schema based on business and engineering needs\n Implement systems tracking data quality and consistency\n Develop tools supporting self-service data pipeline management (ETL)\n SQL and MapReduce job tuning to improve data processing performance\n Write well-crafted, well-tested, readable, maintainable code\n Participate in code reviews to ensure code quality and distribute knowledge\n Unblock, support and communicate with internal & external partners to achieve results\n Experience:\n Bachelor's degree in Computer Science, Engineering, Mathematics, Statistics, or a…",
+    "tags": [
+      "Pricing"
+    ],
+    "postedAt": "2026-06-24T15:02:28.000Z",
+    "scrapedAt": "2026-07-27T12:19:16.768Z"
   }
 ]
