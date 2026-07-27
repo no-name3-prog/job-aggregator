@@ -1,87 +1,87 @@
 [
   {
-    "id": "arbeitnow:site-reliability-engineer-ai-healthcare-infrastructure-karlsruhe-447406",
-    "externalId": "site-reliability-engineer-ai-healthcare-infrastructure-karlsruhe-447406",
-    "source": "arbeitnow",
-    "title": "Site Reliability Engineer (m/w/d) - AI Healthcare Infrastructure",
-    "company": "Mediform GmbH",
-    "location": "Karlsruhe",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/mediform-gmbh/site-reliability-engineer-ai-healthcare-infrastructure-karlsruhe-447406",
-    "description": "Position\n Level: Experienced Engineer - typischerweise drei bis sechs Jahre relevante Produktionserfahrung\n Gehalt: 75.000-95.000 Euro brutto pro Jahr, abhängig von Erfahrung und Verantwortungsumfang\n Hybrid: Während der Einarbeitung zwei bis drei Tage pro Woche in Karlsruhe, danach je nach Standort flexibel, bevorzugt ein bis zwei Tage pro Woche\n Über Mediform\n Mediform ist ein Health-Tech-Startup aus Karlsruhe. Mit MediVoice entwickeln wir einen KI-basierten Telefonassistenten, der Anliegen in Arztpraxen und MVZ autonom bearbeitet - von der Terminvergabe bis zur Rezeptanfrage.\n Hinter jedem Anruf steht ein verteiltes System aus Telefonie, Echtzeit-Audioverarbeitung, KI-Diensten und Schnittstellen zu Praxisverwaltungssystemen. Genau hier kommst du ins Spiel.\n Warum wir diese Rolle schaffen\n Bisher haben die Engineers, die unser Produkt entwickeln, auch Infrastruktur, Observability und operative Schutzmechanismen aufgebaut. Mit unserem Wachstum schaffen wir nun erstmals eine dedizierte Reliability-Rolle: für eine Person, die Probleme eigenständig untersucht, fundierte Optionen erarbeitet und die gewählte Lösung verlässlich in Produktion bringt.\n Wir priorisieren Reliability-Themen gemeinsam. Du verantwortest Untersuchung, Entscheidungsgrundlage, Umsetzung und Follow-through. In den kommenden zwei bis drei Jahren kann dein Verantwortungsbereich mit wachsendem Kontext und Vertrauen bis zur übergreifenden Gestaltung der Reliability-Disziplin bei Mediform wachsen.\n Aufgaben\n Systeme robust machen: Du sorgst für Workload-Isolation, Redundanz, sinnvolles Autoscaling und passende Cluster-Kapazität - genug Reserven für Lastspitzen, ohne unnötig Ressourcen laufen zu lassen. Störungen sollen gar nicht erst zu Ausfällen werden.\n Bekannte Schwachstellen durchdringen: Du untersuchst bekannte Zuverlässigkeitsrisiken, sammelst belastbare Evidenz und bringst konkrete Handlungsoptionen mit.\n Lösungen umsetzen : Du baust Verbesserungen selbst - als Produktionscode, Infrastructure as…",
+    "id": "greenhouse:affirm-7817808003",
+    "externalId": "affirm:7817808003",
+    "source": "greenhouse",
+    "title": "Engineering Manager, Machine Learning Platform",
+    "company": "Affirm",
+    "location": "Remote Canada",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7817808003",
+    "description": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.\n We are seeking an Engineering Manager to lead our ML Training & Serving team. You will directly lead a team of platform engineers and combine effective people leadership with strong technical judgment in ML infrastructure. Working closely with senior ICs and partners across Machine Learning and Infrastructure, you will help shape the team’s roadmap, drive execution, and ensure the platform reliably supports Affirm’s ML priorities.\n What You'll Do\n Partner with senior ICs and engineering leadership to define and execute the roadmap for ML training & serving, spanning model training, deployment workflows, GPU infrastructure, and low-latency model serving.\n Lead, coach, and grow a team of platform engineers while staying closely engaged in technical decisions and execution.\n Drive delivery and operational health for the team’s infrastructure, balancing reliability, developer experience, performance, and cost.\n Evaluate and adopt modern ML infrastructure capabilities as Affirm’s needs evolve, including transformer-based workloads and GPU compute.\n Collaborate with ML modeling, product, and infrastructure teams to ensure the platform supports Affirm’s highest-priority ML initiatives.\n Recruit, develop, and retain high-performing platform engineers.\n What We Look For\n 7+ years of industry experience in software and/or machine learning engineering, including 2+ years managing engineers and meaningful hands-on software engineering experience.\n Strong experience building and operating production ML or distributed systems infrastructure, with hands-on experience in at least one of model training, model serving, deployment workflows, or GPU infrastructure.\n Solid understanding of ML data needs, including training datasets, data quality, reproducibility, and evaluation data.\n Familiarity with modern ML wor…",
     "tags": [
-      "Software Development",
-      "berufserfahren"
+      "Checkout"
     ],
-    "jobType": "berufserfahren",
-    "postedAt": "2026-07-27T12:00:53.000Z",
-    "scrapedAt": "2026-07-27T12:18:20.434Z"
+    "postedAt": "2026-07-27T16:28:39.000Z",
+    "scrapedAt": "2026-07-27T16:55:14.400Z"
   },
   {
-    "id": "arbeitnow:vertriebsleiter-head-of-sales-b2b-closing-bonn-465673",
-    "externalId": "vertriebsleiter-head-of-sales-b2b-closing-bonn-465673",
-    "source": "arbeitnow",
-    "title": "Vertriebsleiter / Head of Sales  B2B Closing (m/w/d)",
-    "company": "Adwise Media GmbH",
-    "location": "Bonn",
+    "id": "greenhouse:affirm-7817804003",
+    "externalId": "affirm:7817804003",
+    "source": "greenhouse",
+    "title": "Engineering Manager, Machine Learning Platform",
+    "company": "Affirm",
+    "location": "Remote US",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7817804003",
+    "description": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.\n We are seeking an Engineering Manager to lead our ML Training & Serving team. You will directly lead a team of platform engineers and combine effective people leadership with strong technical judgment in ML infrastructure. Working closely with senior ICs and partners across Machine Learning and Infrastructure, you will help shape the team’s roadmap, drive execution, and ensure the platform reliably supports Affirm’s ML priorities.\n What You'll Do\n Partner with senior ICs and engineering leadership to define and execute the roadmap for ML training & serving, spanning model training, deployment workflows, GPU infrastructure, and low-latency model serving.\n Lead, coach, and grow a team of platform engineers while staying closely engaged in technical decisions and execution.\n Drive delivery and operational health for the team’s infrastructure, balancing reliability, developer experience, performance, and cost.\n Evaluate and adopt modern ML infrastructure capabilities as Affirm’s needs evolve, including transformer-based workloads and GPU compute.\n Collaborate with ML modeling, product, and infrastructure teams to ensure the platform supports Affirm’s highest-priority ML initiatives.\n Recruit, develop, and retain high-performing platform engineers.\n What We Look For\n 7+ years of industry experience in software and/or machine learning engineering, including 2+ years managing engineers and meaningful hands-on software engineering experience.\n Strong experience building and operating production ML or distributed systems infrastructure, with hands-on experience in at least one of model training, model serving, deployment workflows, or GPU infrastructure.\n Solid understanding of ML data needs, including training datasets, data quality, reproducibility, and evaluation data.\n Familiarity with modern ML wor…",
+    "tags": [
+      "Checkout"
+    ],
+    "postedAt": "2026-07-27T16:27:14.000Z",
+    "scrapedAt": "2026-07-27T16:55:14.400Z"
+  },
+  {
+    "id": "greenhouse:scaleai-4716445005",
+    "externalId": "scaleai:4716445005",
+    "source": "greenhouse",
+    "title": "Enablement Manager (Support)",
+    "company": "Scale AI",
+    "location": "Mexico City, MX",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/adwise-media-gmbh/vertriebsleiter-head-of-sales-b2b-closing-bonn-465673",
-    "description": "Die AdWise Media GmbH ist spezialisiert auf innovative Werbeflächen direkt am Point of Sale. Mit unserer Kassenbandwerbung bringen wir regionale Unternehmen genau dorthin, wo täglich tausende potenzielle Kunden erreicht werden – direkt an die Supermarktkasse.\n Für unseren Standort in Bonn suchen wir einen erfahrenen und ambitionierten Vertriebsleiter:in / Head of Sales (m/w/d) , der Verantwortung für unser Vertriebsteam übernimmt und gemeinsam mit der Geschäftsführung unseren Vertrieb auf das nächste Level bringt.\n Bei uns erwartet dich kein Konzern mit langen Entscheidungswegen, sondern ein wachsendes Unternehmen mit kurzen Wegen, viel Verantwortung und echtem Gestaltungsspielraum.\n Aufgaben\n Als Vertriebsleiter übernimmst du die Verantwortung für die Performance unseres Vertriebsteams – und bleibst gleichzeitig selbst aktiv im Verkauf.\n Deine Aufgaben:\n Führung, Coaching und Weiterentwicklung unseres Vertriebsteam\n Eigenständiges Führen von Verkaufsgesprächen und Abschluss von Neukund\n Verantwortung für einen eigenen monatlichen Umsatz als Closer\n Übernahme qualifizierter und bereits terminierter Verkaufsgespräch\n Verantwortung für die Erreichung der individuellen und teamweiten Umsatzziel\n Steuerung unserer Setter und Closer anhand klar definierter KPI\n Regelmäßige Analyse von Calls und gezieltes Coaching der Vertriebsmitarbeite\n Durchführung von Sales-Meetings, 1:1s und Performance Review\n Analyse von Terminquote, Show-Rate, Closing-Rate, Durchschnittsumsatz und weiteren Sales-KPI\n Optimierung des gesamten Vertriebsprozesses vom Erstkontakt bis zum Vertragsabschlus\n Weiterentwicklung von Sales-Skripten, Einwandbehandlung und Closing-Strategie\n Sicherstellung einer sauberen CRM-Pipeline sowie verlässlicher Forecast\n Recruiting, Onboarding und Einarbeitung neuer Vertriebsmitarbeiter\n Enge Zusammenarbeit mit der Geschäftsführung bei Vertriebsstrategie und Skalierung\n Nutzung und Weiterentwicklung von KI- und Automatisierungslösungen im Vertrieb\n Die Position ist a…",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4716445005",
+    "description": "Role Summary\n The Support Enablement Manager builds and scales the training, onboarding, and quality-assurance programs that power a high-performing contributor-support team. The role owns the full enablement lifecycle — from designing and delivering onboarding curricula to formalizing QA frameworks that drive measurable improvement across the support organization. Enablement priorities are set in partnership with the Regional Manager; the Manager owns execution end to end within that scope and brings recommendations when scope needs to change. This is a hands-on leadership role: assess the landscape, prioritize, build the plan, lead a small team, and deliver results, working cross-functionally with Regional Managers, Team Managers, SMEs, and WFM.\n Key Responsibilities\n Own the enablement function end to end — assess gaps, prioritize initiatives, and drive them to completion within scope agreed with the Regional Manager; surface recommendations when scope should change.\n Onboarding & curriculum — own the end-to-end onboarding for new Support Specialists; design, build, and continuously improve structured training that reflects current workflows, tools, and contributor-experience standards, so agents ramp quickly and confidently.\n Coaching & development — build and maintain ongoing training across all tiers; partner with Team Managers to close skill gaps with targeted interventions that translate into performance improvement.\n Quality assurance — own the QA program: scorecard design, calibration, audits, and reporting; keep QA consistent, fair, and actionable, and require that quality feedback cite a current source document.\n Knowledge base / SSOT — own the support knowledge base and its review cadence so guides stay accurate and current, and retire stale content.\n Team leadership — lead, develop, and manage a small team of Enablement & QA Specialists; set priorities, coach, and keep the team unblocked and accountable to high-quality output.\n Cross-functional partne…",
+    "tags": [
+      "Gen AI Operations"
+    ],
+    "postedAt": "2026-07-27T16:14:34.000Z",
+    "scrapedAt": "2026-07-27T16:55:14.400Z"
+  },
+  {
+    "id": "arbeitnow:teamleitung-accounting-head-of-accounting-all-berlin-250571",
+    "externalId": "teamleitung-accounting-head-of-accounting-all-berlin-250571",
+    "source": "arbeitnow",
+    "title": "Teamleitung Accounting/Head of Accounting (all)",
+    "company": "selected heads GmbH",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/selected-heads-gmbh/teamleitung-accounting-head-of-accounting-all-berlin-250571",
+    "description": "Als spezialisierte Personalberatungsboutique bringen wir die besten Talente im Finanzbereich mit führenden Unternehmen in Berlin zusammen. Im Auftrag unseres Mandanten, einem Unternehmen aus dem Bereich eCommerce, suchen wir aktuell nach der passenden Persönlichkeit für die Position Teamleitung Accounting/Head of Accounting (all).\n Fühlen Sie sich angesprochen? Dann bewerben Sie sich jetzt!\n Aufgaben\n Leitung und Förderung des Buchhaltungsteams aus 3 Mitarbeitenden, um dabei eine positive und leistungsorientierte Teamkultur zu fördern, in der sich die Mitarbeitenden optimal einbringen und weiterentwickeln können\n Sie verantworten die Sicherstellung und Überwachung der Finanzbuchhaltung sowie die fristgerechte und ordnungsgemäße Erstellung der Monats- und Jahresabschlüsse nach HGB. Darüber hinaus gewährleisten Sie ein aussagekräftiges Reporting an das Management und den CFO.\n Sie treiben die Digitalisierung und Automatisierung der Finanz- und Buchhaltungsprozesse kontinuierlich voran und schaffen damit die Grundlage für mehr Effizienz, Transparenz und Skalierbarkeit.\n Sie verantworten das Cashflow-Management einschließlich der Liquiditätsplanung und -prognose und stellen ein nachhaltiges Working Capital Management sicher\n In enger Zusammenarbeit mit dem Controlling sorgen Sie für eine belastbare Finanzplanung, unterstützen Budget- und Forecast-Prozesse und analysieren finanzielle Abweichungen zur Ableitung geeigneter Maßnahmen.\n Sie koordinieren externe Jahresabschluss- und Steuerprüfungen und gewährleisten die Einhaltung aller handels-, steuer- und regulatorischen Anforderungen.\n Sie tragen die Verantwortung für die ordnungsgemäße Erstellung und fristgerechte Abgabe der steuerlichen Erklärungen, insbesondere im Bereich der Umsatz- und Ertragsteuern\n Als zentrale Schnittstelle arbeiten Sie eng mit den Bereichen Controlling, Operations, Sales und weiteren Fachabteilungen zusammen und fördern eine partnerschaftliche sowie lösungsorientierte Zusammenarbeit im Unternehm…",
     "tags": [
       "Management",
       "Team Leader",
-      "teamleitung"
+      "berufserfahren"
     ],
-    "jobType": "teamleitung",
-    "postedAt": "2026-07-27T12:00:53.000Z",
-    "scrapedAt": "2026-07-27T12:18:20.434Z"
+    "jobType": "berufserfahren",
+    "postedAt": "2026-07-27T16:00:31.000Z",
+    "scrapedAt": "2026-07-27T16:55:13.833Z"
   },
   {
-    "id": "arbeitnow:marketplace-manager-in-vollzeit-rottenburg-901",
-    "externalId": "marketplace-manager-in-vollzeit-rottenburg-901",
+    "id": "arbeitnow:marketing-manager-marketing-lead-global-b2b-munich-38139",
+    "externalId": "marketing-manager-marketing-lead-global-b2b-munich-38139",
     "source": "arbeitnow",
-    "title": "Marketplace Manager (m/w/d) in Vollzeit",
-    "company": "Kopp Verlag e.K.",
-    "location": "Rottenburg",
+    "title": "Marketing Manager / Marketing Lead, Global B2B",
+    "company": "Brinkdoor Ltd., London, Zweigniederlassung Erlenbach, Schweiz",
+    "location": "Munich",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/kopp-verlag-ek/marketplace-manager-in-vollzeit-rottenburg-901",
-    "description": "Karriere beim Kopp Verlag – wir suchen Verstärkung!\n Beim Kopp Verlag arbeiten Menschen, die auf ihre Art und Weise einzigartig sind und sich nicht mit den Informationen begnügen, die ihnen Tagesschau und Tageszeitung liefern. Bei uns werden mit Mut, Neugier und Leidenschaft politisch korrekte Denkbarrieren durchbrochen und so die Zukunft der Medienwelt kreativ mitgestaltet.\n Der Kopp Verlag hat in den zurückliegenden 30 Jahren unzählige Erfolgsgeschichten geschrieben. Auch in Zukunft werden wir hart daran arbeiten, unseren Lesern einen Blick hinter die Kulissen des Mainstreams zu ermöglichen. Sie sind eingeladen, aktiv an dieser Erfolgsgeschichte mitzuwirken!\n Die Medien befinden sich weltweit in einem starken Wandel. Die mit dem Internet und der veränderten Mediennutzung verbundenen Marktentwicklungen sind eine große Herausforderung, aber auch eine besondere Chance für neue Medien. Solche Veränderungen haben ihren Ursprung im Bewusstsein derer, die den Wandel gestalten wollen. Kommen Sie zu uns und gestalten Sie den Wandel aktiv mit!\n Sie sehen Ihre berufliche Zukunft in einem Medienhaus, in dem Sie persönlichen Erfolg mit einer sinnvollen Tätigkeit verbinden können? Sie möchten täglich dazu beitragen, unseren Kunden mit spannenden Büchern und Informationen »die Augen zu öffnen«? Und ihnen neben Büchern, Zeitschriften und elektronischen Medien zudem mit Produkten aus den Bereichen Nahrungsergänzungsmittel, Wohlbefinden und Kosmetik sowie Outdoor &#x26; Survival Mehrwert bieten? Sie wollen für Menschen und mit Menschen zusammenarbeiten und etwas bewegen? Nehmen Sie die Herausforderung an! Wir packen an, worüber wenig später alle diskutieren. Kommen Sie zu uns, wenn Sie mit Menschen arbeiten wollen, die eine eigene Meinung haben und die Freiheit lieben!\n Der Kopp Verlag bietet Ihnen spannende und herausfordernde Aufgaben sowie Entwicklungschancen in einem innovativen, wachsenden Medienunternehmen. Werden Sie Teil eines motivierten, dynamischen Teams mit kreativen I…",
+    "url": "https://www.arbeitnow.com/jobs/companies/brinkdoor-ltd-london-zweigniederlassung-erlenbach-schweiz/marketing-manager-marketing-lead-global-b2b-munich-38139",
+    "description": "Munich or London | Hybrid | Global remit\n Are you an experienced B2B marketer ready to move beyond simply delivering campaigns and take genuine ownership of a marketing function?\n I am partnering with an established, highly respected international business at an exciting point in its development. Following a recent management buyout and with ambitious global growth plans underway, they are looking for a Marketing Manager / Marketing Lead to help shape the next stage of their journey.\n This is a newly created, highly visible role, reporting directly to the CEO and working closely with the senior leadership team and Board.\n It is an unusual opportunity for someone who wants both strategic influence and hands-on ownership .\n Tasks\n You will take the lead in translating ambitious business growth plans into a clear and commercially focused marketing strategy.\n This isn't a role where you'll inherit a large corporate marketing machine.\n Instead, you'll have the opportunity to shape the direction of marketing, strengthen and evolve an established brand, support international expansion and new service launches, and gradually build the marketing capability around you.\n You'll work closely with an existing Marketing Executive who supports the tactical execution, while you provide the strategic direction, commercial thinking and senior stakeholder partnership.\n Your remit will include:\n Developing and delivering the overall marketing strategy in line with business objectives\n Acting as a trusted marketing adviser to the CEO, Board and senior leadership team\n Strengthening the company's positioning, messaging and external profile\n Supporting the launch of new services and expansion into new international markets\n Developing digital, social, content, PR and communications strategy\n Partnering with business leaders to turn marketing activity into tangible business-development opportunities\n Acting as guardian and ambassador of the brand globally\n Identifying opportunities to inc…",
     "tags": [
-      "Trade Marketing"
+      "Strategic Marketing",
+      "manager"
     ],
-    "postedAt": "2026-07-27T12:00:52.000Z",
-    "scrapedAt": "2026-07-27T12:18:20.434Z"
-  },
-  {
-    "id": "arbeitnow:fullstack-entwickler-mit-ki-affinitat-in-vollzeit-rottenburg-420509",
-    "externalId": "fullstack-entwickler-mit-ki-affinitat-in-vollzeit-rottenburg-420509",
-    "source": "arbeitnow",
-    "title": "Fullstack-Entwickler (m/w/d) mit KI-Affinität in Vollzeit",
-    "company": "Kopp Verlag e.K.",
-    "location": "Rottenburg",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/kopp-verlag-ek/fullstack-entwickler-mit-ki-affinitat-in-vollzeit-rottenburg-420509",
-    "description": "Beim Kopp Verlag arbeiten Menschen, die auf ihre Art und Weise einzigartig sind und sich nicht mit den Informationen begnügen, die ihnen Tagesschau und Tageszeitung liefern. Bei uns werden mit Mut, Neugier und Leidenschaft politisch korrekte Denkbarrieren durchbrochen und so die Zukunft der Medienwelt kreativ mitgestaltet.\n Der Kopp Verlag hat in den zurückliegenden 30 Jahren unzählige Erfolgsgeschichten geschrieben. Auch in Zukunft werden wir hart daran arbeiten, unseren Lesern einen Blick hinter die Kulissen des Mainstreams zu ermöglichen. Sie sind eingeladen, aktiv an dieser Erfolgsgeschichte mitzuwirken!\n Die Medien befinden sich weltweit in einem starken Wandel. Die mit dem Internet und der veränderten Mediennutzung verbundenen Marktentwicklungen sind eine große Herausforderung, aber auch eine besondere Chance für neue Medien. Solche Veränderungen haben ihren Ursprung im Bewusstsein derer, die den Wandel gestalten wollen. Kommen Sie zu uns und gestalten Sie den Wandel aktiv mit!\n Sie sehen Ihre berufliche Zukunft in einem Medienhaus und E-Commerce-Unternehmen, in dem Sie persönlichen Erfolg mit einer sinnvollen Tätigkeit verbinden können? Sie möchten täglich dazu beitragen, unseren Kunden mit spannenden Büchern und Informationen »die Augen zu öffnen«? Und ihnen neben Büchern, Zeitschriften und elektronischen Medien zudem mit Produkten aus den Bereichen Nahrungsergänzungsmittel, Wohlbefinden und Kosmetik sowie Outdoor &#x26; Survival Mehrwert bieten? Sie wollen für Menschen und mit Menschen zusammenarbeiten und etwas bewegen? Nehmen Sie die Herausforderung an! Wir packen an, worüber wenig später alle diskutieren. Kommen Sie zu uns, wenn Sie mit Menschen arbeiten wollen, die eine eigene Meinung haben und die Freiheit lieben!\n Der Kopp Verlag bietet Ihnen spannende und herausfordernde Aufgaben sowie Entwicklungschancen in einem innovativen, wachsenden Medienunternehmen. Werden Sie Teil eines motivierten, dynamischen Teams mit kreativen Ideen und anspruchsvollen L…",
-    "tags": [
-      "IT"
-    ],
-    "postedAt": "2026-07-27T12:00:52.000Z",
-    "scrapedAt": "2026-07-27T12:18:20.434Z"
-  },
-  {
-    "id": "arbeitnow:junior-controller-nuthe-urstromtal-477623",
-    "externalId": "junior-controller-nuthe-urstromtal-477623",
-    "source": "arbeitnow",
-    "title": "Junior Controller(m/w/d)",
-    "company": "coolback GmbH",
-    "location": "Nuthe-Urstromtal",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/coolback-gmbh/junior-controller-nuthe-urstromtal-477623",
-    "description": "Wir sind ein aufstrebendes Unternehmen mit klaren Zielen. Wir suchen nach talentierten und motivierten Menschen, die mit uns wachsen wollen. Damit unsere Unternehmensentwicklung auf einer soliden finanziellen Basis steht und wir unsere Ziele erreichen, suchen wir dich als Junior Controller.\n Aufgaben\n Mitwirkung bei der monatlichen Erstellung von Soll-Ist-Vergleichen, Abweichungsanalysen und Ad-hoc-Auswertungen für die Geschäftsführung und Fachabteilungen\n Unterstützung bei der Erstellung von Budgets, Forecasts und Wirtschaftlichkeitsberechnungen\n Mitarbeit bei Monats-, Quartals- und Jahresabschlüssen in enger Abstimmung mit der Buchhaltung\n Aufbereitung und Pflege von Kennzahlen für Produktion, Vertrieb und Logistik in Excel und Power BI\n Auswertung und Pflege von Stammdaten und Bewegungsdaten im ERP-System als Basis für belastbares Controlling\n Weiterentwicklung und Pflege bestehender Reporting-Strukturen in Power BI und LucaNet in einem produktionsnahen Unternehmensumfeld\n Unterstützung beim Einsatz von Effizienzsteigerung im Controlling\n Enge Zusammenarbeit mit Produktion, Vertrieb und Geschäftsführung als Business-Partner für betriebswirtschaftliche Fragestellungen\n Viel Gestaltungsfreiraum mit der Möglichkeit viel zu bewegen\n Qualifikation\n Erfolgreich abgeschlossenes Studium der Betriebswirtschaftslehre (z. B. Controlling, Finance, Wirtschaftswissenschaften) oder vergleichbare kaufmännische Ausbildung mit Zusatzqualifikation\n Erste praktische Erfahrung im Controlling in einem produzierenden Unternehmen, z. B. durch Praktika, Werkstudententätigkeit oder eine erste Berufsstation\n Sehr gute Excel-Kenntnisse; Erfahrung mit Power BI von Vorteil\n Erste Berührungspunkte mit ERP-Systemen und/oder Konsolidierungstools wie LucaNet wünschenswert\n Ausgeprägte analytische Fähigkeiten sowie hohe Zahlenaffinität\n Strukturierte, eigenständige und sorgfältige Arbeitsweise\n Kommunikationsstärke im Umgang mit unterschiedlichen Fachbereichen\n Interesse an neuen Technologien, in…",
-    "tags": [
-      "Finance"
-    ],
-    "postedAt": "2026-07-27T12:00:52.000Z",
-    "scrapedAt": "2026-07-27T12:18:20.434Z"
+    "jobType": "manager",
+    "postedAt": "2026-07-27T16:00:31.000Z",
+    "scrapedAt": "2026-07-27T16:55:13.833Z"
   }
 ]
