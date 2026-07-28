@@ -1,7 +1,7 @@
 [
   {
     "company": "Adobe",
-    "jobCount": 6,
+    "jobCount": 5,
     "sources": [
       "workday"
     ],
@@ -14,7 +14,6 @@
     "sampleTitles": [
       "Data Engineer",
       "Senior Data Engineer",
-      "Senior Data Engineer",
       "Data Platform Engineer",
       "Senior Data Engineer - Streaming, Kafka & AI Platforms",
       "Principal Scientist - Data Pipeline Engineer"
@@ -22,9 +21,9 @@
     "officialUrls": [
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-Engineer_R170274",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Engineer_R159981-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Science-Engineer_R169988",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-engineer_R166484-1"
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-engineer_R166484-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
     ]
   },
   {
@@ -120,26 +119,6 @@
       "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
       "https://job-boards.greenhouse.io/anthropic/jobs/5125387008",
       "https://job-boards.greenhouse.io/anthropic/jobs/4956672008"
-    ]
-  },
-  {
-    "company": "Coinbase",
-    "jobCount": 3,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "Remote - USA"
-    ],
-    "sampleTitles": [
-      "Senior Software Engineer, Data Engineering Platform",
-      "Analytics Engineer, GFCO Analytics",
-      "Senior Analytics Engineer (Platform - Financial Analytics)"
-    ],
-    "officialUrls": [
-      "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
-      "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
-      "https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521"
     ]
   },
   {
@@ -241,6 +220,24 @@
     ]
   },
   {
+    "company": "Coinbase",
+    "jobCount": 2,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "Remote - USA"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer, GFCO Analytics",
+      "Senior Analytics Engineer (Platform - Financial Analytics)"
+    ],
+    "officialUrls": [
+      "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
+      "https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521"
+    ]
+  },
+  {
     "company": "Lyft",
     "jobCount": 2,
     "sources": [
@@ -292,6 +289,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/affirm/jobs/7764109003"
+    ]
+  },
+  {
+    "company": "Agile Defense",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Stuttgart, Germany"
+    ],
+    "sampleTitles": [
+      "Data Engineer - AFRICOM"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/agile-defense/data-engineer-africom-stuttgart-germany-50591"
     ]
   },
   {
