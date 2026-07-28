@@ -27,6 +27,33 @@
     ]
   },
   {
+    "company": "NVIDIA",
+    "jobCount": 5,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "US, CA, Santa Clara",
+      "Israel, Yokneam",
+      "2 Locations",
+      "4 Locations"
+    ],
+    "sampleTitles": [
+      "Supply Chain Data Engineer",
+      "Senior Data Engineer, PE",
+      "Senior Interconnect Product Data Engineer",
+      "Senior Data Engineer - Financial Transactions & Automation",
+      "Principal Security Data Engineer, Infrastructure Security Engineering - DGX Cloud"
+    ],
+    "officialUrls": [
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Supply-Chain-Data-Engineer_JR2021179",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Data-Engineer--PE_JR2021331",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Interconnect-Product-Data-Engineer_JR2021975",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer---Financial-Transactions---Automation_JR2009512",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Security-Data-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2019415"
+    ]
+  },
+  {
     "company": "Salesforce",
     "jobCount": 5,
     "sources": [
@@ -73,31 +100,6 @@
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
-    ]
-  },
-  {
-    "company": "NVIDIA",
-    "jobCount": 4,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "US, CA, Santa Clara",
-      "Israel, Yokneam",
-      "2 Locations",
-      "4 Locations"
-    ],
-    "sampleTitles": [
-      "Supply Chain Data Engineer",
-      "Senior Data Engineer, PE",
-      "Senior Data Engineer - Financial Transactions & Automation",
-      "Principal Security Data Engineer, Infrastructure Security Engineering - DGX Cloud"
-    ],
-    "officialUrls": [
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Supply-Chain-Data-Engineer_JR2021179",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Data-Engineer--PE_JR2021331",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer---Financial-Transactions---Automation_JR2009512",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Security-Data-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2019415"
     ]
   },
   {
@@ -161,25 +163,6 @@
       "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
       "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---AI-ML-SME_JR-0107814",
       "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Principal-Analytics-Engineer_JR-0107883"
-    ]
-  },
-  {
-    "company": "Airbnb",
-    "jobCount": 2,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "United States",
-      "Bangalore, India"
-    ],
-    "sampleTitles": [
-      "Senior Staff Data Engineer - Data Stewardship",
-      "Senior Data Engineer, BizTech"
-    ],
-    "officialUrls": [
-      "https://careers.airbnb.com/positions/7998356?gh_jid=7998356",
-      "https://careers.airbnb.com/positions/7640881?gh_jid=7640881"
     ]
   },
   {
@@ -321,6 +304,22 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.com/jobs/companies/agile-defense/data-engineer-africom-stuttgart-germany-50591"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "jobCount": 1,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "sampleTitles": [
+      "Senior Staff Data Engineer - Data Stewardship"
+    ],
+    "officialUrls": [
+      "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
     ]
   },
   {
