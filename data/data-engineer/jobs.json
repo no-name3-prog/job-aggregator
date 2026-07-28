@@ -1,36 +1,75 @@
 [
   {
-    "id": "arbeitnow:data-platform-engineer-mid-level-berlin-231606",
-    "externalId": "data-platform-engineer-mid-level-berlin-231606",
-    "source": "arbeitnow",
-    "title": "Data Platform Engineer (Mid-Level) (m/f/d)",
-    "company": "Flix",
-    "location": "Berlin, Berlin, Germany",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/flix/data-platform-engineer-mid-level-berlin-231606",
-    "description": "We're looking for a Data Platform Engineer (m/f/d) to join our team and help build and operate the data infrastructure that powers Flix's mobility platform.\n At FlixTech, our data platform enables teams across the company to process, analyze, and act on large volumes of mobility data. The platform supports critical use cases such as network planning, pricing, operations, and business analytics. You will work on scalable infrastructure that processes millions of daily events and ensures reliable data availability across the organization.\n You'll be part of a cross-functional engineering environment collaborating with data analysts, data scientists, and platform engineers. The role focuses on building reliable, scalable data systems and enabling other teams to work efficiently with data.\n About the Role\n Design, build, and maintain scalable data infrastructure running on AWS and Kubernetes\n Develop and operate streaming and data platform components using technologies such as Kafka and Snowflake\n Implement monitoring, alerting, and operational tooling to ensure platform reliability and performance\n Own features end-to-end, including development, testing, deployment, monitoring, and maintenance\n Build and maintain Infrastructure as Code using Terraform and GitLab CI/CD\n Collaborate with data analysts, data scientists, and stakeholders to support data platform use cases\n Contribute to improving platform reliability, automation, and engineering practices\n Participate in on-call rotations to support the stability of the data platform\n About You\n 3+ years of experience building or operating data infrastructure or data platforms\n Hands-on experience with streaming technologies such as Kafka and data warehouses like Snowflake\n Experience with Infrastructure as Code tools (e.g., Terraform) and CI/CD pipelines (e.g., GitLab)\n Practical experience with cloud platforms (preferably AWS) and container platforms such as Kubernetes\n Experience with monitoring and observability tools…",
-    "tags": [],
-    "postedAt": "2026-07-28T06:45:24.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.110Z"
+    "id": "greenhouse:twilio-8044650",
+    "externalId": "twilio:8044650",
+    "source": "greenhouse",
+    "title": "Senior Analytics Engineer",
+    "company": "Twilio",
+    "location": "Remote - US",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8044650",
+    "description": "Who we are\n At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.\n Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.\nWe use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!\n .\n See yourself at Twilio\n Join the team as Twilio’s next Sr. Analytics Engineer, R&D.\n About the job\n This position is needed to advance the consistency & quality of our R&D analytics data layer and accelerate the development velocity of analysts. Our Data Science and Analytics team seeks to empower R&D to make data-backed decisions that accelerate innovation and improve product performance. You will work closely within our team and across Product & Engineering to design and maintain a robust analytics data layer that enables trusted reporting on R&D metrics.\n Responsibilities\n In this role, you’ll:\n Design and implement a formal analytics data layer using AWS Glue, Athena / Presto, and LookML\n Collaborate within the Data Science & Analytics team and across Product & Engineering to define, document, and maintain alignment on metric definition and data lineage\n Develop and maintain automated data reconciliation and quality checks to proactively identify and resolve discrepancies, ensuring accuracy and consistency of critical reports and dashboards\n Lead investigations into complex data anomalies, conduct root cause analysis, and communicate findings and solutions effectively to both te…",
+    "tags": [
+      "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
+    ],
+    "postedAt": "2026-07-28T16:12:27.000Z",
+    "scrapedAt": "2026-07-28T16:39:37.145Z"
   },
   {
-    "id": "arbeitnow:junior-data-engineer-data-platform-berlin-266979",
-    "externalId": "junior-data-engineer-data-platform-berlin-266979",
+    "id": "arbeitnow:senior-data-engineer-berlin-296119",
+    "externalId": "senior-data-engineer-berlin-296119",
     "source": "arbeitnow",
-    "title": "(Junior) Data Engineer - Data Platform (m/f/d)",
-    "company": "1KOMMA5˚",
+    "title": "Senior Data Engineer (m/w/d)",
+    "company": "ANGEHEUERT GmbH",
     "location": "Berlin",
-    "remote": true,
-    "url": "https://www.arbeitnow.com/jobs/companies/1komma50/junior-data-engineer-data-platform-berlin-266979",
-    "description": "1KOMMA5°\n At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it?\n We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as isolated components, but control them as an intelligent, integrated overall system in our virtual power plant. Directly connected to the electricity market – in real time, fully automated. This way, energy is used when it is available from renewables and particularly cost-effective. By 2030, our goal is to transition 1.5 million households to renewable energies. Over 3,000 people are working towards this every day, at more than 80 locations worldwide, from Finland to Australia.\n Want to take responsibility and build solutions that truly matter? Apply now and help us shape the energy world of tomorrow.\n Become a part of our mission and learn about our Product &#x26; Tech team!\n Deine Position\n The data platform team designs and builds the foundation of how data flows through our company. Together with your team, you will forge new ways to ingest, process, store and deliver data both at scale and complexity. We focus on building tools that enable our internal customers to find, access and investigate data for any of their use cases.\n Key responsibilities include but are not limited to:\n Architect, develop, and manage the data platform to support efficient data ingestion, transformation, quality assurance, monitoring, and accessibility\n Collaborate closely with cross-functional teams to understand data needs\n Technologies you will work with include:\n Google Cloud Platform (CloudRun, BigQuery, Pub/Sub, Dataform, etc.)\n SQLMesh\n Terraform / Terramate\n GitHub Actions\n Python and SQL\n Looker\n Dein Profil\n Proven experience (2+ years) in a data engineering role, preferably within a fast-paced tech company or similar environment\n Strong u…",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/senior-data-engineer-berlin-296119",
+    "description": "Du möchtest nicht nur Daten verarbeiten, sondern eine moderne Datenplattform entwickeln, die Analysen, Reporting und datengetriebene Entscheidungen im gesamten Unternehmen ermöglicht?\n Dann könnte diese Position genau das Richtige für dich sein.\n Unser Kunde, ein  dynamisch wachsende E-Commerce Service Agentur in Berlin , zählt zu den erfolgreichsten Amazon-Händlern Deutschlands und vertreibt tausende Produkte\n Für den weiteren Ausbau der Data & Analytics Landschaft wird eine Persönlichkeit gesucht, die moderne Datenarchitekturen entwickelt und den Weg zu einer datengetriebenen Organisation aktiv mitgestaltet\n Deine Benefits Attraktive Vergütung:  Ein leistungsgerechtes Fixgehalt, das deiner Erfahrung und Qualifikation entspricht.\n Flexibles Arbeiten:  Hybrides Arbeitsmodell mit 2 Home-Office Tagen, einer 40-Stunden-Woche, Gleitzeit mit Arbeitsbeginn zwischen 6:00 und 10:00 Uhr.\n Langfristige Sicherheit:  Unbefristeter Arbeitsvertrag sowie 30 Urlaubstage in einem wirtschaftlich erfolgreichen und zukunftssicheren Unternehmen.\n Weiterentwicklung:  Ob fachlich oder persönlich – deine Entwicklung wird aktiv gefördert und langfristig begleitet.\n Modernes Arbeitsumfeld:  Freue dich auf ein modernes Büro im Berliner Bezirk Lichtenberg.\n Mobilität:  Ob mit den öffentlichen Verkehrsmitteln oder dem Auto – profitiere von einem bezuschussten Jobticket oder kostenlosen Parkplätzen direkt am Büro.\n Teamkultur:  Flache Hierarchien, offene Kommunikation, eine gelebte Du-Kultur und regelmäßige Team- sowie Firmenevents wie „Grill & Chill“ sorgen für ein starkes Miteinander.\n Verpflegung:  Kostenlose Getränke sowie frisches Obst stehen dir im Arbeitsalltag jederzeit zur Verfügung.\n Mitarbeitervorteile:  Profitiere von attraktiven Mitarbeiterrabatten auf das Sortiment sowie weiteren Corporate Benefits.\n Deine Aufgaben Als Data Engineer entwickelst und betreibst du moderne Datenplattformen in Microsoft Azure und Microsoft Fabric und sorgst dafür, dass hochwertige Daten zuverlässig für…",
     "tags": [
-      "Remote",
-      "Software Development",
-      "professional / experienced"
+      "Information technology",
+      "vocational",
+      "Full-time permanent",
+      "experienced"
     ],
-    "jobType": "professional / experienced",
-    "postedAt": "2026-07-28T06:30:30.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.110Z"
+    "jobType": "Full-time permanent",
+    "postedAt": "2026-07-28T15:20:16.000Z",
+    "scrapedAt": "2026-07-28T16:39:36.678Z"
+  },
+  {
+    "id": "arbeitnow:data-platform-engineer-berlin-273541",
+    "externalId": "data-platform-engineer-berlin-273541",
+    "source": "arbeitnow",
+    "title": "Data Platform Engineer (m/w/d)",
+    "company": "ANGEHEUERT GmbH",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/data-platform-engineer-berlin-273541",
+    "description": "Du möchtest nicht nur Daten verarbeiten, sondern eine moderne Datenplattform entwickeln, die Analysen, Reporting und datengetriebene Entscheidungen im gesamten Unternehmen ermöglicht?\n Dann könnte diese Position genau das Richtige für dich sein.\n Unser Kunde, ein  dynamisch wachsende E-Commerce Service Agentur in Berlin , zählt zu den erfolgreichsten Amazon-Händlern Deutschlands und vertreibt tausende Produkte\n Für den weiteren Ausbau der Data & Analytics Landschaft wird eine Persönlichkeit gesucht, die moderne Datenarchitekturen entwickelt und den Weg zu einer datengetriebenen Organisation aktiv mitgestaltet\n Deine Benefits Attraktive Vergütung:  Ein leistungsgerechtes Fixgehalt, das deiner Erfahrung und Qualifikation entspricht.\n Flexibles Arbeiten:  Hybrides Arbeitsmodell mit 2 Home-Office Tagen, einer 40-Stunden-Woche, Gleitzeit mit Arbeitsbeginn zwischen 6:00 und 10:00 Uhr.\n Langfristige Sicherheit:  Unbefristeter Arbeitsvertrag sowie 30 Urlaubstage in einem wirtschaftlich erfolgreichen und zukunftssicheren Unternehmen.\n Weiterentwicklung:  Ob fachlich oder persönlich – deine Entwicklung wird aktiv gefördert und langfristig begleitet.\n Modernes Arbeitsumfeld:  Freue dich auf ein modernes Büro im Berliner Bezirk Lichtenberg.\n Mobilität:  Ob mit den öffentlichen Verkehrsmitteln oder dem Auto – profitiere von einem bezuschussten Jobticket oder kostenlosen Parkplätzen direkt am Büro.\n Teamkultur:  Flache Hierarchien, offene Kommunikation, eine gelebte Du-Kultur und regelmäßige Team- sowie Firmenevents wie „Grill & Chill“ sorgen für ein starkes Miteinander.\n Verpflegung:  Kostenlose Getränke sowie frisches Obst stehen dir im Arbeitsalltag jederzeit zur Verfügung.\n Mitarbeitervorteile:  Profitiere von attraktiven Mitarbeiterrabatten auf das Sortiment sowie weiteren Corporate Benefits.\n Deine Aufgaben Als Data Engineer entwickelst und betreibst du moderne Datenplattformen in Microsoft Azure und Microsoft Fabric und sorgst dafür, dass hochwertige Daten zuverlässig für…",
+    "tags": [
+      "Information technology",
+      "vocational",
+      "Full-time permanent",
+      "experienced"
+    ],
+    "jobType": "Full-time permanent",
+    "postedAt": "2026-07-28T15:20:16.000Z",
+    "scrapedAt": "2026-07-28T16:39:36.678Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-berlin-32772",
+    "externalId": "data-engineer-berlin-32772",
+    "source": "arbeitnow",
+    "title": "Data Engineer (m/w/d)",
+    "company": "ANGEHEUERT GmbH Personalberatung",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh-personalberatung/data-engineer-berlin-32772",
+    "description": "Du möchtest nicht nur Daten verarbeiten, sondern eine moderne Datenplattform entwickeln, die Analysen, Reporting und datengetriebene Entscheidungen im gesamten Unternehmen ermöglicht?\n Dann könnte diese Position genau das Richtige für dich sein.\n Unser Kunde, ein dynamisch wachsende E-Commerce Service Agentur in Berlin , zählt zu den erfolgreichsten Amazon-Händlern Deutschlands und vertreibt tausende Produkte\n Für den weiteren Ausbau der Data &#x26; Analytics Landschaft wird eine Persönlichkeit gesucht, die moderne Datenarchitekturen entwickelt und den Weg zu einer datengetriebenen Organisation aktiv mitgestaltet\n Aufgaben\n Als Data Engineer entwickelst und betreibst du moderne Datenplattformen in Microsoft Azure und Microsoft Fabric und sorgst dafür, dass hochwertige Daten zuverlässig für Analysen, Reporting und Machine-Learning-Anwendungen bereitstehen.\n Data Engineering: Konzeption, Entwicklung und kontinuierliche Weiterentwicklung moderner Datenpipelines in Microsoft Azure und Microsoft Fabric.\n Datenqualität: Sicherstellung einer hohen Datenqualität, Vollständigkeit und Reproduzierbarkeit sowie Implementierung effizienter inkrementeller Datenladeprozesse.\n Datenintegration: Entwicklung und Pflege effizienter ETL-/ELT-Prozesse sowie API-basierter Datenintegrationen.\n Plattformbetrieb: Entwicklung robuster Monitoring-, Logging- und Fehlerbehandlungskonzepte sowie kontinuierliche Optimierung von Performance, Kosten und Datenworkflows.\n Data Architecture: Mitarbeit am Aufbau einer skalierbaren Datenarchitektur inklusive Test-, Staging- und Produktionsumgebungen sowie moderner Technologien wie CI/CD, Fabric Pipelines, dbt oder Airflow.\n Zusammenarbeit: Enge Abstimmung mit dem Head of Data &#x26; Analytics und den Data Analysts zur Bereitstellung hochwertiger Daten für Power BI Dashboards und Machine-Learning-Modelle.\n Qualifikation\n Mindestens 3–5 Jahre Berufserfahrung im Aufbau und Betrieb von Datenpipelines oder Datenplattformen – idealerweise auf Senior-Level, m…",
+    "tags": [
+      "IT"
+    ],
+    "postedAt": "2026-07-28T13:30:29.000Z",
+    "scrapedAt": "2026-07-28T16:39:36.678Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -50,7 +89,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-07-28T14:01:04.652Z"
+    "scrapedAt": "2026-07-28T16:43:30.833Z"
   },
   {
     "id": "jobicy:142570",
@@ -69,7 +108,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-07-27T08:30:06.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.183Z"
+    "scrapedAt": "2026-07-28T16:39:36.751Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -85,7 +124,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.845Z"
+    "scrapedAt": "2026-07-28T16:39:37.145Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -101,7 +140,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.845Z"
+    "scrapedAt": "2026-07-28T16:39:37.145Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -117,7 +156,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.845Z"
+    "scrapedAt": "2026-07-28T16:39:37.145Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -133,7 +172,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.845Z"
+    "scrapedAt": "2026-07-28T16:39:37.145Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -149,7 +188,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.845Z"
+    "scrapedAt": "2026-07-28T16:39:37.145Z"
   },
   {
     "id": "greenhouse:lyft-8605842002",
@@ -165,7 +204,7 @@
       "Pricing"
     ],
     "postedAt": "2026-06-24T15:02:28.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.845Z"
+    "scrapedAt": "2026-07-28T16:39:37.145Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -181,7 +220,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.845Z"
+    "scrapedAt": "2026-07-28T16:39:37.145Z"
   },
   {
     "id": "greenhouse:stripe-8013220",
@@ -197,7 +236,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-06-17T17:52:36.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.845Z"
+    "scrapedAt": "2026-07-28T16:39:37.145Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -213,7 +252,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.845Z"
+    "scrapedAt": "2026-07-28T16:39:37.145Z"
   },
   {
     "id": "greenhouse:lyft-8594129002",
@@ -229,7 +268,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-06-16T23:45:54.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.845Z"
+    "scrapedAt": "2026-07-28T16:39:37.145Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -245,7 +284,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.845Z"
+    "scrapedAt": "2026-07-28T16:39:37.145Z"
   },
   {
     "id": "lever:spotify-08d82da1-0c72-44d1-91eb-7fa22dee3d39",
@@ -265,7 +304,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-05-13T15:23:52.322Z",
-    "scrapedAt": "2026-07-28T14:01:04.652Z"
+    "scrapedAt": "2026-07-28T16:43:30.833Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -281,7 +320,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.845Z"
+    "scrapedAt": "2026-07-28T16:39:37.145Z"
   },
   {
     "id": "lever:spotify-4303f795-d0a5-41ed-8c78-0941780b6e54",
@@ -301,7 +340,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-04-20T19:31:08.951Z",
-    "scrapedAt": "2026-07-28T14:01:04.652Z"
+    "scrapedAt": "2026-07-28T16:43:30.833Z"
   },
   {
     "id": "ashby:notion-a1216dba-e175-4a3d-b712-401c9fbdcd92",
@@ -320,7 +359,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-04-14T18:14:37.287Z",
-    "scrapedAt": "2026-07-28T14:01:05.409Z"
+    "scrapedAt": "2026-07-28T16:43:32.128Z"
   },
   {
     "id": "greenhouse:coinbase-7736521",
@@ -336,7 +375,7 @@
       "Data Engineering"
     ],
     "postedAt": "2026-03-31T00:37:32.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.845Z"
+    "scrapedAt": "2026-07-28T16:39:37.145Z"
   },
   {
     "id": "greenhouse:anthropic-5125387008",
@@ -352,7 +391,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-02-20T00:49:54.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.845Z"
+    "scrapedAt": "2026-07-28T16:39:37.145Z"
   },
   {
     "id": "greenhouse:stripe-7548037",
@@ -368,7 +407,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-01-20T05:58:11.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.845Z"
+    "scrapedAt": "2026-07-28T16:39:37.145Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -384,7 +423,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.845Z"
+    "scrapedAt": "2026-07-28T16:39:37.145Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -400,7 +439,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.845Z"
+    "scrapedAt": "2026-07-28T16:39:37.145Z"
   },
   {
     "id": "greenhouse:figma-5220003004",
@@ -416,7 +455,7 @@
       "Engineering"
     ],
     "postedAt": "2024-07-08T16:15:29.000Z",
-    "scrapedAt": "2026-07-28T13:57:23.845Z"
+    "scrapedAt": "2026-07-28T16:39:37.145Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -432,7 +471,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:workday-JR-0107814",
@@ -448,7 +487,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:workday-JR-0107883",
@@ -464,7 +503,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:nvidia-JR2021179",
@@ -478,7 +517,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:nvidia-JR2021331",
@@ -492,7 +531,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -506,7 +545,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:nvidia-JR2009512",
@@ -520,7 +559,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:nvidia-JR2019415",
@@ -534,7 +573,21 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
+  },
+  {
+    "id": "workday:salesforce-JR338656",
+    "externalId": "salesforce:JR338656",
+    "source": "workday",
+    "title": "Lead Data Engineer (Lead Member of Technical Staff)",
+    "company": "Salesforce",
+    "location": "Mexico - Mexico City",
+    "remote": false,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Lead-Data-Engineer---Senior-Python---SQL_JR338656",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:salesforce-JR353004",
@@ -548,7 +601,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -562,7 +615,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:redhat-R-058408",
@@ -578,7 +631,7 @@
       "Remote"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:adobe-R170274",
@@ -592,7 +645,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:adobe-R159981",
@@ -606,7 +659,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:adobe-R169536",
@@ -620,7 +673,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:adobe-R166484",
@@ -634,7 +687,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -648,7 +701,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:autodesk-26WD100084",
@@ -662,7 +715,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -676,7 +729,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -690,7 +743,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -704,7 +757,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:57:31.863Z"
+    "scrapedAt": "2026-07-28T16:40:13.835Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -718,21 +771,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:58:56.415Z"
-  },
-  {
-    "id": "workday:salesforce-JR338656",
-    "externalId": "salesforce:JR338656",
-    "source": "workday",
-    "title": "Lead Data Engineer (Lead Member of Technical Staff)",
-    "company": "Salesforce",
-    "location": "Mexico - Mexico City",
-    "remote": false,
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Lead-Data-Engineer---Senior-Python---SQL_JR338656",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-07-28T13:58:56.415Z"
+    "scrapedAt": "2026-07-28T16:41:31.144Z"
   },
   {
     "id": "workday:salesforce-JR347388",
@@ -746,6 +785,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-28T13:59:31.175Z"
+    "scrapedAt": "2026-07-28T16:42:07.536Z"
   }
 ]
