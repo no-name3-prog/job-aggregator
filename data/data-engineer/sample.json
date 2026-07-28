@@ -1,5 +1,38 @@
 [
   {
+    "id": "arbeitnow:data-platform-engineer-mid-level-berlin-231606",
+    "externalId": "data-platform-engineer-mid-level-berlin-231606",
+    "source": "arbeitnow",
+    "title": "Data Platform Engineer (Mid-Level) (m/f/d)",
+    "company": "Flix",
+    "location": "Berlin, Berlin, Germany",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/flix/data-platform-engineer-mid-level-berlin-231606",
+    "description": "We're looking for a Data Platform Engineer (m/f/d) to join our team and help build and operate the data infrastructure that powers Flix's mobility platform.\n At FlixTech, our data platform enables teams across the company to process, analyze, and act on large volumes of mobility data. The platform supports critical use cases such as network planning, pricing, operations, and business analytics. You will work on scalable infrastructure that processes millions of daily events and ensures reliable data availability across the organization.\n You'll be part of a cross-functional engineering environment collaborating with data analysts, data scientists, and platform engineers. The role focuses on building reliable, scalable data systems and enabling other teams to work efficiently with data.\n About the Role\n Design, build, and maintain scalable data infrastructure running on AWS and Kubernetes\n Develop and operate streaming and data platform components using technologies such as Kafka and Snowflake\n Implement monitoring, alerting, and operational tooling to ensure platform reliability and performance\n Own features end-to-end, including development, testing, deployment, monitoring, and maintenance\n Build and maintain Infrastructure as Code using Terraform and GitLab CI/CD\n Collaborate with data analysts, data scientists, and stakeholders to support data platform use cases\n Contribute to improving platform reliability, automation, and engineering practices\n Participate in on-call rotations to support the stability of the data platform\n About You\n 3+ years of experience building or operating data infrastructure or data platforms\n Hands-on experience with streaming technologies such as Kafka and data warehouses like Snowflake\n Experience with Infrastructure as Code tools (e.g., Terraform) and CI/CD pipelines (e.g., GitLab)\n Practical experience with cloud platforms (preferably AWS) and container platforms such as Kubernetes\n Experience with monitoring and observability tools…",
+    "tags": [],
+    "postedAt": "2026-07-28T06:45:24.000Z",
+    "scrapedAt": "2026-07-28T08:28:54.102Z"
+  },
+  {
+    "id": "arbeitnow:junior-data-engineer-data-platform-berlin-266979",
+    "externalId": "junior-data-engineer-data-platform-berlin-266979",
+    "source": "arbeitnow",
+    "title": "(Junior) Data Engineer - Data Platform (m/f/d)",
+    "company": "1KOMMA5˚",
+    "location": "Berlin",
+    "remote": true,
+    "url": "https://www.arbeitnow.com/jobs/companies/1komma50/junior-data-engineer-data-platform-berlin-266979",
+    "description": "1KOMMA5°\n At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it?\n We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as isolated components, but control them as an intelligent, integrated overall system in our virtual power plant. Directly connected to the electricity market – in real time, fully automated. This way, energy is used when it is available from renewables and particularly cost-effective. By 2030, our goal is to transition 1.5 million households to renewable energies. Over 3,000 people are working towards this every day, at more than 80 locations worldwide, from Finland to Australia.\n Want to take responsibility and build solutions that truly matter? Apply now and help us shape the energy world of tomorrow.\n Become a part of our mission and learn about our Product &#x26; Tech team!\n Deine Position\n The data platform team designs and builds the foundation of how data flows through our company. Together with your team, you will forge new ways to ingest, process, store and deliver data both at scale and complexity. We focus on building tools that enable our internal customers to find, access and investigate data for any of their use cases.\n Key responsibilities include but are not limited to:\n Architect, develop, and manage the data platform to support efficient data ingestion, transformation, quality assurance, monitoring, and accessibility\n Collaborate closely with cross-functional teams to understand data needs\n Technologies you will work with include:\n Google Cloud Platform (CloudRun, BigQuery, Pub/Sub, Dataform, etc.)\n SQLMesh\n Terraform / Terramate\n GitHub Actions\n Python and SQL\n Looker\n Dein Profil\n Proven experience (2+ years) in a data engineering role, preferably within a fast-paced tech company or similar environment\n Strong u…",
+    "tags": [
+      "Remote",
+      "Software Development",
+      "professional / experienced"
+    ],
+    "jobType": "professional / experienced",
+    "postedAt": "2026-07-28T06:30:30.000Z",
+    "scrapedAt": "2026-07-28T08:28:54.102Z"
+  },
+  {
     "id": "arbeitnow:data-engineer-africom-stuttgart-germany-50591",
     "externalId": "data-engineer-africom-stuttgart-germany-50591",
     "source": "arbeitnow",
@@ -15,7 +48,7 @@
     ],
     "jobType": "Regular",
     "postedAt": "2026-07-27T23:25:10.000Z",
-    "scrapedAt": "2026-07-28T05:44:42.247Z"
+    "scrapedAt": "2026-07-28T08:28:54.102Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -35,7 +68,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-07-28T05:47:51.010Z"
+    "scrapedAt": "2026-07-28T08:32:05.841Z"
   },
   {
     "id": "jobicy:142570",
@@ -54,7 +87,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-07-27T08:30:06.000Z",
-    "scrapedAt": "2026-07-28T05:44:42.293Z"
+    "scrapedAt": "2026-07-28T08:28:54.186Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -70,7 +103,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-07-28T05:44:42.716Z"
+    "scrapedAt": "2026-07-28T08:28:54.657Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -86,7 +119,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-07-28T05:44:42.716Z"
+    "scrapedAt": "2026-07-28T08:28:54.657Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -102,7 +135,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-07-28T05:44:42.716Z"
+    "scrapedAt": "2026-07-28T08:28:54.657Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -118,7 +151,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-07-28T05:44:42.716Z"
+    "scrapedAt": "2026-07-28T08:28:54.657Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -134,38 +167,6 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-07-28T05:44:42.716Z"
-  },
-  {
-    "id": "greenhouse:lyft-8605842002",
-    "externalId": "lyft:8605842002",
-    "source": "greenhouse",
-    "title": "Data Engineer, Pricing",
-    "company": "Lyft",
-    "location": "Toronto, Canada",
-    "remote": false,
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8605842002?gh_jid=8605842002",
-    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n Pricing is at the core of Lyft’s business, driving revenue, balancing supply and demand, and shaping user experience through real-time and strategic decisions. The Pricing team builds and maintains the systems that determine what a ride should cost—incorporating demand forecasts, marketplace signals, promotions, cost models, and more.\n As a Data Engineer on the Pricing team, you will help build the data foundation that powers Lyft’s pricing strategies. You will architect, build, and maintain scalable data pipelines to support real-time pricing, experimentation, analytics, and modeling. Your work will enable integration with partner teams and allow stakeholders across Engineering, Data Science, and Product to make data-informed decisions that directly impact Lyft’s growth and profitability.\n Our technology stack is based on the latest technologies such as AWS, Kubernetes and Apache Airflow. You will work with incredibly passionate and talented colleagues from software engineering, machine learning and data science on projects that directly impact millions of riders and drivers.\n Responsibilities:\n Owner of the pricing data pipeline, responsible for scaling up data processing flow to meet the rapid data growth at Lyft\n Evolve data model and data schema based on business and engineering needs\n Implement systems tracking data quality and consistency\n Develop tools supporting self-service data pipeline management (ETL)\n SQL and MapReduce job tuning to improve data processing performance\n Write well-crafted, well-tested, readable, maintainable code\n Participate in code reviews to ensure code quality and distribute knowledge\n Unblock, support and communicate with internal & external partners to achieve results\n Experience:\n Bachelor's degree in Computer Science, Engineering, Mathematics, Statistics, or a…",
-    "tags": [
-      "Pricing"
-    ],
-    "postedAt": "2026-06-24T15:02:28.000Z",
-    "scrapedAt": "2026-07-28T05:44:42.716Z"
-  },
-  {
-    "id": "greenhouse:cloudflare-8007032",
-    "externalId": "cloudflare:8007032",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer",
-    "company": "Cloudflare",
-    "location": "In-Office",
-    "remote": false,
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8007032?gh_jid=8007032",
-    "description": "About Us\n At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.\n At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.\n Available Locations - Bengaluru, India\n About the Role\n The Data Intelligence & Analytics organization builds the core data platform and internal products that power decision-making across the company. We design and operate large-scale data systems, own the company’s data lake, ingestion infrastructure, and platform tooling, and develop end-to-end applications that transform complex datasets into fast, reliable, business-critical products used daily…",
-    "tags": [
-      "Business Intelligence"
-    ],
-    "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-07-28T05:44:42.716Z"
+    "scrapedAt": "2026-07-28T08:28:54.657Z"
   }
 ]
