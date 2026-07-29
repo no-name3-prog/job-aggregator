@@ -1,86 +1,82 @@
 [
   {
-    "id": "greenhouse:reddit-8092545",
-    "externalId": "reddit:8092545",
+    "id": "greenhouse:twilio-8089122",
+    "externalId": "twilio:8089122",
     "source": "greenhouse",
-    "title": "Engineering Manager, Site Defense",
-    "company": "Reddit",
-    "location": "Remote - United States",
-    "remote": true,
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8092545",
-    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com .\n Reddit's Transport and Site Defense teams build and operate foundational infrastructure behind one of the largest sites in the world. These teams own how requests enter Reddit, how services discover and talk to each other, how traffic moves across clusters and clouds, and how Reddit protects itself from DDoS attacks, scrapers, bots, and other undesired traffic.\n We are looking for an experienced Engineering Manager to lead and grow the Site Defense teams. This is a high-impact role for a manager who can guide senior engineers, make strong technical and organizational tradeoffs, and help Reddit scale critical traffic and defense platforms while keeping the site available.\n How You'll Have Impact:\n Complete Reddit's migration from Fastly to Cloudflare, including high-traffic properties such as reddit.com, media endpoints, Ads endpoints, e.reddit.com/gql-fed, devvit.reddit.com, and long-tail CDN traffic.\n Make Portal Transporter the predominant service discovery platform for Reddit, moving toward broad gRPC/xDS adoption and reducing fragmented service discovery.\n Migrate high-volume Thrift traffic to gRPC through TGRPC while preserving reliability, customer trust, and migration velocity.\n Reduce data transfer and cross-cluster networking costs through smarter routing, service discovery, and infrastructure standardization.\n Expand Site Defense coverage across post-CDN traffic, including TAC, RLS, TRS, Recaptcha, edge challenges, device attestation, IP reputation, and bot context.\n Deliver the Site Defense Platform and ML-…",
-    "tags": [
-      "BE Platform"
-    ],
-    "postedAt": "2026-07-29T01:02:09.000Z",
-    "scrapedAt": "2026-07-29T02:12:15.279Z"
-  },
-  {
-    "id": "greenhouse:twilio-8077540",
-    "externalId": "twilio:8077540",
-    "source": "greenhouse",
-    "title": "Director of Demand Generation",
+    "title": "Incident Commander",
     "company": "Twilio",
     "location": "Remote - US",
     "remote": true,
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8077540",
-    "description": "Who we are\n At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.\n Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.\nWe use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!\n .\n See yourself at Twilio\n Join the team as Twilio’s next Director of Demand Generation.\n About the job\n As the Director of Demand Generation (M5) for Twilio.org, you will architect, scale, and establish single-threaded ownership over our centralized growth engine. Moving away from a historically flat organization, this critical leadership role is designed to eliminate operational friction, define clear campaign boundaries, and create explicit GTM \"swim lanes\" for flawless execution. You will step into a core management track position, directly responsible for supervising, managing, and leading a high-performing team.\n You will directly own performance metrics and full-funnel pipeline targets aligned closely with Sales leadership priorities. By leading a team of three Senior Managers (across Strategic Accounts, New Business, and Digital Sales) and one Digital Demand Manager, you will serve as the strategic driver to build a scalable marketing demand engine while accelerating growth across our social impact ecosystem.\n Responsibilities\n In this role, you’ll:\n Lead and Develop People: Supervise, manage, and build up functional owners within a high-performing team of four, including three…",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8089122",
+    "description": "Who we are\n At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.\n Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.\nWe use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!\n .\n See yourself at Twilio\n Join the team as Twilio’s next <JOB TITLE>.\n About the job\n This position is needed to <short descriptor of the job function>.\n <75 words or less summary that tells the story of the open position>.\n Responsibilities\n In this role, you’ll:\n Begin each bullet with an action-oriented verb: (generate, identify, perform, cultivate, etc.)\n Begin each bullet with an action-oriented verb: (generate, identify, perform, cultivate, etc.)\n Begin each bullet with an action-oriented verb: (generate, identify, perform, cultivate, etc.)\n Begin each bullet with an action-oriented verb: (generate, identify, perform, cultivate, etc.)\n Begin each bullet with an action-oriented verb: (generate, identify, perform, cultivate, etc.)\n Qualifications\n Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!\n [CANDIDATES MUST MEET ALL REQUIRED QUALIFICATIONS IN THE JOB DESCRIPTION. IF ANY OF THESE QUALIFICATIONS C…",
     "tags": [
-      "Twilio.org"
+      "Engineering"
     ],
-    "postedAt": "2026-07-29T00:36:42.000Z",
-    "scrapedAt": "2026-07-29T02:12:15.279Z"
+    "postedAt": "2026-07-29T04:34:09.000Z",
+    "scrapedAt": "2026-07-29T05:48:04.312Z"
   },
   {
-    "id": "arbeitnow:pflichtpraktikum-e-commerce-tiktok-shop-marketing-shopify-100-remote-homeoffice-mit-umsatzbeteiligung-siegburg-1055",
-    "externalId": "pflichtpraktikum-e-commerce-tiktok-shop-marketing-shopify-100-remote-homeoffice-mit-umsatzbeteiligung-siegburg-1055",
+    "id": "arbeitnow:technical-engineering-manager-robotics-welwyn-garden-city-204083",
+    "externalId": "technical-engineering-manager-robotics-welwyn-garden-city-204083",
     "source": "arbeitnow",
-    "title": "Pflichtpraktikum E-Commerce & TikTok Shop Marketing + Shopify - (100% Remote / Homeoffice) mit Umsatzbeteiligung (m/w/d)",
-    "company": "Levian Nature",
-    "location": "Siegburg",
-    "remote": true,
-    "url": "https://www.arbeitnow.com/jobs/companies/levian-nature/pflichtpraktikum-e-commerce-tiktok-shop-marketing-shopify-100-remote-homeoffice-mit-umsatzbeteiligung-siegburg-1055",
-    "description": "Startdatum: Flexibel zum Wintersemester ab 01.09.2026, 15.09.2026 oder 01.10.2026\n Dauer: 6 Monate (oder gemäß deiner Studienordnung flexibel anpassbar)\n Arbeitszeit: Offiziell 40 Stunden/Woche (Vollzeit für die Uni-Zulassung). Gelebt wird ein hochflexibles, ergebnisorientiertes Modell (Freiraum für Nebenjobs garantiert)\n Arbeitsort: 100% Homeoffice / Remote (deutschlandweit)\n Vergütung: Attraktive Umsatzbeteiligung am Ende des Praktikums (Performance Bonus)\n Wer wir sind:\n Hinter Levian Nature steht kein starrer Großkonzern mit verstaubten Hierarchien, sondern ein hochmodernes D2C-Startup in der Pre-Launch-Phase . Geführt von einem studierenden Einzelunternehmer haben wir in monatelanger Arbeit alle logistischen Schnittstellen, Rezepturen für unsere funktionellen Premium Fruchtgummies/Supplements (z. B. Shilajit, Lion’s Mane, Magnesium usw.) und das technische Setup zu 100 % fertiggestellt.\n Jetzt stehen wir direkt vor dem großen Launch zum Wintersemester . Und hier kommst du ins Spiel: Bei uns wirst du nicht zum Kaffeekochen verdonnert , sondern gestaltest den echten Launch einer Marke von Tag 1 an aktiv mit. Mit Werkzeugen, die es so in keinem anderen Unternehmen gibt.\n Das absolute Highlight: Dein KI-Agenten Team 🤖\n Du wirst nicht ins kalte Wasser geworfen. Bei Levian Nature arbeitest du mit der weltweit ersten KI-Agenten Team Plattform für E-Commerce. Ein eingespieltes Team aus spezialisierten KI-Agenten übernimmt deine perfekte, lückenlose Einarbeitung. Sie halten das gesamte Wissen, alle Strategien und SOPs im Systemgedächtnis und stehen dir rund um die Uhr als unbezahlbare Sparringspartner zur Seite. Du lernst nicht nur Marketing du lernst, wie man die Zukunft der Content Erstellung mit künstlicher Intelligenz orchestriert.\n Aufgaben\n Deine Mission bei uns\n Als E-Commerce &#x26; TikTok Shop Marketer bist du das kreative Herzstück unseres Launches:\n * Virale Content Kreation (UGC): Du konzipierst, filmst und bearbeitest packende Video Inhalte und Ad Creativ…",
-    "tags": [
-      "Remote",
-      "Business Operations",
-      "Internship",
-      "hilfstätigkeit / student"
-    ],
-    "jobType": "Internship",
-    "postedAt": "2026-07-29T00:29:02.000Z",
-    "scrapedAt": "2026-07-29T02:12:14.689Z"
-  },
-  {
-    "id": "arbeitnow:account-director-consumer-pr-london-119433",
-    "externalId": "account-director-consumer-pr-london-119433",
-    "source": "arbeitnow",
-    "title": "Account Director - Consumer PR",
-    "company": "Ogilvy",
-    "location": "London",
+    "title": "Technical Engineering Manager – Robotics",
+    "company": "ocadogroup",
+    "location": "Welwyn Garden City",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/ogilvy/account-director-consumer-pr-london-119433",
-    "description": "<div class=\"content-intro\"><p><strong>About Ogilvy &nbsp;</strong></p>\n<p>Ogilvy, part of WPP, has been creating impact for brands through iconic, culture-changing, value-driving ideas since the company was founded by David Ogilvy 75 years ago. It builds on that rich legacy through Borderless Creativity – innovating at the intersections of its advertising, public relations, relationship design, consulting, and health capabilities with experts collaborating seamlessly across over 120 offices in nearly 90 countries. Ogilvy currently <a href=\"https://www.ogilvy.com/ideas/ogilvy-tops-warc-effective-100-creative-100-rankings-third-straight-year\" target=\"_blank\">ranks</a> as the #1 global agency network for creative excellence and effectiveness by WARC, signifying its ability to deliver creative solutions that drive unreasonable impact for clients and communities. Ogilvy is a WPP company (NYSE: WPP). For more information, visit <a href=\"http://www.ogilvy.com/\" target=\"_blank\">Ogilvy.com</a>, and follow us on <a href=\"https://urldefense.com/v3/__https:/www.linkedin.com/company/ogilvy/__;!!FMox2LFwyA!4Z5sYRsQCsdV4dIxzo5cqM97oclKST23C6w0s209mLcXxT5_tuCL0fM31Se_7mxpVA$\" target=\"_blank\">LinkedIn</a>, <a href=\"https://urldefense.com/v3/__https:/twitter.com/ogilvy__;!!FMox2LFwyA!4Z5sYRsQCsdV4dIxzo5cqM97oclKST23C6w0s209mLcXxT5_tuCL0fM31SccaJbNMQ$\" target=\"_blank\">X</a>,<a href=\"https://urldefense.com/v3/__https:/www.instagram.com/ogilvy/__;!!FMox2LFwyA!4Z5sYRsQCsdV4dIxzo5cqM97oclKST23C6w0s209mLcXxT5_tuCL0fM31SfRZhifmA$\" target=\"_blank\"> Instagram</a>, and<a href=\"https://urldefense.com/v3/__https:/www.facebook.com/ogilvy/__;!!FMox2LFwyA!4Z5sYRsQCsdV4dIxzo5cqM97oclKST23C6w0s209mLcXxT5_tuCL0fM31ScfS6rLGg$\" target=\"_blank\"> Facebook.</a></p>\n<p>&nbsp;</p>\n<p><strong>About WPP</strong></p>\n<p>WPP is the trusted growth partner for the world’s leading brands. We unite&nbsp;cutting-edge media intelligence and data solutions, world-class creativity, next-generation production, transform…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ocadogroup/technical-engineering-manager-robotics-welwyn-garden-city-204083",
+    "description": "<p>&nbsp;</p>\n<p data-path-to-node=\"0\"><strong data-path-to-node=\"0\" data-index-in-node=\"0\"><iframe src=\"https://www.youtube.com/embed/bY0nNPT75xY\" width=\"560\" height=\"314\"></iframe></strong></p>\n<p><strong>Technical Engineering Manager 2 | Robotic Hardware | Hybrid Working | Welywn Garden City</strong></p>\n<p><strong>Introduction:</strong>&nbsp;</p>\n<p>We are Ocado Group, and we're bringing world-class automation to online grocery. Our Ocado Smart Platform (OSP) combines cutting-edge robotics, AI, and IoT within our advanced CFCs (Customer Fulfilment Centres). We've mastered the single pick, transforming online delivery for our global partners. Join us and be part of a team pushing the boundaries of retail technology.</p>\n<p><strong>About the Role</strong>&nbsp;</p>\n<p>As an Engineering Manager 2 within our Robotic Hardware team, you'll lead a multidisciplinary engineering team developing innovative robotic hardware for our automated warehouses. You'll drive the development of both current and next-generation robotic systems, including advanced end-of-arm tooling.</p>\n<p>This is a highly technical leadership role, where you'll provide hands-on technical direction and coaching while working alongside the team to solve complex robotics and mechatronic challenges. Collaborating closely with Product, Project and Software teams, you'll help deliver cutting-edge hardware from concept through to production. You'll also champion continuous improvement, foster a collaborative engineering culture, and support the growth of both your team and the wider development centre.</p>\n<p><strong>Key Responsibilities</strong></p>\n<ul>\n<li>Lead a multidisciplinary team to support the realisation and delivery of hardware for integrated robotic pick solutions.</li>\n<li>Drive the delivery of best-in-class robotic solutions to solve complex challenges within our Customer Fulfilment Centres.</li>\n<li>Collaborate with development centre leadership to build a great place to work, contributing…",
     "tags": [
-      "Account/Client Services"
+      "Physical Robotics"
     ],
-    "postedAt": "2026-07-29T00:15:15.000Z",
-    "scrapedAt": "2026-07-29T02:12:14.689Z"
+    "postedAt": "2026-07-29T02:57:25.000Z",
+    "scrapedAt": "2026-07-29T05:48:03.184Z"
   },
   {
-    "id": "greenhouse:coinbase-8093264",
-    "externalId": "coinbase:8093264",
-    "source": "greenhouse",
-    "title": "Accounting Manager, GL Operations & Intercompany",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8093264?gh_jid=8093264",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n As an Accounting Manager, GL Operations & Intercompany, you'll join the Controllership team to support Global GL Operations end-to-end month-end close processes and directly oversee Coinbase's global intercompany framework and general ledger functions. The GL Operations team ensures the integrity of our global consolidation, the accuracy of our general ledger, and the scalability of our financial infrastructure. You'll drive operational excellence across close, consolidation, and intercompany workstreams while supporting Coinbase's continued international growth.\n What you'll do:\n Own end-to-end month-end and quarter-end close processes across global entities, ensuring timely, accurate general ledger reporting and consolidated financial statements.\n Lead global intercompany operations including billing, cash settlements, transfer pricing execution, foreign exchange gain/loss analysis, and elimination entries.\n Partner with Tax, Treasury, Legal, and Finance Data to operationalize new intercompany agreements, entity launches, and transfer pricing methodologies into scalable processes.\n Drive the design, implementation, and documentation of SOX-compliant internal controls across GL operations and intercompany processes.\n Execute strategic GL projects including M&A integration, new entity set-ups, and ERP enhancements in NetSuite.\n Strengthen team capability by mentoring and devel…",
+    "id": "arbeitnow:robotics-hardware-engineering-manager-welwyn-garden-city-281060",
+    "externalId": "robotics-hardware-engineering-manager-welwyn-garden-city-281060",
+    "source": "arbeitnow",
+    "title": "Robotics Hardware Engineering Manager",
+    "company": "ocadogroup",
+    "location": "Welwyn Garden City",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ocadogroup/robotics-hardware-engineering-manager-welwyn-garden-city-281060",
+    "description": "<p>&nbsp;</p>\n<p data-path-to-node=\"0\"><strong data-path-to-node=\"0\" data-index-in-node=\"0\"><iframe src=\"https://www.youtube.com/embed/bY0nNPT75xY\" width=\"560\" height=\"314\"></iframe></strong></p>\n<p><strong>Engineering Manager 2 | Robotic Hardware | Hybrid Working | Welywn Garden City</strong></p>\n<p><strong>Introduction:</strong>&nbsp;</p>\n<p>We are Ocado Group, and we're bringing world-class automation to online grocery. Our Ocado Smart Platform (OSP) combines cutting-edge robotics, AI, and IoT within our advanced CFCs (Customer Fulfilment Centres). We've mastered the single pick, transforming online delivery for our global partners. Join us and be part of a team pushing the boundaries of retail technology.</p>\n<p><strong>About the Role</strong>&nbsp;</p>\n<p>As an Engineering Manager 2 within our Robotic Hardware team, you'll lead a multidisciplinary engineering team developing innovative robotic hardware for our automated warehouses. You'll drive the development of both current and next-generation robotic systems, including advanced end-of-arm tooling.</p>\n<p>This is a highly technical leadership role, where you'll provide hands-on technical direction and coaching while working alongside the team to solve complex robotics and mechatronic challenges. Collaborating closely with Product, Project and Software teams, you'll help deliver cutting-edge hardware from concept through to production. You'll also champion continuous improvement, foster a collaborative engineering culture, and support the growth of both your team and the wider development centre.</p>\n<p><strong>Key Responsibilities</strong></p>\n<ul>\n<li>Lead a multidisciplinary team to support the realisation and delivery of hardware for integrated robotic pick solutions.</li>\n<li>Drive the delivery of best-in-class robotic solutions to solve complex challenges within our Customer Fulfilment Centres.</li>\n<li>Collaborate with development centre leadership to build a great place to work, contributing to recrui…",
     "tags": [
-      "Finance & Accounting"
+      "Physical Robotics"
     ],
-    "postedAt": "2026-07-29T00:03:36.000Z",
-    "scrapedAt": "2026-07-29T02:12:15.279Z"
+    "postedAt": "2026-07-29T02:57:25.000Z",
+    "scrapedAt": "2026-07-29T05:48:03.184Z"
+  },
+  {
+    "id": "arbeitnow:account-executive-small-business-2-sydney-australia-367175",
+    "externalId": "account-executive-small-business-2-sydney-australia-367175",
+    "source": "arbeitnow",
+    "title": "Account Executive, Small Business 2",
+    "company": "intercom",
+    "location": "Sydney, Australia",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/account-executive-small-business-2-sydney-australia-367175",
+    "description": "<div class=\"content-intro\"><p><a href=\"https://fin.ai/\">Fin</a> is the AI Customer Agent company on a mission to help businesses provide perfect customer experiences.</p>\n<p>Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey – from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk for one single system that is designed to meet the needs of modern day support teams.</p>\n<p>Founded in 2011, Fin became one of the fastest growing companies and remains one of the largest private software companies in the world with nearly 30,000 global businesses using our products to transform their customer support. Driven by our core values, we push boundaries, build with speed and intensity, and relentlessly deliver incredible value to our customers.</p></div><h2><strong>What's the opportunity?&nbsp;</strong></h2>\n<p>As an SMB Account Executive, you will be a key member of the team leading the growth of our new business. We’re building a world-class sales organization, and the road ahead is going to be very exciting.&nbsp;</p>\n<p>At Intercom, we are striving to do sales differently. We are asking our customers to put Intercom at the core of their businesses, and we can only do this by putting them at the core of ours. We strongly believe in the overall growth and continued development of each new hire. In joining the Account Executive team at Intercom, you join a community that believes in development and promotion from within. As a rapidly expanding business, there is a high degree of opportunity for progression, creativity, and ownership.</p>\n<h2><strong>What will I be doing?&nbsp;</strong></h2>\n<ul>\n<li>Evangelize our product by spearheading the growth and adoptio…",
+    "tags": [
+      "Sales"
+    ],
+    "postedAt": "2026-07-29T02:57:23.000Z",
+    "scrapedAt": "2026-07-29T05:48:03.184Z"
+  },
+  {
+    "id": "arbeitnow:account-executive-midmarket-sydney-australia-41494",
+    "externalId": "account-executive-midmarket-sydney-australia-41494",
+    "source": "arbeitnow",
+    "title": "Account Executive, MidMarket",
+    "company": "intercom",
+    "location": "Sydney, Australia",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/account-executive-midmarket-sydney-australia-41494",
+    "description": "<div class=\"content-intro\"><p><a href=\"https://fin.ai/\">Fin</a> is the AI Customer Agent company on a mission to help businesses provide perfect customer experiences.</p>\n<p>Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey – from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk for one single system that is designed to meet the needs of modern day support teams.</p>\n<p>Founded in 2011, Fin became one of the fastest growing companies and remains one of the largest private software companies in the world with nearly 30,000 global businesses using our products to transform their customer support. Driven by our core values, we push boundaries, build with speed and intensity, and relentlessly deliver incredible value to our customers.</p></div><h2>What's the opportunity?&nbsp;</h2>\n<p>We are seeking a dynamic and experienced Account Executive to join our team. In this role, you will play a pivotal part in propelling our new business growth in the Mid Market and Enterprise segment, leveraging your expertise to foster and maintain key client relationships. If you are passionate about consultative sales and eager to make a significant impact, this is the perfect opportunity for you.</p>\n<h2>What will I be doing?</h2>\n<ul>\n<li><strong>Product Evangelism:</strong> Champion Fin's product by driving its adoption and growth within the Mid-Market and Enterprise segment.</li>\n<li><strong>Sales Cycle Management:</strong> Oversee the complete new business sales cycle for Mid-Market/Enterprise customers, from initial outbound to closing deals, utilising a consultative values based sales approach.</li>\n<li><strong>Forecasting &amp; Reporting:</strong> Deliver accur…",
+    "tags": [
+      "Sales"
+    ],
+    "postedAt": "2026-07-29T02:57:23.000Z",
+    "scrapedAt": "2026-07-29T05:48:03.184Z"
   }
 ]
