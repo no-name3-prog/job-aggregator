@@ -1,5 +1,37 @@
 [
   {
+    "id": "greenhouse:dropbox-8090062",
+    "externalId": "dropbox:8090062",
+    "source": "greenhouse",
+    "title": "Senior Manager, Data Engineering",
+    "company": "Dropbox",
+    "location": "Remote - US: Select locations",
+    "remote": true,
+    "url": "https://jobs.dropbox.com/listing/8090062?gh_jid=8090062",
+    "description": "Role Description\n We are seeking a Senior Manager, Data Engineering to lead the team responsible for the reliability, quality, cost, and velocity of Dropbox's core data platform. This is a hands-on engineering leader who owns the pipelines and data products that Product, GTM, Finance, and the CTO organization depend on to make decisions.\n In this role, you will lead and grow a team of data engineers building and operating our ingestion, transformation, orchestration, and serving layers, as well as the self-serve analytics substrate that lets partner teams answer their own questions without bespoke engineering work.\n The ideal candidate is a deeply technical, product-minded engineering leader who can hold a high bar on system reliability and data quality while partnering closely with Data Science, Business Intelligence Engineering, Analytics, and Product to turn fragmented, ticket-driven data work into durable, reusable data products.\n Responsibilities\n Data Quality & Observability: Establish and enforce a rigorous data quality culture: lineage, freshness monitoring, anomaly detection, and outcome-oriented, gaming-resistant quality metrics.\n Self-Serve Platform: Lead the engineering of the self-serve analytics substrate, reducing bespoke request volume and increasing partner-team autonomy.\n Cost & Efficiency: Own the unit economics of the data platform — compute and storage efficiency — and drive measurable improvements without sacrificing reliability.\n Cross-Functional Partnership: Partner deeply with Data Science, BIE, Analytics, Product, Data Platform, and the CTO org to define the semantic layer, modeling standards, and data contracts that make downstream work trustworthy and fast.\n Engineering Culture: Establish rigorous engineering practices — code review, testing, CI/CD for data, incident response, and postmortems — and champion the effective, measured use of AI coding tools to improve engineering productivity.\n Team Leadership: Lead, mentor, and grow a high-…",
+    "tags": [
+      "CTO-Data Science, AI Platform & Eng (Sub Team)"
+    ],
+    "postedAt": "2026-07-29T21:04:04.000Z",
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
+  },
+  {
+    "id": "arbeitnow:analytics-engineer-finance-460067",
+    "externalId": "analytics-engineer-finance-460067",
+    "source": "arbeitnow",
+    "title": "Analytics Engineer - Finance",
+    "company": "mewssystems",
+    "location": "Unknown",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/mewssystems/analytics-engineer-finance-460067",
+    "description": "<div class=\"content-intro\"><h4><strong>Help make the world more hospitable </strong></h4>\n<p>The hospitality industry is uniquely human, and it deserves technology that’s just as inspiring as the people behind it. At Mews, we’re transforming the industry with a platform that helps hotels run smarter, move faster and create better guest experiences.</p>\n<p>You’ll work with smart, curious people who care deeply about what they do. You’ll have autonomy and the trust to make good decisions and move quickly. And you’ll enjoy a real sense of purpose as you see the impact of what we’re building.</p>\n<p>If you’re motivated by ownership, curiosity and meaningful impact, and are driven to deliver consistent high performance, you’ll feel at home here.</p>\n<h4><strong>About the role</strong></h4>\n<p>Let's get into the specifics. It’s impossible to capture every nuance of a role – especially at a rapidly growing company like Mews – but if we had to distil it into a job description (which we do because this is a job description), it would be this:</p></div><p>You'll be the founding analytics engineer in Finance, shaping our data infrastructure and analytical capabilities during a critical transformation. Your expertise in Python, <span data-highlighted=\"true\" data-vc=\"highlighted-text\"><span class=\"_kqswh2mm\"><span class=\"_5pioz8co _189e1dm9 _1il9buyh _19lc184f _d0altlke\" data-testid=\"definition-highlighter\">DBT</span></span></span>, SQL, and Databricks will drive operational efficiency, accelerate our month-end close, and deliver strategic insights that inform capital allocation and IPO readiness. This is a greenfield opportunity to own the analytics roadmap, work directly with Finance leadership, and build infrastructure that powers both scaling and compliance, all at a pivotal moment for Mews</p>\n<h4>What you would do</h4>\n<ul>\n<li>Design and develop analytical features that surface actionable insights for Finance leadership</li>\n<li>Build, optimise and maintain production-re…",
+    "tags": [
+      "Operations"
+    ],
+    "postedAt": "2026-07-29T20:55:50.000Z",
+    "scrapedAt": "2026-07-29T21:58:26.524Z"
+  },
+  {
     "id": "arbeitnow:lead-data-engineer-mumbai-242719",
     "externalId": "lead-data-engineer-mumbai-242719",
     "source": "arbeitnow",
@@ -13,7 +45,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-29T15:16:10.000Z",
-    "scrapedAt": "2026-07-29T19:09:50.806Z"
+    "scrapedAt": "2026-07-29T21:58:26.524Z"
   },
   {
     "id": "arbeitnow:lead-data-engineer-london-485443",
@@ -29,7 +61,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-29T15:16:10.000Z",
-    "scrapedAt": "2026-07-29T19:09:50.806Z"
+    "scrapedAt": "2026-07-29T21:58:26.524Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -45,7 +77,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -65,7 +97,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-07-29T19:13:24.555Z"
+    "scrapedAt": "2026-07-29T22:01:56.523Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -81,7 +113,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -97,7 +129,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -113,7 +145,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -129,38 +161,6 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8024880",
-    "externalId": "coinbase:8024880",
-    "source": "greenhouse",
-    "title": "Analytics Engineer, GFCO Analytics",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n We're hiring an Analytics Engineer to join the GFCO Analytics Engineering team and build the data foundations that power customer experience and compliance operations at Coinbase. You'll own end-to-end data pipelines, develop trusted metrics, and enable CX stakeholders to make faster, better decisions with clean, reliable data. This is a high-impact role where you'll directly influence how we serve and protect our customers while scaling our analytics capabilities.\n What you'll do:\n Own the design, build, and maintenance of data models and pipelines that support CX operations, compliance reporting, and customer insights, ensuring data is accurate, timely, and well-documented.\n Partner with CX Operations, Compliance, and Product teams to translate business needs into data requirements and deliver self-serve analytics solutions that reduce manual effort.\n Build and maintain dashboards, metrics, and reporting tools that give CX leaders visibility into performance, customer trends, and compliance health.\n Drive data quality and governance within the CX data domain by implementing testing, monitoring, and documentation standards that ensure stakeholder trust in the data.\n Identify opportunities to automate recurring data workflows and reporting processes, shifting the team from reactive requests toward scalable, self-serve solutions.\n Collaborate with broader Data Engineering and A…",
-    "tags": [
-      "Customer Experience"
-    ],
-    "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
-  },
-  {
-    "id": "greenhouse:lyft-8605842002",
-    "externalId": "lyft:8605842002",
-    "source": "greenhouse",
-    "title": "Data Engineer, Pricing",
-    "company": "Lyft",
-    "location": "Toronto, Canada",
-    "remote": false,
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8605842002?gh_jid=8605842002",
-    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n Pricing is at the core of Lyft’s business, driving revenue, balancing supply and demand, and shaping user experience through real-time and strategic decisions. The Pricing team builds and maintains the systems that determine what a ride should cost—incorporating demand forecasts, marketplace signals, promotions, cost models, and more.\n As a Data Engineer on the Pricing team, you will help build the data foundation that powers Lyft’s pricing strategies. You will architect, build, and maintain scalable data pipelines to support real-time pricing, experimentation, analytics, and modeling. Your work will enable integration with partner teams and allow stakeholders across Engineering, Data Science, and Product to make data-informed decisions that directly impact Lyft’s growth and profitability.\n Our technology stack is based on the latest technologies such as AWS, Kubernetes and Apache Airflow. You will work with incredibly passionate and talented colleagues from software engineering, machine learning and data science on projects that directly impact millions of riders and drivers.\n Responsibilities:\n Owner of the pricing data pipeline, responsible for scaling up data processing flow to meet the rapid data growth at Lyft\n Evolve data model and data schema based on business and engineering needs\n Implement systems tracking data quality and consistency\n Develop tools supporting self-service data pipeline management (ETL)\n SQL and MapReduce job tuning to improve data processing performance\n Write well-crafted, well-tested, readable, maintainable code\n Participate in code reviews to ensure code quality and distribute knowledge\n Unblock, support and communicate with internal & external partners to achieve results\n Experience:\n Bachelor's degree in Computer Science, Engineering, Mathematics, Statistics, or a…",
-    "tags": [
-      "Pricing"
-    ],
-    "postedAt": "2026-06-24T15:02:28.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   }
 ]

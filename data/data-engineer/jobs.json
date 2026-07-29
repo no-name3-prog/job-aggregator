@@ -1,5 +1,37 @@
 [
   {
+    "id": "greenhouse:dropbox-8090062",
+    "externalId": "dropbox:8090062",
+    "source": "greenhouse",
+    "title": "Senior Manager, Data Engineering",
+    "company": "Dropbox",
+    "location": "Remote - US: Select locations",
+    "remote": true,
+    "url": "https://jobs.dropbox.com/listing/8090062?gh_jid=8090062",
+    "description": "Role Description\n We are seeking a Senior Manager, Data Engineering to lead the team responsible for the reliability, quality, cost, and velocity of Dropbox's core data platform. This is a hands-on engineering leader who owns the pipelines and data products that Product, GTM, Finance, and the CTO organization depend on to make decisions.\n In this role, you will lead and grow a team of data engineers building and operating our ingestion, transformation, orchestration, and serving layers, as well as the self-serve analytics substrate that lets partner teams answer their own questions without bespoke engineering work.\n The ideal candidate is a deeply technical, product-minded engineering leader who can hold a high bar on system reliability and data quality while partnering closely with Data Science, Business Intelligence Engineering, Analytics, and Product to turn fragmented, ticket-driven data work into durable, reusable data products.\n Responsibilities\n Data Quality & Observability: Establish and enforce a rigorous data quality culture: lineage, freshness monitoring, anomaly detection, and outcome-oriented, gaming-resistant quality metrics.\n Self-Serve Platform: Lead the engineering of the self-serve analytics substrate, reducing bespoke request volume and increasing partner-team autonomy.\n Cost & Efficiency: Own the unit economics of the data platform — compute and storage efficiency — and drive measurable improvements without sacrificing reliability.\n Cross-Functional Partnership: Partner deeply with Data Science, BIE, Analytics, Product, Data Platform, and the CTO org to define the semantic layer, modeling standards, and data contracts that make downstream work trustworthy and fast.\n Engineering Culture: Establish rigorous engineering practices — code review, testing, CI/CD for data, incident response, and postmortems — and champion the effective, measured use of AI coding tools to improve engineering productivity.\n Team Leadership: Lead, mentor, and grow a high-…",
+    "tags": [
+      "CTO-Data Science, AI Platform & Eng (Sub Team)"
+    ],
+    "postedAt": "2026-07-29T21:04:04.000Z",
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
+  },
+  {
+    "id": "arbeitnow:analytics-engineer-finance-460067",
+    "externalId": "analytics-engineer-finance-460067",
+    "source": "arbeitnow",
+    "title": "Analytics Engineer - Finance",
+    "company": "mewssystems",
+    "location": "Unknown",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/mewssystems/analytics-engineer-finance-460067",
+    "description": "<div class=\"content-intro\"><h4><strong>Help make the world more hospitable </strong></h4>\n<p>The hospitality industry is uniquely human, and it deserves technology that’s just as inspiring as the people behind it. At Mews, we’re transforming the industry with a platform that helps hotels run smarter, move faster and create better guest experiences.</p>\n<p>You’ll work with smart, curious people who care deeply about what they do. You’ll have autonomy and the trust to make good decisions and move quickly. And you’ll enjoy a real sense of purpose as you see the impact of what we’re building.</p>\n<p>If you’re motivated by ownership, curiosity and meaningful impact, and are driven to deliver consistent high performance, you’ll feel at home here.</p>\n<h4><strong>About the role</strong></h4>\n<p>Let's get into the specifics. It’s impossible to capture every nuance of a role – especially at a rapidly growing company like Mews – but if we had to distil it into a job description (which we do because this is a job description), it would be this:</p></div><p>You'll be the founding analytics engineer in Finance, shaping our data infrastructure and analytical capabilities during a critical transformation. Your expertise in Python, <span data-highlighted=\"true\" data-vc=\"highlighted-text\"><span class=\"_kqswh2mm\"><span class=\"_5pioz8co _189e1dm9 _1il9buyh _19lc184f _d0altlke\" data-testid=\"definition-highlighter\">DBT</span></span></span>, SQL, and Databricks will drive operational efficiency, accelerate our month-end close, and deliver strategic insights that inform capital allocation and IPO readiness. This is a greenfield opportunity to own the analytics roadmap, work directly with Finance leadership, and build infrastructure that powers both scaling and compliance, all at a pivotal moment for Mews</p>\n<h4>What you would do</h4>\n<ul>\n<li>Design and develop analytical features that surface actionable insights for Finance leadership</li>\n<li>Build, optimise and maintain production-re…",
+    "tags": [
+      "Operations"
+    ],
+    "postedAt": "2026-07-29T20:55:50.000Z",
+    "scrapedAt": "2026-07-29T21:58:26.524Z"
+  },
+  {
     "id": "arbeitnow:lead-data-engineer-mumbai-242719",
     "externalId": "lead-data-engineer-mumbai-242719",
     "source": "arbeitnow",
@@ -13,7 +45,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-29T15:16:10.000Z",
-    "scrapedAt": "2026-07-29T19:09:50.806Z"
+    "scrapedAt": "2026-07-29T21:58:26.524Z"
   },
   {
     "id": "arbeitnow:lead-data-engineer-london-485443",
@@ -29,7 +61,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-29T15:16:10.000Z",
-    "scrapedAt": "2026-07-29T19:09:50.806Z"
+    "scrapedAt": "2026-07-29T21:58:26.524Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -45,7 +77,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -65,7 +97,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-07-29T19:13:24.555Z"
+    "scrapedAt": "2026-07-29T22:01:56.523Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -81,7 +113,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -97,7 +129,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -113,7 +145,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -129,7 +161,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -145,7 +177,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "greenhouse:lyft-8605842002",
@@ -161,7 +193,7 @@
       "Pricing"
     ],
     "postedAt": "2026-06-24T15:02:28.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -177,7 +209,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "greenhouse:stripe-8013220",
@@ -193,7 +225,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-06-17T17:52:36.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -209,7 +241,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "greenhouse:lyft-8594129002",
@@ -225,7 +257,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-06-16T23:45:54.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -241,7 +273,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "lever:spotify-08d82da1-0c72-44d1-91eb-7fa22dee3d39",
@@ -261,7 +293,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-05-13T15:23:52.322Z",
-    "scrapedAt": "2026-07-29T19:13:24.555Z"
+    "scrapedAt": "2026-07-29T22:01:56.523Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -277,7 +309,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "lever:spotify-4303f795-d0a5-41ed-8c78-0941780b6e54",
@@ -297,26 +329,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-04-20T19:31:08.951Z",
-    "scrapedAt": "2026-07-29T19:13:24.555Z"
-  },
-  {
-    "id": "ashby:notion-a1216dba-e175-4a3d-b712-401c9fbdcd92",
-    "externalId": "notion:a1216dba-e175-4a3d-b712-401c9fbdcd92",
-    "source": "ashby",
-    "title": "Data Engineer, People Analytics",
-    "company": "Notion",
-    "location": "San Francisco, California",
-    "remote": true,
-    "url": "https://jobs.ashbyhq.com/notion/a1216dba-e175-4a3d-b712-401c9fbdcd92",
-    "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE\n\nAs Notion scales, there is a unique opportunity to build the data foundations for People Analytics that enable better decisions around hiring, performance, compensation, and org design - while maintaining strong privacy guarantees for sensitive employee data.\n\n\n\nIn this role, you will design, build, and operate scalable data systems and pipelines that power People data. Your work will ensure that employee data is reliable, secure, and production-ready, enabling both analytics and AI-driven people workflows across the company.\n\n\n\nThis role can be based in either San Francisco or New York City. We work from our offices on Mondays, Tuesdays and Thursdays (our Anchor Days) because we do our best thinking and building together in person. We’re looking for someone who’s excited to work alongside the team during those days.\n\n\n\n\nWHAT YOU'LL ACHIEVE\n\n - Partner closely with the Chief People Officer and People leadership team to translate strategic questions into clear metrics and data products that inform workforce planning, organization design, performance reviews, compensat…",
-    "tags": [
-      "Engineering",
-      "Engineering",
-      "Hybrid"
-    ],
-    "jobType": "FullTime",
-    "postedAt": "2026-04-14T18:14:37.287Z",
-    "scrapedAt": "2026-07-29T19:13:25.518Z"
+    "scrapedAt": "2026-07-29T22:01:56.523Z"
   },
   {
     "id": "greenhouse:coinbase-7736521",
@@ -332,7 +345,7 @@
       "Data Engineering"
     ],
     "postedAt": "2026-03-31T00:37:32.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "greenhouse:anthropic-5125387008",
@@ -348,7 +361,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-02-20T00:49:54.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "greenhouse:stripe-7548037",
@@ -364,7 +377,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-01-20T05:58:11.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -380,7 +393,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -396,7 +409,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "greenhouse:figma-5220003004",
@@ -412,7 +425,7 @@
       "Engineering"
     ],
     "postedAt": "2024-07-08T16:15:29.000Z",
-    "scrapedAt": "2026-07-29T19:09:51.692Z"
+    "scrapedAt": "2026-07-29T21:58:27.099Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -428,7 +441,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:workday-JR-0107814",
@@ -444,7 +457,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:workday-JR-0107883",
@@ -460,7 +473,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:nvidia-JR2021331",
@@ -474,7 +487,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:nvidia-JR2020545",
@@ -488,7 +501,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -502,7 +515,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:nvidia-JR2019415",
@@ -516,7 +529,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:salesforce-JR338656",
@@ -530,7 +543,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:salesforce-JR353004",
@@ -544,7 +557,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -558,7 +571,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:redhat-R-058408",
@@ -574,7 +587,7 @@
       "Remote"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:adobe-R159981",
@@ -588,7 +601,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:adobe-R169988",
@@ -602,7 +615,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:adobe-R170861",
@@ -616,7 +629,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:adobe-R170680",
@@ -630,7 +643,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:adobe-R169536",
@@ -644,7 +657,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:adobe-R166484",
@@ -658,7 +671,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -672,7 +685,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:autodesk-26WD100084",
@@ -686,7 +699,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -700,21 +713,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
-  },
-  {
-    "id": "workday:autodesk-25WD89669",
-    "externalId": "autodesk:25WD89669",
-    "source": "workday",
-    "title": "Principal Data Engineer -General application",
-    "company": "Autodesk",
-    "location": "2 Locations",
-    "remote": false,
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -728,7 +727,21 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:10:01.943Z"
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
+  },
+  {
+    "id": "workday:autodesk-25WD89669",
+    "externalId": "autodesk:25WD89669",
+    "source": "workday",
+    "title": "Principal Data Engineer -General application",
+    "company": "Autodesk",
+    "location": "2 Locations",
+    "remote": false,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-29T21:58:36.343Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -742,7 +755,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:11:20.628Z"
+    "scrapedAt": "2026-07-29T21:59:49.869Z"
   },
   {
     "id": "workday:salesforce-JR347388",
@@ -756,6 +769,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T19:12:00.843Z"
+    "scrapedAt": "2026-07-29T22:00:29.474Z"
   }
 ]
