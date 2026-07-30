@@ -13,7 +13,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-finance-460067",
@@ -29,7 +29,7 @@
       "Operations"
     ],
     "postedAt": "2026-07-29T20:55:50.000Z",
-    "scrapedAt": "2026-07-29T21:58:26.524Z"
+    "scrapedAt": "2026-07-30T02:01:59.376Z"
   },
   {
     "id": "arbeitnow:lead-data-engineer-mumbai-242719",
@@ -45,7 +45,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-29T15:16:10.000Z",
-    "scrapedAt": "2026-07-29T21:58:26.524Z"
+    "scrapedAt": "2026-07-30T02:01:59.376Z"
   },
   {
     "id": "arbeitnow:lead-data-engineer-london-485443",
@@ -61,7 +61,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-29T15:16:10.000Z",
-    "scrapedAt": "2026-07-29T21:58:26.524Z"
+    "scrapedAt": "2026-07-30T02:01:59.376Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -77,7 +77,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -97,7 +97,23 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-07-29T22:01:56.523Z"
+    "scrapedAt": "2026-07-30T02:05:46.878Z"
+  },
+  {
+    "id": "greenhouse:coinbase-8082199",
+    "externalId": "coinbase:8082199",
+    "source": "greenhouse",
+    "title": "Senior Software Engineer, Data Engineering Platform",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "remote": true,
+    "url": "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n The Data Platform team builds and operates the systems that centralize all of Coinbase's internal and third-party data, making it easy for teams across the company to access, process, and transform that data for analytics, machine learning, and powering end-user experiences. As an engineer on the team you'll contribute across the full spectrum of our systems, from foundational processing and storage to scalable pipelines to the frameworks, tools, and internal applications that make data easily and efficiently available.\n We have a number of open roles within the Data Platform team, each with a different focus area; read on to see if you'll be a good fit as a Data Engineering Platform Engineer.\n This role sits between our platform and the analysts, data scientists, and data engineers who use it every day. You'll build the SDKs, self-service apps, and abstractions that let thousands of pipelines and analyses run without those users needing to understand the plumbing underneath.\n What you'll do:\n Own the design and delivery of blockchain network infrastructure that abstracts blockchain complexity into reliable, platform APIs\n Lead multi-quarter initiatives including new chain integrations, re-architecture efforts, and data migrations that improve system latency, reliability, and cost\n Define and maintain APIs, SLOs, and observability for the systems you build, including on-call o…",
+    "tags": [
+      "Engineering - Backend"
+    ],
+    "postedAt": "2026-07-24T19:33:43.000Z",
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -113,7 +129,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -129,7 +145,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -145,7 +161,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -161,7 +177,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -177,7 +193,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "greenhouse:lyft-8605842002",
@@ -193,7 +209,7 @@
       "Pricing"
     ],
     "postedAt": "2026-06-24T15:02:28.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -209,7 +225,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "greenhouse:stripe-8013220",
@@ -225,7 +241,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-06-17T17:52:36.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -241,23 +257,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
-  },
-  {
-    "id": "greenhouse:lyft-8594129002",
-    "externalId": "lyft:8594129002",
-    "source": "greenhouse",
-    "title": "Data Engineer",
-    "company": "Lyft",
-    "location": "Mexico City, Mexico",
-    "remote": false,
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8594129002?gh_jid=8594129002",
-    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n The Safety and Customer Care (SCC) team at Lyft manages over 1.7 million monthly human and AI interactions and serves as Lyft's primary direct touchpoint with riders and drivers. We handle critical infrastructure that powers both human associates and AI agents to make riders and drivers feel safe and comfortable while riding or driving with Lyft, transforming every support interaction into a moment of genuine connection.\n As a Data Engineer on the SCC team, you will have ownership over the data modeling and pipelines that power SCC’s Associate and AI Agent Platform . Your efforts will be critical to the reliability of our pipelines, execution of third party data integrations, accurate reporting of agents performance, and efficiency improvements that can save millions of dollars / year. You will work cross-functionally to bridge Lyft's business goals with data engineering. Your efforts will allow access to business and user behavior insights, using huge amounts of Lyft data to fuel several teams such as Analytics, Data Science, Engineering, and many others.\n Responsibilities:\n Owner of the core data pipeline, responsible for scaling up data processing flow to meet the rapid data growth at Lyft\n Evolve data model and data schema based on business and engineering needs\n Implement systems tracking data quality and consistency\n Develop tools supporting self-service data pipeline management (ETL)\n SQL and MapReduce job tuning to improve data processing performance\n Write well-crafted, well-tested, readable, maintainable code\n Participate in code reviews to ensure code quality and distribute knowledge\n Collaborate cross-functionally with product, engineering, data science, and marketing teams to understand business problems and align on prioritization and solutions\n Experience:\n 4+ years of professional e…",
-    "tags": [
-      "SCC Tech"
-    ],
-    "postedAt": "2026-06-16T23:45:54.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -273,7 +273,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "lever:spotify-08d82da1-0c72-44d1-91eb-7fa22dee3d39",
@@ -293,7 +293,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-05-13T15:23:52.322Z",
-    "scrapedAt": "2026-07-29T22:01:56.523Z"
+    "scrapedAt": "2026-07-30T02:05:46.878Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -309,7 +309,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "lever:spotify-4303f795-d0a5-41ed-8c78-0941780b6e54",
@@ -329,7 +329,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-04-20T19:31:08.951Z",
-    "scrapedAt": "2026-07-29T22:01:56.523Z"
+    "scrapedAt": "2026-07-30T02:05:46.878Z"
   },
   {
     "id": "greenhouse:coinbase-7736521",
@@ -345,7 +345,7 @@
       "Data Engineering"
     ],
     "postedAt": "2026-03-31T00:37:32.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "greenhouse:anthropic-5125387008",
@@ -361,7 +361,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-02-20T00:49:54.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "greenhouse:stripe-7548037",
@@ -377,7 +377,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-01-20T05:58:11.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -393,7 +393,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -409,7 +409,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "greenhouse:figma-5220003004",
@@ -425,7 +425,23 @@
       "Engineering"
     ],
     "postedAt": "2024-07-08T16:15:29.000Z",
-    "scrapedAt": "2026-07-29T21:58:27.099Z"
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
+  },
+  {
+    "id": "greenhouse:robinhood-4738660",
+    "externalId": "robinhood:4738660",
+    "source": "greenhouse",
+    "title": "Senior Software Engineer, Data Engineering",
+    "company": "Robinhood",
+    "location": "Menlo Park, CA",
+    "remote": false,
+    "url": "https://boards.greenhouse.io/robinhood/jobs/4738660?t=gh_src=&gh_jid=4738660",
+    "description": "Join us in building the future of finance.\n Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.\n About the team + role\n We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards.\n The Data Engineering team builds and maintains the foundational datasets that power decision-making across Robinhood. We design reliable, scalable data systems that support product analytics, growth strategy, financial reporting, experimentation, and machine learning. The team partners closely with Product, Engineering, Data Science, and Finance to ensure accurate, well-modeled data is available to teams across the company. Our work directly influences how Robinhood measures performance, improves customer experience, and scales its products.\n As a Senior Data Engineer, you will design, build, and evolve core datasets that track product performance and company-wide metrics. You will develop scalable data pipelines that ingest application events and database snapshots into our data lake, ensuring high data quality and reliability. You’ll collaborate with application engineers to improve data generation patterns and with analytics teams to design intuitive, well-documented data models. This is an opportunity to shape the technical foundation that supports data-informed decisions across the organization!\n This role is based in our Menlo Park, CA office, with in-person atten…",
+    "tags": [
+      "ENG Data Science"
+    ],
+    "postedAt": "2022-12-08T18:08:49.000Z",
+    "scrapedAt": "2026-07-30T02:01:59.787Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -441,7 +457,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:workday-JR-0107814",
@@ -457,7 +473,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:workday-JR-0107883",
@@ -473,7 +489,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:nvidia-JR2021331",
@@ -487,7 +503,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:nvidia-JR2020545",
@@ -501,7 +517,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -515,7 +531,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:nvidia-JR2019415",
@@ -529,7 +545,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:salesforce-JR338656",
@@ -543,7 +559,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:salesforce-JR353004",
@@ -557,7 +573,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -571,7 +587,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:redhat-R-058408",
@@ -587,7 +603,7 @@
       "Remote"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:adobe-R159981",
@@ -601,7 +617,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:adobe-R169988",
@@ -615,7 +631,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:adobe-R170861",
@@ -629,7 +645,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:adobe-R170680",
@@ -643,7 +659,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:adobe-R169536",
@@ -657,7 +673,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:adobe-R166484",
@@ -671,7 +687,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -685,7 +701,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:autodesk-26WD100084",
@@ -699,7 +715,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -713,7 +729,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -727,7 +743,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -741,7 +757,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:58:36.343Z"
+    "scrapedAt": "2026-07-30T02:02:30.360Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -755,7 +771,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T21:59:49.869Z"
+    "scrapedAt": "2026-07-30T02:03:44.159Z"
   },
   {
     "id": "workday:salesforce-JR347388",
@@ -769,6 +785,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-29T22:00:29.474Z"
+    "scrapedAt": "2026-07-30T02:04:22.803Z"
   }
 ]
