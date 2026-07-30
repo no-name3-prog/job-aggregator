@@ -13,7 +13,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-finance-460067",
@@ -29,7 +29,7 @@
       "Operations"
     ],
     "postedAt": "2026-07-29T20:55:50.000Z",
-    "scrapedAt": "2026-07-30T13:51:02.934Z"
+    "scrapedAt": "2026-07-30T16:24:48.023Z"
   },
   {
     "id": "arbeitnow:lead-data-engineer-mumbai-242719",
@@ -45,7 +45,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-29T15:16:10.000Z",
-    "scrapedAt": "2026-07-30T13:51:02.934Z"
+    "scrapedAt": "2026-07-30T16:24:48.023Z"
   },
   {
     "id": "arbeitnow:lead-data-engineer-london-485443",
@@ -61,7 +61,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-29T15:16:10.000Z",
-    "scrapedAt": "2026-07-30T13:51:02.934Z"
+    "scrapedAt": "2026-07-30T16:24:48.023Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -77,7 +77,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -97,7 +97,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-07-30T13:54:22.063Z"
+    "scrapedAt": "2026-07-30T16:28:13.754Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -113,7 +113,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -129,7 +129,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -145,7 +145,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -161,7 +161,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -177,7 +177,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -193,23 +193,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
-  },
-  {
-    "id": "greenhouse:lyft-8605842002",
-    "externalId": "lyft:8605842002",
-    "source": "greenhouse",
-    "title": "Data Engineer, Pricing",
-    "company": "Lyft",
-    "location": "Toronto, Canada",
-    "remote": false,
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8605842002?gh_jid=8605842002",
-    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n Pricing is at the core of Lyft’s business, driving revenue, balancing supply and demand, and shaping user experience through real-time and strategic decisions. The Pricing team builds and maintains the systems that determine what a ride should cost—incorporating demand forecasts, marketplace signals, promotions, cost models, and more.\n As a Data Engineer on the Pricing team, you will help build the data foundation that powers Lyft’s pricing strategies. You will architect, build, and maintain scalable data pipelines to support real-time pricing, experimentation, analytics, and modeling. Your work will enable integration with partner teams and allow stakeholders across Engineering, Data Science, and Product to make data-informed decisions that directly impact Lyft’s growth and profitability.\n Our technology stack is based on the latest technologies such as AWS, Kubernetes and Apache Airflow. You will work with incredibly passionate and talented colleagues from software engineering, machine learning and data science on projects that directly impact millions of riders and drivers.\n Responsibilities:\n Owner of the pricing data pipeline, responsible for scaling up data processing flow to meet the rapid data growth at Lyft\n Evolve data model and data schema based on business and engineering needs\n Implement systems tracking data quality and consistency\n Develop tools supporting self-service data pipeline management (ETL)\n SQL and MapReduce job tuning to improve data processing performance\n Write well-crafted, well-tested, readable, maintainable code\n Participate in code reviews to ensure code quality and distribute knowledge\n Unblock, support and communicate with internal & external partners to achieve results\n Experience:\n Bachelor's degree in Computer Science, Engineering, Mathematics, Statistics, or a…",
-    "tags": [
-      "Pricing"
-    ],
-    "postedAt": "2026-06-24T15:02:28.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -225,7 +209,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "greenhouse:stripe-8013220",
@@ -241,7 +225,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-06-17T17:52:36.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -257,7 +241,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -273,7 +257,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "lever:spotify-08d82da1-0c72-44d1-91eb-7fa22dee3d39",
@@ -293,7 +277,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-05-13T15:23:52.322Z",
-    "scrapedAt": "2026-07-30T13:54:22.063Z"
+    "scrapedAt": "2026-07-30T16:28:13.754Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -309,7 +293,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "lever:spotify-4303f795-d0a5-41ed-8c78-0941780b6e54",
@@ -329,7 +313,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-04-20T19:31:08.951Z",
-    "scrapedAt": "2026-07-30T13:54:22.063Z"
+    "scrapedAt": "2026-07-30T16:28:13.754Z"
   },
   {
     "id": "greenhouse:coinbase-7736521",
@@ -345,7 +329,7 @@
       "Data Engineering"
     ],
     "postedAt": "2026-03-31T00:37:32.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "greenhouse:anthropic-5125387008",
@@ -361,7 +345,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-02-20T00:49:54.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "greenhouse:stripe-7548037",
@@ -377,7 +361,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-01-20T05:58:11.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -393,7 +377,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -409,7 +393,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "greenhouse:figma-5220003004",
@@ -425,7 +409,7 @@
       "Engineering"
     ],
     "postedAt": "2024-07-08T16:15:29.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -441,7 +425,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-07-30T13:51:03.508Z"
+    "scrapedAt": "2026-07-30T16:24:48.805Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -457,7 +441,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:workday-JR-0107814",
@@ -473,7 +457,23 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
+  },
+  {
+    "id": "workday:workday-JR-0108816",
+    "externalId": "workday:JR-0108816",
+    "source": "workday",
+    "title": "Data Platform Engineer - Cybersecurity",
+    "company": "Workday",
+    "location": "Ireland, Dublin",
+    "remote": false,
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816",
+    "description": "",
+    "tags": [
+      "Flex"
+    ],
+    "postedAt": null,
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:workday-JR-0107883",
@@ -489,7 +489,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:nvidia-JR2021331",
@@ -503,7 +503,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:nvidia-JR2020545",
@@ -517,7 +517,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -531,7 +531,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:nvidia-JR2019415",
@@ -545,7 +545,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:salesforce-JR352818",
@@ -559,7 +559,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:salesforce-JR338656",
@@ -573,7 +573,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:salesforce-JR353004",
@@ -587,7 +587,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -601,7 +601,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:redhat-R-058408",
@@ -617,7 +617,7 @@
       "Remote"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:adobe-R159981",
@@ -631,7 +631,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:adobe-R169988",
@@ -645,7 +645,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:adobe-R170861",
@@ -659,7 +659,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:adobe-R170680",
@@ -673,7 +673,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:adobe-R169536",
@@ -687,7 +687,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:adobe-R166484",
@@ -701,7 +701,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -715,7 +715,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:autodesk-26WD100084",
@@ -729,7 +729,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -743,21 +743,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
-  },
-  {
-    "id": "workday:autodesk-26WD98052",
-    "externalId": "autodesk:26WD98052",
-    "source": "workday",
-    "title": "Principal Data Engineer, User Success (Agentic Experiences)",
-    "company": "Autodesk",
-    "location": "Toronto, ON, CAN",
-    "remote": false,
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -771,7 +757,21 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:51:11.251Z"
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
+  },
+  {
+    "id": "workday:autodesk-26WD98052",
+    "externalId": "autodesk:26WD98052",
+    "source": "workday",
+    "title": "Principal Data Engineer, User Success (Agentic Experiences)",
+    "company": "Autodesk",
+    "location": "Toronto, ON, CAN",
+    "remote": false,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-07-30T16:24:57.821Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -785,7 +785,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:52:27.412Z"
+    "scrapedAt": "2026-07-30T16:26:13.741Z"
   },
   {
     "id": "workday:salesforce-JR347388",
@@ -799,6 +799,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T13:53:04.402Z"
+    "scrapedAt": "2026-07-30T16:26:50.301Z"
   }
 ]

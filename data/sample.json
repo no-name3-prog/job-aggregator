@@ -1,88 +1,82 @@
 [
   {
-    "id": "greenhouse:coinbase-8095252",
-    "externalId": "coinbase:8095252",
+    "id": "greenhouse:scaleai-4719479005",
+    "externalId": "scaleai:4719479005",
     "source": "greenhouse",
-    "title": "Senior Software Engineer",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8095252?gh_jid=8095252",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Senior Software Engineer, Backend - Platform (Tokens & Wrapped Assets)\n We're hiring a Senior Software Engineer to join the Tokens & Wrapped Assets team within the Platform organization. This team builds and operates the platform that issues, wraps, and transforms every asset at Coinbase, including flagship wrapped assets like cbBTC, spanning Ethereum, Base, and Solana. You'll own complex projects end-to-end, from smart contract through APIs and production rollout, designing and operating the Go services that mint, burn, bridge, and reconcile wrapped assets across chains.\nWhat you'll do:\n Own end-to-end delivery of complex token and wrapped asset initiatives, from smart contract deployment through API design, SLOs, and production rollout across multiple chains.\n Build and operate the Go services and smart contracts that mint, burn, bridge, and reconcile wrapped assets, ensuring correctness across on-chain and off-chain systems.\n Drive improvements to the asset transformation and migration pipeline, making it dramatically faster and safer to launch, upgrade, and migrate tokens at scale.\n Partner across Trading, Custody, USDC, Compliance, and the broader crypto stack to ship customer- and revenue-impacting work that advances onchain innovation.\n Lead on-call ownership for team services, building observability, runbooks, and operational improvements that keep Tier-0 systems relia…",
-    "tags": [
-      "Engineering - Backend"
-    ],
-    "postedAt": "2026-07-30T13:25:46.000Z",
-    "scrapedAt": "2026-07-30T13:50:14.525Z"
-  },
-  {
-    "id": "greenhouse:lyft-8657527002",
-    "externalId": "lyft:8657527002",
-    "source": "greenhouse",
-    "title": "Operations Associate",
-    "company": "Lyft",
-    "location": "Austin, TX",
+    "title": "Engineering Manager, Infrastructure",
+    "company": "Scale AI",
+    "location": "London, UK",
     "remote": false,
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8657527002?gh_jid=8657527002",
-    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n Flexdrive is a subsidiary of Lyft that works together with Lyft teams to realize our shared mission.\n Flexdrive provides vehicle access to Lyft drivers through a flexible car rental subscription program, is looking for a motivated and organized Operations Associate to join our Austin team full-time. Reporting into the Operations Lead, in this role, you will be providing quality in-person experiences by serving customers at our local Flexdrive facilities that offer the Express Drive Program end-to-end rental process and preparing them for the exciting road ahead. If you love working with people, have a passion for operations and the thought of helping Lyft drivers continue to build this incredible ride-sharing movement in Austin sounds exciting, we would love to meet you!\n Responsibilities:\n Assists customers with the car rental process, including but not limited to Express Drive customer support, customer Arrival/Check-In, assigning drivers to rental vehicles and processing rental returns\n Prepares Flexdrive rental vehicles for Lyft Drivers, which includes fueling and cleaning, installing telematics, license plates, conducting fleet vehicle inspections, and managing vehicle compliance documents\n Manages vehicle lot organization, vehicle transportation, and other daily rental operations\n Flags vehicle issues, program challenges, and bugs to the Operations Lead and internal/external partners\n Builds trust and works effectively with others to achieve results and team goals\n Upholds Flexdrive’s high standard of service while working with all drivers and be an ambassador for the Lyft brand\n Takes initiative and ownership to \"make it happen\" and seeks out opportunities to contribute to team success\n Experience:\n 1+ year of experience in an in-person customer service role like retail, technical support or…",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4719479005",
+    "description": "At Scale AI, our mission is to accelerate the development of AI applications. For 10 years, Scale has been the leading AI data foundry, helping fuel the most exciting advancements in AI, including: generative AI, defense applications, and autonomous vehicles. With our recent Series F round, we’re accelerating the abundance of frontier data to pave the road to Artificial General Intelligence (AGI), and building upon our prior model evaluation work with enterprise customers and governments, to deepen our capabilities and offerings for both public and private evaluations.\n About our Enterprise Team:\n Our team owns the full deployment lifecycle of SGP in live customer environments — from initial rollout through long-term operational health. We work cross-functionally with customers, GTM, product, and infrastructure to ensure every deployment is production-ready, secure, and built to last.\n We’re looking for an Infrastructure Engineering Manager to help shape the future of AI-powered applications. In this role, you’ll bridge the gap between AI research and production, leading a team that is turning innovative prototypes into scalable, high-performance enterprise solutions. Your team will work on interactive AI applications, enterprise SaaS products, and platform capabilities that redefine how businesses leverage AI.\n We don't just ship and move on. We stay close to the customer experience, translating real-world deployment challenges into platform improvements, automation, and scalable playbooks that make every future rollout smoother than the last. If you're energized by solving complex technical problems at the intersection of customer impact and platform excellence, this is the team for you.\n Responsibilities:\n Define and execute the infrastructure roadmap aligned with business and engineering priorities.\n Lead the design and implementation of scalable, secure, and reliable infrastructure systems.\n Set and maintain SLAs/SLOs for platform uptime, performance, and deve…",
     "tags": [
-      "AV & Fleet Operations"
+      "Enterprise Engineering"
     ],
-    "postedAt": "2026-07-30T13:14:03.000Z",
-    "scrapedAt": "2026-07-30T13:50:14.525Z"
+    "postedAt": "2026-07-30T16:21:42.000Z",
+    "scrapedAt": "2026-07-30T16:23:53.530Z"
   },
   {
-    "id": "arbeitnow:head-of-product-engineering-berlin-247291",
-    "externalId": "head-of-product-engineering-berlin-247291",
-    "source": "arbeitnow",
-    "title": "Head of Product & Engineering (m/w/d)",
-    "company": "CKM Group",
-    "location": "Berlin",
-    "remote": true,
-    "url": "https://www.arbeitnow.com/jobs/companies/ckm-group/head-of-product-engineering-berlin-247291",
-    "description": "Intro\n Die bündelt Expertise aus verschiedenen Bereichen, um Fortschritt und Innovation in der Gesundheitsversorgung voranzutreiben. Unser Zusammenschluss aus Klinik, Labor, telemedizinischem Service und IT-Unternehmen steht für die Entwicklung moderner und effektiver Lösungen im Gesundheitswesen.\n Unser Ziel ist es, durch präventive Dienstleistungsmedizin, eHealth und Public Health eine führende und wegweisende Rolle im Gesundheitssystem von morgen einzunehmen. Dabei setzen wir auf smarte Logistik, Digitalisierung, Diagnostik und individuelle Prävention. Wir denken Gesundheitsversorgung und Diagnostik neu und hinterfragen dazu stets den Status Quo.\n Ein neuer Pfeiler dieser Vision ist : Mit unserem telemedizinischen Service bieten wir einen einfachen und sicheren Zugang zu medizinischem Cannabis, um Symptome zu lindern und die Lebensqualität zu verbessern. Darüber hinaus unterstützen wir Patienten bereits heute mit modernen Lösungen zur medizinisch begleiteten Gewichtsreduktion. Perspektivisch planen wir, unser Angebot um weitere Präventions- und Gesundheitsleistungen zu erweitern, um noch mehr Menschen individuell auf ihrem Weg zu mehr Gesundheit und Lebensqualität zu begleiten.\n Du möchtest nicht nur Teams führen, sondern eine gesamte Product- und Engineering-Organisation auf das nächste Level bringen? Du verstehst es, technische Exzellenz mit einer klaren Produktstrategie zu verbinden und schaffst Strukturen, die schnelles Wachstum ermöglichen? Dann werde Teil unseres Führungsteams und gestalte die Zukunft unserer Engineering- und Produktorganisation aktiv mit.\n Deine Mission bei uns\n Engineering-Organisation neu aufstellen und skalieren: Du übernimmst die Gesamtverantwortung für drei Engineering-Teams und ein Infrastruktur-Team, strukturierst Organisation, Rollen und Zusammenarbeit neu und baust Strukturen, die mit unserem Wachstum skalieren.\n Produktteam führen: Du leitest unser Product- und UI/UX-Team, entwickelst Produktstrategie und Roadmap gemeinsam mit d…",
-    "tags": [
-      "Remote",
-      "Software Development",
-      "berufserfahren"
-    ],
-    "jobType": "berufserfahren",
-    "postedAt": "2026-07-30T12:30:52.000Z",
-    "scrapedAt": "2026-07-30T13:50:13.592Z"
-  },
-  {
-    "id": "arbeitnow:senior-project-turnaround-manager-freelance-hybrid-bonn-432075",
-    "externalId": "senior-project-turnaround-manager-freelance-hybrid-bonn-432075",
-    "source": "arbeitnow",
-    "title": "Senior Project Turnaround Manager (Freelance, Hybrid)",
-    "company": "Sidekick Network GmbH & Co. KG",
-    "location": "Bonn",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-project-turnaround-manager-freelance-hybrid-bonn-432075",
-    "description": "For a complex and business-critical transformation project, we are looking for an experienced Senior Project Turnaround Manager on a freelance basis.\n The role is intended to provide hands-on support during an intensive project stabilisation and recovery phase. This is not a purely advisory or moderating assignment. The Project Recovery Manager will actively develop, document and implement the structures required to stabilise the project.\n The primary focus will be on establishing effective project governance, clarifying roles and responsibilities, resolving existing organisational ambiguities and defining a reliable collaboration model between the involved internal and external parties.\n The Project Recovery Manager will work closely with the Senior IT Project Manager, the PMO, the Solution Architect and the responsible stakeholders.\n Key Facts / Framework Conditions\n Contract type: Freelance assignment\n Start: As soon as possible\n Initial duration: At least six weeks\n Extension: Possible depending on project status and recovery progress\n Workload: 100%\n Working model: Hybrid\n Onsite presence: Regular/weekly onsite presence will be required during the recovery and stabilisation phase\n Languages: Fluent German and English are mandatory\n Location requirement : Only candidates based in the EU can be considered for this assignment.\n Tasks\n Conduct a structured assessment of the current project organisation, governance and delivery setup\n Identify organisational gaps, unclear responsibilities, ineffective decision paths and critical dependencies\n Develop and implement an effective project governance model\n Clarify project roles, responsibilities and accountabilities\n Review existing RACI models and resolve overlaps, gaps and ambiguities\n Document agreed roles, responsibilities and decision-making authorities\n Define clear decision-making and escalation processes\n Establish an effective collaboration model between internal teams, external partners and other involved par…",
-    "tags": [
-      "Process Management",
-      "Freelance",
-      "manager"
-    ],
-    "jobType": "Freelance",
-    "postedAt": "2026-07-30T12:30:52.000Z",
-    "scrapedAt": "2026-07-30T13:50:13.592Z"
-  },
-  {
-    "id": "greenhouse:robinhood-8083818",
-    "externalId": "robinhood:8083818",
+    "id": "greenhouse:robinhood-8093267",
+    "externalId": "robinhood:8093267",
     "source": "greenhouse",
-    "title": "Senior Software Developer, Developer Experience (DevX)",
+    "title": "Assistant General Counsel, Canada",
     "company": "Robinhood",
     "location": "Toronto, Canada",
     "remote": false,
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8083818?t=gh_src=&gh_jid=8083818",
-    "description": "Join us in building the future of finance.\n Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.\n About the team + role\n We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold builders and sharp problem-solvers who are wired to deliver great outcomes. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. The DevX team’s mission is to build and operate the core developer infrastructure at Robinhood. Our team owns and scales the systems that thousands of engineers rely on daily, partnering with software developers across the company to make development fast, reliable, and cost-efficient!\n As a Senior Software Developer, you will focus on building and scaling our developer infrastructure. You will manage and optimize monorepo builds with Bazel and own the remote build execution cluster that powers them, and you will scale CI pipelines to be fast, safe, and reliable across thousands of daily builds. You will also improve the developer onboarding experience and provide remote development environments to accelerate development workflows. In this role, you will ensure developers can code, test, and deploy with minimal friction. This is an incredible opportunity to make a massive difference for the entire engineering organization!\n This role is based in our Toronto, ON office, with in-person attendance expected at least 3 days per week.\n At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams.\n What you’ll do\n Manage and optimize monorepo build…",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8093267?t=gh_src=&gh_jid=8093267",
+    "description": "Join us in building the future of finance.\n Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.\n About the team + role\n We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards.\n We are looking for an experienced and innovative attorney to join our regulatory and product counsel team as Assistant General Counsel, reporting to the Senior Director and Deputy General Counsel, Crypto at Robinhood. In this role, you’ll partner directly with our product and compliance teams on product launches and provide legal counsel to them on an ongoing basis. The successful candidate will be an engaged and resourceful self-starter, comfortable working in a fast-paced and dynamic environment, and excellent at building strong relationships. This is an exciting opportunity to join a growing company and add to our mission to democratize finance for all.\n This role is based in our Toronto office with in-person attendance expected at least 3 days per week.\n At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams.\n What you’ll do\n Provide end-to-end counseling on a range of retail cryptocurrency products and services, collaborating with colleagues and cross-functional stakeholders across the company\n Re…",
     "tags": [
-      "ENG Infrastructure"
+      "Wonderfi Compliance"
     ],
-    "postedAt": "2026-07-30T12:27:22.000Z",
-    "scrapedAt": "2026-07-30T13:50:14.525Z"
+    "postedAt": "2026-07-30T16:03:35.000Z",
+    "scrapedAt": "2026-07-30T16:23:53.530Z"
+  },
+  {
+    "id": "greenhouse:block-5375187008",
+    "externalId": "block:5375187008",
+    "source": "greenhouse",
+    "title": "Regional Sales Manager",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "remote": false,
+    "url": "http://block.xyz/careers/jobs/5375187008?gh_jid=5375187008",
+    "description": "Since we opened our doors in 2009, the world of commerce has evolved immensely, and so has Square. After enabling anyone to take payments and never miss a sale, we saw sellers stymied by disparate, outmoded products and tools that wouldn't work together.\n So we expanded into software and started building integrated, omnichannel solutions – to help sellers sell online, manage inventory, offer buy now, pay later functionality, book appointments, engage loyal buyers, and hire and pay staff. Across it all, we've embedded financial services tools at the point of sale, so merchants can access a business loan and manage their cash flow in one place. Afterpay furthers our goal to provide omnichannel tools that unlock meaningful value and growth, enabling sellers to capture the next generation shopper, increase order sizes, and compete at a larger scale.\n Today, we are a partner to sellers of all sizes – large, enterprise-scale businesses with complex operations, sellers just starting, as well as merchants who began selling with Square and have grown larger over time. As our sellers grow, so do our solutions. There is a massive opportunity in front of us. We're building a significant, meaningful, and lasting business, and we are helping sellers worldwide do the same.\n The Role\n The Reseller Channel Partnerships team is responsible for defining, establishing, and scaling Square's growth via channel distribution partners. Reporting to the Head of Reseller Channel Partnerships, we are looking for an experienced business development manager to define and execute Square's partnership strategy with the Global Reseller Community. We view Resellers as a significant, untapped distribution channel for Square, and are looking for someone with the track record and relationships in this space to define and execute our approach. This is a highly visible position, with regular exposure to company leadership.\n You Will\n Hunt! Recruiting Resellers is the number one focus of the role\n Focus…",
+    "tags": [
+      "20249 S&M - Sales - Square Field Sales"
+    ],
+    "postedAt": "2026-07-30T15:45:04.000Z",
+    "scrapedAt": "2026-07-30T16:23:53.530Z"
+  },
+  {
+    "id": "greenhouse:figma-6130524004",
+    "externalId": "figma:6130524004",
+    "source": "greenhouse",
+    "title": "Director, Enterprise Sales (London, United Kingdom)",
+    "company": "Figma",
+    "location": "London, England",
+    "remote": false,
+    "url": "https://boards.greenhouse.io/figma/jobs/6130524004?gh_jid=6130524004",
+    "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!\n Figma is looking for a Director, Enterprise Sales (2nd line leader) to shape our sales strategy and collaborate with teams across the company. You aren’t the typical sales leader, and we aren’t the typical design tool company. At Figma we think creatively, lift constraints that block our imagination everyday, and we expect you to do the same. With this role you’ll get in at the ground floor in a fast growing sales org. You’ll collaborate with our existing customer base and potential customers in driving meaningful relationships that make valuable contributions to the customer experience and revenue to our bottom line.\n Our next team member will have an agile, dynamic mentality, be comfortable embracing change, a true team-player, and love working with our growing footprint of Fortune 1000 customers. You won’t be alone! Figma has an incredible team and you’ll work closely with other groups including Support, Design, Engineering, Product Marketing, Customer Success, and Community. As a Director, Enterprise Sales, you will lead a team of Account Executives responsible for the engagement, expansion and retention of our rapidly growing customer base. You will report to the VP of Northern EMEA.\n This is a full time role that can be held from our London hub.\n What you'll do at Figma:\n Evaluate and implement playbooks, and systems needed to support a high-growth team\n Test and refine growth and acquisition strategies through data, segment-specific value drivers, and compelling stories\n Develop strong…",
+    "tags": [
+      "Sales"
+    ],
+    "postedAt": "2026-07-30T15:34:52.000Z",
+    "scrapedAt": "2026-07-30T16:23:53.530Z"
+  },
+  {
+    "id": "greenhouse:duolingo-8658659002",
+    "externalId": "duolingo:8658659002",
+    "source": "greenhouse",
+    "title": "Talent Attraction Partner",
+    "company": "Duolingo",
+    "location": "New York, NY",
+    "remote": false,
+    "url": "https://careers.duolingo.com/jobs/8658659002?gh_jid=8658659002",
+    "description": "Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!\n At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.\n Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.\n Read our blog to learn more.\n About the role...\n We’re looking for a Sourcer to partner closely with our industry-leading recruiting team, driving both outbound and referral talent efforts. In this role, you’ll be on the front lines of identifying, engaging, and inspiring top Marketing, Creative, Business and G&A roles talent to join our mission.\n 🧠 You will...\n Partner with Recruiters and Hiring Managers to develop and implement tailored sourcing strategies for a unique mix of Marketing, Creative, Business and G&A roles\n Proactively build and maintain a strong pipeline of top-tier talent across various Marketing, Creative, Business and G&A roles using a mix of outbound sourcing and CRM re-engagement\n Attend intake meetings to deeply understand each role’s requirements\n Conduct recruiter screens to evaluate technical alignment and share calibrated recommendations with the hiring manager.\n Own the creation of market maps and talent intelligence reports that provide total addressable market (TAM) insights, inform sourcing strategies, and help prioritize pipeline efforts.\n Run A/B tests on outreach strategies and continuously iterate to improve candidate funnel performance.\n Balance speed and precision, reaching out to volume at scale without sacrificing personalization or quality of engagement.\n ✅ You have...\n A Bachelor’s degree\n 2+ years of sourcing experience with a focus…",
+    "tags": [
+      "Talent Acquisition"
+    ],
+    "postedAt": "2026-07-30T15:24:30.000Z",
+    "scrapedAt": "2026-07-30T16:23:53.530Z"
   }
 ]
