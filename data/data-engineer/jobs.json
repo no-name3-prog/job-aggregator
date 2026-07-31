@@ -1,89 +1,5 @@
 [
   {
-    "id": "arbeitnow:data-engineer-liveeo-gmbh-berlin-office-hybrid-497041",
-    "externalId": "data-engineer-liveeo-gmbh-berlin-office-hybrid-497041",
-    "source": "arbeitnow",
-    "title": "Data Engineer (f/m/x)",
-    "company": "LiveEO GmbH",
-    "location": "LiveEO GmbH Berlin Office (Hybrid)",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/data-engineer-liveeo-gmbh-berlin-office-hybrid-497041",
-    "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
-    "tags": [
-      "dataengineer",
-      "startup",
-      "surfacescout",
-      "python",
-      "rasterio",
-      "geopandas",
-      "prefect",
-      "postgis",
-      "Experienced",
-      "Permanent",
-      "Full time"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-07-31T02:09:26.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.369Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-all-genders-leipzig-31268",
-    "externalId": "senior-data-engineer-all-genders-leipzig-31268",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer (all genders)",
-    "company": "Eorbit Gmbh",
-    "location": "Leipzig",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/senior-data-engineer-all-genders-leipzig-31268",
-    "description": "Deine Aufgaben Where the Data Engineer builds pipelines, you own the platform. Rocket’s data layer has to scale from a handful of European hotel groups to enterprise chains across two continents — multi-tenant, reliable, cost-efficient, and fast enough to serve both real-time product features and ML workloads.\n You will set the architecture, the standards, and the roadmap for our Databricks lakehouse, and raise the bar for everyone working on data at MICE DESK.\n Data platform architecture. Own the design of our lakehouse (Medallion architecture on Databricks): tenancy model, storage layout, orchestration, streaming vs. batch strategy, cost management, and the evolution path as customer volume grows 10x. Scalable multi-tenant ingestion. Design the ingestion framework that makes onboarding a new hotel group a configuration task, not an engineering project — across wildly heterogeneous PMS/CRM sources and both EU and US data residency requirements. ML and product data serving. Build the interfaces between the data platform and its consumers: feature pipelines for our ML models, low-latency serving for in-product analytics, and the contracts that keep both stable. Standards and mentorship. Define engineering standards for the data team — testing, CI/CD for pipelines, documentation, data contracts — and mentor data engineers toward them. What success looks like:\n 3 months: You’ve audited the current platform, set the target architecture, and shipped the first structural improvement. 12 months: The platform onboards new enterprise customers in days, serves ML and product reliably, and the data team operates at a visibly higher standard.\n Dein Profil 5+ years in data engineering, including architecture ownership of a production data platform Deep, hands-on Databricks and Spark expertise Proven design of multi-tenant or large-scale data systems Strong software engineering practice: testing, CI/CD, infrastructure-as-code for data Experience mentoring engineers or leading da…",
-    "tags": [
-      "Experienced",
-      "Permanent",
-      "Full time"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-07-30T23:09:13.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.369Z"
-  },
-  {
-    "id": "arbeitnow:internal-data-engineer-leipzig-97050",
-    "externalId": "internal-data-engineer-leipzig-97050",
-    "source": "arbeitnow",
-    "title": "Internal Data Engineer (m/w/d)",
-    "company": "Eorbit Gmbh",
-    "location": "Leipzig",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/internal-data-engineer-leipzig-97050",
-    "description": "Deine Aufgaben Pipelines: Du bindest unsere Quellsysteme an — CRM (Pipedrive), Produktdatenbanken, Finanzsysteme, Drittanbieter-APIs, Hotelsysteme (Opera, SIHOT, Delphi). Ingestion, Scheduling, Fehlerbehandlung. Modellierung: Du baust die transformierte Schicht (dbt oder gleichwertig): sauber versioniert, getestet, dokumentiert. Staging → Core → Marts. Metriken-Layer: Eine Definition pro Kennzahl. Du machst die Diskussion „aber in meinem Excel steht 4,2” endgültig überflüssig. Data Quality: Tests, Freshness-Checks, Alerting. Du merkst, dass eine Pipeline gebrochen ist, bevor der CFO es merkt. Enablement: Du baust Modelle so, dass Fachbereiche im BI-Tool selbst arbeiten können. Du bist kein Dashboard-Butler. Zuarbeit Reporting: Du lieferst die verlässliche Datengrundlage für C-Level- und Investorenreporting — die Interpretation übernimmt Finance.\n Dein Profil 3+ Jahre als Analytics Engineer, Data Engineer oder BI Engineer mit starkem Modellierungsanteil. SQL auf Expertenniveau. Kein „ich kann Joins”, sondern Window Functions, Inkrementalität, Performance. Erfahrung mit dbt — oder du kannst überzeugend erklären, warum du es anders gelöst hast. Python für Ingestion und Automatisierung. Erfahrung mit mindestens einem Warehouse: BigQuery, Snowflake, Redshift oder Postgres-basiert. Git, Code Review, Tests, CI. Deine Datenmodelle sind Software, kein Bastelkeller. Du sprichst mit Fachbereichen und übersetzt „ich brauche mal eine Auswertung” in ein Datenmodell.\n Von Vorteil: Du hast CRM-Daten (Pipedrive, HubSpot, Salesforce) schon einmal in ein Warehouse überführt — inklusive der Freude über historisch gewachsene Custom Fields. Erfahrung mit Orchestrierung (Airflow, Dagster, Prefect). BI-Tooling: Metabase, Looker, Power BI. DSGVO-Bewusstsein bei personenbezogenen Daten — bei uns kein Nebenthema.\n Warum wir? Wir sind das Technologieunternehmen, das den Gruppen- und Veranstaltungsverkauf in der Hotellerie neu denkt. Was heute über Posteingang, Excel und Telefon läuft, macht u…",
-    "tags": [
-      "Experienced",
-      "Permanent",
-      "Full time"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-07-30T23:09:13.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.369Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-all-genders-leipzig-115210",
-    "externalId": "data-engineer-all-genders-leipzig-115210",
-    "source": "arbeitnow",
-    "title": "Data Engineer (all genders)",
-    "company": "Eorbit Gmbh",
-    "location": "Leipzig",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/data-engineer-all-genders-leipzig-115210",
-    "description": "Deine Aufgaben Everything Rocket does — AI extraction, pricing intelligence, customer dashboards, business reporting — runs on data that you make trustworthy. You will build and operate the pipelines that pull sales data out of heterogeneous hotel systems (PMS, CRM, email) and land it, cleaned and modeled, in our Databricks lakehouse.\n The core of the job:  Hotel data is famously messy: every property configures its PMS differently, legacy systems export inconsistent formats, and the same booking looks different in three systems. Making that reliable at scale is the job.\n Ingestion pipelines. Build and maintain pipelines from customer systems (SIHOT, Opera, Guestline, Salesforce, email) into our bronze layer — batch and streaming, APIs and file-based, resilient to the quirks of each source. Data modeling. Develop the silver/gold layers of our Medallion architecture: clean, well-documented models of requests, offers, bookings, and revenue that serve analytics, dashboards, and ML features alike. Data quality and observability. Implement validation, monitoring, and alerting so broken source data is caught before it reaches a customer dashboard or a pricing model. Analytics enablement. Support customer-facing performance reports and internal KPI dashboards — working with Product and customer teams to turn data into insight hotels act on. What success looks like:\n 3 months: You own several production pipelines end-to-end and have measurably improved their reliability. 12 months: Onboarding a new hotel group’s data is a repeatable process, not a project — and data quality issues are caught by your systems, not by customers.\n Dein Profil 2–4 years as a data engineer or in a strongly data-focused engineering role Strong SQL and Python Hands-on Databricks and Spark experience — this is a hard requirement, our entire platform runs on it Hands-on experience building production pipelines (batch and/or streaming) Pragmatic approach to messy real-world data Strong English (B2–C1…",
-    "tags": [
-      "Experienced",
-      "Permanent",
-      "Full time"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-07-30T23:09:13.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.369Z"
-  },
-  {
     "id": "greenhouse:discord-8614971002",
     "externalId": "discord:8614971002",
     "source": "greenhouse",
@@ -97,172 +13,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-london-121041",
-    "externalId": "senior-data-engineer-london-121041",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer",
-    "company": "LiveScore Group",
-    "location": "London, England, United Kingdom",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore-group/senior-data-engineer-london-121041",
-    "description": "Soho, London\n Hybrid working: 3 days in the office Tues - Thurs\n The Role\n We are seeking a Senior Data Engineer to join our Data Team, taking a leading role in building the complex, scalable systems that power our data strategy. You will lead architectural discussions, own the design of business-critical data solutions and deliver high-quality systems that bring millions of fans closer to the sports they love. This is a fantastic opportunity to lead the optimisation of our data platforms for real-time AI/ML workloads, mentor engineers and make a significant impact on our business. The Senior Data Engineer leads technical initiatives, maintains data integrity and performance, and works across teams to translate complex business requirements into effective data solutions. The role also uses automation and artificial intelligence to improve efficiency, decision-making and productivity across the organisation.\n At LiveScore Group, we're the proud home of three of the most exciting brands in the sports and gaming world: LiveScore, LiveScore Bet and Virgin Bet. A fully owned and operated ecosystem that converges the two worlds of sports media and sports betting. We're proud of the high ratings for our commitment to excellence and fueling fan's passion for sport driving us to the top.\n We don't just lead; we innovate. Our cutting-edge products and immersive experiences set the standard, but it's our people who truly make the difference. Every day, our team embody our values: adaptability, teamwork, a fan-driven approach, and an ever-curious mindset that fuels our ambition. As we scale and continue to create a culture that allows all employees to thrive, we know we need the most talented people with diverse backgrounds, perspectives and skills. If you're good at what you do, come and join us. The more inclusive we are, the more amazing experiences we can create for our users.\n We know that job descriptions can sometimes seem daunting, and you might not feel you tick every…",
-    "tags": [],
-    "postedAt": "2026-07-30T21:45:26.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.369Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-london-313309",
-    "externalId": "data-engineer-london-313309",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "LiveScore Group",
-    "location": "London, England, United Kingdom",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore-group/data-engineer-london-313309",
-    "description": "Soho, London\n Hybrid working: 3 days in the office Tues - Thurs\n The Role\n We are seeking a Data Engineer to join our Data Team, playing a vital part in building the complex, scalable systems that power our data strategy. You will contribute to architectural discussions and deliver high-quality data solutions that bring millions of fans closer to the sports they love. This is a fantastic opportunity to develop your expertise in optimising data platforms for real-time AI/ML workloads, collaborate with experienced engineers, and make a significant impact on our business.\n At LiveScore Group, we're the proud home of three of the most exciting brands in the sports and gaming world: LiveScore, LiveScore Bet and Virgin Bet. A fully owned and operated ecosystem that converges the two worlds of sports media and sports betting. We're proud of the high ratings for our commitment to excellence and fueling fan's passion for sport driving us to the top.\n We don't just lead; we innovate. Our cutting-edge products and immersive experiences set the standard, but it's our people who truly make the difference. Every day, our team embody our values: adaptability, teamwork, a fan-driven approach, and an ever-curious mindset that fuels our ambition. As we scale and continue to create a culture that allows all employees to thrive, we know we need the most talented people with diverse backgrounds, perspectives and skills. If you're good at what you do, come and join us. The more inclusive we are, the more amazing experiences we can create for our users.\n We know that job descriptions can sometimes seem daunting, and you might not feel you tick every box. But, if you're passionate about the role and have relevant experience, we want to hear from you!\n Key Responsibilities\n Develop and deploy robust data pipelines using GCP services such as BigQuery, Dataflow, Pub/Sub and Cloud Storage. This includes integrating data from various sources, ensuring data quality and enabling real-time proces…",
-    "tags": [],
-    "postedAt": "2026-07-30T21:45:26.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.369Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-london-350221",
-    "externalId": "data-engineer-london-350221",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Atolls",
-    "location": "London, England, United Kingdom",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/atolls/data-engineer-london-350221",
-    "description": "Atolls is the world's largest community-driven shopping platform, active in 20+ markets.\n We help millions make smarter spending decisions across discovery, evaluation, and (re-)purchase by connecting people with the right brands and retailers.\n Our 1,000+ team across 10 countries builds products used every day at global scale, where you'll have real ownership and see your impact. Want to shape the destinations people rely on to shop with confidence? Keep reading.\n About This Role:\n We are looking for a Data Engineer to join our Data Products team . At Atolls, your role will be instrumental in helping us building a data platform and data products that helps many multiple teams at the company creating exceptional user experiences and empowering consumers to make informed and confident shopping decisions. As a key part of our team, you'll be directly involved in building and enhancing the digital destinations our users rely on throughout their shopping journeys.\n Your contributions will help shape how millions of consumers interact with our platforms, guiding them to make smart, fair, and rewarding choices.\n Our Benefits:\n At Atolls, we believe in nurturing both your professional and personal growth. Here's what you can expect:\n A culture that values personal and professional development, with internal mobility opportunities.\n A supportive and open-minded team that embraces diverse perspectives and innovative ideas.\n 32 days of paid vacation plus your birthday off, giving you the time you need to recharge.\n A flexible hybrid working scheme to balance work and life.\n Access to a learning budget and internal training to help you grow in your role.\n Mental health coaching to support your well-being.\n Regular global and local get-togethers to celebrate successes and build connections.\n The possibility of taking a sabbatical after three years with the company.\n A cloud-based company setup, providing flexibility and collaboration opportunities no matter where you are.\n *Th…",
-    "tags": [],
-    "postedAt": "2026-07-30T21:45:23.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.369Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-london-346649",
-    "externalId": "data-engineer-london-346649",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Atolls",
-    "location": "London, England, United Kingdom",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/atolls/data-engineer-london-346649",
-    "description": "Atolls is the world's largest community-driven shopping platform, active in 20+ markets.\n We help millions make smarter spending decisions across discovery, evaluation, and (re-)purchase by connecting people with the right brands and retailers.\n Our 1,000+ team across 10 countries builds products used every day at global scale, where you'll have real ownership and see your impact. Want to shape the destinations people rely on to shop with confidence? Keep reading.\n About This Role:\n We are looking for a Data Engineer to join our Data Products team . At Atolls, your role will be instrumental in helping us building a data platform and data products that helps many multiple teams at the company creating exceptional user experiences and empowering consumers to make informed and confident shopping decisions. As a key part of our team, you'll be directly involved in building and enhancing the digital destinations our users rely on throughout their shopping journeys.\n Your contributions will help shape how millions of consumers interact with our platforms, guiding them to make smart, fair, and rewarding choices.\n Our Benefits:\n At Atolls, we believe in nurturing both your professional and personal growth. Here's what you can expect:\n A culture that values personal and professional development, with internal mobility opportunities.\n A supportive and open-minded team that embraces diverse perspectives and innovative ideas.\n 32 days of paid vacation plus your birthday off, giving you the time you need to recharge.\n A flexible hybrid working scheme to balance work and life.\n Access to a learning budget and internal training to help you grow in your role.\n Mental health coaching to support your well-being.\n Regular global and local get-togethers to celebrate successes and build connections.\n The possibility of taking a sabbatical after three years with the company.\n A cloud-based company setup, providing flexibility and collaboration opportunities no matter where you are.\n *Th…",
-    "tags": [],
-    "postedAt": "2026-07-30T21:45:23.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.369Z"
-  },
-  {
-    "id": "arbeitnow:data-engineering-manager-uk-remote-36619",
-    "externalId": "data-engineering-manager-uk-remote-36619",
-    "source": "arbeitnow",
-    "title": "Data Engineering Manager (UK Remote)",
-    "company": "Ivcevidensia",
-    "location": "Remote, England, England",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/data-engineering-manager-uk-remote-36619",
-    "description": "About Us\n IVC Evidensia is the UK and Europe’s leading veterinary care group, made up of over 900 practices and referral hospitals, united by a shared purpose of happier animals, happier owners.\n At IVC Evidensia, we believe careers should be built without limits. Our people are supported to make more impact, access more career opportunities, and play an active role in their local and professional communities. Through investment in learning, innovation, and wellbeing, we create environments where our teams can grow in confidence, capability, and fulfilment—at every stage of their career.\n As part of Central Functions, you will be part of the teams that support and enable our network of over 2,500 practices across 20 countries, driving operational excellence, innovation, and strategic impact across the business.\n Our Technology teams are responsible for the systems and infrastructure that make that work - everything our healthcare professionals need to deliver world-class care. From keeping on top of patient records, health plans, client communications, diary management and dispensing, our teams have a lot to think about and need smarter ways to provide the convenience and expertise that modern Pet owners have come to expect.\n The Data Engineering Manager is a UK Remote based role with occasional office attendance of around once or twice a month.\n Team\n Join our growing Data function as we modernise our entire data ecosystem and transition from a traditional SQL data warehouse to a cutting‑edge Databricks Lakehouse architecture. You’ll lead a high‑performing Data Engineering team (typically 4–8 engineers), working closely with Product Managers, Architects, Infrastructure, Service teams, and regional data partners to deliver a federated data platform that powers insight and innovation across the organisation.\n As part of the wider Technology group, you’ll report into the VP of Software Engineering and collaborate regularly with senior stakeholders. This is a key lead…",
-    "tags": [
-      "IT & Digital",
-      "Chocolate Factory",
-      "Keynsham [9025]"
-    ],
-    "jobType": "Chocolate Factory",
-    "postedAt": "2026-07-30T21:26:54.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.369Z"
-  },
-  {
-    "id": "arbeitnow:data-platform-engineer-berlin-338774",
-    "externalId": "data-platform-engineer-berlin-338774",
-    "source": "arbeitnow",
-    "title": "Data Platform Engineer (m/w/d)",
-    "company": "ANGEHEUERT GmbH",
-    "location": "Berlin, Berlin, Deutschland",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/data-platform-engineer-berlin-338774",
-    "description": "Du möchtest nicht nur Daten verarbeiten, sondern eine moderne Datenplattform entwickeln, die Analysen, Reporting und datengetriebene Entscheidungen im gesamten Unternehmen ermöglicht?\n Dann könnte diese Position genau das Richtige für dich sein.\n Unser Kunde, ein dynamisch wachsende E-Commerce Service Agentur in Berlin , zählt zu den erfolgreichsten Amazon-Händlern Deutschlands und vertreibt tausende Produkte\n Für den weiteren Ausbau der Data & Analytics Landschaft wird eine Persönlichkeit gesucht, die moderne Datenarchitekturen entwickelt und den Weg zu einer datengetriebenen Organisation aktiv mitgestaltet\n Deine Benefits Attraktive Vergütung: Ein leistungsgerechtes Fixgehalt, das deiner Erfahrung und Qualifikation entspricht.\n Flexibles Arbeiten: Hybrides Arbeitsmodell mit 2 Home-Office Tagen, einer 40-Stunden-Woche, Gleitzeit mit Arbeitsbeginn zwischen 6:00 und 10:00 Uhr.\n Langfristige Sicherheit: Unbefristeter Arbeitsvertrag sowie 30 Urlaubstage in einem wirtschaftlich erfolgreichen und zukunftssicheren Unternehmen.\n Weiterentwicklung: Ob fachlich oder persönlich – deine Entwicklung wird aktiv gefördert und langfristig begleitet.\n Modernes Arbeitsumfeld: Freue dich auf ein modernes Büro im Berliner Bezirk Lichtenberg.\n Mobilität: Ob mit den öffentlichen Verkehrsmitteln oder dem Auto – profitiere von einem bezuschussten Jobticket oder kostenlosen Parkplätzen direkt am Büro.\n Teamkultur: Flache Hierarchien, offene Kommunikation, eine gelebte Du-Kultur und regelmäßige Team- sowie Firmenevents wie „Grill & Chill“ sorgen für ein starkes Miteinander.\n Verpflegung: Kostenlose Getränke sowie frisches Obst stehen dir im Arbeitsalltag jederzeit zur Verfügung.\n Mitarbeitervorteile: Profitiere von attraktiven Mitarbeiterrabatten auf das Sortiment sowie weiteren Corporate Benefits.\n Deine Aufgaben Als Data Engineer entwickelst und betreibst du moderne Datenplattformen in Microsoft Azure und Microsoft Fabric und sorgst dafür, dass hochwertige Daten zuverlässig für Analysen,…",
-    "tags": [
-      "Experienced",
-      "fulltime permanent"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-07-30T20:30:28.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.369Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-berlin-129969",
-    "externalId": "senior-data-engineer-berlin-129969",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer (m/w/d)",
-    "company": "ANGEHEUERT GmbH",
-    "location": "Berlin, Berlin, Deutschland",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/senior-data-engineer-berlin-129969",
-    "description": "Du möchtest nicht nur Daten verarbeiten, sondern eine moderne Datenplattform entwickeln, die Analysen, Reporting und datengetriebene Entscheidungen im gesamten Unternehmen ermöglicht?\n Dann könnte diese Position genau das Richtige für dich sein.\n Unser Kunde, ein dynamisch wachsende E-Commerce Service Agentur in Berlin , zählt zu den erfolgreichsten Amazon-Händlern Deutschlands und vertreibt tausende Produkte\n Für den weiteren Ausbau der Data & Analytics Landschaft wird eine Persönlichkeit gesucht, die moderne Datenarchitekturen entwickelt und den Weg zu einer datengetriebenen Organisation aktiv mitgestaltet\n Deine Benefits Attraktive Vergütung: Ein leistungsgerechtes Fixgehalt, das deiner Erfahrung und Qualifikation entspricht.\n Flexibles Arbeiten: Hybrides Arbeitsmodell mit 2 Home-Office Tagen, einer 40-Stunden-Woche, Gleitzeit mit Arbeitsbeginn zwischen 6:00 und 10:00 Uhr.\n Langfristige Sicherheit: Unbefristeter Arbeitsvertrag sowie 30 Urlaubstage in einem wirtschaftlich erfolgreichen und zukunftssicheren Unternehmen.\n Weiterentwicklung: Ob fachlich oder persönlich – deine Entwicklung wird aktiv gefördert und langfristig begleitet.\n Modernes Arbeitsumfeld: Freue dich auf ein modernes Büro im Berliner Bezirk Lichtenberg.\n Mobilität: Ob mit den öffentlichen Verkehrsmitteln oder dem Auto – profitiere von einem bezuschussten Jobticket oder kostenlosen Parkplätzen direkt am Büro.\n Teamkultur: Flache Hierarchien, offene Kommunikation, eine gelebte Du-Kultur und regelmäßige Team- sowie Firmenevents wie „Grill & Chill“ sorgen für ein starkes Miteinander.\n Verpflegung: Kostenlose Getränke sowie frisches Obst stehen dir im Arbeitsalltag jederzeit zur Verfügung.\n Mitarbeitervorteile: Profitiere von attraktiven Mitarbeiterrabatten auf das Sortiment sowie weiteren Corporate Benefits.\n Deine Aufgaben Als Data Engineer entwickelst und betreibst du moderne Datenplattformen in Microsoft Azure und Microsoft Fabric und sorgst dafür, dass hochwertige Daten zuverlässig für Analysen,…",
-    "tags": [
-      "Experienced",
-      "fulltime permanent"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-07-30T20:30:28.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.369Z"
-  },
-  {
-    "id": "arbeitnow:senior-analytics-engineer-london-364300",
-    "externalId": "senior-analytics-engineer-london-364300",
-    "source": "arbeitnow",
-    "title": "Senior Analytics Engineer",
-    "company": "Numan",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/numan/senior-analytics-engineer-london-364300",
-    "description": "About Numan\n Founded in 2018, we’ve already grown to be a 300+ team distributed across the globe, united by a singular mission: empowering people to take control of their health.\n Numan is transforming health: we’ve built a cutting-edge platform that integrates diagnostics, medication, supplements, digital programmes, and doctor consultations. Giving people the tools they need to maximise life.\n To deliver on our transformative mission, we are guided by our 5 company values:\n • Patients first.\n • Learn fast.\n • Own the quality.\n • Succeed together.\n • Care deeply.\n Backed by top-tier investors, Numan is already having a positive impact on hundreds of thousands of patients here in the UK, and we want you to help us deliver this mission!\n The role\n As Numan enters an exciting new chapter of AI-powered analytics, we're looking for a Senior Analytics Engineer to sit at the core of our data platform and drive better decisions across the entire business.\n This is one of the most varied analytics engineering roles in digital health. Your work will span multiple domains - from commercial performance and marketing effectiveness through to health outcomes analytics and clinical operations - giving you a genuinely broad view of the business and the full patient journey.\n We are embarking on a strategic investment in AI-powered analytics, with a full remit to explore and adopt the latest and greatest technologies. You'll be shaping which tools, approaches, and practices Numan adopts as a company.\n Reporting to the Head of Data Engineering and collaborating closely with data scientists, analysts, and stakeholders across the business.\n You'll be:\n Designing, building, and maintaining scalable, well-tested dbt data models that power analytics across commercial, marketing, health outcomes, and clinical operations domains.\n Acting as a senior technical voice within the analytics engineering function, setting standards for data modelling, testing, documentation, and code quality.\n L…",
-    "tags": [
-      "Data",
-      "Permanent"
-    ],
-    "jobType": "Permanent",
-    "postedAt": "2026-07-30T17:25:27.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.369Z"
-  },
-  {
-    "id": "arbeitnow:software-data-engineer-london-333304",
-    "externalId": "software-data-engineer-london-333304",
-    "source": "arbeitnow",
-    "title": "Software/Data Engineer",
-    "company": "Prima",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/prima/software-data-engineer-london-333304",
-    "description": "Are you looking for a new challenge?\n Fancy helping us shape the future of motor insurance?\n Prima could be the place for you.\n Since 2015, we’ve been using our love of data and tech to rethink motor insurance and bring drivers a great experience at a great price. Our story began in Italy, where we’ve quickly become the number one online motor insurance provider. In fact, we’re trusted by over 5 million drivers. And now we’re expanding to help millions more drivers in the UK and Spain.\n To help fuel that growth, we need a Data Engineer to join our Engineering team.\n This team is the beating heart of Prima.\n You’ll be joining over 300 engineers across software development, infrastructure, operations and security. Fueled by curiosity, experimentation and collaboration, you’ll help deliver scalable, impactful solutions that shape the future of insurance.\n Excited to make an impact? Here are the details\n You’ll be joining our pricing and underwriting domain to bridge the gap between machine learning/data science and engineering. You will help build, publish, and maintain our complex data products and pipelines, key elements that have a significant impact on the company’s growth.\n What you’ll do\n Shaping the architecture of data products designed for data analytics and data science specifically focusing on use cases like forecasting, feature engineering, customer behaviour, and integration of new data sources.\n Leading the way in data transformation by setting up best practices in areas like Data modelling, performance optimisation, Data Governance etc, ensuring that the data used within Prima is consistent, available and reliable.\n Build reusable technology that enables teams to ingest, store, transform, and serve their own data products.\n Engaging with data scientists and machine learning engineers to explore the product landscape and refine data requirements for enhanced data infrastructure.\n Embrace continuous learning and experimentation to stay updated on emerging…",
-    "tags": [
-      "Engineering",
-      "Permanent Employment"
-    ],
-    "jobType": "Permanent Employment",
-    "postedAt": "2026-07-30T17:05:04.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.369Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-london-134322",
-    "externalId": "data-engineer-london-134322",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Prima",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/prima/data-engineer-london-134322",
-    "description": "Are you looking for a new challenge?\n Fancy helping us shape the future of motor insurance?\n Prima could be the place for you.\n Since 2015, we’ve been using our love of data and tech to rethink motor insurance and bring drivers a great experience at a great price. Our story began in Italy, where we’ve quickly become the number one online motor insurance provider. In fact, we’re trusted by over 5 million drivers. And now we’re expanding to help millions more drivers in the UK and Spain.\n To help fuel that growth, we need a Senior Data Engineer to join our Engineering team .\n This team is the beating heart of Prima.\n You’ll be joining over 350 engineers across software development, infrastructure, operations and security. Fueled by curiosity, experimentation and collaboration, you’ll help deliver scalable, impactful solutions that shape the future of insurance.\n Excited to make an impact? Here are the details\n You’ll be joining our pricing and underwriting domain to bridge the gap between machine learning/data science and engineering. You will help build, publish, and maintain our complex data products and pipelines, key elements that have a significant impact on the company’s growth.\n What you’ll do\n Shaping the architecture of data products designed for data analytics and data science specifically focusing on use cases like forecasting, feature engineering, customer behaviour, and integration of new data sources.\n Leading the way in data transformation by setting up best practices in areas like Data modelling, performance optimisation, Data Governance etc, ensuring that the data used within Prima is consistent, available and reliable.\n Build reusable technology that enables teams to ingest, store, transform, and serve their own data products.\n Engaging with data scientists and machine learning engineers to explore the product landscape and refine data requirements for enhanced data infrastructure.\n Embrace continuous learning and experimentation to stay updated on…",
-    "tags": [
-      "Engineering",
-      "Permanent Employment"
-    ],
-    "jobType": "Permanent Employment",
-    "postedAt": "2026-07-30T17:05:04.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.369Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -278,7 +29,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -294,7 +45,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -314,7 +65,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-07-31T06:12:24.359Z"
+    "scrapedAt": "2026-07-31T11:30:57.319Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -330,7 +81,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -346,7 +97,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -362,7 +113,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -378,7 +129,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -394,7 +145,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -410,7 +161,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -426,7 +177,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "greenhouse:stripe-8013220",
@@ -442,7 +193,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-06-17T17:52:36.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -458,7 +209,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -474,7 +225,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "lever:spotify-08d82da1-0c72-44d1-91eb-7fa22dee3d39",
@@ -494,7 +245,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-05-13T15:23:52.322Z",
-    "scrapedAt": "2026-07-31T06:12:24.359Z"
+    "scrapedAt": "2026-07-31T11:30:57.319Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -510,7 +261,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "lever:spotify-4303f795-d0a5-41ed-8c78-0941780b6e54",
@@ -530,7 +281,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-04-20T19:31:08.951Z",
-    "scrapedAt": "2026-07-31T06:12:24.359Z"
+    "scrapedAt": "2026-07-31T11:30:57.319Z"
   },
   {
     "id": "greenhouse:coinbase-7736521",
@@ -546,7 +297,23 @@
       "Data Engineering"
     ],
     "postedAt": "2026-03-31T00:37:32.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
+  },
+  {
+    "id": "greenhouse:airbnb-7640881",
+    "externalId": "airbnb:7640881",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer, BizTech",
+    "company": "Airbnb",
+    "location": "Bangalore, India",
+    "remote": false,
+    "url": "https://careers.airbnb.com/positions/7640881?gh_jid=7640881",
+    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n The Community You Will Join:\n The BizTech team at Airbnb is crucial to the company's operations, handling critical data related to compliance with Tax, Payments, and Legal regulations. We also manage application data for tools such as CRM, Jira, and Workday, which are essential for Airbnb’s business. Joining this team means working with cross-functional stakeholders, designing scalable solutions, and contributing to a world-class data engineering environment with an emphasis on quality, scalability, and robust engineering practices.\n The Difference You Will Make:\n We are looking for a hands-on expert to provide technical leadership in addressing BizTech’s diverse data engineering needs and driving long-term strategies and best practices. This key leadership role requires strong collaboration and influence across teams. You'll play a crucial role in understanding business needs, identifying the right data sources, designing efficient data models, and building reliable, scalable data pipelines. As technology continues to evolve, you'll help shape and maintain significant parts of BizTech’s critical data ecosystem. Your contributions will not only address complex business challenges but also help refine and advance Airbnb’s Data Engineering Paved Path, benefiting the entire data community at Airbnb. We believe in solving problems and contributing back to our data community to continuously improve.\n A Typical Day /Responsibilities:\n Lead the design, implementation, and testing of data systems, from architecture to production.\n Build batch and real-time data systems that support business needs and critical product…",
+    "tags": [
+      "Software Engineering"
+    ],
+    "postedAt": "2026-02-20T09:59:16.000Z",
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "greenhouse:anthropic-5125387008",
@@ -562,7 +329,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-02-20T00:49:54.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "greenhouse:stripe-7548037",
@@ -578,7 +345,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-01-20T05:58:11.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -594,7 +361,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -610,7 +377,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -626,7 +393,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "greenhouse:figma-5220003004",
@@ -642,7 +409,7 @@
       "Engineering"
     ],
     "postedAt": "2024-07-08T16:15:29.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -658,39 +425,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-07-31T06:09:10.822Z"
-  },
-  {
-    "id": "workday:workday-JR-0107830",
-    "externalId": "workday:JR-0107830",
-    "source": "workday",
-    "title": "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
-    "company": "Workday",
-    "location": "2 Locations",
-    "remote": false,
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
-    "description": "",
-    "tags": [
-      "Flex"
-    ],
-    "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
-  },
-  {
-    "id": "workday:workday-JR-0107814",
-    "externalId": "workday:JR-0107814",
-    "source": "workday",
-    "title": "Senior Cybersecurity Data Engineer - AI/ML SME",
-    "company": "Workday",
-    "location": "2 Locations",
-    "remote": false,
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---AI-ML-SME_JR-0107814",
-    "description": "",
-    "tags": [
-      "Flex"
-    ],
-    "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:27:53.645Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -706,7 +441,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:workday-JR-0107883",
@@ -722,7 +457,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:workday-JR-0105494",
@@ -738,7 +473,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:nvidia-JR2021331",
@@ -752,7 +487,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:nvidia-JR2020545",
@@ -766,7 +501,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -780,7 +515,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:nvidia-JR2019415",
@@ -794,7 +529,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:salesforce-JR352818",
@@ -808,7 +543,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:salesforce-JR338656",
@@ -822,7 +557,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:salesforce-JR353004",
@@ -836,7 +571,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -850,7 +585,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:redhat-R-058408",
@@ -866,7 +601,7 @@
       "Remote"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:adobe-R159981",
@@ -880,7 +615,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:adobe-R169988",
@@ -894,7 +629,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:adobe-R170861",
@@ -908,7 +643,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:adobe-R170680",
@@ -922,7 +657,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:adobe-R169536",
@@ -936,7 +671,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:adobe-R166484",
@@ -950,7 +685,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -964,7 +699,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:autodesk-26WD100084",
@@ -978,7 +713,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -992,7 +727,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -1006,7 +741,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -1020,7 +755,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:09:17.460Z"
+    "scrapedAt": "2026-07-31T11:28:00.636Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -1034,7 +769,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:10:28.368Z"
+    "scrapedAt": "2026-07-31T11:29:08.867Z"
   },
   {
     "id": "workday:salesforce-JR347388",
@@ -1048,6 +783,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-31T06:11:05.951Z"
+    "scrapedAt": "2026-07-31T11:29:41.723Z"
   }
 ]
