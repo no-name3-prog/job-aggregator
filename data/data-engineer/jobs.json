@@ -1,5 +1,153 @@
 [
   {
+    "id": "arbeitnow:senior-data-engineer-all-genders-leipzig-31268",
+    "externalId": "senior-data-engineer-all-genders-leipzig-31268",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer (all genders)",
+    "company": "Eorbit Gmbh",
+    "location": "Leipzig",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/senior-data-engineer-all-genders-leipzig-31268",
+    "description": "Deine Aufgaben Where the Data Engineer builds pipelines, you own the platform. Rocket’s data layer has to scale from a handful of European hotel groups to enterprise chains across two continents — multi-tenant, reliable, cost-efficient, and fast enough to serve both real-time product features and ML workloads.\n You will set the architecture, the standards, and the roadmap for our Databricks lakehouse, and raise the bar for everyone working on data at MICE DESK.\n Data platform architecture. Own the design of our lakehouse (Medallion architecture on Databricks): tenancy model, storage layout, orchestration, streaming vs. batch strategy, cost management, and the evolution path as customer volume grows 10x. Scalable multi-tenant ingestion. Design the ingestion framework that makes onboarding a new hotel group a configuration task, not an engineering project — across wildly heterogeneous PMS/CRM sources and both EU and US data residency requirements. ML and product data serving. Build the interfaces between the data platform and its consumers: feature pipelines for our ML models, low-latency serving for in-product analytics, and the contracts that keep both stable. Standards and mentorship. Define engineering standards for the data team — testing, CI/CD for pipelines, documentation, data contracts — and mentor data engineers toward them. What success looks like:\n 3 months: You’ve audited the current platform, set the target architecture, and shipped the first structural improvement. 12 months: The platform onboards new enterprise customers in days, serves ML and product reliably, and the data team operates at a visibly higher standard.\n Dein Profil 5+ years in data engineering, including architecture ownership of a production data platform Deep, hands-on Databricks and Spark expertise Proven design of multi-tenant or large-scale data systems Strong software engineering practice: testing, CI/CD, infrastructure-as-code for data Experience mentoring engineers or leading da…",
+    "tags": [
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-07-30T23:09:13.000Z",
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
+  },
+  {
+    "id": "arbeitnow:internal-data-engineer-leipzig-97050",
+    "externalId": "internal-data-engineer-leipzig-97050",
+    "source": "arbeitnow",
+    "title": "Internal Data Engineer (m/w/d)",
+    "company": "Eorbit Gmbh",
+    "location": "Leipzig",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/internal-data-engineer-leipzig-97050",
+    "description": "Deine Aufgaben Pipelines: Du bindest unsere Quellsysteme an — CRM (Pipedrive), Produktdatenbanken, Finanzsysteme, Drittanbieter-APIs, Hotelsysteme (Opera, SIHOT, Delphi). Ingestion, Scheduling, Fehlerbehandlung. Modellierung: Du baust die transformierte Schicht (dbt oder gleichwertig): sauber versioniert, getestet, dokumentiert. Staging → Core → Marts. Metriken-Layer: Eine Definition pro Kennzahl. Du machst die Diskussion „aber in meinem Excel steht 4,2” endgültig überflüssig. Data Quality: Tests, Freshness-Checks, Alerting. Du merkst, dass eine Pipeline gebrochen ist, bevor der CFO es merkt. Enablement: Du baust Modelle so, dass Fachbereiche im BI-Tool selbst arbeiten können. Du bist kein Dashboard-Butler. Zuarbeit Reporting: Du lieferst die verlässliche Datengrundlage für C-Level- und Investorenreporting — die Interpretation übernimmt Finance.\n Dein Profil 3+ Jahre als Analytics Engineer, Data Engineer oder BI Engineer mit starkem Modellierungsanteil. SQL auf Expertenniveau. Kein „ich kann Joins”, sondern Window Functions, Inkrementalität, Performance. Erfahrung mit dbt — oder du kannst überzeugend erklären, warum du es anders gelöst hast. Python für Ingestion und Automatisierung. Erfahrung mit mindestens einem Warehouse: BigQuery, Snowflake, Redshift oder Postgres-basiert. Git, Code Review, Tests, CI. Deine Datenmodelle sind Software, kein Bastelkeller. Du sprichst mit Fachbereichen und übersetzt „ich brauche mal eine Auswertung” in ein Datenmodell.\n Von Vorteil: Du hast CRM-Daten (Pipedrive, HubSpot, Salesforce) schon einmal in ein Warehouse überführt — inklusive der Freude über historisch gewachsene Custom Fields. Erfahrung mit Orchestrierung (Airflow, Dagster, Prefect). BI-Tooling: Metabase, Looker, Power BI. DSGVO-Bewusstsein bei personenbezogenen Daten — bei uns kein Nebenthema.\n Warum wir? Wir sind das Technologieunternehmen, das den Gruppen- und Veranstaltungsverkauf in der Hotellerie neu denkt. Was heute über Posteingang, Excel und Telefon läuft, macht u…",
+    "tags": [
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-07-30T23:09:13.000Z",
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-all-genders-leipzig-115210",
+    "externalId": "data-engineer-all-genders-leipzig-115210",
+    "source": "arbeitnow",
+    "title": "Data Engineer (all genders)",
+    "company": "Eorbit Gmbh",
+    "location": "Leipzig",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/data-engineer-all-genders-leipzig-115210",
+    "description": "Deine Aufgaben Everything Rocket does — AI extraction, pricing intelligence, customer dashboards, business reporting — runs on data that you make trustworthy. You will build and operate the pipelines that pull sales data out of heterogeneous hotel systems (PMS, CRM, email) and land it, cleaned and modeled, in our Databricks lakehouse.\n The core of the job:  Hotel data is famously messy: every property configures its PMS differently, legacy systems export inconsistent formats, and the same booking looks different in three systems. Making that reliable at scale is the job.\n Ingestion pipelines. Build and maintain pipelines from customer systems (SIHOT, Opera, Guestline, Salesforce, email) into our bronze layer — batch and streaming, APIs and file-based, resilient to the quirks of each source. Data modeling. Develop the silver/gold layers of our Medallion architecture: clean, well-documented models of requests, offers, bookings, and revenue that serve analytics, dashboards, and ML features alike. Data quality and observability. Implement validation, monitoring, and alerting so broken source data is caught before it reaches a customer dashboard or a pricing model. Analytics enablement. Support customer-facing performance reports and internal KPI dashboards — working with Product and customer teams to turn data into insight hotels act on. What success looks like:\n 3 months: You own several production pipelines end-to-end and have measurably improved their reliability. 12 months: Onboarding a new hotel group’s data is a repeatable process, not a project — and data quality issues are caught by your systems, not by customers.\n Dein Profil 2–4 years as a data engineer or in a strongly data-focused engineering role Strong SQL and Python Hands-on Databricks and Spark experience — this is a hard requirement, our entire platform runs on it Hands-on experience building production pipelines (batch and/or streaming) Pragmatic approach to messy real-world data Strong English (B2–C1…",
+    "tags": [
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-07-30T23:09:13.000Z",
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
+  },
+  {
+    "id": "greenhouse:discord-8614971002",
+    "externalId": "discord:8614971002",
+    "source": "greenhouse",
+    "title": "Data Engineer",
+    "company": "Discord",
+    "location": "San Francisco Bay Area",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8614971002",
+    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.\n Discord is looking for an experienced and passionate Data Engineer, Analytics to join our data team! You will be owning the transformation and semantic layer that turns data into clean, tested, well-documented tables and dashboards that data scientists, product managers, and business stakeholders can trust and self-serve from. You'll define and operationalize the metrics that inform how we identify opportunities, measure success, and make decisions. If this sounds exciting to you and you’re passionate about data modeling, metric design, and empowering teams to move faster with reliable data, read on!\n What you will be doing :\n Design, build, and maintain curated analytical datasets and data models that serve as canonical sources for metrics, dashboards, and analyses\n Own metric definitions end to end, from partnering with data science and product team to define what we should measure, to implementing it in production, to surfacing it in visualization tools\n Build and maintain executive-level dashboards and self-serve reporting tools that enable business stakeholders to answer their own questions\n Partner closely with data science, product manager, and engineering teams to translate business questions into well modeled, performant, and discoverable data assets\n Establish and enforce data quality standards through testing frameworks, documentation, and monitoring for the datasets you own\n Drive adoption of consistent data modeling patterns, naming conventions, and documentation norms across the data organization\n What you should have\n 3+ years of experience in analytics or data engineering with a strong…",
+    "tags": [
+      "Data Science & Engineering"
+    ],
+    "postedAt": "2026-07-30T22:53:02.000Z",
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-london-121041",
+    "externalId": "senior-data-engineer-london-121041",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer",
+    "company": "LiveScore Group",
+    "location": "London, England, United Kingdom",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore-group/senior-data-engineer-london-121041",
+    "description": "Soho, London\n Hybrid working: 3 days in the office Tues - Thurs\n The Role\n We are seeking a Senior Data Engineer to join our Data Team, taking a leading role in building the complex, scalable systems that power our data strategy. You will lead architectural discussions, own the design of business-critical data solutions and deliver high-quality systems that bring millions of fans closer to the sports they love. This is a fantastic opportunity to lead the optimisation of our data platforms for real-time AI/ML workloads, mentor engineers and make a significant impact on our business. The Senior Data Engineer leads technical initiatives, maintains data integrity and performance, and works across teams to translate complex business requirements into effective data solutions. The role also uses automation and artificial intelligence to improve efficiency, decision-making and productivity across the organisation.\n At LiveScore Group, we're the proud home of three of the most exciting brands in the sports and gaming world: LiveScore, LiveScore Bet and Virgin Bet. A fully owned and operated ecosystem that converges the two worlds of sports media and sports betting. We're proud of the high ratings for our commitment to excellence and fueling fan's passion for sport driving us to the top.\n We don't just lead; we innovate. Our cutting-edge products and immersive experiences set the standard, but it's our people who truly make the difference. Every day, our team embody our values: adaptability, teamwork, a fan-driven approach, and an ever-curious mindset that fuels our ambition. As we scale and continue to create a culture that allows all employees to thrive, we know we need the most talented people with diverse backgrounds, perspectives and skills. If you're good at what you do, come and join us. The more inclusive we are, the more amazing experiences we can create for our users.\n We know that job descriptions can sometimes seem daunting, and you might not feel you tick every…",
+    "tags": [],
+    "postedAt": "2026-07-30T21:45:26.000Z",
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-london-313309",
+    "externalId": "data-engineer-london-313309",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "LiveScore Group",
+    "location": "London, England, United Kingdom",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore-group/data-engineer-london-313309",
+    "description": "Soho, London\n Hybrid working: 3 days in the office Tues - Thurs\n The Role\n We are seeking a Data Engineer to join our Data Team, playing a vital part in building the complex, scalable systems that power our data strategy. You will contribute to architectural discussions and deliver high-quality data solutions that bring millions of fans closer to the sports they love. This is a fantastic opportunity to develop your expertise in optimising data platforms for real-time AI/ML workloads, collaborate with experienced engineers, and make a significant impact on our business.\n At LiveScore Group, we're the proud home of three of the most exciting brands in the sports and gaming world: LiveScore, LiveScore Bet and Virgin Bet. A fully owned and operated ecosystem that converges the two worlds of sports media and sports betting. We're proud of the high ratings for our commitment to excellence and fueling fan's passion for sport driving us to the top.\n We don't just lead; we innovate. Our cutting-edge products and immersive experiences set the standard, but it's our people who truly make the difference. Every day, our team embody our values: adaptability, teamwork, a fan-driven approach, and an ever-curious mindset that fuels our ambition. As we scale and continue to create a culture that allows all employees to thrive, we know we need the most talented people with diverse backgrounds, perspectives and skills. If you're good at what you do, come and join us. The more inclusive we are, the more amazing experiences we can create for our users.\n We know that job descriptions can sometimes seem daunting, and you might not feel you tick every box. But, if you're passionate about the role and have relevant experience, we want to hear from you!\n Key Responsibilities\n Develop and deploy robust data pipelines using GCP services such as BigQuery, Dataflow, Pub/Sub and Cloud Storage. This includes integrating data from various sources, ensuring data quality and enabling real-time proces…",
+    "tags": [],
+    "postedAt": "2026-07-30T21:45:26.000Z",
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-london-350221",
+    "externalId": "data-engineer-london-350221",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "Atolls",
+    "location": "London, England, United Kingdom",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/atolls/data-engineer-london-350221",
+    "description": "Atolls is the world's largest community-driven shopping platform, active in 20+ markets.\n We help millions make smarter spending decisions across discovery, evaluation, and (re-)purchase by connecting people with the right brands and retailers.\n Our 1,000+ team across 10 countries builds products used every day at global scale, where you'll have real ownership and see your impact. Want to shape the destinations people rely on to shop with confidence? Keep reading.\n About This Role:\n We are looking for a Data Engineer to join our Data Products team . At Atolls, your role will be instrumental in helping us building a data platform and data products that helps many multiple teams at the company creating exceptional user experiences and empowering consumers to make informed and confident shopping decisions. As a key part of our team, you'll be directly involved in building and enhancing the digital destinations our users rely on throughout their shopping journeys.\n Your contributions will help shape how millions of consumers interact with our platforms, guiding them to make smart, fair, and rewarding choices.\n Our Benefits:\n At Atolls, we believe in nurturing both your professional and personal growth. Here's what you can expect:\n A culture that values personal and professional development, with internal mobility opportunities.\n A supportive and open-minded team that embraces diverse perspectives and innovative ideas.\n 32 days of paid vacation plus your birthday off, giving you the time you need to recharge.\n A flexible hybrid working scheme to balance work and life.\n Access to a learning budget and internal training to help you grow in your role.\n Mental health coaching to support your well-being.\n Regular global and local get-togethers to celebrate successes and build connections.\n The possibility of taking a sabbatical after three years with the company.\n A cloud-based company setup, providing flexibility and collaboration opportunities no matter where you are.\n *Th…",
+    "tags": [],
+    "postedAt": "2026-07-30T21:45:23.000Z",
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-london-346649",
+    "externalId": "data-engineer-london-346649",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "Atolls",
+    "location": "London, England, United Kingdom",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/atolls/data-engineer-london-346649",
+    "description": "Atolls is the world's largest community-driven shopping platform, active in 20+ markets.\n We help millions make smarter spending decisions across discovery, evaluation, and (re-)purchase by connecting people with the right brands and retailers.\n Our 1,000+ team across 10 countries builds products used every day at global scale, where you'll have real ownership and see your impact. Want to shape the destinations people rely on to shop with confidence? Keep reading.\n About This Role:\n We are looking for a Data Engineer to join our Data Products team . At Atolls, your role will be instrumental in helping us building a data platform and data products that helps many multiple teams at the company creating exceptional user experiences and empowering consumers to make informed and confident shopping decisions. As a key part of our team, you'll be directly involved in building and enhancing the digital destinations our users rely on throughout their shopping journeys.\n Your contributions will help shape how millions of consumers interact with our platforms, guiding them to make smart, fair, and rewarding choices.\n Our Benefits:\n At Atolls, we believe in nurturing both your professional and personal growth. Here's what you can expect:\n A culture that values personal and professional development, with internal mobility opportunities.\n A supportive and open-minded team that embraces diverse perspectives and innovative ideas.\n 32 days of paid vacation plus your birthday off, giving you the time you need to recharge.\n A flexible hybrid working scheme to balance work and life.\n Access to a learning budget and internal training to help you grow in your role.\n Mental health coaching to support your well-being.\n Regular global and local get-togethers to celebrate successes and build connections.\n The possibility of taking a sabbatical after three years with the company.\n A cloud-based company setup, providing flexibility and collaboration opportunities no matter where you are.\n *Th…",
+    "tags": [],
+    "postedAt": "2026-07-30T21:45:23.000Z",
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
+  },
+  {
+    "id": "arbeitnow:data-engineering-manager-uk-remote-36619",
+    "externalId": "data-engineering-manager-uk-remote-36619",
+    "source": "arbeitnow",
+    "title": "Data Engineering Manager (UK Remote)",
+    "company": "Ivcevidensia",
+    "location": "Remote, England, England",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/data-engineering-manager-uk-remote-36619",
+    "description": "About Us\n IVC Evidensia is the UK and Europe’s leading veterinary care group, made up of over 900 practices and referral hospitals, united by a shared purpose of happier animals, happier owners.\n At IVC Evidensia, we believe careers should be built without limits. Our people are supported to make more impact, access more career opportunities, and play an active role in their local and professional communities. Through investment in learning, innovation, and wellbeing, we create environments where our teams can grow in confidence, capability, and fulfilment—at every stage of their career.\n As part of Central Functions, you will be part of the teams that support and enable our network of over 2,500 practices across 20 countries, driving operational excellence, innovation, and strategic impact across the business.\n Our Technology teams are responsible for the systems and infrastructure that make that work - everything our healthcare professionals need to deliver world-class care. From keeping on top of patient records, health plans, client communications, diary management and dispensing, our teams have a lot to think about and need smarter ways to provide the convenience and expertise that modern Pet owners have come to expect.\n The Data Engineering Manager is a UK Remote based role with occasional office attendance of around once or twice a month.\n Team\n Join our growing Data function as we modernise our entire data ecosystem and transition from a traditional SQL data warehouse to a cutting‑edge Databricks Lakehouse architecture. You’ll lead a high‑performing Data Engineering team (typically 4–8 engineers), working closely with Product Managers, Architects, Infrastructure, Service teams, and regional data partners to deliver a federated data platform that powers insight and innovation across the organisation.\n As part of the wider Technology group, you’ll report into the VP of Software Engineering and collaborate regularly with senior stakeholders. This is a key lead…",
+    "tags": [
+      "IT & Digital",
+      "Chocolate Factory",
+      "Keynsham [9025]"
+    ],
+    "jobType": "Chocolate Factory",
+    "postedAt": "2026-07-30T21:26:54.000Z",
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
+  },
+  {
     "id": "arbeitnow:data-platform-engineer-berlin-338774",
     "externalId": "data-platform-engineer-berlin-338774",
     "source": "arbeitnow",
@@ -15,7 +163,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-07-30T20:30:28.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.472Z"
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-berlin-129969",
@@ -33,7 +181,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-07-30T20:30:28.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.472Z"
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
   },
   {
     "id": "arbeitnow:senior-analytics-engineer-london-364300",
@@ -51,7 +199,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-30T17:25:27.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.472Z"
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
   },
   {
     "id": "arbeitnow:software-data-engineer-london-333304",
@@ -69,7 +217,7 @@
     ],
     "jobType": "Permanent Employment",
     "postedAt": "2026-07-30T17:05:04.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.472Z"
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
   },
   {
     "id": "arbeitnow:data-engineer-london-134322",
@@ -87,7 +235,7 @@
     ],
     "jobType": "Permanent Employment",
     "postedAt": "2026-07-30T17:05:04.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.472Z"
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -103,7 +251,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -119,7 +267,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -139,7 +287,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-07-30T22:07:45.475Z"
+    "scrapedAt": "2026-07-31T02:30:55.621Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -155,7 +303,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -171,7 +319,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -187,7 +335,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -203,7 +351,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -219,7 +367,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -235,7 +383,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -251,7 +399,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "greenhouse:stripe-8013220",
@@ -267,7 +415,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-06-17T17:52:36.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -283,7 +431,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -299,7 +447,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "lever:spotify-08d82da1-0c72-44d1-91eb-7fa22dee3d39",
@@ -319,7 +467,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-05-13T15:23:52.322Z",
-    "scrapedAt": "2026-07-30T22:07:45.475Z"
+    "scrapedAt": "2026-07-31T02:30:55.621Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -335,7 +483,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "lever:spotify-4303f795-d0a5-41ed-8c78-0941780b6e54",
@@ -355,7 +503,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-04-20T19:31:08.951Z",
-    "scrapedAt": "2026-07-30T22:07:45.475Z"
+    "scrapedAt": "2026-07-31T02:30:55.621Z"
   },
   {
     "id": "greenhouse:coinbase-7736521",
@@ -371,7 +519,7 @@
       "Data Engineering"
     ],
     "postedAt": "2026-03-31T00:37:32.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "greenhouse:anthropic-5125387008",
@@ -387,7 +535,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-02-20T00:49:54.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "greenhouse:stripe-7548037",
@@ -403,7 +551,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-01-20T05:58:11.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -419,7 +567,23 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
+  },
+  {
+    "id": "greenhouse:discord-8299493002",
+    "externalId": "discord:8299493002",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer, Ads",
+    "company": "Discord",
+    "location": "San Francisco Bay Area",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8299493002",
+    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.\n Discord seeks a seasoned Data Engineer, focusing on our advertising product data. In this role, you will drive technical vision and strategy for ads data engineering in support of our ML initiatives while building and maintaining sophisticated data pipelines, datasets, and analytical tools. You will lead cross-functional initiatives to transform our advertising products through data-driven insights and mentor fellow engineers to deliver exceptional results.\n This role works heavily with Data Science, Machine Learning, and product. If leading technical innovation, architecting scalable solutions, and empowering teams through data excites you, we encourage you to make a move!\n What You'll Be Doing\n Design and own core ads data models : fact/dim tables, canonical datasets, and aggregation layers that power delivery, measurement, targeting, attribution, and ML use cases.\n Build and maintain the ML data that enables ads ranking, delivery, and targeting - including feature development, label generation workflows, intra-day training, and ML input observability to catch data quality issues before they degrade model performance.\n Build conversion measurement pipelines and integrate third-party attribution data - including Conversion Attribution and Mobile Measurement Partner (MMP) integrations (Adjust, AppsFlyer, Singular) - ensuring attribution accuracy and data parity across measurement surfaces.\n Build batch and near real-time pipeline infrastructure across the ads ecosystem - pushing toward lower-latency data for ML and reporting use cases on our BigQuery + dbt + Dagster stack. Partnering with Data Platfor…",
+    "tags": [
+      "Data Science & Engineering"
+    ],
+    "postedAt": "2025-11-19T18:20:53.000Z",
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -435,7 +599,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "greenhouse:figma-5220003004",
@@ -451,7 +615,7 @@
       "Engineering"
     ],
     "postedAt": "2024-07-08T16:15:29.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -467,7 +631,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -483,7 +647,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:workday-JR-0107814",
@@ -499,7 +663,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -515,7 +679,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:workday-JR-0107883",
@@ -531,7 +695,23 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
+  },
+  {
+    "id": "workday:workday-JR-0105494",
+    "externalId": "workday:JR-0105494",
+    "source": "workday",
+    "title": "Principal Analytics Engineer (US Federal)",
+    "company": "Workday",
+    "location": "USA.VA.Reston",
+    "remote": false,
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Analytics-Sr-Software-Engineer--US-Federal-_JR-0105494",
+    "description": "",
+    "tags": [
+      "Flex"
+    ],
+    "postedAt": null,
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:nvidia-JR2021331",
@@ -545,7 +725,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:nvidia-JR2020545",
@@ -559,7 +739,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -573,7 +753,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:nvidia-JR2019415",
@@ -587,7 +767,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:salesforce-JR352818",
@@ -601,7 +781,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:salesforce-JR338656",
@@ -615,7 +795,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:salesforce-JR353004",
@@ -629,7 +809,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -643,7 +823,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:redhat-R-058408",
@@ -659,7 +839,7 @@
       "Remote"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:adobe-R159981",
@@ -673,7 +853,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:adobe-R169988",
@@ -687,7 +867,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:adobe-R170861",
@@ -701,7 +881,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:adobe-R170680",
@@ -715,7 +895,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:adobe-R169536",
@@ -729,7 +909,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:adobe-R166484",
@@ -743,7 +923,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -757,7 +937,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:autodesk-26WD100084",
@@ -771,7 +951,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -785,7 +965,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -799,7 +979,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -813,7 +993,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:04:37.081Z"
+    "scrapedAt": "2026-07-31T02:27:53.757Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -827,7 +1007,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:05:49.883Z"
+    "scrapedAt": "2026-07-31T02:29:04.631Z"
   },
   {
     "id": "workday:salesforce-JR347388",
@@ -841,6 +1021,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-07-30T22:06:24.369Z"
+    "scrapedAt": "2026-07-31T02:29:39.441Z"
   }
 ]

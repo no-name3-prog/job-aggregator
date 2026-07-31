@@ -1,5 +1,153 @@
 [
   {
+    "id": "arbeitnow:senior-data-engineer-all-genders-leipzig-31268",
+    "externalId": "senior-data-engineer-all-genders-leipzig-31268",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer (all genders)",
+    "company": "Eorbit Gmbh",
+    "location": "Leipzig",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/senior-data-engineer-all-genders-leipzig-31268",
+    "description": "Deine Aufgaben Where the Data Engineer builds pipelines, you own the platform. Rocket’s data layer has to scale from a handful of European hotel groups to enterprise chains across two continents — multi-tenant, reliable, cost-efficient, and fast enough to serve both real-time product features and ML workloads.\n You will set the architecture, the standards, and the roadmap for our Databricks lakehouse, and raise the bar for everyone working on data at MICE DESK.\n Data platform architecture. Own the design of our lakehouse (Medallion architecture on Databricks): tenancy model, storage layout, orchestration, streaming vs. batch strategy, cost management, and the evolution path as customer volume grows 10x. Scalable multi-tenant ingestion. Design the ingestion framework that makes onboarding a new hotel group a configuration task, not an engineering project — across wildly heterogeneous PMS/CRM sources and both EU and US data residency requirements. ML and product data serving. Build the interfaces between the data platform and its consumers: feature pipelines for our ML models, low-latency serving for in-product analytics, and the contracts that keep both stable. Standards and mentorship. Define engineering standards for the data team — testing, CI/CD for pipelines, documentation, data contracts — and mentor data engineers toward them. What success looks like:\n 3 months: You’ve audited the current platform, set the target architecture, and shipped the first structural improvement. 12 months: The platform onboards new enterprise customers in days, serves ML and product reliably, and the data team operates at a visibly higher standard.\n Dein Profil 5+ years in data engineering, including architecture ownership of a production data platform Deep, hands-on Databricks and Spark expertise Proven design of multi-tenant or large-scale data systems Strong software engineering practice: testing, CI/CD, infrastructure-as-code for data Experience mentoring engineers or leading da…",
+    "tags": [
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-07-30T23:09:13.000Z",
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
+  },
+  {
+    "id": "arbeitnow:internal-data-engineer-leipzig-97050",
+    "externalId": "internal-data-engineer-leipzig-97050",
+    "source": "arbeitnow",
+    "title": "Internal Data Engineer (m/w/d)",
+    "company": "Eorbit Gmbh",
+    "location": "Leipzig",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/internal-data-engineer-leipzig-97050",
+    "description": "Deine Aufgaben Pipelines: Du bindest unsere Quellsysteme an — CRM (Pipedrive), Produktdatenbanken, Finanzsysteme, Drittanbieter-APIs, Hotelsysteme (Opera, SIHOT, Delphi). Ingestion, Scheduling, Fehlerbehandlung. Modellierung: Du baust die transformierte Schicht (dbt oder gleichwertig): sauber versioniert, getestet, dokumentiert. Staging → Core → Marts. Metriken-Layer: Eine Definition pro Kennzahl. Du machst die Diskussion „aber in meinem Excel steht 4,2” endgültig überflüssig. Data Quality: Tests, Freshness-Checks, Alerting. Du merkst, dass eine Pipeline gebrochen ist, bevor der CFO es merkt. Enablement: Du baust Modelle so, dass Fachbereiche im BI-Tool selbst arbeiten können. Du bist kein Dashboard-Butler. Zuarbeit Reporting: Du lieferst die verlässliche Datengrundlage für C-Level- und Investorenreporting — die Interpretation übernimmt Finance.\n Dein Profil 3+ Jahre als Analytics Engineer, Data Engineer oder BI Engineer mit starkem Modellierungsanteil. SQL auf Expertenniveau. Kein „ich kann Joins”, sondern Window Functions, Inkrementalität, Performance. Erfahrung mit dbt — oder du kannst überzeugend erklären, warum du es anders gelöst hast. Python für Ingestion und Automatisierung. Erfahrung mit mindestens einem Warehouse: BigQuery, Snowflake, Redshift oder Postgres-basiert. Git, Code Review, Tests, CI. Deine Datenmodelle sind Software, kein Bastelkeller. Du sprichst mit Fachbereichen und übersetzt „ich brauche mal eine Auswertung” in ein Datenmodell.\n Von Vorteil: Du hast CRM-Daten (Pipedrive, HubSpot, Salesforce) schon einmal in ein Warehouse überführt — inklusive der Freude über historisch gewachsene Custom Fields. Erfahrung mit Orchestrierung (Airflow, Dagster, Prefect). BI-Tooling: Metabase, Looker, Power BI. DSGVO-Bewusstsein bei personenbezogenen Daten — bei uns kein Nebenthema.\n Warum wir? Wir sind das Technologieunternehmen, das den Gruppen- und Veranstaltungsverkauf in der Hotellerie neu denkt. Was heute über Posteingang, Excel und Telefon läuft, macht u…",
+    "tags": [
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-07-30T23:09:13.000Z",
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-all-genders-leipzig-115210",
+    "externalId": "data-engineer-all-genders-leipzig-115210",
+    "source": "arbeitnow",
+    "title": "Data Engineer (all genders)",
+    "company": "Eorbit Gmbh",
+    "location": "Leipzig",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/data-engineer-all-genders-leipzig-115210",
+    "description": "Deine Aufgaben Everything Rocket does — AI extraction, pricing intelligence, customer dashboards, business reporting — runs on data that you make trustworthy. You will build and operate the pipelines that pull sales data out of heterogeneous hotel systems (PMS, CRM, email) and land it, cleaned and modeled, in our Databricks lakehouse.\n The core of the job:  Hotel data is famously messy: every property configures its PMS differently, legacy systems export inconsistent formats, and the same booking looks different in three systems. Making that reliable at scale is the job.\n Ingestion pipelines. Build and maintain pipelines from customer systems (SIHOT, Opera, Guestline, Salesforce, email) into our bronze layer — batch and streaming, APIs and file-based, resilient to the quirks of each source. Data modeling. Develop the silver/gold layers of our Medallion architecture: clean, well-documented models of requests, offers, bookings, and revenue that serve analytics, dashboards, and ML features alike. Data quality and observability. Implement validation, monitoring, and alerting so broken source data is caught before it reaches a customer dashboard or a pricing model. Analytics enablement. Support customer-facing performance reports and internal KPI dashboards — working with Product and customer teams to turn data into insight hotels act on. What success looks like:\n 3 months: You own several production pipelines end-to-end and have measurably improved their reliability. 12 months: Onboarding a new hotel group’s data is a repeatable process, not a project — and data quality issues are caught by your systems, not by customers.\n Dein Profil 2–4 years as a data engineer or in a strongly data-focused engineering role Strong SQL and Python Hands-on Databricks and Spark experience — this is a hard requirement, our entire platform runs on it Hands-on experience building production pipelines (batch and/or streaming) Pragmatic approach to messy real-world data Strong English (B2–C1…",
+    "tags": [
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-07-30T23:09:13.000Z",
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
+  },
+  {
+    "id": "greenhouse:discord-8614971002",
+    "externalId": "discord:8614971002",
+    "source": "greenhouse",
+    "title": "Data Engineer",
+    "company": "Discord",
+    "location": "San Francisco Bay Area",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8614971002",
+    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.\n Discord is looking for an experienced and passionate Data Engineer, Analytics to join our data team! You will be owning the transformation and semantic layer that turns data into clean, tested, well-documented tables and dashboards that data scientists, product managers, and business stakeholders can trust and self-serve from. You'll define and operationalize the metrics that inform how we identify opportunities, measure success, and make decisions. If this sounds exciting to you and you’re passionate about data modeling, metric design, and empowering teams to move faster with reliable data, read on!\n What you will be doing :\n Design, build, and maintain curated analytical datasets and data models that serve as canonical sources for metrics, dashboards, and analyses\n Own metric definitions end to end, from partnering with data science and product team to define what we should measure, to implementing it in production, to surfacing it in visualization tools\n Build and maintain executive-level dashboards and self-serve reporting tools that enable business stakeholders to answer their own questions\n Partner closely with data science, product manager, and engineering teams to translate business questions into well modeled, performant, and discoverable data assets\n Establish and enforce data quality standards through testing frameworks, documentation, and monitoring for the datasets you own\n Drive adoption of consistent data modeling patterns, naming conventions, and documentation norms across the data organization\n What you should have\n 3+ years of experience in analytics or data engineering with a strong…",
+    "tags": [
+      "Data Science & Engineering"
+    ],
+    "postedAt": "2026-07-30T22:53:02.000Z",
+    "scrapedAt": "2026-07-31T02:27:47.205Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-london-121041",
+    "externalId": "senior-data-engineer-london-121041",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer",
+    "company": "LiveScore Group",
+    "location": "London, England, United Kingdom",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore-group/senior-data-engineer-london-121041",
+    "description": "Soho, London\n Hybrid working: 3 days in the office Tues - Thurs\n The Role\n We are seeking a Senior Data Engineer to join our Data Team, taking a leading role in building the complex, scalable systems that power our data strategy. You will lead architectural discussions, own the design of business-critical data solutions and deliver high-quality systems that bring millions of fans closer to the sports they love. This is a fantastic opportunity to lead the optimisation of our data platforms for real-time AI/ML workloads, mentor engineers and make a significant impact on our business. The Senior Data Engineer leads technical initiatives, maintains data integrity and performance, and works across teams to translate complex business requirements into effective data solutions. The role also uses automation and artificial intelligence to improve efficiency, decision-making and productivity across the organisation.\n At LiveScore Group, we're the proud home of three of the most exciting brands in the sports and gaming world: LiveScore, LiveScore Bet and Virgin Bet. A fully owned and operated ecosystem that converges the two worlds of sports media and sports betting. We're proud of the high ratings for our commitment to excellence and fueling fan's passion for sport driving us to the top.\n We don't just lead; we innovate. Our cutting-edge products and immersive experiences set the standard, but it's our people who truly make the difference. Every day, our team embody our values: adaptability, teamwork, a fan-driven approach, and an ever-curious mindset that fuels our ambition. As we scale and continue to create a culture that allows all employees to thrive, we know we need the most talented people with diverse backgrounds, perspectives and skills. If you're good at what you do, come and join us. The more inclusive we are, the more amazing experiences we can create for our users.\n We know that job descriptions can sometimes seem daunting, and you might not feel you tick every…",
+    "tags": [],
+    "postedAt": "2026-07-30T21:45:26.000Z",
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-london-313309",
+    "externalId": "data-engineer-london-313309",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "LiveScore Group",
+    "location": "London, England, United Kingdom",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore-group/data-engineer-london-313309",
+    "description": "Soho, London\n Hybrid working: 3 days in the office Tues - Thurs\n The Role\n We are seeking a Data Engineer to join our Data Team, playing a vital part in building the complex, scalable systems that power our data strategy. You will contribute to architectural discussions and deliver high-quality data solutions that bring millions of fans closer to the sports they love. This is a fantastic opportunity to develop your expertise in optimising data platforms for real-time AI/ML workloads, collaborate with experienced engineers, and make a significant impact on our business.\n At LiveScore Group, we're the proud home of three of the most exciting brands in the sports and gaming world: LiveScore, LiveScore Bet and Virgin Bet. A fully owned and operated ecosystem that converges the two worlds of sports media and sports betting. We're proud of the high ratings for our commitment to excellence and fueling fan's passion for sport driving us to the top.\n We don't just lead; we innovate. Our cutting-edge products and immersive experiences set the standard, but it's our people who truly make the difference. Every day, our team embody our values: adaptability, teamwork, a fan-driven approach, and an ever-curious mindset that fuels our ambition. As we scale and continue to create a culture that allows all employees to thrive, we know we need the most talented people with diverse backgrounds, perspectives and skills. If you're good at what you do, come and join us. The more inclusive we are, the more amazing experiences we can create for our users.\n We know that job descriptions can sometimes seem daunting, and you might not feel you tick every box. But, if you're passionate about the role and have relevant experience, we want to hear from you!\n Key Responsibilities\n Develop and deploy robust data pipelines using GCP services such as BigQuery, Dataflow, Pub/Sub and Cloud Storage. This includes integrating data from various sources, ensuring data quality and enabling real-time proces…",
+    "tags": [],
+    "postedAt": "2026-07-30T21:45:26.000Z",
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-london-350221",
+    "externalId": "data-engineer-london-350221",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "Atolls",
+    "location": "London, England, United Kingdom",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/atolls/data-engineer-london-350221",
+    "description": "Atolls is the world's largest community-driven shopping platform, active in 20+ markets.\n We help millions make smarter spending decisions across discovery, evaluation, and (re-)purchase by connecting people with the right brands and retailers.\n Our 1,000+ team across 10 countries builds products used every day at global scale, where you'll have real ownership and see your impact. Want to shape the destinations people rely on to shop with confidence? Keep reading.\n About This Role:\n We are looking for a Data Engineer to join our Data Products team . At Atolls, your role will be instrumental in helping us building a data platform and data products that helps many multiple teams at the company creating exceptional user experiences and empowering consumers to make informed and confident shopping decisions. As a key part of our team, you'll be directly involved in building and enhancing the digital destinations our users rely on throughout their shopping journeys.\n Your contributions will help shape how millions of consumers interact with our platforms, guiding them to make smart, fair, and rewarding choices.\n Our Benefits:\n At Atolls, we believe in nurturing both your professional and personal growth. Here's what you can expect:\n A culture that values personal and professional development, with internal mobility opportunities.\n A supportive and open-minded team that embraces diverse perspectives and innovative ideas.\n 32 days of paid vacation plus your birthday off, giving you the time you need to recharge.\n A flexible hybrid working scheme to balance work and life.\n Access to a learning budget and internal training to help you grow in your role.\n Mental health coaching to support your well-being.\n Regular global and local get-togethers to celebrate successes and build connections.\n The possibility of taking a sabbatical after three years with the company.\n A cloud-based company setup, providing flexibility and collaboration opportunities no matter where you are.\n *Th…",
+    "tags": [],
+    "postedAt": "2026-07-30T21:45:23.000Z",
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-london-346649",
+    "externalId": "data-engineer-london-346649",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "Atolls",
+    "location": "London, England, United Kingdom",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/atolls/data-engineer-london-346649",
+    "description": "Atolls is the world's largest community-driven shopping platform, active in 20+ markets.\n We help millions make smarter spending decisions across discovery, evaluation, and (re-)purchase by connecting people with the right brands and retailers.\n Our 1,000+ team across 10 countries builds products used every day at global scale, where you'll have real ownership and see your impact. Want to shape the destinations people rely on to shop with confidence? Keep reading.\n About This Role:\n We are looking for a Data Engineer to join our Data Products team . At Atolls, your role will be instrumental in helping us building a data platform and data products that helps many multiple teams at the company creating exceptional user experiences and empowering consumers to make informed and confident shopping decisions. As a key part of our team, you'll be directly involved in building and enhancing the digital destinations our users rely on throughout their shopping journeys.\n Your contributions will help shape how millions of consumers interact with our platforms, guiding them to make smart, fair, and rewarding choices.\n Our Benefits:\n At Atolls, we believe in nurturing both your professional and personal growth. Here's what you can expect:\n A culture that values personal and professional development, with internal mobility opportunities.\n A supportive and open-minded team that embraces diverse perspectives and innovative ideas.\n 32 days of paid vacation plus your birthday off, giving you the time you need to recharge.\n A flexible hybrid working scheme to balance work and life.\n Access to a learning budget and internal training to help you grow in your role.\n Mental health coaching to support your well-being.\n Regular global and local get-togethers to celebrate successes and build connections.\n The possibility of taking a sabbatical after three years with the company.\n A cloud-based company setup, providing flexibility and collaboration opportunities no matter where you are.\n *Th…",
+    "tags": [],
+    "postedAt": "2026-07-30T21:45:23.000Z",
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
+  },
+  {
+    "id": "arbeitnow:data-engineering-manager-uk-remote-36619",
+    "externalId": "data-engineering-manager-uk-remote-36619",
+    "source": "arbeitnow",
+    "title": "Data Engineering Manager (UK Remote)",
+    "company": "Ivcevidensia",
+    "location": "Remote, England, England",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/data-engineering-manager-uk-remote-36619",
+    "description": "About Us\n IVC Evidensia is the UK and Europe’s leading veterinary care group, made up of over 900 practices and referral hospitals, united by a shared purpose of happier animals, happier owners.\n At IVC Evidensia, we believe careers should be built without limits. Our people are supported to make more impact, access more career opportunities, and play an active role in their local and professional communities. Through investment in learning, innovation, and wellbeing, we create environments where our teams can grow in confidence, capability, and fulfilment—at every stage of their career.\n As part of Central Functions, you will be part of the teams that support and enable our network of over 2,500 practices across 20 countries, driving operational excellence, innovation, and strategic impact across the business.\n Our Technology teams are responsible for the systems and infrastructure that make that work - everything our healthcare professionals need to deliver world-class care. From keeping on top of patient records, health plans, client communications, diary management and dispensing, our teams have a lot to think about and need smarter ways to provide the convenience and expertise that modern Pet owners have come to expect.\n The Data Engineering Manager is a UK Remote based role with occasional office attendance of around once or twice a month.\n Team\n Join our growing Data function as we modernise our entire data ecosystem and transition from a traditional SQL data warehouse to a cutting‑edge Databricks Lakehouse architecture. You’ll lead a high‑performing Data Engineering team (typically 4–8 engineers), working closely with Product Managers, Architects, Infrastructure, Service teams, and regional data partners to deliver a federated data platform that powers insight and innovation across the organisation.\n As part of the wider Technology group, you’ll report into the VP of Software Engineering and collaborate regularly with senior stakeholders. This is a key lead…",
+    "tags": [
+      "IT & Digital",
+      "Chocolate Factory",
+      "Keynsham [9025]"
+    ],
+    "jobType": "Chocolate Factory",
+    "postedAt": "2026-07-30T21:26:54.000Z",
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
+  },
+  {
     "id": "arbeitnow:data-platform-engineer-berlin-338774",
     "externalId": "data-platform-engineer-berlin-338774",
     "source": "arbeitnow",
@@ -15,162 +163,6 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-07-30T20:30:28.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.472Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-berlin-129969",
-    "externalId": "senior-data-engineer-berlin-129969",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer (m/w/d)",
-    "company": "ANGEHEUERT GmbH",
-    "location": "Berlin, Berlin, Deutschland",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/senior-data-engineer-berlin-129969",
-    "description": "Du möchtest nicht nur Daten verarbeiten, sondern eine moderne Datenplattform entwickeln, die Analysen, Reporting und datengetriebene Entscheidungen im gesamten Unternehmen ermöglicht?\n Dann könnte diese Position genau das Richtige für dich sein.\n Unser Kunde, ein dynamisch wachsende E-Commerce Service Agentur in Berlin , zählt zu den erfolgreichsten Amazon-Händlern Deutschlands und vertreibt tausende Produkte\n Für den weiteren Ausbau der Data & Analytics Landschaft wird eine Persönlichkeit gesucht, die moderne Datenarchitekturen entwickelt und den Weg zu einer datengetriebenen Organisation aktiv mitgestaltet\n Deine Benefits Attraktive Vergütung: Ein leistungsgerechtes Fixgehalt, das deiner Erfahrung und Qualifikation entspricht.\n Flexibles Arbeiten: Hybrides Arbeitsmodell mit 2 Home-Office Tagen, einer 40-Stunden-Woche, Gleitzeit mit Arbeitsbeginn zwischen 6:00 und 10:00 Uhr.\n Langfristige Sicherheit: Unbefristeter Arbeitsvertrag sowie 30 Urlaubstage in einem wirtschaftlich erfolgreichen und zukunftssicheren Unternehmen.\n Weiterentwicklung: Ob fachlich oder persönlich – deine Entwicklung wird aktiv gefördert und langfristig begleitet.\n Modernes Arbeitsumfeld: Freue dich auf ein modernes Büro im Berliner Bezirk Lichtenberg.\n Mobilität: Ob mit den öffentlichen Verkehrsmitteln oder dem Auto – profitiere von einem bezuschussten Jobticket oder kostenlosen Parkplätzen direkt am Büro.\n Teamkultur: Flache Hierarchien, offene Kommunikation, eine gelebte Du-Kultur und regelmäßige Team- sowie Firmenevents wie „Grill & Chill“ sorgen für ein starkes Miteinander.\n Verpflegung: Kostenlose Getränke sowie frisches Obst stehen dir im Arbeitsalltag jederzeit zur Verfügung.\n Mitarbeitervorteile: Profitiere von attraktiven Mitarbeiterrabatten auf das Sortiment sowie weiteren Corporate Benefits.\n Deine Aufgaben Als Data Engineer entwickelst und betreibst du moderne Datenplattformen in Microsoft Azure und Microsoft Fabric und sorgst dafür, dass hochwertige Daten zuverlässig für Analysen,…",
-    "tags": [
-      "Experienced",
-      "fulltime permanent"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-07-30T20:30:28.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.472Z"
-  },
-  {
-    "id": "arbeitnow:senior-analytics-engineer-london-364300",
-    "externalId": "senior-analytics-engineer-london-364300",
-    "source": "arbeitnow",
-    "title": "Senior Analytics Engineer",
-    "company": "Numan",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/numan/senior-analytics-engineer-london-364300",
-    "description": "About Numan\n Founded in 2018, we’ve already grown to be a 300+ team distributed across the globe, united by a singular mission: empowering people to take control of their health.\n Numan is transforming health: we’ve built a cutting-edge platform that integrates diagnostics, medication, supplements, digital programmes, and doctor consultations. Giving people the tools they need to maximise life.\n To deliver on our transformative mission, we are guided by our 5 company values:\n • Patients first.\n • Learn fast.\n • Own the quality.\n • Succeed together.\n • Care deeply.\n Backed by top-tier investors, Numan is already having a positive impact on hundreds of thousands of patients here in the UK, and we want you to help us deliver this mission!\n The role\n As Numan enters an exciting new chapter of AI-powered analytics, we're looking for a Senior Analytics Engineer to sit at the core of our data platform and drive better decisions across the entire business.\n This is one of the most varied analytics engineering roles in digital health. Your work will span multiple domains - from commercial performance and marketing effectiveness through to health outcomes analytics and clinical operations - giving you a genuinely broad view of the business and the full patient journey.\n We are embarking on a strategic investment in AI-powered analytics, with a full remit to explore and adopt the latest and greatest technologies. You'll be shaping which tools, approaches, and practices Numan adopts as a company.\n Reporting to the Head of Data Engineering and collaborating closely with data scientists, analysts, and stakeholders across the business.\n You'll be:\n Designing, building, and maintaining scalable, well-tested dbt data models that power analytics across commercial, marketing, health outcomes, and clinical operations domains.\n Acting as a senior technical voice within the analytics engineering function, setting standards for data modelling, testing, documentation, and code quality.\n L…",
-    "tags": [
-      "Data",
-      "Permanent"
-    ],
-    "jobType": "Permanent",
-    "postedAt": "2026-07-30T17:25:27.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.472Z"
-  },
-  {
-    "id": "arbeitnow:software-data-engineer-london-333304",
-    "externalId": "software-data-engineer-london-333304",
-    "source": "arbeitnow",
-    "title": "Software/Data Engineer",
-    "company": "Prima",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/prima/software-data-engineer-london-333304",
-    "description": "Are you looking for a new challenge?\n Fancy helping us shape the future of motor insurance?\n Prima could be the place for you.\n Since 2015, we’ve been using our love of data and tech to rethink motor insurance and bring drivers a great experience at a great price. Our story began in Italy, where we’ve quickly become the number one online motor insurance provider. In fact, we’re trusted by over 5 million drivers. And now we’re expanding to help millions more drivers in the UK and Spain.\n To help fuel that growth, we need a Data Engineer to join our Engineering team.\n This team is the beating heart of Prima.\n You’ll be joining over 300 engineers across software development, infrastructure, operations and security. Fueled by curiosity, experimentation and collaboration, you’ll help deliver scalable, impactful solutions that shape the future of insurance.\n Excited to make an impact? Here are the details\n You’ll be joining our pricing and underwriting domain to bridge the gap between machine learning/data science and engineering. You will help build, publish, and maintain our complex data products and pipelines, key elements that have a significant impact on the company’s growth.\n What you’ll do\n Shaping the architecture of data products designed for data analytics and data science specifically focusing on use cases like forecasting, feature engineering, customer behaviour, and integration of new data sources.\n Leading the way in data transformation by setting up best practices in areas like Data modelling, performance optimisation, Data Governance etc, ensuring that the data used within Prima is consistent, available and reliable.\n Build reusable technology that enables teams to ingest, store, transform, and serve their own data products.\n Engaging with data scientists and machine learning engineers to explore the product landscape and refine data requirements for enhanced data infrastructure.\n Embrace continuous learning and experimentation to stay updated on emerging…",
-    "tags": [
-      "Engineering",
-      "Permanent Employment"
-    ],
-    "jobType": "Permanent Employment",
-    "postedAt": "2026-07-30T17:05:04.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.472Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-london-134322",
-    "externalId": "data-engineer-london-134322",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Prima",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/prima/data-engineer-london-134322",
-    "description": "Are you looking for a new challenge?\n Fancy helping us shape the future of motor insurance?\n Prima could be the place for you.\n Since 2015, we’ve been using our love of data and tech to rethink motor insurance and bring drivers a great experience at a great price. Our story began in Italy, where we’ve quickly become the number one online motor insurance provider. In fact, we’re trusted by over 5 million drivers. And now we’re expanding to help millions more drivers in the UK and Spain.\n To help fuel that growth, we need a Senior Data Engineer to join our Engineering team .\n This team is the beating heart of Prima.\n You’ll be joining over 350 engineers across software development, infrastructure, operations and security. Fueled by curiosity, experimentation and collaboration, you’ll help deliver scalable, impactful solutions that shape the future of insurance.\n Excited to make an impact? Here are the details\n You’ll be joining our pricing and underwriting domain to bridge the gap between machine learning/data science and engineering. You will help build, publish, and maintain our complex data products and pipelines, key elements that have a significant impact on the company’s growth.\n What you’ll do\n Shaping the architecture of data products designed for data analytics and data science specifically focusing on use cases like forecasting, feature engineering, customer behaviour, and integration of new data sources.\n Leading the way in data transformation by setting up best practices in areas like Data modelling, performance optimisation, Data Governance etc, ensuring that the data used within Prima is consistent, available and reliable.\n Build reusable technology that enables teams to ingest, store, transform, and serve their own data products.\n Engaging with data scientists and machine learning engineers to explore the product landscape and refine data requirements for enhanced data infrastructure.\n Embrace continuous learning and experimentation to stay updated on…",
-    "tags": [
-      "Engineering",
-      "Permanent Employment"
-    ],
-    "jobType": "Permanent Employment",
-    "postedAt": "2026-07-30T17:05:04.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.472Z"
-  },
-  {
-    "id": "greenhouse:dropbox-8090062",
-    "externalId": "dropbox:8090062",
-    "source": "greenhouse",
-    "title": "Senior Manager, Data Engineering",
-    "company": "Dropbox",
-    "location": "Remote - US: Select locations",
-    "remote": true,
-    "url": "https://jobs.dropbox.com/listing/8090062?gh_jid=8090062",
-    "description": "Role Description\n We are seeking a Senior Manager, Data Engineering to lead the team responsible for the reliability, quality, cost, and velocity of Dropbox's core data platform. This is a hands-on engineering leader who owns the pipelines and data products that Product, GTM, Finance, and the CTO organization depend on to make decisions.\n In this role, you will lead and grow a team of data engineers building and operating our ingestion, transformation, orchestration, and serving layers, as well as the self-serve analytics substrate that lets partner teams answer their own questions without bespoke engineering work.\n The ideal candidate is a deeply technical, product-minded engineering leader who can hold a high bar on system reliability and data quality while partnering closely with Data Science, Business Intelligence Engineering, Analytics, and Product to turn fragmented, ticket-driven data work into durable, reusable data products.\n Responsibilities\n Data Quality & Observability: Establish and enforce a rigorous data quality culture: lineage, freshness monitoring, anomaly detection, and outcome-oriented, gaming-resistant quality metrics.\n Self-Serve Platform: Lead the engineering of the self-serve analytics substrate, reducing bespoke request volume and increasing partner-team autonomy.\n Cost & Efficiency: Own the unit economics of the data platform — compute and storage efficiency — and drive measurable improvements without sacrificing reliability.\n Cross-Functional Partnership: Partner deeply with Data Science, BIE, Analytics, Product, Data Platform, and the CTO org to define the semantic layer, modeling standards, and data contracts that make downstream work trustworthy and fast.\n Engineering Culture: Establish rigorous engineering practices — code review, testing, CI/CD for data, incident response, and postmortems — and champion the effective, measured use of AI coding tools to improve engineering productivity.\n Team Leadership: Lead, mentor, and grow a high-…",
-    "tags": [
-      "CTO-Data Science, AI Platform & Eng (Sub Team)"
-    ],
-    "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
-  },
-  {
-    "id": "greenhouse:twilio-8044650",
-    "externalId": "twilio:8044650",
-    "source": "greenhouse",
-    "title": "Senior Analytics Engineer",
-    "company": "Twilio",
-    "location": "Remote - US",
-    "remote": true,
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8044650",
-    "description": "Who we are\n At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.\n Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.\nWe use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!\n .\n See yourself at Twilio\n Join the team as Twilio’s next Sr. Analytics Engineer, R&D.\n About the job\n This position is needed to advance the consistency & quality of our R&D analytics data layer and accelerate the development velocity of analysts. Our Data Science and Analytics team seeks to empower R&D to make data-backed decisions that accelerate innovation and improve product performance. You will work closely within our team and across Product & Engineering to design and maintain a robust analytics data layer that enables trusted reporting on R&D metrics.\n Responsibilities\n In this role, you’ll:\n Design and implement a formal analytics data layer using AWS Glue, Athena / Presto, and LookML\n Collaborate within the Data Science & Analytics team and across Product & Engineering to define, document, and maintain alignment on metric definition and data lineage\n Develop and maintain automated data reconciliation and quality checks to proactively identify and resolve discrepancies, ensuring accuracy and consistency of critical reports and dashboards\n Lead investigations into complex data anomalies, conduct root cause analysis, and communicate findings and solutions effectively to both te…",
-    "tags": [
-      "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
-    ],
-    "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
-  },
-  {
-    "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
-    "externalId": "spotify:ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
-    "source": "lever",
-    "title": "Staff Data Engineer — Subscriptions User Understanding",
-    "company": "Spotify",
-    "location": "London",
-    "remote": true,
-    "url": "https://jobs.lever.co/spotify/ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
-    "description": "Spotify is on an ambitious path to reach one billion users and $100 billion in revenue, and the Subscriptions User Understanding team plays a key role in making that possible.\n Our team builds the foundational data platform that helps Spotify understand conversion, retention, engagement, and subscriber health for more than 200 million Premium subscribers around the world. We enable better decisions across analytics, experimentation, machine learning, and product development.\n We're looking for a Staff Data Engineer who combines deep technical expertise with strategic thinking. You'll help define the long-term direction of our data ecosystem, influence engineering across multiple teams, and build the foundations that will scale with Spotify's future.",
-    "tags": [
-      "Subscriptions R&D",
-      "Engineering",
-      "Permanent",
-      "remote"
-    ],
-    "jobType": "Permanent",
-    "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-07-30T22:07:45.475Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8082199",
-    "externalId": "coinbase:8082199",
-    "source": "greenhouse",
-    "title": "Senior Software Engineer, Data Engineering Platform",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n The Data Platform team builds and operates the systems that centralize all of Coinbase's internal and third-party data, making it easy for teams across the company to access, process, and transform that data for analytics, machine learning, and powering end-user experiences. As an engineer on the team you'll contribute across the full spectrum of our systems, from foundational processing and storage to scalable pipelines to the frameworks, tools, and internal applications that make data easily and efficiently available.\n We have a number of open roles within the Data Platform team, each with a different focus area; read on to see if you'll be a good fit as a Data Engineering Platform Engineer.\n This role sits between our platform and the analysts, data scientists, and data engineers who use it every day. You'll build the SDKs, self-service apps, and abstractions that let thousands of pipelines and analyses run without those users needing to understand the plumbing underneath.\n What you'll do:\n Own the design and delivery of blockchain network infrastructure that abstracts blockchain complexity into reliable, platform APIs\n Lead multi-quarter initiatives including new chain integrations, re-architecture efforts, and data migrations that improve system latency, reliability, and cost\n Define and maintain APIs, SLOs, and observability for the systems you build, including on-call o…",
-    "tags": [
-      "Engineering - Backend"
-    ],
-    "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
-  },
-  {
-    "id": "greenhouse:cloudflare-8055118",
-    "externalId": "cloudflare:8055118",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer",
-    "company": "Cloudflare",
-    "location": "In-Office",
-    "remote": false,
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118",
-    "description": "About Us\n At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.\n At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.\n Location: Austin (Hybrid)\n About Us\n At Cloudflare, we have our eyes set on an ambitious goal: to help build a better Internet. Today the company runs one of the world’s largest networks that powers trillions of requests per month. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare have all web traffic routed through i…",
-    "tags": [
-      "Engineering"
-    ],
-    "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-07-30T22:03:49.953Z"
+    "scrapedAt": "2026-07-31T02:27:46.782Z"
   }
 ]
