@@ -1,53 +1,21 @@
 [
   {
-    "id": "arbeitnow:remote-analytics-engineer-262922",
-    "externalId": "remote-analytics-engineer-262922",
+    "id": "arbeitnow:senior-data-engineer-berlin-262882",
+    "externalId": "senior-data-engineer-berlin-262882",
     "source": "arbeitnow",
-    "title": "Analytics Engineer",
-    "company": "Gismart",
-    "location": "Remote",
+    "title": "(Senior) Data Engineer (m/w/d)",
+    "company": "GALVANY",
+    "location": "Berlin",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/gismart/remote-analytics-engineer-262922",
-    "description": "About us:\n Gismart is a value-driven mobile app developer with a strong presence in the Health & Wellness, Utilities, and Music app markets. We have achieved a significant milestone of over 1 billion downloads worldwide, taking a step toward our mission of cultivating the well-being of people worldwide. With headquarters in London, UK, Gismart is a dynamic global company with a reach extending across Europe and far beyond. Our determined team comprises over 350 individuals who bring diversity, creativity, innovation, and relentless drive to the company. Gismart unites professionals from diverse backgrounds in entertainment, music, and tech, allowing us to play to each other’s strengths and succeed as a team.\n Our mission:\nBecome a stepping stone on our customers’ journeys of self-improvement.\n Our values:\n Deliver what matters\n Respect and support others\n Initiate and own\n Voiceopenly\n Execute with quality\n If you are passionate about mobile app development and want to join a company that’s reshaping the industry, Gismart is the place for you. We provide exciting career opportunities, a supportive workplace culture, and the chance to contribute to a team that is making a tangible impact. For more information on Gismart, visit gismart.com .\n Responsibilities\n Design, build, and maintain ETL/ELT pipelines using SQL/Apache Spark (AWS Glue) and Airflow.\n Model and optimize data in Amazon Redshift and query large datasets via Amazon Athena.\n Write advanced SQL to transform raw data into clean, joinable, analysis-ready tables.\n Build and maintain Tableau dashboards and data sources, ensuring accuracy, performance, and usability for business stakeholders.\n Partner with stakeholders (marketing, product, BI) to translate business questions into robust data models.\n Ensure data quality by implementing checks/monitoring and documenting the data warehouse.\n Improve pipeline reliability, performance, and cost-efficiency on AWS, including evaluating and adopting dbt for transfor…",
+    "url": "https://www.arbeitnow.com/jobs/companies/galvany/senior-data-engineer-berlin-262882",
+    "description": "At GALVANY , our goal is to make climate-neutral living a reality for everyone. We focus on execution – developing concrete, smart solutions and making heat pumps, battery storage, and smart metering easy to access, reliable, and affordable. GALVANY-Tech drives the energy transition through software. We're building an AI-based Operating System for sales, planning, installation and operation of heat pumps and integrated energy systems – from single-family homes to multi-unit buildings, and across our Energy Community as a Virtual Power Plant.\n We are a profitable green-tech startup and believe that sustainable impact and long-term growth are only possible when grounded in a healthy business model. To implement our ambitious tech roadmap, we secured €10 million in seed funding from Set Ventures and AENU in the spring 2026. Driven by customer value, clarity, and responsibility, we stand for high-quality heating solutions and an environment where people take responsibility and drive lasting impact.\n The Role\n As a Data Engineer at GALVANY, you'll architect and maintain the data infrastructure that powers our AI-based Operating System. You'll process real-time energy data from heat pumps and integrated systems, build pipelines that fuel AI models and analytics, and ensure data quality across our entire ecosystem – from individual homes to our Virtual Power Plant.\n Responsibilities:\n Design and build scalable data pipelines using Kafka, Benthos, Clickpipes and related tools.\n Ensure data quality, consistency, and freshness across the energy ecosystem and internal processes.\n Collaborate with ML engineers to deliver the right data in the right format for AI models.\n Build monitoring and validation into pipelines from the start.\n Translate business questions into data requirements and vice versa.\n Leverage LLMs and AI tools to innovate data solutions and accelerate development.\n Tech Stack: Data tools including Kafka, Benthos (data pipeline), Python, SQL; Backend with GoLa…",
     "tags": [
-      "BI Team",
+      "Tech & Product",
       "Full Time"
     ],
     "jobType": "Full Time",
-    "postedAt": "2026-08-02T16:00:25.000Z",
-    "scrapedAt": "2026-08-02T19:04:18.834Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-databricks-snowflake-london-185630",
-    "externalId": "senior-data-engineer-databricks-snowflake-london-185630",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer (Databricks / Snowflake)",
-    "company": "Alphafmcroles",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/alphafmcroles/senior-data-engineer-databricks-snowflake-london-185630",
-    "description": "<p>&nbsp;</p>\n<div id=\"message-list_1783615196.642129\">\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>Alpha Financial Markets Consulting (Alpha) is a leading global consultancy to the financial services industry. We are a boutique management consulting firm that offers the world’s top industry players a competitive edge through our expertise and industry insight. Our team is of a uniquely high calibre and works across regulated financial markets, bringing deep expertise in insurance, alternative asset markets — including private equity, private credit, infrastructure and real estate — and other specialised financial sectors. This focus enables us to bring relevant, hands-on experience to our clients’ most important challenges.&nbsp; We have our headquarters located the United Kingdom, as well as offices in major global financial centres across the United States, France, Netherlands, Luxembourg, Switzerland, and Asia.</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<h1>About the role</h1>\n<p>Our senior data engineers are hands-on leaders of consultants and client teams, building data platforms for clients in regulated financial services – private equity, real estate, fund administration, and specialist insurance. You'll work directly with client stakeholders, from engineering leads to CTOs, delivering production pipelines on Databricks or Snowflake (strong experience in one is sufficient). This is a hands-on build role with client exposure. You'll write code, review architecture decisions, lead junior engineers and explain trade-offs to people who aren't engineers.</p>\n<h1>What you'll do</h1>\n<ul>\n<li>Lead and mentor junior engineers on your delivery workstream, reviewing their code and data model decisions</li>\n<li>Build reliable ingestion pipelines that move client data from source systems into the platform efficiently and securely</li>\n<li>Design data models – Data Vault 2.0, Kimball Dimensional etc. that surv…",
-    "tags": [
-      "Insurance Consulting"
-    ],
-    "postedAt": "2026-08-02T15:55:52.000Z",
-    "scrapedAt": "2026-08-02T19:04:18.834Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-databricks-snowflake-london-455971",
-    "externalId": "data-engineer-databricks-snowflake-london-455971",
-    "source": "arbeitnow",
-    "title": "Data Engineer (Databricks / Snowflake)",
-    "company": "Alphafmcroles",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/alphafmcroles/data-engineer-databricks-snowflake-london-455971",
-    "description": "<p>&nbsp;</p>\n<div id=\"message-list_1783615196.642129\">\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>Alpha Financial Markets Consulting (Alpha) is a leading global consultancy to the financial services industry. We are a boutique management consulting firm that offers the world’s top industry players a competitive edge through our expertise and industry insight. Our team is of a uniquely high calibre and works across regulated financial markets, bringing deep expertise in insurance, alternative asset markets — including private equity, private credit, infrastructure and real estate — and other specialised financial sectors. This focus enables us to bring relevant, hands-on experience to our clients’ most important challenges.&nbsp; We have our headquarters located the United Kingdom, as well as offices in major global financial centres across the United States, France, Netherlands, Luxembourg, Switzerland, and Asia.</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<h1>About the role</h1>\n<p>We’re looking for a Data Engineer with 2+ years’ experience to join our growing data engineering capability. This role is focused on client delivery. You’ll work closely with client teams, alongside their internal engineers and Alpha consultants, to build and support modern data platforms in regulated financial services environments. The work is hands-on and delivery-focused: building pipelines, developing data models, and helping turn business requirements into trusted, production-ready data solutions.</p>\n<p>This is a strong opportunity for an engineer who wants more than just pipeline delivery. You’ll work directly with clients, solve real platform and data problems, and build experience across a range of delivery challenges in complex regulated environments.</p>\n<h1>What you'll do</h1>\n<ul>\n<li>Build reliable ingestion pipelines that move client data from source systems into the platform efficiently and securely</li>\n<li>…",
-    "tags": [
-      "Insurance Consulting"
-    ],
-    "postedAt": "2026-08-02T15:55:52.000Z",
-    "scrapedAt": "2026-08-02T19:04:18.834Z"
+    "postedAt": "2026-08-02T20:41:23.000Z",
+    "scrapedAt": "2026-08-02T21:52:43.597Z"
   },
   {
     "id": "greenhouse:discord-8614971002",
@@ -63,7 +31,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-02T19:04:19.246Z"
+    "scrapedAt": "2026-08-02T21:52:44.058Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -79,7 +47,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-08-02T19:04:19.246Z"
+    "scrapedAt": "2026-08-02T21:52:44.058Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -95,7 +63,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-08-02T19:04:19.246Z"
+    "scrapedAt": "2026-08-02T21:52:44.058Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -115,7 +83,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-08-02T19:07:37.387Z"
+    "scrapedAt": "2026-08-02T21:55:41.335Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -131,7 +99,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-08-02T19:04:19.246Z"
+    "scrapedAt": "2026-08-02T21:52:44.058Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -147,7 +115,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-08-02T19:04:19.246Z"
+    "scrapedAt": "2026-08-02T21:52:44.058Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -163,6 +131,38 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-08-02T19:04:19.246Z"
+    "scrapedAt": "2026-08-02T21:52:44.058Z"
+  },
+  {
+    "id": "greenhouse:block-5281312008",
+    "externalId": "block:5281312008",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer, Risk",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "remote": false,
+    "url": "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008",
+    "description": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.\nToday, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.\n The Role\n As a Data Engineer you will handle everything from data architecture and modeling to data pipeline tooling and dashboarding. You will enable other compliance and risk teams to make impactful business decisions by laying the foundation of our large and unique datasets that span across multiple products. This role will support compliance or risk product data engineering teams.\n The Compliance Data Engineering team at Block supports the detection and reporting of suspicious financial crimes activity across Cash App, Square, and Afterpay. We work globally with partners in business, engineering, counsel, and product to provide a safe user experience for our customers while minimizing and potentially eliminating bad activity on our platform.\n The Risk Product Data Engineering team at Block builds reliable data foundations that help protect customers across Cash App, Square, and Afterpay. We partner with product, engineering, compliance, and legal teams to support risk detection, reporting, instrumentation, and ML-ready datasets across critical domains including identity…",
+    "tags": [
+      "10109 Risk - Risk ML & DS"
+    ],
+    "postedAt": "2026-07-02T17:34:01.000Z",
+    "scrapedAt": "2026-08-02T21:52:44.058Z"
+  },
+  {
+    "id": "greenhouse:anthropic-5240422008",
+    "externalId": "anthropic:5240422008",
+    "source": "greenhouse",
+    "title": "Data Engineer, Safeguards",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\n As a Data Engineer on the Safeguards team, you will build the data foundations that keep our AI systems safe. The Safeguards team works to monitor models, prevent misuse, and ensure user well-being — and doing that well requires robust, reliable data infrastructure.\n In this role, you will design and build the pipelines, warehousing solutions, and analytical tooling that power our safety and trust efforts at scale. You'll work closely with engineers, data scientists, and policy teams to ensure the Safeguards organization has the data it needs to detect abuse patterns, measure the effectiveness of safety interventions, and make informed decisions about model behavior and enforcement. This is a high-impact role where your work directly supports Anthropic's mission to develop AI that is safe and beneficial.\n Key responsibilities\n Design, build, and maintain scalable data pipelines that support safety monitoring, abuse detection, and enforcement workflows\n Develop and optimize data models and warehousing solutions to enable efficient analysis of large-scale usage and safety data\n Build and maintain dashboards and reporting infrastructure that give Safeguards teams visibility into model behavior, misuse patterns, and enforcement outcomes\n Collaborate with engineers to integrate data from multiple sources — including model outputs, user reports, and automated classifiers — into a unified analytical layer\n Implement data quality frameworks, monitoring, and alerting to ensure the reliability of safety-critical data\n Partner with research teams to surface data insights that inform model improvements and safety interventions…",
+    "tags": [
+      "Data Science & Analytics"
+    ],
+    "postedAt": "2026-07-01T20:26:10.000Z",
+    "scrapedAt": "2026-08-02T21:52:44.058Z"
   }
 ]
