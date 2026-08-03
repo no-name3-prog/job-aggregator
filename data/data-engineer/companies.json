@@ -31,16 +31,18 @@
   },
   {
     "company": "Salesforce",
-    "jobCount": 6,
+    "jobCount": 7,
     "sources": [
       "workday"
     ],
     "locations": [
+      "2 Locations",
       "India - Hyderabad",
       "Mexico - Mexico City",
       "4 Locations"
     ],
     "sampleTitles": [
+      "Principal Data Engineer",
       "Director, Data Engineering",
       "Lead Data Engineer (Lead Member of Technical Staff)",
       "Data Engineer Senior",
@@ -49,11 +51,11 @@
       "Data Engineer (SMTS / LMTS) - MDM"
     ],
     "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Data-Engineer_JR352975",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Director--Data-Engineering_JR352818",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Lead-Data-Engineer---Senior-Python---SQL_JR338656",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657"
     ]
   },
   {
@@ -231,25 +233,6 @@
     ]
   },
   {
-    "company": "Codat",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Remote",
-      "London"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/codat/remote-senior-data-engineer-147792",
-      "https://www.arbeitnow.co.uk/jobs/companies/codat/senior-data-engineer-london-30977"
-    ]
-  },
-  {
     "company": "Discord",
     "jobCount": 2,
     "sources": [
@@ -265,24 +248,6 @@
     "officialUrls": [
       "https://job-boards.greenhouse.io/discord/jobs/8614971002",
       "https://job-boards.greenhouse.io/discord/jobs/8299493002"
-    ]
-  },
-  {
-    "company": "Fanaticsfbg",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Data Engineer III - FMX",
-      "Analytics Engineer III - FMX"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/data-engineer-iii-fmx-london-86623",
-      "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/analytics-engineer-iii-fmx-london-118977"
     ]
   },
   {
@@ -302,6 +267,24 @@
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8013220",
       "https://stripe.com/jobs/search?gh_jid=7548037"
+    ]
+  },
+  {
+    "company": "Vinteden",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin"
+    ],
+    "sampleTitles": [
+      "Senior Analytics Engineer, Marketing DSA",
+      "Analytics Engineer, Marketing DSA"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/vinteden/senior-analytics-engineer-marketing-dsa-berlin-325386",
+      "https://www.arbeitnow.com/jobs/companies/vinteden/analytics-engineer-marketing-dsa-berlin-216916"
     ]
   },
   {
@@ -385,51 +368,19 @@
     ]
   },
   {
-    "company": "Jumptrading",
+    "company": "hubside - Die Recruitingwerkstatt",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "London"
+      "Landsberg am Lech"
     ],
     "sampleTitles": [
-      "Campus Data Engineer (Intern)"
+      "Data Platform Engineer (m/w/d)"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/jumptrading/campus-data-engineer-intern-london-14681"
-    ]
-  },
-  {
-    "company": "Justdice",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Hamburg"
-    ],
-    "sampleTitles": [
-      "Analytics Engineer (f/m/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/justdice/analytics-engineer-hamburg-162975"
-    ]
-  },
-  {
-    "company": "Kargo22",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/kargo22/senior-data-engineer-london-273532"
+      "https://www.arbeitnow.com/jobs/companies/hubside-die-recruitingwerkstatt/data-platform-engineer-landsberg-am-lech-125930"
     ]
   },
   {
@@ -494,6 +445,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/twilio/jobs/8044650"
+    ]
+  },
+  {
+    "company": "Wayve",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Unknown"
+    ],
+    "sampleTitles": [
+      "Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/wayve/data-engineer-352712"
     ]
   }
 ]
