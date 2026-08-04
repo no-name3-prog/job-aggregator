@@ -1,143 +1,57 @@
 [
   {
-    "id": "arbeitnow:founding-data-engineer-uk-262559",
-    "externalId": "founding-data-engineer-uk-262559",
+    "id": "arbeitnow:data-engineer-berlin-36164",
+    "externalId": "data-engineer-berlin-36164",
     "source": "arbeitnow",
-    "title": "Founding Data Engineer",
-    "company": "Plain",
-    "location": "UK",
+    "title": "Data Engineer",
+    "company": "Pergolux",
+    "location": "Berlin | Global Team",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/plain/founding-data-engineer-uk-262559",
-    "description": "Who is Plain? Plain is redefining customer support for the next generation of B2B companies. We’re building the fastest, most powerful platform to help companies move beyond reactive support and build true customer relationships.\n Some of the world’s most forward-thinking companies - like Cursor, Vercel, and Granola - trust Plain to unify all customer interactions, enable faster team collaboration, and supercharge their workflows with AI.\n B2B customer support is undergoing a seismic shift. AI is transforming the way companies engage with customers, shifting support from a siloed function to a company-wide effort across Slack, Discord, and any other channel you talk to customers in. The old way - slow, manual, and disconnected - no longer works.\n   The role We’re hiring a Founding Data Engineer to own and evolve Plain’s data foundations: the warehouse, core models, and the “customer/account spine” that Product, GTM, Support, and Engineering rely on to make decisions and build great experiences.\n This is a hands-on role. You’ll work across our data stack and partner closely with engineering teams to keep our event taxonomy, pipelines, and metrics clean as we scale. We expect you to be hands-on, and we’re looking for someone who can both execute and grow into broader ownership of the data function over time. This includes owning how Plain captures, models, and surfaces data: from warehouse foundations to in-app reporting and the data layer that will power our AI features.\n   What you'll do Rebuild our data warehouse: own the architecture, schemas, and core datasets with clean pipelines and a unified event taxonomy established with Engineering.\n Deliver trusted, reusable data products: foundational datasets that power analytics, reporting, in-app features, and AI, anchored on a joinable customer/account spine across product, billing, and CS context.\n Stand up data observability: quality checks, freshness, lineage, schema drift, and incident response, so the business c…",
+    "url": "https://www.arbeitnow.com/jobs/companies/pergolux/data-engineer-berlin-36164",
+    "description": "As a Data Engineer at PERGOLUX , you will build and own the data pipelines that enable fast, reliable operational insights across the business. Your work ensures the company can trust its data, automate confidently, and make high-impact decisions in real time. You will join a lean, senior data team where reliability, clarity, and business value—not technical complexity—define success.\n At PERGOLUX , we combine Scandinavian-inspired design with a collaborative, ambitious culture grounded in integrity, innovation, and unity.\n What You’ll Do Build and maintain a dependable ingestion and delivery layer that moves data into Snowflake and feeds operational tools with high accuracy and low maintenance overhead.\n Own the ingestion backbone across systems such as HubSpot, Klaviyo, Google Ads, and Canary7, selecting the tools and approaches that maximize stability and simplicity.\n Design monitoring, observability, and alerting that eliminate silent failures and give stakeholders full visibility into data health and freshness.\n Define pragmatic orchestration patterns that ensure scalable, cost-efficient, and resilient pipelines—introducing new tooling only when it clearly reduces failure modes or maintenance costs.\n Lead simplification initiatives within the first 90 days by improving stability, reducing pipeline breaks, and implementing a transparent, well-instrumented data platform.\n What You’ll Bring A pragmatic mindset focused on simplicity, reliability, and business value over unnecessary technical complexity.\n Strong systems thinking and the ability to evaluate downstream impact when designing pipelines and data flows.\n Fluency in Python, SQL, and Git, with a deep understanding of production-grade data engineering concepts such as data contracts, schema evolution, idempotency, and failure-state management.\n Ability to create force-multiplying infrastructure that removes ambiguity, eliminates manual work, and accelerates Analytics Engineering workflows.\n A disciplined ap…",
     "tags": [
-      "Engineering",
+      "Data & BI",
       "Full Time"
     ],
     "jobType": "Full Time",
-    "postedAt": "2026-08-03T21:41:08.000Z",
-    "scrapedAt": "2026-08-03T22:05:56.939Z"
+    "postedAt": "2026-08-04T00:00:24.000Z",
+    "scrapedAt": "2026-08-04T02:08:13.569Z"
   },
   {
-    "id": "arbeitnow:founding-data-engineer-london-41888",
-    "externalId": "founding-data-engineer-london-41888",
+    "id": "arbeitnow:analytics-engineer-london-368474",
+    "externalId": "analytics-engineer-london-368474",
     "source": "arbeitnow",
-    "title": "Founding Data Engineer",
-    "company": "Plain",
-    "location": "London office",
+    "title": "Analytics Engineer",
+    "company": "Lupa Pets",
+    "location": "London",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/plain/founding-data-engineer-london-41888",
-    "description": "Who is Plain? Plain is redefining customer support for the next generation of B2B companies. We’re building the fastest, most powerful platform to help companies move beyond reactive support and build true customer relationships.\n Some of the world’s most forward-thinking companies - like Cursor, Vercel, and Granola - trust Plain to unify all customer interactions, enable faster team collaboration, and supercharge their workflows with AI.\n B2B customer support is undergoing a seismic shift. AI is transforming the way companies engage with customers, shifting support from a siloed function to a company-wide effort across Slack, Discord, and any other channel you talk to customers in. The old way - slow, manual, and disconnected - no longer works.\n The role We’re hiring a Founding Data Engineer to own and evolve Plain’s data foundations: the warehouse, core models, and the “customer/account spine” that Product, GTM, Support, and Engineering rely on to make decisions and build great experiences.\n This is a hands-on role. You’ll work across our data stack and partner closely with engineering teams to keep our event taxonomy, pipelines, and metrics clean as we scale. We expect you to be hands-on, and we’re looking for someone who can both execute and grow into broader ownership of the data function over time. This includes owning how Plain captures, models, and surfaces data: from warehouse foundations to in-app reporting and the data layer that will power our AI features.\n What you'll do Rebuild our data warehouse: own the architecture, schemas, and core datasets with clean pipelines and a unified event taxonomy established with Engineering.\n Deliver trusted, reusable data products: foundational datasets that power analytics, reporting, in-app features, and AI, anchored on a joinable customer/account spine across product, billing, and CS context.\n Stand up data observability: quality checks, freshness, lineage, schema drift, and incident response, so the business can t…",
-    "tags": [
-      "Engineering",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-08-03T21:41:08.000Z",
-    "scrapedAt": "2026-08-03T22:05:56.939Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-berlin-38343",
-    "externalId": "data-engineer-berlin-38343",
-    "source": "arbeitnow",
-    "title": "Data Engineer (f/m/d)",
-    "company": "Moonfare",
-    "location": "Berlin",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/moonfare/data-engineer-berlin-38343",
-    "description": "<p><strong>Join the team rewriting the rules in private markets.</strong></p>\n<p>Moonfare delivers what few others can: the highly sought-after funds and hidden-gem investments that go beyond what most private banks offer. Every opportunity is subjected to a ruthless vetting process; the bar is unforgivingly high. The result? Institutional-quality portfolios for investors who demand more.</p>\n<p>Our team combines finance veterans with talent from tech, consulting, law and industries you’d never expect. Headquartered in Berlin, we operate from eight offices across Europe, the US and Asia.</p>\n<p>If you're ready to build what's next in private markets, let's talk.</p>\n<p><strong>Data Engineer (m/f/d)</strong></p>\n<p>We're looking for a Data Engineer who has hands-on experience integrating&nbsp;databases and external APIs, understands AWS infrastructure, and is comfortable working with tools like DBT to model and transform data. You'll&nbsp;help build and scale our data platform from ingestion through to the&nbsp;warehouse layer, powering AI Agents, BI, and business decisions across the&nbsp;organization.</p>\n<p><strong>You will:</strong></p>\n<ul>\n<li>Build and maintain data pipelines from ingestion through to storage</li>\n<li>Take end-to-end ownership of pipeline components</li>\n<li>Model data using data lake and warehouse concepts, and contribute to performance improvements (partitioning, file formats, tuning)</li>\n<li>Apply data governance and security practices in your work (least-privilege IAM, encryption, PII handling)</li>\n<li>Support the team with data quality, coding consistency and data availability</li>\n<li>Collaborate with analysts and stakeholders to translate requirements into working data solutions</li>\n<li>Identify, formulate, and propose improvements to your own and your team’s practices</li>\n</ul>\n<p><strong>The Next Moonfarian:</strong></p>\n<ul>\n<li>2–4 years of hands-on experience building and maintaining data pipelines in production</li>\n<li>Stron…",
-    "tags": [
-      "Engineering"
-    ],
-    "postedAt": "2026-08-03T21:16:18.000Z",
-    "scrapedAt": "2026-08-03T22:05:56.939Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-platform-engineer-all-genders-data-lake-platform-berlin-hamburg-58977",
-    "externalId": "senior-data-platform-engineer-all-genders-data-lake-platform-berlin-hamburg-58977",
-    "source": "arbeitnow",
-    "title": "Senior Data Platform Engineer (all genders) - Data Lake Platform",
-    "company": "moia",
-    "location": "Berlin; Hamburg",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/moia/senior-data-platform-engineer-all-genders-data-lake-platform-berlin-hamburg-58977",
-    "description": "<h2><strong data-stringify-type=\"bold\">Join us as a Senior Data Platform Engineer </strong><strong data-stringify-type=\"bold\">(all genders) in our Data Lake Platform<span class=\"TextRun Highlight MacChromeBold SCXW92905516 BCX8\" lang=\"EN-US\" data-contrast=\"none\"><span class=\"NormalTextRun SCXW92905516 BCX8\">&nbsp;team</span></span> and help shape the future of autonomous mobility!</strong></h2>\n<p><span class=\"TextRun SCXW59742100 BCX0\" lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW59742100 BCX0\">The Data Platform team ensures that all data generated at MOIA can be accessed and processed in our data platform. We rely on a wide variety of AWS services to build our data products and keep our stack as serverless as possible. You will work at the core of MOIAs data engine room and interact with colleagues fr</span><span class=\"NormalTextRun CommentStart SCXW59742100 BCX0\">om&nbsp;</span><span class=\"NormalTextRun SCXW59742100 BCX0\">10</span><span class=\"NormalTextRun SCXW59742100 BCX0\">+ different</span><span class=\"NormalTextRun SCXW59742100 BCX0\">&nbsp;Teams. We provide automation, tools,&nbsp;</span><span class=\"NormalTextRun SCXW59742100 BCX0\">operate</span><span class=\"NormalTextRun SCXW59742100 BCX0\">&nbsp;services and evangelize best practices so that data at MOIA is processed in an efficient, secure and privacy compliant way. We strive towards enabling our users to work as independently and self-sufficiently as possible.</span></span><span class=\"EOP Selected SCXW59742100 BCX0\" data-ccp-props=\"{\"335559738\":240,\"335559739\":240}\">&nbsp;</span></p>\n<h2><strong>What you will do</strong></h2>\n<ul>\n<li><span class=\"NormalTextRun SCXW100188977 BCX0\">Enable teams across the company to get value from data using our internal tools and&nbsp;</span><span class=\"NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW100188977 BCX0\">platform</span><span class=\"NormalTextRun SCXW100188977 BCX0\">.&nbsp;</span><span class=\"NormalTextRun SCXW100188977 BCX…",
-    "tags": [
-      "Cloud & Platform Engineering"
-    ],
-    "postedAt": "2026-08-03T21:15:12.000Z",
-    "scrapedAt": "2026-08-03T22:05:56.939Z"
-  },
-  {
-    "id": "arbeitnow:data-analytics-engineer-hamburg-or-berlin-317017",
-    "externalId": "data-analytics-engineer-hamburg-or-berlin-317017",
-    "source": "arbeitnow",
-    "title": "Data & Analytics Engineer (m/f/d)",
-    "company": "Statista",
-    "location": "Hamburg or Berlin",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/statista/data-analytics-engineer-hamburg-or-berlin-317017",
-    "description": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions.\n Founded in Hamburg in 2007, we have quickly grown into a global company with offices in major cities such as London, New York, Berlin and Tokyo. And we still have a lot of plans. Our constant growth does not only prove our success, but also keeps creating new development and career opportunities for our employees.\n We value and celebrate our diverse culture. You are welcome here for who you are, no matter where you come from, what you look like, or whether you prefer bar graphs to pie charts. Your story matters – keep writing it as part of our team.\n Are you ready to join us?\n Your role\n Design, implement, and maintain backend services in Python that power our data access and distribution layer\n Build and operate automated build, test, and deployment pipelines following CI/CD and GitOps practices, running on AWS and Kubernetes\n Design and maintain data models and schemas (Avro, SQL) for our data pipelines and services, and publish them to downstream consumers via our Kafka-based distribution platform and schema registry\n Build access-layer data models in our analytics environment (e.g., Snowflake) so applications can work with the data directly, including via API\n Act as the coordination interface between the Data and Tech divisions, aligning priorities, schemas, and timelines across upstream and downstream teams\n Your profile\n 3+ years of experience in analytics engineering, data engineering, or a related role.\n Strong SQL skills and solid experience in data modeling (e.g., dimensional modeling, star schemas).\n Hands-on experience with event streaming and message distribution, ideally Kafka, including schema management with the Kafka schema registry (Avro, Protobuf, or JSON Schema).\n Experience designing data…",
-    "tags": [
-      "Tech",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-08-03T20:40:29.000Z",
-    "scrapedAt": "2026-08-03T22:05:56.939Z"
-  },
-  {
-    "id": "arbeitnow:analytics-engineer-hamburg-or-berlin-1744",
-    "externalId": "analytics-engineer-hamburg-or-berlin-1744",
-    "source": "arbeitnow",
-    "title": "Analytics Engineer (m/f/d)",
-    "company": "Statista",
-    "location": "Hamburg or Berlin",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/statista/analytics-engineer-hamburg-or-berlin-1744",
-    "description": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions.\n Founded in Hamburg in 2007, we have quickly grown into a global company with offices in major cities such as London, New York, Berlin and Tokyo. And we still have a lot of plans. Our constant growth does not only prove our success, but also keeps creating new development and career opportunities for our employees.\n We value and celebrate our diverse culture. You are welcome here for who you are, no matter where you come from, what you look like, or whether you prefer bar graphs to pie charts. Your story matters – keep writing it as part of our team.\n Are you ready to join us?\n Your role\n Design, build, and optimize scalable data models using modern data stack tools (e.g., dbt, Snowflake)\n Transform raw data into clean, reliable, and well-documented datasets for analytics, reporting, and operational use\n Collaborate closely with data engineers, analysts, tracking teams, and business stakeholders to define data requirements and ensure alignment\n Implement and maintain data quality checks, testing, and monitoring to ensure accuracy and reliability\n Develop and manage semantic layers to standardize and govern key business metrics\n Improve data accessibility and usability across teams by promoting best practices and clear data structures\n Document data models, definitions, and workflows to enhance transparency and data literacy\n Contribute to data governance, harmonization, and automation initiatives, including enabling AI-driven analytics use cases\n Your profile\n 3+ years of experience in analytics engineering, data engineering, or a related role\n Strong SQL skills and solid experience in data modeling (e.g., dimensional modeling, star schemas)\n Hands-on experience with modern data stack tools and technologies (e.…",
-    "tags": [
-      "Tech",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-08-03T20:40:29.000Z",
-    "scrapedAt": "2026-08-03T22:05:56.939Z"
-  },
-  {
-    "id": "arbeitnow:data-engineering-lead-data-ai-tools-hamburg-or-berlin-302188",
-    "externalId": "data-engineering-lead-data-ai-tools-hamburg-or-berlin-302188",
-    "source": "arbeitnow",
-    "title": "Data Engineering Lead - Data & AI Tools (m/f/d)",
-    "company": "Statista",
-    "location": "Hamburg or Berlin",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/statista/data-engineering-lead-data-ai-tools-hamburg-or-berlin-302188",
-    "description": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions.\n Founded in Hamburg in 2007, we have quickly grown into a global company with offices in major cities such as London, New York, Berlin and Tokyo. And we still have a lot of plans. Our constant growth does not only prove our success, but also keeps creating new development and career opportunities for our employees.\n We value and celebrate our diverse culture. You are welcome here for who you are, no matter where you come from, what you look like, or whether you prefer bar graphs to pie charts. Your story matters – keep writing it as part of our team.\n Are you ready to join us?\n Your Tasks\n Lead and mentor a team of Data and AI engineers, setting objectives, reviewing code, and fostering professional growth.\n Drive the end-to-end development of advanced Data and AI-powered solutions, including automation frameworks and agentic workflows, to enhance data research, complex forecasting, and decision-making\n Design, deploy, and maintain scalable cloud infrastructure for AI services and APIs.\n Identify automation opportunities, streamline workflows, and continuously improve processes across the company.\n Drive the product evolution collaborating with stakeholders while fostering AI solutions with organizational goals and high-value data delivery.\n Stay ahead of AI and automation trends, integrating state-of-the-art methods and tools into team projects.\n Your Profile\n 5+ years of experience in Data Engineering, Data Operations, or Software Engineering with a proven track record of leading technical teams.\n Strong Python skills in building scalable data pipelines, automation, and backend services.\n Experience with cloud infrastructure (AWS preferred: ECS, EC2, EKS, S3, Lambda), workflow orchestration (Apache Airflow),…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lupa-pets/analytics-engineer-london-368474",
+    "description": "About Us\n Lupa is building a category defining product the industry has never seen before.\n We’re the AI-native operating system for veterinary practices and pet parents, replacing the fragmented, clunky systems vets have tolerated for years with a single intelligent platform for scheduling, client communication, clinical documentation, and AI-driven care guidance. Practices run more efficiently, vets get back to doing what they love, and pet parents feel more connected to their animals’ health than ever.\n The traction speaks for itself: one of Europe’s top 100 AI startups with a team of 50 people, 10x growth in twelve months, the UK market leader, and now charging hard into the US and Europe. We have $25M in funding, 1M+ pets on the platform, and a buzzing HQ in Paddington, London.\n This is a rare chance to join a rocket ship at exactly the right moment and we’re looking for exceptional people to help us fly it.\n In this role, you will:\n Own the analytics layer of our data platform; writing, structuring, and maintaining the SQL models that power dashboards, product metrics, and business intelligence across Lupa\n Transform raw data from our platform into clean, reliable, well-documented datasets that Product, Engineering, and Commercial teams can actually use\n Build and maintain reports that give the business a clear picture of clinical outcomes, practice performance, customer health, and growth metrics\n Define and enforce data modelling best practices, including naming conventions, documentation standards, and testing coverage\n Partner closely with the wider Data team to ensure analytics models sit on top of solid, well-engineered pipelines\n Work directly with stakeholders across the business to understand what they need to know, translate that into clean SQL, and deliver answers that drive decisions\n Your background looks something like:\n 2–3 years of hands-on experience in an analytics engineering, SQL engineering, or BI engineering role\n Exceptional SQL skills,…",
     "tags": [
       "Data",
       "Full Time"
     ],
     "jobType": "Full Time",
-    "postedAt": "2026-08-03T20:40:29.000Z",
-    "scrapedAt": "2026-08-03T22:05:56.939Z"
+    "postedAt": "2026-08-03T22:01:23.000Z",
+    "scrapedAt": "2026-08-04T02:08:13.569Z"
   },
   {
-    "id": "arbeitnow:research-data-engineer-london-93483",
-    "externalId": "research-data-engineer-london-93483",
+    "id": "arbeitnow:data-engineer-london-46651",
+    "externalId": "data-engineer-london-46651",
     "source": "arbeitnow",
-    "title": "Research Data Engineer",
-    "company": "Relationrx",
+    "title": "Data Engineer",
+    "company": "Lupa Pets",
     "location": "London",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/relationrx/research-data-engineer-london-93483",
-    "description": "About Relation Relation is a sector defining TechBio company developing transformational medicines, with technology at our core. Our ambition is to understand human biology in unprecedented ways, discovering therapies to treat some of life’s most devastating diseases. We leverage single-cell multi-omics from patient tissue, functional assays, and machine learning to drive disease understanding, from cause to cure.\n We are scaling rapidly and building a team of exceptional individuals to push the boundaries of drug discovery. You will work in highly interdisciplinary teams where biology, computation, and engineering come together to solve complex problems that have not been solved before. Our state-of-the-art wet and dry labs in the heart of London are designed to accelerate this integration and translate insight into impact.\n We are committed to building diverse and inclusive teams. Relation is an equal opportunities employer and does not discriminate on the basis of gender, sexual orientation, marital or civil partnership status, gender reassignment, race, colour, nationality, ethnic or national origin, religion or belief, disability, or age.\n By joining Relation, you will help define how medicines are discovered and deliver meaningful impact for patients.\n The opportunity Relation is offering an outstanding opportunity for a Research Data Engineer to design and build the data systems that power the next generation of predictive models of cellular behaviour. We generate complex and high-dimensional datasets across modalities at scale. What we can model, and the pace at which we iterate, is determined by the quality of the data layer. This role focuses on making our datasets efficient for analysis and ML model training through deliberate systems design: storage layouts, access patterns, distributed systems to move data from instrument to models, modality-specific format decisions, query and serving layers tuned for GPU-saturated training, and upholding the data con…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lupa-pets/data-engineer-london-46651",
+    "description": "About Us\n Lupa is building a category defining product the industry has never seen before.\n We're the AI-native operating system for veterinary practices and pet parents, replacing the fragmented, clunky systems vets have tolerated for years with a single intelligent platform for scheduling, client communication, clinical documentation, and AI-driven care guidance. Practices run more efficiently, vets get back to doing what they love, and pet parents feel more connected to their animals' health than ever.\n The traction speaks for itself: founded in 2023 and already one of Europe's top 100 AI startups, with a team of 50 people, 10x growth in twelve months, the UK market leader, and now charging hard into the US and Europe. We have $25M in funding, 1M+ pets on the platform, and a buzzing HQ in Paddington, London. We've attracted exceptional people from the likes of Palantir, Google, DeepMind, BCG, Meta, and AWS and we're just getting started.\n This is a rare chance to join a rocket ship at exactly the right moment and we're looking for exceptional people to help us fly it.\n In this role, you will:\n Design and build data pipelines from raw ingestion through to clean, modelled, production-ready datasets that engineering and product teams rely on\n Own data quality across your domain, defining standards, instrumenting checks, and resolving failures with urgency\n Monitor pipeline health in production and respond to issues proactively, not reactively\n Collaborate with engineering and product to understand data requirements and turn them into robust, scalable solutions\n Help define and evolve the architecture of our data platform as we scale across new geographies and product surfaces\n Document your work clearly so the team can understand, extend, and maintain what you build\n Your background looks something like:\n Multiple years of hands-on data engineering experience in a professional setting\n Strong Python skills and a demonstrated ability to build pipelines from scratch,…",
     "tags": [
-      "Engineering",
+      "Data",
       "Full Time"
     ],
     "jobType": "Full Time",
-    "postedAt": "2026-08-03T18:41:56.000Z",
-    "scrapedAt": "2026-08-03T22:05:56.939Z"
+    "postedAt": "2026-08-03T22:01:23.000Z",
+    "scrapedAt": "2026-08-04T02:08:13.569Z"
   },
   {
     "id": "greenhouse:discord-8614971002",
@@ -153,7 +67,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -169,7 +83,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -185,7 +99,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -205,7 +119,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-08-03T22:09:09.174Z"
+    "scrapedAt": "2026-08-04T02:11:25.859Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -221,7 +135,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -237,7 +151,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -253,7 +167,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -269,7 +183,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -285,7 +199,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -301,7 +215,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -317,7 +231,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "greenhouse:stripe-8013220",
@@ -333,7 +247,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-06-17T17:52:36.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -349,7 +263,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -365,7 +279,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "lever:spotify-08d82da1-0c72-44d1-91eb-7fa22dee3d39",
@@ -385,7 +299,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-05-13T15:23:52.322Z",
-    "scrapedAt": "2026-08-03T22:09:09.174Z"
+    "scrapedAt": "2026-08-04T02:11:25.859Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -401,7 +315,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "lever:spotify-4303f795-d0a5-41ed-8c78-0941780b6e54",
@@ -421,7 +335,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-04-20T19:31:08.951Z",
-    "scrapedAt": "2026-08-03T22:09:09.174Z"
+    "scrapedAt": "2026-08-04T02:11:25.859Z"
   },
   {
     "id": "greenhouse:coinbase-7736521",
@@ -437,7 +351,7 @@
       "Data Engineering"
     ],
     "postedAt": "2026-03-31T00:37:32.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "greenhouse:anthropic-5125387008",
@@ -453,7 +367,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-02-20T00:49:54.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "greenhouse:stripe-7548037",
@@ -469,7 +383,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-01-20T05:58:11.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -485,7 +399,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -501,7 +415,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -517,7 +431,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "greenhouse:figma-5220003004",
@@ -533,7 +447,7 @@
       "Engineering"
     ],
     "postedAt": "2024-07-08T16:15:29.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -549,7 +463,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-08-03T22:05:57.540Z"
+    "scrapedAt": "2026-08-04T02:08:14.197Z"
   },
   {
     "id": "workday:workday-JR-0108815",
@@ -565,7 +479,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -581,7 +495,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -597,7 +511,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:workday-JR-0107883",
@@ -613,7 +527,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:workday-JR-0105494",
@@ -629,7 +543,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:nvidia-JR2021331",
@@ -643,7 +557,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:nvidia-JR2020545",
@@ -657,7 +571,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -671,7 +585,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:nvidia-JR2019415",
@@ -685,7 +599,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:salesforce-JR352975",
@@ -699,7 +613,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:salesforce-JR352818",
@@ -713,7 +627,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:salesforce-JR338656",
@@ -727,7 +641,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:salesforce-JR353004",
@@ -741,7 +655,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:redhat-R-058752",
@@ -757,7 +671,7 @@
       "Remote"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:redhat-R-058408",
@@ -773,7 +687,7 @@
       "Remote"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:adobe-R169988",
@@ -787,7 +701,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:adobe-R170861",
@@ -801,7 +715,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:adobe-R170680",
@@ -815,7 +729,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:adobe-R169536",
@@ -829,7 +743,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:adobe-R166484",
@@ -843,7 +757,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -857,7 +771,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:autodesk-26WD100084",
@@ -871,7 +785,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -885,7 +799,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -899,7 +813,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -913,7 +827,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:06:05.560Z"
+    "scrapedAt": "2026-08-04T02:08:22.455Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -927,7 +841,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:07:16.871Z"
+    "scrapedAt": "2026-08-04T02:09:32.995Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -941,7 +855,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:07:16.871Z"
+    "scrapedAt": "2026-08-04T02:09:32.995Z"
   },
   {
     "id": "workday:salesforce-JR347388",
@@ -955,6 +869,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-03T22:07:51.178Z"
+    "scrapedAt": "2026-08-04T02:10:07.602Z"
   }
 ]
