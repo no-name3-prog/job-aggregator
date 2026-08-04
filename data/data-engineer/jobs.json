@@ -1,5 +1,62 @@
 [
   {
+    "id": "arbeitnow:senior-data-engineer-all-genders-leipzig-447094",
+    "externalId": "senior-data-engineer-all-genders-leipzig-447094",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer (all genders)",
+    "company": "Eorbit Gmbh",
+    "location": "Leipzig",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/senior-data-engineer-all-genders-leipzig-447094",
+    "description": "Deine Aufgaben Where the Data Engineer builds pipelines, you own the platform. Rocket’s data layer has to scale from a handful of European hotel groups to enterprise chains across two continents — multi-tenant, reliable, cost-efficient, and fast enough to serve both real-time product features and ML workloads.\n You will set the architecture, the standards, and the roadmap for our Databricks lakehouse, and raise the bar for everyone working on data at MICE DESK.\n Data platform architecture. Own the design of our lakehouse (Medallion architecture on Databricks): tenancy model, storage layout, orchestration, streaming vs. batch strategy, cost management, and the evolution path as customer volume grows 10x. Scalable multi-tenant ingestion. Design the ingestion framework that makes onboarding a new hotel group a configuration task, not an engineering project — across wildly heterogeneous PMS/CRM sources and both EU and US data residency requirements. ML and product data serving. Build the interfaces between the data platform and its consumers: feature pipelines for our ML models, low-latency serving for in-product analytics, and the contracts that keep both stable. Standards and mentorship. Define engineering standards for the data team — testing, CI/CD for pipelines, documentation, data contracts — and mentor data engineers toward them. What success looks like:\n 3 months: You’ve audited the current platform, set the target architecture, and shipped the first structural improvement. 12 months: The platform onboards new enterprise customers in days, serves ML and product reliably, and the data team operates at a visibly higher standard.\n Dein Profil 5+ years in data engineering, including architecture ownership of a production data platform Deep, hands-on Databricks and Spark expertise Proven design of multi-tenant or large-scale data systems Strong software engineering practice: testing, CI/CD, infrastructure-as-code for data Experience mentoring engineers or leading da…",
+    "tags": [
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-08-04T11:09:08.000Z",
+    "scrapedAt": "2026-08-04T14:02:39.995Z"
+  },
+  {
+    "id": "arbeitnow:internal-data-engineer-leipzig-239368",
+    "externalId": "internal-data-engineer-leipzig-239368",
+    "source": "arbeitnow",
+    "title": "Internal Data Engineer (m/w/d)",
+    "company": "Eorbit Gmbh",
+    "location": "Leipzig",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/internal-data-engineer-leipzig-239368",
+    "description": "Deine Aufgaben Pipelines: Du bindest unsere Quellsysteme an — CRM (Pipedrive), Produktdatenbanken, Finanzsysteme, Drittanbieter-APIs, Hotelsysteme (Opera, SIHOT, Delphi). Ingestion, Scheduling, Fehlerbehandlung. Modellierung: Du baust die transformierte Schicht (dbt oder gleichwertig): sauber versioniert, getestet, dokumentiert. Staging → Core → Marts. Metriken-Layer: Eine Definition pro Kennzahl. Du machst die Diskussion „aber in meinem Excel steht 4,2” endgültig überflüssig. Data Quality: Tests, Freshness-Checks, Alerting. Du merkst, dass eine Pipeline gebrochen ist, bevor der CFO es merkt. Enablement: Du baust Modelle so, dass Fachbereiche im BI-Tool selbst arbeiten können. Du bist kein Dashboard-Butler. Zuarbeit Reporting: Du lieferst die verlässliche Datengrundlage für C-Level- und Investorenreporting — die Interpretation übernimmt Finance.\n Dein Profil 3+ Jahre als Analytics Engineer, Data Engineer oder BI Engineer mit starkem Modellierungsanteil. SQL auf Expertenniveau. Kein „ich kann Joins”, sondern Window Functions, Inkrementalität, Performance. Erfahrung mit dbt — oder du kannst überzeugend erklären, warum du es anders gelöst hast. Python für Ingestion und Automatisierung. Erfahrung mit mindestens einem Warehouse: BigQuery, Snowflake, Redshift oder Postgres-basiert. Git, Code Review, Tests, CI. Deine Datenmodelle sind Software, kein Bastelkeller. Du sprichst mit Fachbereichen und übersetzt „ich brauche mal eine Auswertung” in ein Datenmodell.\n Von Vorteil: Du hast CRM-Daten (Pipedrive, HubSpot, Salesforce) schon einmal in ein Warehouse überführt — inklusive der Freude über historisch gewachsene Custom Fields. Erfahrung mit Orchestrierung (Airflow, Dagster, Prefect). BI-Tooling: Metabase, Looker, Power BI. DSGVO-Bewusstsein bei personenbezogenen Daten — bei uns kein Nebenthema.\n Warum wir? Wir sind das Technologieunternehmen, das den Gruppen- und Veranstaltungsverkauf in der Hotellerie neu denkt. Was heute über Posteingang, Excel und Telefon läuft, macht u…",
+    "tags": [
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-08-04T11:09:08.000Z",
+    "scrapedAt": "2026-08-04T14:02:39.995Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-all-genders-leipzig-79488",
+    "externalId": "data-engineer-all-genders-leipzig-79488",
+    "source": "arbeitnow",
+    "title": "Data Engineer (all genders)",
+    "company": "Eorbit Gmbh",
+    "location": "Leipzig",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/data-engineer-all-genders-leipzig-79488",
+    "description": "Deine Aufgaben Everything Rocket does — AI extraction, pricing intelligence, customer dashboards, business reporting — runs on data that you make trustworthy. You will build and operate the pipelines that pull sales data out of heterogeneous hotel systems (PMS, CRM, email) and land it, cleaned and modeled, in our Databricks lakehouse.\n The core of the job:  Hotel data is famously messy: every property configures its PMS differently, legacy systems export inconsistent formats, and the same booking looks different in three systems. Making that reliable at scale is the job.\n Ingestion pipelines. Build and maintain pipelines from customer systems (SIHOT, Opera, Guestline, Salesforce, email) into our bronze layer — batch and streaming, APIs and file-based, resilient to the quirks of each source. Data modeling. Develop the silver/gold layers of our Medallion architecture: clean, well-documented models of requests, offers, bookings, and revenue that serve analytics, dashboards, and ML features alike. Data quality and observability. Implement validation, monitoring, and alerting so broken source data is caught before it reaches a customer dashboard or a pricing model. Analytics enablement. Support customer-facing performance reports and internal KPI dashboards — working with Product and customer teams to turn data into insight hotels act on. What success looks like:\n 3 months: You own several production pipelines end-to-end and have measurably improved their reliability. 12 months: Onboarding a new hotel group’s data is a repeatable process, not a project — and data quality issues are caught by your systems, not by customers.\n Dein Profil 2–4 years as a data engineer or in a strongly data-focused engineering role Strong SQL and Python Hands-on Databricks and Spark experience — this is a hard requirement, our entire platform runs on it Hands-on experience building production pipelines (batch and/or streaming) Pragmatic approach to messy real-world data Strong English (B2–C1…",
+    "tags": [
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-08-04T11:09:08.000Z",
+    "scrapedAt": "2026-08-04T14:02:39.995Z"
+  },
+  {
     "id": "greenhouse:discord-8614971002",
     "externalId": "discord:8614971002",
     "source": "greenhouse",
@@ -13,7 +70,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -29,7 +86,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -45,7 +102,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -65,7 +122,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-08-04T11:25:09.929Z"
+    "scrapedAt": "2026-08-04T14:06:06.947Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -81,7 +138,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -97,7 +154,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -113,7 +170,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -129,7 +186,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -145,7 +202,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -161,7 +218,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -177,7 +234,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "greenhouse:stripe-8013220",
@@ -193,7 +250,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-06-17T17:52:36.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -209,7 +266,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -225,7 +282,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "lever:spotify-08d82da1-0c72-44d1-91eb-7fa22dee3d39",
@@ -245,7 +302,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-05-13T15:23:52.322Z",
-    "scrapedAt": "2026-08-04T11:25:09.929Z"
+    "scrapedAt": "2026-08-04T14:06:06.947Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -261,7 +318,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "lever:spotify-4303f795-d0a5-41ed-8c78-0941780b6e54",
@@ -281,7 +338,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-04-20T19:31:08.951Z",
-    "scrapedAt": "2026-08-04T11:25:09.929Z"
+    "scrapedAt": "2026-08-04T14:06:06.947Z"
   },
   {
     "id": "greenhouse:coinbase-7736521",
@@ -297,23 +354,7 @@
       "Data Engineering"
     ],
     "postedAt": "2026-03-31T00:37:32.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
-  },
-  {
-    "id": "greenhouse:airbnb-7640881",
-    "externalId": "airbnb:7640881",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer, BizTech",
-    "company": "Airbnb",
-    "location": "Bangalore, India",
-    "remote": false,
-    "url": "https://careers.airbnb.com/positions/7640881?gh_jid=7640881",
-    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n The Community You Will Join:\n The BizTech team at Airbnb is crucial to the company's operations, handling critical data related to compliance with Tax, Payments, and Legal regulations. We also manage application data for tools such as CRM, Jira, and Workday, which are essential for Airbnb’s business. Joining this team means working with cross-functional stakeholders, designing scalable solutions, and contributing to a world-class data engineering environment with an emphasis on quality, scalability, and robust engineering practices.\n The Difference You Will Make:\n We are looking for a hands-on expert to provide technical leadership in addressing BizTech’s diverse data engineering needs and driving long-term strategies and best practices. This key leadership role requires strong collaboration and influence across teams. You'll play a crucial role in understanding business needs, identifying the right data sources, designing efficient data models, and building reliable, scalable data pipelines. As technology continues to evolve, you'll help shape and maintain significant parts of BizTech’s critical data ecosystem. Your contributions will not only address complex business challenges but also help refine and advance Airbnb’s Data Engineering Paved Path, benefiting the entire data community at Airbnb. We believe in solving problems and contributing back to our data community to continuously improve.\n A Typical Day /Responsibilities:\n Lead the design, implementation, and testing of data systems, from architecture to production.\n Build batch and real-time data systems that support business needs and critical product…",
-    "tags": [
-      "Software Engineering"
-    ],
-    "postedAt": "2026-02-20T09:59:16.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "greenhouse:anthropic-5125387008",
@@ -329,7 +370,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-02-20T00:49:54.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "greenhouse:stripe-7548037",
@@ -345,7 +386,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-01-20T05:58:11.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -361,7 +402,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -377,7 +418,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -393,7 +434,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "greenhouse:figma-5220003004",
@@ -409,7 +450,7 @@
       "Engineering"
     ],
     "postedAt": "2024-07-08T16:15:29.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -425,7 +466,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-08-04T11:21:57.418Z"
+    "scrapedAt": "2026-08-04T14:02:40.710Z"
   },
   {
     "id": "workday:workday-JR-0108815",
@@ -441,7 +482,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -457,7 +498,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -473,7 +514,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:workday-JR-0107883",
@@ -489,7 +530,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:workday-JR-0105494",
@@ -505,7 +546,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:nvidia-JR2021331",
@@ -519,7 +560,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:nvidia-JR2020545",
@@ -533,7 +574,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -547,7 +588,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:nvidia-JR2019415",
@@ -561,7 +602,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:salesforce-JR352975",
@@ -575,7 +616,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:salesforce-JR352818",
@@ -589,7 +630,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:salesforce-JR338656",
@@ -603,7 +644,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:salesforce-JR353004",
@@ -617,7 +658,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:redhat-R-058752",
@@ -633,7 +674,7 @@
       "Remote"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:redhat-R-058408",
@@ -649,7 +690,7 @@
       "Remote"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:adobe-R169988",
@@ -663,7 +704,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:adobe-R170861",
@@ -677,7 +718,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:adobe-R170680",
@@ -691,7 +732,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:adobe-R169536",
@@ -705,7 +746,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:adobe-R166484",
@@ -719,7 +760,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -733,7 +774,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -747,7 +788,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -761,7 +802,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -775,7 +816,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:22:04.129Z"
+    "scrapedAt": "2026-08-04T14:02:48.452Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -789,7 +830,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:23:17.251Z"
+    "scrapedAt": "2026-08-04T14:04:06.384Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -803,7 +844,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:23:17.251Z"
+    "scrapedAt": "2026-08-04T14:04:06.384Z"
   },
   {
     "id": "workday:salesforce-JR347388",
@@ -817,6 +858,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-04T11:23:53.368Z"
+    "scrapedAt": "2026-08-04T14:04:41.224Z"
   }
 ]
