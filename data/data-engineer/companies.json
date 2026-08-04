@@ -36,9 +36,10 @@
     ],
     "locations": [
       "San Jose",
-      "Bangalore",
+      "Noida",
       "San Francisco",
       "Bucharest",
+      "Bangalore",
       "3 Locations"
     ],
     "sampleTitles": [
@@ -51,7 +52,7 @@
     ],
     "officialUrls": [
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Science-Engineer_R169988",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-Science-Engineer-3_R170861-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Science-Engineer-3_R170861-1",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Engineer_R170680-1",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-engineer_R166484-1"
@@ -195,6 +196,25 @@
     ]
   },
   {
+    "company": "Airbnb",
+    "jobCount": 2,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "United States",
+      "Bangalore, India"
+    ],
+    "sampleTitles": [
+      "Senior Staff Data Engineer - Data Stewardship",
+      "Senior Data Engineer, BizTech"
+    ],
+    "officialUrls": [
+      "https://careers.airbnb.com/positions/7998356?gh_jid=7998356",
+      "https://careers.airbnb.com/positions/7640881?gh_jid=7640881"
+    ]
+  },
+  {
     "company": "Brex",
     "jobCount": 2,
     "sources": [
@@ -247,24 +267,6 @@
     "officialUrls": [
       "https://job-boards.greenhouse.io/discord/jobs/8614971002",
       "https://job-boards.greenhouse.io/discord/jobs/8299493002"
-    ]
-  },
-  {
-    "company": "Lupa Pets",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Analytics Engineer",
-      "Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/lupa-pets/analytics-engineer-london-368474",
-      "https://www.arbeitnow.co.uk/jobs/companies/lupa-pets/data-engineer-london-46651"
     ]
   },
   {
@@ -321,19 +323,19 @@
     ]
   },
   {
-    "company": "Airbnb",
+    "company": "Axle",
     "jobCount": 1,
     "sources": [
-      "greenhouse"
+      "arbeitnow"
     ],
     "locations": [
-      "United States"
+      "London"
     ],
     "sampleTitles": [
-      "Senior Staff Data Engineer - Data Stewardship"
+      "Google Cloud Platform Data Engineer"
     ],
     "officialUrls": [
-      "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
+      "https://www.arbeitnow.co.uk/jobs/companies/axle/google-cloud-platform-data-engineer-london-183669"
     ]
   },
   {
@@ -382,22 +384,6 @@
     ],
     "officialUrls": [
       "https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004"
-    ]
-  },
-  {
-    "company": "Pergolux",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Berlin | Global Team"
-    ],
-    "sampleTitles": [
-      "Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/pergolux/data-engineer-berlin-36164"
     ]
   },
   {

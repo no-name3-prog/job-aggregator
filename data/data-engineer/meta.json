@@ -1,9 +1,9 @@
 {
   "flow": "data-engineer",
-  "lastRunAt": "2026-08-04T02:11:33.479Z",
-  "durationMs": 200140,
-  "totalJobs": 56,
-  "totalCompanies": 23,
+  "lastRunAt": "2026-08-04T05:47:35.972Z",
+  "durationMs": 181546,
+  "totalJobs": 55,
+  "totalCompanies": 22,
   "titleMatcher": "data engineer | analytics engineer | etl/elt | data platform/pipeline/warehouse | …",
   "note": "Jobs come from free public APIs and official company ATS endpoints (Greenhouse/Workday/Lever/Ashby). Not an exhaustive list of every employer worldwide. Add boards in config/ats-boards.json to expand.",
   "sources": [
@@ -15,7 +15,7 @@
     {
       "source": "arbeitnow",
       "fetched": 175,
-      "kept": 3
+      "kept": 1
     },
     {
       "source": "jobicy",
@@ -29,12 +29,12 @@
     },
     {
       "source": "greenhouse",
-      "fetched": 4510,
-      "kept": 22
+      "fetched": 4514,
+      "kept": 23
     },
     {
       "source": "workday",
-      "fetched": 3055,
+      "fetched": 3051,
       "kept": 28
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "source": "ashby",
-      "fetched": 257,
+      "fetched": 258,
       "kept": 0
     }
   ]

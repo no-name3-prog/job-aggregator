@@ -1,57 +1,19 @@
 [
   {
-    "id": "arbeitnow:data-engineer-berlin-36164",
-    "externalId": "data-engineer-berlin-36164",
+    "id": "arbeitnow:google-cloud-platform-data-engineer-london-183669",
+    "externalId": "google-cloud-platform-data-engineer-london-183669",
     "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Pergolux",
-    "location": "Berlin | Global Team",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/pergolux/data-engineer-berlin-36164",
-    "description": "As a Data Engineer at PERGOLUX , you will build and own the data pipelines that enable fast, reliable operational insights across the business. Your work ensures the company can trust its data, automate confidently, and make high-impact decisions in real time. You will join a lean, senior data team where reliability, clarity, and business value—not technical complexity—define success.\n At PERGOLUX , we combine Scandinavian-inspired design with a collaborative, ambitious culture grounded in integrity, innovation, and unity.\n What You’ll Do Build and maintain a dependable ingestion and delivery layer that moves data into Snowflake and feeds operational tools with high accuracy and low maintenance overhead.\n Own the ingestion backbone across systems such as HubSpot, Klaviyo, Google Ads, and Canary7, selecting the tools and approaches that maximize stability and simplicity.\n Design monitoring, observability, and alerting that eliminate silent failures and give stakeholders full visibility into data health and freshness.\n Define pragmatic orchestration patterns that ensure scalable, cost-efficient, and resilient pipelines—introducing new tooling only when it clearly reduces failure modes or maintenance costs.\n Lead simplification initiatives within the first 90 days by improving stability, reducing pipeline breaks, and implementing a transparent, well-instrumented data platform.\n What You’ll Bring A pragmatic mindset focused on simplicity, reliability, and business value over unnecessary technical complexity.\n Strong systems thinking and the ability to evaluate downstream impact when designing pipelines and data flows.\n Fluency in Python, SQL, and Git, with a deep understanding of production-grade data engineering concepts such as data contracts, schema evolution, idempotency, and failure-state management.\n Ability to create force-multiplying infrastructure that removes ambiguity, eliminates manual work, and accelerates Analytics Engineering workflows.\n A disciplined ap…",
-    "tags": [
-      "Data & BI",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-08-04T00:00:24.000Z",
-    "scrapedAt": "2026-08-04T02:08:13.569Z"
-  },
-  {
-    "id": "arbeitnow:analytics-engineer-london-368474",
-    "externalId": "analytics-engineer-london-368474",
-    "source": "arbeitnow",
-    "title": "Analytics Engineer",
-    "company": "Lupa Pets",
+    "title": "Google Cloud Platform Data Engineer",
+    "company": "Axle",
     "location": "London",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/lupa-pets/analytics-engineer-london-368474",
-    "description": "About Us\n Lupa is building a category defining product the industry has never seen before.\n We’re the AI-native operating system for veterinary practices and pet parents, replacing the fragmented, clunky systems vets have tolerated for years with a single intelligent platform for scheduling, client communication, clinical documentation, and AI-driven care guidance. Practices run more efficiently, vets get back to doing what they love, and pet parents feel more connected to their animals’ health than ever.\n The traction speaks for itself: one of Europe’s top 100 AI startups with a team of 50 people, 10x growth in twelve months, the UK market leader, and now charging hard into the US and Europe. We have $25M in funding, 1M+ pets on the platform, and a buzzing HQ in Paddington, London.\n This is a rare chance to join a rocket ship at exactly the right moment and we’re looking for exceptional people to help us fly it.\n In this role, you will:\n Own the analytics layer of our data platform; writing, structuring, and maintaining the SQL models that power dashboards, product metrics, and business intelligence across Lupa\n Transform raw data from our platform into clean, reliable, well-documented datasets that Product, Engineering, and Commercial teams can actually use\n Build and maintain reports that give the business a clear picture of clinical outcomes, practice performance, customer health, and growth metrics\n Define and enforce data modelling best practices, including naming conventions, documentation standards, and testing coverage\n Partner closely with the wider Data team to ensure analytics models sit on top of solid, well-engineered pipelines\n Work directly with stakeholders across the business to understand what they need to know, translate that into clean SQL, and deliver answers that drive decisions\n Your background looks something like:\n 2–3 years of hands-on experience in an analytics engineering, SQL engineering, or BI engineering role\n Exceptional SQL skills,…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/axle/google-cloud-platform-data-engineer-london-183669",
+    "description": "<div style=\"font-size: 10pt; font-family: 'Tahoma';\">\n<p>(ID: 2026-2740)</p>\n<br>\n<p><strong>Axle Informatics</strong> is a bioscience and information technology company advancing translational research through biomedical informatics, data science, artificial intelligence, and intelligent automation. We partner with research centers, healthcare organizations, and government agencies around the globe to transform complex data into actionable insights that accelerate scientific discovery and improve decision-making. Our multidisciplinary teams of experts in biomedical science, software engineering, data engineering, AI, automation, and program management develop innovative technologies, modernize data ecosystems, and create scalable solutions that enable the next generation of research and healthcare innovation.</p>\n<p>&nbsp;</p>\n<div class=\"ck-content\" style=\"font-family: Tahoma; font-size: 10pt;\" data-wrapper=\"true\">\n<div style=\"font-family: Tahoma; font-size: 10pt;\">\n<p style=\"border-style: none; margin: 15.0pt 0in 5.0pt; padding: 0in;\"><span style=\"color: #000000; font-family: Tahoma; font-size: 10pt;\"><strong>Role Overview</strong></span></p>\n</div>\n<p style=\"margin: 4.0pt 0in; text-align: start;\"><span style=\"color: #000000; font-family: Tahoma; font-size: 10pt;\">We are seeking an experienced GCP Data Engineer to own the technical pipeline infrastructure for a Finance Transformation program. The successful candidate will design and implement the shared pipeline architecture that underpins the program's data product delivery, building the Workday and Oracle Finance connectors and owning the unified data model, lineage graph, and real time event capture infrastructure.</span></p>\n<p style=\"margin: 4.0pt 0in; text-align: start;\"><span style=\"color: #000000; font-family: Tahoma; font-size: 10pt;\">This is a senior, hands on engineering role requiring deep expertise in GCP pipeline services, Workday and Oracle API extraction, and data lineage architecture. The candid…",
     "tags": [
-      "Data",
-      "Full Time"
+      "Corporate"
     ],
-    "jobType": "Full Time",
-    "postedAt": "2026-08-03T22:01:23.000Z",
-    "scrapedAt": "2026-08-04T02:08:13.569Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-london-46651",
-    "externalId": "data-engineer-london-46651",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Lupa Pets",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/lupa-pets/data-engineer-london-46651",
-    "description": "About Us\n Lupa is building a category defining product the industry has never seen before.\n We're the AI-native operating system for veterinary practices and pet parents, replacing the fragmented, clunky systems vets have tolerated for years with a single intelligent platform for scheduling, client communication, clinical documentation, and AI-driven care guidance. Practices run more efficiently, vets get back to doing what they love, and pet parents feel more connected to their animals' health than ever.\n The traction speaks for itself: founded in 2023 and already one of Europe's top 100 AI startups, with a team of 50 people, 10x growth in twelve months, the UK market leader, and now charging hard into the US and Europe. We have $25M in funding, 1M+ pets on the platform, and a buzzing HQ in Paddington, London. We've attracted exceptional people from the likes of Palantir, Google, DeepMind, BCG, Meta, and AWS and we're just getting started.\n This is a rare chance to join a rocket ship at exactly the right moment and we're looking for exceptional people to help us fly it.\n In this role, you will:\n Design and build data pipelines from raw ingestion through to clean, modelled, production-ready datasets that engineering and product teams rely on\n Own data quality across your domain, defining standards, instrumenting checks, and resolving failures with urgency\n Monitor pipeline health in production and respond to issues proactively, not reactively\n Collaborate with engineering and product to understand data requirements and turn them into robust, scalable solutions\n Help define and evolve the architecture of our data platform as we scale across new geographies and product surfaces\n Document your work clearly so the team can understand, extend, and maintain what you build\n Your background looks something like:\n Multiple years of hands-on data engineering experience in a professional setting\n Strong Python skills and a demonstrated ability to build pipelines from scratch,…",
-    "tags": [
-      "Data",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-08-03T22:01:23.000Z",
-    "scrapedAt": "2026-08-04T02:08:13.569Z"
+    "postedAt": "2026-08-04T03:56:55.000Z",
+    "scrapedAt": "2026-08-04T05:44:34.578Z"
   },
   {
     "id": "greenhouse:discord-8614971002",
@@ -67,7 +29,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-04T02:08:14.197Z"
+    "scrapedAt": "2026-08-04T05:44:35.245Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -83,7 +45,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-08-04T02:08:14.197Z"
+    "scrapedAt": "2026-08-04T05:44:35.245Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -99,7 +61,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-08-04T02:08:14.197Z"
+    "scrapedAt": "2026-08-04T05:44:35.245Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -119,7 +81,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-08-04T02:11:25.859Z"
+    "scrapedAt": "2026-08-04T05:47:29.235Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -135,7 +97,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-08-04T02:08:14.197Z"
+    "scrapedAt": "2026-08-04T05:44:35.245Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -151,7 +113,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-08-04T02:08:14.197Z"
+    "scrapedAt": "2026-08-04T05:44:35.245Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -167,6 +129,38 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-08-04T02:08:14.197Z"
+    "scrapedAt": "2026-08-04T05:44:35.245Z"
+  },
+  {
+    "id": "greenhouse:block-5281312008",
+    "externalId": "block:5281312008",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer, Risk",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "remote": false,
+    "url": "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008",
+    "description": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.\nToday, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.\n The Role\n As a Data Engineer you will handle everything from data architecture and modeling to data pipeline tooling and dashboarding. You will enable other compliance and risk teams to make impactful business decisions by laying the foundation of our large and unique datasets that span across multiple products. This role will support compliance or risk product data engineering teams.\n The Compliance Data Engineering team at Block supports the detection and reporting of suspicious financial crimes activity across Cash App, Square, and Afterpay. We work globally with partners in business, engineering, counsel, and product to provide a safe user experience for our customers while minimizing and potentially eliminating bad activity on our platform.\n The Risk Product Data Engineering team at Block builds reliable data foundations that help protect customers across Cash App, Square, and Afterpay. We partner with product, engineering, compliance, and legal teams to support risk detection, reporting, instrumentation, and ML-ready datasets across critical domains including identity…",
+    "tags": [
+      "10109 Risk - Risk ML & DS"
+    ],
+    "postedAt": "2026-07-02T17:34:01.000Z",
+    "scrapedAt": "2026-08-04T05:44:35.245Z"
+  },
+  {
+    "id": "greenhouse:anthropic-5240422008",
+    "externalId": "anthropic:5240422008",
+    "source": "greenhouse",
+    "title": "Data Engineer, Safeguards",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\n As a Data Engineer on the Safeguards team, you will build the data foundations that keep our AI systems safe. The Safeguards team works to monitor models, prevent misuse, and ensure user well-being — and doing that well requires robust, reliable data infrastructure.\n In this role, you will design and build the pipelines, warehousing solutions, and analytical tooling that power our safety and trust efforts at scale. You'll work closely with engineers, data scientists, and policy teams to ensure the Safeguards organization has the data it needs to detect abuse patterns, measure the effectiveness of safety interventions, and make informed decisions about model behavior and enforcement. This is a high-impact role where your work directly supports Anthropic's mission to develop AI that is safe and beneficial.\n Key responsibilities\n Design, build, and maintain scalable data pipelines that support safety monitoring, abuse detection, and enforcement workflows\n Develop and optimize data models and warehousing solutions to enable efficient analysis of large-scale usage and safety data\n Build and maintain dashboards and reporting infrastructure that give Safeguards teams visibility into model behavior, misuse patterns, and enforcement outcomes\n Collaborate with engineers to integrate data from multiple sources — including model outputs, user reports, and automated classifiers — into a unified analytical layer\n Implement data quality frameworks, monitoring, and alerting to ensure the reliability of safety-critical data\n Partner with research teams to surface data insights that inform model improvements and safety interventions…",
+    "tags": [
+      "Data Science & Analytics"
+    ],
+    "postedAt": "2026-07-01T20:26:10.000Z",
+    "scrapedAt": "2026-08-04T05:44:35.245Z"
   }
 ]
