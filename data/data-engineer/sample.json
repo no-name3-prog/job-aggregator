@@ -1,60 +1,87 @@
 [
   {
-    "id": "arbeitnow:senior-data-engineer-all-genders-leipzig-447094",
-    "externalId": "senior-data-engineer-all-genders-leipzig-447094",
+    "id": "arbeitnow:senior-data-analytics-engineer-254460",
+    "externalId": "senior-data-analytics-engineer-254460",
     "source": "arbeitnow",
-    "title": "Senior Data Engineer (all genders)",
-    "company": "Eorbit Gmbh",
-    "location": "Leipzig",
+    "title": "Senior Data Analytics Engineer",
+    "company": "Dotmatics",
+    "location": "Unknown",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/senior-data-engineer-all-genders-leipzig-447094",
-    "description": "Deine Aufgaben Where the Data Engineer builds pipelines, you own the platform. Rocket’s data layer has to scale from a handful of European hotel groups to enterprise chains across two continents — multi-tenant, reliable, cost-efficient, and fast enough to serve both real-time product features and ML workloads.\n You will set the architecture, the standards, and the roadmap for our Databricks lakehouse, and raise the bar for everyone working on data at MICE DESK.\n Data platform architecture. Own the design of our lakehouse (Medallion architecture on Databricks): tenancy model, storage layout, orchestration, streaming vs. batch strategy, cost management, and the evolution path as customer volume grows 10x. Scalable multi-tenant ingestion. Design the ingestion framework that makes onboarding a new hotel group a configuration task, not an engineering project — across wildly heterogeneous PMS/CRM sources and both EU and US data residency requirements. ML and product data serving. Build the interfaces between the data platform and its consumers: feature pipelines for our ML models, low-latency serving for in-product analytics, and the contracts that keep both stable. Standards and mentorship. Define engineering standards for the data team — testing, CI/CD for pipelines, documentation, data contracts — and mentor data engineers toward them. What success looks like:\n 3 months: You’ve audited the current platform, set the target architecture, and shipped the first structural improvement. 12 months: The platform onboards new enterprise customers in days, serves ML and product reliably, and the data team operates at a visibly higher standard.\n Dein Profil 5+ years in data engineering, including architecture ownership of a production data platform Deep, hands-on Databricks and Spark expertise Proven design of multi-tenant or large-scale data systems Strong software engineering practice: testing, CI/CD, infrastructure-as-code for data Experience mentoring engineers or leading da…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/senior-data-analytics-engineer-254460",
+    "description": "<div class=\"content-intro\"><p><strong>Our Why At Dotmatics&nbsp;</strong></p>\n<p>At Dotmatics, a Siemens company,&nbsp; we believe science, data, and decision-making must be deeply intertwined for innovation to thrive. Our Portfolio includes Luma, LumaLab Connect, ELN Platform, Graphpad Prism, Geneious, SnapGene, Protein Metrics, OMIQ, FCS Express, LabArchives, NQuery, EasyPanel, SoftGenetics and Virscidian.</p>\n<p><strong>We have a vision for a new Lab of the Future that will change the future of scientific research.</strong></p>\n<p>We have created the world’s most comprehensive digital science platform – best-of-breed software applications already used by more than 2 million scientists, together in a single ecosystem united by a powerful, flexible enterprise data platform. This is not flat data buried away in digital graveyards. This is dynamic, multi-dimensional decision-making.</p>\n<p>Scientific enterprises need a new level of effectiveness to achieve tomorrow’s breakthroughs. Illness will not wait. The biosphere will not wait. We are tireless in our vision, because the time for innovation is now.</p>\n<p><strong>Shaping the Future of Science At Dotmatics&nbsp;</strong></p>\n<p>Our global team of more than 800 colleagues are dedicated to supporting our customers in over 180 countries. Together, with our scientific community of users, we accelerate scientific innovation in order to make the world a healthier, cleaner, and safer place to live.</p>\n<p>You’ll join a collaborative, global team pushing the boundaries of scientific innovation.&nbsp; Your ideas and efforts will have a tangible impact, accelerating scientific progress and discovery. We offer a dynamic, remote-friendly environment that fosters high integrity and collaboration, empowering you to excel. Dotmatics is a company built by scientists, for scientists. Combined, we are now the world’s largest cloud-based scientific research R&amp;D platform. We need your help to keep growing and pioneering the futu…",
     "tags": [
-      "Experienced",
-      "Permanent",
-      "Full time"
+      "Engineering"
     ],
-    "jobType": "Experienced",
-    "postedAt": "2026-08-04T11:09:08.000Z",
-    "scrapedAt": "2026-08-04T14:02:39.995Z"
+    "postedAt": "2026-08-04T15:55:46.000Z",
+    "scrapedAt": "2026-08-04T16:59:04.594Z"
   },
   {
-    "id": "arbeitnow:internal-data-engineer-leipzig-239368",
-    "externalId": "internal-data-engineer-leipzig-239368",
+    "id": "arbeitnow:staff-analytics-engineer-london-215546",
+    "externalId": "staff-analytics-engineer-london-215546",
     "source": "arbeitnow",
-    "title": "Internal Data Engineer (m/w/d)",
-    "company": "Eorbit Gmbh",
-    "location": "Leipzig",
+    "title": "Staff Analytics Engineer",
+    "company": "Taptapsend",
+    "location": "London",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/internal-data-engineer-leipzig-239368",
-    "description": "Deine Aufgaben Pipelines: Du bindest unsere Quellsysteme an — CRM (Pipedrive), Produktdatenbanken, Finanzsysteme, Drittanbieter-APIs, Hotelsysteme (Opera, SIHOT, Delphi). Ingestion, Scheduling, Fehlerbehandlung. Modellierung: Du baust die transformierte Schicht (dbt oder gleichwertig): sauber versioniert, getestet, dokumentiert. Staging → Core → Marts. Metriken-Layer: Eine Definition pro Kennzahl. Du machst die Diskussion „aber in meinem Excel steht 4,2” endgültig überflüssig. Data Quality: Tests, Freshness-Checks, Alerting. Du merkst, dass eine Pipeline gebrochen ist, bevor der CFO es merkt. Enablement: Du baust Modelle so, dass Fachbereiche im BI-Tool selbst arbeiten können. Du bist kein Dashboard-Butler. Zuarbeit Reporting: Du lieferst die verlässliche Datengrundlage für C-Level- und Investorenreporting — die Interpretation übernimmt Finance.\n Dein Profil 3+ Jahre als Analytics Engineer, Data Engineer oder BI Engineer mit starkem Modellierungsanteil. SQL auf Expertenniveau. Kein „ich kann Joins”, sondern Window Functions, Inkrementalität, Performance. Erfahrung mit dbt — oder du kannst überzeugend erklären, warum du es anders gelöst hast. Python für Ingestion und Automatisierung. Erfahrung mit mindestens einem Warehouse: BigQuery, Snowflake, Redshift oder Postgres-basiert. Git, Code Review, Tests, CI. Deine Datenmodelle sind Software, kein Bastelkeller. Du sprichst mit Fachbereichen und übersetzt „ich brauche mal eine Auswertung” in ein Datenmodell.\n Von Vorteil: Du hast CRM-Daten (Pipedrive, HubSpot, Salesforce) schon einmal in ein Warehouse überführt — inklusive der Freude über historisch gewachsene Custom Fields. Erfahrung mit Orchestrierung (Airflow, Dagster, Prefect). BI-Tooling: Metabase, Looker, Power BI. DSGVO-Bewusstsein bei personenbezogenen Daten — bei uns kein Nebenthema.\n Warum wir? Wir sind das Technologieunternehmen, das den Gruppen- und Veranstaltungsverkauf in der Hotellerie neu denkt. Was heute über Posteingang, Excel und Telefon läuft, macht u…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/taptapsend/staff-analytics-engineer-london-215546",
+    "description": "About Us\n We’re building the world’s leading cross-border fintech for emerging markets - empowering families, fueling local economies, and changing how millions access financial services.\n Since our launch in 2019, we have transformed how money moves across borders with our operations spanning 6 out of 7 continents and covering both the busiest and most underserved (remittance) corridors. We tapped into a massive shift - from banks to phones - bringing digital finance to places where traditional systems never reached. The next stage of growth will fuel a network of services and products especially designed to make money more accessible to diaspora communities including local cards, and additional savings and payments features.\n We’re growing fast, backed by world-class investors, and scaling a product that blends real world impact with cutting edge fintech innovation .\n Here’s a little more:\n Founded by Harvard grads and 3-time founders who previously built Segovia (acquired) and GiveDirectly (>$300M revenue, fastest-growing NGO in the world)\n Backed by top investors including Spark Capital, Canaan, Reid Hoffman, Breyer Capital, Unbound, Wamda, and more\n Built by global top performers from Bain, Google, McKinsey, Uber, Checkout, Bolt, and beyond - we move fast, stay humble, and care deeply about our mission\n Truly global team - 250+ people, 50+ nationalities, 50+ languages\n Guided by our values - ownership, impact, humility, and heart - in deed, not just word\n The Role\n We’re looking for a hands-on Staff Analytics Engineer to own the delivery of first-class data systems at Taptap Send. This is a senior technical IC role: you’ll design, build and maintain the dbt modelling layer that all teams — from Finance to Product to Markets — rely on to make decisions.\n You’ll set the technical bar for Analytics Engineering at TTS. That means owning our thorniest modelling problems, ensuring that trusted, self-serve data is default across the company. If you live and breathe d…",
     "tags": [
-      "Experienced",
-      "Permanent",
-      "Full time"
+      "Finance",
+      "Full Time"
     ],
-    "jobType": "Experienced",
-    "postedAt": "2026-08-04T11:09:08.000Z",
-    "scrapedAt": "2026-08-04T14:02:39.995Z"
+    "jobType": "Full Time",
+    "postedAt": "2026-08-04T15:41:21.000Z",
+    "scrapedAt": "2026-08-04T16:59:04.594Z"
   },
   {
-    "id": "arbeitnow:data-engineer-all-genders-leipzig-79488",
-    "externalId": "data-engineer-all-genders-leipzig-79488",
+    "id": "arbeitnow:senior-bigquery-data-engineer-london-142368",
+    "externalId": "senior-bigquery-data-engineer-london-142368",
     "source": "arbeitnow",
-    "title": "Data Engineer (all genders)",
-    "company": "Eorbit Gmbh",
-    "location": "Leipzig",
+    "title": "Senior BigQuery Data Engineer",
+    "company": "Checkout.com",
+    "location": "London",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/data-engineer-all-genders-leipzig-79488",
-    "description": "Deine Aufgaben Everything Rocket does — AI extraction, pricing intelligence, customer dashboards, business reporting — runs on data that you make trustworthy. You will build and operate the pipelines that pull sales data out of heterogeneous hotel systems (PMS, CRM, email) and land it, cleaned and modeled, in our Databricks lakehouse.\n The core of the job:  Hotel data is famously messy: every property configures its PMS differently, legacy systems export inconsistent formats, and the same booking looks different in three systems. Making that reliable at scale is the job.\n Ingestion pipelines. Build and maintain pipelines from customer systems (SIHOT, Opera, Guestline, Salesforce, email) into our bronze layer — batch and streaming, APIs and file-based, resilient to the quirks of each source. Data modeling. Develop the silver/gold layers of our Medallion architecture: clean, well-documented models of requests, offers, bookings, and revenue that serve analytics, dashboards, and ML features alike. Data quality and observability. Implement validation, monitoring, and alerting so broken source data is caught before it reaches a customer dashboard or a pricing model. Analytics enablement. Support customer-facing performance reports and internal KPI dashboards — working with Product and customer teams to turn data into insight hotels act on. What success looks like:\n 3 months: You own several production pipelines end-to-end and have measurably improved their reliability. 12 months: Onboarding a new hotel group’s data is a repeatable process, not a project — and data quality issues are caught by your systems, not by customers.\n Dein Profil 2–4 years as a data engineer or in a strongly data-focused engineering role Strong SQL and Python Hands-on Databricks and Spark experience — this is a hard requirement, our entire platform runs on it Hands-on experience building production pipelines (batch and/or streaming) Pragmatic approach to messy real-world data Strong English (B2–C1…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-bigquery-data-engineer-london-142368",
+    "description": "Company Description\n We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day.\n We are where the world checks out, enabling over 10 billion transactions yearly for more than one billion global shoppers.\n Whether you want to book a holiday, order food, renew a subscription, or check out online, there’s a good chance our tech powers the payments behind the scenes. Our platform helps the most ambitious businesses deliver effortless digital experiences, at scale.\n If you want to do career-defining work, you’ve come to the right place. We move fast, think globally, and believe great teams are built by hiring exceptional people with conviction, curiosity, and the desire to make an impact.\n With 20 offices across six continents and London as our HQ, we’re shaping the future of fintech – and we’re just getting started.\n Checkout.com is looking for an ambitious Data Engineer to join our Data Platform Team. Our team’s mission is to build a world-class data platform that powers our products and analytics.\n The Data Platform team is here to ensure internal stakeholders can easily collect, store, process and utilise data to build reports or products aiming to solve business problems. Our focus is on maximising the amount of time business stakeholders spend on solving business problems and minimising time spent on technical details around implementation, deployment, and monitoring of their solutions.\n The core tech stack we use is based on AWS and GCP, using:\n Kafka as our message transport\n Flink for (near) real time processing\n Datahub as our catalog\n BigQuery as our warehouse\n Airflow (GCP Composer) for scheduling\n DBT for data transformation\n Montecarlo for monitoring\n The platform here encompasses the end-to-end, first for real time / streaming use cases but also for our analytical / warehouse needs. We're building for scale. As such, much of what we…",
     "tags": [
-      "Experienced",
-      "Permanent",
-      "Full time"
+      "All cost centres",
+      "Full Time"
     ],
-    "jobType": "Experienced",
-    "postedAt": "2026-08-04T11:09:08.000Z",
-    "scrapedAt": "2026-08-04T14:02:39.995Z"
+    "jobType": "Full Time",
+    "postedAt": "2026-08-04T15:40:09.000Z",
+    "scrapedAt": "2026-08-04T16:59:04.594Z"
+  },
+  {
+    "id": "arbeitnow:principal-data-engineer-cologne-440133",
+    "externalId": "principal-data-engineer-cologne-440133",
+    "source": "arbeitnow",
+    "title": "Principal Data Engineer (m/f/d)",
+    "company": "thoughtworks",
+    "location": "Cologne",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/thoughtworks/principal-data-engineer-cologne-440133",
+    "description": "<p><div><div class=\"description content\"><p>Principal data engineers at Thoughtworks are strategic leaders who spearhead data engineering initiatives, tackle complex business challenges and uncover transformative insights. They possess a deep understanding of a client's business ecosystem and partner with executives to align technology strategies with business objectives. By contextualizing emerging trends and Thoughtworks' exploration, they expand the impact of data engineering within the client organization.</p><br><p>They draw upon their profound expertise in developing modern data architectures and infrastructure for the management of data applications. Effective collaboration is paramount, as they adeptly convey their discoveries to both technical and non-technical stakeholders. They stay abreast of industry advancements, ensure data quality and security, and provide mentorship to team members. At Thoughtworks, data engineers leverage deep technical knowledge to solve complex business problems, making a significant impact on client success.</p><br><p>This is a client-facing, builder's leadership role. You will start with a small, senior team and grow it through technical depth, delivery excellence and thought leadership, rather than inheriting a large organisation to manage. The role is based in Germany and requires regular travel to client sites, up to approximately 50% of your time.</p></div><h2 id='job-responsibilities'>Job responsibilities</h2><div class=\"job-responsibilities content\"><ul><br><li aria-level=\"1\">You will collaborate with sales and pre-sales to clarify requirements, design viable solutions and independently drive complex pursuits with technical and executive stakeholders.</li><br><li aria-level=\"1\">You will establish a clear vision and direction for the data paradigm and practices, aligning it with the overall business strategy.</li><br><li aria-level=\"1\">You will collaborate with executive-level stakeholders to understand their strategic ob…",
+    "tags": [
+      "1Y_TWDEU SL DATA"
+    ],
+    "postedAt": "2026-08-04T15:16:15.000Z",
+    "scrapedAt": "2026-08-04T16:59:04.594Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-munich-208534",
+    "externalId": "data-engineer-munich-208534",
+    "source": "arbeitnow",
+    "title": "DATA ENGINEER (f/m/d)",
+    "company": "Omnisent",
+    "location": "Munich",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/omnisent/data-engineer-munich-208534",
+    "description": "Founded in 2025, Omnisent is a Munich-based defense technology company developing fully autonomous, Counter-UAS system. We are a small, high-output team from Cambridge, Imperial College, MIT, and BCG united by a mission to redefine modern airspace security.\n Tasks\n We are looking for a Data Engineer to build and maintain the data infrastructure behind our flight testing and acoustic sensor development – turning raw field data into structured, actionable insights for our hardware and ML teams.\n Design, build, and maintain databases and pipelines for acoustic device parameters and flight test data using SQL and Postgres\n Structure and manage large volumes of field-collected sensor and flight test data\n Build tools and processes to make test data accessible and usable across hardware, ML, and flight test teams\n Translate raw flight test results into structured, actionable datasets and insights\n Collaborate with flight test engineers and ML engineers to ensure data quality and completeness from collection through analysis\n Requirements\n Strong proficiency with SQL and Postgres, and experience designing data pipelines and infrastructure\n Experience working with sensor, test, or field-collected data\n Comfortable structuring and cleaning large, messy real-world datasets\n Strong collaboration skills, able to work closely with hardware, flight test, and ML teams\n EU work authorization\n Bonus:\n Experience with acoustic or sensor data specifically\n Background supporting flight test or hardware test programs\n Experience with ML data pipelines (labeling, dataset versioning, etc.)\n Benefits\n Competitive Compensation: Highly competitive cash comp, along with virtual stock options, that reflect your experience and the value you bring.\n Accelerated Learning &#x26; Growth: Join a fast-paced environment where you'll take on real responsibility, overcome meaningful challenges, and grow alongside a driven team. Make a Real Impact: Play a key role in shaping Omnisent's journey and contr…",
+    "tags": [
+      "Data Scientist"
+    ],
+    "postedAt": "2026-08-04T13:35:40.000Z",
+    "scrapedAt": "2026-08-04T16:59:04.594Z"
   },
   {
     "id": "greenhouse:discord-8614971002",
@@ -70,7 +97,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-04T14:02:40.710Z"
+    "scrapedAt": "2026-08-04T16:59:05.314Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -86,7 +113,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-08-04T14:02:40.710Z"
+    "scrapedAt": "2026-08-04T16:59:05.314Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -102,7 +129,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-08-04T14:02:40.710Z"
+    "scrapedAt": "2026-08-04T16:59:05.314Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -122,7 +149,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-08-04T14:06:06.947Z"
+    "scrapedAt": "2026-08-04T17:02:33.069Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -138,38 +165,6 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-08-04T14:02:40.710Z"
-  },
-  {
-    "id": "greenhouse:cloudflare-8055118",
-    "externalId": "cloudflare:8055118",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer",
-    "company": "Cloudflare",
-    "location": "In-Office",
-    "remote": false,
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118",
-    "description": "About Us\n At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.\n At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.\n Location: Austin (Hybrid)\n About Us\n At Cloudflare, we have our eyes set on an ambitious goal: to help build a better Internet. Today the company runs one of the world’s largest networks that powers trillions of requests per month. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare have all web traffic routed through i…",
-    "tags": [
-      "Engineering"
-    ],
-    "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-08-04T14:02:40.710Z"
-  },
-  {
-    "id": "greenhouse:scaleai-4713597005",
-    "externalId": "scaleai:4713597005",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer, Public Sector",
-    "company": "Scale AI",
-    "location": "Washington, DC",
-    "remote": false,
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4713597005",
-    "description": "Senior Data Engineer, Public Sector\n As a Data Engineer for the Public Sector business unit, you will build Scale's analytical and business-intelligence infrastructure. Scale's customers process millions of tasks through our APIs, and we're looking for a talented Data Engineer to build scalable solutions to support this growth. You will have widespread purview, with responsibility for understanding, mining, aggregating, and exposing data across the entire business unit to support timely and efficient decision-making and data exploration. You will also implement Scale's data warehouse, data mart, and business intelligence reporting environments, and help users transition their workflows to these systems.\n This role requires collaboration with leadership and cross-functional teams to solve complex problems and develop sustainable, scalable data solutions. Your responsibilities will include both ad-hoc analyses and the creation of core data models and pipelines, directly impacting how Scale operates and evaluates its performance.\n You will:\n Work with operations, finance, and engineering to drive the development of pipelines that provide single-source-of-truth foundational accuracy\n Continually improve ongoing data pipelines and simplify self-service support for business stakeholders\n Perform regular system audits, and create data quality tests to ensure complete and accurate reporting of data/metrics\n Develop repeatable, scalable analytical solutions, such as data models, improved pipelines, or better underlying tables\n Have an active Secret security clearance (Top Secret preferred)\n Ideally You’d Have:\n 5+ years of relevant work experience in a role requiring application of data modeling and analytic skills\n Ability to create extensible and scalable data schema and pipelines that lay the foundation for downstream analysis\n Mastery of SQL and relational databases; experience with programming languages (e.g., Python/R)\n Experience building a reliable transformation la…",
-    "tags": [
-      "Data, Technology & Systems"
-    ],
-    "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-08-04T14:02:40.710Z"
+    "scrapedAt": "2026-08-04T16:59:05.314Z"
   }
 ]

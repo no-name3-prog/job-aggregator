@@ -30,7 +30,7 @@
   },
   {
     "company": "Adobe",
-    "jobCount": 6,
+    "jobCount": 5,
     "sources": [
       "workday"
     ],
@@ -39,7 +39,6 @@
       "Noida",
       "San Francisco",
       "Bucharest",
-      "Bangalore",
       "3 Locations"
     ],
     "sampleTitles": [
@@ -47,7 +46,6 @@
       "Senior Data Engineer",
       "Senior Data Engineer",
       "Data Platform Engineer",
-      "Senior Data Engineer - Streaming, Kafka & AI Platforms",
       "Principal Scientist - Data Pipeline Engineer"
     ],
     "officialUrls": [
@@ -55,7 +53,7 @@
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Science-Engineer-3_R170861-1",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Engineer_R170680-1",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-engineer_R166484-1"
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
     ]
   },
   {
@@ -82,30 +80,6 @@
       "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816",
       "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Principal-Analytics-Engineer_JR-0107883",
       "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Analytics-Sr-Software-Engineer--US-Federal-_JR-0105494"
-    ]
-  },
-  {
-    "company": "NVIDIA",
-    "jobCount": 4,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Israel, Yokneam",
-      "US, CA, Santa Clara",
-      "4 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer, PE",
-      "Senior Data Engineer, Engineering Data Analytics",
-      "Senior Interconnect Product Data Engineer",
-      "Principal Security Data Engineer, Infrastructure Security Engineering - DGX Cloud"
-    ],
-    "officialUrls": [
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Data-Engineer--PE_JR2021331",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer--Engineering-Data-Analytics_JR2020545",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Interconnect-Product-Data-Engineer_JR2021975",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Security-Data-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2019415"
     ]
   },
   {
@@ -171,23 +145,24 @@
     ]
   },
   {
-    "company": "Eorbit Gmbh",
+    "company": "NVIDIA",
     "jobCount": 3,
     "sources": [
-      "arbeitnow"
+      "workday"
     ],
     "locations": [
-      "Leipzig"
+      "Israel, Yokneam",
+      "4 Locations"
     ],
     "sampleTitles": [
-      "Senior Data Engineer (all genders)",
-      "Internal Data Engineer (m/w/d)",
-      "Data Engineer (all genders)"
+      "Senior Data Engineer, PE",
+      "Senior Interconnect Product Data Engineer",
+      "Principal Security Data Engineer, Infrastructure Security Engineering - DGX Cloud"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/senior-data-engineer-all-genders-leipzig-447094",
-      "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/internal-data-engineer-leipzig-239368",
-      "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/data-engineer-all-genders-leipzig-79488"
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Data-Engineer--PE_JR2021331",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Interconnect-Product-Data-Engineer_JR2021975",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Security-Data-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2019415"
     ]
   },
   {
@@ -353,6 +328,38 @@
     ]
   },
   {
+    "company": "Checkout.com",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Senior BigQuery Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-bigquery-data-engineer-london-142368"
+    ]
+  },
+  {
+    "company": "Dotmatics",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Unknown"
+    ],
+    "sampleTitles": [
+      "Senior Data Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/senior-data-analytics-engineer-254460"
+    ]
+  },
+  {
     "company": "Dropbox",
     "jobCount": 1,
     "sources": [
@@ -385,6 +392,22 @@
     ]
   },
   {
+    "company": "Omnisent",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Munich"
+    ],
+    "sampleTitles": [
+      "DATA ENGINEER (f/m/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/omnisent/data-engineer-munich-208534"
+    ]
+  },
+  {
     "company": "Robinhood",
     "jobCount": 1,
     "sources": [
@@ -414,6 +437,38 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/scaleai/jobs/4713597005"
+    ]
+  },
+  {
+    "company": "Taptapsend",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Staff Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/taptapsend/staff-analytics-engineer-london-215546"
+    ]
+  },
+  {
+    "company": "thoughtworks",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Cologne"
+    ],
+    "sampleTitles": [
+      "Principal Data Engineer (m/f/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/thoughtworks/principal-data-engineer-cologne-440133"
     ]
   },
   {
