@@ -1,5 +1,21 @@
 [
   {
+    "id": "greenhouse:dropbox-8090065",
+    "externalId": "dropbox:8090065",
+    "source": "greenhouse",
+    "title": "Senior Manager, Data Engineering",
+    "company": "Dropbox",
+    "location": "Remote - Canada: Select locations",
+    "remote": true,
+    "url": "https://jobs.dropbox.com/listing/8090065?gh_jid=8090065",
+    "description": "Role Description\n We are seeking a Senior Manager, Data Engineering to lead the team responsible for the reliability, quality, cost, and velocity of Dropbox's core data platform. This is a hands-on engineering leader who owns the pipelines and data products that Product, GTM, Finance, and the CTO organization depend on to make decisions.\n In this role, you will lead and grow a team of data engineers building and operating our ingestion, transformation, orchestration, and serving layers, as well as the self-serve analytics substrate that lets partner teams answer their own questions without bespoke engineering work.\n The ideal candidate is a deeply technical, product-minded engineering leader who can hold a high bar on system reliability and data quality while partnering closely with Data Science, Business Intelligence Engineering, Analytics, and Product to turn fragmented, ticket-driven data work into durable, reusable data products.\n Our Engineering Career Framework is viewable by anyone outside the company and describes what’s expected for our engineers at each of our career levels. Check out our blog post on this topic and more here .\n Responsibilities\n Data Quality & Observability: Establish and enforce a rigorous data quality culture: lineage, freshness monitoring, anomaly detection, and outcome-oriented, gaming-resistant quality metrics.\n Self-Serve Platform: Lead the engineering of the self-serve analytics substrate, reducing bespoke request volume and increasing partner-team autonomy.\n Cost & Efficiency: Own the unit economics of the data platform — compute and storage efficiency — and drive measurable improvements without sacrificing reliability.\n Cross-Functional Partnership: Partner deeply with Data Science, BIE, Analytics, Product, Data Platform, and the CTO org to define the semantic layer, modeling standards, and data contracts that make downstream work trustworthy and fast.\n Engineering Culture: Establish rigorous engineering practices — code review,…",
+    "tags": [
+      "CTO-Data Science, AI Platform & Eng (Sub Team)"
+    ],
+    "postedAt": "2026-08-04T17:49:51.000Z",
+    "scrapedAt": "2026-08-04T19:27:05.305Z"
+  },
+  {
     "id": "arbeitnow:senior-data-analytics-engineer-254460",
     "externalId": "senior-data-analytics-engineer-254460",
     "source": "arbeitnow",
@@ -13,7 +29,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-04T15:55:46.000Z",
-    "scrapedAt": "2026-08-04T16:59:04.594Z"
+    "scrapedAt": "2026-08-04T19:27:04.859Z"
   },
   {
     "id": "arbeitnow:staff-analytics-engineer-london-215546",
@@ -31,7 +47,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-08-04T15:41:21.000Z",
-    "scrapedAt": "2026-08-04T16:59:04.594Z"
+    "scrapedAt": "2026-08-04T19:27:04.859Z"
   },
   {
     "id": "arbeitnow:senior-bigquery-data-engineer-london-142368",
@@ -49,39 +65,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-08-04T15:40:09.000Z",
-    "scrapedAt": "2026-08-04T16:59:04.594Z"
-  },
-  {
-    "id": "arbeitnow:principal-data-engineer-cologne-440133",
-    "externalId": "principal-data-engineer-cologne-440133",
-    "source": "arbeitnow",
-    "title": "Principal Data Engineer (m/f/d)",
-    "company": "thoughtworks",
-    "location": "Cologne",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/thoughtworks/principal-data-engineer-cologne-440133",
-    "description": "<p><div><div class=\"description content\"><p>Principal data engineers at Thoughtworks are strategic leaders who spearhead data engineering initiatives, tackle complex business challenges and uncover transformative insights. They possess a deep understanding of a client's business ecosystem and partner with executives to align technology strategies with business objectives. By contextualizing emerging trends and Thoughtworks' exploration, they expand the impact of data engineering within the client organization.</p><br><p>They draw upon their profound expertise in developing modern data architectures and infrastructure for the management of data applications. Effective collaboration is paramount, as they adeptly convey their discoveries to both technical and non-technical stakeholders. They stay abreast of industry advancements, ensure data quality and security, and provide mentorship to team members. At Thoughtworks, data engineers leverage deep technical knowledge to solve complex business problems, making a significant impact on client success.</p><br><p>This is a client-facing, builder's leadership role. You will start with a small, senior team and grow it through technical depth, delivery excellence and thought leadership, rather than inheriting a large organisation to manage. The role is based in Germany and requires regular travel to client sites, up to approximately 50% of your time.</p></div><h2 id='job-responsibilities'>Job responsibilities</h2><div class=\"job-responsibilities content\"><ul><br><li aria-level=\"1\">You will collaborate with sales and pre-sales to clarify requirements, design viable solutions and independently drive complex pursuits with technical and executive stakeholders.</li><br><li aria-level=\"1\">You will establish a clear vision and direction for the data paradigm and practices, aligning it with the overall business strategy.</li><br><li aria-level=\"1\">You will collaborate with executive-level stakeholders to understand their strategic ob…",
-    "tags": [
-      "1Y_TWDEU SL DATA"
-    ],
-    "postedAt": "2026-08-04T15:16:15.000Z",
-    "scrapedAt": "2026-08-04T16:59:04.594Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-munich-208534",
-    "externalId": "data-engineer-munich-208534",
-    "source": "arbeitnow",
-    "title": "DATA ENGINEER (f/m/d)",
-    "company": "Omnisent",
-    "location": "Munich",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/omnisent/data-engineer-munich-208534",
-    "description": "Founded in 2025, Omnisent is a Munich-based defense technology company developing fully autonomous, Counter-UAS system. We are a small, high-output team from Cambridge, Imperial College, MIT, and BCG united by a mission to redefine modern airspace security.\n Tasks\n We are looking for a Data Engineer to build and maintain the data infrastructure behind our flight testing and acoustic sensor development – turning raw field data into structured, actionable insights for our hardware and ML teams.\n Design, build, and maintain databases and pipelines for acoustic device parameters and flight test data using SQL and Postgres\n Structure and manage large volumes of field-collected sensor and flight test data\n Build tools and processes to make test data accessible and usable across hardware, ML, and flight test teams\n Translate raw flight test results into structured, actionable datasets and insights\n Collaborate with flight test engineers and ML engineers to ensure data quality and completeness from collection through analysis\n Requirements\n Strong proficiency with SQL and Postgres, and experience designing data pipelines and infrastructure\n Experience working with sensor, test, or field-collected data\n Comfortable structuring and cleaning large, messy real-world datasets\n Strong collaboration skills, able to work closely with hardware, flight test, and ML teams\n EU work authorization\n Bonus:\n Experience with acoustic or sensor data specifically\n Background supporting flight test or hardware test programs\n Experience with ML data pipelines (labeling, dataset versioning, etc.)\n Benefits\n Competitive Compensation: Highly competitive cash comp, along with virtual stock options, that reflect your experience and the value you bring.\n Accelerated Learning &#x26; Growth: Join a fast-paced environment where you'll take on real responsibility, overcome meaningful challenges, and grow alongside a driven team. Make a Real Impact: Play a key role in shaping Omnisent's journey and contr…",
-    "tags": [
-      "Data Scientist"
-    ],
-    "postedAt": "2026-08-04T13:35:40.000Z",
-    "scrapedAt": "2026-08-04T16:59:04.594Z"
+    "scrapedAt": "2026-08-04T19:27:04.859Z"
   },
   {
     "id": "greenhouse:discord-8614971002",
@@ -97,7 +81,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-04T16:59:05.314Z"
+    "scrapedAt": "2026-08-04T19:27:05.305Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -113,7 +97,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-08-04T16:59:05.314Z"
+    "scrapedAt": "2026-08-04T19:27:05.305Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -129,7 +113,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-08-04T16:59:05.314Z"
+    "scrapedAt": "2026-08-04T19:27:05.305Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -149,7 +133,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-08-04T17:02:33.069Z"
+    "scrapedAt": "2026-08-04T19:30:22.144Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -165,6 +149,22 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-08-04T16:59:05.314Z"
+    "scrapedAt": "2026-08-04T19:27:05.305Z"
+  },
+  {
+    "id": "greenhouse:cloudflare-8055118",
+    "externalId": "cloudflare:8055118",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer",
+    "company": "Cloudflare",
+    "location": "In-Office",
+    "remote": false,
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118",
+    "description": "About Us\n At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.\n At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.\n Location: Austin (Hybrid)\n About Us\n At Cloudflare, we have our eyes set on an ambitious goal: to help build a better Internet. Today the company runs one of the world’s largest networks that powers trillions of requests per month. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare have all web traffic routed through i…",
+    "tags": [
+      "Engineering"
+    ],
+    "postedAt": "2026-07-14T14:54:05.000Z",
+    "scrapedAt": "2026-08-04T19:27:05.305Z"
   }
 ]
