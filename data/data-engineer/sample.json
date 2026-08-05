@@ -1,5 +1,24 @@
 [
   {
+    "id": "arbeitnow:professor-of-data-engineering-potsdam-317112",
+    "externalId": "professor-of-data-engineering-potsdam-317112",
+    "source": "arbeitnow",
+    "title": "Professor (m/f/d) of Data Engineering",
+    "company": "Gus Germany",
+    "location": "Potsdam",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/gus-germany/professor-of-data-engineering-potsdam-317112",
+    "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
+    "tags": [
+      "Experienced",
+      "Fixed term",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-08-05T02:09:15.000Z",
+    "scrapedAt": "2026-08-05T05:43:47.020Z"
+  },
+  {
     "id": "arbeitnow:analytics-engineer-london-227199",
     "externalId": "analytics-engineer-london-227199",
     "source": "arbeitnow",
@@ -15,7 +34,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-08-05T01:00:20.000Z",
-    "scrapedAt": "2026-08-05T02:07:02.134Z"
+    "scrapedAt": "2026-08-05T05:43:47.020Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -31,7 +50,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-08-05T02:07:03.051Z"
+    "scrapedAt": "2026-08-05T05:43:47.769Z"
   },
   {
     "id": "greenhouse:discord-8614971002",
@@ -47,7 +66,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-05T02:07:03.051Z"
+    "scrapedAt": "2026-08-05T05:43:47.769Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -63,7 +82,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-08-05T02:07:03.051Z"
+    "scrapedAt": "2026-08-05T05:43:47.769Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -79,7 +98,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-08-05T02:07:03.051Z"
+    "scrapedAt": "2026-08-05T05:43:47.769Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -99,7 +118,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-08-05T02:09:58.911Z"
+    "scrapedAt": "2026-08-05T05:46:42.241Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -115,7 +134,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-08-05T02:07:03.051Z"
+    "scrapedAt": "2026-08-05T05:43:47.769Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -131,7 +150,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-08-05T02:07:03.051Z"
+    "scrapedAt": "2026-08-05T05:43:47.769Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -147,22 +166,6 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-08-05T02:07:03.051Z"
-  },
-  {
-    "id": "greenhouse:block-5281312008",
-    "externalId": "block:5281312008",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer, Risk",
-    "company": "Block",
-    "location": "Bay Area, CA, United States of America",
-    "remote": false,
-    "url": "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008",
-    "description": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.\nToday, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.\n The Role\n As a Data Engineer you will handle everything from data architecture and modeling to data pipeline tooling and dashboarding. You will enable other compliance and risk teams to make impactful business decisions by laying the foundation of our large and unique datasets that span across multiple products. This role will support compliance or risk product data engineering teams.\n The Compliance Data Engineering team at Block supports the detection and reporting of suspicious financial crimes activity across Cash App, Square, and Afterpay. We work globally with partners in business, engineering, counsel, and product to provide a safe user experience for our customers while minimizing and potentially eliminating bad activity on our platform.\n The Risk Product Data Engineering team at Block builds reliable data foundations that help protect customers across Cash App, Square, and Afterpay. We partner with product, engineering, compliance, and legal teams to support risk detection, reporting, instrumentation, and ML-ready datasets across critical domains including identity…",
-    "tags": [
-      "10109 Risk - Risk ML & DS"
-    ],
-    "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-08-05T02:07:03.051Z"
+    "scrapedAt": "2026-08-05T05:43:47.769Z"
   }
 ]
