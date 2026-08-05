@@ -1,5 +1,53 @@
 [
   {
+    "id": "greenhouse:dropbox-7958409",
+    "externalId": "dropbox:7958409",
+    "source": "greenhouse",
+    "title": "Infrastructure Software Engineer, Metadata Core",
+    "company": "Dropbox",
+    "location": "Remote - Poland",
+    "remote": true,
+    "url": "https://jobs.dropbox.com/listing/7958409?gh_jid=7958409",
+    "description": "Role Description\n As a Software Engineer on the Metadata team, you’ll build and operate the large-scale distributed databases that every Dropbox service depends on. Metadata systems are mission-critical, in the live path for all user operations and must meet stringent requirements for latency, durability, and transactional consistency.\n You’ll design and evolve the core infrastructure that manages Dropbox’s databases at scale, enabling fast, reliable access to data for millions of users and hundreds of internal services. This work spans distributed systems, replication, caching, and transactional database systems.\n You’ll collaborate closely with engineers across Infrastructure and Product teams to ensure the metadata layer meets business needs and continues to scale with Dropbox’s growth. This is an opportunity to leverage your expertise in distributed systems and grow into broader technical leadership.\n Our Engineering Career Framework is viewable by anyone outside the company and describes what’s expected for our engineers at each of our career levels. Check out our blog post on this topic and more here .\n Responsibilities\n Design and maintain distributed database systems providing low-latency, strongly consistent data access\n Implement and optimize replication, consensus, and caching mechanisms to meet availability and performance goals\n Operate production systems, including participating in the on-call rotation, ensuring high availability and data durability\n Collaborate with infrastructure and product teams to assess current and future use cases and requirements, supporting the development of a mid- to long-term roadmap that reflects these needs\n Contribute to system design reviews, postmortems, and reliability improvements\n Write high-quality, efficient code in Go and Rust for performance-critical systems\n On-call work may be necessary occasionally to help address bugs, outages, or other operational issues, with the goal of maintaining a stable and high-qual…",
+    "tags": [
+      "Persistent Systems (Sub Team)"
+    ],
+    "postedAt": "2026-08-05T10:31:33.000Z",
+    "scrapedAt": "2026-08-05T11:17:11.578Z"
+  },
+  {
+    "id": "greenhouse:twilio-8108404",
+    "externalId": "twilio:8108404",
+    "source": "greenhouse",
+    "title": "Incident Commander",
+    "company": "Twilio",
+    "location": "Remote - United Kingdom",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8108404",
+    "description": "Who we are\n At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.\n Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.\n .\n Hiring and how we work :\n We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!\n Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.\n .\n Who we are\n At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.\n Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.\n We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!\n See yourself at Twilio\n Join the team as Twilio’s next Incident Commander\n About the job\n This position is needed to help own and strategically evolve Twilio's incident response function as one of the company's…",
+    "tags": [
+      "Security"
+    ],
+    "postedAt": "2026-08-05T09:55:33.000Z",
+    "scrapedAt": "2026-08-05T11:17:11.578Z"
+  },
+  {
+    "id": "greenhouse:gitlab-8646852002",
+    "externalId": "gitlab:8646852002",
+    "source": "greenhouse",
+    "title": "Customer Success Architect, CEUR",
+    "company": "GitLab",
+    "location": "Remote, Germany",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8646852002",
+    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.\n The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software.\n * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.\n The CSA role is a pivotal addition to our customer success team, focusing on building strong, consultative relationships with our key customers. Our CSAs will serve as trusted advisors, leveraging their deep understanding of DevSecOps best practices, industry trends and our software capabilities to help customers navigate complex challenges and achieve their desired outcomes.\n Additionally, our team serves as liaisons between the customer and the GitLab ecosystem, streamlining collaboration with Product Management, Engineering, Sales, Professional Services, and others. CSM handbook .\n What You’ll Do\n Partner with our customers in…",
+    "tags": [
+      "Customer Success"
+    ],
+    "postedAt": "2026-08-05T09:14:00.000Z",
+    "scrapedAt": "2026-08-05T11:17:11.578Z"
+  },
+  {
     "id": "ashby:notion-9fe70944-f84f-421c-8168-bbf21d4b4ca4",
     "externalId": "notion:9fe70944-f84f-421c-8168-bbf21d4b4ca4",
     "source": "ashby",
@@ -16,79 +64,25 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-05T08:28:53.412Z",
-    "scrapedAt": "2026-08-05T08:30:15.597Z"
+    "scrapedAt": "2026-08-05T11:17:57.160Z"
   },
   {
-    "id": "greenhouse:twilio-8042052",
-    "externalId": "twilio:8042052",
-    "source": "greenhouse",
-    "title": "Deal Desk Manager",
-    "company": "Twilio",
-    "location": "Remote - Singapore",
-    "remote": true,
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8042052",
-    "description": "Who we are\n At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.\n Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.\n .\n Hiring and how we work :\n We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!\n Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.\n .\n See yourself at Twilio\n Join the team as our next Deal Desk Manager\n About the Job\n Twilio is looking for a curious, action-oriented, strong financial analyst for the Deal Desk Team who lives the Twilio Magic to support our North American Go-to-Market motion. This is an exciting role for an individual to gain and expand a broad spectrum of cross-functional interactions and contribute to non-standard commercial agreements by providing rigorous financial governance and structuring. This role partners closely with Finance leadership, Sales, Legal, and Operations to evaluate, structure, and execute deals in a way that is a “win-win” for both customers and Twilio while optimizing corporate margin goals. The ideal candidate is passionate, dedicated, and able to build complex financial models and analyze pricing structures, while providing data-driven, financially sound, and clearly communicated explanations and solutions.\n Responsibilities:\n Analyze deal economics for standard and non-standard agre…",
-    "tags": [
-      "Finance"
-    ],
-    "postedAt": "2026-08-05T06:14:54.000Z",
-    "scrapedAt": "2026-08-05T08:29:29.357Z"
-  },
-  {
-    "id": "jobicy:145332",
-    "externalId": "145332",
+    "id": "jobicy:145000",
+    "externalId": "145000",
     "source": "jobicy",
-    "title": "Data Analyst",
-    "company": "YipitData",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/e1bee9df-221.jpg",
+    "title": "Independent Contractor - Food Safety Consultant",
+    "company": "J. J. Keller &#038; Associates, Inc.",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/359f1374-221.png",
     "location": "USA",
     "remote": true,
-    "url": "https://jobicy.com/jobs/145332-data-analyst-2",
-    "description": "About Us:\n YipitData is the leading market research and analytics firm for the disruptive economy. Our proprietary technology analyzes billions of alternative data points to uncover actionable insights across sectors like Consumer Goods, AI & Software, Cloud, Payments, and more. The world's top investment funds and Fortune 500 companies depend on our data to drive high-stakes decisions.\n We operate globally with offices in the US, APAC, and India. Our award-winning, people-centric culture—recognized by Inc. as a  Best Workplace for three consecutive years—emphasizes transparency, ownership, and continuous mastery.\n What It's Like to Work Here\n Ownership is real, not aspirational. An analyst here can own a data product end-to-end, from methodology to client delivery, and present directly to the investors who depend on it. You won't spend months waiting for \"meaningful work.\"\n Growth is driven by impact , not tenure. Scope and responsibility expand as fast as you can demonstrate you're ready. We promote based on what you've done, not how long you've been here.\n AI is a core working tool, not a side project. We're actively rebuilding how analytical work gets done, using AI agents, automation, and new tooling to fundamentally change what's possible. If you're excited about that, you'll thrive here.\n About the Role:\n You'll join our Consumer Goods sector team, the largest sector team at YipitData, covering major retailers and brands like Walmart, Target, Nike, Lululemon, and industry products tracking US consumer behavior and pricing. This team delivers data products and research that help the world's top investors understand consumer spending trends, market share shifts, and competitive dynamics across retail and branded goods.\n This role is different from a typical Data Analyst seat. While you'll ramp onto existing products to build familiarity with our data, methodologies, and processes, the core expectation is not maintaining the current portfolio — it's pushing the…",
+    "url": "https://jobicy.com/jobs/145000-independent-contractor-food-safety-consultant",
+    "description": "Requisition #:  19074\n Functional Area: Consulting\n Employment Type: Independent Contractor\n Work Options: Remote / Work from Home in the US #LI-Remote\n Work Hours: As needed to fulfill contract requirements\n Posting\n J. J. Keller & Associates, Inc. is a North American organization providing innovative safety and regulatory compliance guidance and solutions to organizations across the U. S. and Canada. For over 70 years, organizations of all sizes have relied on J. J. Keller to help them create safe work environments for their employees and comply with ever-changing regulations. As we look to expand our service offerings, we are seeking to add an Independent Contractor to our EHS Consulting practice who has  subject matter expertise in Food Safety (e.g., FDA, GFSI, USDA, state agency) regulations . This opportunity is for an Independent Contractor only and does not constitute an employment relationship. Independent Contractors must reside in the U. S. and be legally authorized to perform services within the United States.\n To be considered as an Independent Contractor, individuals must:\n Operate as an independent safety consulting business (e.g., sole proprietor, incorporated entity, or equivalent)\n Provide services to multiple clients and maintain a non-exclusive consulting practice\n Supply their own tools, methodologies, instructional materials, and business processes necessary to deliver services\n Be responsible for all taxes, insurance, and business-related expenses\n Provide their own computer, equipment, and tools necessary to perform services\n Maintain appropriate professional liability coverage, as required under the contractual agreement\n Travel requirements vary based on client engagements, audit needs, and training delivery, and are defined by project or statement of work.\n Type of Services Requested\n Provides consulting and expert advisory services and recommendations to internal and external clients on matters related to food safety with an emphasis on…",
     "tags": [
-      "Data Science &amp; Analytics",
-      "Senior"
+      "Healthcare &amp; Medical",
+      "Midweight"
     ],
     "jobType": "Full-Time",
-    "postedAt": "2026-08-05T04:50:06.000Z",
-    "scrapedAt": "2026-08-05T08:29:28.684Z"
-  },
-  {
-    "id": "jobicy:145310",
-    "externalId": "145310",
-    "source": "jobicy",
-    "title": "Commercial Legal Counsel",
-    "company": "GitLab",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/12/WRILS-201207055737-109952.jpg",
-    "location": "USA",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/145310-commercial-legal-counsel",
-    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.\n The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software.\n * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.\n An overview of this role As Legal Counsel, Commercial, you’ll help GitLab move faster by making commercial contracting clear, consistent, and scalable. Reporting to the Director, Legal, Commercial, you’ll partner with internal stakeholders and external counterparties to negotiate and review complex agreements, assess legal risk, and translate regional legal requirements into practical templates, policies, and processes. You’ll be a trusted advisor to teams across GitLab, helping them reach business goals while protecting GitLab’s interests, and you’ll contribute to the growth of the commercial legal function through mentorship, pl…",
-    "tags": [
-      "Legal &amp; Compliance",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-08-05T04:50:04.000Z",
-    "scrapedAt": "2026-08-05T08:29:28.684Z"
-  },
-  {
-    "id": "jobicy:145503",
-    "externalId": "145503",
-    "source": "jobicy",
-    "title": "Senior Quantum Systems Engineer - Quantum Computing",
-    "company": "NVIDIA",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/52745899-221.jpeg",
-    "location": "Switzerland,  UK",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/145503-senior-quantum-systems-engineer-quantum-computing",
-    "description": "Quantum computing is a strategic priority for NVIDIA, and our goal is to help accelerate the entire ecosystem. In this role, you’ll join a rapidly growing Quantum Computing team and work with internal and external teams to define system requirements to enable fault-tolerant quantum computing.\n Do you love engineering complex systems for controlling a quantum computer and working at the speed of light with collaborative people and teams all around the world? If yes, we would love to hear from you!\n What you'll be doing:\n Collaborate with internal product, research, and engineering teams and external partners to define system requirements to enable fault-tolerant quantum computing\n Develop novel approaches to real-time quantum error correction and calibration supported by rigorous systems analysis for a variety of qubit modalities\n Distill product requirements to technical requirements across hardware, software, and firmware\n Develop test cases supporting technical requirements and review test implementations for correctness and completeness\n Adopt a culture of collaboration, rapid innovation, technical depth, and creative problem solving\n What we need to see:\n Bachelor’s degree in Physics, Electrical Engineering, Computer Science, Applied Mathematics, or related engineering field or equivalent experience. Higher degrees also welcome.\n 5+ overall years of post-bachelor’s experience including responsibility for engineering across multiple parts of a complex hardware and software system\n Deep hands-on experience working with real qubits and quantum control systems software\n Passion to drive technology innovations into NVIDIA software and hardware products to support Quantum Computing\n Ways to stand out from the crowd:\n Experience with design of quantum control systems and techniques, including communication and networking\n Experience with development of real-time systems and embedded software\n Knowledge of methods of benchmarking quantum computers\n Adoption of AI and M…",
-    "tags": [
-      "Software Engineering",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-08-05T04:45:07.000Z",
-    "scrapedAt": "2026-08-05T08:29:28.684Z"
+    "postedAt": "2026-08-05T07:25:07.000Z",
+    "scrapedAt": "2026-08-05T11:17:11.182Z"
   }
 ]

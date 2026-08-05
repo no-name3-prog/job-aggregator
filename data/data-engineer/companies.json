@@ -1,7 +1,7 @@
 [
   {
     "company": "Salesforce",
-    "jobCount": 7,
+    "jobCount": 8,
     "sources": [
       "workday"
     ],
@@ -12,6 +12,7 @@
       "4 Locations"
     ],
     "sampleTitles": [
+      "Analytics Engineer",
       "Principal Data Engineer",
       "Director, Data Engineering",
       "Lead Data Engineer (Lead Member of Technical Staff)",
@@ -21,11 +22,11 @@
       "Data Engineer (SMTS / LMTS) - MDM"
     ],
     "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Analytics-Engineer_JR354667-1",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Data-Engineer_JR352975",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Director--Data-Engineering_JR352818",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Lead-Data-Engineer---Senior-Python---SQL_JR338656",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657"
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004"
     ]
   },
   {
@@ -405,6 +406,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/twilio/jobs/8044650"
+    ]
+  },
+  {
+    "company": "Zartis",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "Europe"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/148223-senior-data-engineer-2"
     ]
   }
 ]
