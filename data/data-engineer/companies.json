@@ -1,7 +1,7 @@
 [
   {
     "company": "Salesforce",
-    "jobCount": 8,
+    "jobCount": 7,
     "sources": [
       "workday"
     ],
@@ -12,7 +12,6 @@
       "4 Locations"
     ],
     "sampleTitles": [
-      "Analytics Engineer",
       "Principal Data Engineer",
       "Director, Data Engineering",
       "Lead Data Engineer (Lead Member of Technical Staff)",
@@ -22,11 +21,11 @@
       "Data Engineer (SMTS / LMTS) - MDM"
     ],
     "officialUrls": [
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Analytics-Engineer_JR354667-1",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Data-Engineer_JR352975",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Director--Data-Engineering_JR352818",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Lead-Data-Engineer---Senior-Python---SQL_JR338656",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004"
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657"
     ]
   },
   {
@@ -332,6 +331,22 @@
     ]
   },
   {
+    "company": "Alexander Thamm GmbH",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin"
+    ],
+    "sampleTitles": [
+      "(Junior) Data Engineer (m/w/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/junior-data-engineer-berlin-476263"
+    ]
+  },
+  {
     "company": "Block",
     "jobCount": 1,
     "sources": [
@@ -348,19 +363,35 @@
     ]
   },
   {
-    "company": "Figma",
+    "company": "Monzoreferrals",
     "jobCount": 1,
     "sources": [
-      "greenhouse"
+      "arbeitnow"
     ],
     "locations": [
-      "San Francisco, CA • New York, NY • United States"
+      "Unknown"
     ],
     "sampleTitles": [
-      "Data Engineer"
+      "Senior Analytics Engineer"
     ],
     "officialUrls": [
-      "https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004"
+      "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/senior-analytics-engineer-9438"
+    ]
+  },
+  {
+    "company": "Quantexa",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Associate Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/quantexa/associate-data-engineer-london-99149"
     ]
   },
   {
@@ -393,6 +424,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/scaleai/jobs/4713597005"
+    ]
+  },
+  {
+    "company": "Stackfuel",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer (w/m/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/stackfuel/analytics-engineer-berlin-382440"
     ]
   },
   {
