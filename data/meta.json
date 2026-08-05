@@ -1,7 +1,7 @@
 {
-  "lastRunAt": "2026-08-04T22:09:15.221Z",
-  "durationMs": 55191,
-  "totalJobs": 3147,
+  "lastRunAt": "2026-08-05T02:07:01.464Z",
+  "durationMs": 46993,
+  "totalJobs": 3324,
   "sources": [
     {
       "source": "remotive",
@@ -10,9 +10,8 @@
     },
     {
       "source": "arbeitnow",
-      "fetched": 0,
-      "kept": 0,
-      "error": "(j.job_types ?? []) is not iterable"
+      "fetched": 175,
+      "kept": 175
     },
     {
       "source": "jobicy",
@@ -26,8 +25,8 @@
     },
     {
       "source": "greenhouse",
-      "fetched": 2041,
-      "kept": 2041
+      "fetched": 2042,
+      "kept": 2042
     },
     {
       "source": "workday",
@@ -41,8 +40,8 @@
     },
     {
       "source": "ashby",
-      "fetched": 224,
-      "kept": 224
+      "fetched": 225,
+      "kept": 225
     },
     {
       "source": "eightfold",
