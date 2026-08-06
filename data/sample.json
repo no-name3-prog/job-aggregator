@@ -1,78 +1,82 @@
 [
   {
-    "id": "arbeitnow:senior-product-manager-real-time-operations-london-214831",
-    "externalId": "senior-product-manager-real-time-operations-london-214831",
+    "id": "greenhouse:coinbase-8110496",
+    "externalId": "coinbase:8110496",
+    "source": "greenhouse",
+    "title": "Senior Manager Product Operations, FCM Ops",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "remote": true,
+    "url": "https://www.coinbase.com/careers/positions/8110496?gh_jid=8110496",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Team/ Role Paragraph: The FCM Operations team supports Coinbase Financial Markets, Inc.’s US Futures, Options, and Prediction Markets businesses by managing critical operational workflows, including trade flow and position management, margin monitoring, internal and regulatory reporting, and business analytics. The team also enables new product launches, feature enhancements, and vendor management.\n We are seeking a senior individual contributor who can operate at both strategic and execution depth, using technical and regulatory expertise to evolve the FCM operating model. This person will identify where workflows, controls, and tooling may break as the business scales, partner cross-functionally to design better solutions, and drive those solutions through implementation. This role is ideal for a hands-on, product-oriented operator who can translate business complexity into scalable processes, control frameworks, and operational tooling.\n What you’ll do:\n Own and continuously improve the FCM operating model across core workflows including trade flow management, position management, margin monitoring, internal reporting, regulatory reporting support, and business analytics.\n Lead the design and build of scalable operational solutions across people, process, and tooling, with a focus on reducing manual effort, increasing control quality, and improving operational resilience.…",
+    "tags": [
+      "Finance & Accounting"
+    ],
+    "postedAt": "2026-08-06T04:37:18.000Z",
+    "scrapedAt": "2026-08-06T05:45:01.387Z"
+  },
+  {
+    "id": "greenhouse:lyft-8684440002",
+    "externalId": "lyft:8684440002",
+    "source": "greenhouse",
+    "title": "ML Software Engineer, Safety and Customer Care AI",
+    "company": "Lyft",
+    "location": "Toronto, Canada",
+    "remote": false,
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8684440002?gh_jid=8684440002",
+    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n The Safety and Customer Care (SCC) team at Lyft manages over 1.7 million monthly human and AI interactions and serves as Lyft's primary direct touchpoint with riders and drivers. We handle critical infrastructure that powers both human associates and AI agents to make riders and drivers feel safe and comfortable while riding or driving with Lyft, transforming every support interaction into a moment of genuine connection.\n Agentic AI is at the center of how we scale that mission. We fine-tune and align open-source models, build AI-powered support agents, and develop end-to-end AI agents for safety case management, systems that reason over complex, high-stakes cases and drive them to resolution. SCC brings together ML, data, backend, and product engineers alongside data scientists and operations partners to transform these systems.\n As a Machine Learning Engineer on the SCC team, you will fine-tune and align models and build AI Agents that power how riders and drivers get help. Your work spans the full loop: post-training open-source models for our domain, composing them into multi-step agents, and building the evaluation that proves they are safe to ship in a customer-facing, safety-critical setting.\n Post-train and adapt open-source LLMs for SCC use cases using SFT, LoRA, and preference-tuning methods (RLHF, RLAIF, RLVR).\n Design and build AI-powered support agents and end-to-end agents for safety case management using LangGraph or equivalent agentic frameworks.\n Own the evaluation data flywheel, offline and online, that defines what \"good\" looks like and build benchmarks for the team to hill-climb.\n Turn interaction feedback into training data and learning signals, closing the data flywheel that continuously improves the models.\n Responsibilities:\n Conduct literature review and build post-training…",
+    "tags": [
+      "SCC Tech"
+    ],
+    "postedAt": "2026-08-06T04:09:50.000Z",
+    "scrapedAt": "2026-08-06T05:45:01.387Z"
+  },
+  {
+    "id": "arbeitnow:senior-global-performance-marketing-manager-london-429139",
+    "externalId": "senior-global-performance-marketing-manager-london-429139",
     "source": "arbeitnow",
-    "title": "Senior Product Manager, Real Time Operations",
-    "company": "Axon",
+    "title": "Senior Global Performance Marketing Manager",
+    "company": "Gocardless",
     "location": "London",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/axon/senior-product-manager-real-time-operations-london-214831",
-    "description": "<div class=\"content-intro\"><h4><strong>Join Axon and be a Force for Good.</strong></h4>\n<p>At Axon, we’re on a mission to Protect Life. We’re explorers, pursuing society’s most critical safety and justice issues with our ecosystem of devices and cloud software. Like our products, we work better together. We connect with candor and care, seeking out diverse perspectives from our customers, communities and each other.<br><br>Life at Axon is fast-paced, challenging and meaningful. Here, you’ll take ownership and drive real change. Constantly grow as you work hard for a mission that matters at a company where you matter.</p></div><h3><strong>About Axon</strong></h3>\n<p>Axon’s mission is simple and bold: <strong>Protect Life</strong>.</p>\n<p>We build technology that helps first responders, security teams, and communities act with speed, clarity, and confidence in the moments that matter most. Our Real-Time Operations (RTO) portfolio, anchored by the Fusus platform, is transforming how law enforcement, enterprise security, and international agencies detect, assess, and respond to threats.</p>\n<p>Fusus connects live video, alerts, sensors, and location data into a unified operating picture, accessible on any device. Alerts and presence are the heartbeat of that picture. They determine what demands attention and who is in position to act. We're building intelligent, high-signal alerting and presence experiences that cut through noise and keep operators and responders locked into what matters most.</p>\n<h3><strong>Your Impact</strong></h3>\n<p>As Senior Product Manager for Alerts &amp; Presence, you will define and lead the roadmap for how Fusus surfaces the right information to the right people at the right time - making alerts and responder presence the connective tissue of real-time operations.</p>\n<p>You'll build the systems that determine what warrants attention, how it's prioritized and routed, and how operators maintain awareness of who is where. This spans alert gene…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/gocardless/senior-global-performance-marketing-manager-london-429139",
+    "description": "<div class=\"content-intro\"><p><strong>About us</strong></p>\n<p>GoCardless is a <strong>global bank payment</strong> company. Over <strong>100,000 businesses</strong>, from start-ups to household names, use GoCardless to collect and send payments through direct debit, real-time payments and open banking.&nbsp;</p>\n<p>GoCardless processes <strong>US$130bn+</strong> of payments annually, across <strong>30+ countries</strong>; helping customers collect and send both <strong>recurring</strong> and <strong>one-off payments</strong>, without the chasing, stress or expensive fees. We use AI-powered solutions to improve payment success and reduce fraud. And, with open banking connectivity to over <strong>2,500 banks</strong>, we help our customers make faster, more informed decisions.</p>\n<p>We are headquartered in the<strong> UK</strong> with offices in <strong>London</strong> and <strong>Leeds</strong>, and additional locations in <strong>Australia, France, Ireland, Latvia, Portugal</strong> and the <strong>United States.</strong></p>\n<p>At GoCardless, we're all about <strong>supporting you</strong>! We’re committed to making our hiring process <strong>inclusive</strong> and <strong>accessible</strong>. If you need extra support or adjustments, reach out to your <strong>Talent Partner</strong> — we’re here to help!&nbsp;</p>\n<p>And remember: we don’t expect you to meet every single requirement. If you’re excited by this role, <strong>we encourage you to apply!</strong></p></div><p>We are looking for a Senior Global Performance Marketing Manager in London to own paid media strategy and execution across our global demand generation campaigns (UK&amp;I, Europe and North America).</p>\n<p>Reporting to the Director of Global Demand Generation and working in close partnership with the Senior Global Campaign Manager, you will be responsible for how we reach our Ideal Customer Profile (ICP) - translating campaign narratives and messaging into high-performing paid media programmes…",
     "tags": [
-      "2015 Real Time Operations"
+      "Sales"
     ],
-    "postedAt": "2026-08-06T00:55:26.000Z",
-    "scrapedAt": "2026-08-06T02:10:25.708Z"
+    "postedAt": "2026-08-06T03:55:27.000Z",
+    "scrapedAt": "2026-08-06T05:45:00.561Z"
   },
   {
-    "id": "arbeitnow:senior-sales-manager-hatfield-437973",
-    "externalId": "senior-sales-manager-hatfield-437973",
+    "id": "arbeitnow:senior-global-performance-marketing-manager-leeds-229076",
+    "externalId": "senior-global-performance-marketing-manager-leeds-229076",
     "source": "arbeitnow",
-    "title": "Senior Sales Manager",
-    "company": "ocadogroup",
-    "location": "Hatfield",
+    "title": "Senior Global Performance Marketing Manager",
+    "company": "Gocardless",
+    "location": "Leeds",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/ocadogroup/senior-sales-manager-hatfield-437973",
-    "description": "<p><strong>About Us</strong></p>\n<p><strong>We are Ocado Group,</strong> and we're bringing world-class automation to online grocery. Our Ocado Smart Platform (OSP) combines cutting-edge robotics, AI, and IoT within our advanced CFCs (Customer Fulfilment Centres). We've mastered the single pick, transforming online delivery for our global partners. Join us and be part of a team pushing the boundaries of retail technology.</p>\n<p><strong>About the Role</strong></p>\n<p><strong>Ocado Mobile Robotics Systems</strong> (OMRS) applies our AMR technology to retail, apparel, general merchandise, and third-party logistics. Our Ocado IQ software platform, together with our Chuck and Porter AMRs supercharges the world's leading fulfillment operations by helping them pick, pack, and ship orders faster and more accurately.</p>\n<p>As Senior Sales Manager, you will carry a meaningful quota and drive Ocado’s OMRS growth across the UK and European retail, e-commerce, and third-party logistics markets. This is a hunter's role where you will develop and close enterprise scale deals with an average sales typically between £1M and&nbsp; £5M and a sales cycle of 6 to 18 months. <br><br>You are an ideal candidate if you&nbsp;</p>\n<ul>\n<li>thrive in a complex sales environment</li>\n<li>you are passionate about technology</li>\n<li>you want to be part of a high-performance culture and rewarded for that performance</li>\n<li>have a proven track record of introducing and selling technology to sophisticated buyers</li>\n</ul>\n<p>Reporting to the VP of Sales, will collaborate with the solutions team to develop the solution and own the sales strategy. Your typical buying center will include operations leadership, engineering leadership and C-Suite executives.&nbsp;</p>\n<p>Covering EMEA and requiring approximately 40–60% travel to visit prospect and customer sites throughout the UK, Ireland, and Europe.</p>\n<p><strong>About you</strong></p>\n<p>Every day will bring exciting challenges while you:</p>…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/gocardless/senior-global-performance-marketing-manager-leeds-229076",
+    "description": "<div class=\"content-intro\"><p><strong>About us</strong></p>\n<p>GoCardless is a <strong>global bank payment</strong> company. Over <strong>100,000 businesses</strong>, from start-ups to household names, use GoCardless to collect and send payments through direct debit, real-time payments and open banking.&nbsp;</p>\n<p>GoCardless processes <strong>US$130bn+</strong> of payments annually, across <strong>30+ countries</strong>; helping customers collect and send both <strong>recurring</strong> and <strong>one-off payments</strong>, without the chasing, stress or expensive fees. We use AI-powered solutions to improve payment success and reduce fraud. And, with open banking connectivity to over <strong>2,500 banks</strong>, we help our customers make faster, more informed decisions.</p>\n<p>We are headquartered in the<strong> UK</strong> with offices in <strong>London</strong> and <strong>Leeds</strong>, and additional locations in <strong>Australia, France, Ireland, Latvia, Portugal</strong> and the <strong>United States.</strong></p>\n<p>At GoCardless, we're all about <strong>supporting you</strong>! We’re committed to making our hiring process <strong>inclusive</strong> and <strong>accessible</strong>. If you need extra support or adjustments, reach out to your <strong>Talent Partner</strong> — we’re here to help!&nbsp;</p>\n<p>And remember: we don’t expect you to meet every single requirement. If you’re excited by this role, <strong>we encourage you to apply!</strong></p></div><p>We are looking for a Senior Global Performance Marketing Manager in Leeds to own paid media strategy and execution across our global demand generation campaigns (UK&amp;I, Europe and North America).&nbsp;</p>\n<p>Reporting to the Director of Global Demand Generation and working in close partnership with the Senior Global Campaign Manager, you will be responsible for how we reach our Ideal Customer Profile (ICP) - translating campaign narratives and messaging into high-performing paid media progra…",
     "tags": [
-      "Commercial OMRS Sales"
+      "Sales"
     ],
-    "postedAt": "2026-08-06T00:55:17.000Z",
-    "scrapedAt": "2026-08-06T02:10:25.708Z"
+    "postedAt": "2026-08-06T03:55:27.000Z",
+    "scrapedAt": "2026-08-06T05:45:00.561Z"
   },
   {
-    "id": "arbeitnow:product-owner-college-pads-311452",
-    "externalId": "product-owner-college-pads-311452",
+    "id": "arbeitnow:account-executive-london-36352",
+    "externalId": "account-executive-london-36352",
     "source": "arbeitnow",
-    "title": "Product Owner, College Pads",
-    "company": "Starrez",
-    "location": "Unknown",
+    "title": "Account Executive",
+    "company": "rtbhouse",
+    "location": "London",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/starrez/product-owner-college-pads-311452",
-    "description": "<div class=\"content-intro\"><p><strong data-stringify-type=\"bold\">About StarRez</strong></p>\n<p><br>StarRez is the global leader in student housing software, providing innovative solutions for on and off-campus housing management, resident wellness and experience, and revenue generation. Trusted by 1,400+ clients across 25+ countries, StarRez supports more than 4 million beds annually with its user-friendly, all-in-one platform, delivering seamless experiences for students and administrators. With offices in the United States, Australia, the UK, and India, StarRez blends the robust capabilities of a global organization with the personalized care and service of a trusted partner.</p></div><p><span style=\"color: rgb(0, 117, 219);\"><strong><span data-contrast=\"auto\">About College Pads</span></strong>&nbsp;</span><br><span data-contrast=\"auto\">College Pads is transforming the way students navigate the transition from on-campus to off-campus life. Our platform enables universities to support their students by streamlining the process of finding and securing off-campus housing. By working closely with higher education institutions, we offer a trusted tool for students to connect with property managers and rental listings, helping to foster a foundation for wellbeing and success. As of January 2025, College Pads is part of StarRez.</span></p>\n<p>&nbsp;<br><span style=\"color: rgb(0, 117, 219);\"><strong>The Role</strong></span><br><span data-contrast=\"auto\">StarRez is seeking a Product Owner to join the College Pads rebuild team in the UK, helping lead a 0→1 product build through to market launch.</span></p>\n<p><span data-contrast=\"auto\">This is not a typical PO role. You’ll be working on a greenfield product with ambitious timelines, high visibility, and real impact, partnering closely with a US-based Product Manager and cross-functional teams in the UK and India.</span>&nbsp;<br>&nbsp;<br><span data-contrast=\"auto\">You’ll play a critical role in translating product vision…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/rtbhouse/account-executive-london-36352",
+    "description": "<p><strong>Role: </strong>Account Executive</p>\n<p><strong>Location: </strong>United Kingdom</p>\n<p><strong><span style=\"color: rgb(224, 62, 45);\">We Are</span>:&nbsp;</strong></p>\n<p>RTB House is a next-generation performance demand-side platform (DSP) that uses proprietary Deep Learning AI algorithms to help brands grow. The company is the market leader in driving performance using Deep Learning across the entire purchase funnel.</p>\n<p>Founded in 2012 and now operating in 90+ markets, RTB House has always been private-by-design. It embraces first-party advertising and a relentless approach to innovation. RTB House offers end-to-end Deep Learning-powered AdTech products and solutions to maximize conversion, drive new customer acquisition, create engagement, and fuel long-term demand for a global base of clients.</p>\n<p>In 2026, RTB House launched rtb.com, a self-service platform specifically designed to allow small and medium-sized businesses and agencies to deploy auto-built creatives and maximize performance on any budget.</p>\n<p><strong><br></strong>Our dynamic UK team<strong> </strong>consists of 40 people and is an integral part of our company’s global presence. We combine local expertise with our broader company vision and our sales team is the driving force behind our rapid expansion. You'll be at the forefront, forging partnerships that redefine how leading retailers engage their customers.</p>\n<p><span style=\"color: rgb(224, 62, 45);\"><strong><br></strong><strong> Why RTB House?</strong></span><strong><br></strong><strong> </strong>If you are looking for a place where you can<strong> </strong>unleash your potential and thrive in a dynamic, rapidly expanding global company with exceptional career advancement opportunities and the chance to shape our future, then RTB House might be the right fit for you.</p>\n<p>&nbsp;</p>\n<p><strong><span style=\"color: rgb(224, 62, 45);\">You Will</span>:&nbsp;</strong></p>\n<ul>\n<li>Execute a sales strategy targeting assign…",
     "tags": [
-      "Product"
+      "Sales > Sales"
     ],
-    "postedAt": "2026-08-06T00:55:04.000Z",
-    "scrapedAt": "2026-08-06T02:10:25.708Z"
-  },
-  {
-    "id": "arbeitnow:software-engineer-data-infrastructure-acquisition-nottingham-united-kingdom-375792",
-    "externalId": "software-engineer-data-infrastructure-acquisition-nottingham-united-kingdom-375792",
-    "source": "arbeitnow",
-    "title": "Software Engineer, Data Infrastructure & Acquisition - Nottingham, United Kingdom",
-    "company": "Speechify",
-    "location": "Nottingham, England, United Kingdom",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-nottingham-united-kingdom-375792",
-    "description": "The mission of Speechify is to make sure that reading is never a barrier to learning.\n Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.\n Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.\n Overview\n We're looking to hire for our Data side of our AI team at Speechify. This role is responsible for all aspects of data collection to support our model training operations. We are able to build high-quality datasets at petabyte-scale and low cost through a tight integration of infrastructure, engineering, and research work. We are looking for a skilled Software Engineer to join us.\n What You'll Do\n Be scrappy to find new sources of audio data and bring it into our ingestion pipeline\n Operate and extend the cloud infrastructure for our ingestion pipeline, currently running on GCP and managed with Terraform.\n Collaborate closely with our Scientists to shift the cost/throughput/quality frontier, delivering richer data at bigger scale and lower cost to power our next-generation models.\n Collaborate with others on the AI Team and Speechify Leadership to craft the AI Team's dataset roadmap to power Speechify's next-generation consumer and enterprise products.\n An Ideal Candidate Should Have\n BS/MS/PhD in Computer Science or a related field.\n 5+ years of indust…",
-    "tags": [],
-    "postedAt": "2026-08-06T00:45:35.000Z",
-    "scrapedAt": "2026-08-06T02:10:25.708Z"
-  },
-  {
-    "id": "arbeitnow:software-engineer-data-infrastructure-acquisition-glasgow-united-kingdom-235500",
-    "externalId": "software-engineer-data-infrastructure-acquisition-glasgow-united-kingdom-235500",
-    "source": "arbeitnow",
-    "title": "Software Engineer, Data Infrastructure & Acquisition - Glasgow, United Kingdom",
-    "company": "Speechify",
-    "location": "Glasgow, Scotland, United Kingdom",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-glasgow-united-kingdom-235500",
-    "description": "The mission of Speechify is to make sure that reading is never a barrier to learning.\n Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.\n Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.\n Overview\n We're looking to hire for our Data side of our AI team at Speechify. This role is responsible for all aspects of data collection to support our model training operations. We are able to build high-quality datasets at petabyte-scale and low cost through a tight integration of infrastructure, engineering, and research work. We are looking for a skilled Software Engineer to join us.\n What You'll Do\n Be scrappy to find new sources of audio data and bring it into our ingestion pipeline\n Operate and extend the cloud infrastructure for our ingestion pipeline, currently running on GCP and managed with Terraform.\n Collaborate closely with our Scientists to shift the cost/throughput/quality frontier, delivering richer data at bigger scale and lower cost to power our next-generation models.\n Collaborate with others on the AI Team and Speechify Leadership to craft the AI Team's dataset roadmap to power Speechify's next-generation consumer and enterprise products.\n An Ideal Candidate Should Have\n BS/MS/PhD in Computer Science or a related field.\n 5+ years of indust…",
-    "tags": [],
-    "postedAt": "2026-08-06T00:45:35.000Z",
-    "scrapedAt": "2026-08-06T02:10:25.708Z"
+    "postedAt": "2026-08-06T03:55:25.000Z",
+    "scrapedAt": "2026-08-06T05:45:00.561Z"
   }
 ]
