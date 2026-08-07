@@ -1,5 +1,79 @@
 [
   {
+    "id": "greenhouse:coinbase-8104148",
+    "externalId": "coinbase:8104148",
+    "source": "greenhouse",
+    "title": "Staff Analytics Engineer, Compliance Data",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "remote": true,
+    "url": "https://www.coinbase.com/careers/positions/8104148?gh_jid=8104148",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n We're hiring a Staff Analytics Engineer to lead the data foundations for the Compliance Data team within the Platform organization. This team owns the Compliance Reporting Data Platform, Coinbase's canonical source of truth for user, transaction, and compliance data, and every regulatory report at Coinbase depends on it. You'll define the technical direction for how compliance data is modeled, validated, and certified at scale, ensuring our foundations hold as products, entities, and regulatory requirements evolve, while also delivering accurate, timely data when regulators come calling.\n What you'll do:\n Own the systems, architecture, technical strategy, and roadmap for the Compliance Data, including the data models, pipelines, quality frameworks, and certification processes that the entire compliance reporting stack depends on.\n Build production-grade solutions, in addition to data models and pipelines, covering user, transaction, and compliance data across retail and institutional product lines, designing for durability, auditability, and consumption by both analysts and AI agents.\n Drive data quality at the source by establishing data contracts, validation frameworks, monitoring, and reconciliation logic that catch issues before they propagate to downstream reports or regulatory filings.\n Partner with upstream engineering teams, Compliance leadership, and downstream consum…",
+    "tags": [
+      "Data Science"
+    ],
+    "postedAt": "2026-08-06T21:32:09.000Z",
+    "scrapedAt": "2026-08-06T23:55:36.287Z"
+  },
+  {
+    "id": "arbeitnow:analytics-engineer-crypto-and-payments-london-187907",
+    "externalId": "analytics-engineer-crypto-and-payments-london-187907",
+    "source": "arbeitnow",
+    "title": "Analytics Engineer - Crypto and Payments",
+    "company": "MoonPay",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/analytics-engineer-crypto-and-payments-london-187907",
+    "description": "About MoonPay\n MoonPay is for builders with something to prove.\n This isn't a \"work on cool crypto stuff\" company. It's a high-standards, high-velocity, high-accountability company building the operating system for value movement. If the internet moves information, we move value: crypto, stablecoins, tokenized assets, and whatever comes next. Four offerings make that real: fund, tokenize, trade, and spend. 30M+ customers and 500+ ecosystem partners run on us. Licensed in the U.S. Regulated across the UK, EU, Canada, and Australia.\n AI is the default operating mode here. It's woven into every role, and we expect you to use it daily. It handles the manual work so you can deliver on what actually matters.\n You'll thrive here if outcomes excite you more than process, if impact motivates you more than titles, and if you want hard problems, real ownership, and teammates who love winning, building, and doing it together.\n The bar is high. The pace is real. We're building for what's next, for humans and agents.\nRecent recognition:\n Forbes' America's Best Startup Employers 2026 . 2nd in Crypto Services on Fortune's inaugural Crypto 100 ,\n The Sunday Times Best Places to Work two years running.\n Research has shown that women are less likely than men to apply for this role if they do not have experience in 100% of these areas. Please know that this list is indicative, and that we would still love to hear from you even if you feel that you are only a 75% match. Skills can be learned, diversity cannot.\n ______________________________________________________________________________________________________\n About the Opportunity\n This is an opportunity for an ambitious Data Analytics Engineer to have a huge impact across the organization, while working in a complex and rapidly changing crypto environment. We are looking for someone with experience or an interest in end-to-end “full-stack” data work, including: data strategy, analytics/data engineering, and (advanced) data analyti…",
+    "tags": [
+      "Data Analytics",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-08-06T21:05:10.000Z",
+    "scrapedAt": "2026-08-06T23:55:35.879Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-berlin-468631",
+    "externalId": "data-engineer-berlin-468631",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "All Your BI",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/all-your-bi/data-engineer-berlin-468631",
+    "description": "Maybe you call yourself a Data Engineer or a Data Specialist or a BI Developer or a Data Architect or an Azure Developer, or maybe you just call yourself Alex? This vacancy is part of our Delivery team and applies to all the above titles.\n What you get A salary between €3,200–€4,000/gross monthly, based on the role, your experience, and your local market.\n €5,000 a year for your own growth, with a real say in how you spend it.\n 25 vacation days + the option to buy up to 10 more + local public holidays + the option of a sabbatical up to 4 months.\n Two trips abroad a year with the whole team + occasional drinks and team outings.\n €500 home-office budget and a great laptop.\n A well-earned \"Hey, well done Buddy!\", so now and then.\n Fully remote, from anywhere in Europe, ideally within a couple of hours of CET, so the team overlaps.\n Benefits across the EU: the perks above are AYBI's and go to everyone, everywhere. Statutory benefits (pension, health, social security, leave, sick pay, notice) follow the hire's country via their local contract or EOR.\n About us All Your BI is a remote-first data agency based in Rotterdam. Since 2019 we've grown from a boutique consultancy into an international data team of more than 60 data heroes spread across Europe. We deliver managed BI services for logistics and industrial companies, helping reduce data waste and move businesses forward. We live for the WOW moment, that sparkle in users' eyes when they gain new insights and discover opportunities. We work according to Holacracy: little hierarchy, lots of ownership. Serious work. Serious fun.\n What the job looks like Build and maintain end-to-end pipelines in the Azure stack, ingesting source data into the Data Lake and Azure SQL, orchestrated with Azure Data Factory.\n Develop the data warehouse layers from raw staging through the Data Vault and Business Vault into the dimensional Data Mart, primarily in T-SQL.\n Write and optimise stored procedures for transformation and loading (ful…",
+    "tags": [
+      "Information technology",
+      "bachelor's degree",
+      "Full-time permanent",
+      "mid"
+    ],
+    "jobType": "Full-time permanent",
+    "postedAt": "2026-08-06T17:20:14.000Z",
+    "scrapedAt": "2026-08-06T23:55:35.879Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-berlin-362738",
+    "externalId": "senior-data-engineer-berlin-362738",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer",
+    "company": "All Your BI",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/all-your-bi/senior-data-engineer-berlin-362738",
+    "description": "Maybe you call yourself a Senior Data Engineer or an Azure wrangler, a Databricks whisperer, a senior \"works-on-my-cluster\" engineer… or maybe you just call yourself Sam. Whatever you call yourself, you'll join our Delivery team and build the data platforms our clients actually run on, the pipelines and models behind the moment a client leans forward and says \"wait, show me that again.\"\n What you get A salary between €3,900–€5,000/gross monthly, based on the role, your experience, and your local market.\n €5,000 a year for your own growth, with a real say in how you spend it.\n 25 vacation days + the option to buy up to 10 more + local public holidays + the option of a sabbatical up to 4 months.\n Two trips abroad a year with the whole team + occasional drinks and team outings.\n €500 home-office budget and a great laptop.\n A well-earned \"Hey, well done Buddy!\", so now and then.\n Fully remote, from anywhere in Europe, ideally within a couple of hours of CET, so the team overlaps.\n Benefits across the EU: the perks above are AYBI's and go to everyone, everywhere. Statutory benefits (pension, health, social security, leave, sick pay, notice) follow the hire's country via their local contract or EOR.\n About us All Your BI is a remote-first data agency based in Rotterdam. Since 2019 we've grown from a boutique consultancy into an international data team of more than 60 data heroes spread across Europe. We deliver managed BI services for logistics and industrial companies, helping reduce data waste and move businesses forward. We live for the WOW moment, that sparkle in users' eyes when they gain new insights and discover opportunities. We work according to Holacracy: little hierarchy, lots of ownership. Serious work. Serious fun.\n What the job looks like Build and own the Azure data platforms our client accounts run on, SQL Server, Databricks, pipelines end to end.\n Design the data models that keep it all maintainable, and Kimball dimensional modelling, where it earns its…",
+    "tags": [
+      "Information technology",
+      "bachelor's degree",
+      "Full-time permanent",
+      "experienced"
+    ],
+    "jobType": "Full-time permanent",
+    "postedAt": "2026-08-06T17:20:14.000Z",
+    "scrapedAt": "2026-08-06T23:55:35.879Z"
+  },
+  {
     "id": "greenhouse:lyft-8662205002",
     "externalId": "lyft:8662205002",
     "source": "greenhouse",
@@ -13,7 +87,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-06T13:57:50.047Z"
+    "scrapedAt": "2026-08-06T23:55:36.287Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -29,7 +103,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-08-06T13:57:50.047Z"
+    "scrapedAt": "2026-08-06T23:55:36.287Z"
   },
   {
     "id": "greenhouse:discord-8614971002",
@@ -45,7 +119,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-06T13:57:50.047Z"
+    "scrapedAt": "2026-08-06T23:55:36.287Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -61,23 +135,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-08-06T13:57:50.047Z"
-  },
-  {
-    "id": "greenhouse:twilio-8044650",
-    "externalId": "twilio:8044650",
-    "source": "greenhouse",
-    "title": "Senior Analytics Engineer",
-    "company": "Twilio",
-    "location": "Remote - US",
-    "remote": true,
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8044650",
-    "description": "Who we are\n At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.\n Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.\n .\n Hiring and how we work :\n We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!\n Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.\n .\n See yourself at Twilio\n Join the team as Twilio’s next Sr. Analytics Engineer, R&D.\n About the job\n This position is needed to advance the consistency & quality of our R&D analytics data layer and accelerate the development velocity of analysts. Our Data Science and Analytics team seeks to empower R&D to make data-backed decisions that accelerate innovation and improve product performance. You will work closely within our team and across Product & Engineering to design and maintain a robust analytics data layer that enables trusted reporting on R&D metrics.\n Responsibilities\n In this role, you’ll:\n Design and implement a formal analytics data layer using AWS Glue, Athena / Presto, and LookML\n Collaborate within the Data Science & Analytics team and across Product & Engineering to define, document, and maintain alignment on metric definition and data lineage\n Develop and maintain automated data reconciliation and quality checks to proactively identify and resolve discrepancies, ensuring accura…",
-    "tags": [
-      "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
-    ],
-    "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-08-06T13:57:50.047Z"
+    "scrapedAt": "2026-08-06T23:55:36.287Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -97,7 +155,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-08-06T14:01:11.558Z"
+    "scrapedAt": "2026-08-06T23:58:43.245Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -108,59 +166,11 @@
     "location": "Remote - USA",
     "remote": true,
     "url": "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n The Data Platform team builds and operates the systems that centralize all of Coinbase's internal and third-party data, making it easy for teams across the company to access, process, and transform that data for analytics, machine learning, and powering end-user experiences. As an engineer on the team you'll contribute across the full spectrum of our systems, from foundational processing and storage to scalable pipelines to the frameworks, tools, and internal applications that make data easily and efficiently available.\n We have a number of open roles within the Data Platform team, each with a different focus area; read on to see if you'll be a good fit as a Data Engineering Platform Engineer.\n This role sits between our platform and the analysts, data scientists, and data engineers who use it every day. You'll build the SDKs, self-service apps, and abstractions that let thousands of pipelines and analyses run without those users needing to understand the plumbing underneath.\n What you'll do:\n Own the design and delivery of blockchain network infrastructure that abstracts blockchain complexity into reliable, platform APIs\n Lead multi-quarter initiatives including new chain integrations, re-architecture efforts, and data migrations that improve system latency, reliability, and cost\n Define and maintain APIs, SLOs, and observability for the systems you build, including on-call o…",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n The Data Platform team builds and operates the systems that centralize all of Coinbase's internal and third-party data, making it easy for teams across the company to access, process, and transform that data for analytics, machine learning, and powering end-user experiences. As an engineer on the team you'll contribute across the full spectrum of our systems, from foundational processing and storage to scalable pipelines to the frameworks, tools, and internal applications that make data easily and efficiently available.\n We have a number of open roles within the Data Platform team, each with a different focus area; read on to see if you'll be a good fit as a Data Engineering Platform Engineer.\n This role sits between our platform and the analysts, data scientists, and data engineers who use it every day. You'll build the SDKs, self-service apps, and abstractions that let thousands of pipelines and analyses run without those users needing to understand the plumbing underneath.\n What you'll do:\n Build clean software abstractions and modular, reusable components that let us support thousands of pipelines and beyond as we scale.\n Build and maintain data integration and processing SDKs used by data teams and internal services across Coinbase.\n Design and build self-service applications that let analysts and data scientists create, manage, and troubleshoot their own pipelines withou…",
     "tags": [
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-08-06T13:57:50.047Z"
-  },
-  {
-    "id": "greenhouse:cloudflare-8055118",
-    "externalId": "cloudflare:8055118",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer",
-    "company": "Cloudflare",
-    "location": "In-Office",
-    "remote": false,
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118",
-    "description": "About Us\n At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.\n At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.\n Location: Austin (Hybrid)\n About Us\n At Cloudflare, we have our eyes set on an ambitious goal: to help build a better Internet. Today the company runs one of the world’s largest networks that powers trillions of requests per month. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare have all web traffic routed through i…",
-    "tags": [
-      "Engineering"
-    ],
-    "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-08-06T13:57:50.047Z"
-  },
-  {
-    "id": "greenhouse:scaleai-4713597005",
-    "externalId": "scaleai:4713597005",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer, Public Sector",
-    "company": "Scale AI",
-    "location": "Washington, DC",
-    "remote": false,
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4713597005",
-    "description": "Senior Data Engineer, Public Sector\n As a Data Engineer for the Public Sector business unit, you will build Scale's analytical and business-intelligence infrastructure. Scale's customers process millions of tasks through our APIs, and we're looking for a talented Data Engineer to build scalable solutions to support this growth. You will have widespread purview, with responsibility for understanding, mining, aggregating, and exposing data across the entire business unit to support timely and efficient decision-making and data exploration. You will also implement Scale's data warehouse, data mart, and business intelligence reporting environments, and help users transition their workflows to these systems.\n This role requires collaboration with leadership and cross-functional teams to solve complex problems and develop sustainable, scalable data solutions. Your responsibilities will include both ad-hoc analyses and the creation of core data models and pipelines, directly impacting how Scale operates and evaluates its performance.\n You will:\n Work with operations, finance, and engineering to drive the development of pipelines that provide single-source-of-truth foundational accuracy\n Continually improve ongoing data pipelines and simplify self-service support for business stakeholders\n Perform regular system audits, and create data quality tests to ensure complete and accurate reporting of data/metrics\n Develop repeatable, scalable analytical solutions, such as data models, improved pipelines, or better underlying tables\n Have an active Secret security clearance (Top Secret preferred)\n Ideally You’d Have:\n 5+ years of relevant work experience in a role requiring application of data modeling and analytic skills\n Ability to create extensible and scalable data schema and pipelines that lay the foundation for downstream analysis\n Mastery of SQL and relational databases; experience with programming languages (e.g., Python/R)\n Experience building a reliable transformation la…",
-    "tags": [
-      "Data, Technology & Systems"
-    ],
-    "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-08-06T13:57:50.047Z"
-  },
-  {
-    "id": "greenhouse:block-5281312008",
-    "externalId": "block:5281312008",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer, Risk",
-    "company": "Block",
-    "location": "Bay Area, CA, United States of America",
-    "remote": false,
-    "url": "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008",
-    "description": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.\nToday, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.\n The Role\n As a Data Engineer you will handle everything from data architecture and modeling to data pipeline tooling and dashboarding. You will enable other compliance and risk teams to make impactful business decisions by laying the foundation of our large and unique datasets that span across multiple products. This role will support compliance or risk product data engineering teams.\n The Compliance Data Engineering team at Block supports the detection and reporting of suspicious financial crimes activity across Cash App, Square, and Afterpay. We work globally with partners in business, engineering, counsel, and product to provide a safe user experience for our customers while minimizing and potentially eliminating bad activity on our platform.\n The Risk Product Data Engineering team at Block builds reliable data foundations that help protect customers across Cash App, Square, and Afterpay. We partner with product, engineering, compliance, and legal teams to support risk detection, reporting, instrumentation, and ML-ready datasets across critical domains including identity…",
-    "tags": [
-      "10109 Risk - Risk ML & DS"
-    ],
-    "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-08-06T13:57:50.047Z"
+    "scrapedAt": "2026-08-06T23:55:36.287Z"
   }
 ]

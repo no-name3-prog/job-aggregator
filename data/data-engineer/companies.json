@@ -110,6 +110,28 @@
     ]
   },
   {
+    "company": "Coinbase",
+    "jobCount": 4,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "Remote - USA"
+    ],
+    "sampleTitles": [
+      "Staff Analytics Engineer, Compliance Data",
+      "Senior Software Engineer, Data Engineering Platform",
+      "Senior Analytics Engineer, GFCO Analytics",
+      "Senior Analytics Engineer (Platform - Financial Analytics)"
+    ],
+    "officialUrls": [
+      "https://www.coinbase.com/careers/positions/8104148?gh_jid=8104148",
+      "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
+      "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
+      "https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521"
+    ]
+  },
+  {
     "company": "NVIDIA",
     "jobCount": 4,
     "sources": [
@@ -155,26 +177,6 @@
     ]
   },
   {
-    "company": "Coinbase",
-    "jobCount": 3,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "Remote - USA"
-    ],
-    "sampleTitles": [
-      "Senior Software Engineer, Data Engineering Platform",
-      "Senior Analytics Engineer, GFCO Analytics",
-      "Senior Analytics Engineer (Platform - Financial Analytics)"
-    ],
-    "officialUrls": [
-      "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
-      "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
-      "https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521"
-    ]
-  },
-  {
     "company": "Red Hat",
     "jobCount": 3,
     "sources": [
@@ -214,6 +216,24 @@
       "https://jobs.lever.co/spotify/ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
       "https://jobs.lever.co/spotify/08d82da1-0c72-44d1-91eb-7fa22dee3d39",
       "https://jobs.lever.co/spotify/4303f795-d0a5-41ed-8c78-0941780b6e54"
+    ]
+  },
+  {
+    "company": "All Your BI",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin"
+    ],
+    "sampleTitles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/all-your-bi/data-engineer-berlin-468631",
+      "https://www.arbeitnow.com/jobs/companies/all-your-bi/senior-data-engineer-berlin-362738"
     ]
   },
   {
@@ -291,25 +311,6 @@
     ]
   },
   {
-    "company": "Stripe",
-    "jobCount": 2,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "Seattle",
-      "Bengaluru"
-    ],
-    "sampleTitles": [
-      "Staff Software Engineer, Data Engineering Solutions",
-      "Staff Software Engineer, Data Engineering Solutions"
-    ],
-    "officialUrls": [
-      "https://stripe.com/jobs/search?gh_jid=8013220",
-      "https://stripe.com/jobs/search?gh_jid=7548037"
-    ]
-  },
-  {
     "company": "Affirm",
     "jobCount": 1,
     "sources": [
@@ -374,6 +375,22 @@
     ]
   },
   {
+    "company": "MoonPay",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer - Crypto and Payments"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/moonpay/analytics-engineer-crypto-and-payments-london-187907"
+    ]
+  },
+  {
     "company": "Robinhood",
     "jobCount": 1,
     "sources": [
@@ -406,19 +423,19 @@
     ]
   },
   {
-    "company": "Twilio",
+    "company": "Stripe",
     "jobCount": 1,
     "sources": [
       "greenhouse"
     ],
     "locations": [
-      "Remote - US"
+      "Bengaluru"
     ],
     "sampleTitles": [
-      "Senior Analytics Engineer"
+      "Staff Software Engineer, Data Engineering Solutions"
     ],
     "officialUrls": [
-      "https://job-boards.greenhouse.io/twilio/jobs/8044650"
+      "https://stripe.com/jobs/search?gh_jid=7548037"
     ]
   }
 ]
