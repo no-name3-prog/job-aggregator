@@ -31,6 +31,34 @@
     ]
   },
   {
+    "company": "Workday",
+    "jobCount": 6,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "IND.Pune",
+      "Ireland, Dublin",
+      "3 Locations",
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer",
+      "Principal Cybersecurity Data Engineer",
+      "Senior Software Engineer (Data Engineering)",
+      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
+      "Data Platform Engineer - Cybersecurity",
+      "Principal Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Senior-Data-Engineer_JR-0108822-1",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Cybersecurity-Data-Engineer_JR-0108815",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Senior-Software-Engineer--Data-Engineering-_JR-0107178",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
+    ]
+  },
+  {
     "company": "Adobe",
     "jobCount": 5,
     "sources": [
@@ -82,32 +110,6 @@
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
-    ]
-  },
-  {
-    "company": "Workday",
-    "jobCount": 5,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "IND.Pune",
-      "Ireland, Dublin",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Principal Cybersecurity Data Engineer",
-      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
-      "Data Platform Engineer - Cybersecurity",
-      "Principal Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Senior-Data-Engineer_JR-0108822-1",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Cybersecurity-Data-Engineer_JR-0108815",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Principal-Analytics-Engineer_JR-0107883"
     ]
   },
   {
@@ -198,28 +200,6 @@
     ]
   },
   {
-    "company": "Spotify",
-    "jobCount": 3,
-    "sources": [
-      "lever"
-    ],
-    "locations": [
-      "London",
-      "Stockholm",
-      "Toronto"
-    ],
-    "sampleTitles": [
-      "Staff Data Engineer — Subscriptions User Understanding",
-      "Analytics Engineer II",
-      "Data Infrastructure Engineer – Platform"
-    ],
-    "officialUrls": [
-      "https://jobs.lever.co/spotify/ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
-      "https://jobs.lever.co/spotify/08d82da1-0c72-44d1-91eb-7fa22dee3d39",
-      "https://jobs.lever.co/spotify/4303f795-d0a5-41ed-8c78-0941780b6e54"
-    ]
-  },
-  {
     "company": "Brex",
     "jobCount": 2,
     "sources": [
@@ -291,6 +271,25 @@
     "officialUrls": [
       "https://jobs.dropbox.com/listing/8090065?gh_jid=8090065",
       "https://jobs.dropbox.com/listing/8090062?gh_jid=8090062"
+    ]
+  },
+  {
+    "company": "Spotify",
+    "jobCount": 2,
+    "sources": [
+      "lever"
+    ],
+    "locations": [
+      "London",
+      "Stockholm"
+    ],
+    "sampleTitles": [
+      "Staff Data Engineer — Subscriptions User Understanding",
+      "Analytics Engineer II"
+    ],
+    "officialUrls": [
+      "https://jobs.lever.co/spotify/ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
+      "https://jobs.lever.co/spotify/08d82da1-0c72-44d1-91eb-7fa22dee3d39"
     ]
   },
   {
