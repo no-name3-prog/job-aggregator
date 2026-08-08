@@ -31,88 +31,6 @@
     ]
   },
   {
-    "company": "Workday",
-    "jobCount": 6,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "IND.Pune",
-      "Ireland, Dublin",
-      "3 Locations",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Principal Cybersecurity Data Engineer",
-      "Senior Software Engineer (Data Engineering)",
-      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
-      "Data Platform Engineer - Cybersecurity",
-      "Principal Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Senior-Data-Engineer_JR-0108822-1",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Cybersecurity-Data-Engineer_JR-0108815",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Senior-Software-Engineer--Data-Engineering-_JR-0107178",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
-    ]
-  },
-  {
-    "company": "Adobe",
-    "jobCount": 5,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "San Jose",
-      "Noida",
-      "San Francisco",
-      "Bucharest",
-      "3 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Senior Data Engineer",
-      "Senior Data Engineer",
-      "Data Platform Engineer",
-      "Principal Scientist - Data Pipeline Engineer"
-    ],
-    "officialUrls": [
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Science-Engineer_R169988",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Science-Engineer-3_R170861-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Engineer_R170680-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
-    ]
-  },
-  {
-    "company": "Autodesk",
-    "jobCount": 5,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Bengaluru, IND",
-      "Toronto, ON, CAN",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Principal Data Engineer",
-      "Principal Data Engineer, User Success",
-      "Principal Data Engineer, User Success (Agentic Experiences)",
-      "Principal Data Engineer -General application"
-    ],
-    "officialUrls": [
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Data-Engineer_26WD100065-2",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Principal-Data-Engineer_26WD100064-1",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
-    ]
-  },
-  {
     "company": "Coinbase",
     "jobCount": 4,
     "sources": [
@@ -135,30 +53,6 @@
     ]
   },
   {
-    "company": "NVIDIA",
-    "jobCount": 4,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Israel, Yokneam",
-      "US, CA, Santa Clara",
-      "4 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer, PE",
-      "Senior Data Engineer, Engineering Data Analytics",
-      "Senior Interconnect Product Data Engineer",
-      "Principal Security Data Engineer, Infrastructure Security Engineering - DGX Cloud"
-    ],
-    "officialUrls": [
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Data-Engineer--PE_JR2021331",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer--Engineering-Data-Analytics_JR2020545",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Interconnect-Product-Data-Engineer_JR2021975",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Security-Data-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2019415"
-    ]
-  },
-  {
     "company": "Anthropic",
     "jobCount": 3,
     "sources": [
@@ -177,26 +71,6 @@
       "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
       "https://job-boards.greenhouse.io/anthropic/jobs/5125387008",
       "https://job-boards.greenhouse.io/anthropic/jobs/4956672008"
-    ]
-  },
-  {
-    "company": "Red Hat",
-    "jobCount": 3,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Raleigh"
-    ],
-    "sampleTitles": [
-      "Principal Data Engineer / Financial Analyst",
-      "Senior Data Engineer",
-      "Principal Data Engineer"
-    ],
-    "officialUrls": [
-      "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Principal-Data-Engineer---Financial-Analyst_R-058577-1",
-      "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Senior-Data-Engineer_R-058752",
-      "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Principal-Data-Engineer_R-058408"
     ]
   },
   {
@@ -271,6 +145,24 @@
     "officialUrls": [
       "https://jobs.dropbox.com/listing/8090065?gh_jid=8090065",
       "https://jobs.dropbox.com/listing/8090062?gh_jid=8090062"
+    ]
+  },
+  {
+    "company": "Quantum",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London (hybrid)"
+    ],
+    "sampleTitles": [
+      "Head of Data Engineering and Machine Learning",
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/quantum/head-of-data-engineering-and-machine-learning-london-316217",
+      "https://www.arbeitnow.co.uk/jobs/companies/quantum/senior-data-engineer-london-382561"
     ]
   },
   {
