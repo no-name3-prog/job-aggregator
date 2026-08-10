@@ -30,34 +30,6 @@
     ]
   },
   {
-    "company": "Workday",
-    "jobCount": 6,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "IND.Pune",
-      "Ireland, Dublin",
-      "3 Locations",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Principal Cybersecurity Data Engineer",
-      "Senior Software Engineer (Data Engineering)",
-      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
-      "Data Platform Engineer - Cybersecurity",
-      "Principal Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Senior-Data-Engineer_JR-0108822-1",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Cybersecurity-Data-Engineer_JR-0108815",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Senior-Software-Engineer--Data-Engineering-_JR-0107178",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
-    ]
-  },
-  {
     "company": "Adobe",
     "jobCount": 5,
     "sources": [
@@ -109,6 +81,32 @@
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
+    ]
+  },
+  {
+    "company": "Workday",
+    "jobCount": 5,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "IND.Pune",
+      "Ireland, Dublin",
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer",
+      "Principal Cybersecurity Data Engineer",
+      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
+      "Data Platform Engineer - Cybersecurity",
+      "Principal Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Senior-Data-Engineer_JR-0108822-1",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Cybersecurity-Data-Engineer_JR-0108815",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Principal-Analytics-Engineer_JR-0107883"
     ]
   },
   {
@@ -433,6 +431,22 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=7548037"
+    ]
+  },
+  {
+    "company": "Vivenu",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Remote Germany"
+    ],
+    "sampleTitles": [
+      "Data Engineering Lead, Agentic Infrastructure"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/vivenu/remote-data-engineering-lead-agentic-infrastructure-320633"
     ]
   }
 ]
