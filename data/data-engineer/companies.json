@@ -151,27 +151,6 @@
     ]
   },
   {
-    "company": "Autodesk",
-    "jobCount": 3,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Toronto, ON, CAN",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Principal Data Engineer, User Success",
-      "Principal Data Engineer, User Success (Agentic Experiences)",
-      "Principal Data Engineer -General application"
-    ],
-    "officialUrls": [
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
-    ]
-  },
-  {
     "company": "Red Hat",
     "jobCount": 3,
     "sources": [
@@ -285,6 +264,25 @@
     ]
   },
   {
+    "company": "Trusteq Gmbh",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "München",
+      "Köln"
+    ],
+    "sampleTitles": [
+      "Data Platform Engineer Working Student (m/w/d)",
+      "Data Engineer Working Student (m/w/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-4377",
+      "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-engineer-working-student-koln-454384"
+    ]
+  },
+  {
     "company": "Affirm",
     "jobCount": 1,
     "sources": [
@@ -317,6 +315,22 @@
     ]
   },
   {
+    "company": "Autodesk",
+    "jobCount": 1,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Principal Data Engineer -General application"
+    ],
+    "officialUrls": [
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
+    ]
+  },
+  {
     "company": "Block",
     "jobCount": 1,
     "sources": [
@@ -330,6 +344,38 @@
     ],
     "officialUrls": [
       "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008"
+    ]
+  },
+  {
+    "company": "Doehle",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Hamburg"
+    ],
+    "sampleTitles": [
+      "Data Engineer (m/w/d) - Azure Cloud & MS Fabric"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/doehle/data-engineer-azure-cloud-ms-fabric-hamburg-94631"
+    ]
+  },
+  {
+    "company": "Jobrad Loop",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "München"
+    ],
+    "sampleTitles": [
+      "Senior Snowflake Data Engineer (m/w/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-snowflake-data-engineer-munchen-299676"
     ]
   },
   {
@@ -362,22 +408,6 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-simulation-data-engineer-london-262149"
-    ]
-  },
-  {
-    "company": "Pricenow",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Munich"
-    ],
-    "sampleTitles": [
-      "Working Student Data Engineering (f/m/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/pricenow/working-student-data-engineering-munich-60415"
     ]
   },
   {
@@ -442,6 +472,22 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=7548037"
+    ]
+  },
+  {
+    "company": "Wolt - English",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin, Berlin, Germany"
+    ],
+    "sampleTitles": [
+      "Senior Analytics Engineer, Consumer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-analytics-engineer-consumer-berlin-462072"
     ]
   }
 ]
