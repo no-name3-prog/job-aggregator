@@ -1,5 +1,24 @@
 [
   {
+    "id": "arbeitnow:working-student-data-engineering-munich-60415",
+    "externalId": "working-student-data-engineering-munich-60415",
+    "source": "arbeitnow",
+    "title": "Working Student Data Engineering (f/m/d)",
+    "company": "Pricenow",
+    "location": "Munich",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/pricenow/working-student-data-engineering-munich-60415",
+    "description": "Do you have a passion for developing complex, intelligent, data-driven systems and cloud solutions? Do you want to work on challenging projects and with the latest technologies? Do you want to find ideal solutions together with great colleagues? We are looking for an experienced and enthusiastic Working Student Data Engineering to strengthen our team.\n Become part of our fast-growing company and support us with motivation, joy and passion to share our innovative and high-quality products in the areas of Pricing, Data Analytics and e-Commerce with our customers.\n Tasks\n You will support the development and improvement of our ELT pipeline , helping to build the foundation for scalable analytics and machine learning applications\n You will be involved in our analytics initiatives, maintaining and enhancing our self-service analytics solution to empower business users with data-driven insights and ensure the reliability of our system\n You will contribute to projects that involve predictive modelling to optimise customer decisions and pricing strategies .\n You are involved in the decision-making process of our data-driven visions\n Requirements\n Enrolled student (FH / Uni) in data science, computer science, mathematics or a related field\n First practical experience or coursework in databases and machine learning\n Basic knowledge of SQL and/or Python and commonly used frameworks in the data ecosystem (e.g. Pandas, NumPy)\n Interest in cloud computing, CI/CD, and data warehousing\n Experience with AI-assisted (“vibe”) coding tools to prototype and ship features quickly - and the judgment to review, test, and refine that output\n Motivation to learn modern agile software processes (SCRUM)\n Ability to organise tasks effectively while balancing studies and work commitments\n You are a team player who is passionate about innovation and agility as well works in a self-organised manner from the idea to successful implementation\n You are fluent in English, German is an advantage\n Bene…",
+    "tags": [
+      "Data Scientist",
+      "Working student",
+      "no experience required / student"
+    ],
+    "jobType": "Working student",
+    "postedAt": "2026-08-10T08:00:37.000Z",
+    "scrapedAt": "2026-08-10T10:13:58.242Z"
+  },
+  {
     "id": "arbeitnow:remote-data-engineering-lead-agentic-infrastructure-320633",
     "externalId": "remote-data-engineering-lead-agentic-infrastructure-320633",
     "source": "arbeitnow",
@@ -15,7 +34,26 @@
     ],
     "jobType": "Full time",
     "postedAt": "2026-08-10T05:24:11.000Z",
-    "scrapedAt": "2026-08-10T07:25:11.648Z"
+    "scrapedAt": "2026-08-10T10:13:58.242Z"
+  },
+  {
+    "id": "jobicy:142570",
+    "externalId": "142570",
+    "source": "jobicy",
+    "title": "Senior Data Engineer",
+    "company": "Salesloft",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/03/8f0ff4d3ba38b945acfa9bbe11e39be1.jpeg",
+    "location": "Mexico",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/142570-senior-data-engineer-9",
+    "description": "Location: Remote - MX\n ABOUT THE COMPANY:\n Clari + Salesloft are building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we’re building the industry’s first Predictive Revenue System , enabling humans and AI to work together to make smarter decisions and drive consistent growth.\n With thousands of customers using our platforms every day, we have an unmatched view into how revenue is actually won — the Revenue Context that reveals what happens, when, and with what outcome. This gives us a unique opportunity to transform an entire category and set a new benchmark for how modern revenue teams operate.\n Join us to help transform how companies around the world run revenue — and build the platform that will guide leading revenue teams into the future.\n THE OPPORTUNITY:\n At Clari + Salesloft, our Data Engineer will be pivotal to our company’s success. You will be a key member of our fast-growing and high-performing Data & Analytics (D&A) team, helping build and maintain the data infrastructure that powers all of our internal reporting and analytics for multiple business teams. As a team, we are actively implementing the latest AI features and cutting-edge technologies to drive business insights.\n On a day-to-day basis, you will be responsible for architecting and delivering end-to-end data pipelines to support internal stakeholders. Specifically, you will:\n Design, build, and maintain scalable data pipelines and services for analytics and business intelligence.\n Develop data flows and applications for machine learning, analytics, and third-party data integrations.\n Collaborate with data scientists and analysts to deploy models and analytical solutions.\n Perform heads-down development, test your code, review peer code, and ship it to production.\n In addition to working with amazing colleagues who exemplify our ‘team over self’ core value, you will also have t…",
+    "tags": [
+      "Data Science &amp; Analytics",
+      "Senior"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-08-10T04:35:05.000Z",
+    "scrapedAt": "2026-08-10T10:13:58.307Z"
   },
   {
     "id": "arbeitnow:senior-simulation-data-engineer-london-262149",
@@ -31,26 +69,7 @@
       "Research"
     ],
     "postedAt": "2026-08-10T00:55:27.000Z",
-    "scrapedAt": "2026-08-10T07:25:11.648Z"
-  },
-  {
-    "id": "arbeitnow:lead-data-engineer-data-migration-lakehouse-munchen-495833",
-    "externalId": "lead-data-engineer-data-migration-lakehouse-munchen-495833",
-    "source": "arbeitnow",
-    "title": "Lead Data Engineer - Data Migration & Lakehouse",
-    "company": "Squer",
-    "location": "München",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/squer/lead-data-engineer-data-migration-lakehouse-munchen-495833",
-    "description": "Find Jobs in Germany on Arbeitnow",
-    "tags": [
-      "Experienced",
-      "Permanent",
-      "Full time"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-08-09T23:09:04.000Z",
-    "scrapedAt": "2026-08-10T07:25:11.648Z"
+    "scrapedAt": "2026-08-10T10:13:58.242Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -66,7 +85,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-10T07:25:12.217Z"
+    "scrapedAt": "2026-08-10T10:13:58.690Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -82,7 +101,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-10T07:25:12.217Z"
+    "scrapedAt": "2026-08-10T10:13:58.690Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -98,7 +117,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-08-10T07:25:12.217Z"
+    "scrapedAt": "2026-08-10T10:13:58.690Z"
   },
   {
     "id": "greenhouse:discord-8614971002",
@@ -114,7 +133,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-10T07:25:12.217Z"
+    "scrapedAt": "2026-08-10T10:13:58.690Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -130,7 +149,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-08-10T07:25:12.217Z"
+    "scrapedAt": "2026-08-10T10:13:58.690Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -150,22 +169,6 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-08-10T07:28:17.013Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8082199",
-    "externalId": "coinbase:8082199",
-    "source": "greenhouse",
-    "title": "Senior Software Engineer, Data Engineering Platform",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n The Data Platform team builds and operates the systems that centralize all of Coinbase's internal and third-party data, making it easy for teams across the company to access, process, and transform that data for analytics, machine learning, and powering end-user experiences. As an engineer on the team you'll contribute across the full spectrum of our systems, from foundational processing and storage to scalable pipelines to the frameworks, tools, and internal applications that make data easily and efficiently available.\n We have a number of open roles within the Data Platform team, each with a different focus area; read on to see if you'll be a good fit as a Data Engineering Platform Engineer.\n This role sits between our platform and the analysts, data scientists, and data engineers who use it every day. You'll build the SDKs, self-service apps, and abstractions that let thousands of pipelines and analyses run without those users needing to understand the plumbing underneath.\n What you'll do:\n Build clean software abstractions and modular, reusable components that let us support thousands of pipelines and beyond as we scale.\n Build and maintain data integration and processing SDKs used by data teams and internal services across Coinbase.\n Design and build self-service applications that let analysts and data scientists create, manage, and troubleshoot their own pipelines withou…",
-    "tags": [
-      "Engineering - Backend"
-    ],
-    "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-08-10T07:25:12.217Z"
+    "scrapedAt": "2026-08-10T10:17:08.962Z"
   }
 ]
