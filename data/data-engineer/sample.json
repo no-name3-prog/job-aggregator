@@ -1,5 +1,21 @@
 [
   {
+    "id": "arbeitnow:senior-simulation-data-engineer-london-262149",
+    "externalId": "senior-simulation-data-engineer-london-262149",
+    "source": "arbeitnow",
+    "title": "Senior Simulation Data Engineer",
+    "company": "Physicsx",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-simulation-data-engineer-london-262149",
+    "description": "<div class=\"content-intro\"><h2>About us</h2>\n<div>PhysicsX is a deep-tech company with roots in numerical physics and Formula One, dedicated to accelerating hardware innovation at the speed of software.</div>\n<div>We are building an AI-driven simulation software stack for engineering and manufacturing across advanced industries. By enabling high-fidelity, multi-physics simulation through AI inference across the entire engineering lifecycle, PhysicsX unlocks new levels of optimization and automation in design, manufacturing, and operations — empowering engineers to push the boundaries of possibility. Our customers include leading innovators in Aerospace &amp; Defense, Materials, Energy, Semiconductors, and Automotive.</div></div><h4><strong>Note:&nbsp;</strong>We are currently recruiting for multiple positions, however please only apply for the role that best aligns with your skillset and career goals.</h4>\n<h1>The Role</h1>\n<p>The Senior Simulation Data Engineer will extend and operate the infrastructure that powers our research Data Factory. You will be responsible for the end-to-end pipeline: from geometry preparation and simulation orchestration through validation, post-processing, and delivery to downstream ML training systems, using PhysicsX platform orchestration services where synergies exist.</p>\n<p>This role sits at the intersection of HPC engineering and data engineering. You will orchestrate long-running CFD simulations at scale, build robust data pipelines, and ensure that every simulation we produce meets rigorous quality standards.</p>\n<h2>Team Context</h2>\n<p>In this role, you will be vertically embedded in Research , working daily with:</p>\n<ul>\n<li><strong>Research Scientists</strong> who define data requirements and quality standards</li>\n<li><strong>ML Engineers</strong> who consume Data Factory outputs for model training</li>\n<li><strong>ML Infrastructure Engineers</strong> who are accountable for downstream training infrastructure</li>\n</ul>\n<p…",
+    "tags": [
+      "Research"
+    ],
+    "postedAt": "2026-08-10T00:55:27.000Z",
+    "scrapedAt": "2026-08-10T04:27:35.412Z"
+  },
+  {
     "id": "arbeitnow:lead-data-engineer-data-migration-lakehouse-munchen-495833",
     "externalId": "lead-data-engineer-data-migration-lakehouse-munchen-495833",
     "source": "arbeitnow",
@@ -16,25 +32,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-08-09T23:09:04.000Z",
-    "scrapedAt": "2026-08-10T01:23:30.211Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-real-time-analytics-london-office-417529",
-    "externalId": "senior-data-engineer-real-time-analytics-london-office-417529",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer - Real time analytics",
-    "company": "Aircall",
-    "location": "London Office",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-417529",
-    "description": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI together into one seamless workspace.\n Our momentum comes from a simple idea: help teams work smarter, not harder. Aircall’s AI Voice Agent automates routine calls, AI Assist streamlines post-call work, and AI Assist Pro delivers real-time guidance so people can do their best work. The result is higher revenue, faster resolutions, and teams that scale with confidence.\n Aircall is headquartered in Paris, our European HQ, with a strong North American presence anchored in Seattle, our North American HQ, and teams across Madrid, London, Berlin, San Francisco, New York City, Sydney, and Mexico City. We’ve built a product customers love and a business that’s scaling quickly, backed by world-class investors and driven by rapid AI innovation across multiple product lines. At Aircall, you’ll join a company in motion. We’re ambitious, product-driven, and execution-focused, with visible impact, fast decisions, and real growth.\n How we work at Aircall: We’re customer-obsessed, data-driven, and focused on delivering meaningful outcomes. We value ownership, continuous learning, and thoughtful speed. If you thrive in a collaborative, fast-moving environment where trust and impact matter, you’ll feel at home here.\n We are looking for an engaged and passionate Senior Data Engineer to join our growing Engineering Team. In this role, you will be a key member of the team managing our analytics and event platform stack.\n As part of the Analytics & Data Platform team, you will build features for over 22,000 customers across the globe. Your work will unlock the value of data, empowering our customers to make informed decisions through real-time insights, monitoring, and comprehensive analytical reports.\n Your role at Aircall\n Have key…",
-    "tags": [
-      "13001 - Engineering",
-      "Permanent Full Time Employee"
-    ],
-    "jobType": "Permanent Full Time Employee",
-    "postedAt": "2026-08-09T09:05:29.000Z",
-    "scrapedAt": "2026-08-10T01:23:30.211Z"
+    "scrapedAt": "2026-08-10T04:27:35.412Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -50,7 +48,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-10T01:23:31.284Z"
+    "scrapedAt": "2026-08-10T04:27:35.939Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -66,7 +64,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-10T01:23:31.284Z"
+    "scrapedAt": "2026-08-10T04:27:35.939Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -82,7 +80,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-08-10T01:23:31.284Z"
+    "scrapedAt": "2026-08-10T04:27:35.939Z"
   },
   {
     "id": "greenhouse:discord-8614971002",
@@ -98,7 +96,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-10T01:23:31.284Z"
+    "scrapedAt": "2026-08-10T04:27:35.939Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -114,7 +112,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-08-10T01:23:31.284Z"
+    "scrapedAt": "2026-08-10T04:27:35.939Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -134,7 +132,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-08-10T01:26:39.337Z"
+    "scrapedAt": "2026-08-10T04:30:39.609Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -150,7 +148,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-08-10T01:23:31.284Z"
+    "scrapedAt": "2026-08-10T04:27:35.939Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -166,6 +164,6 @@
       "Engineering"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-08-10T01:23:31.284Z"
+    "scrapedAt": "2026-08-10T04:27:35.939Z"
   }
 ]

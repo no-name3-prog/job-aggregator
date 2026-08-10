@@ -1,82 +1,100 @@
 [
   {
-    "id": "arbeitnow:senior-market-manager-luxe-225454",
-    "externalId": "senior-market-manager-luxe-225454",
+    "id": "arbeitnow:senior-software-engineer-smartcard-development-berlin-410224",
+    "externalId": "senior-software-engineer-smartcard-development-berlin-410224",
     "source": "arbeitnow",
-    "title": "Senior Market Manager, Luxe",
-    "company": "Airbnb",
-    "location": "Unknown",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/airbnb/senior-market-manager-luxe-225454",
-    "description": "<div class=\"content-intro\"><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><p><span style=\"font-family: arial, helvetica, sans-serif; color: #000000;\"><strong>The Difference You Will Make:</strong></span></p>\n<p>As a Luxe Senior Market Manager, you will drive supply growth for Airbnb Luxe in your assigned geographies — acquiring new listings and cultivating host relationships that define Luxe. You will serve as the on-the-ground market expert, combining&nbsp; deep knowledge of luxury real estate and travel landscape with a consultative, relationship-first approach to acquisition and account management.</p>\n<p>You will work with Luxe Guest Services, Content &amp; Quality, and cross-functional teams to ensure every home meets Airbnb Luxe's standards. This role is equally focused on strategic growth and day-to-day excellence - you'll be equally comfortable prospecting net-new hosts, conducting business reviews, and rolling up your sleeves to solve host challenges.</p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; color: #000000;\"><strong>A Typical Day:&nbsp;</strong></span></p>\n<h4><strong>Supply Acquisition &amp; Pipeline Development</strong></h4>\n<ul>\n<li>Lead net-new host and listing acquisition in assigned markets, moving qualified leads through the funnel to meet and exceed quarterly supply goals</li>\n<li>Prospect and identify high-quality homes through external research, networking, and partnerships with luxury real estate professionals, property managers, and operators</li>\n<li>Qualify incoming leads and deliver fully vetted hosts and listings to th…",
-    "tags": [
-      "Business Development"
-    ],
-    "postedAt": "2026-08-09T23:55:37.000Z",
-    "scrapedAt": "2026-08-10T01:22:39.213Z"
-  },
-  {
-    "id": "arbeitnow:senior-software-engineer-managed-postgresql-193298",
-    "externalId": "senior-software-engineer-managed-postgresql-193298",
-    "source": "arbeitnow",
-    "title": "Senior Software Engineer (Managed PostgreSQL)",
-    "company": "Nebius",
-    "location": "Unknown",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-software-engineer-managed-postgresql-193298",
-    "description": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p>\n<p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p>\n<p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p>\n<p>Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;D.</p></div><h3><strong><span data-contrast=\"auto\">The role</span></strong><span data-ccp-props=\"{}\">&nbsp;</span></h3>\n<p><span data-contrast=\"auto\">We're looking for a Senior Software Engineer to help us build the best Managed PostgreSQL for AI workloads. The service is already in production; the mission now is to make it the obvious choice for teams running AI applications on Postgres — first-class vector search, painless migrations from RDS / Cloud SQL / self-managed clusters, and the operational quality of a mature managed database.<br><br>You'll work across the stack: control plane and lifecycle automation in Go, Postgres internals and performance, migration tooling, and the customer escalations where it actually matters.<br><br>You're welcome to work from our offices in Amsterdam or London, hybrid or remotely from EU timezones.</span></p>\n<p><strong><span data-contrast=\"auto\"><span data-ccp-charstyle=\"Strong\">Your responsibilities</span><span data-ccp-charstyle=\"Strong\">:</span></span></strong><span data-ccp-props=\"{\"134233117\":true,\"134233118\":true}\">&nbsp;</span></p>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"17\" data-list-defn-p…",
-    "tags": [
-      "Backend"
-    ],
-    "postedAt": "2026-08-09T23:55:34.000Z",
-    "scrapedAt": "2026-08-10T01:22:39.213Z"
-  },
-  {
-    "id": "arbeitnow:senior-software-engineer-agentic-search-web-rendering-engineer-481417",
-    "externalId": "senior-software-engineer-agentic-search-web-rendering-engineer-481417",
-    "source": "arbeitnow",
-    "title": "Senior Software Engineer (Agentic Search) – Web Rendering Engineer",
-    "company": "Nebius",
-    "location": "Unknown",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-software-engineer-agentic-search-web-rendering-engineer-481417",
-    "description": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p>\n<p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p>\n<p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p>\n<p>Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;D.</p></div><h3><strong><span data-contrast=\"auto\">The Product</span></strong></h3>\n<p>In a rapidly evolving world, trust in AI depends on AI agents being grounded in fresh, verified real-world data. Search is the foundation that makes this possible. We are building an agent-native search platform designed specifically for AI systems rather than human users. Our product provides programmatic, low-latency, and observable search APIs that AI agents use to retrieve, filter, and reason over real-world information at scale.</p>\n<h3><strong><span data-contrast=\"auto\">The Role</span></strong></h3>\n<p><span data-contrast=\"auto\">We are looking for a Senior Software Engineer to build the rendering infrastructure behind a novel search engine designed for agentic AI. In this role, you will design systems that transform modern web applications into high&nbsp;quality structured content for search and AI. You will work on browser rendering, JavaScript execution, and large-scale rendering infrastructure capable of processing billions of pages efficiently. Modern websites increasingly rely on client-side rendering, dynamic data loading, and complex application frameworks.…",
-    "tags": [
-      "Search"
-    ],
-    "postedAt": "2026-08-09T23:55:34.000Z",
-    "scrapedAt": "2026-08-10T01:22:39.213Z"
-  },
-  {
-    "id": "arbeitnow:senior-software-engineer-agentic-search-web-access-engineer-455352",
-    "externalId": "senior-software-engineer-agentic-search-web-access-engineer-455352",
-    "source": "arbeitnow",
-    "title": "Senior Software Engineer (Agentic Search) - Web Access Engineer",
-    "company": "Nebius",
-    "location": "Unknown",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-software-engineer-agentic-search-web-access-engineer-455352",
-    "description": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p>\n<p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p>\n<p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p>\n<p>Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;D.</p></div><h3><strong><span data-contrast=\"auto\">The Product</span></strong></h3>\n<p class=\"font-claude-response-body break-words whitespace-normal\">In a rapidly evolving world, trust in AI depends on AI agents being grounded in fresh, verified real-world data. Search is the foundation that makes this possible.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">We are building an agent-native search platform designed specifically for AI systems rather than human users. Our product provides programmatic, low-latency, and observable search APIs that AI agents use to retrieve, filter, and reason over real-world information at scale.</p>\n<h3><strong><span data-contrast=\"auto\">The Role</span></strong></h3>\n<p class=\"font-claude-response-body break-words whitespace-normal\">We are looking for a Senior Software Engineer to build the web access infrastructure behind a novel search engine designed for agentic AI.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">In this role, you will investigate how modern websites communicate with browsers and translate that understanding into production systems operating at internet sca…",
-    "tags": [
-      "Search"
-    ],
-    "postedAt": "2026-08-09T23:55:34.000Z",
-    "scrapedAt": "2026-08-10T01:22:39.213Z"
-  },
-  {
-    "id": "arbeitnow:senior-site-reliability-engineer-sre-berlin-492842",
-    "externalId": "senior-site-reliability-engineer-sre-berlin-492842",
-    "source": "arbeitnow",
-    "title": "Senior Site Reliability Engineer (SRE)",
-    "company": "Nebius",
+    "title": "Senior Software Engineer (SmartCard Development)",
+    "company": "emnify",
     "location": "Berlin",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-site-reliability-engineer-sre-berlin-492842",
-    "description": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p>\n<p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p>\n<p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p>\n<p>Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;D.</p></div><h3>The Role</h3>\n<p><strong>Y</strong><strong>our responsibilities will include:</strong><strong><br></strong></p>\n<ul>\n<li>Ensure fault-tolerance, scale, and uninterrupted operations for the service.</li>\n<li>Use cutting-edge cloud technology to solve a variety of infrastructure problems.</li>\n<li>Implement and improve CI/CD processes.</li>\n</ul>\n<p><strong>We expect you to have:</strong></p>\n<ul>\n<li>Solid experience with programming languages (like Go, Python, or C++);</li>\n<li>Solid understanding of classic algorithms and data structures;</li>\n<li>Commercial experience with and deep understanding of Unix systems and network technology;</li>\n<li>Experience with systems for containerization and configuration management (Ansible, Salt, Terraform, Docker, K8s, Helm).</li>\n</ul>\n<p><strong>It will be an added bonus if you have:</strong></p>\n<ul>\n<li>Desire to be involved in backend development;</li>\n<li>Experience designing, developing, and running high-load distributed systems;</li>\n<li>Commercial experience with a variety of cloud platforms.</li>\n</ul>\n<p><span data-ccp-props=\"{}\"><em data-stringify-type=\"italic\">We conduct coding interviews…",
+    "url": "https://www.arbeitnow.com/jobs/companies/emnify/senior-software-engineer-smartcard-development-berlin-410224",
+    "description": "<p>1</p> Find Jobs in Germany on Arbeitnow",
     "tags": [
-      "SRE"
+      "CTO"
     ],
-    "postedAt": "2026-08-09T23:55:34.000Z",
-    "scrapedAt": "2026-08-10T01:22:39.213Z"
+    "postedAt": "2026-08-10T02:55:06.000Z",
+    "scrapedAt": "2026-08-10T04:26:47.641Z"
+  },
+  {
+    "id": "arbeitnow:senior-platform-engineer-kafka-berlin-186460",
+    "externalId": "senior-platform-engineer-kafka-berlin-186460",
+    "source": "arbeitnow",
+    "title": "Senior Platform Engineer - Kafka (d/f/m)",
+    "company": "emnify",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/emnify/senior-platform-engineer-kafka-berlin-186460",
+    "description": "<h4 data-renderer-start-pos=\"16\" data-local-id=\"dda67f0e-a966-4a12-a16a-2abc76fb0bd7\">The team and your Role:&nbsp;&nbsp;</h4>\n<p data-renderer-start-pos=\"944\" data-local-id=\"1105a450-4434-4f6b-bfce-c1655d0edf78\">As a part of the larger Engineering department, the Platform team plays a crucial role in enhancing emnify’s competitive edge by improving developer experience to increase development efficiency and scale productivity.&nbsp; You will join a growing team, fostering empathy and a collaboration mindset to ensure continuous improvement of development experience at emnify. The Platform team provides, in addition to the centrally managed infrastructure used by all the teams for observability and CI/CD, consultation and hands-on support to the engineering teams.&nbsp; As a platform engineer with Kafka expertise, you’ll take ownership of the Kafka clusters and their supporting infrastructure. You’ll support the team with the maintenance of our managed infrastructure&nbsp;</p>\n<p data-renderer-start-pos=\"1708\" data-local-id=\"c7e94a27-10e7-4294-9922-d1370988cee0\"><a class=\"_ymio1r31 _ypr0glyw _zcxs1o36 _mizu1v1w _1ah3dkaa _ra3xnqa1 _128mdkaa _1cvmnqa1 _4davt94y _4bfu1r31 _1hms8stv _ajmmnqa1 _vchhusvi _kqswh2mm _ect4ttxp _syaz13af _1a3b1r31 _4fpr8stv _5goinqa1 _f8pj13af _9oik1r31 _1bnxglyw _jf4cnqa1 _30l313af _1nrm1r31 _c2waglyw _1iohnqa1 _9h8h12zz _10531ra0 _1ien1ra0 _n0fx1ra0 _1vhv17z1\" href=\"https://emnify.github.io/tech-radar/\" data-renderer-mark=\"true\"><u data-renderer-mark=\"true\">Emnify technology radar</u></a>&nbsp;</p>\n<p data-renderer-start-pos=\"1734\" data-local-id=\"884b9e42-89b3-4e50-96af-d722fc85e53c\">The position is a hybrid position based in emnify’s office in Berlin.&nbsp;</p>\n<h4 id=\"Your-Impact:\" data-local-id=\"245b96e0-61b5-4875-8149-3ffbd67e0b6a\" data-renderer-start-pos=\"1806\">Your Impact:&nbsp;</h4>\n<ul class=\"ak-ul\" data-local-id=\"618ec205-02bd-40c3-9e6f-680bcafb8af5\" data-indent-level=\"1\">\n<li>\n<p data-renderer-start-pos=\"1823\" data-local-id=\"d4a…",
+    "tags": [
+      "Infrastructure"
+    ],
+    "postedAt": "2026-08-10T02:55:06.000Z",
+    "scrapedAt": "2026-08-10T04:26:47.641Z"
+  },
+  {
+    "id": "arbeitnow:design-engineer-munich-421938",
+    "externalId": "design-engineer-munich-421938",
+    "source": "arbeitnow",
+    "title": "Design Engineer",
+    "company": "Mercura",
+    "location": "Munich",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/mercura/design-engineer-munich-421938",
+    "description": "Mercura ( YC W25 ) helps the companies that build the real world move at software speed, automating the back-office work that runs the $12 trillion industry behind every hospital, school, and power plant. We started with one of their biggest bottlenecks - turning messy technical requests into accurate quotes - and grew to $2M ARR in our first year . With a team of 16, we're now targeting $10M by the end of 2026 as well as our expansion into the US.\n About the role We're hiring our first Design Engineer to own the look, feel, and implementation of our product. You'll work closely with our CPO and engineers to design clean, intuitive interfaces for non-technical users and ship them to production yourself. In this role, you will bridge design and engineering end-to-end - speaking directly to customers, turning insight into interfaces, and building them with code.\n What you will be working on Talk directly to customers, understand their problems, and translate findings into clean product requirements and interface designs\n Build prototypes with AI tools and in code to test product hypotheses with customers fast\n Create and implement intuitive, AI-first interfaces that make complex B2B workflows effortless\n Own the full journey from design to production - working closely with engineers to ship new features\n What we're looking for You have 2-5 years of experience as a design engineer, product designer, or frontend engineer with a strong portfolio in AI & complex B2B SaaS products\n You love speaking to customers directly to identify pain points and problems\n You are highly proficient in AI-tools (Lovable, Cursor, Claude, ...) and Figma to design and prototype fast\n You are comfortable shipping code (React, Typescript, Python) to production - this is as much an engineering role as it is a design role\n You are comfortable working in a fast-paced startup environment and want to build something from the ground up\n You want to work in-person from our Munich office or are willi…",
+    "tags": [
+      "Product & Operations",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-08-10T02:40:12.000Z",
+    "scrapedAt": "2026-08-10T04:26:47.641Z"
+  },
+  {
+    "id": "arbeitnow:praktikantin-marketing-patient-experience-berlin-495785",
+    "externalId": "praktikantin-marketing-patient-experience-berlin-495785",
+    "source": "arbeitnow",
+    "title": "Praktikant:in Marketing & Patient Experience (m/w/d)",
+    "company": "Cara Care",
+    "location": "Berlin, Germany",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/cara-care/praktikantin-marketing-patient-experience-berlin-495785",
+    "description": "Als Praktikant:in im Bereich Marketing & Patient Experience (m/w/d) unterstützt du unser Marketing Team dabei, Cara Care sichtbar zu machen, relevante Zielgruppen zu erreichen und unsere Kommunikation mit Patient:innen weiterzuentwickeln.\n Du arbeitest an der Schnittstelle zwischen Marketing, Product und unserem Care Team und erhältst spannende Einblicke darin, wie wir unsere Patient:innen verstehen, ihre Bedürfnisse analysieren und unsere Marketingmaßnahmen kontinuierlich verbessern.\n Dabei kombinierst du Kreativität mit analytischem Denken : Du unterstützt bei Kampagnen, erstellst patientenorientierte Inhalte, analysierst Feedback und Nutzerverhalten und leitest daraus wertvolle Insights für unsere Kommunikation und die Patient:innen Experience ab.\n Die Rolle ist bewusst sehr praxisnah gestaltet: Du übernimmst eigene Aufgaben, bringst deine Ideen ein und unterstützt unser Team dort, wo deine Arbeit einen echten Mehrwert schafft.\n 🎯 Was du bei uns machen wirst:\n Marketing & Patient Engagement\n Unterstützung bei der Planung und Umsetzung von Marketing- und Growth-Initiativen Erstellung und Weiterentwicklung von patientenorientierten Kommunikationsmaterialien und Content Du unterstützt bei Kampagnen, Marketingprojekten und verschiedenen Initiativen zur Steigerung des Patient:innen Engagements Analyse von Nutzer- und Patient:innen Feedback zur Identifikation von Verbesserungspotenzialen Entwicklung eines besseren Verständnisses für Patient:innen Bedürfnisse, Verhalten und Customer Journeys Commercial & Analytics\n Unterstützung bei Commercial- und Business-Development-Projekten Durchführung von Analysen zu Patient:innen Bedürfnissen, Markttrends und Nutzerverhalten Aufbereitung von Erkenntnissen in Präsentationen, Reports und internen Dokumentationen Requirements\n 🤓 Was du mitbringen solltest:\n Du suchst ein Pflicht- oder freiwilliges Praktikum für 3–6 Monate Du bist aktuell in einem Studium eingeschrieben, idealerweise in Marketing, Psychologie, Kommunikationswisse…",
+    "tags": [
+      "Marketing",
+      "Health",
+      "Wellness and Fitness",
+      "Full time",
+      "internship"
+    ],
+    "jobType": "Full time",
+    "postedAt": "2026-08-10T02:20:20.000Z",
+    "scrapedAt": "2026-08-10T04:26:47.641Z"
+  },
+  {
+    "id": "arbeitnow:senior-marketing-manager-munchen-484293",
+    "externalId": "senior-marketing-manager-munchen-484293",
+    "source": "arbeitnow",
+    "title": "Senior Marketing Manager (m/w/d)",
+    "company": "Education Partners",
+    "location": "München",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/education-partners/senior-marketing-manager-munchen-484293",
+    "description": "Über uns - Developer Akademie Wir sind ein wachsendes Startup aus dem E-Learning / Education Sektor und ermöglichen es, hunderten aktiven Kundinnen und Kunden als Quereinsteigern eine Karriere in der IT zu starten. Wir bieten so praxisnahe Online-Weiterbildungen an und haben dadurch bereits schon viele hundert Quereinsteiger in Jobs in der IT gebracht. Egal ob sie davor Yoga-Lehrer, Ingenieurinnen, Marketingspezialisten oder Taxifahrer waren. Unser Ziel ist es, den IT-Nachwuchs auszubilden, den Deutschland für die Digitalisierung benötigt. Dafür brauchen wir dich als Verstärkung um unsere ambitionierten Wachstumsziele zu erreichen.\n Deine Aufgaben Wir suchen dich als Verstärkung unseres Teams als Senior Marketing Manager (m/w/d). Du gewinnst über gezielte digitale Kampagnen qualifizierte Teilnehmerinnen und Teilnehmer für unsere Weiterbildungen und entwickelst unser Marketing operativ wie strategisch weiter.\n Du baust, steuerst und optimierst unsere Kampagnen über die relevanten Kanäle (u.a. Google Ads, Meta) und arbeitest dabei eng mit unseren Agenturpartnern zusammen  Du setzt unsere Marketingstrategie in die Praxis um und entwickelst sie auf Basis von Daten und Ergebnissen kontinuierlich weiter Du verantwortest gemeinsam mit der Geschäftsführung ein 7-stelliges Marketingbudget und behältst Performance und Effizienz im Blick Du lieferst kreativen Input für Kampagnen, testest neue Formate, Kanäle und KI-Tools und treibst neue Ansätze voran Du arbeitest eng mit Content-, Media- und Marketing-Team zusammen und übernimmst Schritt für Schritt mehr Verantwortung, fachlich wie organisatorisch\n Dein Profil Du hast mindestens 3 Jahre Berufserfahrung im digitalen Marketing, idealerweise in einem Startup, und hast Kampagnen und Budgets bereits eigenständig verantwortet Du hast nachweisbare Erfahrung darin, Paid-Kampagnen selbst aufzusetzen und zu optimieren, und bist sicher im Umgang mit Tracking und Analyse Du hast Erfahrung in der Zusammenarbeit mit Marketing-Agenturen un…",
+    "tags": [
+      "Beratung",
+      "Neukundengewinnung",
+      "Kommunikation",
+      "Kundenzufriedenheit",
+      "Kundendatenbank",
+      "vertrieb",
+      "sales",
+      "junior",
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-08-10T02:09:39.000Z",
+    "scrapedAt": "2026-08-10T04:26:47.641Z"
   }
 ]
