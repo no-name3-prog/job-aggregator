@@ -1,5 +1,23 @@
 [
   {
+    "id": "arbeitnow:senior-data-engineer-belfast-18470",
+    "externalId": "senior-data-engineer-belfast-18470",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer",
+    "company": "Instil",
+    "location": "Belfast",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/instil/senior-data-engineer-belfast-18470",
+    "description": "The Role\n We're looking for a Senior Data Engineer with strong commercial experience building and supporting modern data platforms. You'll work hands-on designing, building, and improving data pipelines that enable analytics, AI, and data-driven decision making.\n Essential Skills\n 5+ years' experience in Data Engineering or a related software engineering role.\n Experience building and maintaining production-grade data pipelines and platforms.\n Strong understanding of data modelling, transformation, cleansing, and preparation.\n Strong SQL skills and commercial experience with Python and/or Spark.\n Experience designing and delivering ETL/ELT solutions in cloud environments.\n Experience with modern data platforms such as Databricks, Snowflake, or Microsoft Fabric.\n Familiarity with cloud data services (AWS, Azure, or GCP).\n Experience working with structured and semi-structured data (e.g. JSON, Parquet).\n Strong problem-solving, communication, and stakeholder collaboration skills.\n Desirable Skills\n Experience with data engineering tools such as AWS Glue, Azure Data Factory, Apache Beam, or dbt.\n Exposure to data governance and cataloguing tools such as Purview, Collibra, or Unity Catalog.\n Experience with CI/CD, orchestration, and data quality practices.\n Knowledge of analytics, reporting, or AI/ML use cases.\n Experience working in agile, delivery-focused teams.\n Typical Experience\n Building scalable data pipelines and data platforms.\n Data modelling, transformation, and preparation.\n Working with Databricks, Snowflake, Fabric, or similar technologies.\n Implementing ETL/ELT processes and data integration solutions.\n Applying data governance, lineage, and security best practices.\n Developing solutions using Python, Spark, and SQL.\n Please note: We offer flexible hybrid working, but candidates should be based in Northern Ireland and able to attend our Belfast office when required.\n Why Join Instil?\n At Instil, we believe great work starts with happy, motivated people.…",
+    "tags": [
+      "Product Development",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-08-11T03:40:22.000Z",
+    "scrapedAt": "2026-08-11T07:01:05.241Z"
+  },
+  {
     "id": "arbeitnow:senior-data-engineer-postgresql-hamburg-461678",
     "externalId": "senior-data-engineer-postgresql-hamburg-461678",
     "source": "arbeitnow",
@@ -16,7 +34,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-08-11T02:09:33.000Z",
-    "scrapedAt": "2026-08-11T04:17:27.967Z"
+    "scrapedAt": "2026-08-11T07:01:05.241Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -35,7 +53,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-11T04:20:34.022Z"
+    "scrapedAt": "2026-08-11T07:04:16.131Z"
   },
   {
     "id": "arbeitnow:senior-manager-data-engineering-london-414352",
@@ -53,7 +71,7 @@
       "Solutions and Engineering"
     ],
     "postedAt": "2026-08-10T21:55:44.000Z",
-    "scrapedAt": "2026-08-11T04:17:27.967Z"
+    "scrapedAt": "2026-08-11T07:01:05.241Z"
   },
   {
     "id": "arbeitnow:senior-analytics-engineer-consumer-berlin-101121",
@@ -69,7 +87,7 @@
       "Analytics"
     ],
     "postedAt": "2026-08-10T20:55:18.000Z",
-    "scrapedAt": "2026-08-11T04:17:27.967Z"
+    "scrapedAt": "2026-08-11T07:01:05.241Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -85,7 +103,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-11T04:17:28.508Z"
+    "scrapedAt": "2026-08-11T07:01:05.801Z"
   },
   {
     "id": "jobicy:142570",
@@ -104,7 +122,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-08-10T04:35:05.000Z",
-    "scrapedAt": "2026-08-11T04:17:28.038Z"
+    "scrapedAt": "2026-08-11T07:01:05.325Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -120,7 +138,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-11T04:17:28.508Z"
+    "scrapedAt": "2026-08-11T07:01:05.801Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -136,7 +154,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-11T04:17:28.508Z"
+    "scrapedAt": "2026-08-11T07:01:05.801Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -152,22 +170,6 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-08-11T04:17:28.508Z"
-  },
-  {
-    "id": "greenhouse:discord-8614971002",
-    "externalId": "discord:8614971002",
-    "source": "greenhouse",
-    "title": "Data Engineer",
-    "company": "Discord",
-    "location": "San Francisco Bay Area",
-    "remote": false,
-    "url": "https://job-boards.greenhouse.io/discord/jobs/8614971002",
-    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.\n Discord is looking for an experienced and passionate Data Engineer, Analytics to join our data team! You will be owning the transformation and semantic layer that turns data into clean, tested, well-documented tables and dashboards that data scientists, product managers, and business stakeholders can trust and self-serve from. You'll define and operationalize the metrics that inform how we identify opportunities, measure success, and make decisions. If this sounds exciting to you and you’re passionate about data modeling, metric design, and empowering teams to move faster with reliable data, read on!\n What you will be doing :\n Design, build, and maintain curated analytical datasets and data models that serve as canonical sources for metrics, dashboards, and analyses\n Own metric definitions end to end, from partnering with data science and product team to define what we should measure, to implementing it in production, to surfacing it in visualization tools\n Build and maintain executive-level dashboards and self-serve reporting tools that enable business stakeholders to answer their own questions\n Partner closely with data science, product manager, and engineering teams to translate business questions into well modeled, performant, and discoverable data assets\n Establish and enforce data quality standards through testing frameworks, documentation, and monitoring for the datasets you own\n Drive adoption of consistent data modeling patterns, naming conventions, and documentation norms across the data organization\n What you should have\n 3+ years of experience in analytics or data engineering with a strong…",
-    "tags": [
-      "Data Science & Engineering"
-    ],
-    "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-11T04:17:28.508Z"
+    "scrapedAt": "2026-08-11T07:01:05.801Z"
   }
 ]
