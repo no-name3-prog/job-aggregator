@@ -1,87 +1,82 @@
 [
   {
-    "id": "greenhouse:anthropic-5382750008",
-    "externalId": "anthropic:5382750008",
+    "id": "greenhouse:anthropic-5385557008",
+    "externalId": "anthropic:5385557008",
     "source": "greenhouse",
-    "title": "AI Infrastructure Operations, Demand Planning",
+    "title": "Compute Country Lead, Korea",
     "company": "Anthropic",
-    "location": "San Francisco, CA | New York City, NY",
+    "location": "Seoul, South Korea",
     "remote": false,
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382750008",
-    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the Role\n Anthropic runs one of the largest and fastest-growing infrastructure fleets in the industry, across multiple accelerator families, CPU families, clouds, neoclouds, and on-prem sites. Capacity Engineering owns the data, tooling, and systems that let Anthropic plan, measure, and maximize utilization of that fleet: we partner on supply deals, wire telemetry from day zero, own the canonical capacity data layer, and build the planning and enforcement tools every research and product team relies on. This role sits in the Planning pillar, on the Demand Planning team, and works daily with research engineering, pretraining, inference, compute supply, finance, and external vendors.\n You own the tranches. The job has two halves that feed each other. Upstream, you take the Demand Planning forecast and turn it into per-tranche requirements — shape, interconnect, region, supporting resources, date — and carry those into sourcing negotiations and data center build reviews so we contract for capacity we can actually use when we need it. Downstream, you own the integrated schedule and system of record for every tranche in flight — from contracted through reserved, ingested, in-cluster, healthy, and occupied — and you drive the owners of each hop to their dates. Every slip you see downstream becomes a contract-language fix, an automation, or a correction fed back to the forecast.\n What you'll do\n Turn the forecast into per-tranche requirements. Take the Demand Planning forecast plus direct input from research, pretraining, and inference planners, and convert it into concrete accelerator, interconnect, region, supporting-resource, and…",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385557008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role Anthropic is scaling compute internationally — growing our footprint in new countries. We're hiring a Country Lead to be the single, accountable owner of our compute strategy in Korea: the person who leads a team of cross-functional experts driving site selection, leasing, energy, financing, government relations and policy, community engagement, construction, and operations. This person will be ultimately responsible for bringing gigawatts of compute online in Korea.\n You won't build this alone. The specialist functions — leasing, energy, policy, construction, finance — are hired and managed centrally by functional leads based in San Francisco. Your job is to provide cross-functional leadership over that team in-country: coordinating and driving accountability across workstreams, while representing Anthropic externally with government and industry counterparts in Korea.\n This is a high-ambiguity, high-trust role for someone who can bring structure to a fast-growing, cross-functional effort without needing formal authority to do it.\n Responsibilities Own the end-to-end strategy and coordination for Anthropic's compute build-out in Korea, from initial site selection through construction and operations. While each component will be run by subject matter experts, this role will act as the overall leader and coordinator of that team.\n Serve as the primary point of accountability for cross-functional workstreams; leasing, financing, energy, government relations/policy, community engagement, construction, and operations.\n Provide working leadership to the in-country cross-functional team, driving alignment and unblocking is…",
     "tags": [
-      "Software Engineering - Infrastructure"
+      "Compute"
     ],
-    "postedAt": "2026-08-11T12:14:01.000Z",
-    "scrapedAt": "2026-08-11T12:55:48.207Z"
+    "postedAt": "2026-08-11T15:56:03.000Z",
+    "scrapedAt": "2026-08-11T15:57:21.821Z"
   },
   {
-    "id": "arbeitnow:founders-associate-fulltime-berlin-139211",
-    "externalId": "founders-associate-fulltime-berlin-139211",
-    "source": "arbeitnow",
-    "title": "Founder's Associate (Fulltime)",
-    "company": "Heidi Systems",
-    "location": "Berlin",
+    "id": "greenhouse:anthropic-5385559008",
+    "externalId": "anthropic:5385559008",
+    "source": "greenhouse",
+    "title": "Compute Country Lead, Japan",
+    "company": "Anthropic",
+    "location": "Tokyo, Japan",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/heidi-systems/founders-associate-fulltime-berlin-139211",
-    "description": "Berlin based | German native speaker | Vollzeit Festanstellung | Rolling intake\n Über uns\n Heidi Systems baut das Energy-OS für Real Estate. Dafür digitalisieren wir einen der letzten großen analogen Märkte Europas und schaffen die Infrastruktur für intelligentes Energiemanagement in Gebäuden.\n Wo wir stehen:\n 8 Personen\n Starke Pipeline mit +5.000 aktiven Deals\n Angel-Runde mit Unicorn-Foundern sowie Directors von Google und OpenAI\n Auf dem Weg zu 10x in 2026\n Wir rollen die Messdienstbranche neu auf – einen riesigen, verstaubten Markt, den seit Jahrzehnten kaum jemand angefasst hat. Als Prop- und ClimateTech verbinden wir Software, IoT und Operations zu einer Plattform, die Energie- und Verbrauchsdaten erstmals durchgängig digital, transparent und in Echtzeit verfügbar macht. So schaffen wir die Grundlage für eine intelligente und effiziente Energieinfrastruktur von Gebäuden.\n Wir wachsen stark und haben gerade unsere Angel-Runde erfolgreich abgeschlossen. Zu unseren Investoren gehören unter anderem Unicorn-Gründer sowie Directors von Google und OpenAI.\n Als Founder's Associate arbeitest du direkt mit unserem Gründer Paul zusammen. Du sitzt mit uns an einem Tisch, übernimmst Verantwortung vom ersten Tag an, treibst eigene Initiativen und bringst strategische wie operative Themen wirklich ins Ziel.\n Aufgaben\n Du arbeitest direkt mit dem Founder an Projekten mit hohem Hebel – quer durch Operations, Sales, Produkt und Strategie\n Ab Tag eins übernimmst du konkrete operative Verantwortung – du ownst eigene Kunden und Objekte End-to-End, vom Onboarding neuer Partner über die Steuerung von Hausverwaltungen, Installateuren und Lieferanten bis zur finalen Übergabe\n Du identifizierst manuelle und repetitive Abläufe, implementierst No-Code- und Low-Code-Lösungen (z. B. n8n Workflows, Claude Code) und steigerst so messbar die Effizienz im operativen Tagesgeschäft\n Du unterstützt beim Fundraising sowie vor Ort bei Kunden- und Partnermeetings\n Du behältst den Überblick – weißt…",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385559008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role Anthropic is scaling compute internationally — growing our footprint in new countries. We're hiring a Country Lead to be the single, accountable owner of our compute strategy in Japan: the person who leads a team of cross-functional experts driving site selection, leasing, energy, financing, government relations and policy, community engagement, construction, and operations. This person will be ultimately responsible for bringing gigawatts of compute online in Japan.\n You won't build this alone. The specialist functions — leasing, energy, policy, construction, finance — are hired and managed centrally by functional leads based in San Francisco. Your job is to provide cross-functional leadership over that team in-country: coordinating and driving accountability across workstreams, while representing Anthropic externally with government and industry counterparts in Japan.\n This is a high-ambiguity, high-trust role for someone who can bring structure to a fast-growing, cross-functional effort without needing formal authority to do it.\n Responsibilities Own the end-to-end strategy and coordination for Anthropic's compute build-out in Japan, from initial site selection through construction and operations. While each component will be run by subject matter experts, this role will act as the overall leader and coordinator of that team.\n Serve as the primary point of accountability for cross-functional workstreams; leasing, financing, energy, government relations/policy, community engagement, construction, and operations.\n Provide working leadership to the in-country cross-functional team, driving alignment and unblocking is…",
     "tags": [
-      "Business Development"
+      "Compute"
     ],
-    "postedAt": "2026-08-11T11:00:57.000Z",
-    "scrapedAt": "2026-08-11T12:55:47.394Z"
+    "postedAt": "2026-08-11T15:55:50.000Z",
+    "scrapedAt": "2026-08-11T15:57:21.821Z"
   },
   {
-    "id": "arbeitnow:senior-data-plattform-engineering-azure-und-databricks-frechen-259814",
-    "externalId": "senior-data-plattform-engineering-azure-und-databricks-frechen-259814",
-    "source": "arbeitnow",
-    "title": "Senior Data Plattform Engineering (m/w/d) Azure und Databricks",
-    "company": "Natalie Felsinger Consulting",
-    "location": "Frechen",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/natalie-felsinger-consulting/senior-data-plattform-engineering-azure-und-databricks-frechen-259814",
-    "description": "Du konzipierst und implementierst Data-Platform-Lösungen auf Basis von Databricks in Kombination mit einem führenden Hyperscaler, insbesondere Azure/AWS. Du arbeitest an der Definition und Umsetzung von Best Practices und Standards für den Aufbau skalierbarer, sicherer und automatisierter Datenplattformen.\n Du arbeitest eng mit Data Engineers (m/w/d), Data Analytics-Teams und Fachbereichen zusammen, um leistungsfähige und wartbare Plattformlösungen umzusetzen.\n Du wirkst aktiv an der Weiterentwicklung interner Best Practices, Standards und wiederverwendbarer Lösungsansätze mit, insbesondere in den Bereichen Data Ingestion, Data Preparation und Platform Engineering.\n Aufgaben\n Moderne Data Platforms auf Azure und Databricks konzipieren, automatisieren und weiterentwickeln\n Skalierbare Plattformarchitekturen, Entwicklungsumgebungen und Deployment-Prozesse umsetzen\n Infrastructure as Code, CI/CD und wiederverwendbare Plattformstandards etablieren\n Security, Governance, Monitoring, Performance und Stabilität sicherstellen\n Data Engineers (m/w/d) und Projektteams durch standardisierte Plattformservices und Best Practices unterstützen\n An Architektur-, Technologie- und Plattformentscheidungen mitwirken\n Qualifikation\n Erfahrener Senior Data Platform Engineer m/w/d mit 3–5 Jahren Erfahrung im Aufbau und in der Weiterentwicklung moderner Datenplattformen, vorzugsweise auf Basis von Azure und Databricks\n Sehr gute Deutschkenntnisse (mind. C1)\n Sehr gute Kenntnisse in Data Platform Engineering, Cloud-Architekturen, Infrastructure as Code, CI/CD, Security und Governance\n Fundierte Erfahrung mit Databricks, relevanten Azure Services, Terraform, Python und SQL\n Teamorientiert, eigenverantwortlich und qualitätsbewusst mit Fokus auf skalierbare, automatisierte und wartbare Plattformlösungen\n Benefits\n Zertifizierungen und Weiterbildungen\n Meet-Ups und Messen\n Gehalts-Upgrade\n Job-Ticket\n Betriebliche Altersvorsorge\n Urban Sports Club\n Wunsch Stetup\n Hybrid Work und Teamevents\n Fi…",
+    "id": "greenhouse:dropbox-8121672",
+    "externalId": "dropbox:8121672",
+    "source": "greenhouse",
+    "title": "Director, Sales Compensation",
+    "company": "Dropbox",
+    "location": "Remote - Canada: Select locations",
+    "remote": true,
+    "url": "https://jobs.dropbox.com/listing/8121672?gh_jid=8121672",
+    "description": "Role Description\n As the Head of Sales Compensation & Planning within the Customer Strategy & Operations (CSO) organization, you will define and lead Dropbox's global sales compensation, quota strategy, and incentive planning framework. You will be responsible for shaping the philosophy, governance, and execution of compensation programs that drive revenue growth, profitability, and seller productivity across multiple routes to market.\n This leader will partner closely with Executive Sales Leadership, Finance, Accounting, HR, and Strategy to translate business objectives into scalable incentive programs, quota methodologies, and sales planning decisionsthat accelerate performance while ensuring financial discipline. Beyond leading one of Dropbox's most business-critical operational functions, this role will influence how Dropbox motivates its global sales organization, aligns incentives to business strategy, and evolves our go-to-market model over time.\n The ideal candidate combines deep expertise in sales compensation and planning with strong commercial acumen, executive presence, and the ability to influence senior stakeholders through data-driven recommendations. Reporting to the Head of Revenue Operations, this role will have significant visibility across Dropbox's executive leadership team and serve as a trusted advisor on sales performance, incentive strategy, and organizational planning.\n Responsibilities\n Define Dropbox's long-term sales compensation philosophy, quota methodology, and incentive governance aligned to evolving business strategy.\n Serve as the primary advisor to Executive Sales Leadership, Finance, and CSO leadership on compensation strategy, seller productivity, and annual planning decisions.\n Influence executive decision-making through data-driven recommendations balancing revenue growth, profitability, customer outcomes, and employee motivation.\n Evaluate market trends and emerging GTM models to continuously evolve Dropbox's compensation an…",
     "tags": [
-      "IT",
-      "berufserfahren"
+      "Sales Comp & Planning (Sub Team)"
     ],
-    "jobType": "berufserfahren",
-    "postedAt": "2026-08-11T11:00:57.000Z",
-    "scrapedAt": "2026-08-11T12:55:47.394Z"
+    "postedAt": "2026-08-11T15:52:10.000Z",
+    "scrapedAt": "2026-08-11T15:57:21.821Z"
   },
   {
-    "id": "arbeitnow:steuerberater-in-berlin-135174",
-    "externalId": "steuerberater-in-berlin-135174",
-    "source": "arbeitnow",
-    "title": "Steuerberater (m/w/d) in Berlin",
-    "company": "Börsing Pohl & Partner Steuerberater Rechtsanwälte",
-    "location": "Berlin",
+    "id": "greenhouse:dropbox-8121667",
+    "externalId": "dropbox:8121667",
+    "source": "greenhouse",
+    "title": "Director, Sales Compensation",
+    "company": "Dropbox",
+    "location": "Remote - US: All locations",
+    "remote": true,
+    "url": "https://jobs.dropbox.com/listing/8121667?gh_jid=8121667",
+    "description": "Role Description\n As the Head of Sales Compensation & Planning within the Customer Strategy & Operations (CSO) organization, you will define and lead Dropbox's global sales compensation, quota strategy, and incentive planning framework. You will be responsible for shaping the philosophy, governance, and execution of compensation programs that drive revenue growth, profitability, and seller productivity across multiple routes to market.\n This leader will partner closely with Executive Sales Leadership, Finance, Accounting, HR, and Strategy to translate business objectives into scalable incentive programs, quota methodologies, and sales planning decisionsthat accelerate performance while ensuring financial discipline. Beyond leading one of Dropbox's most business-critical operational functions, this role will influence how Dropbox motivates its global sales organization, aligns incentives to business strategy, and evolves our go-to-market model over time.\n The ideal candidate combines deep expertise in sales compensation and planning with strong commercial acumen, executive presence, and the ability to influence senior stakeholders through data-driven recommendations. Reporting to the Head of Revenue Operations, this role will have significant visibility across Dropbox's executive leadership team and serve as a trusted advisor on sales performance, incentive strategy, and organizational planning.\n Responsibilities\n Define Dropbox's long-term sales compensation philosophy, quota methodology, and incentive governance aligned to evolving business strategy.\n Serve as the primary advisor to Executive Sales Leadership, Finance, and CSO leadership on compensation strategy, seller productivity, and annual planning decisions.\n Influence executive decision-making through data-driven recommendations balancing revenue growth, profitability, customer outcomes, and employee motivation.\n Evaluate market trends and emerging GTM models to continuously evolve Dropbox's compensation an…",
+    "tags": [
+      "Sales Comp & Planning (Sub Team)"
+    ],
+    "postedAt": "2026-08-11T15:52:07.000Z",
+    "scrapedAt": "2026-08-11T15:57:21.821Z"
+  },
+  {
+    "id": "greenhouse:anthropic-5358148008",
+    "externalId": "anthropic:5358148008",
+    "source": "greenhouse",
+    "title": "APAC Tax Lead",
+    "company": "Anthropic",
+    "location": "Singapore",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/borsing-pohl-partner-steuerberater-rechtsanwalte/steuerberater-in-berlin-135174",
-    "description": "Börsing Pohl &#x26; Partner in Berlin - wir blicken stolz auf 50+ Jahre als Familienunternehmen, mittlerweile in zweiter Generation, zurück. Unsere Historie steht für Beständigkeit, Fachexpertise und eine Menge Leidenschaft für die Beratung unserer Mandanten. Doch wir ruhen uns nicht auf den Lorbeeren der Vergangenheit aus. Heute sind wir eine dynamische Kanzlei mit 2 Berufsträgern und 20 Mitarbeitern, die in Sachen Digitalisierung vorausgeht und unserem Team moderne und flexible Arbeitsbedingungen bietet.\n Aufgaben\n Gestalte deine Zukunft – gemeinsam mit uns.\n Tätigkeiten.\n Zwar erfinden wir die Steuerberatung nicht neu, jedoch sorgen wir mit einem auf deine individuellen Stärken und Ziele abgestimmten Tätigkeitsfeld dafür, dass du wieder richtig Spaß an deiner Arbeit hast. Außerdem profitierst du aufgrund unseres hohen Digitalisierungsgrades von Automatisierungen im Bereich der Buchhaltung, wodurch der Anteil an monotonen Tätigkeiten reduziert wird.\n Aufgaben in den folgenden Bereichen könnten dich erwarten:\n Eigenständige Betreuung und Beratung von Mandanten in steuerlichen und betriebswirtschaftlichen Angelegenheiten\n Erstellung von Jahresabschlüssen und Steuererklärungen für Unternehmen und Privatpersonen\n Prüfung von Steuerbescheiden und Einlegen von Rechtsbehelfen\n Entwicklung steueroptimierter Gestaltungsmöglichkeiten für Mandanten\n Begleitung von Betriebsprüfungen und Kommunikation mit Finanzbehörden\n Unterstützung bei der Weiterentwicklung interner Prozesse und Digitalisierung\n Qualifikation\n Wen wir suchen. Dein Profil.\n Wir kümmern uns um deine fachliche und persönliche Entwicklung – wir im Gegenzug profitieren von deiner Teamfähigkeit, deiner Affinität zur Digitalisierung und den weiteren folgenden Eigenschaften:\n Abgeschlossenes Steuerberaterexamen und Bestellung als Steuerberater (m/w/d)\n Mehrjährige Berufserfahrung in einer Steuerberatungskanzlei\n Fundierte Kenntnisse im Steuerrecht und betriebswirtschaftlichen Themen\n Sicherer Umgang mit DATEV und…",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358148008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\n We're hiring our first dedicated international tax professional in Asia-Pacific, based in Singapore. You'll be a key member of Anthropic's tax team, reporting to our Head of International Tax Operations / Business Advisory and working closely with tax colleagues in Dublin and our San Francisco headquarters.\n As APAC Tax Lead, you'll own direct tax compliance and advisory across our Asia-Pacific entities and operations (Japan, Korea, India, Singapore, Australia, Taiwan) and help build tax infrastructure to support Anthropic's rapid international expansion.\n Key responsibilities\n Lead APAC direct tax compliance, working with external advisors (KPMG, PwC, Deloitte) to ensure timely and accurate filings across all jurisdictions\n Support transfer pricing documentation and intercompany transactions for APAC entities, including cost-plus arrangements and intercompany service agreements\n Manage withholding tax positions and treaty relief on cross-border flows, including customer receipts and vendor payments\n Advise on permanent establishment risks, entity structuring, and operational tax considerations as Anthropic expands APAC commercial and infrastructure activities\n Support the tax side of regional infrastructure expansion, including data center, colocation, and subsea cable arrangements and new entity formations\n Partner with indirect tax personnel on VAT/GST and consumption tax matters to align on tax strategy and overall compliance requirements\n Partner with Finance, Legal, and People teams on payroll taxes, equity compensation, and employee mobility matters\n Build relationships with local tax authorities and manage a…",
     "tags": [
       "Finance"
     ],
-    "postedAt": "2026-08-11T11:00:57.000Z",
-    "scrapedAt": "2026-08-11T12:55:47.394Z"
-  },
-  {
-    "id": "arbeitnow:werkstudent-finance-tax-everyone-is-welcome-berlin-331151",
-    "externalId": "werkstudent-finance-tax-everyone-is-welcome-berlin-331151",
-    "source": "arbeitnow",
-    "title": "Werkstudent Finance Tax (everyone is welcome)",
-    "company": "Sirius Facilities GmbH",
-    "location": "Berlin",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/sirius-facilities-gmbh/werkstudent-finance-tax-everyone-is-welcome-berlin-331151",
-    "description": "Deine Aufgaben\n Unterstützung im operativen Tagesgeschäft der Finanzabteilung (Tax)\n Vorbereitung von Excel-Übersichten\n Mitwirkung bei der Erstellung von Körperschaftsteuer- und\n Umsatzsteuerjahreserklärungen\n Prüfung von Steuerbescheiden\n Mitarbeit bei steuerlichen Projekten\n Dein Profil\n Student der Betriebswirtschaftslehre oder eines vergleichbaren Studiengangs\n Du interessierst Dich für Zahlen und verfügst möglicherweise bereits über erste Kenntnisse im Bereich Steuern\n Ausgeprägtes Zahlenverständnis und gute analytische Fähigkeiten\n Sehr gute MS Office Kenntnisse, insbesondere in Excel\n Sorgfältige und gewissenhafte Arbeitsweise\n Hohes Maß an Eigeninitiative, Neugier und Engagement sowie Teamfähigkeit und Sozialkompetenz\n Was wir Dir bieten\n Ein attraktives Gehalt sowie flexible Arbeitszeiten\n Mitarbeiterrabatte\n Du-Kultur auf allen Ebenen\n Hoher Gestaltungsspielraum, ein wertschätzendes Arbeitsklima und eine offene Unternehmenskultur\n Attraktive Entwicklungsmöglichkeit in einem modernen, zukunftsorientierten Unternehmen\n Interne Weiterbildungsmöglichkeiten (Sirius Academy)\n Gesundheitsmanagement und Sportangebote\n Team- &#x26; Company-Events\n Find more English Speaking Jobs in Germany on Arbeitnow",
-    "tags": [
-      "Finance",
-      "Working student",
-      "berufseinstieg"
-    ],
-    "jobType": "Working student",
-    "postedAt": "2026-08-11T11:00:56.000Z",
-    "scrapedAt": "2026-08-11T12:55:47.394Z"
+    "postedAt": "2026-08-11T15:02:55.000Z",
+    "scrapedAt": "2026-08-11T15:57:21.821Z"
   }
 ]
