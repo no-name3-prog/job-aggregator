@@ -1,7 +1,7 @@
 {
-  "lastRunAt": "2026-08-11T15:58:10.587Z",
-  "durationMs": 49723,
-  "totalJobs": 3295,
+  "lastRunAt": "2026-08-11T18:57:43.056Z",
+  "durationMs": 66621,
+  "totalJobs": 3117,
   "sources": [
     {
       "source": "remotive",
@@ -10,8 +10,9 @@
     },
     {
       "source": "arbeitnow",
-      "fetched": 175,
-      "kept": 175
+      "fetched": 0,
+      "kept": 0,
+      "error": "(j.job_types ?? []) is not iterable"
     },
     {
       "source": "jobicy",
@@ -25,8 +26,8 @@
     },
     {
       "source": "greenhouse",
-      "fetched": 2022,
-      "kept": 2022
+      "fetched": 2019,
+      "kept": 2019
     },
     {
       "source": "workday",
