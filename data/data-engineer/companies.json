@@ -30,6 +30,33 @@
     ]
   },
   {
+    "company": "Workday",
+    "jobCount": 6,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "IND.Pune",
+      "Ireland, Dublin",
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer",
+      "Principal Cybersecurity Data Engineer",
+      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
+      "Senior Cybersecurity Data Engineer - AI/ML SME",
+      "Data Platform Engineer - Cybersecurity",
+      "Principal Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Senior-Data-Engineer_JR-0108822-1",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Cybersecurity-Data-Engineer_JR-0108815",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---AI-ML-SME_JR-0107814",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
+    ]
+  },
+  {
     "company": "Adobe",
     "jobCount": 5,
     "sources": [
@@ -81,32 +108,6 @@
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
-    ]
-  },
-  {
-    "company": "Workday",
-    "jobCount": 5,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "IND.Pune",
-      "Ireland, Dublin",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Principal Cybersecurity Data Engineer",
-      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
-      "Data Platform Engineer - Cybersecurity",
-      "Principal Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Senior-Data-Engineer_JR-0108822-1",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Cybersecurity-Data-Engineer_JR-0108815",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Principal-Analytics-Engineer_JR-0107883"
     ]
   },
   {
@@ -449,6 +450,22 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=7548037"
+    ]
+  },
+  {
+    "company": "Vinteden",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin"
+    ],
+    "sampleTitles": [
+      "Area Lead Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/vinteden/area-lead-analytics-engineer-berlin-433776"
     ]
   }
 ]
