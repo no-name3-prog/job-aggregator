@@ -1,5 +1,40 @@
 [
   {
+    "id": "greenhouse:instacart-8126023",
+    "externalId": "instacart:8126023",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer II, Finance",
+    "company": "Instacart",
+    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+    "remote": true,
+    "url": "https://instacart.careers/job/?gh_jid=8126023",
+    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-08-12T16:58:43.000Z",
+    "scrapedAt": "2026-08-12T18:57:56.810Z"
+  },
+  {
+    "id": "jobicy:150584",
+    "externalId": "150584",
+    "source": "jobicy",
+    "title": "Data Engineer (Marketing Systems)",
+    "company": "Ruby Labs",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/0799a7b7-221-1.jpeg",
+    "location": "Europe",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/150584-data-engineer-marketing-systems",
+    "description": "About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://rubylabs.com/about-us/\n About the role We are looking for a Data Engineer who can own and deliver across data engineering tasks, integrations, and marketing systems. This is not a junior learning role: we need someone who can quickly understand production systems, solve problems independently, and ship reliable work.\n The core technical base is Python, SQL, and Bash . Experience with Google Tag Manager, pixel/conversion setup, and JavaScript is required. Airbyte and Airflow are nice to have, but not mandatory.\n Requirements Strong Python, SQL, and Bash skills\n Experience with Google Tag Manager, pixels, conversion setup, and JavaScript\n Experience with Google Ads, Meta Ads, Bing Ads\n Engineering mindset and ability to work with production data systems\n Basic understanding of BigQuery, ClickHouse, dbt, and documentation practices\n Airbyte or similar ingestion tool experience is nice to have\n Basic Airflow familiarity is nice to have\n Strong problem-solving skills and attention to detail\n Everyday Tasks Support and improve integrations in Airbyte and Airflow\n Work with GTM, marketing data sources, tracking, pixels, and conversion workflows\n Help move and transform data across BigQuery, GCS, Pub/Sub, ClickHouse, and external systems\n Troubleshoot pipeline, tracking, payment, and data quality issues\n Support payment orchestration data flows, including subscriptions and payment processing\n Work with different systems in combination and document how data flows between them\n Collaborate cross-functionally with Data, Marketing, Product, Engineering, and Billing teams\n Growth Areas You will develop across…",
+    "tags": [
+      "Data Science &amp; Analytics",
+      "Midweight"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-08-12T14:19:40.000Z",
+    "scrapedAt": "2026-08-12T18:57:55.915Z"
+  },
+  {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
     "externalId": "linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
     "source": "ashby",
@@ -16,7 +51,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-12T16:00:12.867Z"
+    "scrapedAt": "2026-08-12T19:01:19.272Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -32,7 +67,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-12T15:56:39.478Z"
+    "scrapedAt": "2026-08-12T18:57:56.810Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -48,7 +83,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-12T15:56:39.478Z"
+    "scrapedAt": "2026-08-12T18:57:56.810Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -64,7 +99,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-12T15:56:39.478Z"
+    "scrapedAt": "2026-08-12T18:57:56.810Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -80,7 +115,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-08-12T15:56:39.478Z"
+    "scrapedAt": "2026-08-12T18:57:56.810Z"
   },
   {
     "id": "greenhouse:discord-8614971002",
@@ -96,7 +131,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-12T15:56:39.478Z"
+    "scrapedAt": "2026-08-12T18:57:56.810Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -112,7 +147,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-08-12T15:56:39.478Z"
+    "scrapedAt": "2026-08-12T18:57:56.810Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -132,38 +167,6 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-08-12T16:00:11.959Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8082199",
-    "externalId": "coinbase:8082199",
-    "source": "greenhouse",
-    "title": "Senior Software Engineer, Data Engineering Platform",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n The Data Platform team builds and operates the systems that centralize all of Coinbase's internal and third-party data, making it easy for teams across the company to access, process, and transform that data for analytics, machine learning, and powering end-user experiences. As an engineer on the team you'll contribute across the full spectrum of our systems, from foundational processing and storage to scalable pipelines to the frameworks, tools, and internal applications that make data easily and efficiently available.\n We have a number of open roles within the Data Platform team, each with a different focus area; read on to see if you'll be a good fit as a Data Engineering Platform Engineer.\n This role sits between our platform and the analysts, data scientists, and data engineers who use it every day. You'll build the SDKs, self-service apps, and abstractions that let thousands of pipelines and analyses run without those users needing to understand the plumbing underneath.\n What you'll do:\n Build clean software abstractions and modular, reusable components that let us support thousands of pipelines and beyond as we scale.\n Build and maintain data integration and processing SDKs used by data teams and internal services across Coinbase.\n Design and build self-service applications that let analysts and data scientists create, manage, and troubleshoot their own pipelines withou…",
-    "tags": [
-      "Engineering - Backend"
-    ],
-    "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-08-12T15:56:39.478Z"
-  },
-  {
-    "id": "greenhouse:cloudflare-8055118",
-    "externalId": "cloudflare:8055118",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer",
-    "company": "Cloudflare",
-    "location": "In-Office",
-    "remote": false,
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118",
-    "description": "About Us\n At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.\n At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.\n Location: Austin (Hybrid)\n About Us\n At Cloudflare, we have our eyes set on an ambitious goal: to help build a better Internet. Today the company runs one of the world’s largest networks that powers trillions of requests per month. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare have all web traffic routed through i…",
-    "tags": [
-      "Engineering"
-    ],
-    "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-08-12T15:56:39.478Z"
+    "scrapedAt": "2026-08-12T19:01:18.791Z"
   }
 ]

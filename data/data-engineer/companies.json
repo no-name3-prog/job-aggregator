@@ -85,32 +85,6 @@
     ]
   },
   {
-    "company": "Salesforce",
-    "jobCount": 5,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "3 Locations",
-      "2 Locations",
-      "Mexico - Mexico City"
-    ],
-    "sampleTitles": [
-      "Data Engineer - Senior/Lead",
-      "Principal Data Engineer",
-      "Data Engineer Senior",
-      "Senior Data Engineer",
-      "PMTS - Principal Agentic Data Engineer"
-    ],
-    "officialUrls": [
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Data-Engineer---Senior-Lead_JR355459-1",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Data-Engineer_JR352975",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
-    ]
-  },
-  {
     "company": "Coinbase",
     "jobCount": 4,
     "sources": [
@@ -130,6 +104,29 @@
       "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
       "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
       "https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "jobCount": 4,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "2 Locations",
+      "Mexico - Mexico City"
+    ],
+    "sampleTitles": [
+      "Principal Data Engineer",
+      "Data Engineer Senior",
+      "Senior Data Engineer",
+      "PMTS - Principal Agentic Data Engineer"
+    ],
+    "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Data-Engineer_JR352975",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
     ]
   },
   {
@@ -196,26 +193,6 @@
     ]
   },
   {
-    "company": "Red Hat",
-    "jobCount": 3,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Raleigh"
-    ],
-    "sampleTitles": [
-      "Principal Data Engineer / Financial Analyst",
-      "Senior Data Engineer",
-      "Principal Data Engineer"
-    ],
-    "officialUrls": [
-      "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Principal-Data-Engineer---Financial-Analyst_R-058577-1",
-      "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Senior-Data-Engineer_R-058752",
-      "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Principal-Data-Engineer_R-058408"
-    ]
-  },
-  {
     "company": "Brex",
     "jobCount": 2,
     "sources": [
@@ -269,6 +246,24 @@
     "officialUrls": [
       "https://jobs.dropbox.com/listing/8090065?gh_jid=8090065",
       "https://jobs.dropbox.com/listing/8090062?gh_jid=8090062"
+    ]
+  },
+  {
+    "company": "Red Hat",
+    "jobCount": 2,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Raleigh"
+    ],
+    "sampleTitles": [
+      "Principal Data Engineer / Financial Analyst",
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Principal-Data-Engineer---Financial-Analyst_R-058577-1",
+      "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Senior-Data-Engineer_R-058752"
     ]
   },
   {
@@ -355,6 +350,22 @@
     ]
   },
   {
+    "company": "Instacart",
+    "jobCount": 1,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "Canada - Remote (ON, AB, BC, or NS Only)"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer II, Finance"
+    ],
+    "officialUrls": [
+      "https://instacart.careers/job/?gh_jid=8126023"
+    ]
+  },
+  {
     "company": "Linear",
     "jobCount": 1,
     "sources": [
@@ -400,6 +411,22 @@
     ],
     "officialUrls": [
       "https://boards.greenhouse.io/robinhood/jobs/4738660?t=gh_src=&gh_jid=4738660"
+    ]
+  },
+  {
+    "company": "Ruby Labs",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "Europe"
+    ],
+    "sampleTitles": [
+      "Data Engineer (Marketing Systems)"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/150584-data-engineer-marketing-systems"
     ]
   },
   {
