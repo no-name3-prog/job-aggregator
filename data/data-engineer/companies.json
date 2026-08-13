@@ -30,33 +30,6 @@
     ]
   },
   {
-    "company": "Workday",
-    "jobCount": 6,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "IND.Pune",
-      "Ireland, Dublin",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Principal Cybersecurity Data Engineer",
-      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
-      "Senior Cybersecurity Data Engineer - AI/ML SME",
-      "Data Platform Engineer - Cybersecurity",
-      "Principal Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Senior-Data-Engineer_JR-0108822-1",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Cybersecurity-Data-Engineer_JR-0108815",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---AI-ML-SME_JR-0107814",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
-    ]
-  },
-  {
     "company": "Adobe",
     "jobCount": 5,
     "sources": [
@@ -82,6 +55,31 @@
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Engineer_R170680-1",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
+    ]
+  },
+  {
+    "company": "Workday",
+    "jobCount": 5,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Ireland, Dublin",
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Principal Cybersecurity Data Engineer",
+      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
+      "Senior Cybersecurity Data Engineer - AI/ML SME",
+      "Data Platform Engineer - Cybersecurity",
+      "Principal Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Cybersecurity-Data-Engineer_JR-0108815",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---AI-ML-SME_JR-0107814",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Principal-Analytics-Engineer_JR-0107883"
     ]
   },
   {
@@ -190,6 +188,24 @@
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer--Engineering-Data-Analytics_JR2020545",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Interconnect-Product-Data-Engineer_JR2021975",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Security-Data-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2019415"
+    ]
+  },
+  {
+    "company": "1Komma5Grad",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Remote"
+    ],
+    "sampleTitles": [
+      "(Senior) Analytics Engineer (m/f/d)",
+      "(Junior) Data Engineer - Data Platform (m/f/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-analytics-engineer-166034",
+      "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-472883"
     ]
   },
   {
@@ -427,6 +443,22 @@
     ],
     "officialUrls": [
       "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002"
+    ]
+  },
+  {
+    "company": "Mubi",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Lead Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/mubi/lead-analytics-engineer-london-386437"
     ]
   },
   {
