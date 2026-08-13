@@ -1,82 +1,85 @@
 [
   {
-    "id": "greenhouse:gitlab-8696826002",
-    "externalId": "gitlab:8696826002",
+    "id": "greenhouse:airbnb-8125981",
+    "externalId": "airbnb:8125981",
     "source": "greenhouse",
-    "title": "Director of Engineering, Organizations & Cells",
-    "company": "GitLab",
-    "location": "Bangalore, India",
+    "title": "Lead, Advanced Analytics, Community Support",
+    "company": "Airbnb",
+    "location": "United States",
     "remote": false,
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8696826002",
-    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.\n The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software.\n * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.\n Overview of the Role\n GitLab.com is being rebuilt as a horizontally scalable cluster. Two primitives make that possible: Organizations , the tenant boundary that makes a customer's data a single addressable, portable unit, and Cells , independent GitLab instances that host those Organizations and can be provisioned on demand across clouds and regions.\n The target is a 100x increase in headroom for GitLab.com, delivered without customers ever seeing a cell. Same domain, same URLs, same product — a substrate underneath that scales by adding capacity rather than by negotiating with a single database.\n The boundary we are building is…",
+    "url": "https://careers.airbnb.com/positions/8125981?gh_jid=8125981",
+    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n The Community You Will Join:\n We are looking for an Advanced Analytics Lead to help Airbnb enable travel for our millions of guests and hosts on our platform. This role will sit under the Advanced Analytics family and support Product and Business leaders within our CS organization.\n The Difference You Will Make:\n Data thought partner to product and business leaders across teams through providing insights, recommendations, and enabling data informed decisions\n Drive day to day analytics and create scalable data tools\n Identify pain points in customer support operations and work with product leadership to improve experiences for our guest, host and agent community\n In addition, you will leverage Airbnb’s rich and unique data, state-of-art machine learning infrastructure, and other central data science tools to build and grow the measurement capacity within the organization. You will also be deeply involved in the technical details of the various systems we build, and will have the opportunity to collaborate with a strong team of engineers, product managers, designers and operations agents to achieve shared, cross-functional goals to help keep Airbnb’s community safe and trusted.\n You are passionate about solving complex problems within the Community support domain with data & insights; adding a new perspective to existing solutions and making business decisions based on careful and thoughtful analysis\n You are highly proficient in building and analyzing analytical frameworks, statistical models and experimentation methods to establish and communicate causal relationships\n You are a storyteller who uses complex…",
     "tags": [
-      "Architecture Engineering"
+      "Analytics"
     ],
-    "postedAt": "2026-08-13T18:57:47.000Z",
-    "scrapedAt": "2026-08-13T18:57:55.603Z"
+    "postedAt": "2026-08-13T21:23:22.000Z",
+    "scrapedAt": "2026-08-13T21:40:09.166Z"
   },
   {
-    "id": "greenhouse:duolingo-8707700002",
-    "externalId": "duolingo:8707700002",
-    "source": "greenhouse",
-    "title": "Talent Attraction Partner",
-    "company": "Duolingo",
-    "location": "New York, NY",
-    "remote": false,
-    "url": "https://careers.duolingo.com/jobs/8707700002?gh_jid=8707700002",
-    "description": "Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!\n At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.\n Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.\n Read our blog to learn more.\n About the role...\n We’re looking for a Talent Attraction Partner to partner closely with our industry-leading recruiting team, driving both outbound and referral talent efforts. In this role, you’ll be on the front lines of identifying, engaging, and inspiring top engineering talent to join our mission.\n 🧠 You will...\n Partner with Recruiters and Hiring Managers to develop and implement tailored sourcing strategies for high-volume technical roles, with a key focus on mobile and software engineering.\n Proactively build and maintain a strong pipeline of top-tier technical talent using a mix of outbound sourcing and CRM re-engagement\n Attend intake meetings to deeply understand each role’s requirements\n Conduct recruiter screens to evaluate technical alignment and share calibrated recommendations with the hiring manager.\n Own the creation of market maps and talent intelligence reports that provide total addressable market (TAM) insights, inform sourcing strategies, and help prioritize pipeline efforts.\n Run A/B tests on outreach strategies and continuously iterate to improve candidate funnel performance.\n Balance speed and precision, reaching out to volume at scale without sacrificing personalization or quality of engagement.\n ✅ You have...\n A Bachelor’s degree\n 2+ years of sourcing experience with a focus on quality high-volume outbound support f…",
-    "tags": [
-      "Talent Acquisition"
-    ],
-    "postedAt": "2026-08-13T18:50:13.000Z",
-    "scrapedAt": "2026-08-13T18:57:55.603Z"
-  },
-  {
-    "id": "greenhouse:affirm-7849659003",
-    "externalId": "affirm:7849659003",
-    "source": "greenhouse",
-    "title": "Lead, Technical Account Management (Travel, New Markets)",
-    "company": "Affirm",
-    "location": "Remote Canada",
+    "id": "ashby:ramp-2c101be9-f4b8-4a63-a634-9798d9a09eaa",
+    "externalId": "ramp:2c101be9-f4b8-4a63-a634-9798d9a09eaa",
+    "source": "ashby",
+    "title": "Director, Brand Operations",
+    "company": "Ramp",
+    "location": "New York, NY (HQ)",
     "remote": true,
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7849659003",
-    "description": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.\n In this role you will lead a team of our world class Technical Account Managers (TAMs), representing and supporting our SMB merchants. As the manager, you will oversee a talented team of TAMs who are responsible for the technical success of our SMB merchants post-sale. You will support and guide your team towards best practice solutions as they advise merchant developers, product teams, and key business partners throughout the entire lifecycle, from initial product integration through expansion and scale. This team is tasked with not only guiding their merchants to avoid pitfalls, but to take advantage of more of Affirm’s offerings; solving business objectives with technical strategies and product optimizations. Technical Account Managers are a part of the Engineering Team and work closely with Affirm’s Client Success, Product Management, Operations, and Merchant Care teams.\n What you'll do\n Coach, mentor and develop an awesome group of experienced TAMs who support our SMB merchants.\n Work closely with our Client Success counterparts to help our network of merchants grow, by not only enabling an efficient time to market, but also by taking better advantage of Affirm’s expanding product suite post launch\n Establish and track team OKRs and goals, establishing proactive action plans for meeting goals when needed\n Forecast the demand for TAMs and recruit as necessary\n Technically, you will evaluate new hires on their technical capabilities, handle escalations from your own team, provide guidance to the TAMs on integration solutions, troubleshooting and optimization opportunities, and be seen as an expert by our customers\n Be a strong internal advocate for our merchants, working cross functionally to make sure their highest priorities are being met\n What we look for\n At least five years in a b2b cus…",
+    "url": "https://jobs.ashbyhq.com/ramp/2c101be9-f4b8-4a63-a634-9798d9a09eaa",
+    "description": "ABOUT RAMP\n\nRamp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.\n\nThe problems are high-stakes, data-dense, and unforgiving.\n\nWe hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome.\n\nThe median Ramp customer saves 5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.\n\nIf you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it.\n\n\n\n\nABOUT THE ROLE\n\nRamp's Brand team ships a high volume of ambitious creative across product launches, growth, events, customer marketing, and brand awareness. As the work has scaled, so has the need for a strong operating system around it.\n\nWe're hiring a Director of Brand Operations to build that operating system: the processes, milestones, and cross-functional coordination that let a world-class creative team do its best work and ship fast. This is an operations role focused on how the work gets done; it is not a traditional production-management role.\n\nYou'll be the operator who protects creatives from organizational swirl, sets clear ways of working, and fixes cross-functional breakdowns upstream so great ideas reach the world quickly.\n\n\n\n\nWHAT YOU’LL DO\n\n - Own and build the operating system for how Brand's creative gets produced.\n\n - Build the brand operating system: the processes, milestones, and ways of working that turn creative direction into shipped work.\n\n - Diagnose and fix bottlenecks across functions. Find where work stalls,…",
     "tags": [
-      "Infrastructure Platform Eng"
+      "Design",
+      "Design",
+      "Hybrid"
     ],
-    "postedAt": "2026-08-13T18:41:58.000Z",
-    "scrapedAt": "2026-08-13T18:57:55.603Z"
+    "jobType": "FullTime",
+    "postedAt": "2026-08-13T20:39:51.629Z",
+    "scrapedAt": "2026-08-13T21:41:06.232Z"
   },
   {
-    "id": "greenhouse:affirm-7849657003",
-    "externalId": "affirm:7849657003",
+    "id": "greenhouse:robinhood-8044263",
+    "externalId": "robinhood:8044263",
     "source": "greenhouse",
-    "title": "Lead, Technical Account Management (Travel, New Markets)",
-    "company": "Affirm",
-    "location": "Remote US",
-    "remote": true,
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7849657003",
-    "description": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.\n In this role you will lead a team of our world class Technical Account Managers (TAMs), representing and supporting our SMB merchants. As the manager, you will oversee a talented team of TAMs who are responsible for the technical success of our SMB merchants post-sale. You will support and guide your team towards best practice solutions as they advise merchant developers, product teams, and key business partners throughout the entire lifecycle, from initial product integration through expansion and scale. This team is tasked with not only guiding their merchants to avoid pitfalls, but to take advantage of more of Affirm’s offerings; solving business objectives with technical strategies and product optimizations. Technical Account Managers are a part of the Engineering Team and work closely with Affirm’s Client Success, Product Management, Operations, and Merchant Care teams.\n What you'll do\n Coach, mentor and develop an awesome group of experienced TAMs who support our SMB merchants.\n Work closely with our Client Success counterparts to help our network of merchants grow, by not only enabling an efficient time to market, but also by taking better advantage of Affirm’s expanding product suite post launch\n Establish and track team OKRs and goals, establishing proactive action plans for meeting goals when needed\n Forecast the demand for TAMs and recruit as necessary\n Technically, you will evaluate new hires on their technical capabilities, handle escalations from your own team, provide guidance to the TAMs on integration solutions, troubleshooting and optimization opportunities, and be seen as an expert by our customers\n Be a strong internal advocate for our merchants, working cross functionally to make sure their highest priorities are being met\n What we look for\n At least five years in a b2b cus…",
-    "tags": [
-      "Infrastructure Platform Eng"
-    ],
-    "postedAt": "2026-08-13T18:41:57.000Z",
-    "scrapedAt": "2026-08-13T18:57:55.603Z"
-  },
-  {
-    "id": "greenhouse:robinhood-8128629",
-    "externalId": "robinhood:8128629",
-    "source": "greenhouse",
-    "title": "Business Development Desk Manager",
+    "title": "Customer Experience Representative, Social",
     "company": "Robinhood",
-    "location": "Denver, CO; Westlake, TX",
+    "location": "Denver, CO",
     "remote": false,
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8128629?t=gh_src=&gh_jid=8128629",
-    "description": "Join us in building the future of finance.\n Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.\n About the team + role\n The Business Development Desk is a proactive outbound sales team responsible for general asset gathering and migrating customers into our Concierge program through consolidation of assets. This team serves as brand ambassadors, education and creating awareness of all the available products and solutions available that would help the customer reach their financial goals. The team works closely with all of our customer facing teams to ensure a truly white glove/Concierge experience through the onboarding process. In this role, you will lead a team responsible for growing assets and expanding customer relationships here at Robinhood..\n As a Manager of Business Development, you will lead, coach, and develop a team of Onboarding Specialists who support customers throughout their onboarding journey while also exploring any additional opportunities to consolidate/win more share of wallet. You will oversee and enhance sales pipelines, review opportunities worked for Compliance and Oversight and coaching to overall sales process and customer experience.\n You will be responsible for driving team strategy, establishing operating efficiency, and driving asset growth through pipeline management and ongoing coaching and development of sales agents. In addition to developing your team, you will partner closely with product, compliance, legal, and external service providers to evolve the Business Development Desk offering, expand pipelines of opportunities and ensure all customer interactions meet all regulatory standards including RegBI and telemarketing compliance.\n This is a highly cross-functional leadership role whe…",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8044263?t=gh_src=&gh_jid=8044263",
+    "description": "Join us in building the future of finance.\n Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.\n About the team + role\n Robinhood’s Customer Experience team plays a critical role in Democratizing Finance for All! We are expanding our core customer experience team adding new executive office and social representatives. These team members play a critical role in the customer experience supporting escalated and high visibility cases.\n As a Customer Experience Escalations Specialist, you will investigate and resolve sensitive customer cases that require advanced problem-solving, sound judgment, and strong communication. You’ll collaborate with cross-functional partners to ensure timely resolution of complex issues while protecting the customer experience and the Robinhood brand.\n Within this role, Social representatives focus on high-visibility customer cases surfaced through public platforms, helping ensure timely resolution and thoughtful engagement for issues impacting our brand in public forums. We partner closely with support, operations, compliance, and leadership teams to deliver thoughtful resolutions while upholding the highest standards of trust, accountability, and service excellence.\n Schedule & Work Environment\n This role is based in our Denver, CO or Westlake, TX office and requires 100% in-office attendance.\n The team operates seven days a week from 7:00 a.m. to 10:00 p.m. ET. Employees will work either five 8-hour shifts or four 10-hour shifts per week, depending on business needs. Specific schedules will be determined after hire.\n At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and desi…",
     "tags": [
       "Customer Care"
     ],
-    "postedAt": "2026-08-13T18:29:37.000Z",
-    "scrapedAt": "2026-08-13T18:57:55.603Z"
+    "postedAt": "2026-08-13T20:08:25.000Z",
+    "scrapedAt": "2026-08-13T21:40:09.166Z"
+  },
+  {
+    "id": "greenhouse:gitlab-8687926002",
+    "externalId": "gitlab:8687926002",
+    "source": "greenhouse",
+    "title": "Backend Engineer, Source Code Experience (Ruby)",
+    "company": "GitLab",
+    "location": "Remote, Canada",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687926002",
+    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.\n The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software.\n * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.\n An overview of this role\n We're looking for a Backend Engineer to join our Source Code Experience team within GitLab's Create stage. You'll help make everyday source code workflows clear, reliable, and efficient for people working across GitLab projects. As artificial intelligence agents increasingly write and manage code alongside people, you'll build backend capabilities and interfaces that support trustworthy collaboration between people and agents.\n You'll work in one of GitLab's oldest and most complex product areas, using Ruby and GraphQL to improve critical source code experiences across GitLab.com, self-managed instances,…",
+    "tags": [
+      "DevOps Engineering"
+    ],
+    "postedAt": "2026-08-13T19:59:22.000Z",
+    "scrapedAt": "2026-08-13T21:40:09.166Z"
+  },
+  {
+    "id": "greenhouse:gitlab-8687932002",
+    "externalId": "gitlab:8687932002",
+    "source": "greenhouse",
+    "title": "Backend Engineer, Create: Repository Management (Ruby)",
+    "company": "GitLab",
+    "location": "Remote, United Kingdom",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687932002",
+    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.\n The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software.\n * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.\n An overview of this role\n We're looking for a Backend Engineer to join our Repository Management team within GitLab's Source Code stage. You'll help customers configure repositories with confidence so their GitLab projects support the way their teams work. As artificial intelligence agents increasingly write and manage code alongside people, you'll build guardrails that make development safe and trustworthy. You'll turn complex policy and repository management needs into reliable backend solutions that support people and the agents working on their behalf.\n You'll work in one of GitLab's oldest and most complex product areas, usin…",
+    "tags": [
+      "DevOps Engineering"
+    ],
+    "postedAt": "2026-08-13T19:43:32.000Z",
+    "scrapedAt": "2026-08-13T21:40:09.166Z"
   }
 ]
