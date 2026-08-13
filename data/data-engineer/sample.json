@@ -1,5 +1,51 @@
 [
   {
+    "id": "arbeitnow:professor-of-data-engineering-potsdam-273800",
+    "externalId": "professor-of-data-engineering-potsdam-273800",
+    "source": "arbeitnow",
+    "title": "Professor (m/f/d) of Data Engineering",
+    "company": "Global University Systems GmbH",
+    "location": "Potsdam",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/global-university-systems-gmbh/professor-of-data-engineering-potsdam-273800",
+    "description": "Find Jobs in Germany on Arbeitnow",
+    "tags": [
+      "Experienced",
+      "Fixed term",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-08-13T02:09:17.000Z",
+    "scrapedAt": "2026-08-13T04:48:50.952Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-liveeo-gmbh-berlin-office-hybrid-64519",
+    "externalId": "data-engineer-liveeo-gmbh-berlin-office-hybrid-64519",
+    "source": "arbeitnow",
+    "title": "Data Engineer (f/m/x)",
+    "company": "Liveeo Gmbh",
+    "location": "LiveEO GmbH Berlin Office (Hybrid)",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/data-engineer-liveeo-gmbh-berlin-office-hybrid-64519",
+    "description": "Find Jobs in Germany on Arbeitnow",
+    "tags": [
+      "dataengineer",
+      "startup",
+      "surfacescout",
+      "python",
+      "rasterio",
+      "geopandas",
+      "prefect",
+      "postgis",
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-08-12T20:09:39.000Z",
+    "scrapedAt": "2026-08-13T04:48:50.952Z"
+  },
+  {
     "id": "greenhouse:instacart-8126023",
     "externalId": "instacart:8126023",
     "source": "greenhouse",
@@ -13,7 +59,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-13T01:40:20.053Z"
+    "scrapedAt": "2026-08-13T04:48:52.343Z"
   },
   {
     "id": "jobicy:150584",
@@ -32,7 +78,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-08-12T14:19:40.000Z",
-    "scrapedAt": "2026-08-13T01:40:19.699Z"
+    "scrapedAt": "2026-08-13T04:48:51.808Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -51,7 +97,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-13T01:43:32.818Z"
+    "scrapedAt": "2026-08-13T04:52:05.050Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -67,7 +113,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-13T01:40:20.053Z"
+    "scrapedAt": "2026-08-13T04:48:52.343Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -83,7 +129,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-13T01:40:20.053Z"
+    "scrapedAt": "2026-08-13T04:48:52.343Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -99,7 +145,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-13T01:40:20.053Z"
+    "scrapedAt": "2026-08-13T04:48:52.343Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -115,7 +161,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-08-13T01:40:20.053Z"
+    "scrapedAt": "2026-08-13T04:48:52.343Z"
   },
   {
     "id": "greenhouse:discord-8614971002",
@@ -131,42 +177,6 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-13T01:40:20.053Z"
-  },
-  {
-    "id": "greenhouse:dropbox-8090062",
-    "externalId": "dropbox:8090062",
-    "source": "greenhouse",
-    "title": "Senior Manager, Data Engineering",
-    "company": "Dropbox",
-    "location": "Remote - US: Select locations",
-    "remote": true,
-    "url": "https://jobs.dropbox.com/listing/8090062?gh_jid=8090062",
-    "description": "Role Description\n We are seeking a Senior Manager, Data Engineering to lead the team responsible for the reliability, quality, cost, and velocity of Dropbox's core data platform. This is a hands-on engineering leader who owns the pipelines and data products that Product, GTM, Finance, and the CTO organization depend on to make decisions.\n In this role, you will lead and grow a team of data engineers building and operating our ingestion, transformation, orchestration, and serving layers, as well as the self-serve analytics substrate that lets partner teams answer their own questions without bespoke engineering work.\n The ideal candidate is a deeply technical, product-minded engineering leader who can hold a high bar on system reliability and data quality while partnering closely with Data Science, Business Intelligence Engineering, Analytics, and Product to turn fragmented, ticket-driven data work into durable, reusable data products.\n Responsibilities\n Data Quality & Observability: Establish and enforce a rigorous data quality culture: lineage, freshness monitoring, anomaly detection, and outcome-oriented, gaming-resistant quality metrics.\n Self-Serve Platform: Lead the engineering of the self-serve analytics substrate, reducing bespoke request volume and increasing partner-team autonomy.\n Cost & Efficiency: Own the unit economics of the data platform — compute and storage efficiency — and drive measurable improvements without sacrificing reliability.\n Cross-Functional Partnership: Partner deeply with Data Science, BIE, Analytics, Product, Data Platform, and the CTO org to define the semantic layer, modeling standards, and data contracts that make downstream work trustworthy and fast.\n Engineering Culture: Establish rigorous engineering practices — code review, testing, CI/CD for data, incident response, and postmortems — and champion the effective, measured use of AI coding tools to improve engineering productivity.\n Team Leadership: Lead, mentor, and grow a high-…",
-    "tags": [
-      "CTO-Data Science, AI Platform & Eng (Sub Team)"
-    ],
-    "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-08-13T01:40:20.053Z"
-  },
-  {
-    "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
-    "externalId": "spotify:ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
-    "source": "lever",
-    "title": "Staff Data Engineer — Subscriptions User Understanding",
-    "company": "Spotify",
-    "location": "London",
-    "remote": true,
-    "url": "https://jobs.lever.co/spotify/ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
-    "description": "Spotify is on an ambitious path to reach one billion users and $100 billion in revenue, and the Subscriptions User Understanding team plays a key role in making that possible.\n Our team builds the foundational data platform that helps Spotify understand conversion, retention, engagement, and subscriber health for more than 200 million Premium subscribers around the world. We enable better decisions across analytics, experimentation, machine learning, and product development.\n We're looking for a Staff Data Engineer who combines deep technical expertise with strategic thinking. You'll help define the long-term direction of our data ecosystem, influence engineering across multiple teams, and build the foundations that will scale with Spotify's future.",
-    "tags": [
-      "Subscriptions R&D",
-      "Engineering",
-      "Permanent",
-      "remote"
-    ],
-    "jobType": "Permanent",
-    "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-08-13T01:43:31.575Z"
+    "scrapedAt": "2026-08-13T04:48:52.343Z"
   }
 ]
