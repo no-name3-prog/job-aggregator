@@ -1,5 +1,41 @@
 [
   {
+    "id": "arbeitnow:senior-analytics-engineer-uk-252033",
+    "externalId": "senior-analytics-engineer-uk-252033",
+    "source": "arbeitnow",
+    "title": "Senior Analytics Engineer",
+    "company": "Paddle",
+    "location": "UK",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/paddle/senior-analytics-engineer-uk-252033",
+    "description": "What do we do?\n Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payment fragmentation. It’s faster, safer, cheaper, and, above all, way better.\n We’re backed by investors including KKR, FTV Capital, Kindred, Notion, and 83North and serve over 6000 software sellers in 245 territories globally.\n The Role:\n We are seeking a Senior Analytics Engineer to drive significant business impact by shaping our data infrastructure, developing robust data models, and promoting best practices in analytics engineering (e.g., data quality, documentation, and scalable data architectures). You will collaborate closely with business stakeholders to identify and deliver high-value data solutions and provide informal mentorship to junior team members, fostering their growth and enhancing team capabilities.\n What you'll do:\n Create and maintain complex, scalable data models in Snowflake using dbt.\n Expose datasets effectively in BI tooling to enable robust self-service analytics.\n Perform simple data ingestion tasks using no-code tools and ensure streamlined data flows.\n Add comprehensive metadata to datasets, including documentation, data quality checks, and sensitive data masking.\n Activate data by pushing it from Snowflake into other operational tools.\n Proactively identify and raise data quality issues to the respective process owners for resolution.\n Lead training sessions and initiatives to drive adoption and effective use of BI tools across the organization.\n Mentor junior analytics engineers, fostering knowledge-sharing and professional growth.\n We'd love to hear from you if you:\n Extensive experience in analytics engineering or related data roles, with demonstrated expertise in advanced SQL, dbt, and Snowflake.\n Proficient in using BI tools (e.…",
+    "tags": [
+      "Product & Engineering",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-08-14T15:40:25.000Z",
+    "scrapedAt": "2026-08-14T21:21:42.760Z"
+  },
+  {
+    "id": "arbeitnow:senior-analytics-engineer-marketing-uk-404195",
+    "externalId": "senior-analytics-engineer-marketing-uk-404195",
+    "source": "arbeitnow",
+    "title": "Senior Analytics Engineer - Marketing",
+    "company": "Paddle",
+    "location": "UK",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/paddle/senior-analytics-engineer-marketing-uk-404195",
+    "description": "What do we do?\n Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payment fragmentation. It’s faster, safer, cheaper, and, above all, way better.\n We’re backed by investors including KKR, FTV Capital, Kindred, Notion, and 83North and serve over 6000 software sellers in 245 territories globally.\n The Role:\n We are seeking a Senior Analytics Engineer to drive significant business impact by shaping our data infrastructure, developing robust data models, and promoting best practices in analytics engineering (e.g., data quality, documentation, and scalable data architectures). You will collaborate closely with the Marketing team in order to ensure that funnels are being tracked and surfaced in our data models and that Marketing campaigns can be evaluated using accurate data.\n What you'll do:\n Create trusted, self-serve datasets and reporting layers in Omni that power Marketing performance reviews, campaign reporting, attribution analysis, funnel health monitoring, and investment decision-making.\n Proactively identify and resolve data quality issues across Marketing and GTM systems, including source tracking, campaign metadata, funnel stage completeness, attribution coverage, and spend data.\n Add comprehensive metadata to datasets, including documentation, lineage, ownership, definitions, data quality checks, and sensitive data masking.\n Partner with Marketing stakeholders to translate business questions into robust data products, dashboards, analyses, and decision-ready insights.\n Enable Marketing teams to confidently use Omni and core GTM datasets through documentation, training, office hours, and self-serve resources.\n Activate data from Snowflake into operational tools where needed, supporting audience segmentation, lifecycle program…",
+    "tags": [
+      "Product & Engineering",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-08-14T15:40:25.000Z",
+    "scrapedAt": "2026-08-14T21:21:42.760Z"
+  },
+  {
     "id": "jobicy:150666",
     "externalId": "150666",
     "source": "jobicy",
@@ -16,7 +52,25 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-08-14T13:01:08.000Z",
-    "scrapedAt": "2026-08-14T18:48:15.985Z"
+    "scrapedAt": "2026-08-14T21:21:42.894Z"
+  },
+  {
+    "id": "arbeitnow:staff-data-engineer-london-hybrid-34944",
+    "externalId": "staff-data-engineer-london-hybrid-34944",
+    "source": "arbeitnow",
+    "title": "Staff Data Engineer",
+    "company": "MoonPay",
+    "location": "London - Hybrid",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/staff-data-engineer-london-hybrid-34944",
+    "description": "About MoonPay\n MoonPay is for builders with something to prove.\n This isn't a \"work on cool crypto stuff\" company. It's a high-standards, high-velocity, high-accountability company building the operating system for value movement. If the internet moves information, we move value: crypto, stablecoins, tokenized assets, and whatever comes next. Four offerings make that real: fund, tokenize, trade, and spend. 30M+ customers and 500+ ecosystem partners run on us. Licensed in the U.S. Regulated across the UK, EU, Canada, and Australia.\n AI is the default operating mode here. It's woven into every role, and we expect you to use it daily. It handles the manual work so you can deliver on what actually matters.\n You'll thrive here if outcomes excite you more than process, if impact motivates you more than titles, and if you want hard problems, real ownership, and teammates who love winning, building, and doing it together.\n The bar is high. The pace is real. We're building for what's next, for humans and agents.\nRecent recognition:\n Forbes' America's Best Startup Employers 2026 . 2nd in Crypto Services on Fortune's inaugural Crypto 100 ,\n The Sunday Times Best Places to Work two years running.\n Research has shown that women are less likely than men to apply for this role if they do not have experience in 100% of these areas. Please know that this list is indicative, and that we would still love to hear from you even if you feel that you are only a 75% match. Skills can be learned, diversity cannot.\n ______________________________________________________________________________________________________\n 1. About the Opportunity ✍️\n This is a hands-on technical leadership role with the opportunity to shape the long-term direction of our data platform.\n You will lead the design and evolution of the systems that power analytics, product insights, integrations, and machine learning across MoonPay. Working across teams, you’ll solve complex challenges spanning architecture, reliab…",
+    "tags": [
+      "Software Engineering",
+      "Full-time"
+    ],
+    "jobType": "Full-time",
+    "postedAt": "2026-08-14T12:24:14.000Z",
+    "scrapedAt": "2026-08-14T21:21:42.760Z"
   },
   {
     "id": "jobicy:142570",
@@ -35,7 +89,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-08-14T04:35:03.000Z",
-    "scrapedAt": "2026-08-14T18:48:15.985Z"
+    "scrapedAt": "2026-08-14T21:21:42.894Z"
   },
   {
     "id": "remoteok:1136594",
@@ -60,7 +114,7 @@
     ],
     "salary": "USD 40000 – 180000",
     "postedAt": "2026-08-13T16:06:05.000Z",
-    "scrapedAt": "2026-08-14T18:48:16.371Z"
+    "scrapedAt": "2026-08-14T21:21:43.486Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -76,7 +130,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-14T18:48:16.376Z"
+    "scrapedAt": "2026-08-14T21:21:43.490Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -95,7 +149,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-14T18:51:31.336Z"
+    "scrapedAt": "2026-08-14T21:25:06.478Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -111,7 +165,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-14T18:48:16.376Z"
+    "scrapedAt": "2026-08-14T21:21:43.490Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -127,54 +181,6 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-14T18:48:16.376Z"
-  },
-  {
-    "id": "greenhouse:lyft-8662205002",
-    "externalId": "lyft:8662205002",
-    "source": "greenhouse",
-    "title": "Data Engineer",
-    "company": "Lyft",
-    "location": "Toronto, Canada",
-    "remote": false,
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002",
-    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n The Safety and Customer Care (SCC) team at Lyft manages over 1.7 million monthly human and AI interactions and serves as Lyft's primary direct touchpoint with riders and drivers. We handle critical infrastructure that powers both human associates and AI agents to make riders and drivers feel safe and comfortable while riding or driving with Lyft, transforming every support interaction into a moment of genuine connection.\n As a Data Engineer on the SCC team, you will have ownership over the data modeling and pipelines that power SCC’s Associate and AI Agent Platform . Your efforts will be critical to the reliability of our pipelines, execution of third party data integrations, accurate reporting of agents performance, and efficiency improvements that can save millions of dollars / year. You will work cross-functionally to bridge Lyft's business goals with data engineering. Your efforts will allow access to business and user behavior insights, using huge amounts of Lyft data to fuel several teams such as Analytics, Data Science, Engineering, and many others.\n Responsibilities:\n Owner of the core data pipeline, responsible for scaling up data processing flow to meet the rapid data growth at Lyft\n Evolve data model and data schema based on business and engineering needs\n Implement systems tracking data quality and consistency\n Develop tools supporting self-service data pipeline management (ETL)\n SQL and MapReduce job tuning to improve data processing performance\n Write well-crafted, well-tested, readable, maintainable code\n Participate in code reviews to ensure code quality and distribute knowledge\n Collaborate cross-functionally with product, engineering, data science, and marketing teams to understand business problems and align on prioritization and solutions\n Experience:\n Bachelor's degree in Compu…",
-    "tags": [
-      "SCC Tech"
-    ],
-    "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-14T18:48:16.376Z"
-  },
-  {
-    "id": "greenhouse:dropbox-8090065",
-    "externalId": "dropbox:8090065",
-    "source": "greenhouse",
-    "title": "Senior Manager, Data Engineering",
-    "company": "Dropbox",
-    "location": "Remote - Canada: Select locations",
-    "remote": true,
-    "url": "https://jobs.dropbox.com/listing/8090065?gh_jid=8090065",
-    "description": "Role Description\n We are seeking a Senior Manager, Data Engineering to lead the team responsible for the reliability, quality, cost, and velocity of Dropbox's core data platform. This is a hands-on engineering leader who owns the pipelines and data products that Product, GTM, Finance, and the CTO organization depend on to make decisions.\n In this role, you will lead and grow a team of data engineers building and operating our ingestion, transformation, orchestration, and serving layers, as well as the self-serve analytics substrate that lets partner teams answer their own questions without bespoke engineering work.\n The ideal candidate is a deeply technical, product-minded engineering leader who can hold a high bar on system reliability and data quality while partnering closely with Data Science, Business Intelligence Engineering, Analytics, and Product to turn fragmented, ticket-driven data work into durable, reusable data products.\n Our Engineering Career Framework is viewable by anyone outside the company and describes what’s expected for our engineers at each of our career levels. Check out our blog post on this topic and more here .\n Responsibilities\n Data Quality & Observability: Establish and enforce a rigorous data quality culture: lineage, freshness monitoring, anomaly detection, and outcome-oriented, gaming-resistant quality metrics.\n Self-Serve Platform: Lead the engineering of the self-serve analytics substrate, reducing bespoke request volume and increasing partner-team autonomy.\n Cost & Efficiency: Own the unit economics of the data platform — compute and storage efficiency — and drive measurable improvements without sacrificing reliability.\n Cross-Functional Partnership: Partner deeply with Data Science, BIE, Analytics, Product, Data Platform, and the CTO org to define the semantic layer, modeling standards, and data contracts that make downstream work trustworthy and fast.\n Engineering Culture: Establish rigorous engineering practices — code review,…",
-    "tags": [
-      "CTO-Data Science, AI Platform & Eng (Sub Team)"
-    ],
-    "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-08-14T18:48:16.376Z"
-  },
-  {
-    "id": "greenhouse:discord-8614971002",
-    "externalId": "discord:8614971002",
-    "source": "greenhouse",
-    "title": "Data Engineer",
-    "company": "Discord",
-    "location": "San Francisco Bay Area",
-    "remote": false,
-    "url": "https://job-boards.greenhouse.io/discord/jobs/8614971002",
-    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.\n Discord is looking for an experienced and passionate Data Engineer, Analytics to join our data team! You will be owning the transformation and semantic layer that turns data into clean, tested, well-documented tables and dashboards that data scientists, product managers, and business stakeholders can trust and self-serve from. You'll define and operationalize the metrics that inform how we identify opportunities, measure success, and make decisions. If this sounds exciting to you and you’re passionate about data modeling, metric design, and empowering teams to move faster with reliable data, read on!\n What you will be doing :\n Design, build, and maintain curated analytical datasets and data models that serve as canonical sources for metrics, dashboards, and analyses\n Own metric definitions end to end, from partnering with data science and product team to define what we should measure, to implementing it in production, to surfacing it in visualization tools\n Build and maintain executive-level dashboards and self-serve reporting tools that enable business stakeholders to answer their own questions\n Partner closely with data science, product manager, and engineering teams to translate business questions into well modeled, performant, and discoverable data assets\n Establish and enforce data quality standards through testing frameworks, documentation, and monitoring for the datasets you own\n Drive adoption of consistent data modeling patterns, naming conventions, and documentation norms across the data organization\n What you should have\n 3+ years of experience in analytics or data engineering with a strong…",
-    "tags": [
-      "Data Science & Engineering"
-    ],
-    "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-14T18:48:16.376Z"
+    "scrapedAt": "2026-08-14T21:21:43.490Z"
   }
 ]
