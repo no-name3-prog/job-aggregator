@@ -1,5 +1,24 @@
 [
   {
+    "id": "jobicy:142570",
+    "externalId": "142570",
+    "source": "jobicy",
+    "title": "Senior Data Engineer",
+    "company": "Salesloft",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/03/8f0ff4d3ba38b945acfa9bbe11e39be1.jpeg",
+    "location": "Mexico",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/142570-senior-data-engineer-9",
+    "description": "Location: Remote - MX\n ABOUT THE COMPANY:\n Clari + Salesloft are building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we’re building the industry’s first Predictive Revenue System , enabling humans and AI to work together to make smarter decisions and drive consistent growth.\n With thousands of customers using our platforms every day, we have an unmatched view into how revenue is actually won — the Revenue Context that reveals what happens, when, and with what outcome. This gives us a unique opportunity to transform an entire category and set a new benchmark for how modern revenue teams operate.\n Join us to help transform how companies around the world run revenue — and build the platform that will guide leading revenue teams into the future.\n THE OPPORTUNITY:\n At Clari + Salesloft, our Data Engineer will be pivotal to our company’s success. You will be a key member of our fast-growing and high-performing Data & Analytics (D&A) team, helping build and maintain the data infrastructure that powers all of our internal reporting and analytics for multiple business teams. As a team, we are actively implementing the latest AI features and cutting-edge technologies to drive business insights.\n On a day-to-day basis, you will be responsible for architecting and delivering end-to-end data pipelines to support internal stakeholders. Specifically, you will:\n Design, build, and maintain scalable data pipelines and services for analytics and business intelligence.\n Develop data flows and applications for machine learning, analytics, and third-party data integrations.\n Collaborate with data scientists and analysts to deploy models and analytical solutions.\n Perform heads-down development, test your code, review peer code, and ship it to production.\n In addition to working with amazing colleagues who exemplify our ‘team over self’ core value, you will also have t…",
+    "tags": [
+      "Data Science &amp; Analytics",
+      "Senior"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-08-14T04:35:03.000Z",
+    "scrapedAt": "2026-08-14T09:56:57.999Z"
+  },
+  {
     "id": "greenhouse:instacart-8126023",
     "externalId": "instacart:8126023",
     "source": "greenhouse",
@@ -13,7 +32,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-14T07:19:28.933Z"
+    "scrapedAt": "2026-08-14T09:56:58.373Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -32,7 +51,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-14T07:22:32.709Z"
+    "scrapedAt": "2026-08-14T10:00:12.085Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -48,7 +67,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-14T07:19:28.933Z"
+    "scrapedAt": "2026-08-14T09:56:58.373Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -64,7 +83,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-14T07:19:28.933Z"
+    "scrapedAt": "2026-08-14T09:56:58.373Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -80,7 +99,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-14T07:19:28.933Z"
+    "scrapedAt": "2026-08-14T09:56:58.373Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -96,7 +115,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-08-14T07:19:28.933Z"
+    "scrapedAt": "2026-08-14T09:56:58.373Z"
   },
   {
     "id": "greenhouse:discord-8614971002",
@@ -112,7 +131,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-14T07:19:28.933Z"
+    "scrapedAt": "2026-08-14T09:56:58.373Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -128,7 +147,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-08-14T07:19:28.933Z"
+    "scrapedAt": "2026-08-14T09:56:58.373Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -144,26 +163,6 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-08-14T07:19:28.933Z"
-  },
-  {
-    "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
-    "externalId": "spotify:ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
-    "source": "lever",
-    "title": "Staff Data Engineer — Subscriptions User Understanding",
-    "company": "Spotify",
-    "location": "London",
-    "remote": true,
-    "url": "https://jobs.lever.co/spotify/ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
-    "description": "Spotify is on an ambitious path to reach one billion users and $100 billion in revenue, and the Subscriptions User Understanding team plays a key role in making that possible.\n Our team builds the foundational data platform that helps Spotify understand conversion, retention, engagement, and subscriber health for more than 200 million Premium subscribers around the world. We enable better decisions across analytics, experimentation, machine learning, and product development.\n We're looking for a Staff Data Engineer who combines deep technical expertise with strategic thinking. You'll help define the long-term direction of our data ecosystem, influence engineering across multiple teams, and build the foundations that will scale with Spotify's future.",
-    "tags": [
-      "Subscriptions R&D",
-      "Engineering",
-      "Permanent",
-      "remote"
-    ],
-    "jobType": "Permanent",
-    "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-08-14T07:22:32.193Z"
+    "scrapedAt": "2026-08-14T09:56:58.373Z"
   }
 ]

@@ -1,85 +1,94 @@
 [
   {
-    "id": "greenhouse:discord-8703614002",
-    "externalId": "discord:8703614002",
+    "id": "greenhouse:stripe-8041076",
+    "externalId": "stripe:8041076",
     "source": "greenhouse",
-    "title": "QA/DevOps Engineer",
-    "company": "Discord",
-    "location": "San Francisco Bay Area",
-    "remote": false,
-    "url": "https://job-boards.greenhouse.io/discord/jobs/8703614002",
-    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.\n We are seeking a QA/DevOps Engineer to join Discord’s Business Systems team. In this role, you will own automated test suite development and maintenance across Oracle ERP Cloud (Fusion) and Salesforce, with a focus on Tosca-based regression and progression testing. You will embed automated testing into CI/CD pipelines and partner closely with ERP Functional, Technical, and DevOps teams to ensure every release is tested consistently and defects are caught early.\n What you'll be doing\n Run Oracle ERP Cloud and Salesforce QA automation suites for all quarterly patch upgrades end-to-end.\n Review new Oracle and SFDC release features and recommend improvements to existing testing processes.\n Build and improve regression and progression test automation in the Tosca environment for Oracle Fusion and Salesforce.\n Create, maintain, and update Tosca scripts to reflect system and process changes across GL, AP, AR, and FAH modules.\n Lead feature enhancement reviews as part of quarterly patch assessment cycles and new enhancement projects.\n Integrate automated test suites into CI/CD pipelines; trigger regression suites automatically on every release candidate build.\n Maintain test infrastructure and environments in collaboration with DevOps and ERP Technical teams.\n Document test coverage, defect trends, and release readiness in Jira and shared reporting dashboards.\n Automation Use Cases\n FAH Process Automation: Auto-test Financial Accounting Hub on each new sales item addition to eliminate manual unit testing.\n AR Regression Suite: Automated flows for invoicing, receipts, and customer setup across every release.…",
-    "tags": [
-      "Business Systems"
-    ],
-    "postedAt": "2026-08-14T03:27:33.000Z",
-    "scrapedAt": "2026-08-14T07:18:42.974Z"
-  },
-  {
-    "id": "greenhouse:stripe-8128900",
-    "externalId": "stripe:8128900",
-    "source": "greenhouse",
-    "title": "Account Executive, Startups (Scaled Grower)",
+    "title": "Account Executive, Crypto/Stablecoins",
     "company": "Stripe",
-    "location": "San Francisco",
+    "location": "Singapore",
     "remote": false,
-    "url": "https://stripe.com/jobs/search?gh_jid=8128900",
-    "description": "Who we are\n About Stripe\n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.\n About the team\n The Startups Grower team is a consultative sales team that is responsible for the growth and retention of the largest and fastest-growing Startup customers at Stripe. As an Account Executive on this team, you'll identify new opportunities for our clients to get the most out of Stripe by understanding our clients' needs, execute scaled sales strategies to close upsells and renewals with existing Stripe customers, and drive end-to-end campaigns to increase adoption of Stripe products.\n What you'll do\n As a Scaled Account Executive you'll work with some of our highest potential accounts that are still early in their growth. We're looking for a well-rounded strategic operator who can build strong relationships with Stripe users, manage projects to engage with customers at scale, and work effectively with cross-functional teams.\n This is a dynamic role, evolving rapidly. If you're hungry, persistent, adaptable, and a great teammate, we want to hear from you.\n Responsibilities\n • Run scaled campaigns to drive product adoption and manage the full sales cycle through to close\n• Manage contract renewals and lead commercial negotiations to retain and grow revenue • Solve complex client needs working across product, billing, risk, and operations teams\n• Partner with marketing to drive pipeline\n Who you are\n We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged…",
+    "url": "https://stripe.com/jobs/search?gh_jid=8041076",
+    "description": "Who we are\n About Stripe\n Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.\n About the team\n Stripe is dedicated to establishing a Product Sales team for Crypto/Stablecoins, aimed at empowering businesses to transform through our innovative platform.\n Our global Product Sales team spearheads Stripe’s revenue and growth initiatives. As key business allies, we excel in guiding users to comprehend and seamlessly integrate Stripe products, enabling them to focus on their core business objectives. Known for our product expertise, analytical thinking, and user-centered problem-solving, we serve as a vital channel for user feedback and market insights, significantly impacting Stripe’s product direction and growth strategies.\n What you’ll do\n As an Account Executive for Crypto/Stablecoins, you will leverage your sales and product expertise to drive the growth of Stripe’s stablecoin solutions across various customer segments. Collaborating with product, engineering, marketing, and other GTM teams, you will cultivate profound product and industry knowledge to manage complex deals. Your role will be crucial in leading in-depth product discussions with existing and prospective customers, shaping and implementing our market strategy.\n You are a skilled sales professional, comfortable with business-level and technical dialogues across diverse organizational tiers. You excel in competitive scenarios, passionately working on products demanding deep understanding and technical acumen. You thrive in client interactions as well as collaborati…",
     "tags": [
-      "1653 Startups - Account Executives (NA)"
+      "1642 Product Sales - MaaS"
     ],
-    "postedAt": "2026-08-14T01:12:37.000Z",
-    "scrapedAt": "2026-08-14T07:18:42.974Z"
+    "postedAt": "2026-08-14T07:45:58.000Z",
+    "scrapedAt": "2026-08-14T09:56:10.927Z"
   },
   {
-    "id": "ashby:notion-f1f9e19d-cbf3-49eb-9824-d04adf2e3d75",
-    "externalId": "notion:f1f9e19d-cbf3-49eb-9824-d04adf2e3d75",
-    "source": "ashby",
-    "title": "[Contract] Language Training Specialist - Japanese",
-    "company": "Notion",
-    "location": "Tokyo, Japan",
+    "id": "jobicy:150370",
+    "externalId": "150370",
+    "source": "jobicy",
+    "title": "Technical Account Specialist - Storm, Sewer, Flood",
+    "company": "Autodesk",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/03/983ea436405fa9ab72f858e1f1b874a7.jpeg",
+    "location": "UK",
     "remote": true,
-    "url": "https://jobs.ashbyhq.com/notion/f1f9e19d-cbf3-49eb-9824-d04adf2e3d75",
-    "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE\n\nWe’re looking for an experienced Localization Project Manager — Japan Training Quality to support localization for Customer Education, helping ensure Notion training content feels accurate, clear, culturally relevant, and ready to use for learners across the globe.\n\nYou’ll work at the intersection of localization quality, training implementation, and program management, collaborating with Localization, Partner Enablement, Customer Education, vendors, and language specialists. You’ll help turn translation feedback, learner experience issues, and regional quality needs into practical improvements across training content, quizzes, LMS setup, and repeatable localization workflows.\n\nThe ideal candidate combines native-level Japanese language expertise with a deep understanding of what effective education looks like in the Japanese market.\n\n\n\n\nKEY RESPONSIBILITIES\n\n - Own and apply Japanese localization QA standards across training content, including checking for accuracy, clarity, tone, terminology, and cultural nuance\n\n - Support development of glossaries, style guides,…",
+    "url": "https://jobicy.com/jobs/150370-technical-account-specialist-storm-sewer-flood",
+    "description": "Job Requisition ID #\n 26WD99973\n Position Overview\n We are seeking an expert in InfoWorks ICM (ICM) to assist our customers in adopting and optimizing their software. This is not a traditional software support role, instead you will engage new and existing customers to ensure they are using ICM as efficiently and effectively as possible, from both an IT and engineering perspective. You will use your in-depth experience to enable, support and guide our customers throughout their water projects.\n This is a proactive role where you will develop a strategy to understand which customers we should speak to and what we should speak to them about. The role focuses on building relationships, within Autodesk, with our Sales, Development and Engineering teams, but principally with our customers, taking ownership of their ideas, concerns and requests to build trust in our software. The intention is to have high value conversations, then collate and analyse those conversations into a coherent strategy for customer success.\n We value hybrid working, and if you live near enough to one of our offices you are welcome to work there some or all of the time, but remote working is also supported. You will report to the Manager for Customer Success, EMEA Water.\n Responsibilities\n You will establish and maintain working relationships with customers as a trusted technical advisor. You will collate and analyse customer conversations to identify what actions must be undertaken to improve the customer’s experience and promote the use of ICM. You will add value to the use of ICM. Scripting and the use of AI will be key components of this. You should seek to promote yourself as a subject expert through social media, webinars, conferences, and customer events. You will develop and deliver expert coaching to drive customer adoption, which could include: Model building and import from other model types. Calibration or verification against observed data. Model application. IT strategy, whether thi…",
     "tags": [
-      "Customer Experience",
-      "Customer Experience",
-      "Hybrid"
+      "Technical Support",
+      "Any"
     ],
-    "jobType": "Contract",
-    "postedAt": "2026-08-14T00:57:14.270Z",
-    "scrapedAt": "2026-08-14T07:19:25.551Z"
+    "jobType": "Full-Time",
+    "postedAt": "2026-08-14T04:50:02.000Z",
+    "scrapedAt": "2026-08-14T09:56:10.309Z"
   },
   {
-    "id": "greenhouse:coinbase-8129321",
-    "externalId": "coinbase:8129321",
-    "source": "greenhouse",
-    "title": "Legal Ops Associate, OC Management",
-    "company": "Coinbase",
-    "location": "Remote - USA",
+    "id": "jobicy:149239",
+    "externalId": "149239",
+    "source": "jobicy",
+    "title": "Principal Cloud Application Engineer",
+    "company": "University of Colorado Anschutz Medical Campus",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/52ccfc21-221.webp",
+    "location": "USA",
     "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8129321?gh_jid=8129321",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n As a Legal Ops Associate, OC Management on the Legal Operations team, you'll build and run the systems and processes that power Coinbase's outside counsel spend and management program. This team drives operational excellence across the Legal department by leveraging technology, automation, and AI-first workflows to manage vendors, budgets, and e-billing at scale. You'll partner closely with the Sr. Manager, Outside Counsel Spend & Strategy to optimize how Coinbase engages, evaluates, and pays outside counsel, directly impacting cost efficiency and program effectiveness.\n What you'll do:\n Build and enhance automated, AI-first processes for legal e-billing and outside counsel management, driving operational excellence across the program.\n Drive implementation of OC spend strategy, including reviewing and benchmarking law firm billing rates and fee structures against industry standards and peer companies.\n Own the monthly accruals process and legal vendor onboarding workflows, ensuring accuracy and timeliness in close partnership with FP&A.\n Administer and maintain the legal e-billing system (Brightflag), serving as the team's resource for system optimization and stakeholder training.\n Analyze OC spend data to produce reports, scorecards, and actionable insights that inform program improvements and leadership decisions.\n Partner cross-functionally with FP&A, Sourcing, and EAA to…",
+    "url": "https://jobicy.com/jobs/149239-principal-cloud-application-engineer-2",
+    "description": "Principal Cloud Application Engineer( Job Number:  40285)\n Description   Join Our Team and Make a Difference in Higher Education!\n At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a sense of belonging, and the opportunity to contribute meaningfully to our mission and purpose.\n By joining our team, you’ll have a direct impact on shaping the future of higher education. In addition to the Office of the Board of Regents, the University of Colorado’s system administration includes 19 units that provide essential services to CU’s campuses in Aurora, Boulder, Colorado Springs, and Denver, as well as the Office of the President. While not a part of any one campus, we are proud to serve in the centralized office for the University system. Together, we ensure CU continues to deliver outstanding education, groundbreaking research, and valuable service to our communities.\n We believe in creating an environment where the unique experiences and perspectives of everyone are embraced, enriching the work we do and the strategic outcomes we pursue. If you’re passionate about making a difference, contributing to a dynamic team, and supporting a mission that matters, we encourage you to apply and be part of our journey. Learn more about CU System Administration .\n Position Summary:\n University Information Services (UIS) provides enterprise technology services and application platforms to the University of Colorado’s four campuses and the Office of the President. UIS is committed to excellence in customer service, technical expertise, and the development of enterprise applications responsible for supporting CU’s students, faculty, human resources employees, finance employees, and others.\n The Principal Cloud Application Engineer is a senior technical role responsible for the design, dev…",
     "tags": [
-      "Legal & Compliance"
+      "Software Engineering",
+      "Senior"
     ],
-    "postedAt": "2026-08-14T00:32:31.000Z",
-    "scrapedAt": "2026-08-14T07:18:42.974Z"
+    "jobType": "Full-Time",
+    "postedAt": "2026-08-14T04:45:08.000Z",
+    "scrapedAt": "2026-08-14T09:56:10.309Z"
   },
   {
-    "id": "greenhouse:anthropic-5388726008",
-    "externalId": "anthropic:5388726008",
-    "source": "greenhouse",
-    "title": "Customer Programs Manager, Co-Marketing & Measurement",
-    "company": "Anthropic",
-    "location": "San Francisco, CA | New York City, NY",
-    "remote": false,
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388726008",
-    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\n Anthropic is seeking an experienced Customer Programs Manager to build the operational foundation that allows our customer marketing engine to scale. As our advocacy and co-marketing programs grow across startups, digital-native businesses, and enterprise accounts, we need someone who can turn our scaled co-marketing program into a well-instrumented, repeatable and measurable system. You'll deploy resources and capital to create compelling customer stories across formats, and amplify them across both bespoke partnerships and agency-run campaigns. You’ll also own the broader customer marketing intake process and its tooling, and the system of record for how customers participate across advocacy and co-marketing.\n You'll work closely with Sales, Partnerships, Marketing, Finance, and Brand, reconciling co-marketing spend each quarter, briefing agencies on which stories we want to tell, and partnering with Marketing Ops and Data Science to build the measurement framework we use to report back to leadership on impact. You'll help shape how a rapidly growing function operates, at a moment when customer proof is one of the most powerful levers we have for building trust in beneficial AI.\n Responsibilities:\n Own the investment behind our customer co-marketing programs, covering allocation tracking, spend pacing, agency coordination, and quarterly budget reconciliation across a rotating cohort of customer accounts\n Develop and execute co-marketing plans with participating customers that grow Claude adoption and the customer's own reach, coordinating with Growth Marketing on campaign strategy.\n Run the always-on scaled co-mar…",
+    "id": "jobicy:149238",
+    "externalId": "149238",
+    "source": "jobicy",
+    "title": "Lead Cloud Platform & Dev Ops Engineer",
+    "company": "University of Colorado",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/09/491790f6-221.jpeg",
+    "location": "USA",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/149238-lead-cloud-platform-dev-ops-engineer",
+    "description": "Lead Cloud Platform & Dev Ops Engineer - 40286  University Staff  Description   Join Our Team and Make a Difference in Higher Education!\n At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a sense of belonging, and the opportunity to contribute meaningfully to our mission and purpose.\n By joining our team, you’ll have a direct impact on shaping the future of higher education. In addition to the Office of the Board of Regents, the University of Colorado’s system administration includes 19 units that provide essential services to CU’s campuses in Aurora, Boulder, Colorado Springs, and Denver, as well as the Office of the President. While not a part of any one campus, we are proud to serve in the centralized office for the University system. Together, we ensure CU continues to deliver outstanding education, groundbreaking research, and valuable service to our communities.\n We believe in creating an environment where the unique experiences and perspectives of everyone are embraced, enriching the work we do and the strategic outcomes we pursue. If you’re passionate about making a difference, contributing to a dynamic team, and supporting a mission that matters, we encourage you to apply and be part of our journey. Learn more about CU System Administration .\n Position Summary:\n University Information Services (UIS) provides technical services and enterprise applications to the University of Colorado campuses and the Office of the President. UIS is committed to delivering reliable, secure, and scalable technology solutions that support academic, administrative, and research functions.\n The Lead Cloud Platform & DevOps Engineer is responsible for leading the design, implementation, and support of cloud-based platforms and DevOps practices that enable consistent and efficient…",
     "tags": [
-      "Marketing & Brand"
+      "DevOps &amp; Infrastructure",
+      "Senior"
     ],
-    "postedAt": "2026-08-14T00:25:51.000Z",
-    "scrapedAt": "2026-08-14T07:18:42.974Z"
+    "jobType": "Full-Time",
+    "postedAt": "2026-08-14T04:45:07.000Z",
+    "scrapedAt": "2026-08-14T09:56:10.309Z"
+  },
+  {
+    "id": "jobicy:149237",
+    "externalId": "149237",
+    "source": "jobicy",
+    "title": "Principal Cloud Application Engineer",
+    "company": "University of Colorado",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/09/491790f6-221.jpeg",
+    "location": "USA",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/149237-principal-cloud-application-engineer",
+    "description": "Principal Cloud Application Engineer - 40285  University Staff  Description   Join Our Team and Make a Difference in Higher Education!\n At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a sense of belonging, and the opportunity to contribute meaningfully to our mission and purpose.\n By joining our team, you’ll have a direct impact on shaping the future of higher education. In addition to the Office of the Board of Regents, the University of Colorado’s system administration includes 19 units that provide essential services to CU’s campuses in Aurora, Boulder, Colorado Springs, and Denver, as well as the Office of the President. While not a part of any one campus, we are proud to serve in the centralized office for the University system. Together, we ensure CU continues to deliver outstanding education, groundbreaking research, and valuable service to our communities.\n We believe in creating an environment where the unique experiences and perspectives of everyone are embraced, enriching the work we do and the strategic outcomes we pursue. If you’re passionate about making a difference, contributing to a dynamic team, and supporting a mission that matters, we encourage you to apply and be part of our journey. Learn more about CU System Administration .\n Position Summary:\n University Information Services (UIS) provides enterprise technology services and application platforms to the University of Colorado’s four campuses and the Office of the President. UIS is committed to excellence in customer service, technical expertise, and the development of enterprise applications responsible for supporting CU’s students, faculty, human resources employees, finance employees, and others.\n The Principal Cloud Application Engineer is a senior technical role responsible for the design…",
+    "tags": [
+      "Software Engineering",
+      "Senior"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-08-14T04:45:05.000Z",
+    "scrapedAt": "2026-08-14T09:56:10.309Z"
   }
 ]

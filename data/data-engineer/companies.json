@@ -1,7 +1,7 @@
 [
   {
     "company": "Autodesk",
-    "jobCount": 7,
+    "jobCount": 8,
     "sources": [
       "workday"
     ],
@@ -18,6 +18,7 @@
       "Principal Data Engineer, User Success",
       "Principal Data Engineer, User Success (Agentic Experiences)",
       "Principal Data Engineer -General application",
+      "Data Analytics Engineer",
       "Data Analytics Engineer"
     ],
     "officialUrls": [
@@ -30,7 +31,7 @@
   },
   {
     "company": "Adobe",
-    "jobCount": 5,
+    "jobCount": 6,
     "sources": [
       "workday"
     ],
@@ -38,10 +39,12 @@
       "San Jose",
       "Noida",
       "San Francisco",
+      "Bangalore",
       "Bucharest",
       "3 Locations"
     ],
     "sampleTitles": [
+      "Senior Data Engineer",
       "Senior Data Engineer",
       "Senior Data Engineer",
       "Senior Data Engineer",
@@ -52,8 +55,8 @@
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Science-Engineer_R169988",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Science-Engineer-3_R170861-1",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Engineer_R170680-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Data-Engineer_R171024",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536"
     ]
   },
   {
@@ -411,6 +414,22 @@
     ],
     "officialUrls": [
       "https://boards.greenhouse.io/robinhood/jobs/4738660?t=gh_src=&gh_jid=4738660"
+    ]
+  },
+  {
+    "company": "Salesloft",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "Mexico"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/142570-senior-data-engineer-9"
     ]
   },
   {
