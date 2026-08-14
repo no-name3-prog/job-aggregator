@@ -1,5 +1,21 @@
 [
   {
+    "id": "greenhouse:discord-8703614002",
+    "externalId": "discord:8703614002",
+    "source": "greenhouse",
+    "title": "QA/DevOps Engineer",
+    "company": "Discord",
+    "location": "San Francisco Bay Area",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8703614002",
+    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.\n We are seeking a QA/DevOps Engineer to join Discord’s Business Systems team. In this role, you will own automated test suite development and maintenance across Oracle ERP Cloud (Fusion) and Salesforce, with a focus on Tosca-based regression and progression testing. You will embed automated testing into CI/CD pipelines and partner closely with ERP Functional, Technical, and DevOps teams to ensure every release is tested consistently and defects are caught early.\n What you'll be doing\n Run Oracle ERP Cloud and Salesforce QA automation suites for all quarterly patch upgrades end-to-end.\n Review new Oracle and SFDC release features and recommend improvements to existing testing processes.\n Build and improve regression and progression test automation in the Tosca environment for Oracle Fusion and Salesforce.\n Create, maintain, and update Tosca scripts to reflect system and process changes across GL, AP, AR, and FAH modules.\n Lead feature enhancement reviews as part of quarterly patch assessment cycles and new enhancement projects.\n Integrate automated test suites into CI/CD pipelines; trigger regression suites automatically on every release candidate build.\n Maintain test infrastructure and environments in collaboration with DevOps and ERP Technical teams.\n Document test coverage, defect trends, and release readiness in Jira and shared reporting dashboards.\n Automation Use Cases\n FAH Process Automation: Auto-test Financial Accounting Hub on each new sales item addition to eliminate manual unit testing.\n AR Regression Suite: Automated flows for invoicing, receipts, and customer setup across every release.…",
+    "tags": [
+      "Business Systems"
+    ],
+    "postedAt": "2026-08-14T03:27:33.000Z",
+    "scrapedAt": "2026-08-14T04:45:53.656Z"
+  },
+  {
     "id": "greenhouse:stripe-8128900",
     "externalId": "stripe:8128900",
     "source": "greenhouse",
@@ -13,7 +29,7 @@
       "1653 Startups - Account Executives (NA)"
     ],
     "postedAt": "2026-08-14T01:12:37.000Z",
-    "scrapedAt": "2026-08-14T01:37:45.077Z"
+    "scrapedAt": "2026-08-14T04:45:53.656Z"
   },
   {
     "id": "ashby:notion-f1f9e19d-cbf3-49eb-9824-d04adf2e3d75",
@@ -32,7 +48,7 @@
     ],
     "jobType": "Contract",
     "postedAt": "2026-08-14T00:57:14.270Z",
-    "scrapedAt": "2026-08-14T01:38:28.783Z"
+    "scrapedAt": "2026-08-14T04:46:38.038Z"
   },
   {
     "id": "greenhouse:coinbase-8129321",
@@ -48,7 +64,7 @@
       "Legal & Compliance"
     ],
     "postedAt": "2026-08-14T00:32:31.000Z",
-    "scrapedAt": "2026-08-14T01:37:45.077Z"
+    "scrapedAt": "2026-08-14T04:45:53.656Z"
   },
   {
     "id": "greenhouse:anthropic-5388726008",
@@ -64,22 +80,6 @@
       "Marketing & Brand"
     ],
     "postedAt": "2026-08-14T00:25:51.000Z",
-    "scrapedAt": "2026-08-14T01:37:45.077Z"
-  },
-  {
-    "id": "greenhouse:reddit-8128860",
-    "externalId": "reddit:8128860",
-    "source": "greenhouse",
-    "title": "Senior Backend Engineer, Compliance Engineering",
-    "company": "Reddit",
-    "location": "Remote - United States",
-    "remote": true,
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8128860",
-    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com .\n The Compliance Engineering team is responsible for preparing Reddit’s platforms for evolving regulatory requirements. We’re building products that establish the foundation of trust in the Reddit platform, while partnering closely with teams across the company to ensure our platforms and features meet the highest standards. Engineers on this team will thrive in dynamic, ambiguous problem spaces and work across multiple domains and technology stacks.\n What You’ll Do:\n Shape the future of Reddit by adapting our platforms to an evolving privacy, security, and regulatory landscape\n Partner with product, design, and engineering teams across the company to build trusted, compliant experiences for millions of users\n Join a highly visible team where you’ll influence both technical and product strategy, and help define an entirely new product space\n Own product areas and shape strategy end-to-end: from technical design and coding to testing, experimentation, analysis, and launch\n Lead high-impact, cross-functional initiatives that are critical to Reddit’s business and platform integrity\n Raise the bar for engineering by improving workflows, setting standards, and mentoring the next generation of engineers\n Qualifications for this role:\n 5+ years backend development experience with multiple parts of the backend stack, from databases to networking to efficient computing. We develop with Go, Python, Postgres, Redis, Thrift, GraphQL and deploy to Docker/k8s on AWS.\n Experience as a tech lead on projects and teams with 3+ backend en…",
-    "tags": [
-      "Privacy and Assurance"
-    ],
-    "postedAt": "2026-08-14T00:24:47.000Z",
-    "scrapedAt": "2026-08-14T01:37:45.077Z"
+    "scrapedAt": "2026-08-14T04:45:53.656Z"
   }
 ]
