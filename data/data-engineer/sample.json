@@ -24,7 +24,7 @@
     ],
     "jobType": "Student",
     "postedAt": "2026-08-15T11:09:32.000Z",
-    "scrapedAt": "2026-08-15T12:30:08.909Z"
+    "scrapedAt": "2026-08-15T15:17:00.639Z"
   },
   {
     "id": "arbeitnow:data-engineer-working-student-koln-371370",
@@ -51,26 +51,7 @@
     ],
     "jobType": "Student",
     "postedAt": "2026-08-15T11:09:31.000Z",
-    "scrapedAt": "2026-08-15T12:30:08.909Z"
-  },
-  {
-    "id": "jobicy:146232",
-    "externalId": "146232",
-    "source": "jobicy",
-    "title": "Lead Data Platform Engineer",
-    "company": "saas.group",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/f6d362c3-221-1.png",
-    "location": "Europe",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/146232-lead-data-platform-engineer",
-    "description": "This role is part of our INFOnline team, one of our exciting brands at saas.group.\n INFOnline powers digital audience measurement for the German and Austrian media industry. Our systems process billions of events and deliver the trusted reach and engagement metrics used by publishers, advertisers, agencies, IVW and OEWA.\n As part of saas.group, we have been modernizing our business-critical infrastructure and moving towards a fully cloud-native architecture on GCP. The major migration work is complete. Now we are looking for a strong technical owner to run, harden, scale and evolve the new platform.\n Profile Overview We’re looking for a technically deep, hands-on Lead Data Platform Engineer to take full ownership of INFOnline’s central data platform from raw event ingress through processing, aggregation, data modeling and reporting delivery.\n You will take ownership of a newly built GCP-native data platform as it moves from completed migration into long-term production operation, optimization and continuous evolution.\n This is not a role where you simply follow someone else’s roadmap. You will help define how the platform should mature: where we need stronger observability, better data quality controls, clearer ownership boundaries, improved documentation, cost efficiency and more scalable operating models.\n This is a hands-on technical leadership role. You will set technical direction, make architecture decisions, establish engineering standards, mentor others and still work close to the code and systems.\n On top of that, you will help drive AI-native engineering practices using coding agents, AI-assisted testing, documentation, refactoring and incident analysis to increase engineering speed and quality.\n Your immediate impact in the first 3-6 months will be:\n Audit and map the existing cloud and data platform architecture identify critical risks, dependencies, and improvement opportunities\n Take ownership of core platform components from data ingress to reporting…",
-    "tags": [
-      "Software Engineering",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-08-15T04:25:04.000Z",
-    "scrapedAt": "2026-08-15T12:30:08.961Z"
+    "scrapedAt": "2026-08-15T15:17:00.639Z"
   },
   {
     "id": "arbeitnow:remote-principal-database-analytics-engineer-17486",
@@ -86,7 +67,7 @@
       "Technology and Cyber"
     ],
     "postedAt": "2026-08-15T00:55:33.000Z",
-    "scrapedAt": "2026-08-15T12:30:08.909Z"
+    "scrapedAt": "2026-08-15T15:17:00.639Z"
   },
   {
     "id": "remoteok:1136594",
@@ -111,7 +92,7 @@
     ],
     "salary": "USD 40000 – 180000",
     "postedAt": "2026-08-13T16:06:05.000Z",
-    "scrapedAt": "2026-08-15T12:30:09.329Z"
+    "scrapedAt": "2026-08-15T15:17:01.339Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -127,7 +108,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-15T12:30:09.334Z"
+    "scrapedAt": "2026-08-15T15:17:01.344Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -146,7 +127,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-15T12:32:53.661Z"
+    "scrapedAt": "2026-08-15T15:20:00.695Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -162,7 +143,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-15T12:30:09.334Z"
+    "scrapedAt": "2026-08-15T15:17:01.344Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -178,7 +159,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-15T12:30:09.334Z"
+    "scrapedAt": "2026-08-15T15:17:01.344Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -194,6 +175,22 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-15T12:30:09.334Z"
+    "scrapedAt": "2026-08-15T15:17:01.344Z"
+  },
+  {
+    "id": "greenhouse:dropbox-8090065",
+    "externalId": "dropbox:8090065",
+    "source": "greenhouse",
+    "title": "Senior Manager, Data Engineering",
+    "company": "Dropbox",
+    "location": "Remote - Canada: Select locations",
+    "remote": true,
+    "url": "https://jobs.dropbox.com/listing/8090065?gh_jid=8090065",
+    "description": "Role Description\n We are seeking a Senior Manager, Data Engineering to lead the team responsible for the reliability, quality, cost, and velocity of Dropbox's core data platform. This is a hands-on engineering leader who owns the pipelines and data products that Product, GTM, Finance, and the CTO organization depend on to make decisions.\n In this role, you will lead and grow a team of data engineers building and operating our ingestion, transformation, orchestration, and serving layers, as well as the self-serve analytics substrate that lets partner teams answer their own questions without bespoke engineering work.\n The ideal candidate is a deeply technical, product-minded engineering leader who can hold a high bar on system reliability and data quality while partnering closely with Data Science, Business Intelligence Engineering, Analytics, and Product to turn fragmented, ticket-driven data work into durable, reusable data products.\n Our Engineering Career Framework is viewable by anyone outside the company and describes what’s expected for our engineers at each of our career levels. Check out our blog post on this topic and more here .\n Responsibilities\n Data Quality & Observability: Establish and enforce a rigorous data quality culture: lineage, freshness monitoring, anomaly detection, and outcome-oriented, gaming-resistant quality metrics.\n Self-Serve Platform: Lead the engineering of the self-serve analytics substrate, reducing bespoke request volume and increasing partner-team autonomy.\n Cost & Efficiency: Own the unit economics of the data platform — compute and storage efficiency — and drive measurable improvements without sacrificing reliability.\n Cross-Functional Partnership: Partner deeply with Data Science, BIE, Analytics, Product, Data Platform, and the CTO org to define the semantic layer, modeling standards, and data contracts that make downstream work trustworthy and fast.\n Engineering Culture: Establish rigorous engineering practices — code review,…",
+    "tags": [
+      "CTO-Data Science, AI Platform & Eng (Sub Team)"
+    ],
+    "postedAt": "2026-08-04T17:49:51.000Z",
+    "scrapedAt": "2026-08-15T15:17:01.344Z"
   }
 ]

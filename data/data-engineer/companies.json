@@ -30,6 +30,36 @@
     ]
   },
   {
+    "company": "Adobe",
+    "jobCount": 6,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "San Jose",
+      "Noida",
+      "San Francisco",
+      "Bangalore",
+      "Bucharest",
+      "3 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer",
+      "Senior Data Engineer",
+      "Senior Data Engineer",
+      "Senior Data Engineer",
+      "Data Platform Engineer",
+      "Principal Scientist - Data Pipeline Engineer"
+    ],
+    "officialUrls": [
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Science-Engineer_R169988",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Science-Engineer-3_R170861-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Engineer_R170680-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Data-Engineer_R171024",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536"
+    ]
+  },
+  {
     "company": "Workday",
     "jobCount": 5,
     "sources": [
@@ -435,22 +465,6 @@
     ],
     "officialUrls": [
       "https://boards.greenhouse.io/robinhood/jobs/4738660?t=gh_src=&gh_jid=4738660"
-    ]
-  },
-  {
-    "company": "saas.group",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "Europe"
-    ],
-    "sampleTitles": [
-      "Lead Data Platform Engineer"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/146232-lead-data-platform-engineer"
     ]
   },
   {
