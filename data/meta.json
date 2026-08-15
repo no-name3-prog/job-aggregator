@@ -1,12 +1,12 @@
 {
-  "lastRunAt": "2026-08-15T09:22:10.193Z",
-  "durationMs": 46804,
-  "totalJobs": 3301,
+  "lastRunAt": "2026-08-15T12:30:08.264Z",
+  "durationMs": 43452,
+  "totalJobs": 3199,
   "sources": [
     {
       "source": "remotive",
-      "fetched": 18,
-      "kept": 18
+      "fetched": 16,
+      "kept": 16
     },
     {
       "source": "arbeitnow",
@@ -30,8 +30,8 @@
     },
     {
       "source": "workday",
-      "fetched": 600,
-      "kept": 600
+      "fetched": 500,
+      "kept": 500
     },
     {
       "source": "lever",
