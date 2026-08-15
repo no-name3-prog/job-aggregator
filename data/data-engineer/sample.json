@@ -1,5 +1,24 @@
 [
   {
+    "id": "jobicy:146232",
+    "externalId": "146232",
+    "source": "jobicy",
+    "title": "Lead Data Platform Engineer",
+    "company": "saas.group",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/f6d362c3-221-1.png",
+    "location": "Europe",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/146232-lead-data-platform-engineer",
+    "description": "This role is part of our INFOnline team, one of our exciting brands at saas.group.\n INFOnline powers digital audience measurement for the German and Austrian media industry. Our systems process billions of events and deliver the trusted reach and engagement metrics used by publishers, advertisers, agencies, IVW and OEWA.\n As part of saas.group, we have been modernizing our business-critical infrastructure and moving towards a fully cloud-native architecture on GCP. The major migration work is complete. Now we are looking for a strong technical owner to run, harden, scale and evolve the new platform.\n Profile Overview We’re looking for a technically deep, hands-on Lead Data Platform Engineer to take full ownership of INFOnline’s central data platform from raw event ingress through processing, aggregation, data modeling and reporting delivery.\n You will take ownership of a newly built GCP-native data platform as it moves from completed migration into long-term production operation, optimization and continuous evolution.\n This is not a role where you simply follow someone else’s roadmap. You will help define how the platform should mature: where we need stronger observability, better data quality controls, clearer ownership boundaries, improved documentation, cost efficiency and more scalable operating models.\n This is a hands-on technical leadership role. You will set technical direction, make architecture decisions, establish engineering standards, mentor others and still work close to the code and systems.\n On top of that, you will help drive AI-native engineering practices using coding agents, AI-assisted testing, documentation, refactoring and incident analysis to increase engineering speed and quality.\n Your immediate impact in the first 3-6 months will be:\n Audit and map the existing cloud and data platform architecture identify critical risks, dependencies, and improvement opportunities\n Take ownership of core platform components from data ingress to reporting…",
+    "tags": [
+      "Software Engineering",
+      "Senior"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-08-15T04:25:04.000Z",
+    "scrapedAt": "2026-08-15T09:22:10.925Z"
+  },
+  {
     "id": "arbeitnow:remote-principal-database-analytics-engineer-17486",
     "externalId": "remote-principal-database-analytics-engineer-17486",
     "source": "arbeitnow",
@@ -13,7 +32,7 @@
       "Technology and Cyber"
     ],
     "postedAt": "2026-08-15T00:55:33.000Z",
-    "scrapedAt": "2026-08-15T06:31:25.424Z"
+    "scrapedAt": "2026-08-15T09:22:10.868Z"
   },
   {
     "id": "arbeitnow:senior-data-platform-engineer-berlin-111883",
@@ -31,7 +50,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-08-14T23:40:13.000Z",
-    "scrapedAt": "2026-08-15T06:31:25.424Z"
+    "scrapedAt": "2026-08-15T09:22:10.868Z"
   },
   {
     "id": "arbeitnow:senior-analytics-engineer-uk-252033",
@@ -49,63 +68,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-08-14T15:40:25.000Z",
-    "scrapedAt": "2026-08-15T06:31:25.424Z"
-  },
-  {
-    "id": "arbeitnow:senior-analytics-engineer-marketing-uk-404195",
-    "externalId": "senior-analytics-engineer-marketing-uk-404195",
-    "source": "arbeitnow",
-    "title": "Senior Analytics Engineer - Marketing",
-    "company": "Paddle",
-    "location": "UK",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/paddle/senior-analytics-engineer-marketing-uk-404195",
-    "description": "What do we do?\n Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payment fragmentation. It’s faster, safer, cheaper, and, above all, way better.\n We’re backed by investors including KKR, FTV Capital, Kindred, Notion, and 83North and serve over 6000 software sellers in 245 territories globally.\n The Role:\n We are seeking a Senior Analytics Engineer to drive significant business impact by shaping our data infrastructure, developing robust data models, and promoting best practices in analytics engineering (e.g., data quality, documentation, and scalable data architectures). You will collaborate closely with the Marketing team in order to ensure that funnels are being tracked and surfaced in our data models and that Marketing campaigns can be evaluated using accurate data.\n What you'll do:\n Create trusted, self-serve datasets and reporting layers in Omni that power Marketing performance reviews, campaign reporting, attribution analysis, funnel health monitoring, and investment decision-making.\n Proactively identify and resolve data quality issues across Marketing and GTM systems, including source tracking, campaign metadata, funnel stage completeness, attribution coverage, and spend data.\n Add comprehensive metadata to datasets, including documentation, lineage, ownership, definitions, data quality checks, and sensitive data masking.\n Partner with Marketing stakeholders to translate business questions into robust data products, dashboards, analyses, and decision-ready insights.\n Enable Marketing teams to confidently use Omni and core GTM datasets through documentation, training, office hours, and self-serve resources.\n Activate data from Snowflake into operational tools where needed, supporting audience segmentation, lifecycle program…",
-    "tags": [
-      "Product & Engineering",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-08-14T15:40:25.000Z",
-    "scrapedAt": "2026-08-15T06:31:25.424Z"
-  },
-  {
-    "id": "jobicy:150666",
-    "externalId": "150666",
-    "source": "jobicy",
-    "title": "Data Engineer, Product Analytics",
-    "company": "Meta",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/750f86a9-221.jpeg",
-    "location": "USA",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/150666-data-engineer-product-analytics",
-    "description": "As a Data Engineer at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Reality Labs, Threads). Your technical skills and analytical mindset will be utilized designing and building some of the world's most extensive data sets, helping to craft experiences for billions of people and hundreds of millions of businesses worldwide.In this role, you will collaborate with software engineering, data science, and product management teams to design/build scalable data solutions across Meta to optimize growth, strategy, and user experience for our 3 billion plus users, as well as our internal employee community.You will be at the forefront of identifying and solving some of the most interesting data challenges at a scale few companies can match. By joining Meta, you will become part of a world-class data engineering community dedicated to skill development and career growth in data engineering and beyond.Data Engineering: You will guide teams by building optimal data artifacts (including datasets and visualizations) to address key questions. You will refine our systems, design logging solutions, and create scalable data models. Ensuring data security and quality, and with a strong focus on efficiency, you will suggest architecture and development approaches and data management standards to address complex analytical problems.Product leadership: You will use data to shape product development, identify new opportunities, and tackle upcoming challenges. You'll ensure our products add value for users and businesses, by prioritizing projects, and driving innovative solutions to respond to challenges or opportunities.Communication and influence: You won't simply present data, but tell data-driven stories. You will convince and influence your partners using clear insights and recommendations. You will build credibility through structure and clarity, and be a trust…",
-    "tags": [
-      "Data Science &amp; Analytics",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-08-14T13:01:08.000Z",
-    "scrapedAt": "2026-08-15T06:31:25.502Z"
-  },
-  {
-    "id": "jobicy:142570",
-    "externalId": "142570",
-    "source": "jobicy",
-    "title": "Senior Data Engineer",
-    "company": "Salesloft",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/03/8f0ff4d3ba38b945acfa9bbe11e39be1.jpeg",
-    "location": "Mexico",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/142570-senior-data-engineer-9",
-    "description": "Location: Remote - MX\n ABOUT THE COMPANY:\n Clari + Salesloft are building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we’re building the industry’s first Predictive Revenue System , enabling humans and AI to work together to make smarter decisions and drive consistent growth.\n With thousands of customers using our platforms every day, we have an unmatched view into how revenue is actually won — the Revenue Context that reveals what happens, when, and with what outcome. This gives us a unique opportunity to transform an entire category and set a new benchmark for how modern revenue teams operate.\n Join us to help transform how companies around the world run revenue — and build the platform that will guide leading revenue teams into the future.\n THE OPPORTUNITY:\n At Clari + Salesloft, our Data Engineer will be pivotal to our company’s success. You will be a key member of our fast-growing and high-performing Data & Analytics (D&A) team, helping build and maintain the data infrastructure that powers all of our internal reporting and analytics for multiple business teams. As a team, we are actively implementing the latest AI features and cutting-edge technologies to drive business insights.\n On a day-to-day basis, you will be responsible for architecting and delivering end-to-end data pipelines to support internal stakeholders. Specifically, you will:\n Design, build, and maintain scalable data pipelines and services for analytics and business intelligence.\n Develop data flows and applications for machine learning, analytics, and third-party data integrations.\n Collaborate with data scientists and analysts to deploy models and analytical solutions.\n Perform heads-down development, test your code, review peer code, and ship it to production.\n In addition to working with amazing colleagues who exemplify our ‘team over self’ core value, you will also have t…",
-    "tags": [
-      "Data Science &amp; Analytics",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-08-14T04:35:03.000Z",
-    "scrapedAt": "2026-08-15T06:31:25.502Z"
+    "scrapedAt": "2026-08-15T09:22:10.868Z"
   },
   {
     "id": "remoteok:1136594",
@@ -130,7 +93,7 @@
     ],
     "salary": "USD 40000 – 180000",
     "postedAt": "2026-08-13T16:06:05.000Z",
-    "scrapedAt": "2026-08-15T06:31:25.977Z"
+    "scrapedAt": "2026-08-15T09:22:11.309Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -146,7 +109,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-15T06:31:25.982Z"
+    "scrapedAt": "2026-08-15T09:22:11.314Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -165,7 +128,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-15T06:32:08.110Z"
+    "scrapedAt": "2026-08-15T09:25:12.827Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -181,6 +144,38 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-15T06:31:25.982Z"
+    "scrapedAt": "2026-08-15T09:22:11.314Z"
+  },
+  {
+    "id": "greenhouse:coinbase-8104148",
+    "externalId": "coinbase:8104148",
+    "source": "greenhouse",
+    "title": "Staff Analytics Engineer, Compliance Data",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "remote": true,
+    "url": "https://www.coinbase.com/careers/positions/8104148?gh_jid=8104148",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n We're hiring a Staff Analytics Engineer to lead the data foundations for the Compliance Data team within the Platform organization. This team owns the Compliance Reporting Data Platform, Coinbase's canonical source of truth for user, transaction, and compliance data, and every regulatory report at Coinbase depends on it. You'll define the technical direction for how compliance data is modeled, validated, and certified at scale, ensuring our foundations hold as products, entities, and regulatory requirements evolve, while also delivering accurate, timely data when regulators come calling.\n What you'll do:\n Own the systems, architecture, technical strategy, and roadmap for the Compliance Data, including the data models, pipelines, quality frameworks, and certification processes that the entire compliance reporting stack depends on.\n Build production-grade solutions, in addition to data models and pipelines, covering user, transaction, and compliance data across retail and institutional product lines, designing for durability, auditability, and consumption by both analysts and AI agents.\n Drive data quality at the source by establishing data contracts, validation frameworks, monitoring, and reconciliation logic that catch issues before they propagate to downstream reports or regulatory filings.\n Partner with upstream engineering teams, Compliance leadership, and downstream consum…",
+    "tags": [
+      "Data Science"
+    ],
+    "postedAt": "2026-08-06T21:32:09.000Z",
+    "scrapedAt": "2026-08-15T09:22:11.314Z"
+  },
+  {
+    "id": "greenhouse:lyft-8662205002",
+    "externalId": "lyft:8662205002",
+    "source": "greenhouse",
+    "title": "Data Engineer",
+    "company": "Lyft",
+    "location": "Toronto, Canada",
+    "remote": false,
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002",
+    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n The Safety and Customer Care (SCC) team at Lyft manages over 1.7 million monthly human and AI interactions and serves as Lyft's primary direct touchpoint with riders and drivers. We handle critical infrastructure that powers both human associates and AI agents to make riders and drivers feel safe and comfortable while riding or driving with Lyft, transforming every support interaction into a moment of genuine connection.\n As a Data Engineer on the SCC team, you will have ownership over the data modeling and pipelines that power SCC’s Associate and AI Agent Platform . Your efforts will be critical to the reliability of our pipelines, execution of third party data integrations, accurate reporting of agents performance, and efficiency improvements that can save millions of dollars / year. You will work cross-functionally to bridge Lyft's business goals with data engineering. Your efforts will allow access to business and user behavior insights, using huge amounts of Lyft data to fuel several teams such as Analytics, Data Science, Engineering, and many others.\n Responsibilities:\n Owner of the core data pipeline, responsible for scaling up data processing flow to meet the rapid data growth at Lyft\n Evolve data model and data schema based on business and engineering needs\n Implement systems tracking data quality and consistency\n Develop tools supporting self-service data pipeline management (ETL)\n SQL and MapReduce job tuning to improve data processing performance\n Write well-crafted, well-tested, readable, maintainable code\n Participate in code reviews to ensure code quality and distribute knowledge\n Collaborate cross-functionally with product, engineering, data science, and marketing teams to understand business problems and align on prioritization and solutions\n Experience:\n Bachelor's degree in Compu…",
+    "tags": [
+      "SCC Tech"
+    ],
+    "postedAt": "2026-08-06T00:02:08.000Z",
+    "scrapedAt": "2026-08-15T09:22:11.314Z"
   }
 ]
