@@ -1,22 +1,22 @@
 [
   {
-    "id": "jobicy:150764",
-    "externalId": "150764",
+    "id": "jobicy:150836",
+    "externalId": "150836",
     "source": "jobicy",
-    "title": "AI Data Engineer",
-    "company": "dscout",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/03/f81f478b71cf9399121a6f91aafc0bd3.jpeg",
+    "title": "Data Engineer",
+    "company": "Gopuff",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/05/Jobicy-210510095548-598926.jpg",
     "location": "USA",
     "remote": true,
-    "url": "https://jobicy.com/jobs/150764-ai-data-engineer",
-    "description": "At Dscout, we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Facebook, Meta, Spotify, AirBnB). Our tools help teams deeply understand the humans behind their products, so they can build better ones. We are expanding our smart and driven team and would love for you to join us.\n AI is a core part of how Dscout operates. Feature quality relies heavily on the data pipelines and infrastructure under the hood. As an AI Data Engineer you will be at the intersection of ML systems and data engineering, working closely with our MLE and analytics engineering teams to build the pipelines, models, and evaluation systems that make our AI features trustworthy in production.\n Dscout sits at a unique intersection: a platform where rich human behavior data meets the researchers trying to make sense of it. Getting that data right: structured, trustworthy, and ready to power both AI features and the reporting researchers rely on is foundational work. That's what this role is about.\n What you'll do\n Design, build, and own the data pipelines that move and transform data from our application and third-party sources into relational databases - keeping them reliable and well-modeled as volume and complexity grow\n Partner with analytics engineering to build the data models and reporting that give researchers and teams real visibility into how their work is performing\n Own data quality as a first-class concern across ingestion, modeling, and reporting. Catch problems before they reach a model, a dashboard, or a user, and fix them\n Build and ship production AI systems the data infrastructure and services that ML features run on\n Design and own evaluation systems that tell us whether an AI feature is ready to ship and holding up over time: eval harnesses, test data…",
+    "url": "https://jobicy.com/jobs/150836-data-engineer",
+    "description": "At Gopuff, data sits at the heart of our strategy. We are reimagining how people purchase everyday essentials, from snacks to household goods to alcohol, all delivered in minutes. To fuel this mission, we are seeking a Data Engineer to design, build, and scale the data systems that power insights, experimentation, and operational excellence across the company.\n As a Data Engineer, you will play a critical role in shaping Gopuff’s modern data platform. You’ll architect reliable pipelines, create insights ready data products, and collaborate closely with analytics, product, and engineering teams to ensure data is trustworthy, discoverable, and ready for action. This is a highly technical, hands-on role for an engineer who wants to solve complex data problems at scale and directly influence business outcomes.\n Responsibilities\n Design, build, and maintain scalable batch and real-time data pipelines that power analytics, experimentation, and machine learning\n Contribute to the architecture and maintenance of the Data Platform, ensuring systems are performant, cost-efficient and scalable\n Partner cross-functionally with analytics, product, engineering and operations to deliver high-quality data solutions that drive measurable business impact\n Develop and maintain curated, well-modeled datasets that serve as trusted sources of truth across the organization\n Champion data quality, reliability, and observability by implementing best practices in testing, monitoring, lineage, and incident response\n Contribute to team standards, patterns, and best practices\n Drive improvements to infrastructure, developer workflows, CI/CD, and data platform tooling\n Preferred Qualifications\n 3-5 years of experience in data engineering or software engineering with a strong focus on data platform development\n Proven experience building and scaling modern data platforms and delivering high-impact data solutions\n Strong communication skills and the ability to work closely with technical and non-…",
     "tags": [
-      "Software Engineering",
+      "Data Science &amp; Analytics",
       "Any"
     ],
     "jobType": "Full-Time",
-    "postedAt": "2026-08-15T13:59:34.000Z",
-    "scrapedAt": "2026-08-16T06:33:09.416Z"
+    "postedAt": "2026-08-16T03:41:13.000Z",
+    "scrapedAt": "2026-08-16T09:23:44.386Z"
   },
   {
     "id": "remoteok:1136594",
@@ -41,7 +41,7 @@
     ],
     "salary": "USD 40000 – 180000",
     "postedAt": "2026-08-13T16:06:05.000Z",
-    "scrapedAt": "2026-08-16T06:33:10.000Z"
+    "scrapedAt": "2026-08-16T09:23:44.924Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -57,7 +57,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-16T06:33:10.005Z"
+    "scrapedAt": "2026-08-16T09:23:44.930Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -76,7 +76,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-16T06:36:18.387Z"
+    "scrapedAt": "2026-08-16T09:26:50.093Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -92,7 +92,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-16T06:33:10.005Z"
+    "scrapedAt": "2026-08-16T09:23:44.930Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -108,7 +108,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-16T06:33:10.005Z"
+    "scrapedAt": "2026-08-16T09:23:44.930Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -124,7 +124,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-16T06:33:10.005Z"
+    "scrapedAt": "2026-08-16T09:23:44.930Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -140,7 +140,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-08-16T06:33:10.005Z"
+    "scrapedAt": "2026-08-16T09:23:44.930Z"
   },
   {
     "id": "greenhouse:discord-8614971002",
@@ -156,7 +156,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-16T06:33:10.005Z"
+    "scrapedAt": "2026-08-16T09:23:44.930Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -172,6 +172,6 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-08-16T06:33:10.005Z"
+    "scrapedAt": "2026-08-16T09:23:44.930Z"
   }
 ]
