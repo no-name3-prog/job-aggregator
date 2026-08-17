@@ -1,22 +1,38 @@
 [
   {
-    "id": "jobicy:150836",
-    "externalId": "150836",
-    "source": "jobicy",
-    "title": "Data Engineer",
-    "company": "Gopuff",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/05/Jobicy-210510095548-598926.jpg",
-    "location": "USA",
+    "id": "greenhouse:instacart-8132846",
+    "externalId": "instacart:8132846",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer II, Finance",
+    "company": "Instacart",
+    "location": "United States - Remote",
     "remote": true,
-    "url": "https://jobicy.com/jobs/150836-data-engineer",
-    "description": "At Gopuff, data sits at the heart of our strategy. We are reimagining how people purchase everyday essentials, from snacks to household goods to alcohol, all delivered in minutes. To fuel this mission, we are seeking a Data Engineer to design, build, and scale the data systems that power insights, experimentation, and operational excellence across the company.\n As a Data Engineer, you will play a critical role in shaping Gopuff’s modern data platform. You’ll architect reliable pipelines, create insights ready data products, and collaborate closely with analytics, product, and engineering teams to ensure data is trustworthy, discoverable, and ready for action. This is a highly technical, hands-on role for an engineer who wants to solve complex data problems at scale and directly influence business outcomes.\n Responsibilities\n Design, build, and maintain scalable batch and real-time data pipelines that power analytics, experimentation, and machine learning\n Contribute to the architecture and maintenance of the Data Platform, ensuring systems are performant, cost-efficient and scalable\n Partner cross-functionally with analytics, product, engineering and operations to deliver high-quality data solutions that drive measurable business impact\n Develop and maintain curated, well-modeled datasets that serve as trusted sources of truth across the organization\n Champion data quality, reliability, and observability by implementing best practices in testing, monitoring, lineage, and incident response\n Contribute to team standards, patterns, and best practices\n Drive improvements to infrastructure, developer workflows, CI/CD, and data platform tooling\n Preferred Qualifications\n 3-5 years of experience in data engineering or software engineering with a strong focus on data platform development\n Proven experience building and scaling modern data platforms and delivering high-impact data solutions\n Strong communication skills and the ability to work closely with technical and non-…",
+    "url": "https://instacart.careers/job/?gh_jid=8132846",
+    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-08-17T16:40:40.000Z",
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
+  },
+  {
+    "id": "jobicy:150903",
+    "externalId": "150903",
+    "source": "jobicy",
+    "title": "Sr. Data Engineer",
+    "company": "Instructure",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/04/430057884baf037dd2aa1e1e017e72b6.jpg",
+    "location": "Mexico",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/150903-sr-data-engineer",
+    "description": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education and careers.\nWe do this by giving smart, creative, passionate people opportunities to create awesome. And that's where you come in:\n We are looking for a Senior Data Engineer to lead the development and scaling of our core data infrastructure. You won’t just move data; you will be a key contributor in architecting and maintaining our Sources of Truth. Your mission is to transform raw, source data into authoritative, governed data marts by building high-performance pipelines and a robust Semantic Layer that ensures consistency across the entire business.\n If you enjoy the challenge of orchestrating complex workflows utilizing Databricks, Fivetran, dbt, and Snowflake—and you take pride in ensuring key metrics are defined once and trusted everywhere—this is the role for you.\n What You’ll Do\n End-to-End Pipeline Engineering: Design, build, and deploy scalable ETL/ELT pipelines from diverse source systems into our Snowflake Data Cloud.\n Cloud Infrastructure: Manage and optimize data flows within an AWS environment (S3, Lambda, IAM), ensuring high availability, security, and cost-efficiency.\n High-Scale Processing: Leverage Databricks and Python (PySpark) to handle complex data transformations and high-volume workloads.\n Implement the Semantic Layer: Collaborate with the team to define, implement, and scale our Semantic Layer (via dbt Semantic Layer, MetricFlow, or similar) to standardize business logic, metrics, and dimensions for all downstream consumers.\n Model for Truth: Use dbt to build modular, version-controlled, and tested data models that serve as the definitive foundation for business intelligence.\n Data Governance & Quality: Implement automated testing and monitoring…",
     "tags": [
       "Data Science &amp; Analytics",
-      "Any"
+      "Senior"
     ],
     "jobType": "Full-Time",
-    "postedAt": "2026-08-16T03:41:13.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.450Z"
+    "postedAt": "2026-08-17T13:03:51.000Z",
+    "scrapedAt": "2026-08-17T18:34:01.487Z"
   },
   {
     "id": "remoteok:1136594",
@@ -41,7 +57,7 @@
     ],
     "salary": "USD 40000 – 180000",
     "postedAt": "2026-08-13T16:06:05.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.930Z"
+    "scrapedAt": "2026-08-17T18:34:01.976Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -57,7 +73,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -76,7 +92,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-17T15:25:34.711Z"
+    "scrapedAt": "2026-08-17T18:37:25.921Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -92,7 +108,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -108,7 +124,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -124,7 +140,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -140,7 +156,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:discord-8614971002",
@@ -156,7 +172,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -172,7 +188,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -188,7 +204,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "lever:spotify-ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
@@ -208,7 +224,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-07-27T17:30:15.579Z",
-    "scrapedAt": "2026-08-17T15:25:33.671Z"
+    "scrapedAt": "2026-08-17T18:37:22.431Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -224,7 +240,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -240,7 +256,7 @@
       "Engineering"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -256,7 +272,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -272,7 +288,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -288,7 +304,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -304,7 +320,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -320,7 +336,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -336,7 +352,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -352,7 +368,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "lever:spotify-08d82da1-0c72-44d1-91eb-7fa22dee3d39",
@@ -372,7 +388,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-05-13T15:23:52.322Z",
-    "scrapedAt": "2026-08-17T15:25:33.671Z"
+    "scrapedAt": "2026-08-17T18:37:22.431Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -388,7 +404,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:coinbase-7736521",
@@ -404,7 +420,7 @@
       "Data Engineering"
     ],
     "postedAt": "2026-03-31T00:37:32.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:airbnb-7640881",
@@ -420,7 +436,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-02-20T09:59:16.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:anthropic-5125387008",
@@ -436,7 +452,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-02-20T00:49:54.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:stripe-7548037",
@@ -452,7 +468,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-01-20T05:58:11.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -468,7 +484,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -484,7 +500,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -500,7 +516,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:figma-5220003004",
@@ -516,7 +532,7 @@
       "Engineering"
     ],
     "postedAt": "2024-07-08T16:15:29.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -532,7 +548,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "workday:workday-JR-0108815",
@@ -548,367 +564,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:workday-JR-0107814",
-    "externalId": "workday:JR-0107814",
-    "source": "workday",
-    "title": "Senior Cybersecurity Data Engineer - AI/ML SME",
-    "company": "Workday",
-    "location": "2 Locations",
-    "remote": false,
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---AI-ML-SME_JR-0107814",
-    "description": "",
-    "tags": [
-      "Flex"
-    ],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:workday-JR-0108816",
-    "externalId": "workday:JR-0108816",
-    "source": "workday",
-    "title": "Data Platform Engineer - Cybersecurity",
-    "company": "Workday",
-    "location": "Ireland, Dublin",
-    "remote": false,
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816",
-    "description": "",
-    "tags": [
-      "Flex"
-    ],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:workday-JR-0107883",
-    "externalId": "workday:JR-0107883",
-    "source": "workday",
-    "title": "Principal Analytics Engineer",
-    "company": "Workday",
-    "location": "2 Locations",
-    "remote": false,
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Principal-Analytics-Engineer_JR-0107883",
-    "description": "",
-    "tags": [
-      "Flex"
-    ],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:nvidia-JR2020545",
-    "externalId": "nvidia:JR2020545",
-    "source": "workday",
-    "title": "Senior Data Engineer, Engineering Data Analytics",
-    "company": "NVIDIA",
-    "location": "US, CA, Santa Clara",
-    "remote": false,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer--Engineering-Data-Analytics_JR2020545",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:nvidia-JR2021975",
-    "externalId": "nvidia:JR2021975",
-    "source": "workday",
-    "title": "Senior Interconnect Product Data Engineer",
-    "company": "NVIDIA",
-    "location": "Israel, Yokneam",
-    "remote": false,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Interconnect-Product-Data-Engineer_JR2021975",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:nvidia-JR2019415",
-    "externalId": "nvidia:JR2019415",
-    "source": "workday",
-    "title": "Principal Security Data Engineer, Infrastructure Security Engineering - DGX Cloud",
-    "company": "NVIDIA",
-    "location": "4 Locations",
-    "remote": false,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Security-Data-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2019415",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:salesforce-JR352818",
-    "externalId": "salesforce:JR352818",
-    "source": "workday",
-    "title": "Director, Data Engineering",
-    "company": "Salesforce",
-    "location": "India - Hyderabad",
-    "remote": false,
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Director--Data-Engineering_JR352818",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:redhat-R-058577",
-    "externalId": "redhat:R-058577",
-    "source": "workday",
-    "title": "Principal Data Engineer / Financial Analyst",
-    "company": "Red Hat",
-    "location": "Raleigh",
-    "remote": false,
-    "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Principal-Data-Engineer---Financial-Analyst_R-058577-1",
-    "description": "",
-    "tags": [
-      "Hybrid"
-    ],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:redhat-R-058752",
-    "externalId": "redhat:R-058752",
-    "source": "workday",
-    "title": "Senior Data Engineer",
-    "company": "Red Hat",
-    "location": "Raleigh",
-    "remote": true,
-    "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Senior-Data-Engineer_R-058752",
-    "description": "",
-    "tags": [
-      "Remote"
-    ],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:adobe-R169988",
-    "externalId": "adobe:R169988",
-    "source": "workday",
-    "title": "Senior Data Engineer",
-    "company": "Adobe",
-    "location": "San Jose",
-    "remote": false,
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Science-Engineer_R169988",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:adobe-R170861",
-    "externalId": "adobe:R170861",
-    "source": "workday",
-    "title": "Senior Data Engineer",
-    "company": "Adobe",
-    "location": "Noida",
-    "remote": false,
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Science-Engineer-3_R170861-1",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:adobe-R170680",
-    "externalId": "adobe:R170680",
-    "source": "workday",
-    "title": "Senior Data Engineer",
-    "company": "Adobe",
-    "location": "San Francisco",
-    "remote": false,
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Engineer_R170680-1",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:adobe-R171024",
-    "externalId": "adobe:R171024",
-    "source": "workday",
-    "title": "Senior Data Engineer",
-    "company": "Adobe",
-    "location": "Bangalore",
-    "remote": false,
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Data-Engineer_R171024",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:adobe-R169536",
-    "externalId": "adobe:R169536",
-    "source": "workday",
-    "title": "Data Platform Engineer",
-    "company": "Adobe",
-    "location": "Bucharest",
-    "remote": false,
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:adobe-R170588",
-    "externalId": "adobe:R170588",
-    "source": "workday",
-    "title": "Principal Scientist - Data Pipeline Engineer",
-    "company": "Adobe",
-    "location": "3 Locations",
-    "remote": false,
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:autodesk-26WD100065",
-    "externalId": "autodesk:26WD100065",
-    "source": "workday",
-    "title": "Senior Data Engineer",
-    "company": "Autodesk",
-    "location": "Bengaluru, IND",
-    "remote": false,
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Data-Engineer_26WD100065-2",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:autodesk-26WD100064",
-    "externalId": "autodesk:26WD100064",
-    "source": "workday",
-    "title": "Principal Data Engineer",
-    "company": "Autodesk",
-    "location": "Bengaluru, IND",
-    "remote": false,
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Principal-Data-Engineer_26WD100064-1",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:autodesk-26WD100418",
-    "externalId": "autodesk:26WD100418",
-    "source": "workday",
-    "title": "Data Engineer with AI",
-    "company": "Autodesk",
-    "location": "Kraków, POL",
-    "remote": false,
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:autodesk-26WD97991",
-    "externalId": "autodesk:26WD97991",
-    "source": "workday",
-    "title": "Principal Data Engineer, User Success",
-    "company": "Autodesk",
-    "location": "Toronto, ON, CAN",
-    "remote": false,
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:autodesk-26WD98052",
-    "externalId": "autodesk:26WD98052",
-    "source": "workday",
-    "title": "Principal Data Engineer, User Success (Agentic Experiences)",
-    "company": "Autodesk",
-    "location": "Toronto, ON, CAN",
-    "remote": false,
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:autodesk-25WD89669",
-    "externalId": "autodesk:25WD89669",
-    "source": "workday",
-    "title": "Principal Data Engineer -General application",
-    "company": "Autodesk",
-    "location": "2 Locations",
-    "remote": false,
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:22:26.785Z"
-  },
-  {
-    "id": "workday:salesforce-JR352975",
-    "externalId": "salesforce:JR352975",
-    "source": "workday",
-    "title": "Principal Data Engineer",
-    "company": "Salesforce",
-    "location": "2 Locations",
-    "remote": false,
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Data-Engineer_JR352975",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:23:41.689Z"
-  },
-  {
-    "id": "workday:salesforce-JR353004",
-    "externalId": "salesforce:JR353004",
-    "source": "workday",
-    "title": "Data Engineer Senior",
-    "company": "Salesforce",
-    "location": "Mexico - Mexico City",
-    "remote": false,
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:23:41.689Z"
-  },
-  {
-    "id": "workday:salesforce-JR336657",
-    "externalId": "salesforce:JR336657",
-    "source": "workday",
-    "title": "Senior Data Engineer",
-    "company": "Salesforce",
-    "location": "Mexico - Mexico City",
-    "remote": false,
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:23:41.689Z"
-  },
-  {
-    "id": "workday:salesforce-JR347383",
-    "externalId": "salesforce:JR347383",
-    "source": "workday",
-    "title": "PMTS - Principal Agentic Data Engineer",
-    "company": "Salesforce",
-    "location": "Mexico - Mexico City",
-    "remote": false,
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-17T15:23:41.689Z"
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -924,6 +580,366 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-17T15:24:24.375Z"
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:workday-JR-0107814",
+    "externalId": "workday:JR-0107814",
+    "source": "workday",
+    "title": "Senior Cybersecurity Data Engineer - AI/ML SME",
+    "company": "Workday",
+    "location": "2 Locations",
+    "remote": false,
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---AI-ML-SME_JR-0107814",
+    "description": "",
+    "tags": [
+      "Flex"
+    ],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:workday-JR-0108816",
+    "externalId": "workday:JR-0108816",
+    "source": "workday",
+    "title": "Data Platform Engineer - Cybersecurity",
+    "company": "Workday",
+    "location": "Ireland, Dublin",
+    "remote": false,
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816",
+    "description": "",
+    "tags": [
+      "Flex"
+    ],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:workday-JR-0107883",
+    "externalId": "workday:JR-0107883",
+    "source": "workday",
+    "title": "Principal Analytics Engineer",
+    "company": "Workday",
+    "location": "2 Locations",
+    "remote": false,
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Principal-Analytics-Engineer_JR-0107883",
+    "description": "",
+    "tags": [
+      "Flex"
+    ],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:nvidia-JR2020545",
+    "externalId": "nvidia:JR2020545",
+    "source": "workday",
+    "title": "Senior Data Engineer, Engineering Data Analytics",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "remote": false,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer--Engineering-Data-Analytics_JR2020545",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:nvidia-JR2021975",
+    "externalId": "nvidia:JR2021975",
+    "source": "workday",
+    "title": "Senior Interconnect Product Data Engineer",
+    "company": "NVIDIA",
+    "location": "Israel, Yokneam",
+    "remote": false,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Interconnect-Product-Data-Engineer_JR2021975",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:nvidia-JR2019415",
+    "externalId": "nvidia:JR2019415",
+    "source": "workday",
+    "title": "Principal Security Data Engineer, Infrastructure Security Engineering - DGX Cloud",
+    "company": "NVIDIA",
+    "location": "4 Locations",
+    "remote": false,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Security-Data-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2019415",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:salesforce-JR352818",
+    "externalId": "salesforce:JR352818",
+    "source": "workday",
+    "title": "Director, Data Engineering",
+    "company": "Salesforce",
+    "location": "India - Hyderabad",
+    "remote": false,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Director--Data-Engineering_JR352818",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:redhat-R-058577",
+    "externalId": "redhat:R-058577",
+    "source": "workday",
+    "title": "Principal Data Engineer / Financial Analyst",
+    "company": "Red Hat",
+    "location": "Raleigh",
+    "remote": false,
+    "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Principal-Data-Engineer---Financial-Analyst_R-058577-1",
+    "description": "",
+    "tags": [
+      "Hybrid"
+    ],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:redhat-R-058752",
+    "externalId": "redhat:R-058752",
+    "source": "workday",
+    "title": "Senior Data Engineer",
+    "company": "Red Hat",
+    "location": "Raleigh",
+    "remote": true,
+    "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Senior-Data-Engineer_R-058752",
+    "description": "",
+    "tags": [
+      "Remote"
+    ],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:adobe-R169988",
+    "externalId": "adobe:R169988",
+    "source": "workday",
+    "title": "Senior Data Engineer",
+    "company": "Adobe",
+    "location": "San Jose",
+    "remote": false,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Science-Engineer_R169988",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:adobe-R170861",
+    "externalId": "adobe:R170861",
+    "source": "workday",
+    "title": "Senior Data Engineer",
+    "company": "Adobe",
+    "location": "Noida",
+    "remote": false,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Science-Engineer-3_R170861-1",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:adobe-R170680",
+    "externalId": "adobe:R170680",
+    "source": "workday",
+    "title": "Senior Data Engineer",
+    "company": "Adobe",
+    "location": "San Francisco",
+    "remote": false,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Engineer_R170680-1",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:adobe-R171024",
+    "externalId": "adobe:R171024",
+    "source": "workday",
+    "title": "Senior Data Engineer",
+    "company": "Adobe",
+    "location": "Bangalore",
+    "remote": false,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Data-Engineer_R171024",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:adobe-R169536",
+    "externalId": "adobe:R169536",
+    "source": "workday",
+    "title": "Data Platform Engineer",
+    "company": "Adobe",
+    "location": "Bucharest",
+    "remote": false,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:adobe-R170588",
+    "externalId": "adobe:R170588",
+    "source": "workday",
+    "title": "Principal Scientist - Data Pipeline Engineer",
+    "company": "Adobe",
+    "location": "3 Locations",
+    "remote": false,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:autodesk-26WD100065",
+    "externalId": "autodesk:26WD100065",
+    "source": "workday",
+    "title": "Senior Data Engineer",
+    "company": "Autodesk",
+    "location": "Bengaluru, IND",
+    "remote": false,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Data-Engineer_26WD100065-2",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:autodesk-26WD100064",
+    "externalId": "autodesk:26WD100064",
+    "source": "workday",
+    "title": "Principal Data Engineer",
+    "company": "Autodesk",
+    "location": "Bengaluru, IND",
+    "remote": false,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Principal-Data-Engineer_26WD100064-1",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:autodesk-26WD100418",
+    "externalId": "autodesk:26WD100418",
+    "source": "workday",
+    "title": "Data Engineer with AI",
+    "company": "Autodesk",
+    "location": "Kraków, POL",
+    "remote": false,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:autodesk-26WD97991",
+    "externalId": "autodesk:26WD97991",
+    "source": "workday",
+    "title": "Principal Data Engineer, User Success",
+    "company": "Autodesk",
+    "location": "Toronto, ON, CAN",
+    "remote": false,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:autodesk-26WD98052",
+    "externalId": "autodesk:26WD98052",
+    "source": "workday",
+    "title": "Principal Data Engineer, User Success (Agentic Experiences)",
+    "company": "Autodesk",
+    "location": "Toronto, ON, CAN",
+    "remote": false,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:autodesk-25WD89669",
+    "externalId": "autodesk:25WD89669",
+    "source": "workday",
+    "title": "Principal Data Engineer -General application",
+    "company": "Autodesk",
+    "location": "2 Locations",
+    "remote": false,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:34:09.117Z"
+  },
+  {
+    "id": "workday:salesforce-JR352975",
+    "externalId": "salesforce:JR352975",
+    "source": "workday",
+    "title": "Principal Data Engineer",
+    "company": "Salesforce",
+    "location": "2 Locations",
+    "remote": false,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Data-Engineer_JR352975",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:35:24.472Z"
+  },
+  {
+    "id": "workday:salesforce-JR353004",
+    "externalId": "salesforce:JR353004",
+    "source": "workday",
+    "title": "Data Engineer Senior",
+    "company": "Salesforce",
+    "location": "Mexico - Mexico City",
+    "remote": false,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:35:24.472Z"
+  },
+  {
+    "id": "workday:salesforce-JR336657",
+    "externalId": "salesforce:JR336657",
+    "source": "workday",
+    "title": "Senior Data Engineer",
+    "company": "Salesforce",
+    "location": "Mexico - Mexico City",
+    "remote": false,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:35:24.472Z"
+  },
+  {
+    "id": "workday:salesforce-JR347383",
+    "externalId": "salesforce:JR347383",
+    "source": "workday",
+    "title": "PMTS - Principal Agentic Data Engineer",
+    "company": "Salesforce",
+    "location": "Mexico - Mexico City",
+    "remote": false,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-17T18:35:24.472Z"
   }
 ]

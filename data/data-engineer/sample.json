@@ -1,22 +1,38 @@
 [
   {
-    "id": "jobicy:150836",
-    "externalId": "150836",
-    "source": "jobicy",
-    "title": "Data Engineer",
-    "company": "Gopuff",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/05/Jobicy-210510095548-598926.jpg",
-    "location": "USA",
+    "id": "greenhouse:instacart-8132846",
+    "externalId": "instacart:8132846",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer II, Finance",
+    "company": "Instacart",
+    "location": "United States - Remote",
     "remote": true,
-    "url": "https://jobicy.com/jobs/150836-data-engineer",
-    "description": "At Gopuff, data sits at the heart of our strategy. We are reimagining how people purchase everyday essentials, from snacks to household goods to alcohol, all delivered in minutes. To fuel this mission, we are seeking a Data Engineer to design, build, and scale the data systems that power insights, experimentation, and operational excellence across the company.\n As a Data Engineer, you will play a critical role in shaping Gopuff’s modern data platform. You’ll architect reliable pipelines, create insights ready data products, and collaborate closely with analytics, product, and engineering teams to ensure data is trustworthy, discoverable, and ready for action. This is a highly technical, hands-on role for an engineer who wants to solve complex data problems at scale and directly influence business outcomes.\n Responsibilities\n Design, build, and maintain scalable batch and real-time data pipelines that power analytics, experimentation, and machine learning\n Contribute to the architecture and maintenance of the Data Platform, ensuring systems are performant, cost-efficient and scalable\n Partner cross-functionally with analytics, product, engineering and operations to deliver high-quality data solutions that drive measurable business impact\n Develop and maintain curated, well-modeled datasets that serve as trusted sources of truth across the organization\n Champion data quality, reliability, and observability by implementing best practices in testing, monitoring, lineage, and incident response\n Contribute to team standards, patterns, and best practices\n Drive improvements to infrastructure, developer workflows, CI/CD, and data platform tooling\n Preferred Qualifications\n 3-5 years of experience in data engineering or software engineering with a strong focus on data platform development\n Proven experience building and scaling modern data platforms and delivering high-impact data solutions\n Strong communication skills and the ability to work closely with technical and non-…",
+    "url": "https://instacart.careers/job/?gh_jid=8132846",
+    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-08-17T16:40:40.000Z",
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
+  },
+  {
+    "id": "jobicy:150903",
+    "externalId": "150903",
+    "source": "jobicy",
+    "title": "Sr. Data Engineer",
+    "company": "Instructure",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/04/430057884baf037dd2aa1e1e017e72b6.jpg",
+    "location": "Mexico",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/150903-sr-data-engineer",
+    "description": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education and careers.\nWe do this by giving smart, creative, passionate people opportunities to create awesome. And that's where you come in:\n We are looking for a Senior Data Engineer to lead the development and scaling of our core data infrastructure. You won’t just move data; you will be a key contributor in architecting and maintaining our Sources of Truth. Your mission is to transform raw, source data into authoritative, governed data marts by building high-performance pipelines and a robust Semantic Layer that ensures consistency across the entire business.\n If you enjoy the challenge of orchestrating complex workflows utilizing Databricks, Fivetran, dbt, and Snowflake—and you take pride in ensuring key metrics are defined once and trusted everywhere—this is the role for you.\n What You’ll Do\n End-to-End Pipeline Engineering: Design, build, and deploy scalable ETL/ELT pipelines from diverse source systems into our Snowflake Data Cloud.\n Cloud Infrastructure: Manage and optimize data flows within an AWS environment (S3, Lambda, IAM), ensuring high availability, security, and cost-efficiency.\n High-Scale Processing: Leverage Databricks and Python (PySpark) to handle complex data transformations and high-volume workloads.\n Implement the Semantic Layer: Collaborate with the team to define, implement, and scale our Semantic Layer (via dbt Semantic Layer, MetricFlow, or similar) to standardize business logic, metrics, and dimensions for all downstream consumers.\n Model for Truth: Use dbt to build modular, version-controlled, and tested data models that serve as the definitive foundation for business intelligence.\n Data Governance & Quality: Implement automated testing and monitoring…",
     "tags": [
       "Data Science &amp; Analytics",
-      "Any"
+      "Senior"
     ],
     "jobType": "Full-Time",
-    "postedAt": "2026-08-16T03:41:13.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.450Z"
+    "postedAt": "2026-08-17T13:03:51.000Z",
+    "scrapedAt": "2026-08-17T18:34:01.487Z"
   },
   {
     "id": "remoteok:1136594",
@@ -41,7 +57,7 @@
     ],
     "salary": "USD 40000 – 180000",
     "postedAt": "2026-08-13T16:06:05.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.930Z"
+    "scrapedAt": "2026-08-17T18:34:01.976Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -57,7 +73,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -76,7 +92,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-17T15:25:34.711Z"
+    "scrapedAt": "2026-08-17T18:37:25.921Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -92,7 +108,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -108,7 +124,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -124,7 +140,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -140,7 +156,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   },
   {
     "id": "greenhouse:discord-8614971002",
@@ -156,22 +172,6 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
-  },
-  {
-    "id": "greenhouse:dropbox-8090062",
-    "externalId": "dropbox:8090062",
-    "source": "greenhouse",
-    "title": "Senior Manager, Data Engineering",
-    "company": "Dropbox",
-    "location": "Remote - US: Select locations",
-    "remote": true,
-    "url": "https://jobs.dropbox.com/listing/8090062?gh_jid=8090062",
-    "description": "Role Description\n We are seeking a Senior Manager, Data Engineering to lead the team responsible for the reliability, quality, cost, and velocity of Dropbox's core data platform. This is a hands-on engineering leader who owns the pipelines and data products that Product, GTM, Finance, and the CTO organization depend on to make decisions.\n In this role, you will lead and grow a team of data engineers building and operating our ingestion, transformation, orchestration, and serving layers, as well as the self-serve analytics substrate that lets partner teams answer their own questions without bespoke engineering work.\n The ideal candidate is a deeply technical, product-minded engineering leader who can hold a high bar on system reliability and data quality while partnering closely with Data Science, Business Intelligence Engineering, Analytics, and Product to turn fragmented, ticket-driven data work into durable, reusable data products.\n Responsibilities\n Data Quality & Observability: Establish and enforce a rigorous data quality culture: lineage, freshness monitoring, anomaly detection, and outcome-oriented, gaming-resistant quality metrics.\n Self-Serve Platform: Lead the engineering of the self-serve analytics substrate, reducing bespoke request volume and increasing partner-team autonomy.\n Cost & Efficiency: Own the unit economics of the data platform — compute and storage efficiency — and drive measurable improvements without sacrificing reliability.\n Cross-Functional Partnership: Partner deeply with Data Science, BIE, Analytics, Product, Data Platform, and the CTO org to define the semantic layer, modeling standards, and data contracts that make downstream work trustworthy and fast.\n Engineering Culture: Establish rigorous engineering practices — code review, testing, CI/CD for data, incident response, and postmortems — and champion the effective, measured use of AI coding tools to improve engineering productivity.\n Team Leadership: Lead, mentor, and grow a high-…",
-    "tags": [
-      "CTO-Data Science, AI Platform & Eng (Sub Team)"
-    ],
-    "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-08-17T15:21:48.935Z"
+    "scrapedAt": "2026-08-17T18:34:01.982Z"
   }
 ]
