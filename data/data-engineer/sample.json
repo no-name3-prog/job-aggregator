@@ -1,23 +1,5 @@
 [
   {
-    "id": "arbeitnow:graduate-data-engineer-london-410046",
-    "externalId": "graduate-data-engineer-london-410046",
-    "source": "arbeitnow",
-    "title": "Graduate Data Engineer",
-    "company": "Quantum",
-    "location": "London (hybrid)",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/graduate-data-engineer-london-410046",
-    "description": "Our Company\n At Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.\n Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison service, delivering value and simplicity to millions.\n We drive growth through data-driven affiliate marketing built for performance from day one. Every campaign is measurable, optimised in real time, and designed to scale.\n With in-house tech, full-stack analytics, and a compliance-first mindset, we give our partners an edge. We drive confident decisions and growth in regulated and high-growth sectors. We’ve helped ambitious brands grow faster, smarter, and globally.\n The Role As a Data Engineering Graduate, you'll be an integral part of our Data Engineering team. From day one, you'll gain hands-on experience, taking on meaningful responsibility, and making a tangible impact. This role is ideal for someone who likes building things that last and wants to learn how reliable data infrastructure is designed, built and maintained at scale.\n Key Responsibilities Pipeline development: you'll help build and maintain the data pipelines that ingest, clean and move data across our systems, learning how reliable data flows are engineered\n Data integration: you'll support the onboarding of new data sources, writing and testing the logic that brings partner data into our platform cleanly and consistently\n Transformation and modelling: you'll apply transformations that turn raw data into structured, trustworthy datasets the wider business can use\n Monitoring and reliability: you'll help keep our ingestion pipelines running, flagging issues early and learning how we maintain the integrity of our data operations\n Quality assurance: whether it's checking for anomalies or validating schemas and formats, your attention to detail will keep our data trustworthy and actionable\n Automation and process improvement: you'll help identif…",
-    "tags": [
-      "Technology",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-08-16T15:40:07.000Z",
-    "scrapedAt": "2026-08-17T12:36:01.853Z"
-  },
-  {
     "id": "jobicy:150836",
     "externalId": "150836",
     "source": "jobicy",
@@ -34,7 +16,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-08-16T03:41:13.000Z",
-    "scrapedAt": "2026-08-17T12:36:01.922Z"
+    "scrapedAt": "2026-08-17T15:21:48.450Z"
   },
   {
     "id": "remoteok:1136594",
@@ -59,7 +41,7 @@
     ],
     "salary": "USD 40000 – 180000",
     "postedAt": "2026-08-13T16:06:05.000Z",
-    "scrapedAt": "2026-08-17T12:36:02.454Z"
+    "scrapedAt": "2026-08-17T15:21:48.930Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -75,7 +57,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-17T12:36:02.460Z"
+    "scrapedAt": "2026-08-17T15:21:48.935Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -94,7 +76,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-17T12:39:12.396Z"
+    "scrapedAt": "2026-08-17T15:25:34.711Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -110,7 +92,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-17T12:36:02.460Z"
+    "scrapedAt": "2026-08-17T15:21:48.935Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -126,7 +108,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-17T12:36:02.460Z"
+    "scrapedAt": "2026-08-17T15:21:48.935Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -142,7 +124,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-17T12:36:02.460Z"
+    "scrapedAt": "2026-08-17T15:21:48.935Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -158,7 +140,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-08-17T12:36:02.460Z"
+    "scrapedAt": "2026-08-17T15:21:48.935Z"
   },
   {
     "id": "greenhouse:discord-8614971002",
@@ -174,6 +156,22 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-17T12:36:02.460Z"
+    "scrapedAt": "2026-08-17T15:21:48.935Z"
+  },
+  {
+    "id": "greenhouse:dropbox-8090062",
+    "externalId": "dropbox:8090062",
+    "source": "greenhouse",
+    "title": "Senior Manager, Data Engineering",
+    "company": "Dropbox",
+    "location": "Remote - US: Select locations",
+    "remote": true,
+    "url": "https://jobs.dropbox.com/listing/8090062?gh_jid=8090062",
+    "description": "Role Description\n We are seeking a Senior Manager, Data Engineering to lead the team responsible for the reliability, quality, cost, and velocity of Dropbox's core data platform. This is a hands-on engineering leader who owns the pipelines and data products that Product, GTM, Finance, and the CTO organization depend on to make decisions.\n In this role, you will lead and grow a team of data engineers building and operating our ingestion, transformation, orchestration, and serving layers, as well as the self-serve analytics substrate that lets partner teams answer their own questions without bespoke engineering work.\n The ideal candidate is a deeply technical, product-minded engineering leader who can hold a high bar on system reliability and data quality while partnering closely with Data Science, Business Intelligence Engineering, Analytics, and Product to turn fragmented, ticket-driven data work into durable, reusable data products.\n Responsibilities\n Data Quality & Observability: Establish and enforce a rigorous data quality culture: lineage, freshness monitoring, anomaly detection, and outcome-oriented, gaming-resistant quality metrics.\n Self-Serve Platform: Lead the engineering of the self-serve analytics substrate, reducing bespoke request volume and increasing partner-team autonomy.\n Cost & Efficiency: Own the unit economics of the data platform — compute and storage efficiency — and drive measurable improvements without sacrificing reliability.\n Cross-Functional Partnership: Partner deeply with Data Science, BIE, Analytics, Product, Data Platform, and the CTO org to define the semantic layer, modeling standards, and data contracts that make downstream work trustworthy and fast.\n Engineering Culture: Establish rigorous engineering practices — code review, testing, CI/CD for data, incident response, and postmortems — and champion the effective, measured use of AI coding tools to improve engineering productivity.\n Team Leadership: Lead, mentor, and grow a high-…",
+    "tags": [
+      "CTO-Data Science, AI Platform & Eng (Sub Team)"
+    ],
+    "postedAt": "2026-07-29T21:04:04.000Z",
+    "scrapedAt": "2026-08-17T15:21:48.935Z"
   }
 ]

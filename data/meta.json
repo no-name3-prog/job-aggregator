@@ -1,7 +1,7 @@
 {
-  "lastRunAt": "2026-08-17T12:36:01.169Z",
-  "durationMs": 49797,
-  "totalJobs": 3298,
+  "lastRunAt": "2026-08-17T15:21:47.673Z",
+  "durationMs": 48483,
+  "totalJobs": 3123,
   "sources": [
     {
       "source": "remotive",
@@ -10,8 +10,9 @@
     },
     {
       "source": "arbeitnow",
-      "fetched": 175,
-      "kept": 175
+      "fetched": 0,
+      "kept": 0,
+      "error": "(j.job_types ?? []) is not iterable"
     },
     {
       "source": "jobicy",
