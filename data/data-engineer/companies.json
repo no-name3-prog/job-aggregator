@@ -152,6 +152,28 @@
     ]
   },
   {
+    "company": "Blab",
+    "jobCount": 3,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "São Paulo, BR",
+      "Philadelphia, PA metro area",
+      "New York City, NY metro area"
+    ],
+    "sampleTitles": [
+      "Junior Data Engineer (São Paulo, BR)",
+      "Junior Data Engineer (Philadelphia, PA)",
+      "Junior Data Engineer (New York, NY)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/blab/junior-data-engineer-sao-paulo-br-118043",
+      "https://www.arbeitnow.co.uk/jobs/companies/blab/junior-data-engineer-philadelphia-pa-philadelphia-pa-metro-area-384650",
+      "https://www.arbeitnow.co.uk/jobs/companies/blab/junior-data-engineer-new-york-ny-new-york-city-ny-metro-area-354342"
+    ]
+  },
+  {
     "company": "Discord",
     "jobCount": 3,
     "sources": [
@@ -172,25 +194,21 @@
     ]
   },
   {
-    "company": "NVIDIA",
-    "jobCount": 3,
+    "company": "1Komma5Grad",
+    "jobCount": 2,
     "sources": [
-      "workday"
+      "arbeitnow"
     ],
     "locations": [
-      "US, CA, Santa Clara",
-      "Israel, Yokneam",
-      "4 Locations"
+      "Remote"
     ],
     "sampleTitles": [
-      "Senior Data Engineer, Engineering Data Analytics",
-      "Senior Interconnect Product Data Engineer",
-      "Principal Security Data Engineer, Infrastructure Security Engineering - DGX Cloud"
+      "(Senior) Analytics Engineer (m/f/d)",
+      "(Junior) Data Engineer - Data Platform (m/f/d)"
     ],
     "officialUrls": [
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer--Engineering-Data-Analytics_JR2020545",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Interconnect-Product-Data-Engineer_JR2021975",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Security-Data-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2019415"
+      "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-analytics-engineer-373361",
+      "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-159693"
     ]
   },
   {
@@ -250,6 +268,24 @@
     ]
   },
   {
+    "company": "Dishdigital",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Düsseldorf"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer (m/f/d)",
+      "Data Engineer (m/f/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/dishdigital/senior-data-engineer-dusseldorf-454148",
+      "https://www.arbeitnow.com/jobs/companies/dishdigital/data-engineer-dusseldorf-270143"
+    ]
+  },
+  {
     "company": "Dropbox",
     "jobCount": 2,
     "sources": [
@@ -285,6 +321,25 @@
     "officialUrls": [
       "https://instacart.careers/job/?gh_jid=8132846",
       "https://instacart.careers/job/?gh_jid=8126023"
+    ]
+  },
+  {
+    "company": "NVIDIA",
+    "jobCount": 2,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "US, CA, Santa Clara",
+      "Israel, Yokneam"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer, Engineering Data Analytics",
+      "Senior Interconnect Product Data Engineer"
+    ],
+    "officialUrls": [
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer--Engineering-Data-Analytics_JR2020545",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Interconnect-Product-Data-Engineer_JR2021975"
     ]
   },
   {
@@ -341,6 +396,22 @@
     ]
   },
   {
+    "company": "Aircall",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London Office"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer - Real time analytics"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-368823"
+    ]
+  },
+  {
     "company": "Block",
     "jobCount": 1,
     "sources": [
@@ -354,6 +425,22 @@
     ],
     "officialUrls": [
       "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008"
+    ]
+  },
+  {
+    "company": "Christundcompany",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin"
+    ],
+    "sampleTitles": [
+      "Praktikum - Political Data Engineering (w/d/m)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/christundcompany/praktikum-political-data-engineering-berlin-285507"
     ]
   },
   {
@@ -434,6 +521,22 @@
     ],
     "officialUrls": [
       "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002"
+    ]
+  },
+  {
+    "company": "Quantum",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London (hybrid)"
+    ],
+    "sampleTitles": [
+      "Head of Data Engineering"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/quantum/head-of-data-engineering-london-441668"
     ]
   },
   {
