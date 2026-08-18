@@ -284,25 +284,6 @@
     ]
   },
   {
-    "company": "Spotify",
-    "jobCount": 2,
-    "sources": [
-      "lever"
-    ],
-    "locations": [
-      "London",
-      "Stockholm"
-    ],
-    "sampleTitles": [
-      "Staff Data Engineer — Subscriptions User Understanding",
-      "Analytics Engineer II"
-    ],
-    "officialUrls": [
-      "https://jobs.lever.co/spotify/ba9d817a-a4aa-4452-ab56-ddd7cbc10943",
-      "https://jobs.lever.co/spotify/08d82da1-0c72-44d1-91eb-7fa22dee3d39"
-    ]
-  },
-  {
     "company": "Affirm",
     "jobCount": 1,
     "sources": [
@@ -447,6 +428,22 @@
     ]
   },
   {
+    "company": "Spotify",
+    "jobCount": 1,
+    "sources": [
+      "lever"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Staff Data Engineer — Subscriptions User Understanding"
+    ],
+    "officialUrls": [
+      "https://jobs.lever.co/spotify/ba9d817a-a4aa-4452-ab56-ddd7cbc10943"
+    ]
+  },
+  {
     "company": "Stripe",
     "jobCount": 1,
     "sources": [
@@ -476,6 +473,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/twilio/jobs/8044650"
+    ]
+  },
+  {
+    "company": "Vomela",
+    "jobCount": 1,
+    "sources": [
+      "remoteok"
+    ],
+    "locations": [
+      "Remote"
+    ],
+    "sampleTitles": [
+      "Principal Data Engineer"
+    ],
+    "officialUrls": [
+      "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860"
     ]
   }
 ]
