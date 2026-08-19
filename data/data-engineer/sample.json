@@ -1,5 +1,77 @@
 [
   {
+    "id": "arbeitnow:data-engineer-berlin-153233",
+    "externalId": "data-engineer-berlin-153233",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "Platoapp",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/platoapp/data-engineer-berlin-153233",
+    "description": "Your responsibilities Joining our data team, you'll lead the build of Plato's real-time data platform, data warehouse, and the infrastructure behind our suite of data products. You'll work closely with data science, product, design, and engineering to build the data foundation that powers customer-facing analytics and ML models.\n What you'll actually do:\n Carry out the data modeling that powers real-time, customer-facing analytics and the data products inside our app Design flexible schemas that can absorb data from many different sources Partner with data consumers across Plato to understand usage patterns and design intuitive data models Write and deploy high-performance transformations within our data warehouse Own and configure our data platform (Databricks), working closely with product and engineering to ship data products the team actually uses\n Your qualifications Must-haves:\n 3+ years of experience in data engineering, building and owning ETLs/ELTs end to end Hands-on experience with SQL, data warehouses (e.g. Databricks or Snowflake), and data transformation workflows (e.g. dbt) Solid grounding in both software engineering practices and data engineering principles A strong analytics background - comfortable preparing aggregates in a business context and reasoning through stakeholder logic An experimental, launch-fast-and-iterate mindset, genuinely interested in how data engineering powers customer-facing analytics\n Nice-to-haves:\n Experience at a high-growth tech startup Familiarity with our stack: Python, PySpark, Terraform, AWS, Databricks, dbt, StarRocks\n Why us? You'll join Plato's data team with real ownership over how our data platform, warehouse, and infrastructure evolve - much of it is still being built, so there's genuine room to shape the architecture rather than just maintain it. Your work will directly power the forecasts and recommendations that C-suite executives at some of the largest wholesale and distribution businesses rely on to run a…",
+    "tags": [
+      "startup",
+      "B2B",
+      "SaaS",
+      "Data Engineering",
+      "Databricks",
+      "Snowflake",
+      "dbt",
+      "Data Modeling",
+      "Starrocks",
+      "Python",
+      "Terraform",
+      "ETL",
+      "ELT",
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-08-19T02:30:15.000Z",
+    "scrapedAt": "2026-08-19T03:42:52.446Z"
+  },
+  {
+    "id": "arbeitnow:professor-of-data-engineering-potsdam-297158",
+    "externalId": "professor-of-data-engineering-potsdam-297158",
+    "source": "arbeitnow",
+    "title": "Professor (m/f/d) of Data Engineering",
+    "company": "Gus Germany",
+    "location": "Potsdam",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/gus-germany/professor-of-data-engineering-potsdam-297158",
+    "description": "Find Jobs in Germany on Arbeitnow",
+    "tags": [
+      "Experienced",
+      "Fixed term",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-08-19T02:09:40.000Z",
+    "scrapedAt": "2026-08-19T03:42:52.446Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-berlin-89243",
+    "externalId": "data-engineer-berlin-89243",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "Superhuman",
+    "location": "Hub - Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/superhuman/data-engineer-berlin-89243",
+    "description": "Superhuman offers a dynamic hybrid working model for this role. This flexible approach gives team members the best of both worlds: plenty of focus time along with in-person collaboration that helps foster trust, innovation, and a strong team culture.\n About Superhuman Grammarly is now part of Superhuman, the AI productivity platform on a mission to unlock the superhuman potential in everyone. The Superhuman suite of apps and agents brings AI wherever people work, integrating with over 1 million applications and websites. The company’s products include Grammarly’s writing assistance, Superhuman Docs’s collaborative workspaces, Mail’s inbox management, and Go, the proactive AI assistant that understands context and delivers help automatically. Founded in 2009, Superhuman empowers over 40 million people, 50,000 organizations, and 3,000 educational institutions worldwide to eliminate busywork and focus on what matters. Learn more at superhuman.com and about our values here .\n The Opportunity To achieve our ambitious goals, we’re looking for a Data Engineer to join our Data Enablement Engineering team and help us build a world-class data platform. Superhuman's success depends on its ability to efficiently ingest over 60 to 70 billion daily events while using our systems to improve our product. This role presents a unique opportunity to experience all aspects of building complex software systems, including contributing to the strategy, defining the architecture, and developing and shipping to production.\n Superhuman's engineers and researchers have the freedom to innovate and uncover breakthroughs—and, in turn, influence our product roadmap. The complexity of our technical challenges is growing rapidly as we scale our interfaces, algorithms, and infrastructure. You can hear more from our team on our technical blog .\n Your Impact As a Data Engineer on the Data Enablement Engineering team, you will shape the architecture and technical strategy of our data platform, ensurin…",
+    "tags": [
+      "Engineering",
+      "Product",
+      "Design",
+      "and Marketing",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-08-18T20:40:12.000Z",
+    "scrapedAt": "2026-08-19T03:42:52.446Z"
+  },
+  {
     "id": "greenhouse:instacart-8132846",
     "externalId": "instacart:8132846",
     "source": "greenhouse",
@@ -13,7 +85,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-19T01:00:52.385Z"
+    "scrapedAt": "2026-08-19T03:42:52.945Z"
   },
   {
     "id": "remoteok:1136860",
@@ -47,7 +119,7 @@
       "digital nomad"
     ],
     "postedAt": "2026-08-17T16:00:06.000Z",
-    "scrapedAt": "2026-08-19T01:00:52.379Z"
+    "scrapedAt": "2026-08-19T03:42:52.939Z"
   },
   {
     "id": "remoteok:1136594",
@@ -72,7 +144,7 @@
     ],
     "salary": "USD 40000 – 180000",
     "postedAt": "2026-08-13T16:06:05.000Z",
-    "scrapedAt": "2026-08-19T01:00:52.379Z"
+    "scrapedAt": "2026-08-19T03:42:52.939Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -88,7 +160,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-19T01:00:52.385Z"
+    "scrapedAt": "2026-08-19T03:42:52.945Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -107,7 +179,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-19T01:04:03.188Z"
+    "scrapedAt": "2026-08-19T03:45:59.636Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -123,7 +195,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-19T01:00:52.385Z"
+    "scrapedAt": "2026-08-19T03:42:52.945Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -139,54 +211,6 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-19T01:00:52.385Z"
-  },
-  {
-    "id": "greenhouse:lyft-8662205002",
-    "externalId": "lyft:8662205002",
-    "source": "greenhouse",
-    "title": "Data Engineer",
-    "company": "Lyft",
-    "location": "Toronto, Canada",
-    "remote": false,
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002",
-    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n The Safety and Customer Care (SCC) team at Lyft manages over 1.7 million monthly human and AI interactions and serves as Lyft's primary direct touchpoint with riders and drivers. We handle critical infrastructure that powers both human associates and AI agents to make riders and drivers feel safe and comfortable while riding or driving with Lyft, transforming every support interaction into a moment of genuine connection.\n As a Data Engineer on the SCC team, you will have ownership over the data modeling and pipelines that power SCC’s Associate and AI Agent Platform . Your efforts will be critical to the reliability of our pipelines, execution of third party data integrations, accurate reporting of agents performance, and efficiency improvements that can save millions of dollars / year. You will work cross-functionally to bridge Lyft's business goals with data engineering. Your efforts will allow access to business and user behavior insights, using huge amounts of Lyft data to fuel several teams such as Analytics, Data Science, Engineering, and many others.\n Responsibilities:\n Owner of the core data pipeline, responsible for scaling up data processing flow to meet the rapid data growth at Lyft\n Evolve data model and data schema based on business and engineering needs\n Implement systems tracking data quality and consistency\n Develop tools supporting self-service data pipeline management (ETL)\n SQL and MapReduce job tuning to improve data processing performance\n Write well-crafted, well-tested, readable, maintainable code\n Participate in code reviews to ensure code quality and distribute knowledge\n Collaborate cross-functionally with product, engineering, data science, and marketing teams to understand business problems and align on prioritization and solutions\n Experience:\n Bachelor's degree in Compu…",
-    "tags": [
-      "SCC Tech"
-    ],
-    "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-19T01:00:52.385Z"
-  },
-  {
-    "id": "greenhouse:dropbox-8090065",
-    "externalId": "dropbox:8090065",
-    "source": "greenhouse",
-    "title": "Senior Manager, Data Engineering",
-    "company": "Dropbox",
-    "location": "Remote - Canada: Select locations",
-    "remote": true,
-    "url": "https://jobs.dropbox.com/listing/8090065?gh_jid=8090065",
-    "description": "Role Description\n We are seeking a Senior Manager, Data Engineering to lead the team responsible for Dropbox’s underlying data foundations that power our business as a whole. This is a hands-on engineering leader who owns the pipelines and data products that Product, GTM, Finance, and the CTO organization depend on to make decisions.\n In this role, you will lead and grow a team of data engineers building and operating our ingestion, transformation, orchestration, and serving layers, as well as the self-serve analytics substrate that lets partner teams answer their own questions without bespoke engineering work.\n The ideal candidate is a deeply technical, product-minded engineering leader who can hold a high bar on system reliability and data quality while partnering closely with Data Science, Business Intelligence Engineering, Analytics, and Product to turn fragmented, ticket-driven data work into durable, reusable data products.\n Our Engineering Career Framework is viewable by anyone outside the company and describes what’s expected for our engineers at each of our career levels. Check out our blog post on this topic and more here .\n Responsibilities\n Data Quality & Observability: Establish and enforce a rigorous data quality culture: lineage, freshness monitoring, anomaly detection, and outcome-oriented, gaming-resistant quality metrics.\n Self-Serve Platform: Lead the engineering of the self-serve analytics substrate, reducing bespoke request volume and increasing partner-team autonomy.\n Cost & Efficiency: Own the unit economics of the data platform — compute and storage efficiency — and drive measurable improvements without sacrificing reliability.\n Cross-Functional Partnership: Partner deeply with Data Science, BIE, Analytics, Product, Data Platform, and the CTO org to define the semantic layer, modeling standards, and data contracts that make downstream work trustworthy and fast.\n Engineering Culture: Establish rigorous engineering practices — code review, tes…",
-    "tags": [
-      "CTO-Data Science, AI Platform & Eng (Sub Team)"
-    ],
-    "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-08-19T01:00:52.385Z"
-  },
-  {
-    "id": "greenhouse:discord-8614971002",
-    "externalId": "discord:8614971002",
-    "source": "greenhouse",
-    "title": "Data Engineer",
-    "company": "Discord",
-    "location": "San Francisco Bay Area",
-    "remote": false,
-    "url": "https://job-boards.greenhouse.io/discord/jobs/8614971002",
-    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.\n Discord is looking for an experienced and passionate Data Engineer, Analytics to join our data team! You will be owning the transformation and semantic layer that turns data into clean, tested, well-documented tables and dashboards that data scientists, product managers, and business stakeholders can trust and self-serve from. You'll define and operationalize the metrics that inform how we identify opportunities, measure success, and make decisions. If this sounds exciting to you and you’re passionate about data modeling, metric design, and empowering teams to move faster with reliable data, read on!\n What you will be doing :\n Design, build, and maintain curated analytical datasets and data models that serve as canonical sources for metrics, dashboards, and analyses\n Own metric definitions end to end, from partnering with data science and product team to define what we should measure, to implementing it in production, to surfacing it in visualization tools\n Build and maintain executive-level dashboards and self-serve reporting tools that enable business stakeholders to answer their own questions\n Partner closely with data science, product manager, and engineering teams to translate business questions into well modeled, performant, and discoverable data assets\n Establish and enforce data quality standards through testing frameworks, documentation, and monitoring for the datasets you own\n Drive adoption of consistent data modeling patterns, naming conventions, and documentation norms across the data organization\n What you should have\n 3+ years of experience in analytics or data engineering with a strong…",
-    "tags": [
-      "Data Science & Engineering"
-    ],
-    "postedAt": "2026-07-30T22:53:02.000Z",
-    "scrapedAt": "2026-08-19T01:00:52.385Z"
+    "scrapedAt": "2026-08-19T03:42:52.945Z"
   }
 ]
