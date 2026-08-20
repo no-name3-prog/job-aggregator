@@ -1,5 +1,40 @@
 [
   {
+    "id": "greenhouse:coinbase-8144836",
+    "externalId": "coinbase:8144836",
+    "source": "greenhouse",
+    "title": "Staff Data Engineer, Market Data",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "remote": true,
+    "url": "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Team/ Role Paragraph:\n Coinbase is building the future of institutional trading as part of the Everything Exchange, powering the systems that let the world's largest financial institutions trade across markets with speed, depth, and trust. As a Market Data Engineer on the Markets team, you'll architect, build and own the systems that generate, capture, normalize, and distribute real-time market data across Coinbase at low latency - the ticker plant and distribution backbone of a unified trading platform - while leading a lean, high-impact team. It's a rare chance to architect market data infrastructure from the ground up, with the ownership of a startup and the reach of Coinbase.\n What you’ll do:\n Build and operate market data components: feed handlers, normalization, distribution, and venue connectivity.\n Design low-latency, high-throughput systems for real-time market data used by trading systems.\n Contribute to reliability and performance, participating in observability, on-call, and incident response.\n Write high-quality, well-tested code and help raise the quality bar on a lean team.\n Partner with engineers, product, and cross-functional stakeholders to deliver market data capabilities.\n Required skills and experience:\n 5+ years of backend engineering, with experience building and maintaining production low-latency systems.\n Hands-on experience with market data systems (f…",
+    "tags": [
+      "Engineering"
+    ],
+    "postedAt": "2026-08-20T21:05:21.000Z",
+    "scrapedAt": "2026-08-20T21:24:15.920Z"
+  },
+  {
+    "id": "jobicy:151233",
+    "externalId": "151233",
+    "source": "jobicy",
+    "title": "Data Engineer | NDA",
+    "company": "GT",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/6f6103a3-221.jpeg",
+    "location": "Poland",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/151233-data-engineer-nda",
+    "description": "GT was founded in 2019 by a former Apple, Nest, and Google executive. GT’s mission is to connect the world’s best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands.\n On behalf of the client, GT is looking for a Data Engineer who is interested in working with big data.\n About the Client\n Our client is a leading global management consultancy known for tackling some of the world’s most complex business challenges. With a focus on strategy, transformation, and performance improvement, the firm partners with major organizations across industries to drive lasting impact.\n Recognized consistently as a top workplace, it combines deep industry expertise with a collaborative, innovative culture. Its centralized European hub plays a key role in supporting operations across the EMEA region, ensuring excellence and efficiency at scale.\n About the Project & Role\n The Data Engineer will play a critical role in developing, maintaining, and scaling the pipelines and data systems that power the client's unified data platform. Working alongside data architects, product managers, and analysts, this role is focused on ingesting, transforming, and enriching firmographic data from multiple third-party and proprietary sources.\n The engineer will support data operations across 2 ecosystems , contributing to the client's mission of building the best business directory in the world and enabling differentiated, data-driven insights for consultants and clients.\n Contract duration : 6 months, with the possibility of extension.\n Key Responsibilities\n Build Data Pipelines : Design and maintain robust, scalable ETL/ELT pipelines to ingest and process third-party and first-party datasets.\n Data Quality & Enrichment : Apply transformation, normalization, and enrichment rules to ensure data consistency and usability.\n Collaborate Across Teams : Work with product managers, data architects, and content experts to align data structure with…",
+    "tags": [
+      "Software Engineering",
+      "Director"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-08-20T17:53:20.000Z",
+    "scrapedAt": "2026-08-20T21:24:15.497Z"
+  },
+  {
     "id": "greenhouse:datadog-8141967",
     "externalId": "datadog:8141967",
     "source": "greenhouse",
@@ -13,7 +48,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-08-20T18:33:39.998Z"
+    "scrapedAt": "2026-08-20T21:24:15.920Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -29,7 +64,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-20T18:33:39.998Z"
+    "scrapedAt": "2026-08-20T21:24:15.920Z"
   },
   {
     "id": "remoteok:1136860",
@@ -63,32 +98,7 @@
       "digital nomad"
     ],
     "postedAt": "2026-08-17T16:00:06.000Z",
-    "scrapedAt": "2026-08-20T18:33:39.992Z"
-  },
-  {
-    "id": "remoteok:1136594",
-    "externalId": "1136594",
-    "source": "remoteok",
-    "title": "Senior Data Engineer",
-    "company": "Lemon.io",
-    "location": "Remote",
-    "remote": true,
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-lemon-io-1136594",
-    "description": "Are you a talented Senior Data Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe.\n What we offer:\n The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates â let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. Itâs possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have several different roles for Data Engineers â please check the details if you're interested.\n Requirements â Data Engineers:\n 5+ years of commercial experience as a Data Engineer 2+ years of commercial experience with Azure DevOps is a must 2+ years of commercial experience with Databricks 2+ years of experience with DBT is required Experience with Airflow is a plus Requirements â Data Engineers:\n 4+ years of commercial experience as a Data Engineer 3+ years of experience with Apache Airflow and 2+ years of experience with Snowflake 3+ years of experience with Python and 1+ year with SQL Experience with AWS/GCP/Microsoft Azure/Snowflake is a must\n Strong technical skills: as a Senior Data Engineer, you are expected to be able to create projects from scratch and have a deep understand…",
-    "tags": [
-      "dev",
-      "engineer",
-      "full time",
-      "senior",
-      "python",
-      "sql",
-      "aws",
-      "gcp",
-      "apache"
-    ],
-    "salary": "USD 40000 – 180000",
-    "postedAt": "2026-08-13T16:06:05.000Z",
-    "scrapedAt": "2026-08-20T18:33:39.992Z"
+    "scrapedAt": "2026-08-20T21:24:15.914Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -104,7 +114,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-20T18:33:39.998Z"
+    "scrapedAt": "2026-08-20T21:24:15.920Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -123,7 +133,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-20T18:36:49.130Z"
+    "scrapedAt": "2026-08-20T21:27:23.375Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -139,7 +149,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-20T18:33:39.998Z"
+    "scrapedAt": "2026-08-20T21:24:15.920Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -155,7 +165,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-20T18:33:39.998Z"
+    "scrapedAt": "2026-08-20T21:24:15.920Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -171,22 +181,6 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-20T18:33:39.998Z"
-  },
-  {
-    "id": "greenhouse:dropbox-8090065",
-    "externalId": "dropbox:8090065",
-    "source": "greenhouse",
-    "title": "Senior Manager, Data Engineering",
-    "company": "Dropbox",
-    "location": "Remote - Canada: Select locations",
-    "remote": true,
-    "url": "https://jobs.dropbox.com/listing/8090065?gh_jid=8090065",
-    "description": "Role Description\n We are seeking a Senior Manager, Data Engineering to lead the team responsible for Dropbox’s underlying data foundations that power our business as a whole. This is a hands-on engineering leader who owns the pipelines and data products that Product, GTM, Finance, and the CTO organization depend on to make decisions.\n In this role, you will lead and grow a team of data engineers building and operating our ingestion, transformation, orchestration, and serving layers, as well as the self-serve analytics substrate that lets partner teams answer their own questions without bespoke engineering work.\n The ideal candidate is a deeply technical, product-minded engineering leader who can hold a high bar on system reliability and data quality while partnering closely with Data Science, Business Intelligence Engineering, Analytics, and Product to turn fragmented, ticket-driven data work into durable, reusable data products.\n Our Engineering Career Framework is viewable by anyone outside the company and describes what’s expected for our engineers at each of our career levels. Check out our blog post on this topic and more here .\n Responsibilities\n Data Quality & Observability: Establish and enforce a rigorous data quality culture: lineage, freshness monitoring, anomaly detection, and outcome-oriented, gaming-resistant quality metrics.\n Self-Serve Platform: Lead the engineering of the self-serve analytics substrate, reducing bespoke request volume and increasing partner-team autonomy.\n Cost & Efficiency: Own the unit economics of the data platform — compute and storage efficiency — and drive measurable improvements without sacrificing reliability.\n Cross-Functional Partnership: Partner deeply with Data Science, BIE, Analytics, Product, Data Platform, and the CTO org to define the semantic layer, modeling standards, and data contracts that make downstream work trustworthy and fast.\n Engineering Culture: Establish rigorous engineering practices — code review, tes…",
-    "tags": [
-      "CTO-Data Science, AI Platform & Eng (Sub Team)"
-    ],
-    "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-08-20T18:33:39.998Z"
+    "scrapedAt": "2026-08-20T21:24:15.920Z"
   }
 ]
