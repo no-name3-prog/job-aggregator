@@ -13,26 +13,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-08-20T15:30:15.104Z"
-  },
-  {
-    "id": "jobicy:151146",
-    "externalId": "151146",
-    "source": "jobicy",
-    "title": "AWS Data Engineer (Senior)",
-    "company": "Mactores",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/cea77a13-221.jpeg",
-    "location": "USA",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/151146-aws-data-engineer-senior",
-    "description": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company, which absorbs the repetitive 60–70% of engagement work, discovery, dependency mapping, validation, test generation, that traditional consulting bills human hours against. Forward-deployed engineers own the rest: architecture, judgment, and cutover, on dates we commit to in the contract.\n This is a senior role in our Data Platform Modernization pillar: consolidating and migrating customer data infrastructure on AWS in weeks, not quarters, at meaningfully lower engagement cost than traditional data consulting. Customers come to us after a data program has stalled pipelines nobody trusts, warehouses nobody runs new workloads on, a modernization that produced diagrams instead of production systems.\n Aedeon handles automated source discovery, schema mapping, lineage extraction, and parallel-run validation. You own what agents can't: target architecture, data model decisions, pipeline design under real constraints, and the calls that make a cutover safe. You'll build with PySpark and SQL on EMR and Glue, model for Redshift, Snowflake, Athena, and Presto, orchestrate with Airflow and your work will reach production, not a slide deck.\n What you will do?\n Build and maintain data pipelines on Amazon EMR or Amazon Glue that run in production.\n Design data models and end-user querying on Amazon Redshift or Snowflake, Amazon Athena, and Presto.\n Build and maintain pipeline orchestration with Airflow.\n Work with customer and internal teams to understand data needs and design the solutions that meet them.\n Troubleshoot and optimize pipelines and data models until they hold up under real load.\n Write and maintain PySpark and SQL scripts to extr…",
-    "tags": [
-      "Data Science &amp; Analytics",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-08-19T19:06:11.000Z",
-    "scrapedAt": "2026-08-20T15:30:14.397Z"
+    "scrapedAt": "2026-08-20T18:33:39.998Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -48,7 +29,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-20T15:30:15.104Z"
+    "scrapedAt": "2026-08-20T18:33:39.998Z"
   },
   {
     "id": "remoteok:1136860",
@@ -82,7 +63,7 @@
       "digital nomad"
     ],
     "postedAt": "2026-08-17T16:00:06.000Z",
-    "scrapedAt": "2026-08-20T15:30:15.098Z"
+    "scrapedAt": "2026-08-20T18:33:39.992Z"
   },
   {
     "id": "remoteok:1136594",
@@ -107,7 +88,7 @@
     ],
     "salary": "USD 40000 – 180000",
     "postedAt": "2026-08-13T16:06:05.000Z",
-    "scrapedAt": "2026-08-20T15:30:15.098Z"
+    "scrapedAt": "2026-08-20T18:33:39.992Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -123,7 +104,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-20T15:30:15.104Z"
+    "scrapedAt": "2026-08-20T18:33:39.998Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -142,7 +123,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-20T15:33:59.018Z"
+    "scrapedAt": "2026-08-20T18:36:49.130Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -158,7 +139,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-20T15:30:15.104Z"
+    "scrapedAt": "2026-08-20T18:33:39.998Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -174,7 +155,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-20T15:30:15.104Z"
+    "scrapedAt": "2026-08-20T18:33:39.998Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -190,6 +171,22 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-20T15:30:15.104Z"
+    "scrapedAt": "2026-08-20T18:33:39.998Z"
+  },
+  {
+    "id": "greenhouse:dropbox-8090065",
+    "externalId": "dropbox:8090065",
+    "source": "greenhouse",
+    "title": "Senior Manager, Data Engineering",
+    "company": "Dropbox",
+    "location": "Remote - Canada: Select locations",
+    "remote": true,
+    "url": "https://jobs.dropbox.com/listing/8090065?gh_jid=8090065",
+    "description": "Role Description\n We are seeking a Senior Manager, Data Engineering to lead the team responsible for Dropbox’s underlying data foundations that power our business as a whole. This is a hands-on engineering leader who owns the pipelines and data products that Product, GTM, Finance, and the CTO organization depend on to make decisions.\n In this role, you will lead and grow a team of data engineers building and operating our ingestion, transformation, orchestration, and serving layers, as well as the self-serve analytics substrate that lets partner teams answer their own questions without bespoke engineering work.\n The ideal candidate is a deeply technical, product-minded engineering leader who can hold a high bar on system reliability and data quality while partnering closely with Data Science, Business Intelligence Engineering, Analytics, and Product to turn fragmented, ticket-driven data work into durable, reusable data products.\n Our Engineering Career Framework is viewable by anyone outside the company and describes what’s expected for our engineers at each of our career levels. Check out our blog post on this topic and more here .\n Responsibilities\n Data Quality & Observability: Establish and enforce a rigorous data quality culture: lineage, freshness monitoring, anomaly detection, and outcome-oriented, gaming-resistant quality metrics.\n Self-Serve Platform: Lead the engineering of the self-serve analytics substrate, reducing bespoke request volume and increasing partner-team autonomy.\n Cost & Efficiency: Own the unit economics of the data platform — compute and storage efficiency — and drive measurable improvements without sacrificing reliability.\n Cross-Functional Partnership: Partner deeply with Data Science, BIE, Analytics, Product, Data Platform, and the CTO org to define the semantic layer, modeling standards, and data contracts that make downstream work trustworthy and fast.\n Engineering Culture: Establish rigorous engineering practices — code review, tes…",
+    "tags": [
+      "CTO-Data Science, AI Platform & Eng (Sub Team)"
+    ],
+    "postedAt": "2026-08-04T17:49:51.000Z",
+    "scrapedAt": "2026-08-20T18:33:39.998Z"
   }
 ]
