@@ -1,5 +1,21 @@
 [
   {
+    "id": "greenhouse:datadog-8141967",
+    "externalId": "datadog:8141967",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer - Revenue Data Platform",
+    "company": "Datadog",
+    "location": "Boston, Massachusetts, USA; New York, New York, USA",
+    "remote": false,
+    "url": "https://careers.datadoghq.com/detail/8141967/?gh_jid=8141967",
+    "description": "About Datadog:\n We're on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale—trillions of data points per day—allowing for seamless collaboration and problem-solving among Dev, Ops and Security teams globally for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.\n The Team:\n The Revenue Data Engineering Teams designs, builds and runs the data pipelines and helper systems to accurately and in a timely manner quantify our customers’ usage across all Datadog products. This team is at the leading edge of any new product we release.\n The Revenue Data Processing team builds and operates the data pipelines that does billing, and cost attribution for all Datadog products. We process terabytes of data daily to power revenue-critical systems and are at the center of every new product launch at Datadog.\n As a Senior Software Engineer, you will own meaningful parts of a large-scale, mission-critical processing platform — driving architectural improvements, building new billing capabilities, and maintaining the high reliability bar our downstream consumers depend on.\n You Will:\n Design and build high-throughput data pipelines for billing and cost attribution\n Drive platform improvements — latency reduction, Spark optimization, sharding, and cross-datacenter reliability\n Own root-cause investigations on billing accuracy issues in collaboration with Finance and Product teams\n Contribute to new billing features\n Work across Python and Scala, with technologies including Spark, Airflow, Trino, and Apache Iceberg\n Participate in on-call rotation and maintain a high reliability bar for production systems\n Contribute to engineering standards and help grow the technical culture of the team\n You Are:\n You have significant experience building and operating production data pipelines at scale using Spark an…",
+    "tags": [
+      "Dev Eng"
+    ],
+    "postedAt": "2026-08-20T13:47:35.000Z",
+    "scrapedAt": "2026-08-20T15:30:15.104Z"
+  },
+  {
     "id": "jobicy:151146",
     "externalId": "151146",
     "source": "jobicy",
@@ -16,7 +32,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-08-19T19:06:11.000Z",
-    "scrapedAt": "2026-08-20T12:40:09.405Z"
+    "scrapedAt": "2026-08-20T15:30:14.397Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -32,7 +48,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-20T12:40:09.802Z"
+    "scrapedAt": "2026-08-20T15:30:15.104Z"
   },
   {
     "id": "remoteok:1136860",
@@ -66,7 +82,7 @@
       "digital nomad"
     ],
     "postedAt": "2026-08-17T16:00:06.000Z",
-    "scrapedAt": "2026-08-20T12:40:09.795Z"
+    "scrapedAt": "2026-08-20T15:30:15.098Z"
   },
   {
     "id": "remoteok:1136594",
@@ -91,7 +107,7 @@
     ],
     "salary": "USD 40000 – 180000",
     "postedAt": "2026-08-13T16:06:05.000Z",
-    "scrapedAt": "2026-08-20T12:40:09.795Z"
+    "scrapedAt": "2026-08-20T15:30:15.098Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -107,7 +123,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-20T12:40:09.802Z"
+    "scrapedAt": "2026-08-20T15:30:15.104Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -126,7 +142,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-20T12:43:21.441Z"
+    "scrapedAt": "2026-08-20T15:33:59.018Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -142,7 +158,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-20T12:40:09.802Z"
+    "scrapedAt": "2026-08-20T15:30:15.104Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -158,7 +174,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-20T12:40:09.802Z"
+    "scrapedAt": "2026-08-20T15:30:15.104Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -174,22 +190,6 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-20T12:40:09.802Z"
-  },
-  {
-    "id": "greenhouse:dropbox-8090065",
-    "externalId": "dropbox:8090065",
-    "source": "greenhouse",
-    "title": "Senior Manager, Data Engineering",
-    "company": "Dropbox",
-    "location": "Remote - Canada: Select locations",
-    "remote": true,
-    "url": "https://jobs.dropbox.com/listing/8090065?gh_jid=8090065",
-    "description": "Role Description\n We are seeking a Senior Manager, Data Engineering to lead the team responsible for Dropbox’s underlying data foundations that power our business as a whole. This is a hands-on engineering leader who owns the pipelines and data products that Product, GTM, Finance, and the CTO organization depend on to make decisions.\n In this role, you will lead and grow a team of data engineers building and operating our ingestion, transformation, orchestration, and serving layers, as well as the self-serve analytics substrate that lets partner teams answer their own questions without bespoke engineering work.\n The ideal candidate is a deeply technical, product-minded engineering leader who can hold a high bar on system reliability and data quality while partnering closely with Data Science, Business Intelligence Engineering, Analytics, and Product to turn fragmented, ticket-driven data work into durable, reusable data products.\n Our Engineering Career Framework is viewable by anyone outside the company and describes what’s expected for our engineers at each of our career levels. Check out our blog post on this topic and more here .\n Responsibilities\n Data Quality & Observability: Establish and enforce a rigorous data quality culture: lineage, freshness monitoring, anomaly detection, and outcome-oriented, gaming-resistant quality metrics.\n Self-Serve Platform: Lead the engineering of the self-serve analytics substrate, reducing bespoke request volume and increasing partner-team autonomy.\n Cost & Efficiency: Own the unit economics of the data platform — compute and storage efficiency — and drive measurable improvements without sacrificing reliability.\n Cross-Functional Partnership: Partner deeply with Data Science, BIE, Analytics, Product, Data Platform, and the CTO org to define the semantic layer, modeling standards, and data contracts that make downstream work trustworthy and fast.\n Engineering Culture: Establish rigorous engineering practices — code review, tes…",
-    "tags": [
-      "CTO-Data Science, AI Platform & Eng (Sub Team)"
-    ],
-    "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-08-20T12:40:09.802Z"
+    "scrapedAt": "2026-08-20T15:30:15.104Z"
   }
 ]
