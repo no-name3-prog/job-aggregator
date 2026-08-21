@@ -15,7 +15,26 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-08-21T12:40:20.000Z",
-    "scrapedAt": "2026-08-21T15:29:29.783Z"
+    "scrapedAt": "2026-08-21T18:32:12.843Z"
+  },
+  {
+    "id": "jobicy:151318",
+    "externalId": "151318",
+    "source": "jobicy",
+    "title": "Data Analytics Engineer",
+    "company": "Ruby Labs",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/0799a7b7-221-1.jpeg",
+    "location": "Europe",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/151318-data-analytics-engineer",
+    "description": "About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://rubylabs.com/about-us/\n About the role We are looking for a Data Analytics Engineer to build, optimize, and maintain the analytical data layer that powers decision-making across the organization. You will transform business requirements into reliable, well-modeled datasets using dbt, SQL, and cloud data warehouses (BigQuery, ClickHouse). This role combines data modeling, documentation, data quality design, and close collaboration with analysts, engineers, and product teams to ensure consistent, trustworthy reporting.\n You will serve as the bridge between raw data ingestion and analytics — shaping how data is structured, validated, and delivered.\n Responsibilities\n Design, build, and maintain dbt models (staging, core, marts) based on business needs\n Develop scalable SQL transformations and ensure efficient, cost-effective query performance\n Implement data quality tests (dbt tests, custom checks, anomaly detection) and maintain high data reliability.\n Create and maintain documentation for datasets, data lineage, business logic, and transformation rules\n Collaborate with Data Engineers on improving raw data structures, ingestion patterns, and source readiness\n Partner with Data Analysts, Product Managers, and Marketing teams to translate business requirements into clean, reusable data models\n Monitor data pipelines and marts, resolve issues, and prevent inconsistencies in reporting\n Support governance initiatives: naming conventions, taxonomy, schemas, metric definitions, and standardization\n Contribute to continuous improvement of our data modeling frameworks, performance tuning, and technical dec…",
+    "tags": [
+      "Data Science &amp; Analytics",
+      "Senior"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-08-21T12:34:35.000Z",
+    "scrapedAt": "2026-08-21T18:32:12.954Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-data-platform-london-25330",
@@ -33,23 +52,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-21T12:24:27.000Z",
-    "scrapedAt": "2026-08-21T15:29:29.783Z"
-  },
-  {
-    "id": "arbeitnow:data-engineering-leader-319108",
-    "externalId": "data-engineering-leader-319108",
-    "source": "arbeitnow",
-    "title": "Data Engineering Leader",
-    "company": "Cognite",
-    "location": "Unknown",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/cognite/data-engineering-leader-319108",
-    "description": "<div class=\"content-intro\"><p></p>\n<h1><span style=\"font-size: 18pt;\"><span style=\"color: rgb(102, 110, 153);\">What Cognite is:</span> <span style=\"color: rgb(0, 41, 255);\">Relentless</span> <span style=\"color: rgb(102, 110, 153);\">to achieve</span></span></h1>\n<p></p>\n<p><span style=\"font-size: 12pt;\">Cognite operates at the forefront of <strong>industrial digitalization, building AI</strong>, and data solutions that solve the world’s hardest, highest-impact problems. With unmatched industrial heritage and a comprehensive suite of AI capabilities, including low-code AI agents, Cognite accelerates the digital transformation to drive operational improvements.</span></p>\n<p><span style=\"font-size: 12pt;\">We thrive in challenges. We challenge assumptions. We execute with speed and ownership. If you view obstacles as signals to step forward - not backwards - you’ll feel right at home here.&nbsp;</span></p>\n<p><span style=\"font-size: 12pt;\">Our <a href=\"https://www.cognite.com/en/company/newsroom/cognite-s-industrial-ai-momentum-soars-driving-ecosystem-impact-at-global-conference\">Moonshot</a> is bold: Unlock $100B in customer value by 2035, and redefine how global industry works. Join us in this venture where AI and data meet ingenuity, and together, we will forge the path to a smarter, more connected industrial future.</span></p>\n<p><br><img style=\"display: block; margin-left: auto; margin-right: auto; max-width: 100%;\" width=\"708\"></p>\n<p>&nbsp;</p></div><div>\n<h1>About the role</h1>\n<p>Cognite's European Delivery organisation is growing in both scale and technical ambition. As Manager of Data&nbsp;Engineering, you will lead, develop, and retain a team of Data Engineers operating across some of the most&nbsp;complex industrial AI engagements in the market — ensuring they are technically strong, professionally&nbsp;developed, and set up to deliver at the standard our customers expect.</p>\n<p>This is not a pure people management role. You will carry a meaningful delive…",
-    "tags": [
-      "Value Delivery"
-    ],
-    "postedAt": "2026-08-21T11:55:19.000Z",
-    "scrapedAt": "2026-08-21T15:29:29.783Z"
+    "scrapedAt": "2026-08-21T18:32:12.843Z"
   },
   {
     "id": "jobicy:151314",
@@ -68,7 +71,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-08-21T10:02:17.000Z",
-    "scrapedAt": "2026-08-21T15:29:29.905Z"
+    "scrapedAt": "2026-08-21T18:32:12.954Z"
   },
   {
     "id": "jobicy:144144",
@@ -87,25 +90,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-08-21T03:40:02.000Z",
-    "scrapedAt": "2026-08-21T15:29:29.905Z"
-  },
-  {
-    "id": "arbeitnow:lead-data-engineer-london-uk-15503",
-    "externalId": "lead-data-engineer-london-uk-15503",
-    "source": "arbeitnow",
-    "title": "Lead Data Engineer",
-    "company": "TodayTix Group",
-    "location": "London, UK",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/todaytix-group/lead-data-engineer-london-uk-15503",
-    "description": "About TodayTix Group:\n TodayTix Group (TTG) is the global e-commerce leader for cultural experiences, designing frictionless discovery and purchase journeys through innovative product design and industry-leading technology. Our portfolio of brands––including TodayTix , New York Theatre Guide , London Theatre , Show-Score , Arthouse , Arthouse London, and Secret Cinema ––connects millions of customers with the best in live entertainment.\n Powered by vast data and insights, TTG helps theatres, producers, and cultural institutions reach highly engaged audiences and unlock meaningful revenue, transforming how tickets are sold across the world.\n In 2025, TTG entered a new chapter as part of MARI , the global events and experiences company powering world-defining live experiences. Together, we’re expanding our reach, deepening our impact, and accelerating a shared vision to redefine the event lifecycle through seamless discovery, purchase, and engagement.\n L i f e a t T oda yTix G ro up\n We thrive in a nimble, growth-oriented environment where adaptability, curiosity, and a bias toward action help us stay ahead of the curve. We move quickly, iterate often, and expect everyone to take ownership of their impact - because we're building the future of live events, and there’s no script for what comes next.\n New joiners are set up for success with a 90-day onboarding journey, complete with clear goals and measurable milestones. We believe feedback fuels growth, so we hold twice-yearly performance reviews focused on impact and development.\n Above all, you’ll be working alongside a team of collaborative, passionate, and kind humans - people who love theatre and live experiences, and who support each other just as much as they challenge each other to do great work.\n We are seeking outstanding applicants of all backgrounds to join our team to bring new voices, talent, and perspectives to the table. We encourage all to apply.\n About the Role:\n We're looking for a Lead Data Enginee…",
-    "tags": [
-      "Software Engineering",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-08-21T00:04:08.000Z",
-    "scrapedAt": "2026-08-21T15:29:29.783Z"
+    "scrapedAt": "2026-08-21T18:32:12.954Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -121,7 +106,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-08-21T15:29:30.490Z"
+    "scrapedAt": "2026-08-21T18:32:13.684Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -137,7 +122,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-08-21T15:29:30.490Z"
+    "scrapedAt": "2026-08-21T18:32:13.684Z"
   },
   {
     "id": "remotive:2091097",
@@ -202,7 +187,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-08-21T15:29:29.651Z"
+    "scrapedAt": "2026-08-21T18:32:12.718Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -218,6 +203,40 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-21T15:29:30.490Z"
+    "scrapedAt": "2026-08-21T18:32:13.684Z"
+  },
+  {
+    "id": "remoteok:1136860",
+    "externalId": "1136860",
+    "source": "remoteok",
+    "title": "Principal Data Engineer",
+    "company": "Vomela",
+    "location": "Remote",
+    "remote": true,
+    "url": "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860",
+    "description": "At Vomela our greatest asset is our people. As a full-service visual communications company, we are looking for creative and intellectual thinkers that work with our customers to create compelling brand solutions and foster meaningful connections. And while you're focused on creating big things for global and local brands, we will help you build a career you can be passionate about.\n Apply now to find your place at Vomela.\n Pay Range:Â $180 - 200k USD\n Job Summary\n The Principal Data Engineer is the highest-performing contributor on our data engineering team - the person who sets the technical bar, owns the data platform end to end, and delivers work that others study. You'll define and execute data strategy at the engineering level, operating as the technical point of the spear for how the organization builds, scales, and trusts its data. You write production code. You design the architecture. You solve the problems that block everyone else. You mentor without being asked, influence without authority, and deliver without handholding. You're a force multiplier and you're hungry to shape not just the platform, but the broader data strategy of the business.\n Microsoft Fabric is our data platform. This role is for someone genuinely energized by the Fabric ecosystem, who tracks its evolution closely and sees its breadth - Lakehouseâs, Event streams, Semantic models, Notebooks, Pipelines, Direct Lake as an opportunity, not a constraint. If you're looking for a role where your technical judgment shapes the trajectory of the entire data organization, this is exactly it.\n What You'll Do...\n Design and implement dimensional models, star schemas, and snowflake schemas with rigor Build and maintain semantic models that serve as the single source of truth for business reporting Implement Slowly Changing Dimension (SCD) strategies appropriate to each domain Own master data engineering: golden record patterns, source-of-record authority, cross-system identity resolution Establ…",
+    "tags": [
+      "design",
+      "sys admin",
+      "education",
+      "technical",
+      "dev",
+      "speech",
+      "devops",
+      "cloud",
+      "git",
+      "microsoft",
+      "exec",
+      "senior",
+      "ops",
+      "stats",
+      "sales",
+      "medical",
+      "engineer",
+      "apache",
+      "digital nomad"
+    ],
+    "postedAt": "2026-08-17T16:00:06.000Z",
+    "scrapedAt": "2026-08-21T18:32:13.679Z"
   }
 ]
