@@ -1,5 +1,21 @@
 [
   {
+    "id": "arbeitnow:working-student-data-engineer-berlin-berlin-303757",
+    "externalId": "working-student-data-engineer-berlin-berlin-303757",
+    "source": "arbeitnow",
+    "title": "Working Student Data Engineer (m/f/d)",
+    "company": "raisin",
+    "location": "Berlin, Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/raisin/working-student-data-engineer-berlin-berlin-303757",
+    "description": "<div class=\"content-intro\"><p class=\"sc-gEkIjz cjtSrT MuiTypography-root MuiTypography-body1 sc-hoLEA\">Raisin is the world’s leading platform for savings and investment products. Founded in 2012, the&nbsp;<strong>FinTech</strong> connects consumers with banks in the EU, the UK and the US. This gives consumers <strong>better interest rates</strong> and banks a <strong>diversified form of refinancing</strong>. Our vision is to offer savings and investments without barriers and thus open up the global 160 trillion euro market.</p>\n<p class=\"sc-gEkIjz cjtSrT MuiTypography-root MuiTypography-body1 sc-hoLEA\">Raisin currently employs more than 800 people from over 75 countries worldwide. Today, the platform holds over 80 billion euros in assets from&nbsp;<strong>more than one million investors</strong> which have accrued over 5 billion euros in returns.</p></div><p><span style=\"color: rgb(0, 0, 0);\"><strong>Team</strong></span></p>\n<p>The Corporate Services Risk Controlling &amp; Regulatory Reporting is a key function in our Engineering department to enable financial reporting. We ensure that our stakeholders have the tools (and data) to fulfil their legal reporting needs correctly and in time.&nbsp;</p>\n<p>We work at the intersection of data engineering, financial operations, and cloud-native software development, using technologies like dbt, Apache Airflow, Snowflake, AWS to deliver scalable solutions that meet both engineering standards and regulatory requirements.</p>\n<p><strong>Your Responsibilities<br></strong></p>\n<ul>\n<li>Collaborate on building and maintaining scalable data pipelines to process and analyse large data volumes using Snowflake, Looker, Airflow, and dbt.</li>\n<li>Monitor and improve the health, reliability, and performance of our data pipelines.</li>\n<li>Design, build, and iterate on AI-powered skills and automations using Cursor to enhance developer productivity and streamline team workflows.</li>\n<li>Contribute to technical documentation (including…",
+    "tags": [
+      "Engineering"
+    ],
+    "postedAt": "2026-08-20T23:55:19.000Z",
+    "scrapedAt": "2026-08-21T01:03:44.996Z"
+  },
+  {
     "id": "greenhouse:coinbase-8144836",
     "externalId": "coinbase:8144836",
     "source": "greenhouse",
@@ -13,7 +29,64 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-08-20T21:24:15.920Z"
+    "scrapedAt": "2026-08-21T01:03:45.437Z"
+  },
+  {
+    "id": "jobicy:151266",
+    "externalId": "151266",
+    "source": "jobicy",
+    "title": "Senior Analytics Engineer - US",
+    "company": "Luxury Presence",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/05/f2b241fb769140fff2f70e8efaf5c0ff.jpg",
+    "location": "USA",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/151266-senior-analytics-engineer-us",
+    "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.\n The Role\n We're looking for a Senior Analytics Engineer to build and scale the analytical foundation that powers decision-making across Go-to-Market, Product, Finance, People, and Operations teams.\n You will sit at the intersection of data engineering and analytics: transforming raw product, marketing, financial, and operational data into clean, well-modeled, and trustworthy datasets. Your work will power everything from executive dashboards and cohort analyses to experimentation, billing operations, AI-powered outreach, and semantic layers that let AI agents answer stakeholder questions autonomously.\n This is a highly cross-functional role — you'll partner closely with Product Management, Marketing, RevOps, Finance, People Ops, and Engineering to ensure our analytics stack is robust, scalable, and aligned with the business.\n Responsibilities\n Build & Own the Data Foundation\n Own and evolve our dbt project — ensuring models are performant, well-tested, and documented.\n Design and maintain the Snowflake data warehouse and ingestion processes.\n Use modern data modeling best practices to create core entities and datasets that account for complex business processes and logic.\n Build and maintain custom Python/Airflow pipelines to ingest data from third-party APIs into Snowflake.\n Design and operate cross-system reconciliation models that compare data across source systems to surface discrepancies and protect revenue.\n Drive Data Quality & Automation\n Implement testing and observability for analytics pipelines.\n Enforce CI/CD best practices, such as automation, linting, tests, code review and approvals.\n Standar…",
+    "tags": [
+      "Data Science &amp; Analytics",
+      "Director"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-08-20T19:49:30.000Z",
+    "scrapedAt": "2026-08-21T01:03:45.053Z"
+  },
+  {
+    "id": "jobicy:151263",
+    "externalId": "151263",
+    "source": "jobicy",
+    "title": "Senior Analytics Engineer - CANADA",
+    "company": "Luxury Presence",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/05/f2b241fb769140fff2f70e8efaf5c0ff.jpg",
+    "location": "Canada",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/151263-senior-analytics-engineer-canada",
+    "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.\n The Role\n We're looking for a Senior Analytics Engineer to build and scale the analytical foundation that powers decision-making across Go-to-Market, Product, Finance, People, and Operations teams.\n You will sit at the intersection of data engineering and analytics: transforming raw product, marketing, financial, and operational data into clean, well-modeled, and trustworthy datasets. Your work will power everything from executive dashboards and cohort analyses to experimentation, billing operations, AI-powered outreach, and semantic layers that let AI agents answer stakeholder questions autonomously.\n This is a highly cross-functional role — you'll partner closely with Product Management, Marketing, RevOps, Finance, People Ops, and Engineering to ensure our analytics stack is robust, scalable, and aligned with the business.\n Responsibilities\n Build & Own the Data Foundation\n Own and evolve our dbt project — ensuring models are performant, well-tested, and documented.\n Design and maintain the Snowflake data warehouse and ingestion processes.\n Use modern data modeling best practices to create core entities and datasets that account for complex business processes and logic.\n Build and maintain custom Python/Airflow pipelines to ingest data from third-party APIs into Snowflake.\n Design and operate cross-system reconciliation models that compare data across source systems to surface discrepancies and protect revenue.\n Drive Data Quality & Automation\n Implement testing and observability for analytics pipelines.\n Enforce CI/CD best practices, such as automation, linting, tests, code review and approvals.\n Standar…",
+    "tags": [
+      "Data Science &amp; Analytics",
+      "Director"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-08-20T19:48:37.000Z",
+    "scrapedAt": "2026-08-21T01:03:45.053Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-keynsham-bristol-england-420378",
+    "externalId": "data-engineer-keynsham-bristol-england-420378",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "Ivcevidensia",
+    "location": "Keynsham, Bristol, England",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/data-engineer-keynsham-bristol-england-420378",
+    "description": "About Us\n IVC Evidensia is the UK and Europe’s leading veterinary care group, made up of over 900 practices and referral hospitals, united by a shared purpose of happier animals, happier owners.\n At IVC Evidensia, we believe careers should be built without limits. Our people are supported to make more impact, access more career opportunities, and play an active role in their local and professional communities. Through investment in learning, innovation, and wellbeing, we create environments where our teams can grow in confidence, capability, and fulfilment—at every stage of their career.\n As part of Central Functions, you will be part of the teams that support and enable our network of over 2,500 practices across 20 countries, driving operational excellence, innovation, and strategic impact across the business.\n Our Technology teams are responsible for the systems and infrastructure that make that work - everything our healthcare professionals need to deliver world-class care. From keeping on top of patient records, health plans, client communications, diary management and dispensing, our teams have a lot to think about and need smarter ways to provide the convenience and expertise that modern Pet owners have come to expect.\n IVC Evidensia is undergoing an exciting digital transformation. The key to this is improving the management of our core data sets - accelerating the standardisation of operational systems in practices, building stronger master data management tooling, and developing standard reporting models across the group.\n As a data engineer, you will work with the team to advance the data platform within a DevOps culture. You will play a central role in building and maintaining scalable data pipelines across Databricks & Azure SQL Server, and will bring solid experience with ELT, orchestration, and scripting languages. A firm grasp of data modelling and management will be essential throughout.\n The role\n The Data Engineer will be a technical authority acc…",
+    "tags": [
+      "IT & Digital",
+      "Chocolate Factory",
+      "Keynsham [9025]"
+    ],
+    "jobType": "Chocolate Factory",
+    "postedAt": "2026-08-20T18:24:30.000Z",
+    "scrapedAt": "2026-08-21T01:03:44.996Z"
   },
   {
     "id": "jobicy:151233",
@@ -32,155 +105,77 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-08-20T17:53:20.000Z",
-    "scrapedAt": "2026-08-20T21:24:15.497Z"
+    "scrapedAt": "2026-08-21T01:03:45.053Z"
   },
   {
-    "id": "greenhouse:datadog-8141967",
-    "externalId": "datadog:8141967",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer - Revenue Data Platform",
-    "company": "Datadog",
-    "location": "Boston, Massachusetts, USA; New York, New York, USA",
+    "id": "arbeitnow:data-engineer-fokus-messdatenmanagement-ownership-berlin-de-197367",
+    "externalId": "data-engineer-fokus-messdatenmanagement-ownership-berlin-de-197367",
+    "source": "arbeitnow",
+    "title": "Data Engineer (m/w/d) – Fokus Messdatenmanagement & Ownership",
+    "company": "Octopus Energy Group",
+    "location": "Berlin (DE)",
     "remote": false,
-    "url": "https://careers.datadoghq.com/detail/8141967/?gh_jid=8141967",
-    "description": "About Datadog:\n We're on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale—trillions of data points per day—allowing for seamless collaboration and problem-solving among Dev, Ops and Security teams globally for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.\n The Team:\n The Revenue Data Engineering Teams designs, builds and runs the data pipelines and helper systems to accurately and in a timely manner quantify our customers’ usage across all Datadog products. This team is at the leading edge of any new product we release.\n The Revenue Data Processing team builds and operates the data pipelines that does billing, and cost attribution for all Datadog products. We process terabytes of data daily to power revenue-critical systems and are at the center of every new product launch at Datadog.\n As a Senior Software Engineer, you will own meaningful parts of a large-scale, mission-critical processing platform — driving architectural improvements, building new billing capabilities, and maintaining the high reliability bar our downstream consumers depend on.\n You Will:\n Design and build high-throughput data pipelines for billing and cost attribution\n Drive platform improvements — latency reduction, Spark optimization, sharding, and cross-datacenter reliability\n Own root-cause investigations on billing accuracy issues in collaboration with Finance and Product teams\n Contribute to new billing features\n Work across Python and Scala, with technologies including Spark, Airflow, Trino, and Apache Iceberg\n Participate in on-call rotation and maintain a high reliability bar for production systems\n Contribute to engineering standards and help grow the technical culture of the team\n You Are:\n You have significant experience building and operating production data pipelines at scale using Spark an…",
+    "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/data-engineer-fokus-messdatenmanagement-ownership-berlin-de-197367",
+    "description": "Energie neu denken. Infrastruktur neu bauen. Zukunft neu gestalten – bei der Energy Metering Germany GmbH, einem Unternehmen der Octopus Energy Group.\n Als innovativer Messstellenbetreiber treiben wir die Energiewende nicht nur voran – wir setzen sie technisch um.\n Digital, skalierbar und kompromisslos praxisorientiert.\n Von der Installation intelligenter Messsysteme inklusive Smart Meter Gateway über moderne Wallbox-Lösungen für Privathaushalte bis hin zu komplexen 1:n-Lösungen und CLS-Management nach §14a und §9 EnWG – wir bauen die vernetzte Energieinfrastruktur von morgen. Sicher, normkonform und hochautomatisiert.\n Unser Anspruch: Messstellenbetrieb neu definieren – als Rückgrat eines flexiblen, datengetriebenen Energiesystems. Dafür kombinieren wir regulatorische Exzellenz mit technischer Umsetzungskompetenz und operativer Geschwindigkeit.\n Wenn du nicht nur verwalten, sondern gestalten willst – dann baue mit uns das Energy Metering der nächsten Generation. 💚\n Als Data Engineer (m/w/d) übernimmst Du die Ownership für den gesamten Datenbereich im Geschäftsfeld Energy Metering. Du bist die treibende Kraft für den Aufbau und die Optimierung unserer Dateninfrastruktur mit klarem Schwerpunkt auf einem hocheffizienten Messdatenmanagement. Dabei agierst Du in einem starken Netzwerk: Du steuerst Deine Themen eigenverantwortlich, holst Dir aber für komplexe Herausforderungen proaktiv genau die Unterstützung, die Du aus dem globalen Octopus Energy Data Team brauchst.\n Deine zukünftigen Aufgaben:\n Ownership & Kollaboration: Du übernimmst die technische und strategische Verantwortung für den Data-Bereich der Energy Metering. Du arbeitest eng mit dem Octopus Energy Data Team zusammen und nutzt deren Expertise und Ressourcen, um unsere lokalen Datenziele optimal zu erreichen.\n Messdatenmanagement & API-Bereitstellung: Du holst die Messdaten aus unserer Gateway-Administration ab, validierst diese strukturiert und sorgst dafür, dass sie zuverlässig und performant per API fü…",
     "tags": [
-      "Dev Eng"
+      "Data/Engineering",
+      "Full-time"
     ],
-    "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-08-20T21:24:15.920Z"
+    "jobType": "Full-time",
+    "postedAt": "2026-08-20T17:04:10.000Z",
+    "scrapedAt": "2026-08-21T01:03:44.996Z"
   },
   {
-    "id": "greenhouse:instacart-8132846",
-    "externalId": "instacart:8132846",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer II, Finance",
-    "company": "Instacart",
-    "location": "United States - Remote",
-    "remote": true,
-    "url": "https://instacart.careers/job/?gh_jid=8132846",
-    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
-    "tags": [
-      "Data"
-    ],
-    "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-20T21:24:15.920Z"
-  },
-  {
-    "id": "remoteok:1136860",
-    "externalId": "1136860",
-    "source": "remoteok",
-    "title": "Principal Data Engineer",
-    "company": "Vomela",
-    "location": "Remote",
-    "remote": true,
-    "url": "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860",
-    "description": "At Vomela our greatest asset is our people. As a full-service visual communications company, we are looking for creative and intellectual thinkers that work with our customers to create compelling brand solutions and foster meaningful connections. And while you're focused on creating big things for global and local brands, we will help you build a career you can be passionate about.\n Apply now to find your place at Vomela.\n Pay Range:Â $180 - 200k USD\n Job Summary\n The Principal Data Engineer is the highest-performing contributor on our data engineering team - the person who sets the technical bar, owns the data platform end to end, and delivers work that others study. You'll define and execute data strategy at the engineering level, operating as the technical point of the spear for how the organization builds, scales, and trusts its data. You write production code. You design the architecture. You solve the problems that block everyone else. You mentor without being asked, influence without authority, and deliver without handholding. You're a force multiplier and you're hungry to shape not just the platform, but the broader data strategy of the business.\n Microsoft Fabric is our data platform. This role is for someone genuinely energized by the Fabric ecosystem, who tracks its evolution closely and sees its breadth - Lakehouseâs, Event streams, Semantic models, Notebooks, Pipelines, Direct Lake as an opportunity, not a constraint. If you're looking for a role where your technical judgment shapes the trajectory of the entire data organization, this is exactly it.\n What You'll Do...\n Design and implement dimensional models, star schemas, and snowflake schemas with rigor Build and maintain semantic models that serve as the single source of truth for business reporting Implement Slowly Changing Dimension (SCD) strategies appropriate to each domain Own master data engineering: golden record patterns, source-of-record authority, cross-system identity resolution Establ…",
-    "tags": [
-      "design",
-      "sys admin",
-      "education",
-      "technical",
-      "dev",
-      "speech",
-      "devops",
-      "cloud",
-      "git",
-      "microsoft",
-      "exec",
-      "senior",
-      "ops",
-      "stats",
-      "sales",
-      "medical",
-      "engineer",
-      "apache",
-      "digital nomad"
-    ],
-    "postedAt": "2026-08-17T16:00:06.000Z",
-    "scrapedAt": "2026-08-20T21:24:15.914Z"
-  },
-  {
-    "id": "greenhouse:instacart-8126023",
-    "externalId": "instacart:8126023",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer II, Finance",
-    "company": "Instacart",
-    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-    "remote": true,
-    "url": "https://instacart.careers/job/?gh_jid=8126023",
-    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
-    "tags": [
-      "Data"
-    ],
-    "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-20T21:24:15.920Z"
-  },
-  {
-    "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
-    "externalId": "linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
-    "source": "ashby",
-    "title": "Analytics Engineer",
-    "company": "Linear",
-    "location": "North America",
-    "remote": true,
-    "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
-    "description": "At Linear, we're building the product development system for teams and agents. AI is fundamentally changing how software gets built, and we’re shaping the tools this new era requires.\n\nFounded in 2019, Linear has become the platform of choice for more than 40,000 companies (including OpenAI, Coinbase, and Ramp) to plan, build, and ship their products. Today, our team is distributed across North America, Europe, and Australia, and we’re continuing to grow internationally. What unites us is relentless focus, fast execution, and a deep care for software craftsmanship.\n\nThe Data team works across Linear, supporting Product, Engineering, and GTM. We own our data pipelines, warehouse, dashboards, analysis, and integrations with third-party tools. As a small team, we focus on building systems that make data accessible and useful across Linear. We’re looking for someone who wants to help shape how we architect, build, and use data as we grow.\n\nLocation & work mode\n\nLinear is a remote-first company, with optional co-working offices in San Francisco, New York, and London. This role is open to candidates based in North America. You can work from anywhere within this region. We value deep focus and async collaboration, with intentional moments to connect in person through team off-sites, optional co-working, and occasional travel.\n\nWhat you’ll do\n\n - Work across Product and GTM (Marketing, Sales, Customer Success, and Finance) to turn ambiguous questions and operational needs into useful metrics, models, analyses, and workflows\n\n - Build and maintain dbt models and pipelines that create trusted views of our product, customers, and business\n\n - Design clear, maintainable data models and improve the testing, documentation, performance, and reliability of our data stack\n\n - Build dashboards and self-service reporting in Metabase and Hex, and dig deeper when the answer requires more than a chart\n\n - Operationalize data through reverse ETL and partner with GTM Engineering on the sc…",
-    "tags": [
-      "GTM",
-      "GTM",
-      "Remote"
-    ],
-    "jobType": "FullTime",
-    "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-20T21:27:23.375Z"
-  },
-  {
-    "id": "greenhouse:discord-8691572002",
-    "externalId": "discord:8691572002",
-    "source": "greenhouse",
-    "title": "Staff Data Engineer - Data Infrastructure",
-    "company": "Discord",
-    "location": "San Francisco Bay Area",
+    "id": "arbeitnow:staff-analytics-engineer-london-28392",
+    "externalId": "staff-analytics-engineer-london-28392",
+    "source": "arbeitnow",
+    "title": "Staff Analytics Engineer",
+    "company": "Pleo",
+    "location": "London",
     "remote": false,
-    "url": "https://job-boards.greenhouse.io/discord/jobs/8691572002",
-    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.\n Discord is looking for a seasoned technical leader to join our Data team as a Staff Data Engineer. You will drive technical vision and strategy for our analytical data infrastructure which facilitates the transformation and semantic layer that powers clean, tested, well-documented datasets that the company can trust and self-serve from. The data your team builds won't just inform internal decisions, it will underpin the metrics we share with investors, partners, and the public, requiring exceptional rigor, auditability, and precision. This role works closely with Data Governance, Data Science, Product, Finance, and Engineering teams. This role reports to the Director of Data Engineering.\n What You'll Be Doing\n Define technical strategy and architectural direction for analytics data infrastructure, building and maintaining enterprise-scale curated datasets and data models\n Own the design and implementation of data governance programs end to end, by partnering with stakeholders and translating policy requirements into flexible and configurable infrastructure in partnership with Data Platform Engineering.\n Design and build sophisticated data abstractions and analytical frameworks using SQL, Python, and modern data stack technologies\n Develop data quality frameworks, monitoring, anomaly detection, and alerting at massive scale, with governance, lineage tracking, and change management rigor appropriate for externally reported numbers\n Drive adoption of consistent data modeling patterns, naming conventions, documentation norms, and metric governance standards across the data organization\n Lead cross-functio…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/staff-analytics-engineer-london-28392",
+    "description": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses ‘go beyond’.\n The word ‘Pleo’ actually means ‘more than you’d expect’, and living by that mantra has been the secret to our success over the last 10 years.\n Now, we’re at a pivotal moment in our journey; every move we make has a direct impact on our 40,000+ customers, our business, and our collective success. We need people who take pride in uncovering customer needs, who turn complex problems into simple solutions, challenge the way things are done (respectfully), and always aim high. With great ambitions driving us forward, we can’t say we’ve got this whole thing figured out. And frankly, that’s half the fun! What we can say is that we’re a driven, progressive, and, importantly, a kind bunch of 850+ people from over 100 nationalities, all committed to delivering the future of business spending, together.\n Please note: applications are open until 2nd September 2026 09.00 CEST. We will not review any application before the closing date. Please do not rush and use this time to submit a high quality application!\n About the role This is a senior individual contributor role in our Data Services & Governance team where you'll act as the thought and technical leader owning the semantic layer and analytics standards for Pleo. This means that you won't own a domain but you'll own what good looks like across all of them by developing, improving , maintaining and evangelising our modelling standards and AI-augmented development practices that every Analytics Engineer work with, regardless of which team they sit in.\n The semantic layer you will be designing and maintaining will be the single source of truth that AI agents, BI tools, and a…",
     "tags": [
-      "Data Science & Engineering"
+      "Data",
+      "Full Time"
     ],
-    "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-20T21:24:15.920Z"
+    "jobType": "Full Time",
+    "postedAt": "2026-08-20T15:41:00.000Z",
+    "scrapedAt": "2026-08-21T01:03:44.996Z"
   },
   {
-    "id": "greenhouse:coinbase-8104148",
-    "externalId": "coinbase:8104148",
-    "source": "greenhouse",
-    "title": "Staff Analytics Engineer, Compliance Data",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8104148?gh_jid=8104148",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n We're hiring a Staff Analytics Engineer to lead the data foundations for the Compliance Data team within the Platform organization. This team owns the Compliance Reporting Data Platform, Coinbase's canonical source of truth for user, transaction, and compliance data, and every regulatory report at Coinbase depends on it. You'll define the technical direction for how compliance data is modeled, validated, and certified at scale, ensuring our foundations hold as products, entities, and regulatory requirements evolve, while also delivering accurate, timely data when regulators come calling.\n What you'll do:\n Own the systems, architecture, technical strategy, and roadmap for the Compliance Data, including the data models, pipelines, quality frameworks, and certification processes that the entire compliance reporting stack depends on.\n Build production-grade solutions, in addition to data models and pipelines, covering user, transaction, and compliance data across retail and institutional product lines, designing for durability, auditability, and consumption by both analysts and AI agents.\n Drive data quality at the source by establishing data contracts, validation frameworks, monitoring, and reconciliation logic that catch issues before they propagate to downstream reports or regulatory filings.\n Partner with upstream engineering teams, Compliance leadership, and downstream consum…",
-    "tags": [
-      "Data Science"
-    ],
-    "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-20T21:24:15.920Z"
-  },
-  {
-    "id": "greenhouse:lyft-8662205002",
-    "externalId": "lyft:8662205002",
-    "source": "greenhouse",
-    "title": "Data Engineer",
-    "company": "Lyft",
-    "location": "Toronto, Canada",
+    "id": "arbeitnow:staff-analytics-engineer-united-kingdom-420867",
+    "externalId": "staff-analytics-engineer-united-kingdom-420867",
+    "source": "arbeitnow",
+    "title": "Staff Analytics Engineer",
+    "company": "Pleo",
+    "location": "United Kingdom",
     "remote": false,
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002",
-    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n The Safety and Customer Care (SCC) team at Lyft manages over 1.7 million monthly human and AI interactions and serves as Lyft's primary direct touchpoint with riders and drivers. We handle critical infrastructure that powers both human associates and AI agents to make riders and drivers feel safe and comfortable while riding or driving with Lyft, transforming every support interaction into a moment of genuine connection.\n As a Data Engineer on the SCC team, you will have ownership over the data modeling and pipelines that power SCC’s Associate and AI Agent Platform . Your efforts will be critical to the reliability of our pipelines, execution of third party data integrations, accurate reporting of agents performance, and efficiency improvements that can save millions of dollars / year. You will work cross-functionally to bridge Lyft's business goals with data engineering. Your efforts will allow access to business and user behavior insights, using huge amounts of Lyft data to fuel several teams such as Analytics, Data Science, Engineering, and many others.\n Responsibilities:\n Owner of the core data pipeline, responsible for scaling up data processing flow to meet the rapid data growth at Lyft\n Evolve data model and data schema based on business and engineering needs\n Implement systems tracking data quality and consistency\n Develop tools supporting self-service data pipeline management (ETL)\n SQL and MapReduce job tuning to improve data processing performance\n Write well-crafted, well-tested, readable, maintainable code\n Participate in code reviews to ensure code quality and distribute knowledge\n Collaborate cross-functionally with product, engineering, data science, and marketing teams to understand business problems and align on prioritization and solutions\n Experience:\n Bachelor's degree in Compu…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/staff-analytics-engineer-united-kingdom-420867",
+    "description": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses ‘go beyond’.\n The word ‘Pleo’ actually means ‘more than you’d expect’, and living by that mantra has been the secret to our success over the last 10 years.\n Now, we’re at a pivotal moment in our journey; every move we make has a direct impact on our 40,000+ customers, our business, and our collective success. We need people who take pride in uncovering customer needs, who turn complex problems into simple solutions, challenge the way things are done (respectfully), and always aim high. With great ambitions driving us forward, we can’t say we’ve got this whole thing figured out. And frankly, that’s half the fun! What we can say is that we’re a driven, progressive, and, importantly, a kind bunch of 850+ people from over 100 nationalities, all committed to delivering the future of business spending, together.\n Please note: applications are open until 2nd September 2026 09.00 CEST. We will not review any application before the closing date. Please do not rush and use this time to submit a high quality application!\n About the role This is a senior individual contributor role in our Data Services & Governance team where you'll act as the thought and technical leader owning the semantic layer and analytics standards for Pleo. This means that you won't own a domain but you'll own what good looks like across all of them by developing, improving , maintaining and evangelising our modelling standards and AI-augmented development practices that every Analytics Engineer work with, regardless of which team they sit in.\n The semantic layer you will be designing and maintaining will be the single source of truth that AI agents, BI tools, and a…",
     "tags": [
-      "SCC Tech"
+      "Data",
+      "Full Time"
     ],
-    "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-20T21:24:15.920Z"
+    "jobType": "Full Time",
+    "postedAt": "2026-08-20T15:41:00.000Z",
+    "scrapedAt": "2026-08-21T01:03:44.996Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-databricks-stuttgart-187617",
+    "externalId": "senior-data-engineer-databricks-stuttgart-187617",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer (Databricks) (m/w/d)",
+    "company": "Collaboration Betters The World GmbH",
+    "location": "Stuttgart",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/senior-data-engineer-databricks-stuttgart-187617",
+    "description": "Willkommen bei CBTW! Wir sind ein innovatives Team mit über 3.000 Mitarbeitern in 21 Ländern und führend in den Bereichen Strategie &#x26; Governance, Software-Engineering, Datenanalyse &#x26; KI und mehr.\n Als Mitglied unseres Teams bei CBTW arbeitest Du in einem inspirierenden Umfeld an anspruchsvollen Projekten. Wir fördern die Entwicklung der Experten von morgen und schätzen Deine Ideen. Wenn Du bereit bist, die Zukunft der datengetriebenen Transformation mit einem hochmotivierten Team zu gestalten, bewirb Dich jetzt bei CBTW! Zusammen schaffen wir Großartiges.\n Aufgaben\n Konzeption und Umsetzung komplexer Data-Engineering-Lösungen auf Databricks\n Technische Verantwortung für Datenplattformen und Datenpipelines\n Definition von Best Practices zu Datenqualität, Performance und Governance\n Unterstützung bei Architektur- und Designentscheidungen\n Fachliche Begleitung und Coaching von Teammitgliedern\n Qualifikation\n Langjährige Erfahrung im Data Engineering\n Sehr gute Kenntnisse in Databricks, SQL und Python\n Erfahrung mit Cloud-Datenplattformen und modernen Datenarchitekturen\n Verhandlungssichere Deutsch- (C1) und Englischkenntnisse\n Bereitschaft zu Kund:innen zu reisen\n Gehalt\n 70.000 € bis 90.000 € brutto/Jahr\n Finale Einstufung abhängig von Erfahrung und Skillset\n Es ist unwahrscheinlich, dass jede:r Kandidat:in all diese Anforderungen erfüllt. Wenn Deine Erfahrungen anders sind und Du glaubst, dass Du einen Mehrwert für die Position bieten kannst, lass uns gerne darüber sprechen!\n Benefits\n Bei CBTW erwartet Dich mehr als nur ein Job – wir bieten Dir ein Umfeld, in dem Du wachsen, mitgestalten und ganz Du selbst sein kannst. Unsere Kultur lebt von Vertrauen, Eigenverantwortung und echter Zusammenarbeit – egal ob remote oder vor Ort. Wir treiben Innovation gemeinsam voran, feiern Erfolge und leben Vielfalt. Dass wir bereits fünf Jahre in Folge als „Top Company“ von kununu ausgezeichnet wurden, bestätigt uns in unserem Weg.\n Das erwartet Dich bei uns:\n 🏁 Onboard…",
+    "tags": [
+      "Consulting",
+      "Engineering"
+    ],
+    "postedAt": "2026-08-20T15:00:37.000Z",
+    "scrapedAt": "2026-08-21T01:03:44.996Z"
   }
 ]
