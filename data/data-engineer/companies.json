@@ -176,6 +176,27 @@
     ]
   },
   {
+    "company": "Spotify",
+    "jobCount": 3,
+    "sources": [
+      "arbeitnow",
+      "lever"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer - Data Platform",
+      "Senior Data Engineer - Data Platform",
+      "Staff Data Engineer — Subscriptions User Understanding"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-data-engineer-data-platform-london-25330",
+      "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da",
+      "https://jobs.lever.co/spotify/ba9d817a-a4aa-4452-ab56-ddd7cbc10943"
+    ]
+  },
+  {
     "company": "Airbnb",
     "jobCount": 2,
     "sources": [
@@ -270,25 +291,6 @@
     ]
   },
   {
-    "company": "Luxury Presence",
-    "jobCount": 2,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "USA",
-      "Canada"
-    ],
-    "sampleTitles": [
-      "Senior Analytics Engineer - US",
-      "Senior Analytics Engineer - CANADA"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/151266-senior-analytics-engineer-us",
-      "https://jobicy.com/jobs/151263-senior-analytics-engineer-canada"
-    ]
-  },
-  {
     "company": "NVIDIA",
     "jobCount": 2,
     "sources": [
@@ -308,24 +310,6 @@
     ]
   },
   {
-    "company": "Spotify",
-    "jobCount": 2,
-    "sources": [
-      "lever"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer - Data Platform",
-      "Staff Data Engineer — Subscriptions User Understanding"
-    ],
-    "officialUrls": [
-      "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da",
-      "https://jobs.lever.co/spotify/ba9d817a-a4aa-4452-ab56-ddd7cbc10943"
-    ]
-  },
-  {
     "company": "Affirm",
     "jobCount": 1,
     "sources": [
@@ -339,6 +323,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/affirm/jobs/7764109003"
+    ]
+  },
+  {
+    "company": "Astronomer",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "USA"
+    ],
+    "sampleTitles": [
+      "Data Platform Engineer"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/151314-data-platform-engineer"
     ]
   },
   {
@@ -531,6 +531,22 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=7548037"
+    ]
+  },
+  {
+    "company": "Swap",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/swap/analytics-engineer-london-195310"
     ]
   },
   {

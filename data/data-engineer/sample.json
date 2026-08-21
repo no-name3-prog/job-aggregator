@@ -1,5 +1,41 @@
 [
   {
+    "id": "arbeitnow:analytics-engineer-london-195310",
+    "externalId": "analytics-engineer-london-195310",
+    "source": "arbeitnow",
+    "title": "Analytics Engineer",
+    "company": "Swap",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/swap/analytics-engineer-london-195310",
+    "description": "About Swap\n Swap is the infrastructure behind modern agentic commerce. The only AI-native platform connecting backend operations with a forward-thinking storefront experience.\n Built for brands that want to sell anything - anywhere, Swap centralises global operations, powers intelligent workflows, and unlocks margin-protecting decisions with real-time data and capability. Our products span cross-border, tax, returns, demand planning, and our next-generation agentic storefront, giving merchants full transparency and the ability to act with confidence.\n At Swap, we’re building a culture that values clarity, creativity, and shared ownership as we redefine how global commerce works.\n About the Role\n We're looking for a passionate and pragmatic Analytics Engineer to join our Analytics Engineering team, helping to scale our stack for a new data-driven era at Swap.\nThis is an important contributor role within the team, offering a good degree of ownership and the chance to help build a scalable, modern data architecture. You’ll build and maintain the data models that power our entire business—from internal commercial insights for Sales and Finance to the trusted data sets enabling customer-facing agentic systems.\nWe need a hands-on builder excited to contribute to our high-quality dbt project, help shape our analytics vision, and support the scaling of our models as we grow. If you thrive in a fast-paced, collaborative team with high ownership and impact, we'd love to hear from you!\n Key responsibilities\n dbt Development: Scale our dbt project, shaping its architecture and CI/CD processes to support company-wide initiatives.\n Data Modelling & Architecture: Contribute to our data modelling strategy, helping to build and maintain the core set of performant, scalable, and trusted data models that power all downstream consumers—from our internal BI tool to our customer-facing agentic systems and analytics APIs.\n Data Quality & Governance: Champion and implement robust data qua…",
+    "tags": [
+      "Tech",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-08-21T12:40:20.000Z",
+    "scrapedAt": "2026-08-21T15:29:29.783Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-data-platform-london-25330",
+    "externalId": "senior-data-engineer-data-platform-london-25330",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer - Data Platform",
+    "company": "Spotify",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-data-engineer-data-platform-london-25330",
+    "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\n The Data Platform team develops and maintains the infrastructure that supports Spotify’s data ecosystem. Within Data Platform, the Data Collection product area builds infrastructure that makes it easier to collect and consume data at scale. You’ll join a team focused on making user behaviour data seamless and reliable for data teams across Spotify.\n What You'll Do\n Collaborate with product and engineering teams to build and support critical data infrastructure and datasets.\n Build systems that collect and process user behaviour data at scale.\n Help power Spotify’s personalization and recommendation systems, as well as the tools teams use to build and test new features.\n Design and evolve data architectures that support high data volumes and a broad range of internal users.\n Improve the reliability, scalability, and usability of our data infrastructure.\n Work across disciplines to solve complex data challenges and make an impact across Spotify.\n Who You Are\n You are an experienced Data Engineer, and proficient in backend development using Java.\n You are comfortable working with large-scale datasets using SQL and platforms such as BigQuery.\n You have experience with JVM-based data processing frameworks such as Flink, Beam, Dataflow, or Spark.\n You are familiar with DevOps practices, cloud infrastructure, containerized applications, and Kubernetes fundamentals.\n You have experience with data modeling and schema design.\n You care about high-quality code and engineering practices such as continuous delivery and automated testing.\n You value experimentation, iterative development, and collaborative software development practices.\n You are co…",
+    "tags": [
+      "Platform",
+      "Permanent"
+    ],
+    "jobType": "Permanent",
+    "postedAt": "2026-08-21T12:24:27.000Z",
+    "scrapedAt": "2026-08-21T15:29:29.783Z"
+  },
+  {
     "id": "arbeitnow:data-engineering-leader-319108",
     "externalId": "data-engineering-leader-319108",
     "source": "arbeitnow",
@@ -13,7 +49,26 @@
       "Value Delivery"
     ],
     "postedAt": "2026-08-21T11:55:19.000Z",
-    "scrapedAt": "2026-08-21T12:38:52.096Z"
+    "scrapedAt": "2026-08-21T15:29:29.783Z"
+  },
+  {
+    "id": "jobicy:151314",
+    "externalId": "151314",
+    "source": "jobicy",
+    "title": "Data Platform Engineer",
+    "company": "Astronomer",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/08/7a77cfb5b26b29196d5ed8cd14a3103a.jpg",
+    "location": "USA",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/151314-data-platform-engineer",
+    "description": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers data-driven applications. Trusted by more than 800 of the world's leading enterprises, Astronomer lets businesses do more with their data. To learn more, visit www.astronomer.io .\n About this role:\n As a Data Platform Engineer at Astronomer, you’ll be a key partner to our clients, guiding them in deploying powerful data workflows to accelerate their business outcomes. You'll have the chance to work with cutting-edge technology, help customers solve complex data challenges, and influence our product’s evolution through client feedback. This role is ideal for someone who wants to make a visible impact while growing into an expert in workflow orchestration and Apache Airflow.\n What you get do:\n Solve Real-World Problems : Design and implement proof-of-concept solutions that help customers tackle real data challenges, from concept to production.\n Be a Trusted Advisor : Conduct demos and provide technical guidance to engineering teams, showing them how our platform can transform their workflows.\n Drive Community Impact : Contribute to the Apache Airflow community by creating technical content and best practices, positioning Astronomer as a thought leader in workflow orchestration.\n Influence Product Direction : Act as a liaison by gathering field insights and providing critical feedback to the Product team to shape the future of our platform.\n Develop and Grow : Become an expert in Airflow, workflow orchestration, and the data engineering landscape as you collaborate across departments and work on impactful projects.\n What you bring to the role:\n Data Engineering Know-How: Familiarity with core data engineering concepts including orchestration, ELT, Git, and Role-Based Acces…",
+    "tags": [
+      "Software Engineering",
+      "Any"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-08-21T10:02:17.000Z",
+    "scrapedAt": "2026-08-21T15:29:29.905Z"
   },
   {
     "id": "jobicy:144144",
@@ -32,7 +87,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-08-21T03:40:02.000Z",
-    "scrapedAt": "2026-08-21T12:38:52.166Z"
+    "scrapedAt": "2026-08-21T15:29:29.905Z"
   },
   {
     "id": "arbeitnow:lead-data-engineer-london-uk-15503",
@@ -50,7 +105,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-08-21T00:04:08.000Z",
-    "scrapedAt": "2026-08-21T12:38:52.096Z"
+    "scrapedAt": "2026-08-21T15:29:29.783Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -66,45 +121,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-08-21T12:38:52.542Z"
-  },
-  {
-    "id": "jobicy:151266",
-    "externalId": "151266",
-    "source": "jobicy",
-    "title": "Senior Analytics Engineer - US",
-    "company": "Luxury Presence",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/05/f2b241fb769140fff2f70e8efaf5c0ff.jpg",
-    "location": "USA",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/151266-senior-analytics-engineer-us",
-    "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.\n The Role\n We're looking for a Senior Analytics Engineer to build and scale the analytical foundation that powers decision-making across Go-to-Market, Product, Finance, People, and Operations teams.\n You will sit at the intersection of data engineering and analytics: transforming raw product, marketing, financial, and operational data into clean, well-modeled, and trustworthy datasets. Your work will power everything from executive dashboards and cohort analyses to experimentation, billing operations, AI-powered outreach, and semantic layers that let AI agents answer stakeholder questions autonomously.\n This is a highly cross-functional role — you'll partner closely with Product Management, Marketing, RevOps, Finance, People Ops, and Engineering to ensure our analytics stack is robust, scalable, and aligned with the business.\n Responsibilities\n Build & Own the Data Foundation\n Own and evolve our dbt project — ensuring models are performant, well-tested, and documented.\n Design and maintain the Snowflake data warehouse and ingestion processes.\n Use modern data modeling best practices to create core entities and datasets that account for complex business processes and logic.\n Build and maintain custom Python/Airflow pipelines to ingest data from third-party APIs into Snowflake.\n Design and operate cross-system reconciliation models that compare data across source systems to surface discrepancies and protect revenue.\n Drive Data Quality & Automation\n Implement testing and observability for analytics pipelines.\n Enforce CI/CD best practices, such as automation, linting, tests, code review and approvals.\n Standar…",
-    "tags": [
-      "Data Science &amp; Analytics",
-      "Director"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-08-20T19:49:30.000Z",
-    "scrapedAt": "2026-08-21T12:38:52.166Z"
-  },
-  {
-    "id": "jobicy:151263",
-    "externalId": "151263",
-    "source": "jobicy",
-    "title": "Senior Analytics Engineer - CANADA",
-    "company": "Luxury Presence",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/05/f2b241fb769140fff2f70e8efaf5c0ff.jpg",
-    "location": "Canada",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/151263-senior-analytics-engineer-canada",
-    "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.\n The Role\n We're looking for a Senior Analytics Engineer to build and scale the analytical foundation that powers decision-making across Go-to-Market, Product, Finance, People, and Operations teams.\n You will sit at the intersection of data engineering and analytics: transforming raw product, marketing, financial, and operational data into clean, well-modeled, and trustworthy datasets. Your work will power everything from executive dashboards and cohort analyses to experimentation, billing operations, AI-powered outreach, and semantic layers that let AI agents answer stakeholder questions autonomously.\n This is a highly cross-functional role — you'll partner closely with Product Management, Marketing, RevOps, Finance, People Ops, and Engineering to ensure our analytics stack is robust, scalable, and aligned with the business.\n Responsibilities\n Build & Own the Data Foundation\n Own and evolve our dbt project — ensuring models are performant, well-tested, and documented.\n Design and maintain the Snowflake data warehouse and ingestion processes.\n Use modern data modeling best practices to create core entities and datasets that account for complex business processes and logic.\n Build and maintain custom Python/Airflow pipelines to ingest data from third-party APIs into Snowflake.\n Design and operate cross-system reconciliation models that compare data across source systems to surface discrepancies and protect revenue.\n Drive Data Quality & Automation\n Implement testing and observability for analytics pipelines.\n Enforce CI/CD best practices, such as automation, linting, tests, code review and approvals.\n Standar…",
-    "tags": [
-      "Data Science &amp; Analytics",
-      "Director"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-08-20T19:48:37.000Z",
-    "scrapedAt": "2026-08-21T12:38:52.166Z"
+    "scrapedAt": "2026-08-21T15:29:30.490Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -120,7 +137,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-08-21T12:38:52.542Z"
+    "scrapedAt": "2026-08-21T15:29:30.490Z"
   },
   {
     "id": "remotive:2091097",
@@ -185,7 +202,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-08-21T12:38:52.039Z"
+    "scrapedAt": "2026-08-21T15:29:29.651Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -201,40 +218,6 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-21T12:38:52.542Z"
-  },
-  {
-    "id": "remoteok:1136860",
-    "externalId": "1136860",
-    "source": "remoteok",
-    "title": "Principal Data Engineer",
-    "company": "Vomela",
-    "location": "Remote",
-    "remote": true,
-    "url": "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860",
-    "description": "At Vomela our greatest asset is our people. As a full-service visual communications company, we are looking for creative and intellectual thinkers that work with our customers to create compelling brand solutions and foster meaningful connections. And while you're focused on creating big things for global and local brands, we will help you build a career you can be passionate about.\n Apply now to find your place at Vomela.\n Pay Range:Â $180 - 200k USD\n Job Summary\n The Principal Data Engineer is the highest-performing contributor on our data engineering team - the person who sets the technical bar, owns the data platform end to end, and delivers work that others study. You'll define and execute data strategy at the engineering level, operating as the technical point of the spear for how the organization builds, scales, and trusts its data. You write production code. You design the architecture. You solve the problems that block everyone else. You mentor without being asked, influence without authority, and deliver without handholding. You're a force multiplier and you're hungry to shape not just the platform, but the broader data strategy of the business.\n Microsoft Fabric is our data platform. This role is for someone genuinely energized by the Fabric ecosystem, who tracks its evolution closely and sees its breadth - Lakehouseâs, Event streams, Semantic models, Notebooks, Pipelines, Direct Lake as an opportunity, not a constraint. If you're looking for a role where your technical judgment shapes the trajectory of the entire data organization, this is exactly it.\n What You'll Do...\n Design and implement dimensional models, star schemas, and snowflake schemas with rigor Build and maintain semantic models that serve as the single source of truth for business reporting Implement Slowly Changing Dimension (SCD) strategies appropriate to each domain Own master data engineering: golden record patterns, source-of-record authority, cross-system identity resolution Establ…",
-    "tags": [
-      "design",
-      "sys admin",
-      "education",
-      "technical",
-      "dev",
-      "speech",
-      "devops",
-      "cloud",
-      "git",
-      "microsoft",
-      "exec",
-      "senior",
-      "ops",
-      "stats",
-      "sales",
-      "medical",
-      "engineer",
-      "apache",
-      "digital nomad"
-    ],
-    "postedAt": "2026-08-17T16:00:06.000Z",
-    "scrapedAt": "2026-08-21T12:38:52.536Z"
+    "scrapedAt": "2026-08-21T15:29:30.490Z"
   }
 ]
