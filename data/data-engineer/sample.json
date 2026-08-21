@@ -15,7 +15,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-08-21T00:04:08.000Z",
-    "scrapedAt": "2026-08-21T03:47:32.177Z"
+    "scrapedAt": "2026-08-21T06:39:30.981Z"
   },
   {
     "id": "arbeitnow:working-student-data-engineer-berlin-berlin-303757",
@@ -31,7 +31,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T23:55:19.000Z",
-    "scrapedAt": "2026-08-21T03:47:32.177Z"
+    "scrapedAt": "2026-08-21T06:39:30.981Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -47,7 +47,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-08-21T03:47:32.640Z"
+    "scrapedAt": "2026-08-21T06:39:32.080Z"
   },
   {
     "id": "jobicy:151266",
@@ -66,7 +66,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-08-20T19:49:30.000Z",
-    "scrapedAt": "2026-08-21T03:47:32.242Z"
+    "scrapedAt": "2026-08-21T06:39:31.068Z"
   },
   {
     "id": "jobicy:151263",
@@ -85,7 +85,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-08-20T19:48:37.000Z",
-    "scrapedAt": "2026-08-21T03:47:32.242Z"
+    "scrapedAt": "2026-08-21T06:39:31.068Z"
   },
   {
     "id": "arbeitnow:data-engineer-keynsham-bristol-england-420378",
@@ -104,7 +104,7 @@
     ],
     "jobType": "Chocolate Factory",
     "postedAt": "2026-08-20T18:24:30.000Z",
-    "scrapedAt": "2026-08-21T03:47:32.177Z"
+    "scrapedAt": "2026-08-21T06:39:30.981Z"
   },
   {
     "id": "jobicy:151233",
@@ -123,60 +123,72 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-08-20T17:53:20.000Z",
-    "scrapedAt": "2026-08-21T03:47:32.242Z"
+    "scrapedAt": "2026-08-21T06:39:31.068Z"
   },
   {
-    "id": "arbeitnow:data-engineer-fokus-messdatenmanagement-ownership-berlin-de-197367",
-    "externalId": "data-engineer-fokus-messdatenmanagement-ownership-berlin-de-197367",
-    "source": "arbeitnow",
-    "title": "Data Engineer (m/w/d) – Fokus Messdatenmanagement & Ownership",
-    "company": "Octopus Energy Group",
-    "location": "Berlin (DE)",
+    "id": "greenhouse:datadog-8141967",
+    "externalId": "datadog:8141967",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer - Revenue Data Platform",
+    "company": "Datadog",
+    "location": "Boston, Massachusetts, USA; New York, New York, USA",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/data-engineer-fokus-messdatenmanagement-ownership-berlin-de-197367",
-    "description": "Energie neu denken. Infrastruktur neu bauen. Zukunft neu gestalten – bei der Energy Metering Germany GmbH, einem Unternehmen der Octopus Energy Group.\n Als innovativer Messstellenbetreiber treiben wir die Energiewende nicht nur voran – wir setzen sie technisch um.\n Digital, skalierbar und kompromisslos praxisorientiert.\n Von der Installation intelligenter Messsysteme inklusive Smart Meter Gateway über moderne Wallbox-Lösungen für Privathaushalte bis hin zu komplexen 1:n-Lösungen und CLS-Management nach §14a und §9 EnWG – wir bauen die vernetzte Energieinfrastruktur von morgen. Sicher, normkonform und hochautomatisiert.\n Unser Anspruch: Messstellenbetrieb neu definieren – als Rückgrat eines flexiblen, datengetriebenen Energiesystems. Dafür kombinieren wir regulatorische Exzellenz mit technischer Umsetzungskompetenz und operativer Geschwindigkeit.\n Wenn du nicht nur verwalten, sondern gestalten willst – dann baue mit uns das Energy Metering der nächsten Generation. 💚\n Als Data Engineer (m/w/d) übernimmst Du die Ownership für den gesamten Datenbereich im Geschäftsfeld Energy Metering. Du bist die treibende Kraft für den Aufbau und die Optimierung unserer Dateninfrastruktur mit klarem Schwerpunkt auf einem hocheffizienten Messdatenmanagement. Dabei agierst Du in einem starken Netzwerk: Du steuerst Deine Themen eigenverantwortlich, holst Dir aber für komplexe Herausforderungen proaktiv genau die Unterstützung, die Du aus dem globalen Octopus Energy Data Team brauchst.\n Deine zukünftigen Aufgaben:\n Ownership & Kollaboration: Du übernimmst die technische und strategische Verantwortung für den Data-Bereich der Energy Metering. Du arbeitest eng mit dem Octopus Energy Data Team zusammen und nutzt deren Expertise und Ressourcen, um unsere lokalen Datenziele optimal zu erreichen.\n Messdatenmanagement & API-Bereitstellung: Du holst die Messdaten aus unserer Gateway-Administration ab, validierst diese strukturiert und sorgst dafür, dass sie zuverlässig und performant per API fü…",
+    "url": "https://careers.datadoghq.com/detail/8141967/?gh_jid=8141967",
+    "description": "About Datadog:\n We're on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale—trillions of data points per day—allowing for seamless collaboration and problem-solving among Dev, Ops and Security teams globally for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.\n The Team:\n The Revenue Data Engineering Teams designs, builds and runs the data pipelines and helper systems to accurately and in a timely manner quantify our customers’ usage across all Datadog products. This team is at the leading edge of any new product we release.\n The Revenue Data Processing team builds and operates the data pipelines that does billing, and cost attribution for all Datadog products. We process terabytes of data daily to power revenue-critical systems and are at the center of every new product launch at Datadog.\n As a Senior Software Engineer, you will own meaningful parts of a large-scale, mission-critical processing platform — driving architectural improvements, building new billing capabilities, and maintaining the high reliability bar our downstream consumers depend on.\n You Will:\n Design and build high-throughput data pipelines for billing and cost attribution\n Drive platform improvements — latency reduction, Spark optimization, sharding, and cross-datacenter reliability\n Own root-cause investigations on billing accuracy issues in collaboration with Finance and Product teams\n Contribute to new billing features\n Work across Python and Scala, with technologies including Spark, Airflow, Trino, and Apache Iceberg\n Participate in on-call rotation and maintain a high reliability bar for production systems\n Contribute to engineering standards and help grow the technical culture of the team\n You Are:\n You have significant experience building and operating production data pipelines at scale using Spark an…",
     "tags": [
-      "Data/Engineering",
-      "Full-time"
+      "Dev Eng"
     ],
-    "jobType": "Full-time",
-    "postedAt": "2026-08-20T17:04:10.000Z",
-    "scrapedAt": "2026-08-21T03:47:32.177Z"
+    "postedAt": "2026-08-20T13:47:35.000Z",
+    "scrapedAt": "2026-08-21T06:39:32.080Z"
   },
   {
-    "id": "arbeitnow:staff-analytics-engineer-london-28392",
-    "externalId": "staff-analytics-engineer-london-28392",
-    "source": "arbeitnow",
-    "title": "Staff Analytics Engineer",
-    "company": "Pleo",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/staff-analytics-engineer-london-28392",
-    "description": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses ‘go beyond’.\n The word ‘Pleo’ actually means ‘more than you’d expect’, and living by that mantra has been the secret to our success over the last 10 years.\n Now, we’re at a pivotal moment in our journey; every move we make has a direct impact on our 40,000+ customers, our business, and our collective success. We need people who take pride in uncovering customer needs, who turn complex problems into simple solutions, challenge the way things are done (respectfully), and always aim high. With great ambitions driving us forward, we can’t say we’ve got this whole thing figured out. And frankly, that’s half the fun! What we can say is that we’re a driven, progressive, and, importantly, a kind bunch of 850+ people from over 100 nationalities, all committed to delivering the future of business spending, together.\n Please note: applications are open until 2nd September 2026 09.00 CEST. We will not review any application before the closing date. Please do not rush and use this time to submit a high quality application!\n About the role This is a senior individual contributor role in our Data Services & Governance team where you'll act as the thought and technical leader owning the semantic layer and analytics standards for Pleo. This means that you won't own a domain but you'll own what good looks like across all of them by developing, improving , maintaining and evangelising our modelling standards and AI-augmented development practices that every Analytics Engineer work with, regardless of which team they sit in.\n The semantic layer you will be designing and maintaining will be the single source of truth that AI agents, BI tools, and a…",
+    "id": "greenhouse:instacart-8132846",
+    "externalId": "instacart:8132846",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer II, Finance",
+    "company": "Instacart",
+    "location": "United States - Remote",
+    "remote": true,
+    "url": "https://instacart.careers/job/?gh_jid=8132846",
+    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
     "tags": [
-      "Data",
-      "Full Time"
+      "Data"
     ],
-    "jobType": "Full Time",
-    "postedAt": "2026-08-20T15:41:00.000Z",
-    "scrapedAt": "2026-08-21T03:47:32.177Z"
+    "postedAt": "2026-08-17T16:40:40.000Z",
+    "scrapedAt": "2026-08-21T06:39:32.080Z"
   },
   {
-    "id": "arbeitnow:staff-analytics-engineer-united-kingdom-420867",
-    "externalId": "staff-analytics-engineer-united-kingdom-420867",
-    "source": "arbeitnow",
-    "title": "Staff Analytics Engineer",
-    "company": "Pleo",
-    "location": "United Kingdom",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/staff-analytics-engineer-united-kingdom-420867",
-    "description": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses ‘go beyond’.\n The word ‘Pleo’ actually means ‘more than you’d expect’, and living by that mantra has been the secret to our success over the last 10 years.\n Now, we’re at a pivotal moment in our journey; every move we make has a direct impact on our 40,000+ customers, our business, and our collective success. We need people who take pride in uncovering customer needs, who turn complex problems into simple solutions, challenge the way things are done (respectfully), and always aim high. With great ambitions driving us forward, we can’t say we’ve got this whole thing figured out. And frankly, that’s half the fun! What we can say is that we’re a driven, progressive, and, importantly, a kind bunch of 850+ people from over 100 nationalities, all committed to delivering the future of business spending, together.\n Please note: applications are open until 2nd September 2026 09.00 CEST. We will not review any application before the closing date. Please do not rush and use this time to submit a high quality application!\n About the role This is a senior individual contributor role in our Data Services & Governance team where you'll act as the thought and technical leader owning the semantic layer and analytics standards for Pleo. This means that you won't own a domain but you'll own what good looks like across all of them by developing, improving , maintaining and evangelising our modelling standards and AI-augmented development practices that every Analytics Engineer work with, regardless of which team they sit in.\n The semantic layer you will be designing and maintaining will be the single source of truth that AI agents, BI tools, and a…",
+    "id": "remoteok:1136860",
+    "externalId": "1136860",
+    "source": "remoteok",
+    "title": "Principal Data Engineer",
+    "company": "Vomela",
+    "location": "Remote",
+    "remote": true,
+    "url": "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860",
+    "description": "At Vomela our greatest asset is our people. As a full-service visual communications company, we are looking for creative and intellectual thinkers that work with our customers to create compelling brand solutions and foster meaningful connections. And while you're focused on creating big things for global and local brands, we will help you build a career you can be passionate about.\n Apply now to find your place at Vomela.\n Pay Range:Â $180 - 200k USD\n Job Summary\n The Principal Data Engineer is the highest-performing contributor on our data engineering team - the person who sets the technical bar, owns the data platform end to end, and delivers work that others study. You'll define and execute data strategy at the engineering level, operating as the technical point of the spear for how the organization builds, scales, and trusts its data. You write production code. You design the architecture. You solve the problems that block everyone else. You mentor without being asked, influence without authority, and deliver without handholding. You're a force multiplier and you're hungry to shape not just the platform, but the broader data strategy of the business.\n Microsoft Fabric is our data platform. This role is for someone genuinely energized by the Fabric ecosystem, who tracks its evolution closely and sees its breadth - Lakehouseâs, Event streams, Semantic models, Notebooks, Pipelines, Direct Lake as an opportunity, not a constraint. If you're looking for a role where your technical judgment shapes the trajectory of the entire data organization, this is exactly it.\n What You'll Do...\n Design and implement dimensional models, star schemas, and snowflake schemas with rigor Build and maintain semantic models that serve as the single source of truth for business reporting Implement Slowly Changing Dimension (SCD) strategies appropriate to each domain Own master data engineering: golden record patterns, source-of-record authority, cross-system identity resolution Establ…",
     "tags": [
-      "Data",
-      "Full Time"
+      "design",
+      "sys admin",
+      "education",
+      "technical",
+      "dev",
+      "speech",
+      "devops",
+      "cloud",
+      "git",
+      "microsoft",
+      "exec",
+      "senior",
+      "ops",
+      "stats",
+      "sales",
+      "medical",
+      "engineer",
+      "apache",
+      "digital nomad"
     ],
-    "jobType": "Full Time",
-    "postedAt": "2026-08-20T15:41:00.000Z",
-    "scrapedAt": "2026-08-21T03:47:32.177Z"
+    "postedAt": "2026-08-17T16:00:06.000Z",
+    "scrapedAt": "2026-08-21T06:39:32.074Z"
   }
 ]
