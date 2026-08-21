@@ -1,5 +1,24 @@
 [
   {
+    "id": "jobicy:144144",
+    "externalId": "144144",
+    "source": "jobicy",
+    "title": "Senior Data Engineer",
+    "company": "Plain Concepts",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/e2e67bbe-221-1.jpg",
+    "location": "Spain",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/144144-senior-data-engineer",
+    "description": "We’re Growing Our Data Dream Team!\n Titles? Meh, we’re not big on them, but let’s call this one  Data Engineer\n As part of our international Data squad, you’ll craft tailor-made solutions that wow our clients. We’re hunting for a passionate Data Engineer with a solid technical background. Your mission? Train, deploy, and put groundbreaking developments into action — and that’s just the beginning.\n Here’s the deal:\n You’ll tackle the unique challenges of Data-powered software alongside a team of brilliant minds. You’ll dive into cutting-edge projects using the latest tech to push boundaries and make an impact. Whether you prefer working from home or vibing with us at our offices, the choice is yours. AGILE isn’t just a buzzword here — it’s how we roll. Multidisciplinary teams? Check. Full ownership of projects? Double check. Ready to take on projects that matter, with a team that’s as passionate as you are? Let’s make it happen!\n You will be responsible for:\n Participating in the design and development of Data solutions for challenging projects. Develop projects from scratch with minimal supervision and strong team collaboration. Be a key player in fostering best practices, clean, and reusable code. Develop  ETLs  using  Spark  (Python/Scala). Work on cloud-based projects ( Azure / AWS ). Build scalable pipelines using a variety of technologies. Requirements\n At least 4 years of experience  in data engineering. Strong experience with  Python  or  Scala  and  Spark , processing large datasets. Solid experience in  Cloud  platforms ( Azure  or  AWS ). Experience working with Snowflake. Hands-on experience building  data pipelines  (CI/CD). Experience with  testing  (unit, integration, etc.). Experience with DBT (Data Build Tool) for data transformation and modelling. Implement data transformation workflows using DBT (core/cloud). Bonus points for experience with  IaC  (Infrastructure as Code). Knowledge of  SQL  and  NoSQL  databases. Bonus points if you speak fluent…",
+    "tags": [
+      "Data Science &amp; Analytics",
+      "Senior"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-08-21T03:40:02.000Z",
+    "scrapedAt": "2026-08-21T09:32:53.124Z"
+  },
+  {
     "id": "arbeitnow:lead-data-engineer-london-uk-15503",
     "externalId": "lead-data-engineer-london-uk-15503",
     "source": "arbeitnow",
@@ -15,7 +34,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-08-21T00:04:08.000Z",
-    "scrapedAt": "2026-08-21T06:39:30.981Z"
+    "scrapedAt": "2026-08-21T09:32:53.055Z"
   },
   {
     "id": "arbeitnow:working-student-data-engineer-berlin-berlin-303757",
@@ -31,7 +50,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T23:55:19.000Z",
-    "scrapedAt": "2026-08-21T06:39:30.981Z"
+    "scrapedAt": "2026-08-21T09:32:53.055Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -47,7 +66,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-08-21T06:39:32.080Z"
+    "scrapedAt": "2026-08-21T09:32:53.584Z"
   },
   {
     "id": "jobicy:151266",
@@ -66,7 +85,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-08-20T19:49:30.000Z",
-    "scrapedAt": "2026-08-21T06:39:31.068Z"
+    "scrapedAt": "2026-08-21T09:32:53.124Z"
   },
   {
     "id": "jobicy:151263",
@@ -85,45 +104,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-08-20T19:48:37.000Z",
-    "scrapedAt": "2026-08-21T06:39:31.068Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-keynsham-bristol-england-420378",
-    "externalId": "data-engineer-keynsham-bristol-england-420378",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Ivcevidensia",
-    "location": "Keynsham, Bristol, England",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/data-engineer-keynsham-bristol-england-420378",
-    "description": "About Us\n IVC Evidensia is the UK and Europe’s leading veterinary care group, made up of over 900 practices and referral hospitals, united by a shared purpose of happier animals, happier owners.\n At IVC Evidensia, we believe careers should be built without limits. Our people are supported to make more impact, access more career opportunities, and play an active role in their local and professional communities. Through investment in learning, innovation, and wellbeing, we create environments where our teams can grow in confidence, capability, and fulfilment—at every stage of their career.\n As part of Central Functions, you will be part of the teams that support and enable our network of over 2,500 practices across 20 countries, driving operational excellence, innovation, and strategic impact across the business.\n Our Technology teams are responsible for the systems and infrastructure that make that work - everything our healthcare professionals need to deliver world-class care. From keeping on top of patient records, health plans, client communications, diary management and dispensing, our teams have a lot to think about and need smarter ways to provide the convenience and expertise that modern Pet owners have come to expect.\n IVC Evidensia is undergoing an exciting digital transformation. The key to this is improving the management of our core data sets - accelerating the standardisation of operational systems in practices, building stronger master data management tooling, and developing standard reporting models across the group.\n As a data engineer, you will work with the team to advance the data platform within a DevOps culture. You will play a central role in building and maintaining scalable data pipelines across Databricks & Azure SQL Server, and will bring solid experience with ELT, orchestration, and scripting languages. A firm grasp of data modelling and management will be essential throughout.\n The role\n The Data Engineer will be a technical authority acc…",
-    "tags": [
-      "IT & Digital",
-      "Chocolate Factory",
-      "Keynsham [9025]"
-    ],
-    "jobType": "Chocolate Factory",
-    "postedAt": "2026-08-20T18:24:30.000Z",
-    "scrapedAt": "2026-08-21T06:39:30.981Z"
-  },
-  {
-    "id": "jobicy:151233",
-    "externalId": "151233",
-    "source": "jobicy",
-    "title": "Data Engineer | NDA",
-    "company": "GT",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/6f6103a3-221.jpeg",
-    "location": "Poland",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/151233-data-engineer-nda",
-    "description": "GT was founded in 2019 by a former Apple, Nest, and Google executive. GT’s mission is to connect the world’s best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands.\n On behalf of the client, GT is looking for a Data Engineer who is interested in working with big data.\n About the Client\n Our client is a leading global management consultancy known for tackling some of the world’s most complex business challenges. With a focus on strategy, transformation, and performance improvement, the firm partners with major organizations across industries to drive lasting impact.\n Recognized consistently as a top workplace, it combines deep industry expertise with a collaborative, innovative culture. Its centralized European hub plays a key role in supporting operations across the EMEA region, ensuring excellence and efficiency at scale.\n About the Project & Role\n The Data Engineer will play a critical role in developing, maintaining, and scaling the pipelines and data systems that power the client's unified data platform. Working alongside data architects, product managers, and analysts, this role is focused on ingesting, transforming, and enriching firmographic data from multiple third-party and proprietary sources.\n The engineer will support data operations across 2 ecosystems , contributing to the client's mission of building the best business directory in the world and enabling differentiated, data-driven insights for consultants and clients.\n Contract duration : 6 months, with the possibility of extension.\n Key Responsibilities\n Build Data Pipelines : Design and maintain robust, scalable ETL/ELT pipelines to ingest and process third-party and first-party datasets.\n Data Quality & Enrichment : Apply transformation, normalization, and enrichment rules to ensure data consistency and usability.\n Collaborate Across Teams : Work with product managers, data architects, and content experts to align data structure with…",
-    "tags": [
-      "Software Engineering",
-      "Director"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-08-20T17:53:20.000Z",
-    "scrapedAt": "2026-08-21T06:39:31.068Z"
+    "scrapedAt": "2026-08-21T09:32:53.124Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -139,7 +120,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-08-21T06:39:32.080Z"
+    "scrapedAt": "2026-08-21T09:32:53.584Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -155,7 +136,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-21T06:39:32.080Z"
+    "scrapedAt": "2026-08-21T09:32:53.584Z"
   },
   {
     "id": "remoteok:1136860",
@@ -189,6 +170,22 @@
       "digital nomad"
     ],
     "postedAt": "2026-08-17T16:00:06.000Z",
-    "scrapedAt": "2026-08-21T06:39:32.074Z"
+    "scrapedAt": "2026-08-21T09:32:53.580Z"
+  },
+  {
+    "id": "greenhouse:instacart-8126023",
+    "externalId": "instacart:8126023",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer II, Finance",
+    "company": "Instacart",
+    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+    "remote": true,
+    "url": "https://instacart.careers/job/?gh_jid=8126023",
+    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-08-12T16:58:43.000Z",
+    "scrapedAt": "2026-08-21T09:32:53.584Z"
   }
 ]
