@@ -1,5 +1,40 @@
 [
   {
+    "id": "arbeitnow:senior-data-engineer-snowflake-munchen-10090",
+    "externalId": "senior-data-engineer-snowflake-munchen-10090",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer (m/w/d) – Snowflake",
+    "company": "Jobrad Loop",
+    "location": "München",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-10090",
+    "description": "Lust auf eine besondere Herausforderung? Du möchtest die technische Grundlage für datengetriebene Entscheidungen aktiv mitgestalten und nicht nur bestehende Systeme verwalten? Dann werde Teil unseres Teams als Senior Data Engineer und bring unsere Datenlandschaft auf das nächste Level. Du entwickelst skalierbare Datenarchitekturen, verantwortest geschäftskritische Pipelines und gestaltest aktiv, wie Daten im Unternehmen genutzt werden. Bei uns arbeitest du an Lösungen, die echten Impact haben: für unsere Teams, unsere Prozesse und unsere Zukunft.  Let`s ride together!\n Was du brauchst, um erfolgreich zu sein Technische Expertise: Fundierte Erfahrung in Data Engineering sowie ein sicherer Umgang mit SQL, Python und modernen Datenplattformen (insbesondere mit Snowflake) zeichnen dich aus Pipelines & Datenverarbeitung: Erfahrung im Aufbau und Betrieb von ETL/ELT-Prozessen sowie die Fähigkeit, große Datenmengen effizient zu verarbeiten, bringst du mit Architektur & Datenmodellierung: Mit skalierbaren Datenarchitekturen (z. B. Data Lake, Data Warehouse) und Datenmodellierung bist du bestens vertraut und bringst idealerweise Erfahrung mit Workflow-Orchestrierungstools wie Airflow oder Dagster mit Cloud & Plattformen: Erfahrung mit Cloud-Umgebungen, idealerweise mit Fokus auf Azure (z. B. im Kontext von BI/Power BI), sowie ein gutes Verständnis bestehender AWS-Strukturen gehören zu deinem Profil Qualitätsverständnis: Ein ausgeprägtes Bewusstsein für saubere, stabile und wartbare Datenlösungen ist für dich selbstverständlich Arbeitsweise & Mindset: Eine strukturierte, eigenverantwortliche Arbeitsweise und ein hoher Qualitätsanspruch prägen deine tägliche Arbeit Sprachkompetenz: Du bringst zudem sehr gute Deutsch- sowie gute Englischkenntnisse mit Flexibilität: Ob remote oder vor Ort, du arbeitest flexibel und passt dich unterschiedlichen Arbeitsmodellen problemlos an\n Dein Beitrag zu unserer Erfolgsgeschichte Ownership & Aufbau: Du übernimmst die technische Verantwortung f…",
+    "tags": [
+      "Data",
+      "Data Analyst",
+      "Warehouse design",
+      "ETL - Prozesse",
+      "Data Pipeline",
+      "SQL",
+      "Python",
+      "Cloud Computing",
+      "Data Engineer",
+      "Azure",
+      "Datenarchitektur",
+      "Datenpipelines",
+      "Analytics Engineer",
+      "Big Data Engineer",
+      "AWS Data Engineer",
+      "Spark Data Engineer",
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-08-22T05:29:55.000Z",
+    "scrapedAt": "2026-08-22T09:23:29.776Z"
+  },
+  {
     "id": "arbeitnow:data-engineer-global-client-solutions-london-278301",
     "externalId": "data-engineer-global-client-solutions-london-278301",
     "source": "arbeitnow",
@@ -13,7 +48,7 @@
       "Technology & Data"
     ],
     "postedAt": "2026-08-22T01:15:23.000Z",
-    "scrapedAt": "2026-08-22T06:32:57.313Z"
+    "scrapedAt": "2026-08-22T09:23:29.776Z"
   },
   {
     "id": "arbeitnow:data-engineering-manager-finance-accounting-london-426710",
@@ -31,63 +66,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-08-21T21:40:24.000Z",
-    "scrapedAt": "2026-08-22T06:32:57.313Z"
-  },
-  {
-    "id": "arbeitnow:analytics-engineer-london-195310",
-    "externalId": "analytics-engineer-london-195310",
-    "source": "arbeitnow",
-    "title": "Analytics Engineer",
-    "company": "Swap",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/swap/analytics-engineer-london-195310",
-    "description": "About Swap\n Swap is the infrastructure behind modern agentic commerce. The only AI-native platform connecting backend operations with a forward-thinking storefront experience.\n Built for brands that want to sell anything - anywhere, Swap centralises global operations, powers intelligent workflows, and unlocks margin-protecting decisions with real-time data and capability. Our products span cross-border, tax, returns, demand planning, and our next-generation agentic storefront, giving merchants full transparency and the ability to act with confidence.\n At Swap, we’re building a culture that values clarity, creativity, and shared ownership as we redefine how global commerce works.\n About the Role\n We're looking for a passionate and pragmatic Analytics Engineer to join our Analytics Engineering team, helping to scale our stack for a new data-driven era at Swap.\nThis is an important contributor role within the team, offering a good degree of ownership and the chance to help build a scalable, modern data architecture. You’ll build and maintain the data models that power our entire business—from internal commercial insights for Sales and Finance to the trusted data sets enabling customer-facing agentic systems.\nWe need a hands-on builder excited to contribute to our high-quality dbt project, help shape our analytics vision, and support the scaling of our models as we grow. If you thrive in a fast-paced, collaborative team with high ownership and impact, we'd love to hear from you!\n Key responsibilities\n dbt Development: Scale our dbt project, shaping its architecture and CI/CD processes to support company-wide initiatives.\n Data Modelling & Architecture: Contribute to our data modelling strategy, helping to build and maintain the core set of performant, scalable, and trusted data models that power all downstream consumers—from our internal BI tool to our customer-facing agentic systems and analytics APIs.\n Data Quality & Governance: Champion and implement robust data qua…",
-    "tags": [
-      "Tech",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-08-21T12:40:20.000Z",
-    "scrapedAt": "2026-08-22T06:32:57.313Z"
-  },
-  {
-    "id": "jobicy:151318",
-    "externalId": "151318",
-    "source": "jobicy",
-    "title": "Data Analytics Engineer",
-    "company": "Ruby Labs",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/0799a7b7-221-1.jpeg",
-    "location": "Europe",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/151318-data-analytics-engineer",
-    "description": "About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://rubylabs.com/about-us/\n About the role We are looking for a Data Analytics Engineer to build, optimize, and maintain the analytical data layer that powers decision-making across the organization. You will transform business requirements into reliable, well-modeled datasets using dbt, SQL, and cloud data warehouses (BigQuery, ClickHouse). This role combines data modeling, documentation, data quality design, and close collaboration with analysts, engineers, and product teams to ensure consistent, trustworthy reporting.\n You will serve as the bridge between raw data ingestion and analytics — shaping how data is structured, validated, and delivered.\n Responsibilities\n Design, build, and maintain dbt models (staging, core, marts) based on business needs\n Develop scalable SQL transformations and ensure efficient, cost-effective query performance\n Implement data quality tests (dbt tests, custom checks, anomaly detection) and maintain high data reliability.\n Create and maintain documentation for datasets, data lineage, business logic, and transformation rules\n Collaborate with Data Engineers on improving raw data structures, ingestion patterns, and source readiness\n Partner with Data Analysts, Product Managers, and Marketing teams to translate business requirements into clean, reusable data models\n Monitor data pipelines and marts, resolve issues, and prevent inconsistencies in reporting\n Support governance initiatives: naming conventions, taxonomy, schemas, metric definitions, and standardization\n Contribute to continuous improvement of our data modeling frameworks, performance tuning, and technical dec…",
-    "tags": [
-      "Data Science &amp; Analytics",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-08-21T12:34:35.000Z",
-    "scrapedAt": "2026-08-22T06:32:57.376Z"
-  },
-  {
-    "id": "jobicy:151314",
-    "externalId": "151314",
-    "source": "jobicy",
-    "title": "Data Platform Engineer",
-    "company": "Astronomer",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/08/7a77cfb5b26b29196d5ed8cd14a3103a.jpg",
-    "location": "USA",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/151314-data-platform-engineer",
-    "description": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers data-driven applications. Trusted by more than 800 of the world's leading enterprises, Astronomer lets businesses do more with their data. To learn more, visit www.astronomer.io .\n About this role:\n As a Data Platform Engineer at Astronomer, you’ll be a key partner to our clients, guiding them in deploying powerful data workflows to accelerate their business outcomes. You'll have the chance to work with cutting-edge technology, help customers solve complex data challenges, and influence our product’s evolution through client feedback. This role is ideal for someone who wants to make a visible impact while growing into an expert in workflow orchestration and Apache Airflow.\n What you get do:\n Solve Real-World Problems : Design and implement proof-of-concept solutions that help customers tackle real data challenges, from concept to production.\n Be a Trusted Advisor : Conduct demos and provide technical guidance to engineering teams, showing them how our platform can transform their workflows.\n Drive Community Impact : Contribute to the Apache Airflow community by creating technical content and best practices, positioning Astronomer as a thought leader in workflow orchestration.\n Influence Product Direction : Act as a liaison by gathering field insights and providing critical feedback to the Product team to shape the future of our platform.\n Develop and Grow : Become an expert in Airflow, workflow orchestration, and the data engineering landscape as you collaborate across departments and work on impactful projects.\n What you bring to the role:\n Data Engineering Know-How: Familiarity with core data engineering concepts including orchestration, ELT, Git, and Role-Based Acces…",
-    "tags": [
-      "Software Engineering",
-      "Any"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-08-21T10:02:17.000Z",
-    "scrapedAt": "2026-08-22T06:32:57.376Z"
+    "scrapedAt": "2026-08-22T09:23:29.776Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -103,7 +82,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-08-22T06:32:57.857Z"
+    "scrapedAt": "2026-08-22T09:23:30.205Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -119,7 +98,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-08-22T06:32:57.857Z"
+    "scrapedAt": "2026-08-22T09:23:30.205Z"
   },
   {
     "id": "remotive:2091097",
@@ -184,7 +163,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-08-22T06:32:57.256Z"
+    "scrapedAt": "2026-08-22T09:23:29.724Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -200,7 +179,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-22T06:32:57.857Z"
+    "scrapedAt": "2026-08-22T09:23:30.205Z"
   },
   {
     "id": "remoteok:1136860",
@@ -234,6 +213,42 @@
       "digital nomad"
     ],
     "postedAt": "2026-08-17T16:00:06.000Z",
-    "scrapedAt": "2026-08-22T06:32:57.850Z"
+    "scrapedAt": "2026-08-22T09:23:30.200Z"
+  },
+  {
+    "id": "greenhouse:instacart-8126023",
+    "externalId": "instacart:8126023",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer II, Finance",
+    "company": "Instacart",
+    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+    "remote": true,
+    "url": "https://instacart.careers/job/?gh_jid=8126023",
+    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-08-12T16:58:43.000Z",
+    "scrapedAt": "2026-08-22T09:23:30.205Z"
+  },
+  {
+    "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
+    "externalId": "spotify:204f6cd7-98a3-4360-87e3-8876adf087da",
+    "source": "lever",
+    "title": "Senior Data Engineer - Data Platform",
+    "company": "Spotify",
+    "location": "London",
+    "remote": false,
+    "url": "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da",
+    "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\nThe Data Platform team develops and maintains the infrastructure that supports Spotify’s data ecosystem. Within Data Platform, the Data Collection product area builds infrastructure that makes it easier to collect and consume data at scale. You’ll join a team focused on making user behaviour data seamless and reliable for data teams across Spotify.\n",
+    "tags": [
+      "Platform",
+      "Engineering",
+      "Permanent",
+      "hybrid"
+    ],
+    "jobType": "Permanent",
+    "postedAt": "2026-08-12T15:06:09.753Z",
+    "scrapedAt": "2026-08-22T09:26:27.970Z"
   }
 ]
