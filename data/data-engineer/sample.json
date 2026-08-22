@@ -13,7 +13,7 @@
       "Technology & Data"
     ],
     "postedAt": "2026-08-22T01:15:23.000Z",
-    "scrapedAt": "2026-08-22T03:38:24.366Z"
+    "scrapedAt": "2026-08-22T06:32:57.313Z"
   },
   {
     "id": "arbeitnow:data-engineering-manager-finance-accounting-london-426710",
@@ -31,7 +31,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-08-21T21:40:24.000Z",
-    "scrapedAt": "2026-08-22T03:38:24.366Z"
+    "scrapedAt": "2026-08-22T06:32:57.313Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-london-195310",
@@ -49,7 +49,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-08-21T12:40:20.000Z",
-    "scrapedAt": "2026-08-22T03:38:24.366Z"
+    "scrapedAt": "2026-08-22T06:32:57.313Z"
   },
   {
     "id": "jobicy:151318",
@@ -68,25 +68,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-08-21T12:34:35.000Z",
-    "scrapedAt": "2026-08-22T03:38:24.492Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-data-platform-london-25330",
-    "externalId": "senior-data-engineer-data-platform-london-25330",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer - Data Platform",
-    "company": "Spotify",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-data-engineer-data-platform-london-25330",
-    "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\n The Data Platform team develops and maintains the infrastructure that supports Spotify’s data ecosystem. Within Data Platform, the Data Collection product area builds infrastructure that makes it easier to collect and consume data at scale. You’ll join a team focused on making user behaviour data seamless and reliable for data teams across Spotify.\n What You'll Do\n Collaborate with product and engineering teams to build and support critical data infrastructure and datasets.\n Build systems that collect and process user behaviour data at scale.\n Help power Spotify’s personalization and recommendation systems, as well as the tools teams use to build and test new features.\n Design and evolve data architectures that support high data volumes and a broad range of internal users.\n Improve the reliability, scalability, and usability of our data infrastructure.\n Work across disciplines to solve complex data challenges and make an impact across Spotify.\n Who You Are\n You are an experienced Data Engineer, and proficient in backend development using Java.\n You are comfortable working with large-scale datasets using SQL and platforms such as BigQuery.\n You have experience with JVM-based data processing frameworks such as Flink, Beam, Dataflow, or Spark.\n You are familiar with DevOps practices, cloud infrastructure, containerized applications, and Kubernetes fundamentals.\n You have experience with data modeling and schema design.\n You care about high-quality code and engineering practices such as continuous delivery and automated testing.\n You value experimentation, iterative development, and collaborative software development practices.\n You are co…",
-    "tags": [
-      "Platform",
-      "Permanent"
-    ],
-    "jobType": "Permanent",
-    "postedAt": "2026-08-21T12:24:27.000Z",
-    "scrapedAt": "2026-08-22T03:38:24.366Z"
+    "scrapedAt": "2026-08-22T06:32:57.376Z"
   },
   {
     "id": "jobicy:151314",
@@ -105,7 +87,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-08-21T10:02:17.000Z",
-    "scrapedAt": "2026-08-22T03:38:24.492Z"
+    "scrapedAt": "2026-08-22T06:32:57.376Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -121,7 +103,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-08-22T03:38:24.942Z"
+    "scrapedAt": "2026-08-22T06:32:57.857Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -137,7 +119,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-08-22T03:38:24.942Z"
+    "scrapedAt": "2026-08-22T06:32:57.857Z"
   },
   {
     "id": "remotive:2091097",
@@ -202,7 +184,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-08-22T03:38:24.129Z"
+    "scrapedAt": "2026-08-22T06:32:57.256Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -218,6 +200,40 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-22T03:38:24.942Z"
+    "scrapedAt": "2026-08-22T06:32:57.857Z"
+  },
+  {
+    "id": "remoteok:1136860",
+    "externalId": "1136860",
+    "source": "remoteok",
+    "title": "Principal Data Engineer",
+    "company": "Vomela",
+    "location": "Remote",
+    "remote": true,
+    "url": "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860",
+    "description": "At Vomela our greatest asset is our people. As a full-service visual communications company, we are looking for creative and intellectual thinkers that work with our customers to create compelling brand solutions and foster meaningful connections. And while you're focused on creating big things for global and local brands, we will help you build a career you can be passionate about.\n Apply now to find your place at Vomela.\n Pay Range:Â $180 - 200k USD\n Job Summary\n The Principal Data Engineer is the highest-performing contributor on our data engineering team - the person who sets the technical bar, owns the data platform end to end, and delivers work that others study. You'll define and execute data strategy at the engineering level, operating as the technical point of the spear for how the organization builds, scales, and trusts its data. You write production code. You design the architecture. You solve the problems that block everyone else. You mentor without being asked, influence without authority, and deliver without handholding. You're a force multiplier and you're hungry to shape not just the platform, but the broader data strategy of the business.\n Microsoft Fabric is our data platform. This role is for someone genuinely energized by the Fabric ecosystem, who tracks its evolution closely and sees its breadth - Lakehouseâs, Event streams, Semantic models, Notebooks, Pipelines, Direct Lake as an opportunity, not a constraint. If you're looking for a role where your technical judgment shapes the trajectory of the entire data organization, this is exactly it.\n What You'll Do...\n Design and implement dimensional models, star schemas, and snowflake schemas with rigor Build and maintain semantic models that serve as the single source of truth for business reporting Implement Slowly Changing Dimension (SCD) strategies appropriate to each domain Own master data engineering: golden record patterns, source-of-record authority, cross-system identity resolution Establ…",
+    "tags": [
+      "design",
+      "sys admin",
+      "education",
+      "technical",
+      "dev",
+      "speech",
+      "devops",
+      "cloud",
+      "git",
+      "microsoft",
+      "exec",
+      "senior",
+      "ops",
+      "stats",
+      "sales",
+      "medical",
+      "engineer",
+      "apache",
+      "digital nomad"
+    ],
+    "postedAt": "2026-08-17T16:00:06.000Z",
+    "scrapedAt": "2026-08-22T06:32:57.850Z"
   }
 ]

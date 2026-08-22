@@ -1,90 +1,5 @@
 [
   {
-    "company": "Adobe",
-    "jobCount": 6,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "San Jose",
-      "Noida",
-      "San Francisco",
-      "Bangalore",
-      "Bucharest",
-      "3 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Senior Data Engineer",
-      "Senior Data Engineer",
-      "Senior Data Engineer",
-      "Data Platform Engineer",
-      "Principal Scientist - Data Pipeline Engineer"
-    ],
-    "officialUrls": [
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Science-Engineer_R169988",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Science-Engineer-3_R170861-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Engineer_R170680-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Data-Engineer_R171024",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536"
-    ]
-  },
-  {
-    "company": "Autodesk",
-    "jobCount": 6,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Bengaluru, IND",
-      "Kraków, POL",
-      "Toronto, ON, CAN",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Principal Data Engineer",
-      "Data Engineer with AI",
-      "Principal Data Engineer, User Success",
-      "Principal Data Engineer, User Success (Agentic Experiences)",
-      "Principal Data Engineer -General application"
-    ],
-    "officialUrls": [
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Data-Engineer_26WD100065-2",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Principal-Data-Engineer_26WD100064-1",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2"
-    ]
-  },
-  {
-    "company": "Workday",
-    "jobCount": 6,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Ireland, Dublin",
-      "2 Locations",
-      "3 Locations"
-    ],
-    "sampleTitles": [
-      "Principal Cybersecurity Data Engineer",
-      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
-      "Senior Cybersecurity Data Engineer - AI/ML SME",
-      "Data Platform Engineer - Cybersecurity",
-      "Principal Analytics Engineer",
-      "Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Cybersecurity-Data-Engineer_JR-0108815",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---AI-ML-SME_JR-0107814",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Principal-Analytics-Engineer_JR-0107883"
-    ]
-  },
-  {
     "company": "Coinbase",
     "jobCount": 5,
     "sources": [
@@ -153,27 +68,6 @@
       "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
       "https://job-boards.greenhouse.io/anthropic/jobs/5125387008",
       "https://job-boards.greenhouse.io/anthropic/jobs/4956672008"
-    ]
-  },
-  {
-    "company": "Spotify",
-    "jobCount": 3,
-    "sources": [
-      "arbeitnow",
-      "lever"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer - Data Platform",
-      "Senior Data Engineer - Data Platform",
-      "Staff Data Engineer — Subscriptions User Understanding"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-data-engineer-data-platform-london-25330",
-      "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da",
-      "https://jobs.lever.co/spotify/ba9d817a-a4aa-4452-ab56-ddd7cbc10943"
     ]
   },
   {
@@ -289,22 +183,21 @@
     ]
   },
   {
-    "company": "NVIDIA",
+    "company": "Spotify",
     "jobCount": 2,
     "sources": [
-      "workday"
+      "lever"
     ],
     "locations": [
-      "Israel, Yokneam",
-      "2 Locations"
+      "London"
     ],
     "sampleTitles": [
-      "Senior Interconnect Product Data Engineer",
-      "Senior Data Infrastructure Engineer, AI Performance"
+      "Senior Data Engineer - Data Platform",
+      "Staff Data Engineer — Subscriptions User Understanding"
     ],
     "officialUrls": [
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Interconnect-Product-Data-Engineer_JR2021975",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970"
+      "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da",
+      "https://jobs.lever.co/spotify/ba9d817a-a4aa-4452-ab56-ddd7cbc10943"
     ]
   },
   {
@@ -449,22 +342,6 @@
     ],
     "officialUrls": [
       "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002"
-    ]
-  },
-  {
-    "company": "Red Hat",
-    "jobCount": 1,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Raleigh"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Senior-Data-Engineer_R-058752"
     ]
   },
   {
