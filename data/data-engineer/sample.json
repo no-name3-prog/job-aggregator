@@ -1,5 +1,23 @@
 [
   {
+    "id": "arbeitnow:senior-analytics-engineer-london-101557",
+    "externalId": "senior-analytics-engineer-london-101557",
+    "source": "arbeitnow",
+    "title": "Senior Analytics Engineer",
+    "company": "Perk",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-analytics-engineer-london-101557",
+    "description": "About Us\nPerk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processing, and more. By eliminating this shadow work that wastes hours, erodes morale, and saps innovation, we're on a mission to power real work, with real impact.\nWe're trusted by more than 12,000 companies worldwide, including On Running, Breitling, and Fabletics, and we're tackling the 7 hours of lost productivity per employee each week, a $1.7 trillion problem .\nFounded in 2015, Perk has grown into a global company of more than 1,800 people across 12 offices globally, with headquarters in London and Boston. We combine innovation, control, and simplicity to transform how businesses work and how people feel at work.\nAt Perk, we're driven by our values, like being an owner, delivering a 7-star experience, and working as one team. We value curiosity, purpose, and mindset, not just knowledge, to unlock the power in your potential. Our talent team brings together leading minds from the travel, fintech, and SaaS industries, representing over 70 countries. If you're excited about having a real impact and shaping how millions of people experience work, we'd love you on the team.\nVisit www.perk.com to learn more.\n Overview\n This critical role sits at the intersection of Data Engineering and Data Analytics, focusing on transforming raw data into high-quality, trustworthy, and easily consumable datasets and visualisations for business users. The ideal candidate will possess a strong background in SQL, dbt, data modelling, ETL/ELT principles and experience with modern cloud data platforms.\n Core Responsibilities\n Develop and Maintain Transformation best practices in ELT Pipelines: Design, develop, and maintain efficient and scalable workflows using tools like dbt to transform raw data loaded into our data warehouse (Snowflak…",
+    "tags": [
+      "Data",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-08-24T12:40:09.000Z",
+    "scrapedAt": "2026-08-24T15:35:55.969Z"
+  },
+  {
     "id": "jobicy:149665",
     "externalId": "149665",
     "source": "jobicy",
@@ -16,7 +34,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-08-24T04:50:11.000Z",
-    "scrapedAt": "2026-08-24T12:41:48.241Z"
+    "scrapedAt": "2026-08-24T15:35:56.093Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-betty-ca-london-169535",
@@ -32,7 +50,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-23T06:55:05.000Z",
-    "scrapedAt": "2026-08-24T12:41:48.154Z"
+    "scrapedAt": "2026-08-24T15:35:55.969Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -48,7 +66,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-08-24T12:41:48.717Z"
+    "scrapedAt": "2026-08-24T15:35:56.585Z"
   },
   {
     "id": "remotive:2091097",
@@ -113,7 +131,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-08-24T12:41:48.061Z"
+    "scrapedAt": "2026-08-24T15:35:55.815Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -129,7 +147,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-24T12:41:48.717Z"
+    "scrapedAt": "2026-08-24T15:35:56.585Z"
   },
   {
     "id": "remoteok:1136860",
@@ -163,7 +181,7 @@
       "digital nomad"
     ],
     "postedAt": "2026-08-17T16:00:06.000Z",
-    "scrapedAt": "2026-08-24T12:41:48.712Z"
+    "scrapedAt": "2026-08-24T15:35:56.579Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -179,7 +197,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-24T12:41:48.717Z"
+    "scrapedAt": "2026-08-24T15:35:56.585Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -199,7 +217,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-08-24T12:45:06.647Z"
+    "scrapedAt": "2026-08-24T15:39:28.123Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -218,22 +236,6 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-24T12:45:07.373Z"
-  },
-  {
-    "id": "greenhouse:discord-8691572002",
-    "externalId": "discord:8691572002",
-    "source": "greenhouse",
-    "title": "Staff Data Engineer - Data Infrastructure",
-    "company": "Discord",
-    "location": "San Francisco Bay Area",
-    "remote": false,
-    "url": "https://job-boards.greenhouse.io/discord/jobs/8691572002",
-    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.\n Discord is looking for a seasoned technical leader to join our Data team as a Staff Data Engineer. You will drive technical vision and strategy for our analytical data infrastructure which facilitates the transformation and semantic layer that powers clean, tested, well-documented datasets that the company can trust and self-serve from. The data your team builds won't just inform internal decisions, it will underpin the metrics we share with investors, partners, and the public, requiring exceptional rigor, auditability, and precision. This role works closely with Data Governance, Data Science, Product, Finance, and Engineering teams. This role reports to the Director of Data Engineering.\n What You'll Be Doing\n Define technical strategy and architectural direction for analytics data infrastructure, building and maintaining enterprise-scale curated datasets and data models\n Own the design and implementation of data governance programs end to end, by partnering with stakeholders and translating policy requirements into flexible and configurable infrastructure in partnership with Data Platform Engineering.\n Design and build sophisticated data abstractions and analytical frameworks using SQL, Python, and modern data stack technologies\n Develop data quality frameworks, monitoring, anomaly detection, and alerting at massive scale, with governance, lineage tracking, and change management rigor appropriate for externally reported numbers\n Drive adoption of consistent data modeling patterns, naming conventions, documentation norms, and metric governance standards across the data organization\n Lead cross-functio…",
-    "tags": [
-      "Data Science & Engineering"
-    ],
-    "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-24T12:41:48.717Z"
+    "scrapedAt": "2026-08-24T15:39:29.017Z"
   }
 ]
