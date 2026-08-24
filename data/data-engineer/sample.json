@@ -1,5 +1,24 @@
 [
   {
+    "id": "jobicy:149665",
+    "externalId": "149665",
+    "source": "jobicy",
+    "title": "Senior Data Engineering Manager",
+    "company": "YipitData",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/e1bee9df-221.jpg",
+    "location": "USA",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/149665-senior-data-engineering-manager",
+    "description": "About Us:\n YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across sectors like software, AI, cloud, e-commerce, ridesharing, and payments.\n Our data and research teams transform raw data into strategic intelligence, delivering accurate, timely, and deeply contextualized analysis that our customers—ranging from the world’s top investment funds to Fortune 500 companies—depend on to drive high-stakes decisions. From sourcing and licensing novel datasets to rigorous analysis and expert narrative framing, our teams ensure clients get not just data, but clarity and confidence.\n We operate globally with offices in the US, APAC, and India. Our award-winning, people-centric culture—recognized by Inc. as a Best Workplace for three consecutive years—emphasizes transparency, ownership, and continuous mastery.\n What It’s Like to Work at YipitData:\n YipitData isn’t a place for coasting—it’s a launchpad for ambitious, impact-driven professionals.\n From day one, you’ll take the lead on meaningful work, accelerate your growth, and gain exposure that shapes careers.\n Why Top Talent Chooses YipitData:\n Ownership That Matters : You’ll lead high-impact projects with real business outcomes\n Rapid Growth : We compress years of learning into months\n Merit Over Titles : Trust and responsibility are earned through execution, not tenure\n Velocity with Purpose: We move fast, support each other, and aim high—always with purpose and intention\n If your ambition is matched by your work ethic—and you're hungry for a place where growth, impact, and ownership are the norm—YipitData might be the opportunity you’ve been waiting for.\n About The Role:\n We are looking for a highly skilled Senior Data Engineering Manager to lead one of our data engineering teams. This is a h…",
+    "tags": [
+      "Software Engineering",
+      "Senior"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-08-24T04:50:11.000Z",
+    "scrapedAt": "2026-08-24T09:42:59.584Z"
+  },
+  {
     "id": "arbeitnow:data-platform-engineer-working-student-munchen-230477",
     "externalId": "data-platform-engineer-working-student-munchen-230477",
     "source": "arbeitnow",
@@ -26,7 +45,7 @@
     ],
     "jobType": "Student",
     "postedAt": "2026-08-24T02:29:49.000Z",
-    "scrapedAt": "2026-08-24T06:50:28.674Z"
+    "scrapedAt": "2026-08-24T09:42:59.501Z"
   },
   {
     "id": "arbeitnow:data-engineer-working-student-koln-358872",
@@ -53,7 +72,7 @@
     ],
     "jobType": "Student",
     "postedAt": "2026-08-24T02:29:49.000Z",
-    "scrapedAt": "2026-08-24T06:50:28.674Z"
+    "scrapedAt": "2026-08-24T09:42:59.501Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-betty-ca-london-169535",
@@ -69,7 +88,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-23T06:55:05.000Z",
-    "scrapedAt": "2026-08-24T06:50:28.674Z"
+    "scrapedAt": "2026-08-24T09:42:59.501Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -85,23 +104,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-08-24T06:50:29.124Z"
-  },
-  {
-    "id": "greenhouse:datadog-8141967",
-    "externalId": "datadog:8141967",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer - Revenue Data Platform",
-    "company": "Datadog",
-    "location": "Boston, Massachusetts, USA; New York, New York, USA",
-    "remote": false,
-    "url": "https://careers.datadoghq.com/detail/8141967/?gh_jid=8141967",
-    "description": "About Datadog:\n We're on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale—trillions of data points per day—allowing for seamless collaboration and problem-solving among Dev, Ops and Security teams globally for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.\n The Team:\n The Revenue Data Engineering Teams designs, builds and runs the data pipelines and helper systems to accurately and in a timely manner quantify our customers’ usage across all Datadog products. This team is at the leading edge of any new product we release.\n The Revenue Data Processing team builds and operates the data pipelines that does billing, and cost attribution for all Datadog products. We process terabytes of data daily to power revenue-critical systems and are at the center of every new product launch at Datadog.\n As a Senior Software Engineer, you will own meaningful parts of a large-scale, mission-critical processing platform — driving architectural improvements, building new billing capabilities, and maintaining the high reliability bar our downstream consumers depend on.\n You Will:\n Design and build high-throughput data pipelines for billing and cost attribution\n Drive platform improvements — latency reduction, Spark optimization, sharding, and cross-datacenter reliability\n Own root-cause investigations on billing accuracy issues in collaboration with Finance and Product teams\n Contribute to new billing features\n Work across Python and Scala, with technologies including Spark, Airflow, Trino, and Apache Iceberg\n Participate in on-call rotation and maintain a high reliability bar for production systems\n Contribute to engineering standards and help grow the technical culture of the team\n You Are:\n You have significant experience building and operating production data pipelines at scale using Spark an…",
-    "tags": [
-      "Dev Eng"
-    ],
-    "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-08-24T06:50:29.124Z"
+    "scrapedAt": "2026-08-24T09:43:00.134Z"
   },
   {
     "id": "remotive:2091097",
@@ -166,7 +169,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-08-24T06:50:28.627Z"
+    "scrapedAt": "2026-08-24T09:42:59.429Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -182,7 +185,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-24T06:50:29.124Z"
+    "scrapedAt": "2026-08-24T09:43:00.134Z"
   },
   {
     "id": "remoteok:1136860",
@@ -216,7 +219,7 @@
       "digital nomad"
     ],
     "postedAt": "2026-08-17T16:00:06.000Z",
-    "scrapedAt": "2026-08-24T06:50:29.119Z"
+    "scrapedAt": "2026-08-24T09:43:00.128Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -232,7 +235,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-24T06:50:29.124Z"
+    "scrapedAt": "2026-08-24T09:43:00.134Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -252,6 +255,6 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-08-24T06:53:36.950Z"
+    "scrapedAt": "2026-08-24T09:46:10.887Z"
   }
 ]
