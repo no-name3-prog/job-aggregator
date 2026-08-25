@@ -1,7 +1,7 @@
 {
   "flow": "data-engineer",
-  "lastRunAt": "2026-08-25T12:43:40.307Z",
-  "durationMs": 206070,
+  "lastRunAt": "2026-08-25T15:44:09.445Z",
+  "durationMs": 228791,
   "totalJobs": 52,
   "totalCompanies": 24,
   "titleMatcher": "data engineer | analytics engineer | etl/elt | data platform/pipeline/warehouse | …",
@@ -30,22 +30,22 @@
     },
     {
       "source": "greenhouse",
-      "fetched": 4671,
+      "fetched": 4664,
       "kept": 26
     },
     {
       "source": "workday",
-      "fetched": 3035,
+      "fetched": 3039,
       "kept": 23
     },
     {
       "source": "lever",
-      "fetched": 92,
+      "fetched": 90,
       "kept": 1
     },
     {
       "source": "ashby",
-      "fetched": 304,
+      "fetched": 301,
       "kept": 1
     }
   ]
