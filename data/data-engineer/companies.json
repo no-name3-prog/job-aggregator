@@ -125,27 +125,6 @@
     ]
   },
   {
-    "company": "Airbnb",
-    "jobCount": 3,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "United States",
-      "Bangalore, India"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineering, Payments",
-      "Senior Data Engineer, BizTech",
-      "Senior Staff Data Engineer - Data Stewardship"
-    ],
-    "officialUrls": [
-      "https://careers.airbnb.com/positions/8158533?gh_jid=8158533",
-      "https://careers.airbnb.com/positions/8152721?gh_jid=8152721",
-      "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
-    ]
-  },
-  {
     "company": "Anthropic",
     "jobCount": 3,
     "sources": [
@@ -164,6 +143,24 @@
       "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
       "https://job-boards.greenhouse.io/anthropic/jobs/5125387008",
       "https://job-boards.greenhouse.io/anthropic/jobs/4956672008"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "jobCount": 2,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineering, Payments",
+      "Senior Staff Data Engineer - Data Stewardship"
+    ],
+    "officialUrls": [
+      "https://careers.airbnb.com/positions/8158533?gh_jid=8158533",
+      "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
     ]
   },
   {
@@ -327,22 +324,6 @@
     ]
   },
   {
-    "company": "Jobgether",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "UK"
-    ],
-    "sampleTitles": [
-      "Azure Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/jobgether/azure-data-engineer-uk-305280"
-    ]
-  },
-  {
     "company": "Lemon.io",
     "jobCount": 1,
     "sources": [
@@ -388,22 +369,6 @@
     ],
     "officialUrls": [
       "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002"
-    ]
-  },
-  {
-    "company": "Platoapp",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Berlin"
-    ],
-    "sampleTitles": [
-      "Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/platoapp/data-engineer-berlin-6005"
     ]
   },
   {
@@ -468,6 +433,22 @@
     ],
     "officialUrls": [
       "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da"
+    ]
+  },
+  {
+    "company": "Statista",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Hamburg or Berlin"
+    ],
+    "sampleTitles": [
+      "Data Engineer - Data Platform & Ontology (m/f/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/statista/data-engineer-data-platform-ontology-hamburg-or-berlin-418502"
     ]
   },
   {

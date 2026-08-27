@@ -1,21 +1,21 @@
 [
   {
-    "id": "arbeitnow:azure-data-engineer-uk-305280",
-    "externalId": "azure-data-engineer-uk-305280",
+    "id": "arbeitnow:data-engineer-data-platform-ontology-hamburg-or-berlin-418502",
+    "externalId": "data-engineer-data-platform-ontology-hamburg-or-berlin-418502",
     "source": "arbeitnow",
-    "title": "Azure Data Engineer",
-    "company": "Jobgether",
-    "location": "UK",
+    "title": "Data Engineer - Data Platform & Ontology (m/f/d)",
+    "company": "Statista",
+    "location": "Hamburg or Berlin",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/azure-data-engineer-uk-305280",
-    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Azure Data Engineer based in United Kingdom.\n This role offers the opportunity to strengthen cybersecurity operations by engineering reliable, scalable security data pipelines across cloud and on-premises environments. You will work with high volumes of security telemetry and help ensure critical data is available for threat detection, incident response, compliance, and cyber risk visibility. The position combines hands-on data engineering with cybersecurity, cloud technologies, automation, and data quality management. You’ll collaborate with application, infrastructure, security, governance, and vendor teams to onboard and optimize diverse data sources. The role is well suited to an engineer who enjoys troubleshooting complex ingestion challenges and improving system reliability and efficiency. You’ll operate in a highly regulated financial services environment where data integrity, security, and operational excellence are essential. This is an opportunity to make a direct impact on the organization’s ability to detect, investigate, and respond to cyber threats.\n Accountabilities:\n Design, build, and maintain scalable security data ingestion pipelines for SIEM and cloud data platforms, including Azure Data Explorer and Log Analytics.\n Parse, normalize, transform, enrich, and validate structured and unstructured security telemetry using regex, JSON parsing, schema mapping, and other data-processing techniques.\n Partner with application owners, infrastructure and cloud teams, vendors, security stakeholders, and other internal groups to onboard new log sources and validate end-to-end data flows.\n Ensure the integrity, completeness, timeliness, and quality of security telemetry used for monitoring, detection, incident response, reporting, and risk management.\n Align security data with established schemas, naming conventions, governance sta…",
+    "url": "https://www.arbeitnow.com/jobs/companies/statista/data-engineer-data-platform-ontology-hamburg-or-berlin-418502",
+    "description": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions.\n Founded in Hamburg in 2007, we have quickly grown into a global company with offices in major cities such as London, New York, Berlin and Tokyo. And we still have a lot of plans. Our constant growth does not only prove our success, but also keeps creating new development and career opportunities for our employees.\n We value and celebrate our diverse culture. You are welcome here for who you are, no matter where you come from, what you look like, or whether you prefer bar graphs to pie charts. Your story matters – keep writing it as part of our team.\n Are you ready to join us?\n About the Role\n As Data Engineer on our Healthcare Platform, you will own the foundational data ingestion, entity-resolution, and platform infrastructure end-to-end. You will design and operate scalable batch/streaming data pipelines, harden platform orchestration, and ensure system reliability, security, and cost efficiency.\n A central challenge of this role is building and operationalizing our unified healthcare data ontology —a consistent semantic model covering hospitals, departments, specialties, metrics, and classification standards. Working closely with Analytics Engineers, Data Scientists, and Methodology experts, you will turn heterogeneous, multi-country hospital data into a coherent, highly queryable data asset.\n Key Responsibilities\n Pipeline Infrastructure & Orchestration: Build, optimize, and operate reliable ELT pipelines (using Python, SQL, and Prefect/Airflow) to ingest data from heterogeneous international sources, APIs, databases, and lakehouse storage (S3, Apache Iceberg).\n Healthcare Ontology & Entity Resolution: Drive the implementation of entity resolution and master data management (MDM) for international hospital…",
     "tags": [
-      "IT",
-      "Full-time"
+      "Healthcare",
+      "Full Time"
     ],
-    "jobType": "Full-time",
-    "postedAt": "2026-08-26T21:24:39.000Z",
-    "scrapedAt": "2026-08-27T00:25:10.739Z"
+    "jobType": "Full Time",
+    "postedAt": "2026-08-27T08:40:12.000Z",
+    "scrapedAt": "2026-08-27T13:42:05.810Z"
   },
   {
     "id": "greenhouse:airbnb-8158533",
@@ -31,55 +31,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-08-26T21:13:07.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-berlin-6005",
-    "externalId": "data-engineer-berlin-6005",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Platoapp",
-    "location": "Berlin",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/platoapp/data-engineer-berlin-6005",
-    "description": "Your responsibilities Joining our data team, you'll lead the build of Plato's real-time data platform, data warehouse, and the infrastructure behind our suite of data products. You'll work closely with data science, product, design, and engineering to build the data foundation that powers customer-facing analytics and ML models.\n What you'll actually do:\n Carry out the data modeling that powers real-time, customer-facing analytics and the data products inside our app Design flexible schemas that can absorb data from many different sources Partner with data consumers across Plato to understand usage patterns and design intuitive data models Write and deploy high-performance transformations within our data warehouse Own and configure our data platform (Databricks), working closely with product and engineering to ship data products the team actually uses\n Your qualifications Must-haves:\n 3+ years of experience in data engineering, building and owning ETLs/ELTs end to end Hands-on experience with SQL, data warehouses (e.g. Databricks or Snowflake), and data transformation workflows (e.g. dbt) Solid grounding in both software engineering practices and data engineering principles A strong analytics background - comfortable preparing aggregates in a business context and reasoning through stakeholder logic An experimental, launch-fast-and-iterate mindset, genuinely interested in how data engineering powers customer-facing analytics\n Nice-to-haves:\n Experience at a high-growth tech startup Familiarity with our stack: Python, PySpark, Terraform, AWS, Databricks, dbt, StarRocks\n Why us? You'll join Plato's data team with real ownership over how our data platform, warehouse, and infrastructure evolve - much of it is still being built, so there's genuine room to shape the architecture rather than just maintain it. Your work will directly power the forecasts and recommendations that C-suite executives at some of the largest wholesale and distribution businesses rely on to run a…",
-    "tags": [
-      "startup",
-      "B2B",
-      "SaaS",
-      "Data Engineering",
-      "Databricks",
-      "Snowflake",
-      "dbt",
-      "Data Modeling",
-      "Starrocks",
-      "Python",
-      "Terraform",
-      "ETL",
-      "ELT",
-      "Experienced",
-      "Permanent",
-      "Full time"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-08-26T17:10:08.000Z",
-    "scrapedAt": "2026-08-27T00:25:10.739Z"
-  },
-  {
-    "id": "greenhouse:airbnb-8152721",
-    "externalId": "airbnb:8152721",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer, BizTech",
-    "company": "Airbnb",
-    "location": "Bangalore, India",
-    "remote": false,
-    "url": "https://careers.airbnb.com/positions/8152721?gh_jid=8152721",
-    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n The Community You Will Join:\n The BizTech team at Airbnb is crucial to the company's operations, handling critical data related to compliance with Tax, Payments, and Legal regulations. We also manage application data for tools such as CRM, Jira, and Workday, which are essential for Airbnb’s business. Joining this team means working with cross-functional stakeholders, designing scalable solutions, and contributing to a world-class data engineering environment with an emphasis on quality, scalability, and robust engineering practices.\n The Difference You Will Make:\n We are looking for a hands-on expert to provide technical leadership in addressing BizTech’s diverse data engineering needs and driving long-term strategies and best practices. This key leadership role requires strong collaboration and influence across teams. You'll play a crucial role in understanding business needs, identifying the right data sources, designing efficient data models, and building reliable, scalable data pipelines. As technology continues to evolve, you'll help shape and maintain significant parts of BizTech’s critical data ecosystem. Your contributions will not only address complex business challenges but also help refine and advance Airbnb’s Data Engineering Paved Path, benefiting the entire data community at Airbnb. We believe in solving problems and contributing back to our data community to continuously improve.\n A Typical Day /Responsibilities:\n Lead the design, implementation, and testing of data systems, from architecture to production.\n Build batch and real-time data systems that support business needs and critical product…",
-    "tags": [
-      "Software Engineering"
-    ],
-    "postedAt": "2026-08-26T06:23:20.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -95,7 +47,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "remotive:2091097",
@@ -160,7 +112,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-08-27T00:25:10.690Z"
+    "scrapedAt": "2026-08-27T13:42:05.756Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -176,7 +128,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -192,7 +144,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -212,7 +164,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-08-27T00:28:24.043Z"
+    "scrapedAt": "2026-08-27T13:45:15.425Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -231,7 +183,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-27T00:28:25.381Z"
+    "scrapedAt": "2026-08-27T13:45:15.943Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -247,7 +199,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -263,7 +215,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -279,7 +231,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -295,7 +247,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -311,7 +263,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -327,7 +279,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -343,7 +295,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -359,7 +311,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -375,7 +327,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -391,7 +343,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -407,7 +359,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -423,7 +375,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -439,7 +391,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -455,7 +407,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -471,7 +423,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:anthropic-5125387008",
@@ -487,7 +439,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-02-20T00:49:54.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:stripe-7548037",
@@ -503,7 +455,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-01-20T05:58:11.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -519,7 +471,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -535,7 +487,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -551,7 +503,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:figma-5220003004",
@@ -567,7 +519,7 @@
       "Engineering"
     ],
     "postedAt": "2024-07-08T16:15:29.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -583,7 +535,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-08-27T00:25:11.172Z"
+    "scrapedAt": "2026-08-27T13:42:06.697Z"
   },
   {
     "id": "workday:workday-JR-0108815",
@@ -599,7 +551,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:25:20.043Z"
+    "scrapedAt": "2026-08-27T13:42:13.667Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -615,7 +567,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:25:20.043Z"
+    "scrapedAt": "2026-08-27T13:42:13.667Z"
   },
   {
     "id": "workday:workday-JR-0107814",
@@ -631,7 +583,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:25:20.043Z"
+    "scrapedAt": "2026-08-27T13:42:13.667Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -647,7 +599,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:25:20.043Z"
+    "scrapedAt": "2026-08-27T13:42:13.667Z"
   },
   {
     "id": "workday:workday-JR-0107883",
@@ -663,7 +615,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:25:20.043Z"
+    "scrapedAt": "2026-08-27T13:42:13.667Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -677,7 +629,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:25:20.043Z"
+    "scrapedAt": "2026-08-27T13:42:13.667Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -691,7 +643,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:25:20.043Z"
+    "scrapedAt": "2026-08-27T13:42:13.667Z"
   },
   {
     "id": "workday:salesforce-JR347388",
@@ -705,7 +657,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:25:20.043Z"
+    "scrapedAt": "2026-08-27T13:42:13.667Z"
   },
   {
     "id": "workday:salesforce-JR352818",
@@ -719,7 +671,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:25:20.043Z"
+    "scrapedAt": "2026-08-27T13:42:13.667Z"
   },
   {
     "id": "workday:redhat-R-058752",
@@ -735,7 +687,7 @@
       "Remote"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:25:20.043Z"
+    "scrapedAt": "2026-08-27T13:42:13.667Z"
   },
   {
     "id": "workday:adobe-R170861",
@@ -749,7 +701,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:25:20.043Z"
+    "scrapedAt": "2026-08-27T13:42:13.667Z"
   },
   {
     "id": "workday:adobe-R170680",
@@ -763,7 +715,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:25:20.043Z"
+    "scrapedAt": "2026-08-27T13:42:13.667Z"
   },
   {
     "id": "workday:adobe-R171024",
@@ -777,7 +729,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:25:20.043Z"
+    "scrapedAt": "2026-08-27T13:42:13.667Z"
   },
   {
     "id": "workday:adobe-R169536",
@@ -791,7 +743,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:25:20.043Z"
+    "scrapedAt": "2026-08-27T13:42:13.667Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -805,7 +757,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:25:20.043Z"
+    "scrapedAt": "2026-08-27T13:42:13.667Z"
   },
   {
     "id": "workday:autodesk-26WD100418",
@@ -819,7 +771,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:25:20.043Z"
+    "scrapedAt": "2026-08-27T13:42:13.667Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -833,7 +785,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:25:20.043Z"
+    "scrapedAt": "2026-08-27T13:42:13.667Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -847,7 +799,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:25:20.043Z"
+    "scrapedAt": "2026-08-27T13:42:13.667Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -861,7 +813,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:25:20.043Z"
+    "scrapedAt": "2026-08-27T13:42:13.667Z"
   },
   {
     "id": "workday:salesforce-JR353004",
@@ -875,7 +827,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:26:31.340Z"
+    "scrapedAt": "2026-08-27T13:43:22.900Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -889,7 +841,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:26:31.340Z"
+    "scrapedAt": "2026-08-27T13:43:22.900Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -903,6 +855,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-27T00:26:31.340Z"
+    "scrapedAt": "2026-08-27T13:43:22.900Z"
   }
 ]
