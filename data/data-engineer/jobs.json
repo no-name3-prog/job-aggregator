@@ -1,5 +1,71 @@
 [
   {
+    "id": "arbeitnow:azure-data-engineer-uk-305280",
+    "externalId": "azure-data-engineer-uk-305280",
+    "source": "arbeitnow",
+    "title": "Azure Data Engineer",
+    "company": "Jobgether",
+    "location": "UK",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/azure-data-engineer-uk-305280",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Azure Data Engineer based in United Kingdom.\n This role offers the opportunity to strengthen cybersecurity operations by engineering reliable, scalable security data pipelines across cloud and on-premises environments. You will work with high volumes of security telemetry and help ensure critical data is available for threat detection, incident response, compliance, and cyber risk visibility. The position combines hands-on data engineering with cybersecurity, cloud technologies, automation, and data quality management. You’ll collaborate with application, infrastructure, security, governance, and vendor teams to onboard and optimize diverse data sources. The role is well suited to an engineer who enjoys troubleshooting complex ingestion challenges and improving system reliability and efficiency. You’ll operate in a highly regulated financial services environment where data integrity, security, and operational excellence are essential. This is an opportunity to make a direct impact on the organization’s ability to detect, investigate, and respond to cyber threats.\n Accountabilities:\n Design, build, and maintain scalable security data ingestion pipelines for SIEM and cloud data platforms, including Azure Data Explorer and Log Analytics.\n Parse, normalize, transform, enrich, and validate structured and unstructured security telemetry using regex, JSON parsing, schema mapping, and other data-processing techniques.\n Partner with application owners, infrastructure and cloud teams, vendors, security stakeholders, and other internal groups to onboard new log sources and validate end-to-end data flows.\n Ensure the integrity, completeness, timeliness, and quality of security telemetry used for monitoring, detection, incident response, reporting, and risk management.\n Align security data with established schemas, naming conventions, governance sta…",
+    "tags": [
+      "IT",
+      "Full-time"
+    ],
+    "jobType": "Full-time",
+    "postedAt": "2026-08-26T21:24:39.000Z",
+    "scrapedAt": "2026-08-27T00:25:10.739Z"
+  },
+  {
+    "id": "greenhouse:airbnb-8158533",
+    "externalId": "airbnb:8158533",
+    "source": "greenhouse",
+    "title": "Senior Data Engineering, Payments",
+    "company": "Airbnb",
+    "location": "United States",
+    "remote": false,
+    "url": "https://careers.airbnb.com/positions/8158533?gh_jid=8158533",
+    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n The community you will join\n The AirCover Data Foundation team is responsible for providing trustworthy, consistent data and metrics to facilitate business insights, informed decision-making, and seamless operations across Airbnb's AirCover programs, such as Guest Travel Insurance, AirCover for Hosts, and AirCover for Guests. The team manages the end-to-end data lifecycle for guest and host protection programs, encompassing data ingestion and reconciliation with external insurance partners, as well as the construction of curated, offline analytics-ready data assets. This foundational data supports critical business functions, including claims and operations reporting, product experimentation, financial reconciliation, and the executive dashboards utilized by stakeholders across Product, Engineering, Operations, Finance, and Data Science.\n As AirCover continues its expansion into new markets and the introduction of new protection offerings, the data team plays a fundamental role in enabling trusted, data-driven decisions at every organizational level.\n The difference you will make\n As a Senior Data Engineer on AirCover Data Foundation, you will build and evolve the trusted data systems that power AirCover products and operations. You will partner closely with software engineers, product managers, analysts, data scientists, and business stakeholders to understand business needs, secure the right data sources, design high-quality data models, and deliver robust data models and metrics. Your work will help Airbnb scale AirCover into new markets and new protection offerings with reliable data foundations for exper…",
+    "tags": [
+      "Software Engineering"
+    ],
+    "postedAt": "2026-08-26T21:13:07.000Z",
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-berlin-6005",
+    "externalId": "data-engineer-berlin-6005",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "Platoapp",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/platoapp/data-engineer-berlin-6005",
+    "description": "Your responsibilities Joining our data team, you'll lead the build of Plato's real-time data platform, data warehouse, and the infrastructure behind our suite of data products. You'll work closely with data science, product, design, and engineering to build the data foundation that powers customer-facing analytics and ML models.\n What you'll actually do:\n Carry out the data modeling that powers real-time, customer-facing analytics and the data products inside our app Design flexible schemas that can absorb data from many different sources Partner with data consumers across Plato to understand usage patterns and design intuitive data models Write and deploy high-performance transformations within our data warehouse Own and configure our data platform (Databricks), working closely with product and engineering to ship data products the team actually uses\n Your qualifications Must-haves:\n 3+ years of experience in data engineering, building and owning ETLs/ELTs end to end Hands-on experience with SQL, data warehouses (e.g. Databricks or Snowflake), and data transformation workflows (e.g. dbt) Solid grounding in both software engineering practices and data engineering principles A strong analytics background - comfortable preparing aggregates in a business context and reasoning through stakeholder logic An experimental, launch-fast-and-iterate mindset, genuinely interested in how data engineering powers customer-facing analytics\n Nice-to-haves:\n Experience at a high-growth tech startup Familiarity with our stack: Python, PySpark, Terraform, AWS, Databricks, dbt, StarRocks\n Why us? You'll join Plato's data team with real ownership over how our data platform, warehouse, and infrastructure evolve - much of it is still being built, so there's genuine room to shape the architecture rather than just maintain it. Your work will directly power the forecasts and recommendations that C-suite executives at some of the largest wholesale and distribution businesses rely on to run a…",
+    "tags": [
+      "startup",
+      "B2B",
+      "SaaS",
+      "Data Engineering",
+      "Databricks",
+      "Snowflake",
+      "dbt",
+      "Data Modeling",
+      "Starrocks",
+      "Python",
+      "Terraform",
+      "ETL",
+      "ELT",
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-08-26T17:10:08.000Z",
+    "scrapedAt": "2026-08-27T00:25:10.739Z"
+  },
+  {
     "id": "greenhouse:airbnb-8152721",
     "externalId": "airbnb:8152721",
     "source": "greenhouse",
@@ -13,7 +79,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-08-26T06:23:20.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -29,7 +95,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "remotive:2091097",
@@ -94,7 +160,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-08-26T19:44:53.924Z"
+    "scrapedAt": "2026-08-27T00:25:10.690Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -110,7 +176,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -126,7 +192,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -146,7 +212,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-08-26T19:48:29.146Z"
+    "scrapedAt": "2026-08-27T00:28:24.043Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -165,7 +231,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-26T19:48:29.907Z"
+    "scrapedAt": "2026-08-27T00:28:25.381Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -181,7 +247,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -197,7 +263,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -213,7 +279,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -229,7 +295,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -245,7 +311,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -261,7 +327,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -277,7 +343,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -293,7 +359,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -309,7 +375,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -325,7 +391,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -341,7 +407,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -357,7 +423,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -373,7 +439,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -389,7 +455,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -405,23 +471,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
-  },
-  {
-    "id": "greenhouse:coinbase-7736521",
-    "externalId": "coinbase:7736521",
-    "source": "greenhouse",
-    "title": "Senior Analytics Engineer (Platform - Financial Analytics)",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Senior Analytics Engineer\n As a Senior Analytics Engineer on the Platform team, you'll build the scalable data models and pipelines that power analytics, experimentation, and decision-making across Coinbase. Our Analytics Engineering team transforms raw data into trusted, well-modeled sources that stakeholders across Product, Engineering, and Data Science rely on daily. You'll own end-to-end data solutions for specific business domains, turning complex data flows into clean, reusable frameworks that unlock commercial value at scale.\n What you'll do:\n Own end-to-end data modeling for assigned business domains, from understanding source system data flows through designing modular, reusable models (star/snowflake schemas) that serve as the single source of truth for downstream teams.\n Build and optimize ETL/ELT pipelines using modern tools like dbt and Airflow, ensuring data quality, reliability, and performance at scale across Snowflake or similar warehouse architectures.\n Partner with Engineering, Product, and Data Science teams to identify data gaps, define requirements, and deliver data products that directly enable experimentation, ad hoc analysis, and business metric optimization.\n Develop scalable abstractions and frameworks (UDFs, Python packages, internal data apps) that multiply the efficiency of other data teams and reduce time-to-insight across the organization.\n Desi…",
-    "tags": [
-      "Data Engineering"
-    ],
-    "postedAt": "2026-03-31T00:37:32.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:anthropic-5125387008",
@@ -437,7 +487,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-02-20T00:49:54.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:stripe-7548037",
@@ -453,7 +503,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-01-20T05:58:11.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -469,7 +519,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -485,7 +535,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -501,7 +551,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:figma-5220003004",
@@ -517,7 +567,7 @@
       "Engineering"
     ],
     "postedAt": "2024-07-08T16:15:29.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -533,7 +583,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-08-26T19:44:54.779Z"
+    "scrapedAt": "2026-08-27T00:25:11.172Z"
   },
   {
     "id": "workday:workday-JR-0108815",
@@ -549,7 +599,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:45:09.336Z"
+    "scrapedAt": "2026-08-27T00:25:20.043Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -565,7 +615,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:45:09.336Z"
+    "scrapedAt": "2026-08-27T00:25:20.043Z"
   },
   {
     "id": "workday:workday-JR-0107814",
@@ -581,7 +631,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:45:09.336Z"
+    "scrapedAt": "2026-08-27T00:25:20.043Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -597,7 +647,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:45:09.336Z"
+    "scrapedAt": "2026-08-27T00:25:20.043Z"
   },
   {
     "id": "workday:workday-JR-0107883",
@@ -613,7 +663,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:45:09.336Z"
+    "scrapedAt": "2026-08-27T00:25:20.043Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -627,7 +677,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:45:09.336Z"
+    "scrapedAt": "2026-08-27T00:25:20.043Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -641,7 +691,21 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:45:09.336Z"
+    "scrapedAt": "2026-08-27T00:25:20.043Z"
+  },
+  {
+    "id": "workday:salesforce-JR347388",
+    "externalId": "salesforce:JR347388",
+    "source": "workday",
+    "title": "Data Engineer (SMTS / LMTS) - MDM",
+    "company": "Salesforce",
+    "location": "4 Locations",
+    "remote": false,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Data-Engineer--SMTS---LMTS----MDM_JR347388",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-08-27T00:25:20.043Z"
   },
   {
     "id": "workday:salesforce-JR352818",
@@ -655,7 +719,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:45:09.336Z"
+    "scrapedAt": "2026-08-27T00:25:20.043Z"
   },
   {
     "id": "workday:redhat-R-058752",
@@ -671,21 +735,7 @@
       "Remote"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:45:09.336Z"
-  },
-  {
-    "id": "workday:adobe-R169988",
-    "externalId": "adobe:R169988",
-    "source": "workday",
-    "title": "Senior Data Engineer",
-    "company": "Adobe",
-    "location": "San Jose",
-    "remote": false,
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Science-Engineer_R169988",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-08-26T19:45:09.336Z"
+    "scrapedAt": "2026-08-27T00:25:20.043Z"
   },
   {
     "id": "workday:adobe-R170861",
@@ -699,7 +749,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:45:09.336Z"
+    "scrapedAt": "2026-08-27T00:25:20.043Z"
   },
   {
     "id": "workday:adobe-R170680",
@@ -713,7 +763,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:45:09.336Z"
+    "scrapedAt": "2026-08-27T00:25:20.043Z"
   },
   {
     "id": "workday:adobe-R171024",
@@ -727,7 +777,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:45:09.336Z"
+    "scrapedAt": "2026-08-27T00:25:20.043Z"
   },
   {
     "id": "workday:adobe-R169536",
@@ -741,7 +791,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:45:09.336Z"
+    "scrapedAt": "2026-08-27T00:25:20.043Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -755,7 +805,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:45:09.336Z"
+    "scrapedAt": "2026-08-27T00:25:20.043Z"
   },
   {
     "id": "workday:autodesk-26WD100418",
@@ -769,7 +819,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:45:09.336Z"
+    "scrapedAt": "2026-08-27T00:25:20.043Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -783,7 +833,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:45:09.336Z"
+    "scrapedAt": "2026-08-27T00:25:20.043Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -797,7 +847,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:45:09.336Z"
+    "scrapedAt": "2026-08-27T00:25:20.043Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -811,7 +861,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:45:09.336Z"
+    "scrapedAt": "2026-08-27T00:25:20.043Z"
   },
   {
     "id": "workday:salesforce-JR353004",
@@ -825,7 +875,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:46:26.765Z"
+    "scrapedAt": "2026-08-27T00:26:31.340Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -839,7 +889,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:46:26.765Z"
+    "scrapedAt": "2026-08-27T00:26:31.340Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -853,6 +903,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-08-26T19:46:26.765Z"
+    "scrapedAt": "2026-08-27T00:26:31.340Z"
   }
 ]

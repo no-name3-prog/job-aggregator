@@ -1,12 +1,11 @@
 [
   {
     "company": "Adobe",
-    "jobCount": 6,
+    "jobCount": 5,
     "sources": [
       "workday"
     ],
     "locations": [
-      "San Jose",
       "Noida",
       "San Francisco",
       "Bangalore",
@@ -17,40 +16,41 @@
       "Senior Data Engineer",
       "Senior Data Engineer",
       "Senior Data Engineer",
-      "Senior Data Engineer",
       "Data Platform Engineer",
       "Principal Scientist - Data Pipeline Engineer"
     ],
     "officialUrls": [
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Science-Engineer_R169988",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Science-Engineer-3_R170861-1",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Engineer_R170680-1",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Data-Engineer_R171024",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536"
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
     ]
   },
   {
-    "company": "Coinbase",
+    "company": "Salesforce",
     "jobCount": 5,
     "sources": [
-      "greenhouse"
+      "workday"
     ],
     "locations": [
-      "Remote - USA"
+      "4 Locations",
+      "India - Hyderabad",
+      "Mexico - Mexico City"
     ],
     "sampleTitles": [
-      "Staff Data Engineer, Market Data",
-      "Staff Analytics Engineer, Compliance Data",
-      "Senior Software Engineer, Data Engineering Platform",
-      "Senior Analytics Engineer, GFCO Analytics",
-      "Senior Analytics Engineer (Platform - Financial Analytics)"
+      "Data Engineer (SMTS / LMTS) - MDM",
+      "Director, Data Engineering",
+      "Data Engineer Senior",
+      "Senior Data Engineer",
+      "PMTS - Principal Agentic Data Engineer"
     ],
     "officialUrls": [
-      "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
-      "https://www.coinbase.com/careers/positions/8104148?gh_jid=8104148",
-      "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
-      "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
-      "https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521"
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Data-Engineer--SMTS---LMTS----MDM_JR347388",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Director--Data-Engineering_JR352818",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
     ]
   },
   {
@@ -103,26 +103,46 @@
     ]
   },
   {
-    "company": "Salesforce",
+    "company": "Coinbase",
     "jobCount": 4,
     "sources": [
-      "workday"
+      "greenhouse"
     ],
     "locations": [
-      "India - Hyderabad",
-      "Mexico - Mexico City"
+      "Remote - USA"
     ],
     "sampleTitles": [
-      "Director, Data Engineering",
-      "Data Engineer Senior",
-      "Senior Data Engineer",
-      "PMTS - Principal Agentic Data Engineer"
+      "Staff Data Engineer, Market Data",
+      "Staff Analytics Engineer, Compliance Data",
+      "Senior Software Engineer, Data Engineering Platform",
+      "Senior Analytics Engineer, GFCO Analytics"
     ],
     "officialUrls": [
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Director--Data-Engineering_JR352818",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
+      "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
+      "https://www.coinbase.com/careers/positions/8104148?gh_jid=8104148",
+      "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
+      "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "jobCount": 3,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "United States",
+      "Bangalore, India"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineering, Payments",
+      "Senior Data Engineer, BizTech",
+      "Senior Staff Data Engineer - Data Stewardship"
+    ],
+    "officialUrls": [
+      "https://careers.airbnb.com/positions/8158533?gh_jid=8158533",
+      "https://careers.airbnb.com/positions/8152721?gh_jid=8152721",
+      "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
     ]
   },
   {
@@ -144,25 +164,6 @@
       "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
       "https://job-boards.greenhouse.io/anthropic/jobs/5125387008",
       "https://job-boards.greenhouse.io/anthropic/jobs/4956672008"
-    ]
-  },
-  {
-    "company": "Airbnb",
-    "jobCount": 2,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "Bangalore, India",
-      "United States"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer, BizTech",
-      "Senior Staff Data Engineer - Data Stewardship"
-    ],
-    "officialUrls": [
-      "https://careers.airbnb.com/positions/8152721?gh_jid=8152721",
-      "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
     ]
   },
   {
@@ -326,6 +327,22 @@
     ]
   },
   {
+    "company": "Jobgether",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "UK"
+    ],
+    "sampleTitles": [
+      "Azure Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/jobgether/azure-data-engineer-uk-305280"
+    ]
+  },
+  {
     "company": "Lemon.io",
     "jobCount": 1,
     "sources": [
@@ -371,6 +388,22 @@
     ],
     "officialUrls": [
       "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002"
+    ]
+  },
+  {
+    "company": "Platoapp",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin"
+    ],
+    "sampleTitles": [
+      "Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/platoapp/data-engineer-berlin-6005"
     ]
   },
   {
