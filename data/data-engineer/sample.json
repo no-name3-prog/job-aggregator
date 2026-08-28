@@ -1,37 +1,40 @@
 [
   {
-    "id": "arbeitnow:data-engineer-data-platform-ontology-hamburg-or-berlin-418502",
-    "externalId": "data-engineer-data-platform-ontology-hamburg-or-berlin-418502",
-    "source": "arbeitnow",
-    "title": "Data Engineer - Data Platform & Ontology (m/f/d)",
-    "company": "Statista",
-    "location": "Hamburg or Berlin",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/statista/data-engineer-data-platform-ontology-hamburg-or-berlin-418502",
-    "description": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions.\n Founded in Hamburg in 2007, we have quickly grown into a global company with offices in major cities such as London, New York, Berlin and Tokyo. And we still have a lot of plans. Our constant growth does not only prove our success, but also keeps creating new development and career opportunities for our employees.\n We value and celebrate our diverse culture. You are welcome here for who you are, no matter where you come from, what you look like, or whether you prefer bar graphs to pie charts. Your story matters – keep writing it as part of our team.\n Are you ready to join us?\n About the Role\n As Data Engineer on our Healthcare Platform, you will own the foundational data ingestion, entity-resolution, and platform infrastructure end-to-end. You will design and operate scalable batch/streaming data pipelines, harden platform orchestration, and ensure system reliability, security, and cost efficiency.\n A central challenge of this role is building and operationalizing our unified healthcare data ontology —a consistent semantic model covering hospitals, departments, specialties, metrics, and classification standards. Working closely with Analytics Engineers, Data Scientists, and Methodology experts, you will turn heterogeneous, multi-country hospital data into a coherent, highly queryable data asset.\n Key Responsibilities\n Pipeline Infrastructure & Orchestration: Build, optimize, and operate reliable ELT pipelines (using Python, SQL, and Prefect/Airflow) to ingest data from heterogeneous international sources, APIs, databases, and lakehouse storage (S3, Apache Iceberg).\n Healthcare Ontology & Entity Resolution: Drive the implementation of entity resolution and master data management (MDM) for international hospital…",
+    "id": "jobicy:151908",
+    "externalId": "151908",
+    "source": "jobicy",
+    "title": "Senior Azure Data Engineer | KD Pharma",
+    "company": "GT",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/6f6103a3-221.jpeg",
+    "location": "Europe,  Türkiye",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/151908-senior-azure-data-engineer-kd-pharma",
+    "description": "GT was founded in 2019 by a former Apple, Nest, and Google executive. GT’s mission is to connect the world’s best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands.\n On behalf of KD Pharma , GT is looking for a Senior Azure Data Engineer with architecture exposure, interested in assessing, designing, and potentially building a modern data platform to support Finance, Operations/Supply Chain, and Quality/Manufacturing functions.\n **Expected Involvement: The engagement is expected to begin with a 6-week discovery phase of approximately 30 hours per week (180 hours total) . Following successful completion of the discovery phase and client approval, there is potential to transition into a long-term, full-time implementation role .\n About the Client\n Founded in 1988, KD Pharma is a technology-driven CDMO (Contract Development & Manufacturing Organization) specializing in pharmaceutical and nutraceutical production, including ultra-pure Omega-3 concentrates.\n The company operates internationally, with locations across Germany, Norway, the UK, the USA, Canada and Peru, and provides end-to-end solutions from development and custom synthesis through to finished dosage forms.\n About the Project\n KD Pharma is looking to modernize its current data and reporting environment and establish a scalable, maintainable Microsoft-based data platform supporting multiple business systems and reporting needs. The current landscape spans roughly nine source systems across Business Central, legacy NAV, QuickBooks and other integrations, with reporting currently relying on a mix of direct ERP/SQL connections and Power BI.\n The engagement will initially start with a 6-week Discovery Phase , focused on understanding the existing data estate and defining the target architecture, platform approach and implementation roadmap.\n During Discovery, the team will:\n Assess the existing data landscape, integrations and data flows\n Identify…",
     "tags": [
-      "Healthcare",
-      "Full Time"
+      "Data Science & Analytics",
+      "Director"
     ],
-    "jobType": "Full Time",
-    "postedAt": "2026-08-27T08:40:12.000Z",
-    "scrapedAt": "2026-08-27T13:42:05.810Z"
+    "jobType": "Contract",
+    "postedAt": "2026-08-27T18:42:26.000Z",
+    "scrapedAt": "2026-08-28T00:13:45.571Z"
   },
   {
-    "id": "greenhouse:airbnb-8158533",
-    "externalId": "airbnb:8158533",
-    "source": "greenhouse",
-    "title": "Senior Data Engineering, Payments",
-    "company": "Airbnb",
-    "location": "United States",
+    "id": "arbeitnow:data-engineer-london-gb-139637",
+    "externalId": "data-engineer-london-gb-139637",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "Octopus Energy Group",
+    "location": "London (GB)",
     "remote": false,
-    "url": "https://careers.airbnb.com/positions/8158533?gh_jid=8158533",
-    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n The community you will join\n The AirCover Data Foundation team is responsible for providing trustworthy, consistent data and metrics to facilitate business insights, informed decision-making, and seamless operations across Airbnb's AirCover programs, such as Guest Travel Insurance, AirCover for Hosts, and AirCover for Guests. The team manages the end-to-end data lifecycle for guest and host protection programs, encompassing data ingestion and reconciliation with external insurance partners, as well as the construction of curated, offline analytics-ready data assets. This foundational data supports critical business functions, including claims and operations reporting, product experimentation, financial reconciliation, and the executive dashboards utilized by stakeholders across Product, Engineering, Operations, Finance, and Data Science.\n As AirCover continues its expansion into new markets and the introduction of new protection offerings, the data team plays a fundamental role in enabling trusted, data-driven decisions at every organizational level.\n The difference you will make\n As a Senior Data Engineer on AirCover Data Foundation, you will build and evolve the trusted data systems that power AirCover products and operations. You will partner closely with software engineers, product managers, analysts, data scientists, and business stakeholders to understand business needs, secure the right data sources, design high-quality data models, and deliver robust data models and metrics. Your work will help Airbnb scale AirCover into new markets and new protection offerings with reliable data foundations for exper…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/data-engineer-london-gb-139637",
+    "description": "Help us make a big green dent in the universe. We're on a mission to drive the global renewable energy revolution, and we need many more people to help us make our vision a reality.\n Octopus Energy Generation (OEGEN) is a leader in sourcing, investing in, and managing a wide range of utility-scale renewable energy assets. As we continue to expand our investment base, we are dedicated to building a diverse team that reflects the communities we serve. Currently, we manage a global portfolio of over £8 billion in renewable energy assets.\n We are committed to delivering best-in-class responsible investment activity, offering like-minded investors the means and products to invest their capital sustainably. It is our ambition to change the entire energy lifecycle and make every green electron matter, delivering the best outcomes for customers, investors, the environment and society, accelerating the transition to net zero.\n OEGEN Data, Tech & Transformation Team\n We are embarking on a comprehensive transformation program designed to drive significant advancements in our business operations and technology landscape. Our primary goal is to transition from our current reliance on legacy systems and specialized off-the-shelf tools to a more integrated, AI-driven, and data-centric operational model.\n Leveraging insights and guidance from our other technically mature entities like Kraken and OE, we plan to adopt cutting-edge tools and capabilities, particularly in AI and Python-driven solutions.\n By investing in a diverse range of skills, we aim to create a hybrid team capable of operating in both our legacy and future environments, ultimately transforming OEGEN into an efficient, data-driven organization.\n About the role\n We’re looking for a Data Engineer who can own the journey of data from source systems to decision-ready outputs. You’ll build and maintain pipelines, model data, stand up dashboards, and integrate systems via APIs. In a team this size, you’ll also get involv…",
     "tags": [
-      "Software Engineering"
+      "Transformation and Technology",
+      "Full-time"
     ],
-    "postedAt": "2026-08-26T21:13:07.000Z",
-    "scrapedAt": "2026-08-27T13:42:06.697Z"
+    "jobType": "Full-time",
+    "postedAt": "2026-08-27T15:05:25.000Z",
+    "scrapedAt": "2026-08-28T00:13:45.378Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -47,7 +50,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-08-27T13:42:06.697Z"
+    "scrapedAt": "2026-08-28T00:13:46.251Z"
   },
   {
     "id": "remotive:2091097",
@@ -112,7 +115,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-08-27T13:42:05.756Z"
+    "scrapedAt": "2026-08-28T00:13:45.286Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -128,7 +131,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-27T13:42:06.697Z"
+    "scrapedAt": "2026-08-28T00:13:46.251Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -144,7 +147,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-27T13:42:06.697Z"
+    "scrapedAt": "2026-08-28T00:13:46.251Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -164,7 +167,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-08-27T13:45:15.425Z"
+    "scrapedAt": "2026-08-28T00:17:32.286Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -183,7 +186,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-27T13:45:15.943Z"
+    "scrapedAt": "2026-08-28T00:17:33.098Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -199,7 +202,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-27T13:42:06.697Z"
+    "scrapedAt": "2026-08-28T00:13:46.251Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -215,6 +218,6 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-27T13:42:06.697Z"
+    "scrapedAt": "2026-08-28T00:13:46.251Z"
   }
 ]
