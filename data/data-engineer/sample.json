@@ -1,5 +1,24 @@
 [
   {
+    "id": "arbeitnow:data-engineer-berlin-366460",
+    "externalId": "data-engineer-berlin-366460",
+    "source": "arbeitnow",
+    "title": "Data Engineer (m/f/d)",
+    "company": "MOTOR Ai",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/motor-ai/data-engineer-berlin-366460",
+    "description": "Driving the transition to autonomous mobility: Our mission is to spearhead the deployment of Level 4 autonomous systems in Germany and beyond. By combining cutting-edge AI with the expertise of our multidisciplinary team, we are set to introduce the first certifiable solution of its kind to European roads. Since 2017, we have remained dedicated to one goal: shaping a future that is already in motion.\n Tasks\n Data Pipeline Development - Design, build, and maintain data pipelines that prepare, transform, and deliver data for AI and machine learning use cases\n ML Data Integration - Ensure training and inference data is correctly structured, versioned, and accessible for AI Engineers and Data Scientists\n Data Quality &#x26; Monitoring - Implement monitoring and validation checks to ensure the quality, consistency, and freshness of data feeding our AI systems\n Tooling &#x26; Automation - Build and improve internal tooling to automate recurring data preparation and pipeline tasks, increasing team efficiency\n Cross-Team Collaboration - Work closely with AI Engineers, Perception, and Data Infrastructure to align on data formats, access patterns, and pipeline requirements\n Requirements\n A completed degree in computer science, data engineering, data science, or a comparable field - or equivalent vocational training/apprenticeship in a relevant technical discipline. Hands-on experience counts at least as much as the formal qualification\n 6+ years of experience as a Data Engineer\n Experience designing and implementing data warehouses, data lakes, and information systems, and keeping live/production systems running - including participating in on-call and standby duty\n Strong Python and SQL skills, with solid general database knowledge\n Hands-on experience with TensorFlow and/or PyTorch, including at larger scale/setups, and experience training neural networks\n Experience working with large data volumes and hybrid (cloud/on-prem) infrastructure setups, ideally in a small team w…",
+    "tags": [
+      "Data Processing",
+      "Data Engineer",
+      "professional / experienced"
+    ],
+    "jobType": "professional / experienced",
+    "postedAt": "2026-08-28T13:00:54.000Z",
+    "scrapedAt": "2026-08-28T14:51:30.064Z"
+  },
+  {
     "id": "jobicy:151908",
     "externalId": "151908",
     "source": "jobicy",
@@ -16,25 +35,7 @@
     ],
     "jobType": "Contract",
     "postedAt": "2026-08-27T18:42:26.000Z",
-    "scrapedAt": "2026-08-28T00:13:45.571Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-london-gb-139637",
-    "externalId": "data-engineer-london-gb-139637",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Octopus Energy Group",
-    "location": "London (GB)",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/data-engineer-london-gb-139637",
-    "description": "Help us make a big green dent in the universe. We're on a mission to drive the global renewable energy revolution, and we need many more people to help us make our vision a reality.\n Octopus Energy Generation (OEGEN) is a leader in sourcing, investing in, and managing a wide range of utility-scale renewable energy assets. As we continue to expand our investment base, we are dedicated to building a diverse team that reflects the communities we serve. Currently, we manage a global portfolio of over £8 billion in renewable energy assets.\n We are committed to delivering best-in-class responsible investment activity, offering like-minded investors the means and products to invest their capital sustainably. It is our ambition to change the entire energy lifecycle and make every green electron matter, delivering the best outcomes for customers, investors, the environment and society, accelerating the transition to net zero.\n OEGEN Data, Tech & Transformation Team\n We are embarking on a comprehensive transformation program designed to drive significant advancements in our business operations and technology landscape. Our primary goal is to transition from our current reliance on legacy systems and specialized off-the-shelf tools to a more integrated, AI-driven, and data-centric operational model.\n Leveraging insights and guidance from our other technically mature entities like Kraken and OE, we plan to adopt cutting-edge tools and capabilities, particularly in AI and Python-driven solutions.\n By investing in a diverse range of skills, we aim to create a hybrid team capable of operating in both our legacy and future environments, ultimately transforming OEGEN into an efficient, data-driven organization.\n About the role\n We’re looking for a Data Engineer who can own the journey of data from source systems to decision-ready outputs. You’ll build and maintain pipelines, model data, stand up dashboards, and integrate systems via APIs. In a team this size, you’ll also get involv…",
-    "tags": [
-      "Transformation and Technology",
-      "Full-time"
-    ],
-    "jobType": "Full-time",
-    "postedAt": "2026-08-27T15:05:25.000Z",
-    "scrapedAt": "2026-08-28T00:13:45.378Z"
+    "scrapedAt": "2026-08-28T14:51:30.144Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -50,7 +51,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-08-28T00:13:46.251Z"
+    "scrapedAt": "2026-08-28T14:51:30.570Z"
   },
   {
     "id": "remotive:2091097",
@@ -115,7 +116,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-08-28T00:13:45.286Z"
+    "scrapedAt": "2026-08-28T14:51:30.010Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -131,7 +132,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-28T00:13:46.251Z"
+    "scrapedAt": "2026-08-28T14:51:30.570Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -147,7 +148,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-28T00:13:46.251Z"
+    "scrapedAt": "2026-08-28T14:51:30.570Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -167,7 +168,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-08-28T00:17:32.286Z"
+    "scrapedAt": "2026-08-28T14:54:49.514Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -186,7 +187,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-28T00:17:33.098Z"
+    "scrapedAt": "2026-08-28T14:54:50.693Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -202,7 +203,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-28T00:13:46.251Z"
+    "scrapedAt": "2026-08-28T14:51:30.570Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -218,6 +219,6 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-28T00:13:46.251Z"
+    "scrapedAt": "2026-08-28T14:51:30.570Z"
   }
 ]
