@@ -1,21 +1,31 @@
 [
   {
-    "id": "arbeitnow:senior-data-engineer-cologne-36877",
-    "externalId": "senior-data-engineer-cologne-36877",
+    "id": "arbeitnow:praktikum-political-data-engineering-berlin-401525",
+    "externalId": "praktikum-political-data-engineering-berlin-401525",
     "source": "arbeitnow",
-    "title": "Senior Data Engineer (d/w/m)",
-    "company": "SpotmyEnergy GmbH",
-    "location": "Cologne",
+    "title": "Praktikum - Political Data Engineering (w/d/m)",
+    "company": "Christundcompany",
+    "location": "Berlin",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/spotmyenergy-gmbh/senior-data-engineer-cologne-36877",
-    "description": "Deine Mission\n Als Senior Data Engineer (d/w/m) bei SpotmyEnergy wirst Du Teil eines energiegeladenen Teams, das die Energiewende in die Haushalte bringt! Bei uns baust und betreibst Du das Rückgrat unserer Datenorganisation – unseren Data Lake und unsere BI-Plattform auf Databricks sowie die Airflow-Pipelines, die unsere Mess- und Energiedaten am Laufen halten. Unser Datenteam versteht sich als Service für das ganze Unternehmen, und genau hier kommst Du ins Spiel.\n Du modellierst und optimierst unsere Postgres- und Zeitreihendatenbanken, denkst Monitoring und Alerting von Anfang an mit und sorgst dafür, dass jedes Squad auf saubere, gut dokumentierte Daten zugreifen kann. Mit modernen Tools auf AWS und einem Team im Rücken baust Du eine Plattform, die mit uns mitwächst.\n Deine Verantwortlichkeiten\n Aufbau und Betrieb unseres Data Lake sowie der BI-Plattform auf Databricks\n Entwurf, Bau und Wartung von Airflow-Pipelines für Messwert- und Energiedaten\n Modellierung und Optimierung unserer Postgres- und Zeitreihendatenbanken\n Verantwortung für Monitoring, Alerting und Incident Response, damit Probleme früh auffallen statt spät\n Bereitstellung sauberer, gut strukturierter Daten als Service für alle Squads, inklusive eigener Deep-Dive-Analysen bei Bedarf\n Technische Weiterentwicklung der Datenplattform, inklusive Auswahl und Einführung neuer Tools, wo sie echten Mehrwert bringen\n Dokumentation und aktive Wissensteilung im Team, statt Wissen nur im eigenen Kopf zu behalten\n Enger Austausch mit dem Data-Science-Team, das sich auf die Plattform als Fundament verlassen können soll\n Dein Profil\n Mehrere Jahre Erfahrung im Aufbau und Betrieb produktiver Datenplattformen oder Data Lakes\n Fundierte Kenntnisse in Databricks/Spark sowie Airflow oder vergleichbaren Orchestrierungstools\n Sehr gutes SQL, tiefe Postgres-Erfahrung, Erfahrung mit Zeitreihendatenbanken wie TimescaleDB und sicheres Python\n Sicherer Umgang mit AWS, idealerweise inklusive managed Airflow über Astronomer u…",
+    "url": "https://www.arbeitnow.com/jobs/companies/christundcompany/praktikum-political-data-engineering-berlin-401525",
+    "description": "Deine Aufgaben Konzeption und Umsetzung kreativer Datenprodukte für Kunden aus dem politischen Umfeld, darunter Parteien, Verbände, Ministerien und NGOs Datensammlung über APIs: Entwicklung und Pflege von Skripten, die Daten aus Social-Media-APIs und Ad Libraries abrufen  Mitarbeit an den bestehenden Datenpipelines: Umsetzung und Test von Transformations-Modellen (dbt/SQL) Datenqualität & Monitoring: Regelmäßige Kontrolle laufender Pipelines, Nachverfolgen von Fehlern und Auffälligkeiten, Onboarding neuer Kunden, Dokumentation Dashboards & wiederkehrende Auswertungen: Aufbau und Pflege von Dashboards sowie Erstellung wiederkehrender Reports Ad-hoc-Analysen: Beantwortung konkreter Datenfragen aus dem Team - von der Abfrage bis zur verständlichen Aufbereitung des Ergebnisses\n Dein Profil Programmierkenntnisse in Python sowie Grundkenntnisse in SQL, Erfahrung mit R ist wünschenswert Interesse an Dateninfrastruktur und erste Berührungspunkte mit Technologien wie PostgreSQL, dbt, Dagster oder Ansible. Entscheidend ist für uns weniger die konkrete Toolkenntnise als die Fähigkeit und das Interesse, neue Systeme zu erlernen Erfahrung in der Datensammlung über APIs  Grundlegendes Verständnis für gutes Code Design, insbesondere Wiederverwendbarkeit, Wartbarkeit, klare Verantwortlichkeiten und sinnvolle Abstraktion Fähigkeit, technische Lösungen so zu gestalten, dass sie nicht nur einen einzelnen Anwendungsfall lösen, sondern möglichst flexibel und für weitere Projekte nutzbar sind Bewusster und kritischer Umgang mit Large Language Models wie Claude Code sowie die Fähigkeit, KI gezielt zum Lernen, für Code Design und zur Entwicklung technischer Lösungsansätze einzusetzen Fähigkeit, KI-generierte Vorschläge zu hinterfragen und zu durchdenken statt sie einfach zu übernehmen Interesse an tagesaktuellen politischen Themen und dem digitalen politischen Diskurs Interesse and Computational Social Science (CSS) und quantitativer politischer Beratung Deutsch auf muttersprachlichem Niv…",
     "tags": [
-      "Software Development",
-      "berufserfahren"
+      "Python",
+      "SQL",
+      "dbt",
+      "PostgreSQL",
+      "Data Engineering",
+      "Data Science",
+      "Data Analysis",
+      "Computational Social Science (CSS)",
+      "Politik",
+      "Student",
+      "Intern",
+      "Full time"
     ],
-    "jobType": "berufserfahren",
-    "postedAt": "2026-08-28T16:30:38.000Z",
-    "scrapedAt": "2026-08-28T23:51:08.990Z"
+    "jobType": "Student",
+    "postedAt": "2026-08-29T02:09:27.000Z",
+    "scrapedAt": "2026-08-29T05:27:23.219Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -31,7 +41,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-08-28T23:51:09.467Z"
+    "scrapedAt": "2026-08-29T05:27:23.748Z"
   },
   {
     "id": "remotive:2091097",
@@ -96,7 +106,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-08-28T23:51:08.924Z"
+    "scrapedAt": "2026-08-29T05:27:23.137Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -112,7 +122,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-28T23:51:09.467Z"
+    "scrapedAt": "2026-08-29T05:27:23.748Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -128,7 +138,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-28T23:51:09.467Z"
+    "scrapedAt": "2026-08-29T05:27:23.748Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -148,7 +158,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-08-28T23:54:19.972Z"
+    "scrapedAt": "2026-08-29T05:30:29.493Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -167,7 +177,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-28T23:54:21.130Z"
+    "scrapedAt": "2026-08-29T05:30:30.012Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -183,7 +193,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-28T23:51:09.467Z"
+    "scrapedAt": "2026-08-29T05:27:23.748Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -199,7 +209,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-28T23:51:09.467Z"
+    "scrapedAt": "2026-08-29T05:27:23.748Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -215,6 +225,6 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-28T23:51:09.467Z"
+    "scrapedAt": "2026-08-29T05:27:23.748Z"
   }
 ]
