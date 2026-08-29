@@ -1,41 +1,21 @@
 [
   {
-    "id": "arbeitnow:data-engineer-berlin-366460",
-    "externalId": "data-engineer-berlin-366460",
+    "id": "arbeitnow:senior-data-engineer-cologne-36877",
+    "externalId": "senior-data-engineer-cologne-36877",
     "source": "arbeitnow",
-    "title": "Data Engineer (m/f/d)",
-    "company": "MOTOR Ai",
-    "location": "Berlin",
+    "title": "Senior Data Engineer (d/w/m)",
+    "company": "SpotmyEnergy GmbH",
+    "location": "Cologne",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/motor-ai/data-engineer-berlin-366460",
-    "description": "Driving the transition to autonomous mobility: Our mission is to spearhead the deployment of Level 4 autonomous systems in Germany and beyond. By combining cutting-edge AI with the expertise of our multidisciplinary team, we are set to introduce the first certifiable solution of its kind to European roads. Since 2017, we have remained dedicated to one goal: shaping a future that is already in motion.\n Tasks\n Data Pipeline Development - Design, build, and maintain data pipelines that prepare, transform, and deliver data for AI and machine learning use cases\n ML Data Integration - Ensure training and inference data is correctly structured, versioned, and accessible for AI Engineers and Data Scientists\n Data Quality &#x26; Monitoring - Implement monitoring and validation checks to ensure the quality, consistency, and freshness of data feeding our AI systems\n Tooling &#x26; Automation - Build and improve internal tooling to automate recurring data preparation and pipeline tasks, increasing team efficiency\n Cross-Team Collaboration - Work closely with AI Engineers, Perception, and Data Infrastructure to align on data formats, access patterns, and pipeline requirements\n Requirements\n A completed degree in computer science, data engineering, data science, or a comparable field - or equivalent vocational training/apprenticeship in a relevant technical discipline. Hands-on experience counts at least as much as the formal qualification\n 6+ years of experience as a Data Engineer\n Experience designing and implementing data warehouses, data lakes, and information systems, and keeping live/production systems running - including participating in on-call and standby duty\n Strong Python and SQL skills, with solid general database knowledge\n Hands-on experience with TensorFlow and/or PyTorch, including at larger scale/setups, and experience training neural networks\n Experience working with large data volumes and hybrid (cloud/on-prem) infrastructure setups, ideally in a small team w…",
+    "url": "https://www.arbeitnow.com/jobs/companies/spotmyenergy-gmbh/senior-data-engineer-cologne-36877",
+    "description": "Deine Mission\n Als Senior Data Engineer (d/w/m) bei SpotmyEnergy wirst Du Teil eines energiegeladenen Teams, das die Energiewende in die Haushalte bringt! Bei uns baust und betreibst Du das Rückgrat unserer Datenorganisation – unseren Data Lake und unsere BI-Plattform auf Databricks sowie die Airflow-Pipelines, die unsere Mess- und Energiedaten am Laufen halten. Unser Datenteam versteht sich als Service für das ganze Unternehmen, und genau hier kommst Du ins Spiel.\n Du modellierst und optimierst unsere Postgres- und Zeitreihendatenbanken, denkst Monitoring und Alerting von Anfang an mit und sorgst dafür, dass jedes Squad auf saubere, gut dokumentierte Daten zugreifen kann. Mit modernen Tools auf AWS und einem Team im Rücken baust Du eine Plattform, die mit uns mitwächst.\n Deine Verantwortlichkeiten\n Aufbau und Betrieb unseres Data Lake sowie der BI-Plattform auf Databricks\n Entwurf, Bau und Wartung von Airflow-Pipelines für Messwert- und Energiedaten\n Modellierung und Optimierung unserer Postgres- und Zeitreihendatenbanken\n Verantwortung für Monitoring, Alerting und Incident Response, damit Probleme früh auffallen statt spät\n Bereitstellung sauberer, gut strukturierter Daten als Service für alle Squads, inklusive eigener Deep-Dive-Analysen bei Bedarf\n Technische Weiterentwicklung der Datenplattform, inklusive Auswahl und Einführung neuer Tools, wo sie echten Mehrwert bringen\n Dokumentation und aktive Wissensteilung im Team, statt Wissen nur im eigenen Kopf zu behalten\n Enger Austausch mit dem Data-Science-Team, das sich auf die Plattform als Fundament verlassen können soll\n Dein Profil\n Mehrere Jahre Erfahrung im Aufbau und Betrieb produktiver Datenplattformen oder Data Lakes\n Fundierte Kenntnisse in Databricks/Spark sowie Airflow oder vergleichbaren Orchestrierungstools\n Sehr gutes SQL, tiefe Postgres-Erfahrung, Erfahrung mit Zeitreihendatenbanken wie TimescaleDB und sicheres Python\n Sicherer Umgang mit AWS, idealerweise inklusive managed Airflow über Astronomer u…",
     "tags": [
-      "Data Processing",
-      "Data Engineer",
-      "professional / experienced"
+      "Software Development",
+      "berufserfahren"
     ],
-    "jobType": "professional / experienced",
-    "postedAt": "2026-08-28T13:00:54.000Z",
-    "scrapedAt": "2026-08-28T14:51:30.064Z"
-  },
-  {
-    "id": "jobicy:151908",
-    "externalId": "151908",
-    "source": "jobicy",
-    "title": "Senior Azure Data Engineer | KD Pharma",
-    "company": "GT",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/6f6103a3-221.jpeg",
-    "location": "Europe,  Türkiye",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/151908-senior-azure-data-engineer-kd-pharma",
-    "description": "GT was founded in 2019 by a former Apple, Nest, and Google executive. GT’s mission is to connect the world’s best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands.\n On behalf of KD Pharma , GT is looking for a Senior Azure Data Engineer with architecture exposure, interested in assessing, designing, and potentially building a modern data platform to support Finance, Operations/Supply Chain, and Quality/Manufacturing functions.\n **Expected Involvement: The engagement is expected to begin with a 6-week discovery phase of approximately 30 hours per week (180 hours total) . Following successful completion of the discovery phase and client approval, there is potential to transition into a long-term, full-time implementation role .\n About the Client\n Founded in 1988, KD Pharma is a technology-driven CDMO (Contract Development & Manufacturing Organization) specializing in pharmaceutical and nutraceutical production, including ultra-pure Omega-3 concentrates.\n The company operates internationally, with locations across Germany, Norway, the UK, the USA, Canada and Peru, and provides end-to-end solutions from development and custom synthesis through to finished dosage forms.\n About the Project\n KD Pharma is looking to modernize its current data and reporting environment and establish a scalable, maintainable Microsoft-based data platform supporting multiple business systems and reporting needs. The current landscape spans roughly nine source systems across Business Central, legacy NAV, QuickBooks and other integrations, with reporting currently relying on a mix of direct ERP/SQL connections and Power BI.\n The engagement will initially start with a 6-week Discovery Phase , focused on understanding the existing data estate and defining the target architecture, platform approach and implementation roadmap.\n During Discovery, the team will:\n Assess the existing data landscape, integrations and data flows\n Identify…",
-    "tags": [
-      "Data Science & Analytics",
-      "Director"
-    ],
-    "jobType": "Contract",
-    "postedAt": "2026-08-27T18:42:26.000Z",
-    "scrapedAt": "2026-08-28T14:51:30.144Z"
+    "jobType": "berufserfahren",
+    "postedAt": "2026-08-28T16:30:38.000Z",
+    "scrapedAt": "2026-08-28T23:51:08.990Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -51,7 +31,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-08-28T14:51:30.570Z"
+    "scrapedAt": "2026-08-28T23:51:09.467Z"
   },
   {
     "id": "remotive:2091097",
@@ -116,7 +96,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-08-28T14:51:30.010Z"
+    "scrapedAt": "2026-08-28T23:51:08.924Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -132,7 +112,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-28T14:51:30.570Z"
+    "scrapedAt": "2026-08-28T23:51:09.467Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -148,7 +128,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-28T14:51:30.570Z"
+    "scrapedAt": "2026-08-28T23:51:09.467Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -168,7 +148,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-08-28T14:54:49.514Z"
+    "scrapedAt": "2026-08-28T23:54:19.972Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -187,7 +167,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-28T14:54:50.693Z"
+    "scrapedAt": "2026-08-28T23:54:21.130Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -203,7 +183,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-28T14:51:30.570Z"
+    "scrapedAt": "2026-08-28T23:51:09.467Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -219,6 +199,22 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-28T14:51:30.570Z"
+    "scrapedAt": "2026-08-28T23:51:09.467Z"
+  },
+  {
+    "id": "greenhouse:lyft-8662205002",
+    "externalId": "lyft:8662205002",
+    "source": "greenhouse",
+    "title": "Data Engineer",
+    "company": "Lyft",
+    "location": "Toronto, Canada",
+    "remote": false,
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002",
+    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n The Safety and Customer Care (SCC) team at Lyft manages over 1.7 million monthly human and AI interactions and serves as Lyft's primary direct touchpoint with riders and drivers. We handle critical infrastructure that powers both human associates and AI agents to make riders and drivers feel safe and comfortable while riding or driving with Lyft, transforming every support interaction into a moment of genuine connection.\n As a Data Engineer on the SCC team, you will have ownership over the data modeling and pipelines that power SCC’s Associate and AI Agent Platform . Your efforts will be critical to the reliability of our pipelines, execution of third party data integrations, accurate reporting of agents performance, and efficiency improvements that can save millions of dollars / year. You will work cross-functionally to bridge Lyft's business goals with data engineering. Your efforts will allow access to business and user behavior insights, using huge amounts of Lyft data to fuel several teams such as Analytics, Data Science, Engineering, and many others.\n Responsibilities:\n Owner of the core data pipeline, responsible for scaling up data processing flow to meet the rapid data growth at Lyft\n Evolve data model and data schema based on business and engineering needs\n Implement systems tracking data quality and consistency\n Develop tools supporting self-service data pipeline management (ETL)\n SQL and MapReduce job tuning to improve data processing performance\n Write well-crafted, well-tested, readable, maintainable code\n Participate in code reviews to ensure code quality and distribute knowledge\n Collaborate cross-functionally with product, engineering, data science, and marketing teams to understand business problems and align on prioritization and solutions\n Experience:\n Bachelor's degree in Compu…",
+    "tags": [
+      "SCC Tech"
+    ],
+    "postedAt": "2026-08-06T00:02:08.000Z",
+    "scrapedAt": "2026-08-28T23:51:09.467Z"
   }
 ]
