@@ -13,27 +13,7 @@
       "(OLD) Data Science"
     ],
     "postedAt": "2026-08-29T23:55:06.000Z",
-    "scrapedAt": "2026-08-30T03:22:42.448Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-munchen-16160",
-    "externalId": "data-engineer-munchen-16160",
-    "source": "arbeitnow",
-    "title": "Data Engineer (m/f/d)",
-    "company": "Ecoplanet Green Operations Gmbh",
-    "location": "München",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/ecoplanet-green-operations-gmbh/data-engineer-munchen-16160",
-    "description": "What we are building At ecoplanet, we're redefining energy for tomorrow. Our mission: turn energy management into the competitive edge every European business relies on to win its market. We're building the operating system for the energy transition — cutting energy costs, improving efficiency, and streamlining operations. Backed by EQT Ventures, HV Capital and more, and built by a team full of top-tier talent.\n Why This Role Matters You will build and run the data backbone the whole product sits on. Meter readings arrive from industrial sites across Europe, through messages or us accessing APIs. Your job is to get that data in clean, on time, and in a shape that dashboards, insights and forecasts can rely on.\nYou will join a team of 12 engineers in two squads. Small team, real ownership, and what you build reaches customers in weeks rather than quarters.\n What You’ll Achieve Meter data integration. Connect industrial hardware and utility data streams into real-time dashboards. Every site is a little different, so a good part of the job is bringing data into a consistent structure across all sites Anomalies and insights. This is where data science comes in. Find the things in the data a customer would want to know about — a meter drifting, a machine left running overnight, consumption that does not fit the pattern — and turn them into something they can act on Tech stack and growth. Support the engineering team building scalable data pipeline\n What Sets You Up for Success Must have:\n At least 3–5 years in a data engineering role or something close to it, building pipelines other people depend on\n Hands-on data science experience. You do not need a research background. You do need to have built and evaluated models yourself: enough to tell a real anomaly from noise, to judge when a finding is solid enough to put in front of a paying customer, and to know what a pipeline owes a model running in production\n Solid with Python and SQL and cloud data infrastructure. You…",
-    "tags": [
-      "Data Engineering",
-      "Experienced",
-      "Permanent",
-      "Full time"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-08-29T23:09:38.000Z",
-    "scrapedAt": "2026-08-30T03:22:42.448Z"
+    "scrapedAt": "2026-08-30T11:09:51.110Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -49,7 +29,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-08-30T03:22:43.001Z"
+    "scrapedAt": "2026-08-30T11:09:51.553Z"
   },
   {
     "id": "remotive:2091097",
@@ -114,7 +94,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-08-30T03:22:42.345Z"
+    "scrapedAt": "2026-08-30T11:09:51.056Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -130,7 +110,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-30T03:22:43.001Z"
+    "scrapedAt": "2026-08-30T11:09:51.553Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -146,7 +126,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-30T03:22:43.001Z"
+    "scrapedAt": "2026-08-30T11:09:51.553Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -166,7 +146,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-08-30T03:25:43.068Z"
+    "scrapedAt": "2026-08-30T11:12:57.045Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -185,7 +165,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-30T03:25:43.584Z"
+    "scrapedAt": "2026-08-30T11:12:58.351Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -201,7 +181,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-30T03:22:43.001Z"
+    "scrapedAt": "2026-08-30T11:09:51.553Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -217,6 +197,22 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-30T03:22:43.001Z"
+    "scrapedAt": "2026-08-30T11:09:51.553Z"
+  },
+  {
+    "id": "greenhouse:lyft-8662205002",
+    "externalId": "lyft:8662205002",
+    "source": "greenhouse",
+    "title": "Data Engineer",
+    "company": "Lyft",
+    "location": "Toronto, Canada",
+    "remote": false,
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002",
+    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n The Safety and Customer Care (SCC) team at Lyft manages over 1.7 million monthly human and AI interactions and serves as Lyft's primary direct touchpoint with riders and drivers. We handle critical infrastructure that powers both human associates and AI agents to make riders and drivers feel safe and comfortable while riding or driving with Lyft, transforming every support interaction into a moment of genuine connection.\n As a Data Engineer on the SCC team, you will have ownership over the data modeling and pipelines that power SCC’s Associate and AI Agent Platform . Your efforts will be critical to the reliability of our pipelines, execution of third party data integrations, accurate reporting of agents performance, and efficiency improvements that can save millions of dollars / year. You will work cross-functionally to bridge Lyft's business goals with data engineering. Your efforts will allow access to business and user behavior insights, using huge amounts of Lyft data to fuel several teams such as Analytics, Data Science, Engineering, and many others.\n Responsibilities:\n Owner of the core data pipeline, responsible for scaling up data processing flow to meet the rapid data growth at Lyft\n Evolve data model and data schema based on business and engineering needs\n Implement systems tracking data quality and consistency\n Develop tools supporting self-service data pipeline management (ETL)\n SQL and MapReduce job tuning to improve data processing performance\n Write well-crafted, well-tested, readable, maintainable code\n Participate in code reviews to ensure code quality and distribute knowledge\n Collaborate cross-functionally with product, engineering, data science, and marketing teams to understand business problems and align on prioritization and solutions\n Experience:\n Bachelor's degree in Compu…",
+    "tags": [
+      "SCC Tech"
+    ],
+    "postedAt": "2026-08-06T00:02:08.000Z",
+    "scrapedAt": "2026-08-30T11:09:51.553Z"
   }
 ]
