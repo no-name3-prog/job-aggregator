@@ -1,19 +1,29 @@
 [
   {
-    "id": "arbeitnow:senior-data-engineer-constellation-services-berlin-107524",
-    "externalId": "senior-data-engineer-constellation-services-berlin-107524",
+    "id": "arbeitnow:data-engineer-berlin-hq-160932",
+    "externalId": "data-engineer-berlin-hq-160932",
     "source": "arbeitnow",
-    "title": "Senior Data Engineer, Constellation Services",
-    "company": "planetlabs",
-    "location": "Berlin",
+    "title": "Data Engineer (f/m/d)",
+    "company": "Climate",
+    "location": "Berlin HQ",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/senior-data-engineer-constellation-services-berlin-107524",
-    "description": "<div class=\"content-intro\"><p><strong>Welcome to Planet. We believe in using space to help life on Earth.</strong></p>\n<p>Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and data company all rolled into one.</p>\n<p>Customers and users across the globe use Planet's data to develop new technologies, drive revenue, power research, and solve our world’s toughest obstacles.</p>\n<p>As we control every component of hardware design, manufacturing, data processing, and software engineering, our office is a truly inspiring mix of experts from a variety of domains.</p>\n<p>We have a people-centric approach toward culture and community and we strive to iterate in a way that puts our team members first and prepares our company for growth. Join Planet and be a part of our mission to change the way people see the world.</p>\n<p>Planet is a global company with employees working remotely world wide and joining us from offices in San Francisco, Washington DC, Germany, Austria, Slovenia, and The Netherlands.</p></div><p><strong>About the Role:&nbsp;&nbsp;</strong></p>\n<p>As a Senior Data Engineer (DE) at Planet, you will own, design and build enterprise ETL pipelines and self-service data tooling using modern cloud technologies. You will work closely with cross-functional stakeholders across the company to understand their needs and to deliver robust, flexible solutions and clear insights to meet those needs. You will build data solutions end to end: architecture, implementation, CI/CD and orchestration of pipelines, QA, visualization and effective data communication. You’ll be part of the Data Team within the Software Engineering organization, which is made up of data scientists, engineers and analysts working on…",
+    "url": "https://www.arbeitnow.com/jobs/companies/climate/data-engineer-berlin-hq-160932",
+    "description": "Job description We are currently seeking a  Data Engineer  for our international and diverse Climate Policy Team (CPT). The team is engaged in various projects on climate change mitigation, in particular on energy system transformation, the 1.5°C global warming limit and the evaluation of national climate action. This includes flagship projects, such as the Climate Action Tracker and the National Pathways Explorer, for which data is being processed and analysed in-house and then published on the respective project websites.\n As a  Data Engineer  you will play a critical role in designing, building and maintaining our data infrastructure, ensuring efficient and accurate data processing, storage and retrieval.\n Your Responsibilities\n You will help to build and maintain a data platform for advanced analytics and climate modelling, spanning data science and data engineering work.\n Contribute to the full lifecycle of data platform development from design and deployment to continuous improvement\n Strengthen data pipelines reliability, observability, and automation through code and tooling improvements.\n Collaborate with data scientists and researchers to define data processing requirements.\n Support AI/LLM initiatives across the organisation from a data and infrastructure perspective.\n Help develop backend data services and APIs that expose curated datasets to internal and external consumers and applications.\n Monitor, anticipate, and resolve operational or data quality issues in data pipelines. Ensure data reliability.\n Relevant Tech Skills\n Please note that this list is non exhaustive and that if you don’t have experience on some of those you should still apply.\n Required:\n Py thon\n SQL\n PostgreSQL\n Object storage (like S3/Minio)\n Containers (like Docker)\n Git\n CI/CD  princip les\n Nice to have:\n Pandas/Polar/DuckDB or other framework for data processing\n Conda\n Monitoring tools (like Prometheus, Grafana and Elasticsearch)\n Infrastructure as code tool (like Terraform or…",
     "tags": [
-      "(OLD) Data Science"
+      "Data Engineer",
+      "nonprofit",
+      "NGO",
+      "Climate Policy",
+      "Python",
+      "Data Platform",
+      "SQL",
+      "Experienced",
+      "Fixed term",
+      "Full time"
     ],
-    "postedAt": "2026-08-29T23:55:06.000Z",
-    "scrapedAt": "2026-08-30T11:09:51.110Z"
+    "jobType": "Experienced",
+    "postedAt": "2026-08-30T11:09:48.000Z",
+    "scrapedAt": "2026-08-30T15:58:25.889Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -29,7 +39,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-08-30T11:09:51.553Z"
+    "scrapedAt": "2026-08-30T15:58:26.313Z"
   },
   {
     "id": "remotive:2091097",
@@ -94,7 +104,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-08-30T11:09:51.056Z"
+    "scrapedAt": "2026-08-30T15:58:25.782Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -110,7 +120,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-08-30T11:09:51.553Z"
+    "scrapedAt": "2026-08-30T15:58:26.313Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -126,7 +136,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-08-30T11:09:51.553Z"
+    "scrapedAt": "2026-08-30T15:58:26.313Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -146,7 +156,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-08-30T11:12:57.045Z"
+    "scrapedAt": "2026-08-30T16:01:34.847Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -165,7 +175,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-08-30T11:12:58.351Z"
+    "scrapedAt": "2026-08-30T16:01:36.009Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -181,7 +191,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-08-30T11:09:51.553Z"
+    "scrapedAt": "2026-08-30T15:58:26.313Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -197,7 +207,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-08-30T11:09:51.553Z"
+    "scrapedAt": "2026-08-30T15:58:26.313Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -213,6 +223,6 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-08-30T11:09:51.553Z"
+    "scrapedAt": "2026-08-30T15:58:26.313Z"
   }
 ]
