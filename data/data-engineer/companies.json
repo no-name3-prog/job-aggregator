@@ -1,19 +1,17 @@
 [
   {
     "company": "Salesforce",
-    "jobCount": 7,
+    "jobCount": 6,
     "sources": [
       "workday"
     ],
     "locations": [
-      "4 Locations",
       "India - Bangalore",
       "California - San Francisco",
       "3 Locations",
       "Mexico - Mexico City"
     ],
     "sampleTitles": [
-      "Data Engineer (SMTS/LMTS) - Knowledge Graph & AI",
       "Data Engineering MTS",
       "Principal Data Platform Engineer",
       "Sr. Data Engineer,  Enterprise - Slack",
@@ -22,11 +20,11 @@
       "PMTS - Principal Agentic Data Engineer"
     ],
     "officialUrls": [
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Data-Engineer--SMTS-LMTS----Knowledge-Graph---AI_JR347480",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Data-Engineering-MTS_JR350293",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Data-Platform-Engineer_JR354027",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Sr-Data-Engineer---Enterprise---Slack_JR341884-1",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004"
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657"
     ]
   },
   {
@@ -244,24 +242,6 @@
     ]
   },
   {
-    "company": "Mactores",
-    "jobCount": 2,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "Anywhere"
-    ],
-    "sampleTitles": [
-      "Data Engineer (Intern)",
-      "AWS Data Engineer (Senior) (Freelancer)"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/152294-data-engineer-intern",
-      "https://jobicy.com/jobs/152274-aws-data-engineer-senior-freelancer"
-    ]
-  },
-  {
     "company": "NVIDIA",
     "jobCount": 2,
     "sources": [
@@ -310,6 +290,22 @@
     ],
     "officialUrls": [
       "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
+    ]
+  },
+  {
+    "company": "ANGI",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "USA"
+    ],
+    "sampleTitles": [
+      "Principal Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/152320-principal-analytics-engineer"
     ]
   },
   {
@@ -409,6 +405,38 @@
     ]
   },
   {
+    "company": "Paddle",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "Ireland,  Portugal,  UK"
+    ],
+    "sampleTitles": [
+      "Senior Analytics Engineer - Marketing"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/152324-senior-analytics-engineer-marketing"
+    ]
+  },
+  {
+    "company": "Quantum",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London (hybrid)"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/quantum/senior-data-engineer-london-122244"
+    ]
+  },
+  {
     "company": "Red Hat",
     "jobCount": 1,
     "sources": [
@@ -470,6 +498,54 @@
     ],
     "officialUrls": [
       "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da"
+    ]
+  },
+  {
+    "company": "Supreme Sports Hospitality GmbH",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Frankfurt am Main, Hessen, Deutschland"
+    ],
+    "sampleTitles": [
+      "Werkstudent (all genders) Data Engineering"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/supreme-sports-hospitality-gmbh/werkstudent-all-genders-data-engineering-frankfurt-am-main-461251"
+    ]
+  },
+  {
+    "company": "Thumbtack",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "USA"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/152318-senior-data-engineer-3"
+    ]
+  },
+  {
+    "company": "Upside",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "USA"
+    ],
+    "sampleTitles": [
+      "Staff Data Engineer"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/152323-staff-data-engineer"
     ]
   },
   {
