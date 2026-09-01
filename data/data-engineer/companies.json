@@ -1,17 +1,19 @@
 [
   {
     "company": "Salesforce",
-    "jobCount": 6,
+    "jobCount": 7,
     "sources": [
       "workday"
     ],
     "locations": [
+      "4 Locations",
       "India - Bangalore",
       "California - San Francisco",
       "3 Locations",
       "Mexico - Mexico City"
     ],
     "sampleTitles": [
+      "Data Engineer (SMTS/LMTS) - Knowledge Graph & AI",
       "Data Engineering MTS",
       "Principal Data Platform Engineer",
       "Sr. Data Engineer,  Enterprise - Slack",
@@ -20,11 +22,11 @@
       "PMTS - Principal Agentic Data Engineer"
     ],
     "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Data-Engineer--SMTS-LMTS----Knowledge-Graph---AI_JR347480",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Data-Engineering-MTS_JR350293",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Data-Platform-Engineer_JR354027",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Sr-Data-Engineer---Enterprise---Slack_JR341884-1",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657"
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004"
     ]
   },
   {
@@ -113,7 +115,7 @@
       "3 Locations"
     ],
     "sampleTitles": [
-      "Principal Cybersecurity Data Engineer",
+      "Senior Data Engineer, Cybersecurity",
       "Senior Cybersecurity Data Engineer - AI/ML SME",
       "Senior Software Engineer/Software Engineer III (Data Engineering)",
       "Data Platform Engineer - Cybersecurity"
@@ -276,25 +278,6 @@
     "officialUrls": [
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Interconnect-Product-Data-Engineer_JR2021975",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970"
-    ]
-  },
-  {
-    "company": "Pleo",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "United Kingdom",
-      "London"
-    ],
-    "sampleTitles": [
-      "Analytics Engineer",
-      "Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/pleo/analytics-engineer-united-kingdom-489042",
-      "https://www.arbeitnow.co.uk/jobs/companies/pleo/analytics-engineer-london-210438"
     ]
   },
   {
@@ -487,6 +470,22 @@
     ],
     "officialUrls": [
       "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da"
+    ]
+  },
+  {
+    "company": "Vinteden",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer, Payments Intelligence"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/vinteden/analytics-engineer-payments-intelligence-berlin-175027"
     ]
   }
 ]
