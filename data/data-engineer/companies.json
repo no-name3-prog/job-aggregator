@@ -1,5 +1,33 @@
 [
   {
+    "company": "Salesforce",
+    "jobCount": 6,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "India - Bangalore",
+      "California - San Francisco",
+      "3 Locations",
+      "Mexico - Mexico City"
+    ],
+    "sampleTitles": [
+      "Data Engineering MTS",
+      "Principal Data Platform Engineer",
+      "Sr. Data Engineer,  Enterprise - Slack",
+      "Data Engineer Senior",
+      "Senior Data Engineer",
+      "PMTS - Principal Agentic Data Engineer"
+    ],
+    "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Data-Engineering-MTS_JR350293",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Data-Platform-Engineer_JR354027",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Sr-Data-Engineer---Enterprise---Slack_JR341884-1",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657"
+    ]
+  },
+  {
     "company": "Adobe",
     "jobCount": 5,
     "sources": [
@@ -25,32 +53,6 @@
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Data-Engineer_R171024",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
-    ]
-  },
-  {
-    "company": "Salesforce",
-    "jobCount": 5,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "California - San Francisco",
-      "3 Locations",
-      "Mexico - Mexico City"
-    ],
-    "sampleTitles": [
-      "Principal Data Platform Engineer",
-      "Sr. Data Engineer,  Enterprise - Slack",
-      "Data Engineer Senior",
-      "Senior Data Engineer",
-      "PMTS - Principal Agentic Data Engineer"
-    ],
-    "officialUrls": [
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Data-Platform-Engineer_JR354027",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Sr-Data-Engineer---Enterprise---Slack_JR341884-1",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
     ]
   },
   {
@@ -240,6 +242,24 @@
     ]
   },
   {
+    "company": "Mactores",
+    "jobCount": 2,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "Anywhere"
+    ],
+    "sampleTitles": [
+      "Data Engineer (Intern)",
+      "AWS Data Engineer (Senior) (Freelancer)"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/152294-data-engineer-intern",
+      "https://jobicy.com/jobs/152274-aws-data-engineer-senior-freelancer"
+    ]
+  },
+  {
     "company": "NVIDIA",
     "jobCount": 2,
     "sources": [
@@ -278,22 +298,6 @@
     ]
   },
   {
-    "company": "Aevi",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Germany"
-    ],
-    "sampleTitles": [
-      "Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/aevi/data-engineer-germany-230003"
-    ]
-  },
-  {
     "company": "Affirm",
     "jobCount": 1,
     "sources": [
@@ -326,38 +330,6 @@
     ]
   },
   {
-    "company": "Aktion Mensch e.V.",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Bonn"
-    ],
-    "sampleTitles": [
-      "Data Engineer Junior - Schwerpunkt Datenpipelines (m/w/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/aktion-mensch-ev/data-engineer-junior-schwerpunkt-datenpipelines-bonn-414758"
-    ]
-  },
-  {
-    "company": "Anaplan",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Principal Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-data-engineer-london-84559"
-    ]
-  },
-  {
     "company": "Block",
     "jobCount": 1,
     "sources": [
@@ -387,22 +359,6 @@
     ],
     "officialUrls": [
       "https://careers.datadoghq.com/detail/8141967/?gh_jid=8141967"
-    ]
-  },
-  {
-    "company": "Emma – The Sleep Company",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Frankfurt"
-    ],
-    "sampleTitles": [
-      "Analytics Engineer, Data Platform"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/emma-the-sleep-company/analytics-engineer-data-platform-frankfurt-156939"
     ]
   },
   {

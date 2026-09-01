@@ -1,65 +1,41 @@
 [
   {
-    "id": "arbeitnow:data-engineer-junior-schwerpunkt-datenpipelines-bonn-414758",
-    "externalId": "data-engineer-junior-schwerpunkt-datenpipelines-bonn-414758",
-    "source": "arbeitnow",
-    "title": "Data Engineer Junior - Schwerpunkt Datenpipelines (m/w/d)",
-    "company": "Aktion Mensch e.V.",
-    "location": "Bonn",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/aktion-mensch-ev/data-engineer-junior-schwerpunkt-datenpipelines-bonn-414758",
-    "description": "WIR suchen dich! Statt nur Code zu schreiben, möchtest du sehen, wie deine Arbeit wirkt? Gemeinsam mit fünf Analytics- und Data-Expert*innen entwickelst du in Bonn moderne Datenlösungen für ein ganzheitliches 360°-Kundenprofil und ermöglichst damit datengetriebene Entscheidungen, die zu mehr Inklusion und gesellschaftlicher Teilhabe beitragen.\n Tu, was du liebst Du arbeitest an modernen Datenprodukten, die Reporting, Analysen und datengetriebene Entscheidungen in der Aktion Mensch unterstützen. Du unterstützt bei der Bereitstellung kuratierter Daten für Analysen, Reporting und weitere datengetriebene Anwendungsfälle. Du entwickelst und pflegst Datenpipelines sowie Datenverarbeitungsprozesse zur Bereitstellung hochwertiger Daten. Du wirkst bei der Durchführung von Datenqualitätsprüfungen sowie bei der Analyse und Behebung von Datenfehlern mit. Du dokumentierst Datenflüsse, Schnittstellen und technische Zusammenhänge nachvollziehbar und verständlich. Du arbeitest eng mit Analyst*innen, Data Scientists, Architektur-, Entwicklungs- und Fachbereichsteams zusammen. Du unterstützt bei der Umsetzung von Standards für Datenqualität, Governance und Wiederverwendbarkeit von Daten.\n Zeig, was du kannst Du hast erste praktische Erfahrungen im Bereich Data Engineering gesammelt, beispielsweise durch Berufserfahrung, Studium, Werkstudententätigkeiten oder eigene Projekte. Du verfügst über gute SQL-Kenntnisse und erste Erfahrungen mit Python für die Verarbeitung und Analyse von Daten. Du interessierst dich für Datenmodellierung und moderne Datenplattformen und hast idealerweise bereits erste praktische Berührungspunkte gesammelt. Du hast erste Erfahrungen mit Datenpipelines, ETL-/ELT-Prozessen oder vergleichbaren Datenintegrationsaufgaben. Wünschenswert sind erste Kenntnisse in Microsoft Fabric, Azure Data Services oder vergleichbaren Cloud- und Datenplattformen. Erfahrungen mit Git oder anderen Versionsverwaltungssystemen sind von Vorteil. Du arbeitest strukturiert, sorgfältig un…",
+    "id": "jobicy:152294",
+    "externalId": "152294",
+    "source": "jobicy",
+    "title": "Data Engineer (Intern)",
+    "company": "Mactores",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/cea77a13-221.jpeg",
+    "location": "Anywhere",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/152294-data-engineer-intern",
+    "description": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company, which absorbs the repetitive 60–70% of engagement work, discovery, dependency mapping, validation, test generation, that traditional consulting bills human hours against. Forward-deployed engineers own the rest: architecture, judgment, and cutover, on dates we commit to in the contract.\n This internship is an apprenticeship in data platform modernization the pillar of our work where legacy warehouses get retired and data platforms reach production on AWS. You'll write real pipeline code on real projects, working with business leads, analysts, and data scientists to understand the domain, then with engineers to build data products that make decisions better.\n Here's the honest framing: you're learning the agent-native craft, not owning cutover. Agents handle much of the repetitive discovery and validation work that used to fill junior engineers' days, which means your time goes further into Spark, ETL design, and understanding why data quality decisions matter to the business. If you care about the quality of the metrics a business runs on, and you want your solutions to scale to bigger questions, this is the seat.\n What you will do?\n Write efficient code in the technology chosen for the project — Spark or Apache Beam, for example.\n Explore new technologies and learn new techniques to solve business problems creatively.\n Collaborate across engineering and business teams to build better data products and services.\n Deliver projects with the team and keep customers updated on time — shipping on schedule is a habit you'll build early here.\n What we are looking for?\n Exposure to Apache Spark.\n Exposure to ETL concepts using pySpark a…",
     "tags": [
-      "bonn",
-      "homeoffice.",
-      "Barrierefreier Arbeitsplatz",
-      "Data Warehouse",
-      "ETL / ELT",
-      "Reporting & Analysen",
-      "Datenqualität",
-      "Entry",
-      "Permanent",
-      "Full time"
+      "Data Science & Analytics",
+      "Entry-Level, Junior"
     ],
-    "jobType": "Entry",
-    "postedAt": "2026-08-31T23:09:26.000Z",
-    "scrapedAt": "2026-09-01T08:16:15.636Z"
+    "jobType": "Internship",
+    "postedAt": "2026-09-01T05:15:34.000Z",
+    "scrapedAt": "2026-09-01T13:54:31.101Z"
   },
   {
-    "id": "arbeitnow:analytics-engineer-data-platform-frankfurt-156939",
-    "externalId": "analytics-engineer-data-platform-frankfurt-156939",
-    "source": "arbeitnow",
-    "title": "Analytics Engineer, Data Platform",
-    "company": "Emma – The Sleep Company",
-    "location": "Frankfurt",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/emma-the-sleep-company/analytics-engineer-data-platform-frankfurt-156939",
-    "description": "Ready to lead, disrupt and reinvent the sleep industry?\n We are Emma – The Sleep Company . Founded in 2015, we have grown into the world’s largest direct-to-consumer (D2C) sleep brand, with a presence in over 20 markets and more than 35 Emma stores across Europe.\n Our mission is simple: to develop sleep comfort products that empower our customers to awaken their best every day. Today, our products are trusted by millions and recommended by leading consumer associations worldwide.\n It’s our people who bring this mission to life. At Emma, you’ll join a driven, international team that values ownership, collaboration, and continuous knowledge sharing. With colleagues from over 70 nationalities, we combine diverse perspectives with a shared ambition to learn, grow, and create lasting impact, together.\n Ready to awaken your best with us?\n You'll join a cross-functional Data Platform Team serving Emma's broader Data and Tech organisation, with internal users spanning analysts, analytics engineers, data scientists and data engineers. The team's mission is to make that work faster, safer, and more reliable - through observability, access control, engineering standards, code reviews, internal tooling, and AI adoption across the full pipeline from ingestion to BI tool consumption.\n While the primary focus is analytics engineering tooling and process, you'll operate across the full stack, working closely with the Staff Analytics and Data Engineers to scope, build, and ship, while raising the bar for how the team builds. The role rewards breadth and initiative over deep specialisation in one layer, requiring frequent context-switching and comfort with unfamiliar problems .\n What you will do:\n Reliability, Standards & Governance\n Own and improve monitoring, alerting, and observability across the data platform, so failures are caught early and pipeline/model health is visible to teams.\n Contribute to architecture discussions: propose improvements, document trade-offs (ADRs, RFCs)…",
+    "id": "jobicy:152274",
+    "externalId": "152274",
+    "source": "jobicy",
+    "title": "AWS Data Engineer (Senior) (Freelancer)",
+    "company": "Mactores",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/cea77a13-221.jpeg",
+    "location": "Anywhere",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/152274-aws-data-engineer-senior-freelancer",
+    "description": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company, which absorbs the repetitive 60–70% of engagement work, discovery, dependency mapping, validation, test generation, that traditional consulting bills human hours against. Forward-deployed engineers own the rest: architecture, judgment, and cutover, on dates we commit to in the contract.\n This is a senior freelance role in our Data Platform Modernization pillar: consolidating and migrating customer data infrastructure on AWS in weeks, not quarters. Customers come to us after a data program has stalled — pipelines nobody trusts, warehouses nobody runs new workloads on, a modernization that produced diagrams instead of production systems.\n Aedeon handles automated source discovery, schema mapping, lineage extraction, and parallel-run validation. You take the work that needs a senior engineer's judgment: pipeline builds on EMR and Glue, data models for Redshift, Snowflake, Athena, and Presto, Airflow orchestration, and the troubleshooting that gets a system stable enough to cut over. Freelance here means real delivery work on real engagements — not staff augmentation into someone else's backlog.\n What you will do?\n Build and maintain data pipelines on Amazon EMR or Amazon Glue that run in production.\n Design data models and end-user querying on Amazon Redshift or Snowflake, Amazon Athena, and Presto.\n Build and maintain pipeline orchestration with Airflow.\n Work with other teams to understand data needs and design the solutions that meet them.\n Troubleshoot and optimize pipelines and data models until they hold up under real load.\n Write and maintain PySpark and SQL scripts to extract, transform, and load data.\n Document and communi…",
     "tags": [
-      "Data",
-      "Permanent – Full Time"
+      "Data Science & Analytics",
+      "Senior"
     ],
-    "jobType": "Permanent – Full Time",
-    "postedAt": "2026-08-31T20:24:48.000Z",
-    "scrapedAt": "2026-09-01T08:16:15.636Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-germany-230003",
-    "externalId": "data-engineer-germany-230003",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Aevi",
-    "location": "Germany",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/aevi/data-engineer-germany-230003",
-    "description": "At Aevi, we're not just a team; we're a vibrant, global business, committed to shaking up the payments industry. Our culture is all about innovation, creativity, and a passion for pushing boundaries. We’re thrilled to welcome new Aevi’ators who vibe with our values and mission and are ready to join us on our journey of transformation and growth.\n Want to work in the fintech industry, using the latest technologies and tools to help deliver online cloud and container based applications for a new breed of payment services?\n We are searching for Data Engineer, who will be responsible for transferring business requirements into technical requirements of the AEVI data architecture based on AWS technology.\n What you'll be doing:\n Translate business requirements into technical specifications for AEVI’s AWS-based data architecture\n Work with technologies such as Aurora, Oracle, Athena, Glue, and QuickSight\n Manage and optimize Data Warehouses & Data Lakes\n Design, configure, and administer data architecture in compliance with PCI, GDPR, and CCPA\n Document data flows and implement data models within business applications\n Ensure cloud data management meets CIA (Confidentiality, Integrity, Availability) standards\n Redesign data models to maintain regulatory compliance\n Develop and manage a structured data access model\n The successful AEVI'ator: Data Engineer\n Strong expertise in SQL, DML, and DDL\n Excellent communication skills at both business and technical levels\n Deep knowledge of AWS Cloud Data technologies\n Proficiency in streaming platforms (Kafka, AWS Kinesis) for real-time data processing\n Experience with big data frameworks (Apache Spark, Hadoop)\n Familiarity with infrastructure-as-code tools (Terraform, AWS CloudFormation)\n Solid knowledge of Python and Java\n Strong data modeling and design skills\n Proficiency in AWS database services\n Good understanding of data classification, encryption, and privacy\n Why not check us out on Glassdoor and hear for yourself what it'…",
-    "tags": [
-      "Development",
-      "Full Time Employee"
-    ],
-    "jobType": "Full Time Employee",
-    "postedAt": "2026-08-31T20:04:27.000Z",
-    "scrapedAt": "2026-09-01T08:16:15.636Z"
+    "jobType": "Contract",
+    "postedAt": "2026-09-01T05:09:53.000Z",
+    "scrapedAt": "2026-09-01T13:54:31.101Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-united-kingdom-489042",
@@ -77,7 +53,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-08-31T18:20:49.000Z",
-    "scrapedAt": "2026-09-01T08:16:15.636Z"
+    "scrapedAt": "2026-09-01T13:54:30.174Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-london-210438",
@@ -95,7 +71,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-08-31T18:20:49.000Z",
-    "scrapedAt": "2026-09-01T08:16:15.636Z"
+    "scrapedAt": "2026-09-01T13:54:30.174Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -111,23 +87,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-01T08:16:16.308Z"
-  },
-  {
-    "id": "arbeitnow:principal-data-engineer-london-84559",
-    "externalId": "principal-data-engineer-london-84559",
-    "source": "arbeitnow",
-    "title": "Principal Data Engineer",
-    "company": "Anaplan",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-data-engineer-london-84559",
-    "description": "<div class=\"content-intro\"><p>At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.</p>\n<p>What unites Anaplanners across teams and geographies is our collective commitment to our customers’ success and to our Winning Culture.</p>\n<p style=\"padding-left: 40px;\">Our customers rank among the who’s who in the Fortune 50. Coca-Cola, LinkedIn, Adobe, LVMH and Bayer are just a few of the 2,400+ global companies who rely on our best-in-class platform.</p>\n<p style=\"padding-left: 40px;\">Our Winning Culture is the engine that drives our teams of innovators. We champion diversity of thought and ideas, we behave like leaders regardless of title, we are committed to achieving ambitious goals, and we love celebrating<em> </em>our wins – big and small.</p>\n<p>Supported by operating principles of being strategy-led, <a href=\"https://www.anaplan.com/careers/\">values</a>-based and disciplined in execution, you’ll be inspired, connected, developed and rewarded here. Everything that makes you unique is welcome; join us and let’s build what’s next - together!</p></div><p><strong>About the Role</strong><strong>&nbsp;</strong></p>\n<p>We're seeking a Principal Data Engineer who can work across the full stack of Anaplan’s data platform, setting the technical direction for how we ingest, transform, store, serve, and govern data at scale. You will build highly performant, robust data pipelines that process massive volumes of data in real-time and batch. This foundational work empowers business users to leverage vast datasets in their planning workflows and forms the bedrock for our advanced analytics and AI initiatives. You'll need deep knowledge of distributed computing, data architecture, and strong software engineering skills to tackle complex, high-scale data challenges.</p>\n<p><strong>Your Impact</strong></p>\n<ul>\n<li>Lea…",
-    "tags": [
-      "Data Engineering"
-    ],
-    "postedAt": "2026-08-31T06:55:19.000Z",
-    "scrapedAt": "2026-09-01T08:16:15.636Z"
+    "scrapedAt": "2026-09-01T13:54:32.082Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -143,7 +103,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-01T08:16:16.308Z"
+    "scrapedAt": "2026-09-01T13:54:32.082Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -159,7 +119,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-01T08:16:16.308Z"
+    "scrapedAt": "2026-09-01T13:54:32.082Z"
   },
   {
     "id": "remotive:2091097",
@@ -224,6 +184,38 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-09-01T08:16:15.528Z"
+    "scrapedAt": "2026-09-01T13:54:30.078Z"
+  },
+  {
+    "id": "greenhouse:instacart-8132846",
+    "externalId": "instacart:8132846",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer II, Finance",
+    "company": "Instacart",
+    "location": "United States - Remote",
+    "remote": true,
+    "url": "https://instacart.careers/job/?gh_jid=8132846",
+    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-08-17T16:40:40.000Z",
+    "scrapedAt": "2026-09-01T13:54:32.082Z"
+  },
+  {
+    "id": "greenhouse:instacart-8126023",
+    "externalId": "instacart:8126023",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer II, Finance",
+    "company": "Instacart",
+    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+    "remote": true,
+    "url": "https://instacart.careers/job/?gh_jid=8126023",
+    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-08-12T16:58:43.000Z",
+    "scrapedAt": "2026-09-01T13:54:32.082Z"
   }
 ]
