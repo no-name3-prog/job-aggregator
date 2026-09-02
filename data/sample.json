@@ -1,89 +1,85 @@
 [
   {
-    "id": "greenhouse:twilio-8167201",
-    "externalId": "twilio:8167201",
+    "id": "greenhouse:scaleai-4729979005",
+    "externalId": "scaleai:4729979005",
     "source": "greenhouse",
-    "title": "Financial Manager, EMEA GTM",
-    "company": "Twilio",
-    "location": "Remote - United Kingdom",
+    "title": "Infrastructure Software Engineer, Apps Platform",
+    "company": "Scale AI",
+    "location": "London, UK",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729979005",
+    "description": "Infrastructure Software Engineer, Apps Platform, London\n As an Infrastructure Engineer on the Apps Platform Infrastructure team, you'll help build and evolve our platform’s deployment and observability layers across multiple cloud providers and on-premises, for both internal and customer-managed environments. This is a role for someone who cares about building cloud-agnostic infrastructure and deployment pipelines.\n You'll partner closely with internal teams to understand how they use and deploy the platform, debug their issues, and shape a roadmap that balances immediate needs with long-term architecture.\n You will:\n Expand the deployment footprint of our platform to cover both on-premise, all major cloud platforms and beyond\n Ensure fast, secure, and reproducible deployments across all supported CSPs and on-prem\n Expand the observability of the platform so that forward deployed infrastructure teams can easily and efficiently operate customer deployments\n Partner closely with internal teams deploying the platform to understand their needs, debug issues, and build tooling that serves their use cases\n Respond to incidents and production issues with urgency, conducting root cause analysis and implementing preventive fixes\n Help develop and maintain a product roadmap for deployment and observability\n Lead architecture reviews and own projects end-to-end, from design through deployment, in fast-paced cross-functional settings\n Ideally you'd have:\n 5+ years of experience building and deploying enterprise and public sector solutions across AWS, Azure, GCP, OCI and on-premises\n Deep expertise in infrastructure design, networking engineering, VPNs, load balancers, and firewalls\n Deep proficiency with IaC, containerisation and orchestration tools and technologies (Kubernetes, Terraform, Docker)\n Comprehensive understanding of CI/CD pipelines and software delivery principles using GitHub Actions or CircleCI.\n Experience with GitOps-style deployments and a track record of ens…",
+    "tags": [
+      "Applications Platform Engineering"
+    ],
+    "postedAt": "2026-09-02T18:15:03.000Z",
+    "scrapedAt": "2026-09-02T18:23:58.209Z"
+  },
+  {
+    "id": "greenhouse:robinhood-8142909",
+    "externalId": "robinhood:8142909",
+    "source": "greenhouse",
+    "title": "Senior Engineering Manager - Agent Experience",
+    "company": "Robinhood",
+    "location": "Menlo Park, CA",
+    "remote": false,
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8142909?t=gh_src=&gh_jid=8142909",
+    "description": "Join us in building the future of finance.\n Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.\n About the team + role\n We are building an elite team, applying frontier technologies to the world's biggest financial problems. We're looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn't a place for complacency, it's where ambitious people do the best work of their careers. We're a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards.\n The Customer Experience Engineering team at Robinhood sits at the intersection of cutting-edge AI and real human impact. We build the systems that power how millions of customers get support — from intelligent chatbot deflection and ticketing tools to a first-of-its-kind private wealth product called Concierge, designed for high-net-worth customers. Our team of engineers spans iOS, Android, web, backend, and LLM/AI specializations, working closely with dedicated product managers and data scientists to ship products that set a new bar in the fintech space. We move fast, we iterate, and we take quality seriously.\nAs the Senior Engineering Manager for Agent Experience, you'll own the engineering execution of one of Robinhood's most ambitious and high-visibility zero-to-one products. You'll lead a team of engineers building premium, AI-powered features — natively within the Robinhood app for our highest-value customers. This role requires a leader who is comfortable navigating ambiguity, aligning closely with product leadership, and delivering reliably in a fast-moving environment with executive visibility. You'll be a key voice in shaping both the technical direction and t…",
+    "tags": [
+      "ENG Platforms"
+    ],
+    "postedAt": "2026-09-02T18:07:26.000Z",
+    "scrapedAt": "2026-09-02T18:23:58.209Z"
+  },
+  {
+    "id": "greenhouse:lyft-8761561002",
+    "externalId": "lyft:8761561002",
+    "source": "greenhouse",
+    "title": "Program Lead, Onboarding & Certification",
+    "company": "Lyft",
+    "location": "Nashville, TN",
+    "remote": false,
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8761561002?gh_jid=8761561002",
+    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n Flexdrive builds the operational backbone for the future of mobility. As a leader in fleet management and a Lyft subsidiary, we're extending our expertise into autonomous vehicle (AV) infrastructure — managing the physical operations that keep AV fleets safe, available, and performing at scale. Our Nashville depot is the first proof point in a multi-market expansion, and we're building the team to sustain and scale it.\n Lyft is looking for an experienced professional to serve as the Program Lead, Onboarding & Certification, supporting our growing network of Autonomous Vehicle (AV) partnership sites. We’re searching for a detail-oriented team member with experience supporting onboarding, certification, and provisioning processes who is passionate about process excellence, continuous improvement, and best-in-class operations, and who has a desire to make a big impact. This role guides onboarding and certification support on behalf of Flexdrive’s AV partnership locations across the United States.\n Reporting to the Program Manager, Field Operations Strategy, the Program Lead, Onboarding & Certification supports the day-to-day onboarding, certification, and provisioning needs of team members working at our AV partnership sites, operating within established practices and processes. You’ll be a crucial conduit between internal partners and the local teams that support AV operations and manage vehicles on the ground, ensuring effective two-way communication and alignment on top priorities. As a skilled time and task manager, you will support the execution of key initiatives on behalf of the field, relying on guidance from senior managers for more complex or ambiguous decisions, while developing core program management capabilities.\n If you have experience managing large programs and projects, working in dy…",
+    "tags": [
+      "Global Growth"
+    ],
+    "postedAt": "2026-09-02T17:36:53.000Z",
+    "scrapedAt": "2026-09-02T18:23:58.209Z"
+  },
+  {
+    "id": "ashby:ramp-c63ba7d7-5290-4d9b-b002-40b2873b66f6",
+    "externalId": "ramp:c63ba7d7-5290-4d9b-b002-40b2873b66f6",
+    "source": "ashby",
+    "title": "Partner Consultant, Accounting Vertical",
+    "company": "Ramp",
+    "location": "Remote (US)",
     "remote": true,
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8167201",
-    "description": "Who we are\n At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.\n Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.\n .\n Hiring and how we work\n We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!\n Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.\n .\n See yourself at Twilio\n Join the team as Twilio’s next Financial Manager, EMEA GTM Finance.\n About the job\n We are seeking a high-impact, strategic Financial Manager to join our GTM Finance team as the primary engine for EMEA Sales. You will act as a vital business partner, translating data into strategy while leading the charge on global commissions forecasting to ensure our investments drive maximum growth.\n Responsibilities\n In this role, you’ll:\n Serve as the strategic FP&A architect for the EMEA Sales leadership team.\n Own the global forecasting, budgeting, and month-end accruals for global sales commissions.\n Design advanced models to optimize sales productivity and GTM efficiency benchmarks.\n Drive resource allocation through data-backed insights and proactive decision support.\n Forge cross-functional alliances to identify margin drivers and scale cost-efficiency.\n Execute agile scenario planning and ad-hoc analyses for senior leadership.\n Synthesize complex financial metrics into clear,…",
+    "url": "https://jobs.ashbyhq.com/ramp/c63ba7d7-5290-4d9b-b002-40b2873b66f6",
+    "description": "ABOUT RAMP\n\nRamp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.\n\nThe problems are high-stakes, data-dense, and unforgiving.\n\nWe hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome.\n\nThe median Ramp customer saves 5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.\n\nIf you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it.\n\n\n\n\nABOUT THE ROLE\n\nThe Solutions Team are technical experts that work directly with customers and partners to provide world-class product, sales, industry, and domain expertise. Through deep customer/partner and product understanding, Partner Consultants are trusted advisors externally, and able to positively influence the product roadmap internally. Partner Consultants support Ramp’s Partner Managers across our diverse channel ecosystem — including accounting firms, value-added resellers, private equity firms, and more — by delivering deep product expertise and workflow advisement to partners and their clients. PCs build partner competency, guide best-practice adoption, and strengthen partner trust in Ramp’s capabilities to help them drive meaningful outcomes for the businesses they serve.\n\n\n\n\nWHAT YOU’LL DO\n\n - Partner with Channel, Partnerships, Sales, Product and Partner Firms to advocate for product & integration development in-line with customer needs\n\n - Collaborate with Ramp Channel Partner Managers to showcase technical accounting fe…",
     "tags": [
-      "Finance"
+      "Sales",
+      "Solutions Consulting",
+      "Remote"
     ],
-    "postedAt": "2026-09-02T13:04:16.000Z",
-    "scrapedAt": "2026-09-02T13:11:37.663Z"
+    "jobType": "FullTime",
+    "postedAt": "2026-09-02T17:17:20.841Z",
+    "scrapedAt": "2026-09-02T18:24:48.337Z"
   },
   {
-    "id": "greenhouse:cloudflare-8159206",
-    "externalId": "cloudflare:8159206",
-    "source": "greenhouse",
-    "title": "Network Security Engineer",
-    "company": "Cloudflare",
-    "location": "Hybrid",
-    "remote": false,
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8159206?gh_jid=8159206",
-    "description": "About Us\n At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.\n At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.\n Available Locations: Lisbon, Portugal\n About the role\n Do you love solving complex technical issues and interacting with people? Are you passionate about providing premium-level support to customers and are a standout colleague? Cloudflare is seeking an experienced Network Security Engineer to join our team and support our largest and most technically sophisticated customers in resolving technical problems, threats or attacks on their infrastructure…",
-    "tags": [
-      "Customer Support"
-    ],
-    "postedAt": "2026-09-02T12:58:38.000Z",
-    "scrapedAt": "2026-09-02T13:11:37.663Z"
-  },
-  {
-    "id": "arbeitnow:facharbeiter-vorarbeiter-tief-und-strassenbau-gn-osterburg-272980",
-    "externalId": "facharbeiter-vorarbeiter-tief-und-strassenbau-gn-osterburg-272980",
+    "id": "arbeitnow:account-manager-in-mannheim-und-umgebung-123820",
+    "externalId": "account-manager-in-mannheim-und-umgebung-123820",
     "source": "arbeitnow",
-    "title": "Facharbeiter/Vorarbeiter Tief- und Straßenbau (gn)",
-    "company": "OST BAU; Osterburger Straßen-,Tief- und Hochbau GmbH",
-    "location": "Osterburg",
+    "title": "Account Manager (m/w/d) in Mannheim und Umgebung",
+    "company": "personalbrand.de",
+    "location": "Mannheim",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/ost-bau-osterburger-strassen-tief-und-hochbau-gmbh/facharbeiter-vorarbeiter-tief-und-strassenbau-gn-osterburg-272980",
-    "description": "Was wir dir bieten:\n Attraktive Vergütung und alle Vorteile des Bauhauptgewerbes plus Zuschüsse\n Persönliche und fachliche Weiterbildungsmöglichkeiten\n 4-Tage-Woche bei Montagetätigkeit nach Absprache und regelmäßiger Freizeitausgleich\n 30 Tage Urlaub, Urlaubs- &#x26; 13. Monatsentgelt laut Tarif, KITA-Zuschuss\n Sicherer Arbeitsplatz in einem etablierten Unternehmen\n Betriebliche Altersvorsorge und Gesundheitsförderung\n Moderner Fuhrpark und Maschinentechnik\n Deine Aufgaben in unserem Team:\n Herstellung von Straßen, Wegen, Verkehrsflächen und Außenanlagen\n Ausführung von Erd-, Kanal-, Pflaster- und Tiefbauarbeiten\n Herstellen und Einbauen von Unterbau, Tragschichten und Oberflächen\n Bedienen und Führen von Baumaschinen und Geräten je nach Qualifikation\n Unterstützung bei der Organisation und Koordination der Baustellenabläufe\n Als Vorarbeiter: Unterstützung des Poliers bzw. der Bauleitung bei der Führung und Einweisung des Baustellenpersonals, Aufmaßen und Dokumentation\n Das bringst du mit:\n Erfolgreich abgeschlossene Ausbildung, z. B. als Straßenbauer, Tiefbaufacharbeiter oder eine vergleichbare Qualifikation\n Berufserfahrung im Tief- und Straßenbau ist wünschenswert\n Erfahrung als Vorarbeiter ist von Vorteil – alternativ die Bereitschaft zur entsprechenden Weiterbildung\n Handwerkliches Geschick und technisches Verständnis\n Selbstständige, zuverlässige und verantwortungsbewusste Arbeitsweise\n Einsatzbereitschaft, Flexibilität und Teamgeist\n Sichere Deutschkenntnisse und Führerschein der Klasse B erforderlich\n Find more English Speaking Jobs in Germany on Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/personalbrandde/account-manager-in-mannheim-und-umgebung-123820",
+    "description": "Wir, das Team um Lucas Kleinecke, arbeiten mit den größten Personenmarken im deutschsprachigen Raum zusammen und helfen ihnen noch größer zu werden.\n Wir sind ein junges ambitioniertes Team, das bisher über 250+ Millionen Views, über 7-Stellige Umsätze und 100+ Personenmarken organisch aufgebaut hat.\n Aufgaben\n Hauptaufgabe ist das betreuen der größten Unternehmer und Personenmarken im DACH-Raum\n – Onboarding neuer Kunden und sauberer Start in die Zusammenarbeit\n – Betreuung und Weiterentwicklung unserer Bestandskunden\n – Regelmäßige Check-in-Calls und enge Abstimmung\n – Support- und Chatanfragen zuverlässig und schnell beantworten\n – Enge Zusammenarbeit mit Lucas Kleinecke und Top-Unternehmern im DACH-Raum\n Qualifikation\n – Erfahrung im Social-Media-/Content-Bereich (eigene Agentur oder Selbstständigkeit ein klares Plus)\n – Erfahrung im direkten Kundenkontakt und im Handling von Kundenbeziehungen\n – Gutes Gespür für Copywriting und Social-Media-Content\n – Strukturiert, zuverlässig, pünktlich, ambitioniert und diszipliniert\n – Wohnhaft in oder um Mannheim bzw. umzugsbereit (Vollzeit, vor Ort)\n Benefits\n – 4.500–7.500 € Fixgehalt pro Monat\n – Tägliche Zusammenarbeit mit Lucas Kleinecke und den größten Personenmarken im DACH-Raum\n – Große Aufstiegschancen in einem schnell wachsenden Team\n – MacBook und Whoop-Fitnessuhr\n – Büro in der Innenstadt von Mannheim\n Die Beschreibung passt zu dir? Dann freuen wir uns auf deine Bewerbung und melden uns zeitnah bei dir!\n Find more English Speaking Jobs in Germany on Arbeitnow",
     "tags": [
-      "Software Development",
-      "berufserfahren"
+      "Social Media Manager"
     ],
-    "jobType": "berufserfahren",
-    "postedAt": "2026-09-02T12:00:43.000Z",
-    "scrapedAt": "2026-09-02T13:11:37.039Z"
-  },
-  {
-    "id": "arbeitnow:teamlead-compliance-schwerpunkt-marisk-frankfurt-am-main-264239",
-    "externalId": "teamlead-compliance-schwerpunkt-marisk-frankfurt-am-main-264239",
-    "source": "arbeitnow",
-    "title": "Teamlead (m/w/d) Compliance - Schwerpunkt MaRisk",
-    "company": "buesken strategy & consulting",
-    "location": "Frankfurt am Main",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/buesken-strategy-consulting/teamlead-compliance-schwerpunkt-marisk-frankfurt-am-main-264239",
-    "description": "Im Auftrag meines Mandanten, eines etablierten Finanzdienstleisters mit Sitz in Frankfurt am Main, suche ich eine fachliche Führungspersönlichkeit für die Leitung eines kleinen Teams im Bereich MaRisk-Compliance. Besonders spannend ist an dieser Position vor allem der große Gestaltungsspielraum: Sie übernehmen keine fertig durchstrukturierte Funktion, sondern prägen Ausrichtung, Methodik und Weiterentwicklung der MaRisk-Compliance maßgeblich selbst.\n Aufgaben\n Fachliche Führung eines kleinen Teams sowie strategische Weiterentwicklung der MaRisk-Compliance-Funktion\n Übersetzung aufsichtsrechtlicher Anforderungen der MaRisk in schlanke, tragfähige interne ProzesseLaufende Beobachtung regulatorischer Entwicklungen und Ableitung konkreter Handlungsempfehlungen für das Haus\n Kontinuierliche Optimierung und Überwachung des Compliance-Management-Systems\n Beratung der Fachbereiche als Sparringspartner auf Augenhöhe bei regulatorischen FragestellungenEigenverantwortliche\n Durchführung von Risikoanalysen, Kontrollhandlungen und Überwachungsmaßnahmen\n Qualifikation\n Abgeschlossenes Studium der Wirtschaftswissenschaften, des Wirtschaftsrechts, der Rechtswissenschaften oder eine vergleichbare Qualifikation\n Mehrjährige Berufserfahrung in Compliance, Interner Revision, Risikomanagement oder im Prüfungsumfeld eines regulierten Finanzinstituts\n Belastbares regulatorisches Know-how, idealerweise ergänzt um erste Führungserfahrung\n Analytisches Denkvermögen sowie eine strukturierte, lösungsorientierte Arbeitsweise\n Überzeugendes Auftreten, Durchsetzungsstärke und ausgeprägte Eigeninitiative\n Verhandlungssichere Deutschkenntnisse in Wort und Schrift\n Benefits\n Unbefristete Festanstellung bei einem regional verankerten Institut\n 30 Tage Urlaub plus tarifliche Zusatztage\n Flexible Arbeitszeiten, mobiles Arbeiten an zwei Tagen pro Woche, Sabbatical und längere Freistellungen möglich\n Weiterbildung, Inhouse-Schulungen und Studienförderung\n Deutschlandticket-Zuschuss, Fahrradleasing, verg…",
-    "tags": [
-      "Compliance",
-      "Security",
-      "berufserfahren"
-    ],
-    "jobType": "berufserfahren",
-    "postedAt": "2026-09-02T12:00:42.000Z",
-    "scrapedAt": "2026-09-02T13:11:37.039Z"
-  },
-  {
-    "id": "arbeitnow:advisory-board-100-bayern-hybrid-singen-362491",
-    "externalId": "advisory-board-100-bayern-hybrid-singen-362491",
-    "source": "arbeitnow",
-    "title": "Advisory Board (100%) (w/m/d), Bayern, hybrid",
-    "company": "HighCoordination GmbH",
-    "location": "Singen",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/highcoordination-gmbh/advisory-board-100-bayern-hybrid-singen-362491",
-    "description": "Location: Bayern\n Advisory Board gesucht (kein Golfplatz, kein Endlos-Powerpoint, kein „wir müssen uns erstmal finden“)\n Unternehmen aller Größen bauen erfolgreich auf HICOs Management- und IT-Beratung, um mit uns relevante BI-, Planungs- und Digitalisierungs-Herausforderungen effizient, modern und verlässlich zu lösen. Die HICO-Group verbindet die strategische Sicht und Verbindlichkeit eines Gründer-geführten Unternehmens mit der Dynamik eines Technologie-Start-Ups.\n Aufgaben\n Erkennst du dich in diesem Kurzprofil wieder?\n Wir suchen erfahrene Führungskräfte mit Technologiebegeisterung – branchenübergreifend – für unser Advisory Board\n Besonders angesprochen fühlen sollen sich Personen mit starkem Bezug zur Region Bayern\n ...dann bist du die richtige Person für uns!\n Qualifikation\n Was bringst du mit?\n Wir suchen keine weiteren „Berater“, die uns höflich bestätigen, was wir schon wissen. Wir suchen Führungskräfte, die Technologie nicht nur verwalten, sondern wirklich verstehen und mögen – und die bereits in verantwortungsvollen Positionen gearbeitet, geführt und idealerweise auch schon mal etwas schiefgehen gesehen haben\n Besonders willkommen sind Persönlichkeiten mit:\n Solider operativer und strategischer Erfahrung (gerne C-Level oder vergleichbar)\n Echter Technologiebegeisterung und Interesse an AI, BI und Data Management\n Einem Netzwerk, das man nicht nur hat, sondern auch gezielt einsetzen kann\n Lust, uns beim Go-to-Market und der Weiterentwicklung unserer Wachstumsstrategie konkret zu unterstützen\n Der Fähigkeit, klar und direkt zu sagen, was sie sehen – auch wenn es unbequem ist\n Sehr gute Deutsch- und Englischkenntnisse (mind. C1)\n Branche ist uns relativ egal. Ob Software, IT-Services, Automotive, Industrie, Finanzbranche oder angrenzende Bereiche – Hauptsache, man bringt Führungserfahrung und echte Begeisterung für Technologie mit.\n Benefits\n Welche Vorteile bieten wir dir?\n Echte Mitgestaltung statt reiner Repräsentation\n Ein junges, unkompliziertes und…",
-    "tags": [
-      "IT",
-      "berufserfahren"
-    ],
-    "jobType": "berufserfahren",
-    "postedAt": "2026-09-02T12:00:42.000Z",
-    "scrapedAt": "2026-09-02T13:11:37.039Z"
+    "postedAt": "2026-09-02T17:00:27.000Z",
+    "scrapedAt": "2026-09-02T18:23:56.848Z"
   }
 ]
