@@ -15,83 +15,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-01T21:40:07.000Z",
-    "scrapedAt": "2026-09-02T07:35:10.930Z"
-  },
-  {
-    "id": "jobicy:152324",
-    "externalId": "152324",
-    "source": "jobicy",
-    "title": "Senior Analytics Engineer - Marketing",
-    "company": "Paddle",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/08/28ca3645-221.png",
-    "location": "Ireland,  Portugal,  UK",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/152324-senior-analytics-engineer-marketing",
-    "description": "What do we do?\n Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payment fragmentation. It’s faster, safer, cheaper, and, above all, way better.\n We’re backed by investors including KKR, FTV Capital, Kindred, Notion, and 83North and serve over 6000 software sellers in 245 territories globally.\n The Role:\n We are seeking a Senior Analytics Engineer to drive significant business impact by shaping our data infrastructure, developing robust data models, and promoting best practices in analytics engineering (e.g., data quality, documentation, and scalable data architectures). You will collaborate closely with the Marketing team in order to ensure that funnels are being tracked and surfaced in our data models and that Marketing campaigns can be evaluated using accurate data.\n What you'll do:\n Create trusted, self-serve datasets and reporting layers in Omni that power Marketing performance reviews, campaign reporting, attribution analysis, funnel health monitoring, and investment decision-making.\n Proactively identify and resolve data quality issues across Marketing and GTM systems, including source tracking, campaign metadata, funnel stage completeness, attribution coverage, and spend data.\n Add comprehensive metadata to datasets, including documentation, lineage, ownership, definitions, data quality checks, and sensitive data masking.\n Partner with Marketing stakeholders to translate business questions into robust data products, dashboards, analyses, and decision-ready insights.\n Enable Marketing teams to confidently use Omni and core GTM datasets through documentation, training, office hours, and self-serve resources.\n Activate data from Snowflake into operational tools where needed, supporting audience segmentation, lifecycle program…",
-    "tags": [
-      "Data Science & Analytics",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-09-01T14:24:13.000Z",
-    "scrapedAt": "2026-09-02T07:35:11.032Z"
-  },
-  {
-    "id": "jobicy:152323",
-    "externalId": "152323",
-    "source": "jobicy",
-    "title": "Staff Data Engineer",
-    "company": "Upside",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/06e64944-221.png",
-    "location": "USA",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/152323-staff-data-engineer",
-    "description": "Meet Upside:\n We created Upside to transform brick-and-mortar commerce. Our technology uses the sophistication of online retail—profit measurement, attribution, and incrementality—to provide users with more value on their everyday purchases and brick-and-mortar businesses with new, profitable customers. We’ve helped millions of users earn 2 to 3 times more cashback than any other product, and hundreds of thousands of brick-and-mortar businesses earn measurable profit. Billions of dollars in commerce run through the Upside platform every year, and that value goes directly back to our retailer partners, the consumers they serve, and important sustainability initiatives.\n Meet Upside:\n We created Upside to transform brick-and-mortar commerce. Our technology uses the sophistication of online retail—profit measurement, attribution, and incrementality—to provide users with more value on their everyday purchases and brick-and-mortar businesses with new, profitable customers. We've helped millions of users earn 2 to 3 times more cashback than any other product, and hundreds of thousands of brick-and-mortar businesses earn measurable profit. Billions of dollars in commerce run through the Upside platform every year, and that value goes directly back to our retailer partners, the consumers they serve, and important sustainability initiatives.\n About the role:\n We're looking for a Staff Data Engineer to serve as a technical leader on the Data Engineering team. In this role, you'll drive the design and implementation of foundational data products and analytics platform capabilities that power Upside’s most critical product and business use cases. You’ll lead cross-functional workstreams, shape patterns and architecture across teams, and elevate the overall quality and impact of data work at Upside.\n This role is ideal for someone who enjoys deep technical problem-solving, cares about quality and long-term maintainability, and is motivated by helping others work more effectivel…",
-    "tags": [
-      "Data Science & Analytics",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-09-01T14:23:53.000Z",
-    "scrapedAt": "2026-09-02T07:35:11.032Z"
-  },
-  {
-    "id": "jobicy:152320",
-    "externalId": "152320",
-    "source": "jobicy",
-    "title": "Principal Analytics Engineer",
-    "company": "ANGI",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/09/50cccf084c34089de2274f72e18841d0.jpg",
-    "location": "USA",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/152320-principal-analytics-engineer",
-    "description": "For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.\n For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. For employees, we're an amazing place to call home. We can't wait to welcome you.\n Angi at a glance:\n Founded in 1995 as Angie’s List and rebranded in 2021\n Global company with 9 brands in 8 countries and employees worldwide\n Homeowners have turned to us for 300 million home projects and counting\n About the team\n The Principal Analytics Engineer for Product Analytics will shape how product data is transformed and consumed, ensuring that both human analysts and AI agents receive consistent metrics, faster iteration, and trustworthy answers. This role is central to designing and evolving an analytics architecture that radically shortens the distance from complex business questions to validated insights. As a Principal leader, you will be the connective tissue across data engineering, analytics, and product teams—architecting pipelines, semantic layers, and quality practices so they work as a singular, cohesive system.\n The ideal candidate is a visionary technical simplifier with deep expertise in modern data stacks, a passion for developer/analyst velocity, and a proven ability to enable partner teams. You will play a dual role: empowering human analysts to spend less time debugging and more time driving strategy, while simultaneously hardening our data layer into a load-bearing, semantic infrastructure that AI tools can query accurately and safely.\n What you’ll do\n Architecture & Semantic Layer Strategy\n Data Product Ownership: Design, build, and evolve high-scale dbt models that transform raw upstream inputs into clean, well-documented, analytics-ready data products with clear contracts and ownership.\n Agent-Safe Infrastructure: I…",
-    "tags": [
-      "Data Science & Analytics",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-09-01T14:22:48.000Z",
-    "scrapedAt": "2026-09-02T07:35:11.032Z"
-  },
-  {
-    "id": "jobicy:152318",
-    "externalId": "152318",
-    "source": "jobicy",
-    "title": "Senior Data Engineer",
-    "company": "Thumbtack",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/05/Jobicy-210503180426-842530.jpg",
-    "location": "USA",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/152318-senior-data-engineer-3",
-    "description": "Thumbtack helps millions of people confidently care for their homes.\n Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasonal maintenance and bigger improvements. We help homeowners know which projects to do, when to do them and who to hire from our growing community of 300,000 local service businesses. If making an impact inspires you, join us. Imagine what we’ll build together.\n About the Data Engineering Team\n Thumbtack’s Data Engineering org is split into 3 groups: Core Data Engineering, Data Platform and Embedded Data Engineering. This role is on the Embedded Data Engineering team, which breaks down into multiple business units that data engineers are embedded into. This role would be on the commercial operations side of the house and will work closely with engineers, analysts, data scientists and machine learning engineers to help design and curate data sets originating from internal and third-party sources to meet current and future needs. Over the next year, it will continue to build on its prior successes in building a more cohesive data warehouse while starting to work more deeply upstream to build data best practices into the full software development lifecycle (SDLC).\n The challenge\n There are several teams all over Thumbtack with Terabytes of data and unique challenges trying to clean and organize this data to measure their performance. In this role, you will work with Engineers, Data Scientists, Managers, and others to understand their needs, and actively work to build datasets to tackle these challenges.\n What you’ll do\n Collaboratively refine and evangelize a comprehensive framework for integrating data-thinking into the software development lifecycle for product teams.\n Design, architect, and maintain core operations datasets, data marts, and feature stor…",
-    "tags": [
-      "Data Science & Analytics",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-09-01T14:22:04.000Z",
-    "scrapedAt": "2026-09-02T07:35:11.032Z"
+    "scrapedAt": "2026-09-02T13:12:28.383Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -107,7 +31,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-02T07:35:11.465Z"
+    "scrapedAt": "2026-09-02T13:12:28.883Z"
   },
   {
     "id": "greenhouse:airbnb-8152721",
@@ -123,7 +47,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-08-26T06:23:20.000Z",
-    "scrapedAt": "2026-09-02T07:35:11.465Z"
+    "scrapedAt": "2026-09-02T13:12:28.883Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -139,7 +63,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-02T07:35:11.465Z"
+    "scrapedAt": "2026-09-02T13:12:28.883Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -155,7 +79,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-02T07:35:11.465Z"
+    "scrapedAt": "2026-09-02T13:12:28.883Z"
   },
   {
     "id": "remotive:2091097",
@@ -220,6 +144,77 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-09-02T07:35:10.818Z"
+    "scrapedAt": "2026-09-02T13:12:28.305Z"
+  },
+  {
+    "id": "greenhouse:instacart-8132846",
+    "externalId": "instacart:8132846",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer II, Finance",
+    "company": "Instacart",
+    "location": "United States - Remote",
+    "remote": true,
+    "url": "https://instacart.careers/job/?gh_jid=8132846",
+    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-08-17T16:40:40.000Z",
+    "scrapedAt": "2026-09-02T13:12:28.883Z"
+  },
+  {
+    "id": "greenhouse:instacart-8126023",
+    "externalId": "instacart:8126023",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer II, Finance",
+    "company": "Instacart",
+    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+    "remote": true,
+    "url": "https://instacart.careers/job/?gh_jid=8126023",
+    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-08-12T16:58:43.000Z",
+    "scrapedAt": "2026-09-02T13:12:28.883Z"
+  },
+  {
+    "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
+    "externalId": "spotify:204f6cd7-98a3-4360-87e3-8876adf087da",
+    "source": "lever",
+    "title": "Senior Data Engineer - Data Platform",
+    "company": "Spotify",
+    "location": "London",
+    "remote": false,
+    "url": "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da",
+    "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\nThe Data Platform team develops and maintains the infrastructure that supports Spotify’s data ecosystem. Within Data Platform, the Data Collection product area builds infrastructure that makes it easier to collect and consume data at scale. You’ll join a team focused on making user behaviour data seamless and reliable for data teams across Spotify.\n",
+    "tags": [
+      "Platform",
+      "Engineering",
+      "Permanent",
+      "hybrid"
+    ],
+    "jobType": "Permanent",
+    "postedAt": "2026-08-12T15:06:09.753Z",
+    "scrapedAt": "2026-09-02T13:16:02.605Z"
+  },
+  {
+    "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
+    "externalId": "linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
+    "source": "ashby",
+    "title": "Analytics Engineer",
+    "company": "Linear",
+    "location": "North America",
+    "remote": true,
+    "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
+    "description": "At Linear, we're building the product development system for teams and agents. AI is fundamentally changing how software gets built, and we’re shaping the tools this new era requires.\n\nFounded in 2019, Linear has become the platform of choice for more than 40,000 companies (including OpenAI, Coinbase, and Ramp) to plan, build, and ship their products. Today, our team is distributed across North America, Europe, and Australia, and we’re continuing to grow internationally. What unites us is relentless focus, fast execution, and a deep care for software craftsmanship.\n\nThe Data team works across Linear, supporting Product, Engineering, and GTM. We own our data pipelines, warehouse, dashboards, analysis, and integrations with third-party tools. As a small team, we focus on building systems that make data accessible and useful across Linear. We’re looking for someone who wants to help shape how we architect, build, and use data as we grow.\n\nLocation & work mode\n\nLinear is a remote-first company, with optional co-working offices in San Francisco, New York, and London. This role is open to candidates based in North America. You can work from anywhere within this region. We value deep focus and async collaboration, with intentional moments to connect in person through team off-sites, optional co-working, and occasional travel.\n\nWhat you’ll do\n\n - Work across Product and GTM (Marketing, Sales, Customer Success, and Finance) to turn ambiguous questions and operational needs into useful metrics, models, analyses, and workflows\n\n - Build and maintain dbt models and pipelines that create trusted views of our product, customers, and business\n\n - Design clear, maintainable data models and improve the testing, documentation, performance, and reliability of our data stack\n\n - Build dashboards and self-service reporting in Metabase and Hex, and dig deeper when the answer requires more than a chart\n\n - Operationalize data through reverse ETL and partner with GTM Engineering on the sc…",
+    "tags": [
+      "GTM",
+      "GTM",
+      "Remote"
+    ],
+    "jobType": "FullTime",
+    "postedAt": "2026-08-11T00:36:47.459Z",
+    "scrapedAt": "2026-09-02T13:16:03.668Z"
   }
 ]
