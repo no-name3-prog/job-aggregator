@@ -28,6 +28,33 @@
     ]
   },
   {
+    "company": "Autodesk",
+    "jobCount": 5,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Bengaluru, IND",
+      "Kraków, POL",
+      "Toronto, ON, CAN",
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer",
+      "Data Engineer with AI",
+      "Principal Data Engineer, User Success",
+      "Principal Data Engineer, User Success (Agentic Experiences)",
+      "Principal Data Engineer -General application"
+    ],
+    "officialUrls": [
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Data-Engineer_26WD98492",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
+    ]
+  },
+  {
     "company": "Salesforce",
     "jobCount": 5,
     "sources": [
@@ -51,30 +78,6 @@
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
-    ]
-  },
-  {
-    "company": "Autodesk",
-    "jobCount": 4,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Kraków, POL",
-      "Toronto, ON, CAN",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Data Engineer with AI",
-      "Principal Data Engineer, User Success",
-      "Principal Data Engineer, User Success (Agentic Experiences)",
-      "Principal Data Engineer -General application"
-    ],
-    "officialUrls": [
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
     ]
   },
   {
@@ -220,24 +223,6 @@
     ]
   },
   {
-    "company": "Discord",
-    "jobCount": 2,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "San Francisco Bay Area"
-    ],
-    "sampleTitles": [
-      "Staff Data Engineer - Data Infrastructure",
-      "Senior Data Engineer, Ads"
-    ],
-    "officialUrls": [
-      "https://job-boards.greenhouse.io/discord/jobs/8691572002",
-      "https://job-boards.greenhouse.io/discord/jobs/8299493002"
-    ]
-  },
-  {
     "company": "Dropbox",
     "jobCount": 2,
     "sources": [
@@ -273,6 +258,24 @@
     "officialUrls": [
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Interconnect-Product-Data-Engineer_JR2021975",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970"
+    ]
+  },
+  {
+    "company": "PHMG Careers",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Manchester, England, United Kingdom"
+    ],
+    "sampleTitles": [
+      "Head of Data Engineering",
+      "Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/head-of-data-engineering-manchester-107883",
+      "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/data-engineer-manchester-426027"
     ]
   },
   {
@@ -321,6 +324,22 @@
     ],
     "officialUrls": [
       "https://careers.datadoghq.com/detail/8141967/?gh_jid=8141967"
+    ]
+  },
+  {
+    "company": "Discord",
+    "jobCount": 1,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "San Francisco Bay Area"
+    ],
+    "sampleTitles": [
+      "Staff Data Engineer - Data Infrastructure"
+    ],
+    "officialUrls": [
+      "https://job-boards.greenhouse.io/discord/jobs/8691572002"
     ]
   },
   {
@@ -401,22 +420,6 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/senior-data-engineer-london-gb-380691"
-    ]
-  },
-  {
-    "company": "Quantum",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London (hybrid)"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/quantum/senior-data-engineer-london-122244"
     ]
   },
   {
