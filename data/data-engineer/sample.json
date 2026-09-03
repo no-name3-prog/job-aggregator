@@ -1,5 +1,25 @@
 [
   {
+    "id": "arbeitnow:data-engineer-munchen-257991",
+    "externalId": "data-engineer-munchen-257991",
+    "source": "arbeitnow",
+    "title": "Data Engineer (m/f/d)",
+    "company": "Ecoplanet Green Operations Gmbh",
+    "location": "München",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/ecoplanet-green-operations-gmbh/data-engineer-munchen-257991",
+    "description": "What we are building At ecoplanet, we're redefining energy for tomorrow. Our mission: turn energy management into the competitive edge every European business relies on to win its market. We're building the operating system for the energy transition — cutting energy costs, improving efficiency, and streamlining operations. Backed by EQT Ventures, HV Capital and more, and built by a team full of top-tier talent.\n Why This Role Matters You will build and run the data backbone the whole product sits on. Meter readings arrive from industrial sites across Europe, through messages or us accessing APIs. Your job is to get that data in clean, on time, and in a shape that dashboards, insights and forecasts can rely on.\nYou will join a team of 12 engineers in two squads. Small team, real ownership, and what you build reaches customers in weeks rather than quarters.\n What You’ll Achieve Meter data integration. Connect industrial hardware and utility data streams into real-time dashboards. Every site is a little different, so a good part of the job is bringing data into a consistent structure across all sites Anomalies and insights. This is where data science comes in. Find the things in the data a customer would want to know about — a meter drifting, a machine left running overnight, consumption that does not fit the pattern — and turn them into something they can act on Tech stack and growth. Support the engineering team building scalable data pipeline\n What Sets You Up for Success Must have:\n At least 3–5 years in a data engineering role or something close to it, building pipelines other people depend on\n Hands-on data science experience. You do not need a research background. You do need to have built and evaluated models yourself: enough to tell a real anomaly from noise, to judge when a finding is solid enough to put in front of a paying customer, and to know what a pipeline owes a model running in production\n Solid with Python and SQL and cloud data infrastructure. You…",
+    "tags": [
+      "Data Engineering",
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-03T02:09:51.000Z",
+    "scrapedAt": "2026-09-03T07:43:35.307Z"
+  },
+  {
     "id": "arbeitnow:head-of-data-engineering-manchester-107883",
     "externalId": "head-of-data-engineering-manchester-107883",
     "source": "arbeitnow",
@@ -11,7 +31,7 @@
     "description": "Role: Head of Data Engineering\n Location: Manchester based office – Hybrid working\n Package: £90k OTE\n PHMG is continuing to develop and mature its data capability, focusing on modernising our data platform and enhancing the way we work. This creates further opportunities to leverage data more effectively, allowing us to better serve our customers and colleagues. As part of this continued development, we are looking to strengthen our Data Engineering capability and maximise the value from the wealth of data held across the organisation.\n To support this vision, we are seeking a Head of Data Engineering. This pivotal role will lead an established Data Engineering team, supporting their development while strengthening engineering practices, technical standards and ways of working across the function. The successful candidate will foster a culture of technical excellence, collaboration and continuous improvement.\n This is an exciting opportunity for an experienced data engineering leader to help develop our data engineering community of practice, define data standards across the organisation and be part of the team delivering and evolving PHMG's Data Strategy.\n The role: What you will do:\n Lead, manage and develop the Data Engineering team, building capability, resilience and strong ways of working.\n Own PHMG's core data platform, architecture, data warehouse and associated pipelines, ensuring solutions are scalable, reliable, maintainable and cost-effective.\n Own Data Engineering delivery, ensuring work is appropriately designed, prioritised and delivered to agreed standards.\n Establish and embed strong engineering practices across source control, CI/CD, testing, code review, documentation, monitoring and error handling.\n Work closely with the wider Data team to translate the Data Strategy and business priorities into an effective engineering roadmap and delivery plan.\n Work closely with IT, Infrastructure and other engineering teams on architecture, integrations, mi…",
     "tags": [],
     "postedAt": "2026-09-02T21:45:29.000Z",
-    "scrapedAt": "2026-09-03T02:45:50.226Z"
+    "scrapedAt": "2026-09-03T07:43:35.307Z"
   },
   {
     "id": "arbeitnow:data-engineer-manchester-426027",
@@ -25,7 +45,7 @@
     "description": "Role: Data Engineer\n Location: Manchester – Hybrid working\n Salary: £44k OTE\n PHMG is continuing to develop and mature its data capability, focusing on modernising our data platform and enhancing the way we work. As part of this continued development, we are looking to strengthen our Data Engineering team and maximise the value from the wealth of data held across the organisation.\n We are looking for a Data Engineer to help design, build and maintain reliable, scalable data solutions. Working as part of an established Data Engineering team, you will contribute to the development of our data platform, strengthen engineering practices and help improve the quality and reliability of data across the organisation.\n This is an exciting opportunity for an experienced Data Engineer with strong SQL and Python skills to work with modern cloud data technologies, contribute to our engineering standards and play a part in delivering and evolving PHMG's Data Strategy.\n What you will do:\n Design, build and maintain scalable, reliable and maintainable data pipelines and datasets.\n Play a key role in developing and improving our Microsoft Fabric data platform.\n Contribute to the design and development of data warehouse, lakehouse and data integration solutions.\n Apply strong engineering practices across source control, CI/CD, testing, documentation, monitoring and error handling.\n Develop and maintain data models to support reporting, analytics and wider business use cases.\n Collaborate with other Data Engineers and technical teams to improve data architecture, platform performance and engineering processes.\n Work closely with Reporting, Insights and Data Science teams to understand requirements and deliver effective data solutions.\n The person we are looking for will have the following experience:\n Strong SQL skills, including experience writing and optimising complex queries and data transformations.\n Strong Python skills, with practical experience using Python for data engineeri…",
     "tags": [],
     "postedAt": "2026-09-02T21:45:29.000Z",
-    "scrapedAt": "2026-09-03T02:45:50.226Z"
+    "scrapedAt": "2026-09-03T07:43:35.307Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-london-gb-380691",
@@ -43,7 +63,7 @@
     ],
     "jobType": "Full-time",
     "postedAt": "2026-09-02T15:05:13.000Z",
-    "scrapedAt": "2026-09-03T02:45:50.226Z"
+    "scrapedAt": "2026-09-03T07:43:35.307Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -59,7 +79,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-03T02:45:50.896Z"
+    "scrapedAt": "2026-09-03T07:43:35.741Z"
   },
   {
     "id": "greenhouse:airbnb-8152721",
@@ -75,7 +95,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-08-26T06:23:20.000Z",
-    "scrapedAt": "2026-09-03T02:45:50.896Z"
+    "scrapedAt": "2026-09-03T07:43:35.741Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -91,7 +111,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-03T02:45:50.896Z"
+    "scrapedAt": "2026-09-03T07:43:35.741Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -107,7 +127,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-03T02:45:50.896Z"
+    "scrapedAt": "2026-09-03T07:43:35.741Z"
   },
   {
     "id": "remotive:2091097",
@@ -172,7 +192,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-09-03T02:45:50.083Z"
+    "scrapedAt": "2026-09-03T07:43:35.223Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -188,22 +208,6 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-09-03T02:45:50.896Z"
-  },
-  {
-    "id": "greenhouse:instacart-8126023",
-    "externalId": "instacart:8126023",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer II, Finance",
-    "company": "Instacart",
-    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-    "remote": true,
-    "url": "https://instacart.careers/job/?gh_jid=8126023",
-    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
-    "tags": [
-      "Data"
-    ],
-    "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-09-03T02:45:50.896Z"
+    "scrapedAt": "2026-09-03T07:43:35.741Z"
   }
 ]
