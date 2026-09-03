@@ -1,5 +1,61 @@
 [
   {
+    "company": "Autodesk",
+    "jobCount": 6,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Bengaluru, IND",
+      "Kraków, POL",
+      "Toronto, ON, CAN",
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer",
+      "Data Engineer with AI",
+      "Principal Data Engineer, User Success",
+      "Principal Data Engineer, User Success (Agentic Experiences)",
+      "Principal Data Engineer -General application",
+      "Data Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Data-Engineer_26WD100065-2",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "jobCount": 6,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "4 Locations",
+      "California - San Francisco",
+      "3 Locations",
+      "Mexico - Mexico City"
+    ],
+    "sampleTitles": [
+      "Data Engineer (SMTS/LMTS) - Knowledge Graph & AI",
+      "Principal Data Platform Engineer",
+      "Sr. Data Engineer,  Enterprise - Slack",
+      "Data Engineer Senior",
+      "Senior Data Engineer",
+      "PMTS - Principal Agentic Data Engineer"
+    ],
+    "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Data-Engineer--SMTS-LMTS----Knowledge-Graph---AI_JR347480",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Data-Platform-Engineer_JR354027",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Sr-Data-Engineer---Enterprise---Slack_JR341884-1",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657"
+    ]
+  },
+  {
     "company": "Adobe",
     "jobCount": 5,
     "sources": [
@@ -25,59 +81,6 @@
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Data-Engineer_R171024",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
-    ]
-  },
-  {
-    "company": "Autodesk",
-    "jobCount": 5,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Bengaluru, IND",
-      "Kraków, POL",
-      "Toronto, ON, CAN",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Data Engineer with AI",
-      "Principal Data Engineer, User Success",
-      "Principal Data Engineer, User Success (Agentic Experiences)",
-      "Principal Data Engineer -General application"
-    ],
-    "officialUrls": [
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Data-Engineer_26WD98492",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
-    ]
-  },
-  {
-    "company": "Salesforce",
-    "jobCount": 5,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "California - San Francisco",
-      "3 Locations",
-      "Mexico - Mexico City"
-    ],
-    "sampleTitles": [
-      "Principal Data Platform Engineer",
-      "Sr. Data Engineer,  Enterprise - Slack",
-      "Data Engineer Senior",
-      "Senior Data Engineer",
-      "PMTS - Principal Agentic Data Engineer"
-    ],
-    "officialUrls": [
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Data-Platform-Engineer_JR354027",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Sr-Data-Engineer---Enterprise---Slack_JR341884-1",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR353004",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
     ]
   },
   {
@@ -142,25 +145,6 @@
       "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Cybersecurity-Data-Engineer_JR-0108815",
       "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---AI-ML-SME_JR-0107814",
       "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
-    ]
-  },
-  {
-    "company": "Airbnb",
-    "jobCount": 2,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "Bangalore, India",
-      "United States"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer, BizTech",
-      "Senior Staff Data Engineer - Data Stewardship"
-    ],
-    "officialUrls": [
-      "https://careers.airbnb.com/positions/8152721?gh_jid=8152721",
-      "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
     ]
   },
   {
@@ -292,6 +276,22 @@
     ]
   },
   {
+    "company": "Airbnb",
+    "jobCount": 1,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "sampleTitles": [
+      "Senior Staff Data Engineer - Data Stewardship"
+    ],
+    "officialUrls": [
+      "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
+    ]
+  },
+  {
     "company": "Block",
     "jobCount": 1,
     "sources": [
@@ -340,38 +340,6 @@
     ]
   },
   {
-    "company": "Ecoplanet Green Operations Gmbh",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "München"
-    ],
-    "sampleTitles": [
-      "Data Engineer (m/f/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/ecoplanet-green-operations-gmbh/data-engineer-munchen-257991"
-    ]
-  },
-  {
-    "company": "Figma",
-    "jobCount": 1,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "San Francisco, CA • New York, NY • United States"
-    ],
-    "sampleTitles": [
-      "Data Engineer"
-    ],
-    "officialUrls": [
-      "https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004"
-    ]
-  },
-  {
     "company": "Lemon.io",
     "jobCount": 1,
     "sources": [
@@ -385,6 +353,22 @@
     ],
     "officialUrls": [
       "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097"
+    ]
+  },
+  {
+    "company": "Lendable",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer (UK Cards)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/lendable/analytics-engineer-uk-cards-london-339019"
     ]
   },
   {
@@ -417,22 +401,6 @@
     ],
     "officialUrls": [
       "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002"
-    ]
-  },
-  {
-    "company": "Octopus Energy Group",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London (GB)"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/senior-data-engineer-london-gb-380691"
     ]
   },
   {
