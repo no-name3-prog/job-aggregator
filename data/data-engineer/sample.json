@@ -1,5 +1,37 @@
 [
   {
+    "id": "arbeitnow:remote-data-engineer-all-genders-38665",
+    "externalId": "remote-data-engineer-all-genders-38665",
+    "source": "arbeitnow",
+    "title": "Data Engineer (all genders)",
+    "company": "Eraneos",
+    "location": "Hamburg, München, Düsseldorf, remote",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-38665",
+    "description": "What you can expect from us We’re a high‑energy cloud- and data engineering team looking for like-minded, motivated tech builders. We are driven by ownership and business outcomes.\nAs the analytics unit within a global management consultancy, we turn data-driven strategies into production systems. Our clients are DAX and Fortune Global 500 leaders who trust us for our expertise across data platforms, big data and cloud engineering.\nYou’ll join an international environment with agile squads and a boutique spirit with room to experiment and grow, paired with above‑market compensation and an attractive benefits package.\n What you’ll do as part of our cloud- and data engineering team:\n Take ownership for projects end to end: From scoping to stakeholder alignment and the delivery of measurable outcomes Design data architectures for batch and streaming workloads, both at small and big data scales Provision and manage the underlying cloud infrastructure to support those architectures on providers such as AWS,  Azure  or GCP Building Python ETL/ELT pipelines, orchestrated with Airflow,  Dagster , or Prefect. Work with data lake technologies and  optimize  (OLAP) data ware-/ lakehouses Model and store data across SQL and NoSQL databases, as well as  optimizing  performance and costs Create web APIs with popular Python frameworks (e.g., FastAPI and Flask) and describe them using standards like OpenAPI /Swagger Automate deployments using Infrastructure-as-Code and container technologies such as Docker, Kubernetes or OpenShift\n Who you are A passionate data engineer who loves being at the forefront of modern, AI-driven technology, but also cares about the engineering craftmanship. Relevant hands-on experience with a cloud hyperscaler (preferably AWS, Azure or GCP). Preferably experience building production-grade software. Python development with idiomatic and well-tested code. Skilled in performance tuning and optimization of relational databases (e.g., through indexing, shard…",
+    "tags": [
+      "Data Engineering",
+      "Cloud Engineering",
+      "Snowflake",
+      "Databricks",
+      "ETL",
+      "Python",
+      "Azure",
+      "AWS",
+      "GCP",
+      "Data Warehouse",
+      "ELT",
+      "SQL",
+      "Consutling",
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-04T11:09:06.000Z",
+    "scrapedAt": "2026-09-04T13:07:28.129Z"
+  },
+  {
     "id": "arbeitnow:senior-data-engineer-london-374837",
     "externalId": "senior-data-engineer-london-374837",
     "source": "arbeitnow",
@@ -13,7 +45,7 @@
       "965 Product Management - AI & Strategy"
     ],
     "postedAt": "2026-09-04T03:55:06.000Z",
-    "scrapedAt": "2026-09-04T07:42:28.737Z"
+    "scrapedAt": "2026-09-04T13:07:28.129Z"
   },
   {
     "id": "arbeitnow:data-platform-engineer-i-london-162452",
@@ -31,7 +63,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-03T15:40:11.000Z",
-    "scrapedAt": "2026-09-04T07:42:28.737Z"
+    "scrapedAt": "2026-09-04T13:07:28.129Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-london-office-228011",
@@ -49,7 +81,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-03T15:24:36.000Z",
-    "scrapedAt": "2026-09-04T07:42:28.737Z"
+    "scrapedAt": "2026-09-04T13:07:28.129Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -65,7 +97,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-04T07:42:29.433Z"
+    "scrapedAt": "2026-09-04T13:07:28.786Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -81,7 +113,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-04T07:42:29.433Z"
+    "scrapedAt": "2026-09-04T13:07:28.786Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -97,7 +129,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-04T07:42:29.433Z"
+    "scrapedAt": "2026-09-04T13:07:28.786Z"
   },
   {
     "id": "remotive:2091097",
@@ -162,7 +194,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-09-04T07:42:28.579Z"
+    "scrapedAt": "2026-09-04T13:07:28.005Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -178,7 +210,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-09-04T07:42:29.433Z"
+    "scrapedAt": "2026-09-04T13:07:28.786Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -194,26 +226,6 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-09-04T07:42:29.433Z"
-  },
-  {
-    "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
-    "externalId": "spotify:204f6cd7-98a3-4360-87e3-8876adf087da",
-    "source": "lever",
-    "title": "Senior Data Engineer - Data Platform",
-    "company": "Spotify",
-    "location": "London",
-    "remote": false,
-    "url": "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da",
-    "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\nThe Data Platform team develops and maintains the infrastructure that supports Spotify’s data ecosystem. Within Data Platform, the Data Collection product area builds infrastructure that makes it easier to collect and consume data at scale. You’ll join a team focused on making user behaviour data seamless and reliable for data teams across Spotify.\n",
-    "tags": [
-      "Platform",
-      "Engineering",
-      "Permanent",
-      "hybrid"
-    ],
-    "jobType": "Permanent",
-    "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-09-04T07:45:58.964Z"
+    "scrapedAt": "2026-09-04T13:07:28.786Z"
   }
 ]
