@@ -1,5 +1,31 @@
 [
   {
+    "id": "arbeitnow:data-engineer-berlin-hq-259699",
+    "externalId": "data-engineer-berlin-hq-259699",
+    "source": "arbeitnow",
+    "title": "Data Engineer (f/m/d)",
+    "company": "Climate",
+    "location": "Berlin HQ",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/climate/data-engineer-berlin-hq-259699",
+    "description": "Job description We are currently seeking a  Data Engineer  for our international and diverse Climate Policy Team (CPT). The team is engaged in various projects on climate change mitigation, in particular on energy system transformation, the 1.5°C global warming limit and the evaluation of national climate action. This includes flagship projects, such as the Climate Action Tracker and the National Pathways Explorer, for which data is being processed and analysed in-house and then published on the respective project websites.\n As a  Data Engineer  you will play a critical role in designing, building and maintaining our data infrastructure, ensuring efficient and accurate data processing, storage and retrieval.\n Your Responsibilities\n You will help to build and maintain a data platform for advanced analytics and climate modelling, spanning data science and data engineering work.\n Contribute to the full lifecycle of data platform development from design and deployment to continuous improvement\n Strengthen data pipelines reliability, observability, and automation through code and tooling improvements.\n Collaborate with data scientists and researchers to define data processing requirements.\n Support AI/LLM initiatives across the organisation from a data and infrastructure perspective.\n Help develop backend data services and APIs that expose curated datasets to internal and external consumers and applications.\n Monitor, anticipate, and resolve operational or data quality issues in data pipelines. Ensure data reliability.\n Relevant Tech Skills\n Please note that this list is non exhaustive and that if you don’t have experience on some of those you should still apply.\n Required:\n Py thon\n SQL\n PostgreSQL\n Object storage (like S3/Minio)\n Containers (like Docker)\n Git\n CI/CD  princip les\n Nice to have:\n Pandas/Polar/DuckDB or other framework for data processing\n Conda\n Monitoring tools (like Prometheus, Grafana and Elasticsearch)\n Infrastructure as code tool (like Terraform or…",
+    "tags": [
+      "Data Engineer",
+      "nonprofit",
+      "NGO",
+      "Climate Policy",
+      "Python",
+      "Data Platform",
+      "SQL",
+      "Experienced",
+      "Fixed term",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-03T23:09:34.000Z",
+    "scrapedAt": "2026-09-04T02:43:15.700Z"
+  },
+  {
     "id": "arbeitnow:data-platform-engineer-i-london-162452",
     "externalId": "data-platform-engineer-i-london-162452",
     "source": "arbeitnow",
@@ -15,7 +41,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-03T15:40:11.000Z",
-    "scrapedAt": "2026-09-03T22:58:23.873Z"
+    "scrapedAt": "2026-09-04T02:43:15.700Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-london-office-228011",
@@ -33,7 +59,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-03T15:24:36.000Z",
-    "scrapedAt": "2026-09-03T22:58:23.873Z"
+    "scrapedAt": "2026-09-04T02:43:15.700Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -49,7 +75,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -65,7 +91,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -81,7 +107,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "remotive:2091097",
@@ -146,7 +172,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-09-03T22:58:23.781Z"
+    "scrapedAt": "2026-09-04T02:43:15.529Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -162,7 +188,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -178,7 +204,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -198,7 +224,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-09-03T23:01:42.915Z"
+    "scrapedAt": "2026-09-04T02:46:35.451Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -217,7 +243,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-09-03T23:01:44.028Z"
+    "scrapedAt": "2026-09-04T02:46:36.196Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -233,7 +259,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -249,7 +275,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -265,7 +291,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -281,7 +307,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -297,7 +323,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -313,7 +339,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -329,7 +355,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -345,7 +371,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -361,7 +387,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -377,7 +403,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -393,7 +419,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -409,7 +435,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -425,7 +451,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -441,7 +467,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -457,7 +483,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -473,7 +499,23 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
+  },
+  {
+    "id": "greenhouse:anthropic-4973067008",
+    "externalId": "anthropic:4973067008",
+    "source": "greenhouse",
+    "title": "Data Infrastructure Engineer, Pre-training",
+    "company": "Anthropic",
+    "location": "San Francisco, CA",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4973067008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the Role\n Anthropic is at the forefront of AI research, dedicated to developing safe, ethical, and powerful artificial intelligence. Our mission is to ensure that transformative AI systems are aligned with human interests. We are seeking a Staff level Engineer to join our Pre-training team, responsible for developing the next generation of large language models. In this role, you will work at the intersection of cutting-edge research and practical engineering, contributing to the development of safe, steerable, and trustworthy AI systems.\n Responsibilities\n Design and implement data processing infrastructure for large language model training (highly performant, reproducible, traceable)\n Develop and maintain core processing primitives (e.g., tokenization, deduplication, chunking) with a focus on scalability\n Build robust systems for data quality assurance and validation at scale\n Collaborate with research teams to implement novel data processing architectures\n Build and operate end-to-end data pipelines that turn raw web-scale corpora into training-ready datasets\n You may be a good fit if you have:\n 5+ YOE outside of internships\n Strong software engineering skills with experience building high-throughput fault-tolerant distributed systems\n Hands-on experience with distributed computing frameworks, particularly Apache Spark\n Excellent problem-solving skills and attention to detail\n Strong communication skills and ability to work in a collaborative environment\n Advanced degree in Computer Science or related field\n Experience with language model training infrastructure\n Background in Data Infrastructure, MLOps, or ML infrastructu…",
+    "tags": [
+      "AI Research & Engineering"
+    ],
+    "postedAt": "2025-11-03T20:48:18.000Z",
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -489,7 +531,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -505,7 +547,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "workday:workday-JR-0108815",
@@ -521,7 +563,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:workday-JR-0107814",
@@ -537,7 +579,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -553,7 +595,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -567,7 +609,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -581,7 +623,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:salesforce-JR347480",
@@ -595,7 +637,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:salesforce-JR354027",
@@ -609,7 +651,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:salesforce-JR341884",
@@ -623,7 +665,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:redhat-R-058752",
@@ -639,7 +681,7 @@
       "Remote"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:adobe-R170861",
@@ -653,7 +695,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:adobe-R170680",
@@ -667,7 +709,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:adobe-R171024",
@@ -681,7 +723,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:adobe-R169536",
@@ -695,7 +737,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -709,7 +751,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:autodesk-26WD100065",
@@ -723,7 +765,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:autodesk-26WD100418",
@@ -737,7 +779,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -751,7 +793,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -765,7 +807,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -779,7 +821,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:autodesk-26WD100390",
@@ -793,7 +835,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:58:31.698Z"
+    "scrapedAt": "2026-09-04T02:43:25.549Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -807,7 +849,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:59:42.920Z"
+    "scrapedAt": "2026-09-04T02:44:40.239Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -821,6 +863,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-03T22:59:42.920Z"
+    "scrapedAt": "2026-09-04T02:44:40.239Z"
   }
 ]

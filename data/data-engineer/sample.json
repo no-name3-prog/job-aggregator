@@ -1,5 +1,31 @@
 [
   {
+    "id": "arbeitnow:data-engineer-berlin-hq-259699",
+    "externalId": "data-engineer-berlin-hq-259699",
+    "source": "arbeitnow",
+    "title": "Data Engineer (f/m/d)",
+    "company": "Climate",
+    "location": "Berlin HQ",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/climate/data-engineer-berlin-hq-259699",
+    "description": "Job description We are currently seeking a  Data Engineer  for our international and diverse Climate Policy Team (CPT). The team is engaged in various projects on climate change mitigation, in particular on energy system transformation, the 1.5°C global warming limit and the evaluation of national climate action. This includes flagship projects, such as the Climate Action Tracker and the National Pathways Explorer, for which data is being processed and analysed in-house and then published on the respective project websites.\n As a  Data Engineer  you will play a critical role in designing, building and maintaining our data infrastructure, ensuring efficient and accurate data processing, storage and retrieval.\n Your Responsibilities\n You will help to build and maintain a data platform for advanced analytics and climate modelling, spanning data science and data engineering work.\n Contribute to the full lifecycle of data platform development from design and deployment to continuous improvement\n Strengthen data pipelines reliability, observability, and automation through code and tooling improvements.\n Collaborate with data scientists and researchers to define data processing requirements.\n Support AI/LLM initiatives across the organisation from a data and infrastructure perspective.\n Help develop backend data services and APIs that expose curated datasets to internal and external consumers and applications.\n Monitor, anticipate, and resolve operational or data quality issues in data pipelines. Ensure data reliability.\n Relevant Tech Skills\n Please note that this list is non exhaustive and that if you don’t have experience on some of those you should still apply.\n Required:\n Py thon\n SQL\n PostgreSQL\n Object storage (like S3/Minio)\n Containers (like Docker)\n Git\n CI/CD  princip les\n Nice to have:\n Pandas/Polar/DuckDB or other framework for data processing\n Conda\n Monitoring tools (like Prometheus, Grafana and Elasticsearch)\n Infrastructure as code tool (like Terraform or…",
+    "tags": [
+      "Data Engineer",
+      "nonprofit",
+      "NGO",
+      "Climate Policy",
+      "Python",
+      "Data Platform",
+      "SQL",
+      "Experienced",
+      "Fixed term",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-03T23:09:34.000Z",
+    "scrapedAt": "2026-09-04T02:43:15.700Z"
+  },
+  {
     "id": "arbeitnow:data-platform-engineer-i-london-162452",
     "externalId": "data-platform-engineer-i-london-162452",
     "source": "arbeitnow",
@@ -15,7 +41,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-03T15:40:11.000Z",
-    "scrapedAt": "2026-09-03T22:58:23.873Z"
+    "scrapedAt": "2026-09-04T02:43:15.700Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-london-office-228011",
@@ -33,7 +59,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-03T15:24:36.000Z",
-    "scrapedAt": "2026-09-03T22:58:23.873Z"
+    "scrapedAt": "2026-09-04T02:43:15.700Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -49,7 +75,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -65,7 +91,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -81,7 +107,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "remotive:2091097",
@@ -146,7 +172,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-09-03T22:58:23.781Z"
+    "scrapedAt": "2026-09-04T02:43:15.529Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -162,7 +188,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -178,7 +204,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-09-03T22:58:24.453Z"
+    "scrapedAt": "2026-09-04T02:43:16.305Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -198,25 +224,6 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-09-03T23:01:42.915Z"
-  },
-  {
-    "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
-    "externalId": "linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
-    "source": "ashby",
-    "title": "Analytics Engineer",
-    "company": "Linear",
-    "location": "North America",
-    "remote": true,
-    "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
-    "description": "At Linear, we're building the product development system for teams and agents. AI is fundamentally changing how software gets built, and we’re shaping the tools this new era requires.\n\nFounded in 2019, Linear has become the platform of choice for more than 40,000 companies (including OpenAI, Coinbase, and Ramp) to plan, build, and ship their products. Today, our team is distributed across North America, Europe, and Australia, and we’re continuing to grow internationally. What unites us is relentless focus, fast execution, and a deep care for software craftsmanship.\n\nThe Data team works across Linear, supporting Product, Engineering, and GTM. We own our data pipelines, warehouse, dashboards, analysis, and integrations with third-party tools. As a small team, we focus on building systems that make data accessible and useful across Linear. We’re looking for someone who wants to help shape how we architect, build, and use data as we grow.\n\nLocation & work mode\n\nLinear is a remote-first company, with optional co-working offices in San Francisco, New York, and London. This role is open to candidates based in North America. You can work from anywhere within this region. We value deep focus and async collaboration, with intentional moments to connect in person through team off-sites, optional co-working, and occasional travel.\n\nWhat you’ll do\n\n - Work across Product and GTM (Marketing, Sales, Customer Success, and Finance) to turn ambiguous questions and operational needs into useful metrics, models, analyses, and workflows\n\n - Build and maintain dbt models and pipelines that create trusted views of our product, customers, and business\n\n - Design clear, maintainable data models and improve the testing, documentation, performance, and reliability of our data stack\n\n - Build dashboards and self-service reporting in Metabase and Hex, and dig deeper when the answer requires more than a chart\n\n - Operationalize data through reverse ETL and partner with GTM Engineering on the sc…",
-    "tags": [
-      "GTM",
-      "GTM",
-      "Remote"
-    ],
-    "jobType": "FullTime",
-    "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-09-03T23:01:44.028Z"
+    "scrapedAt": "2026-09-04T02:46:35.451Z"
   }
 ]

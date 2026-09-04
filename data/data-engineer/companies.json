@@ -105,6 +105,28 @@
     ]
   },
   {
+    "company": "Anthropic",
+    "jobCount": 3,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "San Francisco, CA | New York City, NY",
+      "San Francisco, CA",
+      "San Francisco, CA | New York City, NY | Seattle, WA"
+    ],
+    "sampleTitles": [
+      "Data Engineer, Safeguards",
+      "Data Infrastructure Engineer, Pre-training",
+      "Data Engineer"
+    ],
+    "officialUrls": [
+      "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
+      "https://job-boards.greenhouse.io/anthropic/jobs/4973067008",
+      "https://job-boards.greenhouse.io/anthropic/jobs/4956672008"
+    ]
+  },
+  {
     "company": "Instacart",
     "jobCount": 3,
     "sources": [
@@ -144,25 +166,6 @@
       "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Cybersecurity-Data-Engineer_JR-0108815",
       "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---AI-ML-SME_JR-0107814",
       "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
-    ]
-  },
-  {
-    "company": "Anthropic",
-    "jobCount": 2,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "San Francisco, CA | New York City, NY",
-      "San Francisco, CA | New York City, NY | Seattle, WA"
-    ],
-    "sampleTitles": [
-      "Data Engineer, Safeguards",
-      "Data Engineer"
-    ],
-    "officialUrls": [
-      "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
-      "https://job-boards.greenhouse.io/anthropic/jobs/4956672008"
     ]
   },
   {
@@ -302,6 +305,22 @@
     ],
     "officialUrls": [
       "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008"
+    ]
+  },
+  {
+    "company": "Climate",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin HQ"
+    ],
+    "sampleTitles": [
+      "Data Engineer (f/m/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/climate/data-engineer-berlin-hq-259699"
     ]
   },
   {
