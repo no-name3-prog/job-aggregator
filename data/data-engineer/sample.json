@@ -1,29 +1,19 @@
 [
   {
-    "id": "arbeitnow:data-engineer-berlin-hq-259699",
-    "externalId": "data-engineer-berlin-hq-259699",
+    "id": "arbeitnow:senior-data-engineer-london-374837",
+    "externalId": "senior-data-engineer-london-374837",
     "source": "arbeitnow",
-    "title": "Data Engineer (f/m/d)",
-    "company": "Climate",
-    "location": "Berlin HQ",
+    "title": "Senior Data Engineer",
+    "company": "Zoominfo",
+    "location": "London",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/climate/data-engineer-berlin-hq-259699",
-    "description": "Job description We are currently seeking a  Data Engineer  for our international and diverse Climate Policy Team (CPT). The team is engaged in various projects on climate change mitigation, in particular on energy system transformation, the 1.5°C global warming limit and the evaluation of national climate action. This includes flagship projects, such as the Climate Action Tracker and the National Pathways Explorer, for which data is being processed and analysed in-house and then published on the respective project websites.\n As a  Data Engineer  you will play a critical role in designing, building and maintaining our data infrastructure, ensuring efficient and accurate data processing, storage and retrieval.\n Your Responsibilities\n You will help to build and maintain a data platform for advanced analytics and climate modelling, spanning data science and data engineering work.\n Contribute to the full lifecycle of data platform development from design and deployment to continuous improvement\n Strengthen data pipelines reliability, observability, and automation through code and tooling improvements.\n Collaborate with data scientists and researchers to define data processing requirements.\n Support AI/LLM initiatives across the organisation from a data and infrastructure perspective.\n Help develop backend data services and APIs that expose curated datasets to internal and external consumers and applications.\n Monitor, anticipate, and resolve operational or data quality issues in data pipelines. Ensure data reliability.\n Relevant Tech Skills\n Please note that this list is non exhaustive and that if you don’t have experience on some of those you should still apply.\n Required:\n Py thon\n SQL\n PostgreSQL\n Object storage (like S3/Minio)\n Containers (like Docker)\n Git\n CI/CD  princip les\n Nice to have:\n Pandas/Polar/DuckDB or other framework for data processing\n Conda\n Monitoring tools (like Prometheus, Grafana and Elasticsearch)\n Infrastructure as code tool (like Terraform or…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zoominfo/senior-data-engineer-london-374837",
+    "description": "<div class=\"content-intro\"><p>ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.</p></div><p>&nbsp;</p>\n<p>We are looking for a highly skilled <strong>Senior Data Engineer</strong> to become part of our core Enterprise Data Engineering team. You will be a senior member of the larger AI, Data and Innovation organization, responsible for designing and expanding enterprise-level data infrastructure that enables ZoomInfo's internal teams to interact with data comprehensively.</p>\n<p>The ideal candidate has a strong background in big data processing, pipeline orchestration, and data modeling, with a proven track record of delivering scalable and high-quality data solutions in fast-paced, data-centric product environments. Given the dynamic nature of emerging technologies, this role requires an individual who excels at exploration and embraces continuous learning as core responsibilities. You'll constantly research and implement innovative solutions while integrating vast, diverse data sources into our AI applications, including our industry-leading LLM-powered systems.</p>\n<p>This role also carries production ownership: you will share on-call responsibility for the pipelines and platforms you build, and you're comfortable triaging, escalating, and driving incidents to resolution under pressure.</p>\n<p>&nbsp;</p>\n<p><strong>What you'll do:</strong></p>\n<ul>\n<li>Design, develop, and maintain high-performance, product-centric data pipelines using Airflow, DBT, and Python.</li>\n<li>Architect and optimize the massive-scale data warehouse and lakehouse that serves as our single source of truth for all customer data, primarily using Snowflake.</li>\n<li>Lead the integration of diverse struc…",
     "tags": [
-      "Data Engineer",
-      "nonprofit",
-      "NGO",
-      "Climate Policy",
-      "Python",
-      "Data Platform",
-      "SQL",
-      "Experienced",
-      "Fixed term",
-      "Full time"
+      "965 Product Management - AI & Strategy"
     ],
-    "jobType": "Experienced",
-    "postedAt": "2026-09-03T23:09:34.000Z",
-    "scrapedAt": "2026-09-04T02:43:15.700Z"
+    "postedAt": "2026-09-04T03:55:06.000Z",
+    "scrapedAt": "2026-09-04T07:42:28.737Z"
   },
   {
     "id": "arbeitnow:data-platform-engineer-i-london-162452",
@@ -41,7 +31,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-03T15:40:11.000Z",
-    "scrapedAt": "2026-09-04T02:43:15.700Z"
+    "scrapedAt": "2026-09-04T07:42:28.737Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-london-office-228011",
@@ -59,7 +49,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-03T15:24:36.000Z",
-    "scrapedAt": "2026-09-04T02:43:15.700Z"
+    "scrapedAt": "2026-09-04T07:42:28.737Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -75,7 +65,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-04T02:43:16.305Z"
+    "scrapedAt": "2026-09-04T07:42:29.433Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -91,7 +81,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-04T02:43:16.305Z"
+    "scrapedAt": "2026-09-04T07:42:29.433Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -107,7 +97,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-04T02:43:16.305Z"
+    "scrapedAt": "2026-09-04T07:42:29.433Z"
   },
   {
     "id": "remotive:2091097",
@@ -172,7 +162,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-09-04T02:43:15.529Z"
+    "scrapedAt": "2026-09-04T07:42:28.579Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -188,7 +178,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-09-04T02:43:16.305Z"
+    "scrapedAt": "2026-09-04T07:42:29.433Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -204,7 +194,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-09-04T02:43:16.305Z"
+    "scrapedAt": "2026-09-04T07:42:29.433Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -224,6 +214,6 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-09-04T02:46:35.451Z"
+    "scrapedAt": "2026-09-04T07:45:58.964Z"
   }
 ]

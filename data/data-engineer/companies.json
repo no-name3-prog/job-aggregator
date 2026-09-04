@@ -34,23 +34,23 @@
       "workday"
     ],
     "locations": [
-      "Noida",
       "San Francisco",
       "Bangalore",
+      "San Jose",
       "Bucharest",
       "3 Locations"
     ],
     "sampleTitles": [
       "Senior Data Engineer",
       "Senior Data Engineer",
-      "Senior Data Engineer",
+      "Lead Data Engineer",
       "Data Platform Engineer",
       "Principal Scientist - Data Pipeline Engineer"
     ],
     "officialUrls": [
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Science-Engineer-3_R170861-1",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Engineer_R170680-1",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Data-Engineer_R171024",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Lead-Data-Engineer_R171212",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
     ]
@@ -308,22 +308,6 @@
     ]
   },
   {
-    "company": "Climate",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Berlin HQ"
-    ],
-    "sampleTitles": [
-      "Data Engineer (f/m/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/climate/data-engineer-berlin-hq-259699"
-    ]
-  },
-  {
     "company": "Datadog",
     "jobCount": 1,
     "sources": [
@@ -481,6 +465,22 @@
     ],
     "officialUrls": [
       "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da"
+    ]
+  },
+  {
+    "company": "Zoominfo",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/zoominfo/senior-data-engineer-london-374837"
     ]
   }
 ]
