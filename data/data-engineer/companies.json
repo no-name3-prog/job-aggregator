@@ -1,5 +1,61 @@
 [
   {
+    "company": "Autodesk",
+    "jobCount": 6,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Bengaluru, IND",
+      "Kraków, POL",
+      "Toronto, ON, CAN",
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer",
+      "Data Engineer with AI",
+      "Principal Data Engineer, User Success",
+      "Principal Data Engineer, User Success (Agentic Experiences)",
+      "Principal Data Engineer -General application",
+      "Data Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Data-Engineer_26WD100065-2",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
+    ]
+  },
+  {
+    "company": "Adobe",
+    "jobCount": 5,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "San Francisco",
+      "Bangalore",
+      "San Jose",
+      "Bucharest",
+      "3 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer",
+      "Senior Data Engineer",
+      "Lead Data Engineer",
+      "Data Platform Engineer",
+      "Principal Scientist - Data Pipeline Engineer"
+    ],
+    "officialUrls": [
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Engineer_R170680-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Data-Engineer_R171024",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Lead-Data-Engineer_R171212",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
+    ]
+  },
+  {
     "company": "Coinbase",
     "jobCount": 5,
     "sources": [
@@ -91,6 +147,27 @@
     ]
   },
   {
+    "company": "Workday",
+    "jobCount": 3,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Ireland, Dublin",
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer, Cybersecurity",
+      "Senior Cybersecurity Data Engineer - AI/ML SME",
+      "Data Platform Engineer - Cybersecurity"
+    ],
+    "officialUrls": [
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Cybersecurity-Data-Engineer_JR-0108815",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---AI-ML-SME_JR-0107814",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
+    ]
+  },
+  {
     "company": "Brex",
     "jobCount": 2,
     "sources": [
@@ -147,6 +224,25 @@
     ]
   },
   {
+    "company": "NVIDIA",
+    "jobCount": 2,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Israel, Yokneam",
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Interconnect Product Data Engineer",
+      "Senior Data Infrastructure Engineer, AI Performance"
+    ],
+    "officialUrls": [
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Interconnect-Product-Data-Engineer_JR2021975",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970"
+    ]
+  },
+  {
     "company": "Affirm",
     "jobCount": 1,
     "sources": [
@@ -176,22 +272,6 @@
     ],
     "officialUrls": [
       "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
-    ]
-  },
-  {
-    "company": "Axle Careers",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/analytics-engineer-london-147499"
     ]
   },
   {
@@ -243,22 +323,6 @@
     ]
   },
   {
-    "company": "JobRad Loop",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "München"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer (m/w/d) – Snowflake"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-375493"
-    ]
-  },
-  {
     "company": "Lemon.io",
     "jobCount": 1,
     "sources": [
@@ -272,22 +336,6 @@
     ],
     "officialUrls": [
       "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097"
-    ]
-  },
-  {
-    "company": "Lendable",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Data Platform Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/lendable/data-platform-engineer-london-230787"
     ]
   },
   {
@@ -336,6 +384,38 @@
     ],
     "officialUrls": [
       "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002"
+    ]
+  },
+  {
+    "company": "Nebius",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Unknown"
+    ],
+    "sampleTitles": [
+      "Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/nebius/data-engineer-472202"
+    ]
+  },
+  {
+    "company": "Red Hat",
+    "jobCount": 1,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Raleigh"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Senior-Data-Engineer_R-058752"
     ]
   },
   {
