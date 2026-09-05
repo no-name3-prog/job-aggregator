@@ -1,23 +1,5 @@
 [
   {
-    "id": "arbeitnow:senior-analytics-data-engineer-enterprise-data-platform-france-419837",
-    "externalId": "senior-analytics-data-engineer-enterprise-data-platform-france-419837",
-    "source": "arbeitnow",
-    "title": "Senior Analytics / Data Engineer - Enterprise Data Platform",
-    "company": "Filigran",
-    "location": "France",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/filigran/senior-analytics-data-engineer-enterprise-data-platform-france-419837",
-    "description": "🌀 The Company Filigran, founded in October 2022, stands out in the cybertech ecosystem for its commitment to revolutionizing cyber threat management with a proactive approach. Its mission is to develop innovative open-source solutions designed to anticipate cyber threats, identify security gaps, and strengthen organizational security posture.\n Filigran solutions are now trusted by over 6,000 public and private organizations worldwide.\n 🎯 The Role We're looking for a Senior Analytics / Data Engineer to join our Data team and take ownership of Filigran's Enterprise Data Platform (EDP) end-to-end — from ingestion to consumption. This is a senior, hands-on role: you turn raw data from across the company into reliable pipelines, trusted models, and governed, high-quality data that every team can rely on to make decisions.\n The core of the role is Analytics Engineering — modeling, data quality, observability and governance. You'll also need enough Data Engineering skill to maintain and troubleshoot ingestion pipelines when they break, and a Data Analyst / BI mindset is a valuable bonus to help teams turn data into KPIs and dashboards.\n You'll collaborate with virtually every team at Filigran (Sales, Finance, Product, Engineering, Support, People) in a fully remote, high-trust, async-first environment. This is a highly cross-functional role, and you'll help the whole company become more data-driven.\n 💼 Your Responsibilities 🧩 Analytics Engineering — the core of the role\n Model and transform data with dbt, following a clean staging → intermediate → marts architecture.\n Own data quality, reliability and observability: testing, monitoring, alerting on data issues, code reviews.\n Maintain the data catalog and governance so data stays discoverable, understood, trusted and well-documented.\n Build and maintain dashboards in Metabase that give teams clear, trustworthy visibility into their KPIs.\n ⚙️ Data Engineering — a necessary skill\n Maintain and scale our ingestion pipeli…",
-    "tags": [
-      "Research & Development",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-09-05T13:40:11.000Z",
-    "scrapedAt": "2026-09-05T17:06:44.212Z"
-  },
-  {
     "id": "arbeitnow:data-engineer-junior-schwerpunkt-datenpipelines-bonn-203853",
     "externalId": "data-engineer-junior-schwerpunkt-datenpipelines-bonn-203853",
     "source": "arbeitnow",
@@ -41,7 +23,7 @@
     ],
     "jobType": "Entry",
     "postedAt": "2026-09-05T11:09:48.000Z",
-    "scrapedAt": "2026-09-05T17:06:44.212Z"
+    "scrapedAt": "2026-09-05T19:52:43.832Z"
   },
   {
     "id": "arbeitnow:data-engineer-472202",
@@ -57,7 +39,7 @@
       "Technology"
     ],
     "postedAt": "2026-09-05T06:55:07.000Z",
-    "scrapedAt": "2026-09-05T17:06:44.212Z"
+    "scrapedAt": "2026-09-05T19:52:43.832Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-berlin-462279",
@@ -75,7 +57,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-05T05:40:04.000Z",
-    "scrapedAt": "2026-09-05T17:06:44.212Z"
+    "scrapedAt": "2026-09-05T19:52:43.832Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -91,7 +73,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-05T17:06:44.765Z"
+    "scrapedAt": "2026-09-05T19:52:44.460Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -107,7 +89,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-05T17:06:44.765Z"
+    "scrapedAt": "2026-09-05T19:52:44.460Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -123,7 +105,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-05T17:06:44.765Z"
+    "scrapedAt": "2026-09-05T19:52:44.460Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -139,7 +121,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-05T17:06:44.765Z"
+    "scrapedAt": "2026-09-05T19:52:44.460Z"
   },
   {
     "id": "remotive:2091097",
@@ -204,7 +186,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-09-05T17:06:44.032Z"
+    "scrapedAt": "2026-09-05T19:52:43.650Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -220,6 +202,22 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-09-05T17:06:44.765Z"
+    "scrapedAt": "2026-09-05T19:52:44.460Z"
+  },
+  {
+    "id": "greenhouse:instacart-8126023",
+    "externalId": "instacart:8126023",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer II, Finance",
+    "company": "Instacart",
+    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+    "remote": true,
+    "url": "https://instacart.careers/job/?gh_jid=8126023",
+    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-08-12T16:58:43.000Z",
+    "scrapedAt": "2026-09-05T19:52:44.460Z"
   }
 ]
