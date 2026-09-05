@@ -1,5 +1,23 @@
 [
   {
+    "id": "arbeitnow:senior-data-engineer-berlin-462279",
+    "externalId": "senior-data-engineer-berlin-462279",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer",
+    "company": "Liqid Lig",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/liqid-lig/senior-data-engineer-berlin-462279",
+    "description": "Your Role We are looking for a Senior Data Engineer (f/m/d) at LIQID, who will play a pivotal role in building and scaling data infrastructure that powers decision-making.\n You will design scalable, high-performance data pipelines, ensure data integrity, and drive efficient data processing across the organization. Working closely with our Head of Data, Analytics Engineers, and cross-functional teams, you will develop robust data architectures, enhance data security, and implement best practices that empower data-driven decision-making at scale.\n This is not a role where you preserve what already exists. It is a role where you build what comes next. As LIQID scales beyond €4 billion in assets under management, the demands on our data infrastructure are growing fast. You will have real ownership over how we meet that challenge, with the autonomy to propose solutions and the backing to ship them.\n   What will keep you challenged? Design, build, and optimize scalable data pipelines and storage solutions that ensure efficient, secure, and reliable data processing from source systems to our data warehouse\n Develop and manage ETL/ELT workflows to integrate data from multiple sources, ensuring seamless ingestion, transformation, and availability\n Implement and enforce data quality, validation, and monitoring processes to guarantee accuracy and integrity for analytics and operational use cases\n Ensure data security and compliance by applying best practices and industry standards for handling sensitive information\n Collaborate with analysts, product managers, and engineers to understand data needs and deliver solutions that unlock new insights\n Continuously evaluate and integrate new technologies to improve scalability, performance, and future-proof LIQID’s data infrastructure\n What you bring Over 5 years of professional experience in data engineering, data architecture, or a similar data related role\n Bachelor’s or Master’s degree in Computer Science, Data Engineering, Info…",
+    "tags": [
+      "Technology",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-09-05T05:40:04.000Z",
+    "scrapedAt": "2026-09-05T07:21:37.825Z"
+  },
+  {
     "id": "arbeitnow:senior-data-engineer-snowflake-munchen-375493",
     "externalId": "senior-data-engineer-snowflake-munchen-375493",
     "source": "arbeitnow",
@@ -32,7 +50,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-09-04T23:09:58.000Z",
-    "scrapedAt": "2026-09-05T02:45:43.066Z"
+    "scrapedAt": "2026-09-05T07:21:37.825Z"
   },
   {
     "id": "arbeitnow:data-platform-engineer-london-230787",
@@ -50,7 +68,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-04T21:40:13.000Z",
-    "scrapedAt": "2026-09-05T02:45:43.066Z"
+    "scrapedAt": "2026-09-05T07:21:37.825Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-london-147499",
@@ -68,7 +86,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-04T21:40:04.000Z",
-    "scrapedAt": "2026-09-05T02:45:43.066Z"
+    "scrapedAt": "2026-09-05T07:21:37.825Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -84,45 +102,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-05T02:45:43.534Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-platform-engineer-london-gb-220448",
-    "externalId": "senior-data-platform-engineer-london-gb-220448",
-    "source": "arbeitnow",
-    "title": "Senior Data Platform Engineer",
-    "company": "Octopus Energy Group",
-    "location": "London (GB)",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/senior-data-platform-engineer-london-gb-220448",
-    "description": "Help us make a big green dent in the universe. We're on a mission to drive the global renewable energy revolution, and we need many more people to help us make our vision a reality.\n Octopus Energy Generation (OEGEN) is a leader in sourcing, investing in, and managing a wide range of utility-scale renewable energy assets. As we continue to expand our investment base, we are dedicated to building a diverse team that reflects the communities we serve. Currently, we manage a global portfolio of over £8 billion in renewable energy assets.\n About the role:\n As part of our mission to drive smarter energy decisions, we are building a production-grade, governed platform that empowers our teams to deploy AI-enabled tools, agents, and data products safely and at scale .\n Sitting within the Systems and Data / Transformation team, you will turn existing platform architectures, governance specs, and prototype patterns into production-grade infrastructure . You’ll work alongside our Tech and Transformation Lead, data engineers, application builders, and business stakeholders across Finance, Asset Management, and Fund Operations .\n This is not a general DevOps or blank-page architecture role . The primary focus is designing and implementing enterprise-grade identity, access, and governance controls across human users, systems, and non-human agents .\n Our Tech & Ecosystem: Databricks, Lakebase, Unity Catalog, Entra ID / Azure Identity, Okta, ZScaler, GitHub Actions, MCP patterns, and Terraform .\n What you'll do\n Platform Engineering & CI/CD\n Build and maintain Infrastructure-as-Code (IaC) using Terraform across development, test, and production environments .\n Strengthen CI/CD practices in GitHub Actions, establishing repeatable deployment patterns, environment promotions, automated rollbacks, and release controls .\n Support architecture decisions by converting designs into maintainable, well-documented engineering patterns .\n Identity, Access & Security\n Design and implement fede…",
-    "tags": [
-      "Transformation and Technology",
-      "Full-time"
-    ],
-    "jobType": "Full-time",
-    "postedAt": "2026-09-04T18:24:54.000Z",
-    "scrapedAt": "2026-09-05T02:45:43.066Z"
-  },
-  {
-    "id": "arbeitnow:remote-senior-oracle-data-engineer-karlsruhe-428296",
-    "externalId": "remote-senior-oracle-data-engineer-karlsruhe-428296",
-    "source": "arbeitnow",
-    "title": "Senior Oracle Data Engineer (m/w/d)",
-    "company": "virtual7 GmbH",
-    "location": "Homeoffice",
-    "remote": true,
-    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-428296",
-    "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Finance.\n DEINE MISSION Als Senior Oracle Data Engineer (m/w/d) übernimmst du fachliche Verantwortung für anspruchsvolle Datenbanklösungen und gestaltest performante, sichere Anwendungen auf Basis von Oracle-Technologien. Du bringst deine Expertise in SQL, PL/SQL und Oracle Data Integrator ein, koordinierst das Entwicklerteam und sorgst mit sicherem Auftreten dafür, dass Projektleitung und Endkunde jederzeit bestens abgeholt sind.\n Deine Aufgaben:\n Entwicklung und Weiterentwicklung von Datenbanklösungen auf Basis von Oracle sowie SQL und PL/SQL\n Konzeption und Umsetzung von Integrationsprozessen mit Oracle Data Integrator (ODI)\n Übernahme fachlicher Verantwortung für Themen und Anforderungen im Projektkontext\n Aktive Unterstützung und Koordination des Entwicklerteams\n Zügige Einarbeitung in neue Technologien und Themenstellungen\n Nutzung von Jira und Confluence zur Planung, Dokumentation und Nachverfolgung der Entwicklungsarbeiten\n Sicherer Umgang mit Git und gängigen Entwicklungswerkzeugen wie Visual Studio Code\n Moderation, Kommunikation und adressatengerechte Vermittlung technischer Inhalte\n Sicheres Auftreten in Abstimmungen mit der Projektleitung und dem Endkunden\n DAS IST UNS WICHTIG Sehr gute Kenntnisse in Oracle-Datenbanken sowie SQL und PL/SQL\n Grundkenntnisse in Oracle Data Integrator (ODI)\n Erfahrung mit Jira und Confluence\n Sicherer Umgang mit Git und gängigen Entwicklungswerkzeugen, beispielsweise Visual Studio Code\n Fähigkeit zur Übernahme fachlicher Verantwortung\n Gute Moderations-, Kommunikations- und Präsentationsfähi…",
-    "tags": [
-      "Customer Cluster Finance",
-      "Remote",
-      "Experienced",
-      "fulltime permanent"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-09-04T17:30:34.000Z",
-    "scrapedAt": "2026-09-05T02:45:43.066Z"
+    "scrapedAt": "2026-09-05T07:22:11.511Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -138,7 +118,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-05T02:45:43.534Z"
+    "scrapedAt": "2026-09-05T07:22:11.511Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -154,7 +134,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-05T02:45:43.534Z"
+    "scrapedAt": "2026-09-05T07:22:11.511Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -170,7 +150,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-05T02:45:43.534Z"
+    "scrapedAt": "2026-09-05T07:22:11.511Z"
   },
   {
     "id": "remotive:2091097",
@@ -235,6 +215,22 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-09-05T02:45:42.996Z"
+    "scrapedAt": "2026-09-05T07:21:37.682Z"
+  },
+  {
+    "id": "greenhouse:instacart-8132846",
+    "externalId": "instacart:8132846",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer II, Finance",
+    "company": "Instacart",
+    "location": "United States - Remote",
+    "remote": true,
+    "url": "https://instacart.careers/job/?gh_jid=8132846",
+    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-08-17T16:40:40.000Z",
+    "scrapedAt": "2026-09-05T07:22:11.511Z"
   }
 ]
