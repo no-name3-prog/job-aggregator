@@ -13,23 +13,7 @@
       "Tech"
     ],
     "postedAt": "2026-09-06T08:55:07.000Z",
-    "scrapedAt": "2026-09-06T12:35:44.893Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-393721",
-    "externalId": "data-engineer-393721",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Nebius",
-    "location": "Unknown",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/nebius/data-engineer-393721",
-    "description": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p>\n<p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p>\n<p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p>\n<p>Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;D.</p></div><h3><strong><span data-contrast=\"auto\">The role</span></strong><span data-ccp-props=\"{}\">&nbsp;</span></h3>\n<p><span data-contrast=\"auto\">The Data Engineering team builds and operates the data platform that powers analytics, business intelligence, operational reporting, and data-driven products across Nebius. We ingest data from internal and external systems, develop reliable transformation pipelines and data models, and make trusted datasets available to business and product teams.<br><br>We are looking for a Senior Data Engineer to own substantial parts of our data platform and deliver complex data products end to end. You will turn ambiguous business needs into pragmatic technical solutions, make architecture and implementation trade-offs, and improve the reliability, scalability, and usability of our data ecosystem.<br><br>You will work closely with product, platform, and business teams, helping them use data effectively while ensuring that our systems remain maintainable and trustworthy as Nebius grows.</span></p>\n<p><strong><span data-contrast=\"auto\"><span data-ccp-charstyle=\"Strong\">Your responsibilities</span><span data-ccp-charstyle=\"…",
-    "tags": [
-      "Technology"
-    ],
-    "postedAt": "2026-09-05T23:55:03.000Z",
-    "scrapedAt": "2026-09-06T12:35:44.893Z"
+    "scrapedAt": "2026-09-06T17:29:35.344Z"
   },
   {
     "id": "arbeitnow:data-engineer-472202",
@@ -45,7 +29,7 @@
       "Technology"
     ],
     "postedAt": "2026-09-05T06:55:07.000Z",
-    "scrapedAt": "2026-09-06T12:35:44.893Z"
+    "scrapedAt": "2026-09-06T17:29:35.344Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -61,7 +45,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-06T12:35:45.441Z"
+    "scrapedAt": "2026-09-06T17:29:35.937Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -77,7 +61,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-06T12:35:45.441Z"
+    "scrapedAt": "2026-09-06T17:29:35.937Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -93,7 +77,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-06T12:35:45.441Z"
+    "scrapedAt": "2026-09-06T17:29:35.937Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -109,7 +93,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-06T12:35:45.441Z"
+    "scrapedAt": "2026-09-06T17:29:35.937Z"
   },
   {
     "id": "remotive:2091097",
@@ -174,7 +158,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-09-06T12:35:44.764Z"
+    "scrapedAt": "2026-09-06T17:29:35.208Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -190,7 +174,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-09-06T12:35:45.441Z"
+    "scrapedAt": "2026-09-06T17:29:35.937Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -206,6 +190,26 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-09-06T12:35:45.441Z"
+    "scrapedAt": "2026-09-06T17:29:35.937Z"
+  },
+  {
+    "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
+    "externalId": "spotify:204f6cd7-98a3-4360-87e3-8876adf087da",
+    "source": "lever",
+    "title": "Senior Data Engineer - Data Platform",
+    "company": "Spotify",
+    "location": "London",
+    "remote": false,
+    "url": "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da",
+    "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\nThe Data Platform team develops and maintains the infrastructure that supports Spotify’s data ecosystem. Within Data Platform, the Data Collection product area builds infrastructure that makes it easier to collect and consume data at scale. You’ll join a team focused on making user behaviour data seamless and reliable for data teams across Spotify.\n",
+    "tags": [
+      "Platform",
+      "Engineering",
+      "Permanent",
+      "hybrid"
+    ],
+    "jobType": "Permanent",
+    "postedAt": "2026-08-12T15:06:09.753Z",
+    "scrapedAt": "2026-09-06T17:32:50.908Z"
   }
 ]
