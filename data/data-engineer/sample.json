@@ -1,57 +1,19 @@
 [
   {
-    "id": "arbeitnow:lead-data-engineer-at-panora-backed-by-hexa-paris-158299",
-    "externalId": "lead-data-engineer-at-panora-backed-by-hexa-paris-158299",
+    "id": "arbeitnow:senior-data-platform-engineer-intelligent-platforms-all-genders-berlin-berlin-372321",
+    "externalId": "senior-data-platform-engineer-intelligent-platforms-all-genders-berlin-berlin-372321",
     "source": "arbeitnow",
-    "title": "Lead Data Engineer @Panora (backed by Hexa)",
-    "company": "Hexa",
-    "location": "Paris",
+    "title": "Senior Data Platform Engineer, Intelligent Platforms (all genders)",
+    "company": "hellofresh",
+    "location": "Berlin, Berlin",
     "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/hexa/lead-data-engineer-at-panora-backed-by-hexa-paris-158299",
-    "description": "About Panora Panora is building a suite of AI-powered agents for insurance brokers - a highly regulated and operationally complex industry.\n Our ambition is to become the AI Operating System for brokers in Europe : automating high-friction workflows while improving compliance, advisory quality, and client relationships.\n The product is already live with brokerage firms across France and Belgium, with AI assistants in production (quotation automation, contract comparison, coverage analysis, compliance checks, document generation…).\n Panora enables brokers to save hours every week, reduce analysis time by up to 70%, and focus on what truly matters: advising clients .\n Founded by Diane du Paty (ex-VC, operator) and Fabian Langlet (repeat founder, AI product engineer), Panora is backed by Hexa (Aircall, Spendesk, Front).\n We are entering a key phase of scaling and industrializing our AI platform .\n At Panora, AI is not a feature - it is the core product layer , deployed in real-world conditions with strong constraints on reliability, traceability, and compliance .\n Role We’re looking for a Founding Data Engineer to help build and scale the systems powering Panora’s AI products.\n Your work will sit at the intersection of:\n AI systems: LLMs, agentic workflows, evaluation pipelines, tracing and observability\n Data engineering: ingestion, normalization, enrichment, extraction and document-processing pipelines\n Internal datasets: building high-quality, structured insurance datasets from policies, quotes, underwriting questionnaires and business rules\n Product & backend engineering: designing robust APIs, data models and scalable services used directly in production\n Insurance expertise: translating real-world insurance workflows, contract language and decision rules into usable data systems\n As the third engineering hire, you'll work directly with Fabian (CTO & Co-founder) and Jeremy (Founding Software Engineer), with strong ownership and direct impact on both product and t…",
+    "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-data-platform-engineer-intelligent-platforms-all-genders-berlin-berlin-372321",
+    "description": "<h2>About the role</h2>\n<p>At HelloFresh, data is at the heart of everything we do — from the moment a customer places an order to the way we forecast demand, optimize our supply chain, and personalize experiences for millions of people. Making that data fast, reliable, and available is what our Data Platform makes possible.</p>\n<p>We are looking for a <strong>Senior Data Platform Engineer</strong> to join our <strong>Operational Data Platform</strong> team — the squad that ensures operational data is created, delivered, and shared downstream reliably, cost-efficiently, and with the quality guarantees that everything downstream depends on — so the analytics layer receives quality data, ready to be turned into governed assets. You will build the streaming, messaging, and self-service provisioning systems that hundreds of backend and data engineers rely on every day.</p>\n<p>This is a hands-on engineering role at the core of our platform. You'll own critical infrastructure, drive efficiency, and help define the \"golden path\" that makes it effortless for engineers across the company to store and stream their data — with governance and cost control built in from the start.</p>\n<h2>What you'll do</h2>\n<ul>\n<li><strong>Build and run our streaming and messaging platform.</strong> Own the systems that move data in real time and at scale — Kafka, Kafka Connect, Flink, and SQS — and keep them fast, resilient, and easy to build on.</li>\n<li><strong>Drive efficiency.</strong> Identify and act on opportunities to reduce the cost and complexity of the platform, and make efficiency a default rather than an afterthought.</li>\n<li><strong>Own the reliability of critical data paths.</strong> Keep the systems at the heart of the platform highly available, and continuously improve their resilience, observability, and operational maturity.</li>\n<li><strong>Enable self-service for operational data stores.</strong> Build and maintain the Terraform modules and tooling that let engineering…",
     "tags": [
-      "Panora",
-      "Full Time"
+      "Tech"
     ],
-    "jobType": "Full Time",
-    "postedAt": "2026-09-06T04:40:08.000Z",
-    "scrapedAt": "2026-09-06T07:34:38.321Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-h-f-paris-230381",
-    "externalId": "data-engineer-h-f-paris-230381",
-    "source": "arbeitnow",
-    "title": "Data Engineer H/F",
-    "company": "Alta Ares",
-    "location": "Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/data-engineer-h-f-paris-230381",
-    "description": "About Alta Ares\nAlta Ares is an air defense Neoprime. We build AI-guided interceptors to counter drones and cruise missiles, along with the software platform that powers them.\n Our customers are NATO-aligned militaries and defense institutions, and our systems are regularly deployed during live exercises and operational demonstrations across Europe, the Middle East, and Asia.\n Founded in 2024, we have grown to 90 people, raised over $60M, and increased revenue 40× this year. We are now entering a new phase of international expansion, industrial scaling, fundraising, and product development.\n Role & Mission\n Data Pipelines & Orchestration\nDesign and maintain batch and near real-time data pipelines across multiple sources (APIs, files, sensors, partners). Orchestrate workflows using Prefect (or similar tools) and ensure reliability, scalability, and observability of data workflows.\n Data Infrastructure (GCP)\nDeploy and operate data pipelines on GCP (Compute Engine, Cloud Run, Cloud SQL, GCS). Manage data flows between object storage and relational databases, while optimizing performance, cost, and monitoring of production workloads.\n Data Modeling & Storage\nDesign and implement PostgreSQL schemas adapted to analytical and ML use cases. Define dataset versioning strategies and ensure data quality, consistency, and traceability across systems.\n ML Collaboration & MLOps Integration\nPrepare and expose datasets for ML training pipelines. Guarantee reproducibility of datasets and integrate data pipelines into broader ML workflows and MLOps systems.\n Security & Governance\nImplement access control mechanisms and manage data permissions. Handle data classification and enforce security standards aligned with defense constraints.\n Requirements Candidate profile\nYou are a pragmatic Data Engineer with a strong focus on building reliable data systems in production. You are comfortable working with complex, high-volume datasets (including images, videos, and logs) and collaborating…",
-    "tags": [
-      "Software",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-09-06T04:40:05.000Z",
-    "scrapedAt": "2026-09-06T07:34:38.321Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-paris-198969",
-    "externalId": "data-engineer-paris-198969",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Odaseva",
-    "location": "Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/odaseva/data-engineer-paris-198969",
-    "description": "Since 2012 Odaseva has helped global enterprises secure and manage their most valuable asset: data.\n The Odaseva EnterpriseData Platform secures and manages Salesforce data, ensuring data resilience, regulatory compliance, and unlocking the value of data. It’s built to solve the complex challenges of large-scale global enterprises.\n We’re a fast-growing scale-up with offices in San Francisco, Paris, Sydney, London, Kuala Lumpur, Singapore, and more.\n We serve a global customer base including Fortune 500 companies, government organizations, and NGOs supporting more than 100 million Salesforce users worldwide.\n At Odaseva, our values, Trust, Service, Commitment, Excellence, Kaizen, and One Team, define the environment we foster for our employees to thrive and succeed.\n Join Odaseva ’s R&D team and help shape the future of our data platform.\n We’re a SaaS company specializing in secure data management around Salesforce environments.\n You’ll design, build, and optimize scalable data pipelines and help kick-start our first AI use cases.\n Key Responsibilities\n Data Pipeline Development: Design, build, and maintain ingestion/processing pipelines at scale using Python/SQL and Spark; operate within a lakehouse stack (Apache Iceberg or Delta Lake).\n Databricks & Snowflake Engineering: Implement and optimize workflows on Databricks (Jobs, Workflows, Delta) and/or Snowflake (Warehouses, Tasks, Streams) and/or native cloud provider solutions (AWS / AZURE).\n Platform Optimization: Improve performance, reliability, and cost on AWS (S3, Redshift, Athena/Glue, Lambda), with strong observability and IaC practices.\n Secure Data Management: Apply security-by-design, data governance, and compliance best practices across storage, compute, and sharing layers.\n AI Use Case Enablement: Partner with Product team and R&D team to prepare data for initial AI/ML use cases (feature pipelines, data quality, lineage).\n Data Sharing & Integration: Enable secure, efficient data access for customers…",
-    "tags": [
-      "Engineering",
-      "Full time"
-    ],
-    "jobType": "Full time",
-    "postedAt": "2026-09-06T04:04:29.000Z",
-    "scrapedAt": "2026-09-06T07:34:38.321Z"
+    "postedAt": "2026-09-06T08:55:07.000Z",
+    "scrapedAt": "2026-09-06T12:35:44.893Z"
   },
   {
     "id": "arbeitnow:data-engineer-393721",
@@ -67,7 +29,7 @@
       "Technology"
     ],
     "postedAt": "2026-09-05T23:55:03.000Z",
-    "scrapedAt": "2026-09-06T07:34:38.321Z"
+    "scrapedAt": "2026-09-06T12:35:44.893Z"
   },
   {
     "id": "arbeitnow:data-engineer-472202",
@@ -83,7 +45,7 @@
       "Technology"
     ],
     "postedAt": "2026-09-05T06:55:07.000Z",
-    "scrapedAt": "2026-09-06T07:34:38.321Z"
+    "scrapedAt": "2026-09-06T12:35:44.893Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -99,7 +61,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-06T07:34:38.853Z"
+    "scrapedAt": "2026-09-06T12:35:45.441Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -115,7 +77,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-06T07:34:38.853Z"
+    "scrapedAt": "2026-09-06T12:35:45.441Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -131,7 +93,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-06T07:34:38.853Z"
+    "scrapedAt": "2026-09-06T12:35:45.441Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -147,7 +109,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-06T07:34:38.853Z"
+    "scrapedAt": "2026-09-06T12:35:45.441Z"
   },
   {
     "id": "remotive:2091097",
@@ -212,6 +174,38 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-09-06T07:34:38.205Z"
+    "scrapedAt": "2026-09-06T12:35:44.764Z"
+  },
+  {
+    "id": "greenhouse:instacart-8132846",
+    "externalId": "instacart:8132846",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer II, Finance",
+    "company": "Instacart",
+    "location": "United States - Remote",
+    "remote": true,
+    "url": "https://instacart.careers/job/?gh_jid=8132846",
+    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-08-17T16:40:40.000Z",
+    "scrapedAt": "2026-09-06T12:35:45.441Z"
+  },
+  {
+    "id": "greenhouse:instacart-8126023",
+    "externalId": "instacart:8126023",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer II, Finance",
+    "company": "Instacart",
+    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+    "remote": true,
+    "url": "https://instacart.careers/job/?gh_jid=8126023",
+    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-08-12T16:58:43.000Z",
+    "scrapedAt": "2026-09-06T12:35:45.441Z"
   }
 ]
