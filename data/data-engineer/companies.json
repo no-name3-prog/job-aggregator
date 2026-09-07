@@ -1,33 +1,5 @@
 [
   {
-    "company": "Autodesk",
-    "jobCount": 6,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Bengaluru, IND",
-      "Kraków, POL",
-      "Toronto, ON, CAN",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Data Engineer with AI",
-      "Principal Data Engineer, User Success",
-      "Principal Data Engineer, User Success (Agentic Experiences)",
-      "Principal Data Engineer -General application",
-      "Data Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Data-Engineer_26WD98492",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
-    ]
-  },
-  {
     "company": "Adobe",
     "jobCount": 5,
     "sources": [
@@ -56,6 +28,33 @@
     ]
   },
   {
+    "company": "Autodesk",
+    "jobCount": 5,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Kraków, POL",
+      "Toronto, ON, CAN",
+      "2 Locations",
+      "Bengaluru, IND"
+    ],
+    "sampleTitles": [
+      "Data Engineer with AI",
+      "Principal Data Engineer, User Success",
+      "Principal Data Engineer, User Success (Agentic Experiences)",
+      "Principal Data Engineer -General application",
+      "Data Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Data-Analytics-Engineer_26WD100390-1"
+    ]
+  },
+  {
     "company": "Coinbase",
     "jobCount": 5,
     "sources": [
@@ -81,22 +80,25 @@
   },
   {
     "company": "Salesforce",
-    "jobCount": 4,
+    "jobCount": 5,
     "sources": [
       "workday"
     ],
     "locations": [
+      "India - Hyderabad",
       "California - San Francisco",
       "3 Locations",
       "Mexico - Mexico City"
     ],
     "sampleTitles": [
+      "Sr. Data Engineer (Python & SQL exp. mandatory)",
       "Principal Data Platform Engineer",
       "Sr. Data Engineer,  Enterprise - Slack",
       "Senior Data Engineer",
       "PMTS - Principal Agentic Data Engineer"
     ],
     "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Sr-Data-Engineer--Python---SQL-exp-mandatory-_JR358536",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Data-Platform-Engineer_JR354027",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Sr-Data-Engineer---Enterprise---Slack_JR341884-1",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
@@ -320,6 +322,22 @@
     ]
   },
   {
+    "company": "enua Pharma GmbH",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Cologne"
+    ],
+    "sampleTitles": [
+      "Lead Data Engineer - Data Platform & AI (w/m/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/enua-pharma-gmbh/lead-data-engineer-data-platform-ai-cologne-453793"
+    ]
+  },
+  {
     "company": "Lemon.io",
     "jobCount": 1,
     "sources": [
@@ -445,22 +463,6 @@
     ],
     "officialUrls": [
       "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da"
-    ]
-  },
-  {
-    "company": "Trusteq Gmbh",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "München"
-    ],
-    "sampleTitles": [
-      "Data Platform Engineer Working Student (m/w/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-56537"
     ]
   }
 ]
