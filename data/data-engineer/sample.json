@@ -1,5 +1,56 @@
 [
   {
+    "id": "greenhouse:coinbase-8175471",
+    "externalId": "coinbase:8175471",
+    "source": "greenhouse",
+    "title": "Analytics Engineer Intern",
+    "company": "Coinbase",
+    "location": "Hybrid - San Francisco, CA",
+    "remote": false,
+    "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n This is a 12-week internship during summer 2027.\n You'll join the Analytics Engineering team within Platform, which builds and maintains the trusted data infrastructure that powers decision-making across Coinbase. As an Analytics Engineer Intern, you'll model complex data, build scalable pipelines, and deliver insights that help teams across the company unlock the full potential of our data. You will gain hands-on experience building production data systems at scale, mentorship from senior analytics engineers, and exposure to how data powers decision-making across a publicly traded crypto-native company.\n What you'll do:\n Build and maintain dimensional data models that transform raw data into clean, reliable datasets used by analysts, data scientists, and product teams across the organization.\n Develop data pipelines using SQL, ensuring data quality, freshness, and documentation meet production standards.\n Partner with cross-functional stakeholders to understand their data needs and deliver well-structured datasets or dashboards that enable self-serve analytics.\n Leverage generative AI tools to streamline data development, modeling, and documentation workflows.\n Investigate and resolve data quality issues, implementing tests and monitors that catch problems before they reach downstream consumers.\n Required Skills and Experience:\n Currently pursuing a degree in computer science…",
+    "tags": [
+      "Internships & Emerging Talent Positions"
+    ],
+    "postedAt": "2026-09-08T22:20:56.000Z",
+    "scrapedAt": "2026-09-08T23:10:00.134Z"
+  },
+  {
+    "id": "greenhouse:coinbase-8175459",
+    "externalId": "coinbase:8175459",
+    "source": "greenhouse",
+    "title": "Data Engineer Intern",
+    "company": "Coinbase",
+    "location": "Hybrid - San Francisco, CA",
+    "remote": false,
+    "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n This is a 12-week internship during summer 2027.\n As a Data Engineer Intern within the Platform product group, you'll partner with analytics engineering to build and maintain the data pipelines and infrastructure that power insights across Coinbase. You'll work alongside senior engineers and cross-functional partners in product and engineering to ensure data accuracy, scalability, and accessibility for analytical and machine learning use cases.\n What you'll do:\n Build and maintain data pipelines that ensure data integrity and accessibility for analytics and machine learning workloads\n Support the development of scalable data infrastructure using Python and cloud-based technologies\n Integrate and manage data from multiple sources, including internal systems and external APIs\n Contribute to analytical deep dives with senior team members, translating findings into clear documentation and recommendations\n Learn and apply data engineering best practices including data governance, security, and performance optimization\n Required Skills and Experience:\n Completed or in-progress coursework in Computer Science, Data Engineering, or equivalent experience with demonstrated programming proficiency in Python, including data structures and algorithms\n Hands-on experience writing SQL for data analysis and working with relational database concepts\n Familiarity with cloud platforms (AWS, GCP,…",
+    "tags": [
+      "Internships & Emerging Talent Positions"
+    ],
+    "postedAt": "2026-09-08T22:19:13.000Z",
+    "scrapedAt": "2026-09-08T23:10:00.134Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-paris-291600",
+    "externalId": "senior-data-engineer-paris-291600",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer",
+    "company": "PUR",
+    "location": "Paris, Île-de-France, France",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/pur/senior-data-engineer-paris-291600",
+    "description": "Job title: Senior Data Engineer\n Department: Data team\n Reports to: Lead Data Engineer\n Location: Paris, France\n Contract: Permanent, local and full-time\n Starting date: ASAP 2026\n PUR Description\n PUR is a global B Corp helping companies act for climate, nature and people through nature-based projects.\n Since 2008, we have worked with leading companies to restore ecosystems, support farmers and communities, and build more resilient supply chains. Our projects include agroforestry, regenerative agriculture, reforestation, and ecosystem restoration, across more than 30 countries.\n We work closely with local partners, farmers, cooperatives, NGOs and businesses to design projects that are adapted to each landscape and community. This local approach is key to creating long-term impact — for the climate, biodiversity, soil, water, and livelihoods.\n Today, PUR has more than 200 team members across 16 countries, with key offices in Paris and Toronto. As the world faces growing climate and biodiversity challenges, PUR is helping global companies move from ambition to action.\n About the role\n As a Senior Data Engineer, you will design, develop, and maintain scalable data pipelines and data processing solutions that power analytics, reporting, and data-driven decision making. You will play a key role in transforming raw project data into reliable, high-quality datasets through robust ETL processes, modern data architectures, and Python-based engineering practices.\n Working closely with business and technical stakeholders, you will ensure that data is accessible, trustworthy, and aligned with analytical requirements while contributing to the continuous improvement of our data platform and cloud-based ecosystem.\n Your responsibilities will be, but not limited to:\n Design, develop, and maintain scalable ETL/ELT pipelines using Python.\n Build and optimize data ingestion, transformation, and validation processes for large datasets.\n Design and maintain data models supporting repo…",
+    "tags": [
+      "Data",
+      "Manager",
+      "fulltime permanent"
+    ],
+    "jobType": "Manager",
+    "postedAt": "2026-09-08T19:30:33.000Z",
+    "scrapedAt": "2026-09-08T23:09:59.511Z"
+  },
+  {
     "id": "jobicy:152793",
     "externalId": "152793",
     "source": "jobicy",
@@ -16,33 +67,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-09-08T14:25:11.000Z",
-    "scrapedAt": "2026-09-08T18:17:51.106Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-berlin-hq-96911",
-    "externalId": "data-engineer-berlin-hq-96911",
-    "source": "arbeitnow",
-    "title": "Data Engineer (f/m/d)",
-    "company": "Climate",
-    "location": "Berlin HQ",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/climate/data-engineer-berlin-hq-96911",
-    "description": "Job description We are currently seeking a  Data Engineer  for our international and diverse Climate Policy Team (CPT). The team is engaged in various projects on climate change mitigation, in particular on energy system transformation, the 1.5°C global warming limit and the evaluation of national climate action. This includes flagship projects, such as the Climate Action Tracker and the National Pathways Explorer, for which data is being processed and analysed in-house and then published on the respective project websites.\n As a  Data Engineer  you will play a critical role in designing, building and maintaining our data infrastructure, ensuring efficient and accurate data processing, storage and retrieval.\n Your Responsibilities\n You will help to build and maintain a data platform for advanced analytics and climate modelling, spanning data science and data engineering work.\n Contribute to the full lifecycle of data platform development from design and deployment to continuous improvement\n Strengthen data pipelines reliability, observability, and automation through code and tooling improvements.\n Collaborate with data scientists and researchers to define data processing requirements.\n Support AI/LLM initiatives across the organisation from a data and infrastructure perspective.\n Help develop backend data services and APIs that expose curated datasets to internal and external consumers and applications.\n Monitor, anticipate, and resolve operational or data quality issues in data pipelines. Ensure data reliability.\n Relevant Tech Skills\n Please note that this list is non exhaustive and that if you don’t have experience on some of those you should still apply.\n Required:\n Py thon\n SQL\n PostgreSQL\n Object storage (like S3/Minio)\n Containers (like Docker)\n Git\n CI/CD  princip les\n Nice to have:\n Pandas/Polar/DuckDB or other framework for data processing\n Conda\n Monitoring tools (like Prometheus, Grafana and Elasticsearch)\n Infrastructure as code tool (like Terraform or…",
-    "tags": [
-      "Data Engineer",
-      "nonprofit",
-      "NGO",
-      "Climate Policy",
-      "Python",
-      "Data Platform",
-      "SQL",
-      "Experienced",
-      "Fixed term",
-      "Full time"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-09-08T14:09:03.000Z",
-    "scrapedAt": "2026-09-08T18:17:51.030Z"
+    "scrapedAt": "2026-09-08T23:09:59.606Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -58,7 +83,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-08T18:17:51.625Z"
+    "scrapedAt": "2026-09-08T23:10:00.134Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -74,7 +99,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-08T18:17:51.625Z"
+    "scrapedAt": "2026-09-08T23:10:00.134Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -90,7 +115,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-08T18:17:51.625Z"
+    "scrapedAt": "2026-09-08T23:10:00.134Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -106,7 +131,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-08T18:17:51.625Z"
+    "scrapedAt": "2026-09-08T23:10:00.134Z"
   },
   {
     "id": "remotive:2091097",
@@ -171,7 +196,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-09-08T18:17:50.759Z"
+    "scrapedAt": "2026-09-08T23:09:59.311Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -187,42 +212,6 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-09-08T18:17:51.625Z"
-  },
-  {
-    "id": "greenhouse:instacart-8126023",
-    "externalId": "instacart:8126023",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer II, Finance",
-    "company": "Instacart",
-    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-    "remote": true,
-    "url": "https://instacart.careers/job/?gh_jid=8126023",
-    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
-    "tags": [
-      "Data"
-    ],
-    "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-09-08T18:17:51.625Z"
-  },
-  {
-    "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
-    "externalId": "spotify:204f6cd7-98a3-4360-87e3-8876adf087da",
-    "source": "lever",
-    "title": "Senior Data Engineer - Data Platform",
-    "company": "Spotify",
-    "location": "London",
-    "remote": false,
-    "url": "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da",
-    "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\nThe Data Platform team develops and maintains the infrastructure that supports Spotify’s data ecosystem. Within Data Platform, the Data Collection product area builds infrastructure that makes it easier to collect and consume data at scale. You’ll join a team focused on making user behaviour data seamless and reliable for data teams across Spotify.\n",
-    "tags": [
-      "Platform",
-      "Engineering",
-      "Permanent",
-      "hybrid"
-    ],
-    "jobType": "Permanent",
-    "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-09-08T18:21:38.751Z"
+    "scrapedAt": "2026-09-08T23:10:00.134Z"
   }
 ]
