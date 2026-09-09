@@ -111,7 +111,7 @@
   },
   {
     "company": "Anthropic",
-    "jobCount": 3,
+    "jobCount": 4,
     "sources": [
       "greenhouse"
     ],
@@ -121,11 +121,13 @@
       "San Francisco, CA | New York City, NY | Seattle, WA"
     ],
     "sampleTitles": [
+      "Data Engineer, GTM",
       "Data Engineer, Safeguards",
       "Data Infrastructure Engineer, Pre-training",
       "Data Engineer"
     ],
     "officialUrls": [
+      "https://job-boards.greenhouse.io/anthropic/jobs/5418610008",
       "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
       "https://job-boards.greenhouse.io/anthropic/jobs/4973067008",
       "https://job-boards.greenhouse.io/anthropic/jobs/4956672008"
@@ -339,6 +341,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/discord/jobs/8691572002"
+    ]
+  },
+  {
+    "company": "Eraneos",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Hamburg, München, Düsseldorf, remote"
+    ],
+    "sampleTitles": [
+      "Data Engineer (all genders)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-338828"
     ]
   },
   {

@@ -1,5 +1,53 @@
 [
   {
+    "id": "greenhouse:anthropic-5418610008",
+    "externalId": "anthropic:5418610008",
+    "source": "greenhouse",
+    "title": "Data Engineer, GTM",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418610008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the Role\n As a Data Engineer on the Data Science & Analytics team, you will build the data foundation for Anthropic’s quote-to-cash lifecycle: the path a deal takes from opportunity through revenue. You will design the canonical data models so that Sales, Deal Desk, Order Management, Revenue Operations and Finance work from one governed, auditable definition of what was sold, on what terms, and where each deal stands. You will partner closely with DS&A and with GTM and Finance systems teams who own Salesforce, CPQ and billing to make quote-to-cash data reliable, well-modeled and self-serve as our business scales.\n Responsibilities\n Understand the data needs of Deal Desk, Order Management, Revenue Operations, Finance and Sales systems teams, and translate them into technical requirements\n Design, build and own data models that transform raw Salesforce, CPQ, and billing data into canonical datasets\n Establish high data integrity standards and SLAs to ensure timely, accurate delivery of data\n Partner with Salesforce, CPQ and billing engineers on upstream schema changes, new fields and ingestion so the warehouse faithfully mirrors the systems of record\n Build foundational data products, dashboards and tools to enable self-serve analytics to scale across GTM teams\n Influence stakeholder roadmaps from a data perspective, and become the expert on Anthropic’s GTM data models and architecture\n You might be a good fit if you have\n 5+ years of experience as a Data Engineer, Analytics Engineer or in a similar Data Science & Analytics role, ideally partnering with GTM, Revenue Operations or Finance teams.\n A passion for the company's miss…",
+    "tags": [
+      "Data Science & Analytics"
+    ],
+    "postedAt": "2026-09-09T02:30:44.000Z",
+    "scrapedAt": "2026-09-09T02:52:26.028Z"
+  },
+  {
+    "id": "arbeitnow:remote-data-engineer-all-genders-338828",
+    "externalId": "remote-data-engineer-all-genders-338828",
+    "source": "arbeitnow",
+    "title": "Data Engineer (all genders)",
+    "company": "Eraneos",
+    "location": "Hamburg, München, Düsseldorf, remote",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-338828",
+    "description": "What you can expect from us We’re a high‑energy cloud- and data engineering team looking for like-minded, motivated tech builders. We are driven by ownership and business outcomes.\nAs the analytics unit within a global management consultancy, we turn data-driven strategies into production systems. Our clients are DAX and Fortune Global 500 leaders who trust us for our expertise across data platforms, big data and cloud engineering.\nYou’ll join an international environment with agile squads and a boutique spirit with room to experiment and grow, paired with above‑market compensation and an attractive benefits package.\n What you’ll do as part of our cloud- and data engineering team:\n Take ownership for projects end to end: From scoping to stakeholder alignment and the delivery of measurable outcomes Design data architectures for batch and streaming workloads, both at small and big data scales Provision and manage the underlying cloud infrastructure to support those architectures on providers such as AWS,  Azure  or GCP Building Python ETL/ELT pipelines, orchestrated with Airflow,  Dagster , or Prefect. Work with data lake technologies and  optimize  (OLAP) data ware-/ lakehouses Model and store data across SQL and NoSQL databases, as well as  optimizing  performance and costs Create web APIs with popular Python frameworks (e.g., FastAPI and Flask) and describe them using standards like OpenAPI /Swagger Automate deployments using Infrastructure-as-Code and container technologies such as Docker, Kubernetes or OpenShift\n Who you are A passionate data engineer who loves being at the forefront of modern, AI-driven technology, but also cares about the engineering craftmanship. Relevant hands-on experience with a cloud hyperscaler (preferably AWS, Azure or GCP). Preferably experience building production-grade software. Python development with idiomatic and well-tested code. Skilled in performance tuning and optimization of relational databases (e.g., through indexing, shard…",
+    "tags": [
+      "Data Engineering",
+      "Cloud Engineering",
+      "Snowflake",
+      "Databricks",
+      "ETL",
+      "Python",
+      "Azure",
+      "AWS",
+      "GCP",
+      "Data Warehouse",
+      "ELT",
+      "SQL",
+      "Consutling",
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-08T23:09:28.000Z",
+    "scrapedAt": "2026-09-09T02:52:25.365Z"
+  },
+  {
     "id": "greenhouse:coinbase-8175471",
     "externalId": "coinbase:8175471",
     "source": "greenhouse",
@@ -13,7 +61,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-08T23:10:00.134Z"
+    "scrapedAt": "2026-09-09T02:52:26.028Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -29,7 +77,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-08T23:10:00.134Z"
+    "scrapedAt": "2026-09-09T02:52:26.028Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-paris-291600",
@@ -48,7 +96,7 @@
     ],
     "jobType": "Manager",
     "postedAt": "2026-09-08T19:30:33.000Z",
-    "scrapedAt": "2026-09-08T23:09:59.511Z"
+    "scrapedAt": "2026-09-09T02:52:25.365Z"
   },
   {
     "id": "jobicy:152793",
@@ -67,7 +115,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-09-08T14:25:11.000Z",
-    "scrapedAt": "2026-09-08T23:09:59.606Z"
+    "scrapedAt": "2026-09-09T02:52:25.573Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -83,7 +131,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-08T23:10:00.134Z"
+    "scrapedAt": "2026-09-09T02:52:26.028Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -99,7 +147,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-08T23:10:00.134Z"
+    "scrapedAt": "2026-09-09T02:52:26.028Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -115,7 +163,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-08T23:10:00.134Z"
+    "scrapedAt": "2026-09-09T02:52:26.028Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -131,87 +179,6 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-08T23:10:00.134Z"
-  },
-  {
-    "id": "remotive:2091097",
-    "externalId": "2091097",
-    "source": "remotive",
-    "title": "Senior Data Engineer",
-    "company": "Lemon.io",
-    "companyLogo": "https://remotive.com/job/2091097/logo",
-    "location": "LATAM, Europe, USA, Canada, APAC",
-    "remote": true,
-    "url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
-    "description": "Are you a talented Senior Data Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.\n What we offer:\n The rate depends on your skills and experience. We've already paid out over $11M to our engineers.\n No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.\n We'll manually find the best project for you according to your skills and preferences.\n Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.\n We respect your seniority so you can expect no micromanagement or screen trackers.\n Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?\n We will support you from the time you submit the application throughout all cooperation stages.\n Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.\n Through our community, we will connect you with the best developers from more than 75 countries.\n We have several different roles for Data Engineers — please check the details if you're interested.\n Requirements — Data Engineers:\n 5+ years of commercial experience as a Data Engineer\n 2+ years of commercial experience with Azure DevOps is a must\n 2+ years of commercial experience with Databricks\n 2+ years of experience with DBT is required\n Experience with Airflow is a plus\n Requirements — Data Engineers:\n 4+ years of commercial experience as a Data Engineer\n 3+ years of experience with Apache Airflow and 2+ years of experience with Snowflake\n 3+ years of experience with Python and 1+ year with SQL\n Experience with AWS/GCP/Microsoft Azure/Snowflake is a must\n Strong technical skills: as a Senior Data Engineer, you are expected to be able to create projects from scratch and have a deep under…",
-    "tags": [
-      "Software Development",
-      ".Net",
-      "android",
-      "apache",
-      "AWS",
-      "azure",
-      "C",
-      "C#",
-      "C++",
-      "data science",
-      "golang",
-      "ios",
-      "java",
-      "javascript",
-      "node.js",
-      "php",
-      "python",
-      "react",
-      "ruby/rails",
-      "scala",
-      "shopify",
-      "sql",
-      "swift",
-      "UI/UX",
-      "wordpress",
-      "blockchain",
-      "AI/ML",
-      "automation",
-      "project management",
-      "react native",
-      "rust",
-      "product management",
-      "unity",
-      "electron",
-      "spring",
-      "laravel",
-      "Ethereum",
-      "graphic design",
-      "Typescript ",
-      "angular ",
-      "GCP",
-      "Snowflake",
-      "Site Reliability",
-      "Symfony",
-      "startup",
-      "marketplace",
-      "next.js",
-      "flutter"
-    ],
-    "jobType": "full_time",
-    "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-09-08T23:09:59.311Z"
-  },
-  {
-    "id": "greenhouse:instacart-8132846",
-    "externalId": "instacart:8132846",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer II, Finance",
-    "company": "Instacart",
-    "location": "United States - Remote",
-    "remote": true,
-    "url": "https://instacart.careers/job/?gh_jid=8132846",
-    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
-    "tags": [
-      "Data"
-    ],
-    "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-09-08T23:10:00.134Z"
+    "scrapedAt": "2026-09-09T02:52:26.028Z"
   }
 ]
