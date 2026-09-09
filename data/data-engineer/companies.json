@@ -151,6 +151,27 @@
     ]
   },
   {
+    "company": "Workday",
+    "jobCount": 3,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Ireland, Dublin",
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer, Cybersecurity",
+      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
+      "Data Platform Engineer - Cybersecurity"
+    ],
+    "officialUrls": [
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Cybersecurity-Data-Engineer_JR-0108815",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
+    ]
+  },
+  {
     "company": "Aircall",
     "jobCount": 2,
     "sources": [
@@ -245,24 +266,6 @@
     ]
   },
   {
-    "company": "Workday",
-    "jobCount": 2,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Ireland, Dublin"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer, Cybersecurity",
-      "Data Platform Engineer - Cybersecurity"
-    ],
-    "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Cybersecurity-Data-Engineer_JR-0108815",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
-    ]
-  },
-  {
     "company": "Affirm",
     "jobCount": 1,
     "sources": [
@@ -295,19 +298,19 @@
     ]
   },
   {
-    "company": "ANGEHEUERT GmbH Personalberatung",
+    "company": "Allica Bank",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Berlin"
+      "London Office"
     ],
     "sampleTitles": [
-      "Data Engineer (m/w/d)"
+      "Lead Analytics Engineer"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh-personalberatung/data-engineer-berlin-370280"
+      "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/lead-analytics-engineer-london-283935"
     ]
   },
   {
@@ -359,22 +362,6 @@
     ]
   },
   {
-    "company": "JobRad Loop",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "München"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer (m/w/d) – Snowflake"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-353033"
-    ]
-  },
-  {
     "company": "Lemon.io",
     "jobCount": 1,
     "sources": [
@@ -404,6 +391,22 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
+    ]
+  },
+  {
+    "company": "LiveScore Group",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London, England, United Kingdom"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/livescore-group/senior-data-engineer-london-496047"
     ]
   },
   {
@@ -455,19 +458,19 @@
     ]
   },
   {
-    "company": "OLR Holdings Ltd trading as DFYNE",
+    "company": "Octopus Energy Group",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Uddingston"
+      "Berlin (DE)"
     ],
     "sampleTitles": [
-      "Senior Data Engineer"
+      "Data Engineer Mid-Level (m/w/d)"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/olr-holdings-ltd-trading-as-dfyne/senior-data-engineer-uddingston-27425"
+      "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/data-engineer-mid-level-berlin-de-63464"
     ]
   },
   {
@@ -532,22 +535,6 @@
     ],
     "officialUrls": [
       "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da"
-    ]
-  },
-  {
-    "company": "Trainline",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Embedded Data Engineer - ML"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/trainline/embedded-data-engineer-ml-london-455252"
     ]
   }
 ]
