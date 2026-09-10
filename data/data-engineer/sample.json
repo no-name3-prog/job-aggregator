@@ -1,5 +1,21 @@
 [
   {
+    "id": "arbeitnow:data-engineer-uk-239308",
+    "externalId": "data-engineer-uk-239308",
+    "source": "arbeitnow",
+    "title": "Data Engineer- UK",
+    "company": "Coreview",
+    "location": "Unknown",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/coreview/data-engineer-uk-239308",
+    "description": "<div class=\"content-intro\"><p><strong><span data-contrast=\"auto\">About&nbsp;CoreView </span></strong><span data-contrast=\"auto\"> </span>&nbsp;<br></p>\n<p><span data-contrast=\"none\">CoreView is the global leader in Microsoft 365 (M365) tenant resilience, serving over 23 million users worldwide. We empower the world’s leading organizations to master the complexity of Microsoft M365.&nbsp;&nbsp;Through robust security and precise governance, we help ensure that our client’s environments stay cyber-resilient and productive, no matter how complex they are.&nbsp;</span>&nbsp;<br>&nbsp;<br><span data-contrast=\"none\">Our unified, cloud-native platform delivers powerful automation, rapid value, and end-to-end visibility across the entire M365 ecosystem. Backed by world-class support and a collaborative, innovative culture,&nbsp;CoreView&nbsp;is a place where your ideas matter, and your work truly&nbsp;impacts&nbsp;global enterprises.&nbsp;</span><span data-ccp-props=\"{}\">&nbsp;</span></p></div><p><strong>Job Summary</strong></p>\n<p>This role sits in Operations. You'll report to the Data Analyst Manager helping establish our data practice, including documented pipelines, governed metric definitions, and an established way for other departments to ask for data without it becoming ad hoc, bespoke work every time. In addition, CoreView is improving how we understand product telemetry, platform product usage, licence utilisation and adoption trends.&nbsp; You will work across business functions and take ownership of CoreView's customer usage and adoption analytics and turn them into a production-grade, reliable system, then help scope and build the next set of metrics and signals on top of them. You'll work primarily in Databricks (Unity Catalog, Spark Declarative Pipelines), using SQL and Python day to day, and you'll be expected to use AI-assisted development (Cursor, Claude, or equivalent) as a normal part of how you work.</p>\n<p><strong>Job Responsibilities</strong></p>\n<ul>…",
+    "tags": [
+      "RevOps"
+    ],
+    "postedAt": "2026-09-10T18:55:04.000Z",
+    "scrapedAt": "2026-09-10T22:55:31.375Z"
+  },
+  {
     "id": "arbeitnow:senior-data-engineer-berlin-berlin-131723",
     "externalId": "senior-data-engineer-berlin-berlin-131723",
     "source": "arbeitnow",
@@ -13,7 +29,7 @@
       "Data Language"
     ],
     "postedAt": "2026-09-10T14:55:11.000Z",
-    "scrapedAt": "2026-09-10T18:02:40.652Z"
+    "scrapedAt": "2026-09-10T22:55:31.375Z"
   },
   {
     "id": "arbeitnow:head-of-data-engineering-manchester-100166",
@@ -27,7 +43,7 @@
     "description": "Role: Head of Data Engineering\n Location: Manchester based office – Hybrid working\n Package: £90k OTE\n PHMG is continuing to develop and mature its data capability, focusing on modernising our data platform and enhancing the way we work. This creates further opportunities to leverage data more effectively, allowing us to better serve our customers and colleagues. As part of this continued development, we are looking to strengthen our Data Engineering capability and maximise the value from the wealth of data held across the organisation.\n To support this vision, we are seeking a Head of Data Engineering. This pivotal role will lead an established Data Engineering team, supporting their development while strengthening engineering practices, technical standards and ways of working across the function. The successful candidate will foster a culture of technical excellence, collaboration and continuous improvement.\n This is an exciting opportunity for an experienced data engineering leader to help develop our data engineering community of practice, define data standards across the organisation and be part of the team delivering and evolving PHMG's Data Strategy.\n The role: What you will do:\n Lead, manage and develop the Data Engineering team, building capability, resilience and strong ways of working.\n Own PHMG's core data platform, architecture, data warehouse and associated pipelines, ensuring solutions are scalable, reliable, maintainable and cost-effective.\n Own Data Engineering delivery, ensuring work is appropriately designed, prioritised and delivered to agreed standards.\n Establish and embed strong engineering practices across source control, CI/CD, testing, code review, documentation, monitoring and error handling.\n Work closely with the wider Data team to translate the Data Strategy and business priorities into an effective engineering roadmap and delivery plan.\n Work closely with IT, Infrastructure and other engineering teams on architecture, integrations, mi…",
     "tags": [],
     "postedAt": "2026-09-10T14:45:28.000Z",
-    "scrapedAt": "2026-09-10T18:02:40.652Z"
+    "scrapedAt": "2026-09-10T22:55:31.375Z"
   },
   {
     "id": "arbeitnow:remote-senior-data-engineer-real-time-analytics-62324",
@@ -45,7 +61,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-09T16:04:35.000Z",
-    "scrapedAt": "2026-09-10T18:02:40.652Z"
+    "scrapedAt": "2026-09-10T22:55:31.375Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-paris-office-122301",
@@ -63,7 +79,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-09T16:04:35.000Z",
-    "scrapedAt": "2026-09-10T18:02:40.652Z"
+    "scrapedAt": "2026-09-10T22:55:31.375Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -79,7 +95,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-10T18:02:41.328Z"
+    "scrapedAt": "2026-09-10T22:55:31.826Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -95,7 +111,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-10T18:02:41.328Z"
+    "scrapedAt": "2026-09-10T22:55:31.826Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -111,26 +127,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-10T18:02:41.328Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-paris-291600",
-    "externalId": "senior-data-engineer-paris-291600",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer",
-    "company": "PUR",
-    "location": "Paris, Île-de-France, France",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/pur/senior-data-engineer-paris-291600",
-    "description": "Job title: Senior Data Engineer\n Department: Data team\n Reports to: Lead Data Engineer\n Location: Paris, France\n Contract: Permanent, local and full-time\n Starting date: ASAP 2026\n PUR Description\n PUR is a global B Corp helping companies act for climate, nature and people through nature-based projects.\n Since 2008, we have worked with leading companies to restore ecosystems, support farmers and communities, and build more resilient supply chains. Our projects include agroforestry, regenerative agriculture, reforestation, and ecosystem restoration, across more than 30 countries.\n We work closely with local partners, farmers, cooperatives, NGOs and businesses to design projects that are adapted to each landscape and community. This local approach is key to creating long-term impact — for the climate, biodiversity, soil, water, and livelihoods.\n Today, PUR has more than 200 team members across 16 countries, with key offices in Paris and Toronto. As the world faces growing climate and biodiversity challenges, PUR is helping global companies move from ambition to action.\n About the role\n As a Senior Data Engineer, you will design, develop, and maintain scalable data pipelines and data processing solutions that power analytics, reporting, and data-driven decision making. You will play a key role in transforming raw project data into reliable, high-quality datasets through robust ETL processes, modern data architectures, and Python-based engineering practices.\n Working closely with business and technical stakeholders, you will ensure that data is accessible, trustworthy, and aligned with analytical requirements while contributing to the continuous improvement of our data platform and cloud-based ecosystem.\n Your responsibilities will be, but not limited to:\n Design, develop, and maintain scalable ETL/ELT pipelines using Python.\n Build and optimize data ingestion, transformation, and validation processes for large datasets.\n Design and maintain data models supporting repo…",
-    "tags": [
-      "Data",
-      "Manager",
-      "fulltime permanent"
-    ],
-    "jobType": "Manager",
-    "postedAt": "2026-09-08T19:30:33.000Z",
-    "scrapedAt": "2026-09-10T18:02:40.652Z"
+    "scrapedAt": "2026-09-10T22:55:31.826Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -146,7 +143,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-10T18:02:41.328Z"
+    "scrapedAt": "2026-09-10T22:55:31.826Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -162,6 +159,6 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-10T18:02:41.328Z"
+    "scrapedAt": "2026-09-10T22:55:31.826Z"
   }
 ]
