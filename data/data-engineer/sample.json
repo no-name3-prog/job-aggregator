@@ -1,5 +1,23 @@
 [
   {
+    "id": "arbeitnow:analytics-engineer-berlin-300399",
+    "externalId": "analytics-engineer-berlin-300399",
+    "source": "arbeitnow",
+    "title": "Analytics Engineer (m/f/d)",
+    "company": "Enpal",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/enpal/analytics-engineer-berlin-300399",
+    "description": "About the role\n We are looking for a (Senior) Analytics Engineer to join our team. In this role, you will work closely with stakeholders across ERP, Supply Chain Management, Logistics to turn complex business questions into clear, reliable and actionable data solutions.\n You will take ownership of analytics projects from initial requirements through data modelling and delivery. The role combines stakeholder management, business analysis, hands-on analytics and modern data engineering, with an advanced Agentic AI toolkit at hand to help you deliver high-quality data products efficiently.\n Your responsibilities\n Partner with business stakeholders to understand their objectives, processes and analytical needs.\n Translate business requirements into scalable data models and analytical solutions.\n Take end-to-end ownership of analytics projects, including scoping, prioritisation, delivery and stakeholder communication.\n Build and maintain reliable data models and transformations using SQL and dbt.\n Design and develop scalable, business-ready data models that provide a trusted foundation for decision-making.\n Ensure data quality, consistency and transparency across analytical products.\n Own new data integrations in the ERP and SCM domain, working closely with data engineers and business teams from source onboarding through production.\n Identify opportunities to simplify or automate recurring reporting and operational workflows.\n Leverage Agentic AI and LLM-based tools to deliver high-quality data products efficiently.\n Communicate progress, risks, dependencies and recommendations clearly to both technical and non-technical audiences.\n Contribute to analytics standards, documentation and knowledge sharing across the team.\n What you bring\n 5+ years of experience in business intelligence, analytics, analytics engineering, data engineering or a comparable role.\n A good understanding of data modelling, data quality and analytical best practices.\n Practical experience with data…",
+    "tags": [
+      "Tech",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-09-10T05:40:09.000Z",
+    "scrapedAt": "2026-09-10T07:50:28.502Z"
+  },
+  {
     "id": "arbeitnow:data-engineer-junior-schwerpunkt-datenpipelines-bonn-33567",
     "externalId": "data-engineer-junior-schwerpunkt-datenpipelines-bonn-33567",
     "source": "arbeitnow",
@@ -23,7 +41,7 @@
     ],
     "jobType": "Entry",
     "postedAt": "2026-09-10T02:09:13.000Z",
-    "scrapedAt": "2026-09-10T02:53:27.323Z"
+    "scrapedAt": "2026-09-10T07:50:28.502Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-london-496047",
@@ -37,7 +55,7 @@
     "description": "Soho, London\n Hybrid working: 3 days in the office Tues - Thurs\n The Role\n We are seeking a Senior Data Engineer to join our Data Team, taking a leading role in building the complex, scalable systems that power our data strategy. You will lead architectural discussions, own the design of business-critical data solutions and deliver high-quality systems that bring millions of fans closer to the sports they love. This is a fantastic opportunity to lead the optimisation of our data platforms for real-time AI/ML workloads, mentor engineers and make a significant impact on our business. The Senior Data Engineer leads technical initiatives, maintains data integrity and performance, and works across teams to translate complex business requirements into effective data solutions. The role also uses automation and artificial intelligence to improve efficiency, decision-making and productivity across the organisation.\n At LiveScore Group, we're the proud home of three of the most exciting brands in the sports and gaming world: LiveScore, LiveScore Bet and Virgin Bet. A fully owned and operated ecosystem that converges the two worlds of sports media and sports betting. We're proud of the high ratings for our commitment to excellence and fueling fan's passion for sport driving us to the top.\n We don't just lead; we innovate. Our cutting-edge products and immersive experiences set the standard, but it's our people who truly make the difference. Every day, our team embody our values: adaptability, teamwork, a fan-driven approach, and an ever-curious mindset that fuels our ambition. As we scale and continue to create a culture that allows all employees to thrive, we know we need the most talented people with diverse backgrounds, perspectives and skills. If you're good at what you do, come and join us. The more inclusive we are, the more amazing experiences we can create for our users.\n We know that job descriptions can sometimes seem daunting, and you might not feel you tick every…",
     "tags": [],
     "postedAt": "2026-09-09T21:45:32.000Z",
-    "scrapedAt": "2026-09-10T02:53:27.323Z"
+    "scrapedAt": "2026-09-10T07:50:28.502Z"
   },
   {
     "id": "arbeitnow:lead-analytics-engineer-london-283935",
@@ -55,25 +73,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-09T21:40:07.000Z",
-    "scrapedAt": "2026-09-10T02:53:27.323Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-mid-level-berlin-de-63464",
-    "externalId": "data-engineer-mid-level-berlin-de-63464",
-    "source": "arbeitnow",
-    "title": "Data Engineer Mid-Level (m/w/d)",
-    "company": "Octopus Energy Group",
-    "location": "Berlin (DE)",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/data-engineer-mid-level-berlin-de-63464",
-    "description": "Energie neu denken. Infrastruktur neu bauen. Zukunft neu gestalten – bei der Energy Metering Germany GmbH, einem Unternehmen der Octopus Energy Group.\n Als innovativer Messstellenbetreiber treiben wir die Energiewende nicht nur voran – wir setzen sie technisch um.\n Digital, skalierbar und kompromisslos praxisorientiert.\n Von der Installation intelligenter Messsysteme inklusive Smart Meter Gateway über moderne Wallbox-Lösungen für Privathaushalte bis hin zu komplexen 1:n-Lösungen und CLS-Management nach §14a und §9 EnWG – wir bauen die vernetzte Energieinfrastruktur von morgen. Sicher, normkonform und hochautomatisiert.\n Unser Anspruch: Messstellenbetrieb neu definieren – als Rückgrat eines flexiblen, datengetriebenen Energiesystems. Dafür kombinieren wir regulatorische Exzellenz mit technischer Umsetzungskompetenz und operativer Geschwindigkeit.\n Wenn du nicht nur verwalten, sondern gestalten willst – dann baue mit uns das Energy Metering der nächsten Generation. 💚\n Für den weiteren Ausbau und Betrieb unserer modernen Daten- und Analytics-Landschaft suchen wir einen vielseitigen Mid-Level Data Engineer (m/w/d) . In dieser Rolle bist du das Bindeglied zwischen robuster Data-Lakehouse-Infrastruktur, analytischem Reporting mit Lightdash & Streamlit und angewandten Data-Science-Use-Cases.\n Deine Aufgaben:\n Du begleitest Daten entlang ihres gesamten Lebenszyklus – von der Rohdatenaufnahme im Lakehouse über automatisierte Datenmodelle bis hin zu interaktiven Dashboards und Machine-Learning-gestützten Datenanwendungen.\n Lakehouse & Data Engineering (ca. 50%):\n Konzeption, Aufbau und Tuning performanter Pipelines auf Basis von Databricks .\n Datenmodellierung mit dbt sowie Orchestrierung robuster DAGs via Apache Airflow .\n Governance & Performance:\n Etablierung automatisierter Data-Quality-Prüfungen, Data Lineage und Cluster-Optimierung.\n Analytics & Data Apps (ca. 25%):\n Aufbau einer semantischen Metriken-Schicht und Self-Service-BI in Lightdash .\n Entwicklung interaktive…",
-    "tags": [
-      "Data/Engineering",
-      "Full-time"
-    ],
-    "jobType": "Full-time",
-    "postedAt": "2026-09-09T20:04:12.000Z",
-    "scrapedAt": "2026-09-10T02:53:27.323Z"
+    "scrapedAt": "2026-09-10T07:50:28.502Z"
   },
   {
     "id": "arbeitnow:remote-senior-data-engineer-real-time-analytics-62324",
@@ -91,7 +91,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-09T16:04:35.000Z",
-    "scrapedAt": "2026-09-10T02:53:27.323Z"
+    "scrapedAt": "2026-09-10T07:50:28.502Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-paris-office-122301",
@@ -109,39 +109,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-09T16:04:35.000Z",
-    "scrapedAt": "2026-09-10T02:53:27.323Z"
-  },
-  {
-    "id": "arbeitnow:lead-analytics-engineer-borrowing-cardiff-411497",
-    "externalId": "lead-analytics-engineer-borrowing-cardiff-411497",
-    "source": "arbeitnow",
-    "title": "Lead Analytics Engineer, Borrowing",
-    "company": "Monzoreferrals",
-    "location": "Cardiff",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/lead-analytics-engineer-borrowing-cardiff-411497",
-    "description": "<p>📍London, Cardiff or Remote in the UK | 💰 £97,800 -125,000 + <a href=\"https://monzo.com/careers/\">Benefits</a> |<a href=\"https://www.youtube.com/watch?v=U62l09nB0M4\"> Hear from the team</a> ✨&nbsp;</p>\n<p><strong>⭐Our Borrowing Analytics Engineering Team:</strong></p>\n<p>Our Mission in Borrowing is to enable people's financial goals through better borrowing. Our customers look to borrow money to enable them to achieve something in their lives - whether that’s making a big life event affordable, buying something they need now without affecting their monthly budget, or getting by until payday. And we’re looking to shape this mission by building products that our customers love, whilst scaling those top revenue lines across the business safely.&nbsp;</p>\n<p>We're looking for a Lead Analytics Engineer within our borrowing team to help build world class service for the bank of the future. You will play a critical role in overseeing our foundational data platforms, identifying and driving opportunities to enhance our current capabilities. Your expertise will be pivotal in allowing us to scale into new global markets, build new products and shape the future of how we serve our customers.&nbsp;</p>\n<p>We have a strong culture of data-driven decision making across the whole company. And we're great believers in powerful, real-time analytics and empowerment of the wider business.&nbsp;</p>\n<p>🔑You’ll play a key role by...</p>\n<ul>\n<li>Serving as a data architect for Monzo’s Borrowing data, contributing to the design and scalability of data models that measure the performance of our product suite.</li>\n<li>Develop robust data models downstream of backend services, primarily in BigQuery, to support internal reporting, machine learning, large language models, as well as financial and regulatory use cases.</li>\n<li>Be a key voice in shaping and maintaining best practices for our Data Warehouse, including source data payload design, logical data modelling, implementation, me…",
-    "tags": [
-      "Data"
-    ],
-    "postedAt": "2026-09-09T15:55:30.000Z",
-    "scrapedAt": "2026-09-10T02:53:27.323Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-london-278714",
-    "externalId": "senior-data-engineer-london-278714",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer",
-    "company": "Livescore9",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore9/senior-data-engineer-london-278714",
-    "description": "<p><strong>Soho, London</strong></p>\n<p><strong>Hybrid working: 3 days in the office Tues - Thurs</strong></p>\n<p><strong>The Role</strong></p>\n<p>We are seeking a Senior Data Engineer to join our Data Team, taking a leading role in building the complex, scalable systems that power our data strategy. You will lead architectural discussions, own the design of business-critical data solutions and deliver high-quality systems that bring millions of fans closer to the sports they love. This is a fantastic opportunity to lead the optimisation of our data platforms for real-time AI/ML workloads, mentor engineers and make a significant impact on our business. The Senior Data Engineer leads technical initiatives, maintains data integrity and performance, and works across teams to translate complex business requirements into effective data solutions. The role also uses automation and artificial intelligence to improve efficiency, decision-making and productivity across the organisation.</p>\n<p>At LiveScore Group, we’re the proud home of three of the most exciting brands in the sports and gaming world: LiveScore, LiveScore Bet and Virgin Bet. A fully owned and operated ecosystem that converges the two worlds of sports media and sports betting. We’re proud of the high ratings for our commitment to excellence and fueling fan’s passion for sport driving us to the top.</p>\n<p>We don’t just lead; we innovate. Our cutting-edge products and immersive experiences set the standard, but it’s our people who truly make the difference. Every day, our team embody our values: adaptability, teamwork, a fan-driven approach, and an ever-curious mindset that fuels our ambition. As we scale and continue to create a culture that allows all employees to thrive, we know we need the most talented people with diverse backgrounds, perspectives and skills. If you’re good at what you do, come and join us. The more inclusive we are, the more amazing experiences we can create for our users.</p>\n<p><em>We…",
-    "tags": [
-      "Technology"
-    ],
-    "postedAt": "2026-09-09T15:55:28.000Z",
-    "scrapedAt": "2026-09-10T02:53:27.323Z"
+    "scrapedAt": "2026-09-10T07:50:28.502Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -157,7 +125,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-10T02:53:27.971Z"
+    "scrapedAt": "2026-09-10T07:50:28.930Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -173,6 +141,41 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-10T02:53:27.971Z"
+    "scrapedAt": "2026-09-10T07:50:28.930Z"
+  },
+  {
+    "id": "greenhouse:coinbase-8175459",
+    "externalId": "coinbase:8175459",
+    "source": "greenhouse",
+    "title": "Data Engineer Intern",
+    "company": "Coinbase",
+    "location": "Hybrid - San Francisco, CA",
+    "remote": false,
+    "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n This is a 12-week internship during summer 2027.\n As a Data Engineer Intern within the Platform product group, you'll partner with analytics engineering to build and maintain the data pipelines and infrastructure that power insights across Coinbase. You'll work alongside senior engineers and cross-functional partners in product and engineering to ensure data accuracy, scalability, and accessibility for analytical and machine learning use cases.\n What you'll do:\n Build and maintain data pipelines that ensure data integrity and accessibility for analytics and machine learning workloads\n Support the development of scalable data infrastructure using Python and cloud-based technologies\n Integrate and manage data from multiple sources, including internal systems and external APIs\n Contribute to analytical deep dives with senior team members, translating findings into clear documentation and recommendations\n Learn and apply data engineering best practices including data governance, security, and performance optimization\n Required Skills and Experience:\n Completed or in-progress coursework in Computer Science, Data Engineering, or equivalent experience with demonstrated programming proficiency in Python, including data structures and algorithms\n Hands-on experience writing SQL for data analysis and working with relational database concepts\n Familiarity with cloud platforms (AWS, GCP,…",
+    "tags": [
+      "Internships & Emerging Talent Positions"
+    ],
+    "postedAt": "2026-09-08T22:19:13.000Z",
+    "scrapedAt": "2026-09-10T07:50:28.930Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-paris-291600",
+    "externalId": "senior-data-engineer-paris-291600",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer",
+    "company": "PUR",
+    "location": "Paris, Île-de-France, France",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/pur/senior-data-engineer-paris-291600",
+    "description": "Job title: Senior Data Engineer\n Department: Data team\n Reports to: Lead Data Engineer\n Location: Paris, France\n Contract: Permanent, local and full-time\n Starting date: ASAP 2026\n PUR Description\n PUR is a global B Corp helping companies act for climate, nature and people through nature-based projects.\n Since 2008, we have worked with leading companies to restore ecosystems, support farmers and communities, and build more resilient supply chains. Our projects include agroforestry, regenerative agriculture, reforestation, and ecosystem restoration, across more than 30 countries.\n We work closely with local partners, farmers, cooperatives, NGOs and businesses to design projects that are adapted to each landscape and community. This local approach is key to creating long-term impact — for the climate, biodiversity, soil, water, and livelihoods.\n Today, PUR has more than 200 team members across 16 countries, with key offices in Paris and Toronto. As the world faces growing climate and biodiversity challenges, PUR is helping global companies move from ambition to action.\n About the role\n As a Senior Data Engineer, you will design, develop, and maintain scalable data pipelines and data processing solutions that power analytics, reporting, and data-driven decision making. You will play a key role in transforming raw project data into reliable, high-quality datasets through robust ETL processes, modern data architectures, and Python-based engineering practices.\n Working closely with business and technical stakeholders, you will ensure that data is accessible, trustworthy, and aligned with analytical requirements while contributing to the continuous improvement of our data platform and cloud-based ecosystem.\n Your responsibilities will be, but not limited to:\n Design, develop, and maintain scalable ETL/ELT pipelines using Python.\n Build and optimize data ingestion, transformation, and validation processes for large datasets.\n Design and maintain data models supporting repo…",
+    "tags": [
+      "Data",
+      "Manager",
+      "fulltime permanent"
+    ],
+    "jobType": "Manager",
+    "postedAt": "2026-09-08T19:30:33.000Z",
+    "scrapedAt": "2026-09-10T07:50:28.502Z"
   }
 ]
