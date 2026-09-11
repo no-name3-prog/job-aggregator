@@ -1,84 +1,129 @@
 [
   {
-    "id": "greenhouse:pinterest-8130606",
-    "externalId": "pinterest:8130606",
-    "source": "greenhouse",
-    "title": "Lead Ads Product Marketing Manager",
-    "company": "Pinterest",
-    "location": "San Francisco, CA, US; Remote, US",
-    "remote": true,
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8130606",
-    "description": "About Pinterest:\n Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.\n Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here .\n tvScientific by Pinterest is the Performance TV platform built for advertisers who want to drive measurable business outcomes. We combine media buying, optimization, measurement and attribution in one platform to make CTV a more accountable, effective performance channel.\n We’re looking for a Lead Ads Product Marketing Manager to oversee go-to-market strategy for tvScientific’s integration into Pinterest Ads Manager. You’ll turn complex product capabilities and performance insights into clear customer value, compelling narratives and launch programs that drive adoption.\n What you’ll do:\n Set and execute the go-to-market strategy for CTV capabilities in Pinterest Ads Manager, shaping positioning, messaging, launch planning, enablement and adoption across Product, Sales, Marketing and Pinterest Ads teams.\n Translate technical product capabilities…",
-    "tags": [
-      "tvScientific"
-    ],
-    "postedAt": "2026-09-10T22:34:51.000Z",
-    "scrapedAt": "2026-09-10T22:54:41.616Z"
-  },
-  {
-    "id": "arbeitnow:staff-engineer-313291",
-    "externalId": "staff-engineer-313291",
+    "id": "arbeitnow:fullstack-software-engineer-munchen-87768",
+    "externalId": "fullstack-software-engineer-munchen-87768",
     "source": "arbeitnow",
-    "title": "Staff Engineer",
-    "company": "mewssystems",
-    "location": "Unknown",
+    "title": "Fullstack Software Engineer (m/w/d)",
+    "company": "Rhein Nadel Automation Gmbh",
+    "location": "München",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/mewssystems/staff-engineer-313291",
-    "description": "<div class=\"content-intro\"><h4><strong>Help make the world more hospitable </strong></h4>\n<p>The hospitality industry is uniquely human, and it deserves technology that’s just as inspiring as the people behind it. At Mews, we’re transforming the industry with a platform that helps hotels run smarter, move faster and create better guest experiences.</p>\n<p>You’ll work with smart, curious people who care deeply about what they do. You’ll have autonomy and the trust to make good decisions and move quickly. And you’ll enjoy a real sense of purpose as you see the impact of what we’re building.</p>\n<p>If you’re motivated by ownership, curiosity and meaningful impact, and are driven to deliver consistent high performance, you’ll feel at home here.</p>\n<h4><strong>About the role</strong></h4>\n<p>Let's get into the specifics. It’s impossible to capture every nuance of a role – especially at a rapidly growing company like Mews – but if we had to distil it into a job description (which we do because this is a job description), it would be this:</p></div><p>As Staff Engineer, you'll own the architecture, agents and skills that let every builder in your tribe ship sound, well-architected work without waiting on a handoff, at a moment when Mews has moved almost entirely to an agentic-first engineering model. The problem this role exists to solve is easy to state and hard to do: most technical decisions now get made by builders and the agents they run, not by senior engineers in review, so the standard has to be built into the tooling itself or the gaps show up in what customers touch. Mews is rebuilding hospitality software from the ground up at a genuinely unusual pace, which makes this one of the few staff engineering roles where the leverage you build gets used by everyone around you within weeks.</p>\n<p>You'll be attached to one tribe, reporting into its Director, and working alongside other staff engineers, staff product managers and staff designers across your division. Yo…",
+    "url": "https://www.arbeitnow.com/jobs/companies/rhein-nadel-automation-gmbh/fullstack-software-engineer-munchen-87768",
+    "description": "Wer wir sind\nRNA Digital Solutions wurde 2016 als Industrial Tech Startup gegründet. Unsere Expertise liegt im Digitalen Maschinenbau und wir beschäftigen uns insbesondere mit der digitalen Auslegung und Herstellung automatisierter Zuführlösungen. In 2021 erfolgte der Anschluss des Startups an den Weltmarktführer in der Zuführtechnik, der Rhein-Nadel-Automation GmbH. Unser Fokus liegt zu 100% auf der Softwareentwicklung. Unsere Software-Teams verteilen sich auf die Standorte München und Aachen. In München entwickeln wir unsere Dienste für Künstliche Intelligenz und Simulation. In Aachen nutzen wir die Nähe zum Shop Floor für Sonder-Digitalisierungsprojekte und Shop Floor-bezogene Software.\nDie Kombination von jahrzehntelanger Erfahrung im Bereich Zuführtechnik gepaart mit modernsten Technologien im Bereich der künstlichen Intelligenz ermöglicht es uns, die Zuführtechnik von Morgen zu entwickeln.\nZur Verstärkung unseres Entwicklungsteams suchen wir einen erfahrenen Fullstack Software Engineer (m/w/d) mit Sitz im Raum München. Die Arbeit erfolgt größtenteils mobil, jedoch ist eine regelmäßige Anwesenheit im Office in München vorgesehen (ca. 1 Mal pro Woche).\n Deine Aufgaben Entwicklung: Du treibst zusammen mit dem Team den Aufbau und die Weiterentwicklung interner Apps zur Prozessdigitalisierung und -automatisierung voran. Die React-basierten Apps kommunizieren über REST mit verschiedenen Django-Backends/-Microservices. Die containerbasierte Architektur umfasst auch KI-/ML-Module sowie automatisierte Physik-Simulationen. Aufgabenspektrum:  Du wirkst von der Anforderungsaufnahme über die Implementierung bis zur Auslieferung mit. Schnittstellen:  Du arbeitest in einem dynamischen Umfeld und stehst im engen Kontakt mit verschiedenen Fachbereichen, um Nutzeranforderungen zu verstehen und umzusetzen.\n Dein Profil Ausbildung: Du verfügst über ein abgeschlossenes Studium in einem MINT-Fach oder eine vergleichbare Qualifikation. Berufserfahrung:  Du hast mehrjährige Berufser…",
     "tags": [
-      "Front of House"
+      "Python",
+      "Django",
+      "ORM-Tools",
+      "SQL",
+      "Javascript",
+      "React",
+      "Softwareentwickler",
+      "Software Developer",
+      "Prozessdigitalisierung",
+      "KI",
+      "Künstliche Intelligenz",
+      "AI",
+      "Physik-Simulationen",
+      "Docker",
+      "Experienced",
+      "Permanent",
+      "Full time"
     ],
-    "postedAt": "2026-09-10T21:55:14.000Z",
-    "scrapedAt": "2026-09-10T22:54:40.961Z"
+    "jobType": "Experienced",
+    "postedAt": "2026-09-11T02:09:56.000Z",
+    "scrapedAt": "2026-09-11T02:46:38.318Z"
   },
   {
-    "id": "greenhouse:pinterest-8168118",
-    "externalId": "pinterest:8168118",
-    "source": "greenhouse",
-    "title": "Sr. Client Account Manager, Home",
-    "company": "Pinterest",
-    "location": "Atlanta, GA, US",
-    "remote": false,
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8168118",
-    "description": "About Pinterest:\n Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.\n Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here .\n As a Sr Client Account Manager, you will be in charge of driving a sophisticated book of business featuring some of the largest advertisers at Pinterest. You’ll work directly with some of our key advertisers as a trusted consultant to their business. Your strategic advice, analytical skills and sales skills are core to bringing to life the value we deliver as a platform.\n In this role, you will help Retail advertisers in Home Improvement connect with consumers across the full decision journey, from early inspiration and project planning through purchase and loyalty. You’ll partner with brands navigating seasonal demand, store traffic objectives, ecommerce growth, and omnichannel measurement, helping them translate Pinterest intent into business outcomes. Success in this role requires an ability to position Pinterest as a full funnel platform tha…",
-    "tags": [
-      "North America Enterprise Sales"
-    ],
-    "postedAt": "2026-09-10T21:54:27.000Z",
-    "scrapedAt": "2026-09-10T22:54:41.616Z"
-  },
-  {
-    "id": "greenhouse:gitlab-8737852002",
-    "externalId": "gitlab:8737852002",
-    "source": "greenhouse",
-    "title": "Public Sector Strategic Account Executive, Federal Civilian",
-    "company": "GitLab",
-    "location": "Remote, United States",
-    "remote": true,
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8737852002",
-    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.\n The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software.\n * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.\n An overview of this role\n As a Strategic Account Executive, you'll help drive GitLab's growth across U.S. Federal Civilian agencies as we support government teams modernizing how they build, secure, and deliver software. You'll align GitLab's AI-powered DevSecOps Platform with agency priorities such as secure software delivery, continuous integration and continuous delivery, software supply chain security, FedRAMP-authorized platform requirements, agentic AI adoption, and infrastructure modernization in regulated environments. Reporting to a Regional Director, you'll own a strategic book of business and work directly with senior a…",
-    "tags": [
-      "PubSec - FED"
-    ],
-    "postedAt": "2026-09-10T21:50:06.000Z",
-    "scrapedAt": "2026-09-10T22:54:41.616Z"
-  },
-  {
-    "id": "arbeitnow:remote-senior-software-engineer-engineering-operations-22311",
-    "externalId": "remote-senior-software-engineer-engineering-operations-22311",
+    "id": "arbeitnow:senior-security-engineer-all-genders-munich-495865",
+    "externalId": "senior-security-engineer-all-genders-munich-495865",
     "source": "arbeitnow",
-    "title": "Senior Software Engineer, Engineering Operations",
-    "company": "Camunda",
-    "location": "Remote",
+    "title": "Senior Security Engineer (all genders)",
+    "company": "Capmo",
+    "location": "Munich",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-22311",
-    "description": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. Trusted by over 700 organizations worldwide , including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.\n Fully remote and global, we are in the middle of something bigger: transforming into an AI-first organisation, built on our own platform . We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.\nNamed GP Bullhound’s Top 100 Next Unicorn list, 2025 Great Place to Work certified. Visionary in 2025 Gartner® Magic Quadrant™ for Business Orchestration and Automation Technologies. ranked 3rd in Flexa's 2026 Most Flexible Companies , We’re growing fast and looking for top talent to join our team. If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading.\n About the Role:\n Camunda is going through the AI-First transformation, and we are looking for a Senior Software Engineer to join our Engineering Operations Team . As part of this high-impact platform team, you will play a key role in fostering engineering excellence by creating, implementing and maintaining scalable core processes to enhance development efficiency, reliability, and quality within the Camunda 8 code bases, as well as the Engineering-wide organization processes.\n As Camunda 8 evolves into the leader of the agentic orchestration market, your mission is to ensure our internal development lifecycle is just as autonomous and gets us there in a frictionless manner. You will work with infrastructure and core software engineering teams to ensure smooth workflows, robust de…",
+    "url": "https://www.arbeitnow.com/jobs/companies/capmo/senior-security-engineer-all-genders-munich-495865",
+    "description": "Your role Capmo is the digital partner on construction sites, with over 100k projects delivered faster and more successfully with the help of our platform. We enable architects, engineers, project managers and contractors to collaborate efficiently and run lean and optimized projects. We are one of the fastest-growing B2B SaaS companies in Europe and stay true to our mission of making hard things in construction feel easy.\n Thousands of project managers run their construction sites on Capmo every day — which means our customers trust us with data that is critical to their business. Keeping that trust is the job you'd own.\n Help us continue to revolutionize the industry! Find out more about us and come join us in our engineering hubs in Berlin and Munich.\n As a Senior Security Engineer at Capmo, you will get to:\n own product and cloud security end to end — threat modeling, security reviews, secure-by-default patterns, and the tooling in our CI/CD pipelines (SAST, dependency and container scanning, secret detection) that keeps findings from piling up.\n harden our AWS infrastructure: IAM architecture, network segmentation, encryption, logging, workload security — and encode the baselines as policy-as-code instead of a wiki page nobody reads.\n build our detection and response capability from the ground up, and be the technical lead when something actually happens — from detection through containment to the post-incident review.\n own our vulnerability disclosure and pentest programs, and drive remediation with the product teams rather than filing tickets and hoping.\n back our compliance work (ISO 27001, SOC 2, GDPR) with real technical controls and evidence, and support customer security reviews together with Sales.\n shape the direction of security at Capmo as a hands-on senior IC — building guardrails that engineers adopt because they're good, not because they're mandated.\n What we offer Become a shareholder:  Take part in our success with our employee stock option pro…",
     "tags": [
-      "Products",
-      "Full Time"
+      "nodeJS",
+      "react.js",
+      "AWS",
+      "TypeScript",
+      "Experienced",
+      "Permanent",
+      "Full time"
     ],
-    "jobType": "Full Time",
-    "postedAt": "2026-09-10T21:40:11.000Z",
-    "scrapedAt": "2026-09-10T22:54:40.961Z"
+    "jobType": "Experienced",
+    "postedAt": "2026-09-11T02:09:45.000Z",
+    "scrapedAt": "2026-09-11T02:46:38.318Z"
+  },
+  {
+    "id": "arbeitnow:senior-ai-architect-consultant-munchen-12747",
+    "externalId": "senior-ai-architect-consultant-munchen-12747",
+    "source": "arbeitnow",
+    "title": "Senior AI Architect & Consultant (m/w/d)",
+    "company": "Mayflower",
+    "location": "München",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/mayflower/senior-ai-architect-consultant-munchen-12747",
+    "description": "Wer wir sind Die Mayflower GmbH baut Individualsoftware mit Fokus auf Generative AI – seit 1998 inhabergeführt.\n Wir bringen komplette AI-Infrastrukturen in Produktion: Model-Serving, Agent-Gateways, Chat und Voice – direkt in der Umgebung des Kunden. Dich erwartet ein agiles Arbeitsumfeld mit echter Verantwortung und flachen Strukturen – Entscheidungen triffst Du selbst, statt sie durch Freigabeschleifen zu schieben.\n Wir suchen Dich – jemanden, der AI-Systeme nicht nur konzipiert, sondern ihren Weg in die Produktion aktiv mitverantwortet. Von der Architekturberatung auf C-Level bis zum Produktivbetrieb: Du entwirfst die Lösung und bringst sie mit dem Team in den echten Einsatz.\n Was dich erwartet Anspruchsvolle Projekte mit LLMs, Agentic RAG und AI-Agent-Frameworks (z. B. LangGraph, PydanticAI, Mastra oder OpenAI Agents SDK) – inklusive Deep-Agent-Architekturen. Du baust Evaluation-Pipelines und Observability (Logging/Tracing mit LangSmith, Langfuse o. Ä.) auf und arbeitest mit modernem MLOps-Stack sowie Vector Databases. Du entwirfst Lösungsarchitekturen für komplexe Kundenvorhaben – mit Security, Compliance, Skalierbarkeit und Datenschutz im Hinterkopf – von der ersten Skizze im Gespräch bis zur konkreten Roadmap. Gemeinsam im Team führst Du Deep-Dive-Calls und Workshops mit Kunden durch und bringst sie in die nächste Projektphase. Du begleitest die Anbahnung neuer Projekte und unterstützt unser Team im Pre-Sales mit technischer Glaubwürdigkeit. Du kommunizierst souverän auf C-Level – Du verstehst ökonomische Ziele, sprichst die Sprache von Entscheider:innen und verbindest technische Exzellenz mit Business-Impact. Der Schwerpunkt Deiner Rolle liegt mit etwa 50 % in Kundenprojekten, in intensiven Phasen auch darüber. Den übrigen Teil Deiner Zeit investierst Du in Pre-Sales-Gespräche und Workshops, die Du vorbereitest und durchführst, sowie in die strategische Unterstützung von Geschäftsführung und Sales. Konferenzen, Community-Events, Fachbeiträge: Präsenz ist e…",
+    "tags": [
+      "JOIN",
+      "AI Architect",
+      "LLMs",
+      "GenAI",
+      "Langgraph",
+      "LangSmith",
+      "Join",
+      "RAG",
+      "AI Solutions Architect",
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-11T02:09:38.000Z",
+    "scrapedAt": "2026-09-11T02:46:38.318Z"
+  },
+  {
+    "id": "arbeitnow:senior-engineer-on-site-vollzeit-munchen-493533",
+    "externalId": "senior-engineer-on-site-vollzeit-munchen-493533",
+    "source": "arbeitnow",
+    "title": "Senior Engineer (m/w/d) — On-Site & Vollzeit",
+    "company": "Fulfin",
+    "location": "München",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/fulfin/senior-engineer-on-site-vollzeit-munchen-493533",
+    "description": "Intro Wir machen Unternehmensfinanzierung einfacher: digital, schnell und mit zunehmend intelligenten Lösungen. Mehr als 7.500 Unternehmerinnen und Unternehmer nutzen fulfin bereits.\nZur Verstärkung unseres Tech Teams suchen zum sofortigen Start einen Senior Engineer. Du wirst Teil eines kleinen, erfahrenen Teams und übernimmst weitreichende Verantwortung für geschäftskritische Lösungen.\n Deine Aufgaben Du entwickelst und betreibst zuverlässige, wartbare Software. Du übernimmst wichtige Projekte von der Problemdefinition bis zur Umsetzung und zum laufenden Betrieb. Du hinterfragst Annahmen, erkennst Risiken und übersetzt geschäftliche und produktbezogene Anforderungen in wirkungsvolle, pragmatische technische Lösungen. Du arbeitest eng mit unserem Produktteam, der Geschäftsführung sowie internen und externen Stakeholdern zusammen. Du unterstützt andere Entwickler und hilfst dabei, unsere technischen Standards und Arbeitsweisen weiterzuentwickeln.\n Dein Profil Anforderungen: Du kommunizierst ausgezeichnet auf Englisch und kannst komplexe Themen technischen wie nicht-technischen Zielgruppen klar vermitteln. Du zeigst Eigeninitiative, denkst kritisch, setzt klare Prioritäten und treibst Themen eigenverantwortlich bis zum Ergebnis voran. Dabei bist du neugierig und motiviert, dir fehlendes Wissen selbstständig anzueignen. Du verfügst über ein solides Fundament in der Softwareentwicklung und praktische Erfahrung in der Entwicklung und im Betrieb von Produktivsystemen. Du kannst und möchtest überwiegend vor Ort in unserem Münchner Büro arbeiten. Von Vorteil: Du verfügst über professionelle Deutschkenntnisse. Erfahrung in FinTech, Finanzdienstleistungen oder einem anderen regulierten Umfeld. Kenntnisse in TypeScript/JavaScript, Python, AWS, Docker, Node.js, React, GraphQL, Serverless- oder ereignisgesteuerten Architekturen. Erfahrung in einem kleinen Team mit breitem individuellem Verantwortungsbereich. Du musst nicht jede genannte Technologie oder Branche kennen. Lernber…",
+    "tags": [
+      "Senior Software Engineer",
+      "On-Site",
+      "Vollzeit",
+      "Architecture Design",
+      "Stakeholder Management",
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-11T02:09:30.000Z",
+    "scrapedAt": "2026-09-11T02:46:38.318Z"
+  },
+  {
+    "id": "arbeitnow:product-manager-platform-experience-cloud-administration-freiburg-im-breisgau-287874",
+    "externalId": "product-manager-platform-experience-cloud-administration-freiburg-im-breisgau-287874",
+    "source": "arbeitnow",
+    "title": "Product Manager – Platform Experience & Cloud Administration (m/f/d)",
+    "company": "Jedox GmbH",
+    "location": "Freiburg im Breisgau",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/jedox-gmbh/product-manager-platform-experience-cloud-administration-freiburg-im-breisgau-287874",
+    "description": "What is Jedox? Jedox is a leading provider of Enterprise Performance Management (EPM) solutions, helping organizations plan, analyze, and drive business performance with confidence. More than 2,000 companies worldwide, from ambitious mid-sized businesses to global enterprises, rely on Jedox to streamline planning, budgeting, forecasting, and reporting processes.\nRecognized as a leader in the Gartner® Magic Quadrant™, Jedox combines powerful planning capabilities with a modern cloud platform that enables businesses to adapt quickly and make informed decisions. At Jedox, we believe in innovation, impactful results, people centricity, and the power of #OneTeam to help our customers succeed.\n Your Responsibilities As Product Manager – Platform Experience & Cloud Administration, you will own the strategy, roadmap, and delivery of key platform experiences including navigation, onboarding, user access, and cloud administration. Working closely with Engineering, Design, and Architecture, you will drive improvements that enhance usability, customer trust, and platform scalability, helping shape how thousands of users experience Jedox every day.\n What You'll Do Own the product strategy and roadmap : Define and drive the product vision, roadmap, and priorities for Platform Navigation, BaseUI, and Cloud Console capabilities. Lead discovery and product validation: Conduct user research, gather stakeholder input, analyze customer needs, and validate opportunities to ensure impactful product investments. Shape the platform experience: Improve navigation, onboarding, login experiences, session management, and integrations with platform services such as analytics and feature flagging solutions. Drive Cloud Console evolution:  Enhance the self-service administration experience, enabling IT teams to efficiently manage environments, users, permissions, and access controls. Manage end-to-end product delivery: Guide initiatives from concept through delivery, launch, and communication wh…",
+    "tags": [
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-11T02:09:28.000Z",
+    "scrapedAt": "2026-09-11T02:46:38.318Z"
   }
 ]
