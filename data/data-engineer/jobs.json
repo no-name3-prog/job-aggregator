@@ -1,5 +1,34 @@
 [
   {
+    "id": "arbeitnow:data-platform-engineer-working-student-munchen-164015",
+    "externalId": "data-platform-engineer-working-student-munchen-164015",
+    "source": "arbeitnow",
+    "title": "Data Platform Engineer Working Student (m/w/d)",
+    "company": "Trusteq Gmbh",
+    "location": "München",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-164015",
+    "description": "YOUR TASKS You support the design and development of Databricks-native data platforms and lakehouse architectures for internal projects and client engagements. You contribute to implementing medallion architectures (Bronze, Silver, and Gold), including Auto Loader-based data ingestion. You support the development of data governance concepts using tools such as Unity Catalog, including access control and permission models. You help automate deployments using Databricks Asset Bundles (DAB) and CI/CD pipelines. You contribute to developing data quality frameworks and monitoring solutions for production data platforms. You support the technical documentation of platform architectures and internal best practices. You contribute to internal tooling and demonstrator projects, actively helping shape and strengthen our Data Platform practice.\n YOUR PROFIL You are currently enrolled in an IT-related degree programme, such as Computer Science, Business Information Systems, Data Engineering, Data Science, or a related discipline. You have good knowledge of Python and SQL. Initial experience with Databricks and/or cloud data platforms such as Azure, AWS, or GCP is an advantage. You are interested in topics such as data lakehouses, data governance, Infrastructure as Code, and CI/CD. You have a basic understanding of data modelling and data integration processes (ETL/ELT). Experience with Git and version control is desirable. You work independently and in a structured manner and demonstrate strong teamwork and communication skills. You have excellent German and English language skills (at least C1 level in both languages). You are able to work from our Cologne or Munich office at least 50% of the time\n YOUR BENEFITS Supportive Team Culture: Team cohesion is important to us – we support one another and foster a healthy office culture. Our event team organizes regular after-work events to encourage exchange and connection beyond the workplace. Early Ownership & Responsibility: From…",
+    "tags": [
+      "Working Student",
+      "Working Student Data Analyst",
+      "Data Analyst",
+      "IT-Strategy",
+      "ESG",
+      "Working Student Data Engineer",
+      "Data Engineer",
+      "Data Bricks",
+      "Data Platform",
+      "Data Platform Engineer",
+      "Student",
+      "Working student",
+      "Part time"
+    ],
+    "jobType": "Student",
+    "postedAt": "2026-09-11T11:09:21.000Z",
+    "scrapedAt": "2026-09-11T13:12:47.960Z"
+  },
+  {
     "id": "arbeitnow:senior-data-engineer-paris-paris-266200",
     "externalId": "senior-data-engineer-paris-paris-266200",
     "source": "arbeitnow",
@@ -13,39 +42,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-11T04:55:10.000Z",
-    "scrapedAt": "2026-09-11T07:45:03.506Z"
-  },
-  {
-    "id": "arbeitnow:data-engineerin-it-support-kiel-386066",
-    "externalId": "data-engineerin-it-support-kiel-386066",
-    "source": "arbeitnow",
-    "title": "Data Engineer:in / IT Support (m/w/d)",
-    "company": "LOHNunion GmbH",
-    "location": "Kiel",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/lohnunion-gmbh/data-engineerin-it-support-kiel-386066",
-    "description": "Deine Vision. Deine LOHNunion.\n Gestalte deine berufliche Zukunft beim 7-fachen Top Dienstleister: Bereits jetzt sind wir DAS Lohnbüro für mehr als 4.000 Unternehmen in ganz Deutschland und wachsen täglich. Unsere Kundenpalette reicht vom Kiosk um die Ecke bis hin zum Global Player mit mehr als 1.000 Mitarbeitenden. Und mit dir werden wir garantiert noch schlagkräftiger…\n Mehr Teamspirit, mehr Wachstum, mehr Erfolg!\n Wir suchen dich als Data Engineer:in / IT Support (m/w/d), wenn du gerne in einem kleinen Team arbeitest, selbst programmierst und Lust hast, unsere Datenlandschaft und -infrastruktur aktiv mitzugestalten und weiterzuentwickeln, dann bist du bei uns genau richtig! Dabei geht es nicht nur um Wartung und klassischen Support: Du übernimmst Verantwortung, verbesserst bestehende Lösungen und hast die Möglichkeit, eigene Ideen einzubringen und umzusetzen. Wichtig sind uns vor allem technisches Verständnis, Eigeninitiative und die Bereitschaft, dich in neue Themen und Technologien einzuarbeiten. Die Position ist in Vollzeit zum frühestmöglichen Zeitpunkt an unserem Standort in Kiel zu besetzen.\n Aufgaben\n • Wartung und Weiterentwicklung unserer Datenpipelines und Dateninfrastruktur\n • Technischer Support rund um unser CRM-System und die dahinterliegende MySQL-Datenbank\n • Weiterentwicklung unserer Infrastruktur, insbesondere mit Linux, Containerisierung, und gekapselten Services\n • Sicherstellung der Datenqualität sowie Optimierung und Automatisierung bestehender Datenprozesse\n • Eigenständige Umsetzung von Projekten und neuen Ideen, perspektivisch auch in Data Science und Machine Learning\n • Zusammenarbeit mit verschiedenen Fachbereichen sowie Unterstützung bei technischen und datenbezogenen Fragestellungen\n Qualifikation\n • Erfolgreich abgeschlossenes Studium im Bereich (Wirtschafts-)Informatik, Data Science, Mathematik, Naturwissenschaften oder eine vergleichbare Qualifikation.\n • Quereinsteiger mit relevanten praktischen Kenntnissen in Data Engineering, P…",
-    "tags": [
-      "Data Scientist"
-    ],
-    "postedAt": "2026-09-10T22:30:26.000Z",
-    "scrapedAt": "2026-09-11T07:45:03.506Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-uk-239308",
-    "externalId": "data-engineer-uk-239308",
-    "source": "arbeitnow",
-    "title": "Data Engineer- UK",
-    "company": "Coreview",
-    "location": "Unknown",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/coreview/data-engineer-uk-239308",
-    "description": "<div class=\"content-intro\"><p><strong><span data-contrast=\"auto\">About&nbsp;CoreView </span></strong><span data-contrast=\"auto\"> </span>&nbsp;<br></p>\n<p><span data-contrast=\"none\">CoreView is the global leader in Microsoft 365 (M365) tenant resilience, serving over 23 million users worldwide. We empower the world’s leading organizations to master the complexity of Microsoft M365.&nbsp;&nbsp;Through robust security and precise governance, we help ensure that our client’s environments stay cyber-resilient and productive, no matter how complex they are.&nbsp;</span>&nbsp;<br>&nbsp;<br><span data-contrast=\"none\">Our unified, cloud-native platform delivers powerful automation, rapid value, and end-to-end visibility across the entire M365 ecosystem. Backed by world-class support and a collaborative, innovative culture,&nbsp;CoreView&nbsp;is a place where your ideas matter, and your work truly&nbsp;impacts&nbsp;global enterprises.&nbsp;</span><span data-ccp-props=\"{}\">&nbsp;</span></p></div><p><strong>Job Summary</strong></p>\n<p>This role sits in Operations. You'll report to the Data Analyst Manager helping establish our data practice, including documented pipelines, governed metric definitions, and an established way for other departments to ask for data without it becoming ad hoc, bespoke work every time. In addition, CoreView is improving how we understand product telemetry, platform product usage, licence utilisation and adoption trends.&nbsp; You will work across business functions and take ownership of CoreView's customer usage and adoption analytics and turn them into a production-grade, reliable system, then help scope and build the next set of metrics and signals on top of them. You'll work primarily in Databricks (Unity Catalog, Spark Declarative Pipelines), using SQL and Python day to day, and you'll be expected to use AI-assisted development (Cursor, Claude, or equivalent) as a normal part of how you work.</p>\n<p><strong>Job Responsibilities</strong></p>\n<ul>…",
-    "tags": [
-      "RevOps"
-    ],
-    "postedAt": "2026-09-10T18:55:04.000Z",
-    "scrapedAt": "2026-09-11T07:45:03.506Z"
+    "scrapedAt": "2026-09-11T13:12:47.960Z"
   },
   {
     "id": "arbeitnow:remote-senior-data-engineer-real-time-analytics-62324",
@@ -63,7 +60,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-09T16:04:35.000Z",
-    "scrapedAt": "2026-09-11T07:45:03.506Z"
+    "scrapedAt": "2026-09-11T13:12:47.960Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-paris-office-122301",
@@ -81,7 +78,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-09T16:04:35.000Z",
-    "scrapedAt": "2026-09-11T07:45:03.506Z"
+    "scrapedAt": "2026-09-11T13:12:47.960Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -97,7 +94,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -113,7 +110,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -129,7 +126,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -145,7 +142,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -161,7 +158,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -177,7 +174,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -193,7 +190,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "remotive:2091097",
@@ -258,7 +255,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-09-11T07:45:03.378Z"
+    "scrapedAt": "2026-09-11T13:12:47.862Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -274,7 +271,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "remoteok:1136860",
@@ -308,7 +305,7 @@
       "digital nomad"
     ],
     "postedAt": "2026-08-17T16:00:06.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.058Z"
+    "scrapedAt": "2026-09-11T13:12:48.515Z"
   },
   {
     "id": "remoteok:1136594",
@@ -333,7 +330,7 @@
     ],
     "salary": "USD 40000 – 180000",
     "postedAt": "2026-08-13T16:06:05.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.058Z"
+    "scrapedAt": "2026-09-11T13:12:48.515Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -349,7 +346,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -369,7 +366,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-09-11T07:48:23.784Z"
+    "scrapedAt": "2026-09-11T13:16:06.007Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -388,7 +385,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-09-11T07:48:24.636Z"
+    "scrapedAt": "2026-09-11T13:16:08.894Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -404,7 +401,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -420,7 +417,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -436,7 +433,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -452,7 +449,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -468,7 +465,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -484,7 +481,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -500,7 +497,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -516,7 +513,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -532,7 +529,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -548,7 +545,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -564,7 +561,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -580,7 +577,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -596,7 +593,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -612,7 +609,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -628,7 +625,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -644,7 +641,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -660,7 +657,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -676,7 +673,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -692,23 +689,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
-  },
-  {
-    "id": "workday:workday-JR-0108815",
-    "externalId": "workday:JR-0108815",
-    "source": "workday",
-    "title": "Senior Data Engineer, Cybersecurity",
-    "company": "Workday",
-    "location": "Ireland, Dublin",
-    "remote": false,
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Cybersecurity-Data-Engineer_JR-0108815",
-    "description": "",
-    "tags": [
-      "Flex"
-    ],
-    "postedAt": null,
-    "scrapedAt": "2026-09-11T07:45:11.761Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -724,7 +705,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-11T07:45:11.761Z"
+    "scrapedAt": "2026-09-11T13:12:55.639Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -740,7 +721,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-11T07:45:11.761Z"
+    "scrapedAt": "2026-09-11T13:12:55.639Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -754,7 +735,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-11T07:45:11.761Z"
+    "scrapedAt": "2026-09-11T13:12:55.639Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -768,7 +749,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-11T07:45:11.761Z"
+    "scrapedAt": "2026-09-11T13:12:55.639Z"
   },
   {
     "id": "workday:salesforce-JR352818",
@@ -782,7 +763,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-11T07:45:11.761Z"
+    "scrapedAt": "2026-09-11T13:12:55.639Z"
   },
   {
     "id": "workday:salesforce-JR354027",
@@ -796,7 +777,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-11T07:45:11.761Z"
+    "scrapedAt": "2026-09-11T13:12:55.639Z"
   },
   {
     "id": "workday:adobe-R170680",
@@ -810,7 +791,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-11T07:45:11.761Z"
+    "scrapedAt": "2026-09-11T13:12:55.639Z"
   },
   {
     "id": "workday:adobe-R171024",
@@ -824,7 +805,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-11T07:45:11.761Z"
+    "scrapedAt": "2026-09-11T13:12:55.639Z"
   },
   {
     "id": "workday:adobe-R171212",
@@ -838,7 +819,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-11T07:45:11.761Z"
+    "scrapedAt": "2026-09-11T13:12:55.639Z"
   },
   {
     "id": "workday:adobe-R169536",
@@ -852,7 +833,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-11T07:45:11.761Z"
+    "scrapedAt": "2026-09-11T13:12:55.639Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -866,7 +847,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-11T07:45:11.761Z"
+    "scrapedAt": "2026-09-11T13:12:55.639Z"
   },
   {
     "id": "workday:autodesk-26WD100418",
@@ -880,7 +861,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-11T07:45:11.761Z"
+    "scrapedAt": "2026-09-11T13:12:55.639Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -894,7 +875,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-11T07:45:11.761Z"
+    "scrapedAt": "2026-09-11T13:12:55.639Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -908,7 +889,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-11T07:45:11.761Z"
+    "scrapedAt": "2026-09-11T13:12:55.639Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -922,7 +903,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-11T07:45:11.761Z"
+    "scrapedAt": "2026-09-11T13:12:55.639Z"
   },
   {
     "id": "workday:salesforce-JR341884",
@@ -936,7 +917,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-11T07:46:25.718Z"
+    "scrapedAt": "2026-09-11T13:14:08.640Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -950,7 +931,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-11T07:46:25.718Z"
+    "scrapedAt": "2026-09-11T13:14:08.640Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -964,6 +945,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-11T07:46:25.718Z"
+    "scrapedAt": "2026-09-11T13:14:08.640Z"
   }
 ]

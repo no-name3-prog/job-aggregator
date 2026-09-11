@@ -151,27 +151,6 @@
     ]
   },
   {
-    "company": "Workday",
-    "jobCount": 3,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Ireland, Dublin",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer, Cybersecurity",
-      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
-      "Data Platform Engineer - Cybersecurity"
-    ],
-    "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Cybersecurity-Data-Engineer_JR-0108815",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
-    ]
-  },
-  {
     "company": "Aircall",
     "jobCount": 2,
     "sources": [
@@ -286,6 +265,25 @@
     ]
   },
   {
+    "company": "Workday",
+    "jobCount": 2,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "2 Locations",
+      "Ireland, Dublin"
+    ],
+    "sampleTitles": [
+      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
+      "Data Platform Engineer - Cybersecurity"
+    ],
+    "officialUrls": [
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
+    ]
+  },
+  {
     "company": "Affirm",
     "jobCount": 1,
     "sources": [
@@ -331,22 +329,6 @@
     ],
     "officialUrls": [
       "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008"
-    ]
-  },
-  {
-    "company": "Coreview",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Unknown"
-    ],
-    "sampleTitles": [
-      "Data Engineer- UK"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/coreview/data-engineer-uk-239308"
     ]
   },
   {
@@ -414,22 +396,6 @@
     ]
   },
   {
-    "company": "LOHNunion GmbH",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Kiel"
-    ],
-    "sampleTitles": [
-      "Data Engineer:in / IT Support (m/w/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/lohnunion-gmbh/data-engineerin-it-support-kiel-386066"
-    ]
-  },
-  {
     "company": "Lyft",
     "jobCount": 1,
     "sources": [
@@ -491,6 +457,22 @@
     ],
     "officialUrls": [
       "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da"
+    ]
+  },
+  {
+    "company": "Trusteq Gmbh",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "München"
+    ],
+    "sampleTitles": [
+      "Data Platform Engineer Working Student (m/w/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-164015"
     ]
   },
   {

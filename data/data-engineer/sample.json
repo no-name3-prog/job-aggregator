@@ -1,5 +1,34 @@
 [
   {
+    "id": "arbeitnow:data-platform-engineer-working-student-munchen-164015",
+    "externalId": "data-platform-engineer-working-student-munchen-164015",
+    "source": "arbeitnow",
+    "title": "Data Platform Engineer Working Student (m/w/d)",
+    "company": "Trusteq Gmbh",
+    "location": "München",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-164015",
+    "description": "YOUR TASKS You support the design and development of Databricks-native data platforms and lakehouse architectures for internal projects and client engagements. You contribute to implementing medallion architectures (Bronze, Silver, and Gold), including Auto Loader-based data ingestion. You support the development of data governance concepts using tools such as Unity Catalog, including access control and permission models. You help automate deployments using Databricks Asset Bundles (DAB) and CI/CD pipelines. You contribute to developing data quality frameworks and monitoring solutions for production data platforms. You support the technical documentation of platform architectures and internal best practices. You contribute to internal tooling and demonstrator projects, actively helping shape and strengthen our Data Platform practice.\n YOUR PROFIL You are currently enrolled in an IT-related degree programme, such as Computer Science, Business Information Systems, Data Engineering, Data Science, or a related discipline. You have good knowledge of Python and SQL. Initial experience with Databricks and/or cloud data platforms such as Azure, AWS, or GCP is an advantage. You are interested in topics such as data lakehouses, data governance, Infrastructure as Code, and CI/CD. You have a basic understanding of data modelling and data integration processes (ETL/ELT). Experience with Git and version control is desirable. You work independently and in a structured manner and demonstrate strong teamwork and communication skills. You have excellent German and English language skills (at least C1 level in both languages). You are able to work from our Cologne or Munich office at least 50% of the time\n YOUR BENEFITS Supportive Team Culture: Team cohesion is important to us – we support one another and foster a healthy office culture. Our event team organizes regular after-work events to encourage exchange and connection beyond the workplace. Early Ownership & Responsibility: From…",
+    "tags": [
+      "Working Student",
+      "Working Student Data Analyst",
+      "Data Analyst",
+      "IT-Strategy",
+      "ESG",
+      "Working Student Data Engineer",
+      "Data Engineer",
+      "Data Bricks",
+      "Data Platform",
+      "Data Platform Engineer",
+      "Student",
+      "Working student",
+      "Part time"
+    ],
+    "jobType": "Student",
+    "postedAt": "2026-09-11T11:09:21.000Z",
+    "scrapedAt": "2026-09-11T13:12:47.960Z"
+  },
+  {
     "id": "arbeitnow:senior-data-engineer-paris-paris-266200",
     "externalId": "senior-data-engineer-paris-paris-266200",
     "source": "arbeitnow",
@@ -13,39 +42,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-11T04:55:10.000Z",
-    "scrapedAt": "2026-09-11T07:45:03.506Z"
-  },
-  {
-    "id": "arbeitnow:data-engineerin-it-support-kiel-386066",
-    "externalId": "data-engineerin-it-support-kiel-386066",
-    "source": "arbeitnow",
-    "title": "Data Engineer:in / IT Support (m/w/d)",
-    "company": "LOHNunion GmbH",
-    "location": "Kiel",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/lohnunion-gmbh/data-engineerin-it-support-kiel-386066",
-    "description": "Deine Vision. Deine LOHNunion.\n Gestalte deine berufliche Zukunft beim 7-fachen Top Dienstleister: Bereits jetzt sind wir DAS Lohnbüro für mehr als 4.000 Unternehmen in ganz Deutschland und wachsen täglich. Unsere Kundenpalette reicht vom Kiosk um die Ecke bis hin zum Global Player mit mehr als 1.000 Mitarbeitenden. Und mit dir werden wir garantiert noch schlagkräftiger…\n Mehr Teamspirit, mehr Wachstum, mehr Erfolg!\n Wir suchen dich als Data Engineer:in / IT Support (m/w/d), wenn du gerne in einem kleinen Team arbeitest, selbst programmierst und Lust hast, unsere Datenlandschaft und -infrastruktur aktiv mitzugestalten und weiterzuentwickeln, dann bist du bei uns genau richtig! Dabei geht es nicht nur um Wartung und klassischen Support: Du übernimmst Verantwortung, verbesserst bestehende Lösungen und hast die Möglichkeit, eigene Ideen einzubringen und umzusetzen. Wichtig sind uns vor allem technisches Verständnis, Eigeninitiative und die Bereitschaft, dich in neue Themen und Technologien einzuarbeiten. Die Position ist in Vollzeit zum frühestmöglichen Zeitpunkt an unserem Standort in Kiel zu besetzen.\n Aufgaben\n • Wartung und Weiterentwicklung unserer Datenpipelines und Dateninfrastruktur\n • Technischer Support rund um unser CRM-System und die dahinterliegende MySQL-Datenbank\n • Weiterentwicklung unserer Infrastruktur, insbesondere mit Linux, Containerisierung, und gekapselten Services\n • Sicherstellung der Datenqualität sowie Optimierung und Automatisierung bestehender Datenprozesse\n • Eigenständige Umsetzung von Projekten und neuen Ideen, perspektivisch auch in Data Science und Machine Learning\n • Zusammenarbeit mit verschiedenen Fachbereichen sowie Unterstützung bei technischen und datenbezogenen Fragestellungen\n Qualifikation\n • Erfolgreich abgeschlossenes Studium im Bereich (Wirtschafts-)Informatik, Data Science, Mathematik, Naturwissenschaften oder eine vergleichbare Qualifikation.\n • Quereinsteiger mit relevanten praktischen Kenntnissen in Data Engineering, P…",
-    "tags": [
-      "Data Scientist"
-    ],
-    "postedAt": "2026-09-10T22:30:26.000Z",
-    "scrapedAt": "2026-09-11T07:45:03.506Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-uk-239308",
-    "externalId": "data-engineer-uk-239308",
-    "source": "arbeitnow",
-    "title": "Data Engineer- UK",
-    "company": "Coreview",
-    "location": "Unknown",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/coreview/data-engineer-uk-239308",
-    "description": "<div class=\"content-intro\"><p><strong><span data-contrast=\"auto\">About&nbsp;CoreView </span></strong><span data-contrast=\"auto\"> </span>&nbsp;<br></p>\n<p><span data-contrast=\"none\">CoreView is the global leader in Microsoft 365 (M365) tenant resilience, serving over 23 million users worldwide. We empower the world’s leading organizations to master the complexity of Microsoft M365.&nbsp;&nbsp;Through robust security and precise governance, we help ensure that our client’s environments stay cyber-resilient and productive, no matter how complex they are.&nbsp;</span>&nbsp;<br>&nbsp;<br><span data-contrast=\"none\">Our unified, cloud-native platform delivers powerful automation, rapid value, and end-to-end visibility across the entire M365 ecosystem. Backed by world-class support and a collaborative, innovative culture,&nbsp;CoreView&nbsp;is a place where your ideas matter, and your work truly&nbsp;impacts&nbsp;global enterprises.&nbsp;</span><span data-ccp-props=\"{}\">&nbsp;</span></p></div><p><strong>Job Summary</strong></p>\n<p>This role sits in Operations. You'll report to the Data Analyst Manager helping establish our data practice, including documented pipelines, governed metric definitions, and an established way for other departments to ask for data without it becoming ad hoc, bespoke work every time. In addition, CoreView is improving how we understand product telemetry, platform product usage, licence utilisation and adoption trends.&nbsp; You will work across business functions and take ownership of CoreView's customer usage and adoption analytics and turn them into a production-grade, reliable system, then help scope and build the next set of metrics and signals on top of them. You'll work primarily in Databricks (Unity Catalog, Spark Declarative Pipelines), using SQL and Python day to day, and you'll be expected to use AI-assisted development (Cursor, Claude, or equivalent) as a normal part of how you work.</p>\n<p><strong>Job Responsibilities</strong></p>\n<ul>…",
-    "tags": [
-      "RevOps"
-    ],
-    "postedAt": "2026-09-10T18:55:04.000Z",
-    "scrapedAt": "2026-09-11T07:45:03.506Z"
+    "scrapedAt": "2026-09-11T13:12:47.960Z"
   },
   {
     "id": "arbeitnow:remote-senior-data-engineer-real-time-analytics-62324",
@@ -63,7 +60,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-09T16:04:35.000Z",
-    "scrapedAt": "2026-09-11T07:45:03.506Z"
+    "scrapedAt": "2026-09-11T13:12:47.960Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-paris-office-122301",
@@ -81,7 +78,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-09T16:04:35.000Z",
-    "scrapedAt": "2026-09-11T07:45:03.506Z"
+    "scrapedAt": "2026-09-11T13:12:47.960Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -97,7 +94,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -113,7 +110,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -129,7 +126,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -145,7 +142,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -161,6 +158,22 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-11T07:45:04.070Z"
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
+  },
+  {
+    "id": "greenhouse:coinbase-8144836",
+    "externalId": "coinbase:8144836",
+    "source": "greenhouse",
+    "title": "Staff Data Engineer, Market Data",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "remote": true,
+    "url": "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Coinbase is building the future of institutional trading as part of the Everything Exchange, powering the systems that let the world's largest financial institutions trade across markets with speed, depth, and trust. As a Staff Data Engineer, Market Data on the Institutional Markets team, you'll architect, build, and own the systems that generate, capture, normalize, and distribute real-time market data across Coinbase at low latency - the ticker plant and distribution backbone of a unified trading platform - while leading a lean, high-impact team. It's a rare chance to architect market data infrastructure from the ground up, with the ownership of a startup and the reach of Coinbase.\n What you'll do:\n Build and operate market data components: feed handlers, normalization, distribution, and venue connectivity.\n Design low-latency, high-throughput systems for real-time market data used by trading systems.\n Strengthen reliability and performance by contributing to observability, on-call, and incident response.\n Write high-quality, well-tested code and raise the quality bar on a lean team.\n Partner with engineers, product, and cross-functional stakeholders to deliver market data capabilities.\n Required Skills and Experience:\n 5+ years of backend engineering, with experience building and maintaining production low-latency systems.\n Hands-on experience with market data systems (feed…",
+    "tags": [
+      "Engineering"
+    ],
+    "postedAt": "2026-08-20T21:05:21.000Z",
+    "scrapedAt": "2026-09-11T13:12:48.522Z"
   }
 ]
