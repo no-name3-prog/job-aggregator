@@ -1,5 +1,44 @@
 [
   {
+    "id": "arbeitnow:werkstudent-all-genders-data-engineering-frankfurt-am-main-88058",
+    "externalId": "werkstudent-all-genders-data-engineering-frankfurt-am-main-88058",
+    "source": "arbeitnow",
+    "title": "Werkstudent (all genders) Data Engineering",
+    "company": "Supreme Sports Hospitality GmbH",
+    "location": "Frankfurt am Main, Hessen, Deutschland",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/supreme-sports-hospitality-gmbh/werkstudent-all-genders-data-engineering-frankfurt-am-main-88058",
+    "description": "Wir bei Supreme Sports Hospitality lieben echte Stadion-Atmosphäre: Egal ob Fußballspiele oder Konzerte – wir lieben gute Stimmung! Perfekte Lebensläufe stehen bei uns nicht im Vordergrund, wir legen viel mehr Wert auf individuelle Persönlichkeiten & Leidenschaft. Wir suchen nach außergewöhnlichen Talenten, die es schaffen, im Alltag andere Menschen zu begeistern & mitzureißen. Eine Prise Humor & ein klein wenig Verrücktheit können dabei auch nicht schaden.\n Klingt ganz nach Dir?! Dann passt Du perfekt zu uns!\n What´s in it for you?!\n Unternehmen mit Perspektive – wir befinden uns auf Wachstumskurs\n Befristeter Arbeitsvertrag für 6 Monate – mit Chance auf Weiterbeschäftigung\n Attraktive Vergütung – da Du von einem tollen Teamspirit allein leider keine Rechnungen zahlen kannst\n Mitreißende Events – wir lieben gute Stimmung & sind voll dabei\n Mitarbeitendenrabatte – shoppen bis zum Umfallen\n Ein Jobrad um mobil zu bleiben, privat und auf dem Weg zur Arbeit\n Kostenlose Eventtickets (nach Verfügbarkeit) für dich und deine Liebsten\n EGYM Wellpass\n Geschenkgutschein zu deinem Geburtstag\n Daily Business?! Nicht mit uns…\n Du bindest eigenständig neue Datensätze an unsere Data-Analytics-Architektur an und überführst sie nachhaltig in unsere bestehende Struktur\n Du sprichst mit Stakeholdern aus verschiedenen Bereichen, um die Daten fachlich zu verstehen: Woher kommen sie, was bedeuten sie, worauf kommt es an?\n Du bereinigst, modellierst und testest deine Data Pipelines und dokumentierst deine Transformationen nachvollziehbar\n Du entwickelst Pipelines und Auswertungen in Python und SQL (DuckDB) – gerne KI-gestützt, aber immer mit vollem Verständnis für das Ergebnis\n Du präsentierst und erklärst deine Lösungen im Team und stehst für deinen Code ein\n Dein Recruiting-Pitch an uns…\n Ausgeprägte Lernbereitschaft und die Motivation, dich schnell in neue Themen einzuarbeiten\n Bereitschaft, früh Verantwortung zu übernehmen und Aufgaben eigenständig voranzutreiben\n Grundverständnis vo…",
+    "tags": [
+      "Finance",
+      "Entry",
+      "parttime fixed term"
+    ],
+    "jobType": "Entry",
+    "postedAt": "2026-09-12T05:30:23.000Z",
+    "scrapedAt": "2026-09-12T07:40:04.482Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-munchen-63681",
+    "externalId": "data-engineer-munchen-63681",
+    "source": "arbeitnow",
+    "title": "Data Engineer (m/f/d)",
+    "company": "Ecoplanet Green Operations Gmbh",
+    "location": "München",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/ecoplanet-green-operations-gmbh/data-engineer-munchen-63681",
+    "description": "What we are building At ecoplanet, we're redefining energy for tomorrow. Our mission: turn energy management into the competitive edge every European business relies on to win its market. We're building the operating system for the energy transition — cutting energy costs, improving efficiency, and streamlining operations. Backed by EQT Ventures, HV Capital and more, and built by a team full of top-tier talent.\n Why This Role Matters You will build and run the data backbone the whole product sits on. Meter readings arrive from industrial sites across Europe, through messages or us accessing APIs. Your job is to get that data in clean, on time, and in a shape that dashboards, insights and forecasts can rely on.\nYou will join a team of 12 engineers in two squads. Small team, real ownership, and what you build reaches customers in weeks rather than quarters.\n What You’ll Achieve Meter data integration. Connect industrial hardware and utility data streams into real-time dashboards. Every site is a little different, so a good part of the job is bringing data into a consistent structure across all sites Anomalies and insights. This is where data science comes in. Find the things in the data a customer would want to know about — a meter drifting, a machine left running overnight, consumption that does not fit the pattern — and turn them into something they can act on Tech stack and growth. Support the engineering team building scalable data pipeline\n What Sets You Up for Success Must have:\n At least 3–5 years in a data engineering role or something close to it, building pipelines other people depend on\n Hands-on data science experience. You do not need a research background. You do need to have built and evaluated models yourself: enough to tell a real anomaly from noise, to judge when a finding is solid enough to put in front of a paying customer, and to know what a pipeline owes a model running in production\n Solid with Python and SQL and cloud data infrastructure. You…",
+    "tags": [
+      "Data Engineering",
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-12T05:09:37.000Z",
+    "scrapedAt": "2026-09-12T07:40:04.482Z"
+  },
+  {
     "id": "arbeitnow:senior-analytics-engineer-berlin-219113",
     "externalId": "senior-analytics-engineer-berlin-219113",
     "source": "arbeitnow",
@@ -15,7 +54,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-11T23:40:11.000Z",
-    "scrapedAt": "2026-09-12T02:56:00.433Z"
+    "scrapedAt": "2026-09-12T07:40:04.482Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-london-office-177011",
@@ -33,7 +72,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-11T18:25:12.000Z",
-    "scrapedAt": "2026-09-12T02:56:00.433Z"
+    "scrapedAt": "2026-09-12T07:40:04.482Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -49,7 +88,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-12T02:56:01.819Z"
+    "scrapedAt": "2026-09-12T07:40:05.033Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-paris-paris-266200",
@@ -65,7 +104,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-11T04:55:10.000Z",
-    "scrapedAt": "2026-09-12T02:56:00.433Z"
+    "scrapedAt": "2026-09-12T07:40:04.482Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -81,7 +120,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-12T02:56:01.819Z"
+    "scrapedAt": "2026-09-12T07:40:05.033Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -97,7 +136,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-12T02:56:01.819Z"
+    "scrapedAt": "2026-09-12T07:40:05.033Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -113,7 +152,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-12T02:56:01.819Z"
+    "scrapedAt": "2026-09-12T07:40:05.033Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -129,38 +168,6 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-12T02:56:01.819Z"
-  },
-  {
-    "id": "greenhouse:instacart-8167458",
-    "externalId": "instacart:8167458",
-    "source": "greenhouse",
-    "title": "Analytics Engineer II",
-    "company": "Instacart",
-    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-    "remote": true,
-    "url": "https://instacart.careers/job/?gh_jid=8167458",
-    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n The Marketing Enablement & Technology (MET) team sits natively within Instacart's Marketing organization, owning the data foundations that power Paid Marketing, SEO, and Retailer Marketing attribution. These datasets directly inform how we allocate hundreds of millions of dollars in marketing spend and how we measure growth.\n We're hiring an Analytics Engineer II to help build and evolve the marketing analytics data foundation. In this role, you'll independently design and deliver high-quality, business-aware data models and pipelines that Data Scientists and Analysts trust — owning your work end-to-end, raising the quality bar through code reviews and design discussion, and growing toward broader technical ownership of marketing data.\n About the Job\n Marketing Analytics Data Development: Independently build and maintain high-quality dimensional dat…",
-    "tags": [
-      "Marketing "
-    ],
-    "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-12T02:56:01.819Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8144836",
-    "externalId": "coinbase:8144836",
-    "source": "greenhouse",
-    "title": "Staff Data Engineer, Market Data",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Coinbase is building the future of institutional trading as part of the Everything Exchange, powering the systems that let the world's largest financial institutions trade across markets with speed, depth, and trust. As a Staff Data Engineer, Market Data on the Institutional Markets team, you'll architect, build, and own the systems that generate, capture, normalize, and distribute real-time market data across Coinbase at low latency - the ticker plant and distribution backbone of a unified trading platform - while leading a lean, high-impact team. It's a rare chance to architect market data infrastructure from the ground up, with the ownership of a startup and the reach of Coinbase.\n What you'll do:\n Build and operate market data components: feed handlers, normalization, distribution, and venue connectivity.\n Design low-latency, high-throughput systems for real-time market data used by trading systems.\n Strengthen reliability and performance by contributing to observability, on-call, and incident response.\n Write high-quality, well-tested code and raise the quality bar on a lean team.\n Partner with engineers, product, and cross-functional stakeholders to deliver market data capabilities.\n Required Skills and Experience:\n 5+ years of backend engineering, with experience building and maintaining production low-latency systems.\n Hands-on experience with market data systems (feed…",
-    "tags": [
-      "Engineering"
-    ],
-    "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-12T02:56:01.819Z"
+    "scrapedAt": "2026-09-12T07:40:05.033Z"
   }
 ]
