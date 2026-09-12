@@ -1,62 +1,5 @@
 [
   {
-    "id": "arbeitnow:werkstudent-all-genders-data-engineering-frankfurt-am-main-88058",
-    "externalId": "werkstudent-all-genders-data-engineering-frankfurt-am-main-88058",
-    "source": "arbeitnow",
-    "title": "Werkstudent (all genders) Data Engineering",
-    "company": "Supreme Sports Hospitality GmbH",
-    "location": "Frankfurt am Main, Hessen, Deutschland",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/supreme-sports-hospitality-gmbh/werkstudent-all-genders-data-engineering-frankfurt-am-main-88058",
-    "description": "Wir bei Supreme Sports Hospitality lieben echte Stadion-Atmosphäre: Egal ob Fußballspiele oder Konzerte – wir lieben gute Stimmung! Perfekte Lebensläufe stehen bei uns nicht im Vordergrund, wir legen viel mehr Wert auf individuelle Persönlichkeiten & Leidenschaft. Wir suchen nach außergewöhnlichen Talenten, die es schaffen, im Alltag andere Menschen zu begeistern & mitzureißen. Eine Prise Humor & ein klein wenig Verrücktheit können dabei auch nicht schaden.\n Klingt ganz nach Dir?! Dann passt Du perfekt zu uns!\n What´s in it for you?!\n Unternehmen mit Perspektive – wir befinden uns auf Wachstumskurs\n Befristeter Arbeitsvertrag für 6 Monate – mit Chance auf Weiterbeschäftigung\n Attraktive Vergütung – da Du von einem tollen Teamspirit allein leider keine Rechnungen zahlen kannst\n Mitreißende Events – wir lieben gute Stimmung & sind voll dabei\n Mitarbeitendenrabatte – shoppen bis zum Umfallen\n Ein Jobrad um mobil zu bleiben, privat und auf dem Weg zur Arbeit\n Kostenlose Eventtickets (nach Verfügbarkeit) für dich und deine Liebsten\n EGYM Wellpass\n Geschenkgutschein zu deinem Geburtstag\n Daily Business?! Nicht mit uns…\n Du bindest eigenständig neue Datensätze an unsere Data-Analytics-Architektur an und überführst sie nachhaltig in unsere bestehende Struktur\n Du sprichst mit Stakeholdern aus verschiedenen Bereichen, um die Daten fachlich zu verstehen: Woher kommen sie, was bedeuten sie, worauf kommt es an?\n Du bereinigst, modellierst und testest deine Data Pipelines und dokumentierst deine Transformationen nachvollziehbar\n Du entwickelst Pipelines und Auswertungen in Python und SQL (DuckDB) – gerne KI-gestützt, aber immer mit vollem Verständnis für das Ergebnis\n Du präsentierst und erklärst deine Lösungen im Team und stehst für deinen Code ein\n Dein Recruiting-Pitch an uns…\n Ausgeprägte Lernbereitschaft und die Motivation, dich schnell in neue Themen einzuarbeiten\n Bereitschaft, früh Verantwortung zu übernehmen und Aufgaben eigenständig voranzutreiben\n Grundverständnis vo…",
-    "tags": [
-      "Finance",
-      "Entry",
-      "parttime fixed term"
-    ],
-    "jobType": "Entry",
-    "postedAt": "2026-09-12T05:30:23.000Z",
-    "scrapedAt": "2026-09-12T12:36:41.993Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-munchen-63681",
-    "externalId": "data-engineer-munchen-63681",
-    "source": "arbeitnow",
-    "title": "Data Engineer (m/f/d)",
-    "company": "Ecoplanet Green Operations Gmbh",
-    "location": "München",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/ecoplanet-green-operations-gmbh/data-engineer-munchen-63681",
-    "description": "What we are building At ecoplanet, we're redefining energy for tomorrow. Our mission: turn energy management into the competitive edge every European business relies on to win its market. We're building the operating system for the energy transition — cutting energy costs, improving efficiency, and streamlining operations. Backed by EQT Ventures, HV Capital and more, and built by a team full of top-tier talent.\n Why This Role Matters You will build and run the data backbone the whole product sits on. Meter readings arrive from industrial sites across Europe, through messages or us accessing APIs. Your job is to get that data in clean, on time, and in a shape that dashboards, insights and forecasts can rely on.\nYou will join a team of 12 engineers in two squads. Small team, real ownership, and what you build reaches customers in weeks rather than quarters.\n What You’ll Achieve Meter data integration. Connect industrial hardware and utility data streams into real-time dashboards. Every site is a little different, so a good part of the job is bringing data into a consistent structure across all sites Anomalies and insights. This is where data science comes in. Find the things in the data a customer would want to know about — a meter drifting, a machine left running overnight, consumption that does not fit the pattern — and turn them into something they can act on Tech stack and growth. Support the engineering team building scalable data pipeline\n What Sets You Up for Success Must have:\n At least 3–5 years in a data engineering role or something close to it, building pipelines other people depend on\n Hands-on data science experience. You do not need a research background. You do need to have built and evaluated models yourself: enough to tell a real anomaly from noise, to judge when a finding is solid enough to put in front of a paying customer, and to know what a pipeline owes a model running in production\n Solid with Python and SQL and cloud data infrastructure. You…",
-    "tags": [
-      "Data Engineering",
-      "Experienced",
-      "Permanent",
-      "Full time"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-09-12T05:09:37.000Z",
-    "scrapedAt": "2026-09-12T12:36:41.993Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-real-time-analytics-london-office-177011",
-    "externalId": "senior-data-engineer-real-time-analytics-london-office-177011",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer - Real time analytics",
-    "company": "Aircall",
-    "location": "London Office",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-177011",
-    "description": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI together into one seamless workspace.\n Our momentum comes from a simple idea: help teams work smarter, not harder. Aircall’s AI Voice Agent automates routine calls, AI Assist streamlines post-call work, and AI Assist Pro delivers real-time guidance so people can do their best work. The result is higher revenue, faster resolutions, and teams that scale with confidence.\n Aircall is headquartered in Paris, our European HQ, with a strong North American presence anchored in Seattle, our North American HQ, and teams across Madrid, London, Berlin, San Francisco, New York City, Sydney, and Mexico City. We’ve built a product customers love and a business that’s scaling quickly, backed by world-class investors and driven by rapid AI innovation across multiple product lines. At Aircall, you’ll join a company in motion. We’re ambitious, product-driven, and execution-focused, with visible impact, fast decisions, and real growth.\n How we work at Aircall: We’re customer-obsessed, data-driven, and focused on delivering meaningful outcomes. We value ownership, continuous learning, and thoughtful speed. If you thrive in a collaborative, fast-moving environment where trust and impact matter, you’ll feel at home here.\n We are looking for an engaged and passionate Senior Data Engineer to join our growing Engineering Team. In this role, you will be a key member of the team managing our analytics and event platform stack.\n As part of the Analytics & Data Platform team, you will build features for over 22,000 customers across the globe. Your work will unlock the value of data, empowering our customers to make informed decisions through real-time insights, monitoring, and comprehensive analytical reports.\n Your role at Aircall\n Have key…",
-    "tags": [
-      "13001 - Engineering",
-      "Permanent Full Time Employee"
-    ],
-    "jobType": "Permanent Full Time Employee",
-    "postedAt": "2026-09-11T18:25:12.000Z",
-    "scrapedAt": "2026-09-12T12:36:41.993Z"
-  },
-  {
     "id": "greenhouse:lyft-8797376002",
     "externalId": "lyft:8797376002",
     "source": "greenhouse",
@@ -70,7 +13,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-12T12:36:42.488Z"
+    "scrapedAt": "2026-09-12T17:41:00.052Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -86,7 +29,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-12T12:36:42.488Z"
+    "scrapedAt": "2026-09-12T17:41:00.052Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -102,7 +45,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-12T12:36:42.488Z"
+    "scrapedAt": "2026-09-12T17:41:00.052Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -118,7 +61,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-12T12:36:42.488Z"
+    "scrapedAt": "2026-09-12T17:41:00.052Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -134,7 +77,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-12T12:36:42.488Z"
+    "scrapedAt": "2026-09-12T17:41:00.052Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -150,7 +93,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-12T12:36:42.488Z"
+    "scrapedAt": "2026-09-12T17:41:00.052Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -166,6 +109,103 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-12T12:36:42.488Z"
+    "scrapedAt": "2026-09-12T17:41:00.052Z"
+  },
+  {
+    "id": "greenhouse:datadog-8141967",
+    "externalId": "datadog:8141967",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer - Revenue Data Platform",
+    "company": "Datadog",
+    "location": "Boston, Massachusetts, USA; New York, New York, USA",
+    "remote": false,
+    "url": "https://careers.datadoghq.com/detail/8141967/?gh_jid=8141967",
+    "description": "About Datadog:\n We're on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale—trillions of data points per day—allowing for seamless collaboration and problem-solving among Dev, Ops and Security teams globally for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.\n The Team:\n The Revenue Data Engineering Teams designs, builds and runs the data pipelines and helper systems to accurately and in a timely manner quantify our customers’ usage across all Datadog products. This team is at the leading edge of any new product we release.\n The Revenue Data Processing team builds and operates the data pipelines that does billing, and cost attribution for all Datadog products. We process terabytes of data daily to power revenue-critical systems and are at the center of every new product launch at Datadog.\n As a Senior Software Engineer, you will own meaningful parts of a large-scale, mission-critical processing platform — driving architectural improvements, building new billing capabilities, and maintaining the high reliability bar our downstream consumers depend on.\n You Will:\n Design and build high-throughput data pipelines for billing and cost attribution\n Drive platform improvements — latency reduction, Spark optimization, sharding, and cross-datacenter reliability\n Own root-cause investigations on billing accuracy issues in collaboration with Finance and Product teams\n Contribute to new billing features\n Work across Python and Scala, with technologies including Spark, Airflow, Trino, and Apache Iceberg\n Participate in on-call rotation and maintain a high reliability bar for production systems\n Contribute to engineering standards and help grow the technical culture of the team\n You Are:\n You have significant experience building and operating production data pipelines at scale using Spark an…",
+    "tags": [
+      "Dev Eng"
+    ],
+    "postedAt": "2026-08-20T13:47:35.000Z",
+    "scrapedAt": "2026-09-12T17:41:00.052Z"
+  },
+  {
+    "id": "remotive:2091097",
+    "externalId": "2091097",
+    "source": "remotive",
+    "title": "Senior Data Engineer",
+    "company": "Lemon.io",
+    "companyLogo": "https://remotive.com/job/2091097/logo",
+    "location": "LATAM, Europe, USA, Canada, APAC",
+    "remote": true,
+    "url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
+    "description": "Are you a talented Senior Data Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.\n What we offer:\n The rate depends on your skills and experience. We've already paid out over $11M to our engineers.\n No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.\n We'll manually find the best project for you according to your skills and preferences.\n Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.\n We respect your seniority so you can expect no micromanagement or screen trackers.\n Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?\n We will support you from the time you submit the application throughout all cooperation stages.\n Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.\n Through our community, we will connect you with the best developers from more than 75 countries.\n We have several different roles for Data Engineers — please check the details if you're interested.\n Requirements — Data Engineers:\n 5+ years of commercial experience as a Data Engineer\n 2+ years of commercial experience with Azure DevOps is a must\n 2+ years of commercial experience with Databricks\n 2+ years of experience with DBT is required\n Experience with Airflow is a plus\n Requirements — Data Engineers:\n 4+ years of commercial experience as a Data Engineer\n 3+ years of experience with Apache Airflow and 2+ years of experience with Snowflake\n 3+ years of experience with Python and 1+ year with SQL\n Experience with AWS/GCP/Microsoft Azure/Snowflake is a must\n Strong technical skills: as a Senior Data Engineer, you are expected to be able to create projects from scratch and have a deep under…",
+    "tags": [
+      "Software Development",
+      ".Net",
+      "android",
+      "apache",
+      "AWS",
+      "azure",
+      "C",
+      "C#",
+      "C++",
+      "data science",
+      "golang",
+      "ios",
+      "java",
+      "javascript",
+      "node.js",
+      "php",
+      "python",
+      "react",
+      "ruby/rails",
+      "scala",
+      "shopify",
+      "sql",
+      "swift",
+      "UI/UX",
+      "wordpress",
+      "blockchain",
+      "AI/ML",
+      "automation",
+      "project management",
+      "react native",
+      "rust",
+      "product management",
+      "unity",
+      "electron",
+      "spring",
+      "laravel",
+      "Ethereum",
+      "graphic design",
+      "Typescript ",
+      "angular ",
+      "GCP",
+      "Snowflake",
+      "Site Reliability",
+      "Symfony",
+      "startup",
+      "marketplace",
+      "next.js",
+      "flutter"
+    ],
+    "jobType": "full_time",
+    "postedAt": "2026-08-19T12:12:11.000Z",
+    "scrapedAt": "2026-09-12T17:40:58.997Z"
+  },
+  {
+    "id": "greenhouse:instacart-8132846",
+    "externalId": "instacart:8132846",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer II, Finance",
+    "company": "Instacart",
+    "location": "United States - Remote",
+    "remote": true,
+    "url": "https://instacart.careers/job/?gh_jid=8132846",
+    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-08-17T16:40:40.000Z",
+    "scrapedAt": "2026-09-12T17:41:00.052Z"
   }
 ]
