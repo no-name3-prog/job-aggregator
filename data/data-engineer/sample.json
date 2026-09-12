@@ -1,5 +1,23 @@
 [
   {
+    "id": "arbeitnow:senior-analytics-engineer-berlin-219113",
+    "externalId": "senior-analytics-engineer-berlin-219113",
+    "source": "arbeitnow",
+    "title": "Senior Analytics Engineer (f/m/d)",
+    "company": "Voize",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/voize/senior-analytics-engineer-berlin-219113",
+    "description": "🎤 Why voize? Because we’re more than just a job! At voize, we believe the greatest gift to frontline workers is time - time to care, connect, and be present. Today, that time is lost to busywork and complex systems that pull them away from what matters most: people .\n Our vision is to change that by building AI companions that seamlessly take over digital workflows. We don’t replace humans with technology - we amplify their impact.\n Our mission is backed with a $50M Series A funding led by Balderton Capital, with support from HV Capital, Y Combinator and other leading VCs. Today, 2,000+ facilities trust voize, and over 200,000 users rely on our AI companion to ease their daily workload.\n As a dynamic team, we combine first-in-class technology with meaningful social impact. And now, we’re looking for you to join us on this mission!\n 💡 Your Mission: One source of truth for a company that runs on data As Senior Analytics Engineer , you own voize's company data from the warehouse to the dashboards. You'll be part of our Data & AI function - ensuring the data voize and our AI layer runs on are reliable, safe & scalable. The modern stack (Redshift, dbt, Fivetran, Lightdash) is already live: you make it rock-solid and turn it into the single source of truth the whole company runs on, from ARR to product adoption. As our first dedicated analytics hire, you partner directly with Finance, RevOps, Product, and Customer Success, turning their questions into numbers everyone trusts.\n 🚀 Your Daily Business - No two days are alike Model company data in dbt on Redshift: layered, tested, documented models built to outlive you\n Ship and run the company KPI dashboard in Lightdash, plus self-serve analytics for every team\n Own metric modeling and propose the definitions the whole company runs on. Sign-off sits with data leadership, and you make every number defensible\n Keep the ingestion layer running day to day (Fivetran connectors, existing ETL jobs), in close coordination with e…",
+    "tags": [
+      "Operations",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-09-11T23:40:11.000Z",
+    "scrapedAt": "2026-09-12T02:56:00.433Z"
+  },
+  {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-london-office-177011",
     "externalId": "senior-data-engineer-real-time-analytics-london-office-177011",
     "source": "arbeitnow",
@@ -15,7 +33,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-11T18:25:12.000Z",
-    "scrapedAt": "2026-09-11T22:57:41.263Z"
+    "scrapedAt": "2026-09-12T02:56:00.433Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -31,7 +49,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-11T22:57:41.766Z"
+    "scrapedAt": "2026-09-12T02:56:01.819Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-paris-paris-266200",
@@ -47,7 +65,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-11T04:55:10.000Z",
-    "scrapedAt": "2026-09-11T22:57:41.263Z"
+    "scrapedAt": "2026-09-12T02:56:00.433Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -63,7 +81,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-11T22:57:41.766Z"
+    "scrapedAt": "2026-09-12T02:56:01.819Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -79,7 +97,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-11T22:57:41.766Z"
+    "scrapedAt": "2026-09-12T02:56:01.819Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -95,7 +113,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-11T22:57:41.766Z"
+    "scrapedAt": "2026-09-12T02:56:01.819Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -111,7 +129,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-11T22:57:41.766Z"
+    "scrapedAt": "2026-09-12T02:56:01.819Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -127,7 +145,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-11T22:57:41.766Z"
+    "scrapedAt": "2026-09-12T02:56:01.819Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -143,22 +161,6 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-11T22:57:41.766Z"
-  },
-  {
-    "id": "greenhouse:datadog-8141967",
-    "externalId": "datadog:8141967",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer - Revenue Data Platform",
-    "company": "Datadog",
-    "location": "Boston, Massachusetts, USA; New York, New York, USA",
-    "remote": false,
-    "url": "https://careers.datadoghq.com/detail/8141967/?gh_jid=8141967",
-    "description": "About Datadog:\n We're on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale—trillions of data points per day—allowing for seamless collaboration and problem-solving among Dev, Ops and Security teams globally for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.\n The Team:\n The Revenue Data Engineering Teams designs, builds and runs the data pipelines and helper systems to accurately and in a timely manner quantify our customers’ usage across all Datadog products. This team is at the leading edge of any new product we release.\n The Revenue Data Processing team builds and operates the data pipelines that does billing, and cost attribution for all Datadog products. We process terabytes of data daily to power revenue-critical systems and are at the center of every new product launch at Datadog.\n As a Senior Software Engineer, you will own meaningful parts of a large-scale, mission-critical processing platform — driving architectural improvements, building new billing capabilities, and maintaining the high reliability bar our downstream consumers depend on.\n You Will:\n Design and build high-throughput data pipelines for billing and cost attribution\n Drive platform improvements — latency reduction, Spark optimization, sharding, and cross-datacenter reliability\n Own root-cause investigations on billing accuracy issues in collaboration with Finance and Product teams\n Contribute to new billing features\n Work across Python and Scala, with technologies including Spark, Airflow, Trino, and Apache Iceberg\n Participate in on-call rotation and maintain a high reliability bar for production systems\n Contribute to engineering standards and help grow the technical culture of the team\n You Are:\n You have significant experience building and operating production data pipelines at scale using Spark an…",
-    "tags": [
-      "Dev Eng"
-    ],
-    "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-11T22:57:41.766Z"
+    "scrapedAt": "2026-09-12T02:56:01.819Z"
   }
 ]
