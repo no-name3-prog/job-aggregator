@@ -1,5 +1,23 @@
 [
   {
+    "id": "arbeitnow:data-platform-engineer-london-24003",
+    "externalId": "data-platform-engineer-london-24003",
+    "source": "arbeitnow",
+    "title": "Data Platform Engineer",
+    "company": "Magentic",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/magentic/data-platform-engineer-london-24003",
+    "description": "We're looking for a Data Platform Engineer to own the data foundation our AI agents run on.\n Procurement data is messy: ERP transactions, contracts, spreadsheets, PDFs and email, spread across systems that were never designed to talk to each other. You'll build the ingestion pipelines and schemas that turn that into something autonomous agents can reason over, and set the quality and lineage standards that make it trustworthy enough for a Fortune 500 to act on.\n We’ve built the early foundations but there’s still plenty to build - you’ll shape the architecture to serve hundreds of enterprise customers.\n We're building next-generation agentic systems that can manage entire procurement workflows, with a mission to make global manufacturing supply chains more resilient to an ever-changing world. That's a $3tn market opportunity.\n We're backed by world-class investors including Sequoia Capital, and you'll be joining a team bringing together experience from OpenAI, Meta, Revolut, NASA and McKinsey.\n What You’ll Do Design, implement and operate ingestion pipelines processing high-volume data from global supply chain and procurement systems.\n Define, evolve, and manage data schemas and catalogues—from raw staging to high-quality analytics and feature stores.\n Build end-to-end monitoring and observability for your pipelines: owning data quality, latency, completeness, and lineage at every stage.\n Champion secure, governed data practices\n Collaborate closely with AI, Platform, and Product teams, provisioning data sets, feature tables, and contracts for analytics and machine learning at scale.\n You Might Be a Great Fit if You: Have experience at tech and product-driven companies, with a big focus on data quality, DataOps and data management at scale\n Have experience developing data warehouses/lakehouses\n Have used a variety of tools across the data stack and can select and implement the right ones for our use case\n Are keen to both design and implement data solutions end-to-…",
+    "tags": [
+      "Engineering",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-09-13T03:40:02.000Z",
+    "scrapedAt": "2026-09-13T07:58:23.201Z"
+  },
+  {
     "id": "arbeitnow:data-engineer-berlin-hq-131549",
     "externalId": "data-engineer-berlin-hq-131549",
     "source": "arbeitnow",
@@ -23,7 +41,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-09-13T02:09:22.000Z",
-    "scrapedAt": "2026-09-13T02:55:37.775Z"
+    "scrapedAt": "2026-09-13T07:58:23.201Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -39,7 +57,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-13T02:55:38.361Z"
+    "scrapedAt": "2026-09-13T07:58:23.695Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -55,7 +73,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-13T02:55:38.361Z"
+    "scrapedAt": "2026-09-13T07:58:23.695Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -71,7 +89,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-13T02:55:38.361Z"
+    "scrapedAt": "2026-09-13T07:58:23.695Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -87,7 +105,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-13T02:55:38.361Z"
+    "scrapedAt": "2026-09-13T07:58:23.695Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -103,7 +121,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-13T02:55:38.361Z"
+    "scrapedAt": "2026-09-13T07:58:23.695Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -119,7 +137,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-13T02:55:38.361Z"
+    "scrapedAt": "2026-09-13T07:58:23.695Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -135,7 +153,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-13T02:55:38.361Z"
+    "scrapedAt": "2026-09-13T07:58:23.695Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -151,71 +169,6 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-13T02:55:38.361Z"
-  },
-  {
-    "id": "remotive:2091097",
-    "externalId": "2091097",
-    "source": "remotive",
-    "title": "Senior Data Engineer",
-    "company": "Lemon.io",
-    "companyLogo": "https://remotive.com/job/2091097/logo",
-    "location": "LATAM, Europe, USA, Canada, APAC",
-    "remote": true,
-    "url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
-    "description": "Are you a talented Senior Data Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.\n What we offer:\n The rate depends on your skills and experience. We've already paid out over $11M to our engineers.\n No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.\n We'll manually find the best project for you according to your skills and preferences.\n Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.\n We respect your seniority so you can expect no micromanagement or screen trackers.\n Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?\n We will support you from the time you submit the application throughout all cooperation stages.\n Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.\n Through our community, we will connect you with the best developers from more than 75 countries.\n We have several different roles for Data Engineers — please check the details if you're interested.\n Requirements — Data Engineers:\n 5+ years of commercial experience as a Data Engineer\n 2+ years of commercial experience with Azure DevOps is a must\n 2+ years of commercial experience with Databricks\n 2+ years of experience with DBT is required\n Experience with Airflow is a plus\n Requirements — Data Engineers:\n 4+ years of commercial experience as a Data Engineer\n 3+ years of experience with Apache Airflow and 2+ years of experience with Snowflake\n 3+ years of experience with Python and 1+ year with SQL\n Experience with AWS/GCP/Microsoft Azure/Snowflake is a must\n Strong technical skills: as a Senior Data Engineer, you are expected to be able to create projects from scratch and have a deep under…",
-    "tags": [
-      "Software Development",
-      ".Net",
-      "android",
-      "apache",
-      "AWS",
-      "azure",
-      "C",
-      "C#",
-      "C++",
-      "data science",
-      "golang",
-      "ios",
-      "java",
-      "javascript",
-      "node.js",
-      "php",
-      "python",
-      "react",
-      "ruby/rails",
-      "scala",
-      "shopify",
-      "sql",
-      "swift",
-      "UI/UX",
-      "wordpress",
-      "blockchain",
-      "AI/ML",
-      "automation",
-      "project management",
-      "react native",
-      "rust",
-      "product management",
-      "unity",
-      "electron",
-      "spring",
-      "laravel",
-      "Ethereum",
-      "graphic design",
-      "Typescript ",
-      "angular ",
-      "GCP",
-      "Snowflake",
-      "Site Reliability",
-      "Symfony",
-      "startup",
-      "marketplace",
-      "next.js",
-      "flutter"
-    ],
-    "jobType": "full_time",
-    "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-09-13T02:55:37.585Z"
+    "scrapedAt": "2026-09-13T07:58:23.695Z"
   }
 ]
