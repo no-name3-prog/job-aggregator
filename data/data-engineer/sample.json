@@ -1,21 +1,67 @@
 [
   {
-    "id": "arbeitnow:data-platform-engineer-london-24003",
-    "externalId": "data-platform-engineer-london-24003",
+    "id": "arbeitnow:data-analytics-engineering-manager-sydney-australia-88892",
+    "externalId": "data-analytics-engineering-manager-sydney-australia-88892",
     "source": "arbeitnow",
-    "title": "Data Platform Engineer",
-    "company": "Magentic",
-    "location": "London",
+    "title": "Data Analytics Engineering Manager",
+    "company": "Software Engineer (AI Tooling & Enablement) - Greenhouse",
+    "location": "Sydney, Australia",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/magentic/data-platform-engineer-london-24003",
-    "description": "We're looking for a Data Platform Engineer to own the data foundation our AI agents run on.\n Procurement data is messy: ERP transactions, contracts, spreadsheets, PDFs and email, spread across systems that were never designed to talk to each other. You'll build the ingestion pipelines and schemas that turn that into something autonomous agents can reason over, and set the quality and lineage standards that make it trustworthy enough for a Fortune 500 to act on.\n We’ve built the early foundations but there’s still plenty to build - you’ll shape the architecture to serve hundreds of enterprise customers.\n We're building next-generation agentic systems that can manage entire procurement workflows, with a mission to make global manufacturing supply chains more resilient to an ever-changing world. That's a $3tn market opportunity.\n We're backed by world-class investors including Sequoia Capital, and you'll be joining a team bringing together experience from OpenAI, Meta, Revolut, NASA and McKinsey.\n What You’ll Do Design, implement and operate ingestion pipelines processing high-volume data from global supply chain and procurement systems.\n Define, evolve, and manage data schemas and catalogues—from raw staging to high-quality analytics and feature stores.\n Build end-to-end monitoring and observability for your pipelines: owning data quality, latency, completeness, and lineage at every stage.\n Champion secure, governed data practices\n Collaborate closely with AI, Platform, and Product teams, provisioning data sets, feature tables, and contracts for analytics and machine learning at scale.\n You Might Be a Great Fit if You: Have experience at tech and product-driven companies, with a big focus on data quality, DataOps and data management at scale\n Have experience developing data warehouses/lakehouses\n Have used a variety of tools across the data stack and can select and implement the right ones for our use case\n Are keen to both design and implement data solutions end-to-…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/software-engineer-ai-tooling-enablement-greenhouse/data-analytics-engineering-manager-sydney-australia-88892",
+    "description": "<div>\n<p>Hi! We’re hipages, an ASX-listed tech company and Australia’s #1 digital platform connecting households with trusted home improvement businesses. We're on a mission to transform the home improvement industry to build better lives for everyone.</p>\n<p>With teams across Australia, New Zealand, the Philippines and Vietnam, we work as one team with a shared purpose. We’re proud to be a certified <strong>Great Place to Work</strong> and <strong>WORK180’s #1 Employer for Women</strong>. At hipages, you’ll find real impact, career growth and a workplace where everyone belongs.</p>\n<p>&nbsp;</p>\n<p><strong>About the role:</strong></p>\n<p>You'll play a crucial role in supporting the hipages marketplace by developing our analytics engineering capabilities. Working alongside a talented data team to create immense value for the business and contribute to the development and execution of hipages' commercial strategy.</p>\n<p>Your experience and expertise will help us discover new ways of operating in the world of data modelling and business intelligence. You'll design and support the deployment of end-to-end data models, data products as well as develop and maintain internal analytics capabilities within our data platform.</p>\n<p>This role is vital in scaling our current data architecture and capabilities on DBT, Databricks and Tableau to enable self-service analytics. This role will be reporting into the Head of Commercial and Data Analytics giving that mentorship and executive buy-in to ensure this role is a success.</p>\n<p>This is a senior, hands-on role leading a craft pod of three analytics engineers, yet setting direction across a much wider community, acting as the technical authority on what \"good\" data design looks like.</p>\n<p>&nbsp;</p>\n<p><strong>Why join our Data team?</strong></p>\n<ul>\n<li>💻 Hybrid working model &nbsp;</li>\n<li>🪴 In-house Talent Development team to prioritise personal and career growth &nbsp;</li>\n<li>💰 Competitive salary, benefits and…",
     "tags": [
-      "Engineering",
-      "Full Time"
+      "Finance & Operations"
     ],
-    "jobType": "Full Time",
-    "postedAt": "2026-09-13T03:40:02.000Z",
-    "scrapedAt": "2026-09-13T07:58:23.201Z"
+    "postedAt": "2026-09-13T12:55:10.000Z",
+    "scrapedAt": "2026-09-13T13:37:31.486Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-cloud-saas-integrations-140820",
+    "externalId": "data-engineer-cloud-saas-integrations-140820",
+    "source": "arbeitnow",
+    "title": "Data Engineer - Cloud & SaaS Integrations",
+    "company": "Senior Full-Stack Engineer - AI Cost Visibility - Greenhouse",
+    "location": "Unknown",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/senior-full-stack-engineer-ai-cost-visibility-greenhouse/data-engineer-cloud-saas-integrations-140820",
+    "description": "<p><strong>Location</strong><br>Our Data Engineer will be an integral part of our R&amp;D team. This role is based remotely as a full-time employee in the UK, Ireland, Estonia, the Netherlands, Sweden and Israel. We are also open to contractors in Eastern Europe and Portugal.</p>\n<p><strong>Who We Are</strong><br>DoiT is a global technology company that works with cloud-driven organizations to leverage the cloud to drive business growth and innovation. We combine data, technology, and human expertise to ensure our customers operate in a well-architected and scalable state - from planning to production.</p>\n<p>Delivering DoiT Cloud Intelligence, the only solution that integrates advanced technology with human intelligence, we help our customers solve complex multicloud problems and drive efficiency.</p>\n<p>With decades of multicloud experience, we have specializations in Kubernetes, GenAI, CloudOps, and more. An award-winning strategic partner of AWS, Google Cloud, and Microsoft Azure, we work alongside more than 4,000 customers worldwide.</p>\n<p><strong>The Opportunity</strong><br>Cloud spend is no longer just AWS, Google Cloud and Azure. Our customers now run a large and growing share of their technology spend through SaaS platforms, data clouds and AI vendors - each with its own billing API, its own pricing model, and its own idea of what a \"line item\" means. DoiT's Integrations Framework is what turns that into a single, trustworthy picture of cost.</p>\n<p>We're hiring a Data Engineer to own the data side of this. Your mandate is expanding visibility - bringing more of a customer's spend into the platform, from more vendors, at a quality bar people can make financial decisions on. The vendor landscape moves constantly, so this is genuine, permanent ownership with a short line from your work to what customers see.</p>\n<p>You'll work AI-augmented from day one. We expect you to use AI across your whole workflow, not as an occasional autocomplete, and to have real o…",
+    "tags": [
+      "Engineering"
+    ],
+    "postedAt": "2026-09-13T12:55:10.000Z",
+    "scrapedAt": "2026-09-13T13:37:31.486Z"
+  },
+  {
+    "id": "arbeitnow:remote-data-engineer-all-genders-12735",
+    "externalId": "remote-data-engineer-all-genders-12735",
+    "source": "arbeitnow",
+    "title": "Data Engineer (all genders)",
+    "company": "Eraneos",
+    "location": "Hamburg, München, Düsseldorf, remote",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-12735",
+    "description": "What you can expect from us We’re a high‑energy cloud- and data engineering team looking for like-minded, motivated tech builders. We are driven by ownership and business outcomes.\nAs the analytics unit within a global management consultancy, we turn data-driven strategies into production systems. Our clients are DAX and Fortune Global 500 leaders who trust us for our expertise across data platforms, big data and cloud engineering.\nYou’ll join an international environment with agile squads and a boutique spirit with room to experiment and grow, paired with above‑market compensation and an attractive benefits package.\n What you’ll do as part of our cloud- and data engineering team:\n Take ownership for projects end to end: From scoping to stakeholder alignment and the delivery of measurable outcomes Design data architectures for batch and streaming workloads, both at small and big data scales Provision and manage the underlying cloud infrastructure to support those architectures on providers such as AWS,  Azure  or GCP Building Python ETL/ELT pipelines, orchestrated with Airflow,  Dagster , or Prefect. Work with data lake technologies and  optimize  (OLAP) data ware-/ lakehouses Model and store data across SQL and NoSQL databases, as well as  optimizing  performance and costs Create web APIs with popular Python frameworks (e.g., FastAPI and Flask) and describe them using standards like OpenAPI /Swagger Automate deployments using Infrastructure-as-Code and container technologies such as Docker, Kubernetes or OpenShift\n Who you are A passionate data engineer who loves being at the forefront of modern, AI-driven technology, but also cares about the engineering craftmanship. Relevant hands-on experience with a cloud hyperscaler (preferably AWS, Azure or GCP). Preferably experience building production-grade software. Python development with idiomatic and well-tested code. Skilled in performance tuning and optimization of relational databases (e.g., through indexing, shard…",
+    "tags": [
+      "Data Engineering",
+      "Cloud Engineering",
+      "Snowflake",
+      "Databricks",
+      "ETL",
+      "Python",
+      "Azure",
+      "AWS",
+      "GCP",
+      "Data Warehouse",
+      "ELT",
+      "SQL",
+      "Consutling",
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-13T11:09:49.000Z",
+    "scrapedAt": "2026-09-13T13:37:31.486Z"
   },
   {
     "id": "arbeitnow:data-engineer-berlin-hq-131549",
@@ -41,7 +87,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-09-13T02:09:22.000Z",
-    "scrapedAt": "2026-09-13T07:58:23.201Z"
+    "scrapedAt": "2026-09-13T13:37:31.486Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -57,7 +103,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-13T07:58:23.695Z"
+    "scrapedAt": "2026-09-13T13:37:32.387Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -73,7 +119,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-13T07:58:23.695Z"
+    "scrapedAt": "2026-09-13T13:37:32.387Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -89,7 +135,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-13T07:58:23.695Z"
+    "scrapedAt": "2026-09-13T13:37:32.387Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -105,7 +151,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-13T07:58:23.695Z"
+    "scrapedAt": "2026-09-13T13:37:32.387Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -121,7 +167,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-13T07:58:23.695Z"
+    "scrapedAt": "2026-09-13T13:37:32.387Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -137,38 +183,6 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-13T07:58:23.695Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8144836",
-    "externalId": "coinbase:8144836",
-    "source": "greenhouse",
-    "title": "Staff Data Engineer, Market Data",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Coinbase is building the future of institutional trading as part of the Everything Exchange, powering the systems that let the world's largest financial institutions trade across markets with speed, depth, and trust. As a Staff Data Engineer, Market Data on the Institutional Markets team, you'll architect, build, and own the systems that generate, capture, normalize, and distribute real-time market data across Coinbase at low latency - the ticker plant and distribution backbone of a unified trading platform - while leading a lean, high-impact team. It's a rare chance to architect market data infrastructure from the ground up, with the ownership of a startup and the reach of Coinbase.\n What you'll do:\n Build and operate market data components: feed handlers, normalization, distribution, and venue connectivity.\n Design low-latency, high-throughput systems for real-time market data used by trading systems.\n Strengthen reliability and performance by contributing to observability, on-call, and incident response.\n Write high-quality, well-tested code and raise the quality bar on a lean team.\n Partner with engineers, product, and cross-functional stakeholders to deliver market data capabilities.\n Required Skills and Experience:\n 5+ years of backend engineering, with experience building and maintaining production low-latency systems.\n Hands-on experience with market data systems (feed…",
-    "tags": [
-      "Engineering"
-    ],
-    "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-13T07:58:23.695Z"
-  },
-  {
-    "id": "greenhouse:datadog-8141967",
-    "externalId": "datadog:8141967",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer - Revenue Data Platform",
-    "company": "Datadog",
-    "location": "Boston, Massachusetts, USA; New York, New York, USA",
-    "remote": false,
-    "url": "https://careers.datadoghq.com/detail/8141967/?gh_jid=8141967",
-    "description": "About Datadog:\n We're on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale—trillions of data points per day—allowing for seamless collaboration and problem-solving among Dev, Ops and Security teams globally for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.\n The Team:\n The Revenue Data Engineering Teams designs, builds and runs the data pipelines and helper systems to accurately and in a timely manner quantify our customers’ usage across all Datadog products. This team is at the leading edge of any new product we release.\n The Revenue Data Processing team builds and operates the data pipelines that does billing, and cost attribution for all Datadog products. We process terabytes of data daily to power revenue-critical systems and are at the center of every new product launch at Datadog.\n As a Senior Software Engineer, you will own meaningful parts of a large-scale, mission-critical processing platform — driving architectural improvements, building new billing capabilities, and maintaining the high reliability bar our downstream consumers depend on.\n You Will:\n Design and build high-throughput data pipelines for billing and cost attribution\n Drive platform improvements — latency reduction, Spark optimization, sharding, and cross-datacenter reliability\n Own root-cause investigations on billing accuracy issues in collaboration with Finance and Product teams\n Contribute to new billing features\n Work across Python and Scala, with technologies including Spark, Airflow, Trino, and Apache Iceberg\n Participate in on-call rotation and maintain a high reliability bar for production systems\n Contribute to engineering standards and help grow the technical culture of the team\n You Are:\n You have significant experience building and operating production data pipelines at scale using Spark an…",
-    "tags": [
-      "Dev Eng"
-    ],
-    "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-13T07:58:23.695Z"
+    "scrapedAt": "2026-09-13T13:37:32.387Z"
   }
 ]
