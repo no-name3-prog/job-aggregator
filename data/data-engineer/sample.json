@@ -1,5 +1,43 @@
 [
   {
+    "id": "arbeitnow:principal-analytics-engineer-berlin-225855",
+    "externalId": "principal-analytics-engineer-berlin-225855",
+    "source": "arbeitnow",
+    "title": "Principal Analytics Engineer (f/m/d)",
+    "company": "Trusted Shops SE (DE)",
+    "location": "Berlin, Berlin, Germany",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/principal-analytics-engineer-berlin-225855",
+    "description": "At Trusted Shops, we’re shaping Europe’s Community of Trust – a space where Businesses and Consumers connect with confidence, transparency, and security. Every day, millions of Users and thousands of Companies across Europe trust us to deliver safe, reliable, and seamless digital experiences.\n Data Services is shifting from being strong in raw data to reliably delivering prepared, standardized data products as the foundation for self-service reporting, product-facing APIs (Metrics-as-a-Service), and AI/agent access (e.g. via MCP). We are building these products inside one shared Data Lakehouse, where multiple domain teams build to a common standard.\n To make that real, we need someone to set the technical bar. As Principal Analytics Engineer (f/m/d) you define the lakehouse architecture and the standards that let teams move fast without fragmenting, you embed in the Product Data Domain to ship genuine data products, and you raise the craft of everyone around you. This is a hands-on technical leadership role with real autonomy. You shape how we build, not just execute a backlog.\nTo join our Data Service Domain, we are looking for a:\n Principal Analytics Engineer (f/m/d)\n Cologne (hybrid) or Berlin (remote) | Permanent Contract (Full-time)\n Your Key Responsibilities:\n Architecture, with the teams . Define and evolve the lakehouse architecture (S3 + Apache Iceberg + Athena + dbt): table and layer design, partitioning and compaction, schema evolution, multi-team isolation, and unified catalog & discoverability. You design together with the teams, not in isolation\n Standards that make data products real. Modeling conventions, the semantic layer, data-product definitions, testing and data-quality, CI/CD, documentation and metadata, so products are reliably consumable by humans, APIs, and AI agents alike\n Exemplary delivery. Build data products in the Product domain that set the pattern others follow. You ship, not just advise\n AI-ready data. Design metadata and semantic…",
+    "tags": [
+      "Tech",
+      "Experienced",
+      "fulltime permanent"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-13T23:30:32.000Z",
+    "scrapedAt": "2026-09-14T03:09:19.232Z"
+  },
+  {
+    "id": "arbeitnow:senior-ai-native-data-engineer-hamburg-424655",
+    "externalId": "senior-ai-native-data-engineer-hamburg-424655",
+    "source": "arbeitnow",
+    "title": "Senior AI-Native Data Engineer (f/m/x)",
+    "company": "exmox",
+    "location": "Hamburg",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/exmox/senior-ai-native-data-engineer-hamburg-424655",
+    "description": "Your Mission This is a company built for growth.\n When you join exmox, you're stepping onto a global, highly competitive playing field, building high-performing consumer products in mobile gaming. We're scaling a rewarded user engagement and acquisition platform that helps publishers acquire and retain players, and here, data isn't just analyzed, it's turned into systems that directly drive business performance.\n As a  Senior AI-Native Data Engineer (f/m/x) , you'll operate at the intersection of data, engineering, and product, building and scaling the data foundation that powers our entire business. This isn't a role for maintaining pipelines or following predefined processes, we look for engineering mindset and entrepreneurial ownership: you build it, you own it, and you see the impact in production. AI is not a side tool here, it's core to how you work: you'll use Claude and similar AI tools daily to plan, build, debug, and document, including managing context and memory across projects, integrating AI directly into your version control workflow, and running parallel agent workflows on separate tasks, cutting repetitive tasks so you can focus where it actually moves the needle.\n We believe a small team of engineers working closely with AI can outperform a much larger traditional data team, and we're building this role around that belief, not around AI as an occasional convenience.\n If you're excited by complex systems, high traffic, and data-driven decisions, and impact matters more to you than process, we want to hear from you. We use AI for everything in order to improve speed and quality.\n What You’ll Own:\n Data Pipelines & Integration:  You design, develop, and maintain scalable ETL pipelines on Databricks to integrate data from various sources, including app and web products and marketing partner data, ensuring reliable and efficient data flow across the business.\n Data Lakehouse Ownership:  You build and manage the Data Lakehouse on Databricks, including m…",
+    "tags": [
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-13T23:09:05.000Z",
+    "scrapedAt": "2026-09-14T03:09:19.232Z"
+  },
+  {
     "id": "arbeitnow:remote-senior-data-engineer-real-time-analytics-151340",
     "externalId": "remote-senior-data-engineer-real-time-analytics-151340",
     "source": "arbeitnow",
@@ -15,7 +53,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-13T19:24:53.000Z",
-    "scrapedAt": "2026-09-13T22:50:25.571Z"
+    "scrapedAt": "2026-09-14T03:09:19.232Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-paris-office-408462",
@@ -33,7 +71,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-13T19:24:53.000Z",
-    "scrapedAt": "2026-09-13T22:50:25.571Z"
+    "scrapedAt": "2026-09-14T03:09:19.232Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-finance-467775",
@@ -49,7 +87,7 @@
       "Operations"
     ],
     "postedAt": "2026-09-13T16:55:23.000Z",
-    "scrapedAt": "2026-09-13T22:50:25.571Z"
+    "scrapedAt": "2026-09-14T03:09:19.232Z"
   },
   {
     "id": "arbeitnow:remote-senior-oracle-data-engineer-karlsruhe-193489",
@@ -69,7 +107,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-09-13T14:30:22.000Z",
-    "scrapedAt": "2026-09-13T22:50:25.571Z"
+    "scrapedAt": "2026-09-14T03:09:19.232Z"
   },
   {
     "id": "arbeitnow:data-analytics-engineering-manager-sydney-australia-88892",
@@ -85,7 +123,7 @@
       "Finance & Operations"
     ],
     "postedAt": "2026-09-13T12:55:10.000Z",
-    "scrapedAt": "2026-09-13T22:50:25.571Z"
+    "scrapedAt": "2026-09-14T03:09:19.232Z"
   },
   {
     "id": "arbeitnow:data-engineer-cloud-saas-integrations-140820",
@@ -101,7 +139,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-13T12:55:10.000Z",
-    "scrapedAt": "2026-09-13T22:50:25.571Z"
+    "scrapedAt": "2026-09-14T03:09:19.232Z"
   },
   {
     "id": "arbeitnow:remote-data-engineer-all-genders-12735",
@@ -133,7 +171,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-09-13T11:09:49.000Z",
-    "scrapedAt": "2026-09-13T22:50:25.571Z"
+    "scrapedAt": "2026-09-14T03:09:19.232Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -149,38 +187,6 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-13T22:50:26.182Z"
-  },
-  {
-    "id": "greenhouse:anthropic-5418610008",
-    "externalId": "anthropic:5418610008",
-    "source": "greenhouse",
-    "title": "Data Engineer, GTM",
-    "company": "Anthropic",
-    "location": "San Francisco, CA | New York City, NY",
-    "remote": false,
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418610008",
-    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the Role\n As a Data Engineer on the Data Science & Analytics team, you will build the data foundation for Anthropic’s quote-to-cash lifecycle: the path a deal takes from opportunity through revenue. You will design the canonical data models so that Sales, Deal Desk, Order Management, Revenue Operations and Finance work from one governed, auditable definition of what was sold, on what terms, and where each deal stands. You will partner closely with DS&A and with GTM and Finance systems teams who own Salesforce, CPQ and billing to make quote-to-cash data reliable, well-modeled and self-serve as our business scales.\n Responsibilities\n Understand the data needs of Deal Desk, Order Management, Revenue Operations, Finance and Sales systems teams, and translate them into technical requirements\n Design, build and own data models that transform raw Salesforce, CPQ, and billing data into canonical datasets\n Establish high data integrity standards and SLAs to ensure timely, accurate delivery of data\n Partner with Salesforce, CPQ and billing engineers on upstream schema changes, new fields and ingestion so the warehouse faithfully mirrors the systems of record\n Build foundational data products, dashboards and tools to enable self-serve analytics to scale across GTM teams\n Influence stakeholder roadmaps from a data perspective, and become the expert on Anthropic’s GTM data models and architecture\n You might be a good fit if you have\n 5+ years of experience as a Data Engineer, Analytics Engineer or in a similar Data Science & Analytics role, ideally partnering with GTM, Revenue Operations or Finance teams.\n A passion for the company's miss…",
-    "tags": [
-      "Data Science & Analytics"
-    ],
-    "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-13T22:50:26.182Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8175471",
-    "externalId": "coinbase:8175471",
-    "source": "greenhouse",
-    "title": "Analytics Engineer Intern",
-    "company": "Coinbase",
-    "location": "Hybrid - San Francisco, CA",
-    "remote": false,
-    "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n This is a 12-week internship during summer 2027.\n You'll join the Analytics Engineering team within Platform, which builds and maintains the trusted data infrastructure that powers decision-making across Coinbase. As an Analytics Engineer Intern, you'll model complex data, build scalable pipelines, and deliver insights that help teams across the company unlock the full potential of our data. You will gain hands-on experience building production data systems at scale, mentorship from senior analytics engineers, and exposure to how data powers decision-making across a publicly traded crypto-native company.\n What you'll do:\n Build and maintain dimensional data models that transform raw data into clean, reliable datasets used by analysts, data scientists, and product teams across the organization.\n Develop data pipelines using SQL, ensuring data quality, freshness, and documentation meet production standards.\n Partner with cross-functional stakeholders to understand their data needs and deliver well-structured datasets or dashboards that enable self-serve analytics.\n Leverage generative AI tools to streamline data development, modeling, and documentation workflows.\n Investigate and resolve data quality issues, implementing tests and monitors that catch problems before they reach downstream consumers.\n Required Skills and Experience:\n Currently pursuing a degree in computer science…",
-    "tags": [
-      "Internships & Emerging Talent Positions"
-    ],
-    "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-13T22:50:26.182Z"
+    "scrapedAt": "2026-09-14T03:09:19.763Z"
   }
 ]
