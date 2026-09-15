@@ -1,5 +1,24 @@
 [
   {
+    "id": "jobicy:150666",
+    "externalId": "150666",
+    "source": "jobicy",
+    "title": "Data Engineer, Product Analytics",
+    "company": "Meta",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/750f86a9-221.jpeg",
+    "location": "USA",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/150666-data-engineer-product-analytics",
+    "description": "As a Data Engineer at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Reality Labs, Threads). Your technical skills and analytical mindset will be utilized designing and building some of the world's most extensive data sets, helping to craft experiences for billions of people and hundreds of millions of businesses worldwide.In this role, you will collaborate with software engineering, data science, and product management teams to design/build scalable data solutions across Meta to optimize growth, strategy, and user experience for our 3 billion plus users, as well as our internal employee community.You will be at the forefront of identifying and solving some of the most interesting data challenges at a scale few companies can match. By joining Meta, you will become part of a world-class data engineering community dedicated to skill development and career growth in data engineering and beyond.Data Engineering: You will guide teams by building optimal data artifacts (including datasets and visualizations) to address key questions. You will refine our systems, design logging solutions, and create scalable data models. Ensuring data security and quality, and with a strong focus on efficiency, you will suggest architecture and development approaches and data management standards to address complex analytical problems.Product leadership: You will use data to shape product development, identify new opportunities, and tackle upcoming challenges. You'll ensure our products add value for users and businesses, by prioritizing projects, and driving innovative solutions to respond to challenges or opportunities.Communication and influence: You won't simply present data, but tell data-driven stories. You will convince and influence your partners using clear insights and recommendations. You will build credibility through structure and clarity, and be a trust…",
+    "tags": [
+      "Data Science & Analytics",
+      "Senior"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-09-15T04:40:15.000Z",
+    "scrapedAt": "2026-09-15T10:59:08.907Z"
+  },
+  {
     "id": "greenhouse:anthropic-5424111008",
     "externalId": "anthropic:5424111008",
     "source": "greenhouse",
@@ -13,58 +32,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
-  },
-  {
-    "id": "arbeitnow:senior-analytics-engineer-london-17331",
-    "externalId": "senior-analytics-engineer-london-17331",
-    "source": "arbeitnow",
-    "title": "Senior Analytics Engineer",
-    "company": "sonyinteractiveentertainmentglobal",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-analytics-engineer-london-17331",
-    "description": "<div class=\"content-intro\"><p><strong>Why Sony Interactive Entertainment?</strong></p>\n<p>Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.</p></div><h3><span style=\"color: rgb(0, 0, 0); font-size: 12pt;\"><strong>About the Role</strong></span></h3>\n<p><span style=\"color: rgb(0, 0, 0); font-size: 12pt;\">We are seeking a Senior Analytics Engineer to help design, build, and scale our analytics platform. This is a hands‑on, high‑impact role suited to someone who enjoys greenfield analytics work, has strong opinions on data modelling and architecture, and partners closely with stakeholders to translate business problems into trusted, well‑governed data products.</span></p>\n<p><span style=\"color: rgb(0, 0, 0); font-size: 12pt;\">You will work within the PlayStation Partners Platform, delivering global data, reporting, and analytics solutions that support partners worldwide in developing and publishing games and content on PlayStation.</span></p>\n<p><span style=\"color: rgb(0, 0, 0); font-size: 12pt;\">Our mission is to deliver timely, scalable, and high‑quality data and insights that enable data‑driven decision‑making, improve operational efficiency, and uncover revenue opportunities. In this role, you will help shape how analytics is delivered across the organisation, from modelling standards and dbt best practices to the creation of trusted, decision‑rea…",
-    "tags": [
-      "Information Capital and Data Services (ICDS)"
-    ],
-    "postedAt": "2026-09-14T21:55:04.000Z",
-    "scrapedAt": "2026-09-15T03:11:21.917Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-12-month-fixed-term-contract-london-337055",
-    "externalId": "data-engineer-12-month-fixed-term-contract-london-337055",
-    "source": "arbeitnow",
-    "title": "Data Engineer (12 month Fixed term Contract)",
-    "company": "sonyinteractiveentertainmentglobal",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/data-engineer-12-month-fixed-term-contract-london-337055",
-    "description": "<div class=\"content-intro\"><p><strong>Why Sony Interactive Entertainment?</strong></p>\n<p>Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.</p></div><h2><span style=\"font-size: 12pt;\"><strong>The role&nbsp;</strong></span></h2>\n<p><span style=\"font-size: 12pt;\">We are looking for a Data Engineer to join Sony Interactive Entertainment, where data plays a key role in how we build, improve and understand PlayStation experiences around the world.</span></p>\n<p><span style=\"font-size: 12pt;\">As part of our Data Engineering team, you will help design, build and evolve the data processing platforms that power reporting, analytics and insight across our global business. Your work will support teams in understanding how our products are used and enjoyed, helping us make better decisions in service of our players.</span></p>\n<p><span style=\"font-size: 12pt;\">You will be part of a collaborative and welcoming team that values curiosity, learning and shared problem solving. This role offers the opportunity to take ownership of meaningful work, grow your technical skills, and explore new tools and ideas in a supportive environment. Based in our London office, you will join a diverse team where different perspectives are valued and building great things together is part of the culture.</span></p>\n<h2><span style=\"font-size: 12pt;\"><strong>What you’ll be doing</s…",
-    "tags": [
-      "Information Capital and Data Services (ICDS)"
-    ],
-    "postedAt": "2026-09-14T21:55:04.000Z",
-    "scrapedAt": "2026-09-15T03:11:21.917Z"
-  },
-  {
-    "id": "jobicy:153263",
-    "externalId": "153263",
-    "source": "jobicy",
-    "title": "Analytics Engineer II",
-    "company": "Affirm",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/fac7714c-221-1.jpg",
-    "location": "Poland",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/153263-analytics-engineer-ii",
-    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.\n Financial Systems owns the data and reporting foundation for Accounting, and the operational reliability of the pipelines that power reporting, reconciliations, and automation. We are building a single source of truth for financial information using dbt and Snowflake to enable scalable BI and process automation across the org.\n We are hiring an Analytics Engineer focused on maintaining and optimizing our finance data platform , improving reliability, efficiency, and performance of our pipelines and core datasets. This role is ideal for someone who enjoys operational ownership, building strong foundations, and making data systems easier and safer to run at scale.\n What You’ll Do\n Build and maintain dbt models and core datasets that support Accounting reporting and downstream automation use cases.\n Improve platform reliability through strong testing patterns, alerting, and runbooks.\n Own and document data pipelines and lineage, ensuring changes are understandable and auditable.\n Identify, troubleshoot, and resolve production data issues, and drive root-cause fixes.\n Optimize performance and cost in Snowflake and dbt to support scaling needs.\n Partner with engineering and business stakeholders to translate requirements into durable, well-tested data assets.\n Contribute to the team’s best practices in version control, code review, documentation, and release hygiene (GitHub-based workflows).\n What We Look For\n 3+ years of experience in analytics engineering, data engineering, or similar roles working with production data systems.\n Strong SQL skills and hands-on experience building in dbt (modeling, testing, documentation).\n Experience operating in a modern development workflow:\n Git and pull-request based collaboration (GitHub preferred).\n Familiarity with standard IDEs and collaborative debug…",
-    "tags": [
-      "Data Science & Analytics",
-      "Any"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-09-14T14:07:59.000Z",
-    "scrapedAt": "2026-09-15T03:11:21.982Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "arbeitnow:remote-senior-data-engineer-real-time-analytics-151340",
@@ -82,7 +50,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-13T19:24:53.000Z",
-    "scrapedAt": "2026-09-15T03:11:21.917Z"
+    "scrapedAt": "2026-09-15T10:59:08.781Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-paris-office-408462",
@@ -100,7 +68,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-13T19:24:53.000Z",
-    "scrapedAt": "2026-09-15T03:11:21.917Z"
+    "scrapedAt": "2026-09-15T10:59:08.781Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-finance-467775",
@@ -116,7 +84,7 @@
       "Operations"
     ],
     "postedAt": "2026-09-13T16:55:23.000Z",
-    "scrapedAt": "2026-09-15T03:11:21.917Z"
+    "scrapedAt": "2026-09-15T10:59:08.781Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -132,7 +100,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -148,7 +116,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -164,7 +132,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -180,7 +148,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -196,7 +164,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -212,7 +180,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -228,7 +196,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -244,7 +212,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "remotive:2091097",
@@ -309,7 +277,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-09-15T03:11:21.695Z"
+    "scrapedAt": "2026-09-15T10:59:08.436Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -325,7 +293,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "remoteok:1136860",
@@ -359,7 +327,7 @@
       "digital nomad"
     ],
     "postedAt": "2026-08-17T16:00:06.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.344Z"
+    "scrapedAt": "2026-09-15T10:59:09.472Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -375,7 +343,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -395,7 +363,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-09-15T03:14:30.785Z"
+    "scrapedAt": "2026-09-15T11:02:31.035Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -414,7 +382,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-09-15T03:14:31.845Z"
+    "scrapedAt": "2026-09-15T11:02:31.859Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -430,7 +398,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -446,7 +414,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -462,7 +430,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -478,7 +446,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -494,7 +462,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -510,7 +478,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -526,7 +494,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -542,7 +510,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -558,7 +526,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -574,7 +542,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -590,7 +558,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -606,7 +574,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -622,7 +590,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -638,7 +606,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -654,7 +622,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -670,7 +638,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -686,7 +654,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -702,7 +670,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -718,7 +686,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-09-15T03:11:22.352Z"
+    "scrapedAt": "2026-09-15T10:59:09.477Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -734,7 +702,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-15T03:11:28.898Z"
+    "scrapedAt": "2026-09-15T10:59:18.628Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -750,7 +718,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-15T03:11:28.898Z"
+    "scrapedAt": "2026-09-15T10:59:18.628Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -764,7 +732,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-15T03:11:28.898Z"
+    "scrapedAt": "2026-09-15T10:59:18.628Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -778,7 +746,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-15T03:11:28.898Z"
+    "scrapedAt": "2026-09-15T10:59:18.628Z"
   },
   {
     "id": "workday:salesforce-JR359294",
@@ -792,7 +760,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-15T03:11:28.898Z"
+    "scrapedAt": "2026-09-15T10:59:18.628Z"
   },
   {
     "id": "workday:salesforce-JR358418",
@@ -806,7 +774,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-15T03:11:28.898Z"
+    "scrapedAt": "2026-09-15T10:59:18.628Z"
   },
   {
     "id": "workday:adobe-R170680",
@@ -820,21 +788,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-15T03:11:28.898Z"
-  },
-  {
-    "id": "workday:adobe-R171024",
-    "externalId": "adobe:R171024",
-    "source": "workday",
-    "title": "Senior Data Engineer",
-    "company": "Adobe",
-    "location": "Bangalore",
-    "remote": false,
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Data-Engineer_R171024",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-09-15T03:11:28.898Z"
+    "scrapedAt": "2026-09-15T10:59:18.628Z"
   },
   {
     "id": "workday:adobe-R171212",
@@ -848,7 +802,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-15T03:11:28.898Z"
+    "scrapedAt": "2026-09-15T10:59:18.628Z"
   },
   {
     "id": "workday:adobe-R169536",
@@ -862,7 +816,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-15T03:11:28.898Z"
+    "scrapedAt": "2026-09-15T10:59:18.628Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -876,7 +830,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-15T03:11:28.898Z"
+    "scrapedAt": "2026-09-15T10:59:18.628Z"
   },
   {
     "id": "workday:autodesk-26WD100418",
@@ -890,7 +844,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-15T03:11:28.898Z"
+    "scrapedAt": "2026-09-15T10:59:18.628Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -904,7 +858,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-15T03:11:28.898Z"
+    "scrapedAt": "2026-09-15T10:59:18.628Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -918,7 +872,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-15T03:11:28.898Z"
+    "scrapedAt": "2026-09-15T10:59:18.628Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -932,7 +886,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-15T03:11:28.898Z"
+    "scrapedAt": "2026-09-15T10:59:18.628Z"
   },
   {
     "id": "workday:salesforce-JR341884",
@@ -946,7 +900,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-15T03:12:39.214Z"
+    "scrapedAt": "2026-09-15T11:00:32.940Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -960,7 +914,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-15T03:12:39.214Z"
+    "scrapedAt": "2026-09-15T11:00:32.940Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -974,6 +928,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-15T03:12:39.214Z"
+    "scrapedAt": "2026-09-15T11:00:32.940Z"
   }
 ]

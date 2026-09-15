@@ -27,34 +27,6 @@
     ]
   },
   {
-    "company": "Adobe",
-    "jobCount": 5,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "San Francisco",
-      "Bangalore",
-      "San Jose",
-      "Bucharest",
-      "3 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Senior Data Engineer",
-      "Lead Data Engineer",
-      "Data Platform Engineer",
-      "Principal Scientist - Data Pipeline Engineer"
-    ],
-    "officialUrls": [
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Engineer_R170680-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Data-Engineer_R171024",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Lead-Data-Engineer_R171212",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
-    ]
-  },
-  {
     "company": "Anthropic",
     "jobCount": 5,
     "sources": [
@@ -108,6 +80,31 @@
     ]
   },
   {
+    "company": "Adobe",
+    "jobCount": 4,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "San Francisco",
+      "San Jose",
+      "Bucharest",
+      "3 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer",
+      "Lead Data Engineer",
+      "Data Platform Engineer",
+      "Principal Scientist - Data Pipeline Engineer"
+    ],
+    "officialUrls": [
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Engineer_R170680-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Lead-Data-Engineer_R171212",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
+    ]
+  },
+  {
     "company": "Autodesk",
     "jobCount": 4,
     "sources": [
@@ -150,26 +147,6 @@
       "https://instacart.careers/job/?gh_jid=8167458",
       "https://instacart.careers/job/?gh_jid=8132846",
       "https://instacart.careers/job/?gh_jid=8126023"
-    ]
-  },
-  {
-    "company": "Affirm",
-    "jobCount": 2,
-    "sources": [
-      "greenhouse",
-      "jobicy"
-    ],
-    "locations": [
-      "Poland",
-      "Remote Poland"
-    ],
-    "sampleTitles": [
-      "Analytics Engineer II",
-      "Analytics Engineer II"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/153263-analytics-engineer-ii",
-      "https://job-boards.greenhouse.io/affirm/jobs/7764109003"
     ]
   },
   {
@@ -285,24 +262,6 @@
     ]
   },
   {
-    "company": "sonyinteractiveentertainmentglobal",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Senior Analytics Engineer",
-      "Data Engineer (12 month Fixed term Contract)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-analytics-engineer-london-17331",
-      "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/data-engineer-12-month-fixed-term-contract-london-337055"
-    ]
-  },
-  {
     "company": "Workday",
     "jobCount": 2,
     "sources": [
@@ -319,6 +278,22 @@
     "officialUrls": [
       "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
       "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
+    ]
+  },
+  {
+    "company": "Affirm",
+    "jobCount": 1,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "Remote Poland"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer II"
+    ],
+    "officialUrls": [
+      "https://job-boards.greenhouse.io/affirm/jobs/7764109003"
     ]
   },
   {
@@ -415,6 +390,22 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
+    ]
+  },
+  {
+    "company": "Meta",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "USA"
+    ],
+    "sampleTitles": [
+      "Data Engineer, Product Analytics"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/150666-data-engineer-product-analytics"
     ]
   },
   {
