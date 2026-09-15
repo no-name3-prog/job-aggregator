@@ -1,5 +1,53 @@
 [
   {
+    "id": "greenhouse:anthropic-5424111008",
+    "externalId": "anthropic:5424111008",
+    "source": "greenhouse",
+    "title": "Recruiting Analytics Data Engineer",
+    "company": "Anthropic",
+    "location": "New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA; Seattle, WA",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424111008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\n We are seeking a Recruiting Analytics Data Engineer to join our People Data Solutions team, focusing on building and maintaining the data infrastructure that powers our recruiting analytics capabilities. You'll be the technical foundation for our recruiting analytics team, designing scalable data architectures and implementing robust data models that enable evidence-based decision-making across Anthropic.\n This role sits at the intersection of data engineering and recruiting analytics - you'll build the technical foundation for insights about recruiting funnels, interviews, and workforce planning while working with a team that's actively experimenting with AI to transform how we understand and support our workforce.\n Key responsibilities\n Data Infrastructure & Modeling\n Refactor and optimize our existing BigQuery tables to create a scalable data foundation that supports and enables AI-driven data insights across the company\n Design scalable data architectures and build dimensional models that transform raw HR data into trusted, reusable datasets for self-serve analytics while maintaining performance\n Implement data governance including documentation, lineage tracking, quality monitoring, and proactive alerting systems\n Ensure appropriate data access controls including row and column-level security for sensitive candidate data\n Pipeline Development & Integration\n Build and maintain ETL/ELT pipelines using dbt and Google BigQuery to integrate data from our HRIS (Workday), ATS (Greenhouse), and internal tools\n Create reliable data flows that handle both real-time needs and batch processing requirements\n Design fault-to…",
+    "tags": [
+      "People"
+    ],
+    "postedAt": "2026-09-15T01:14:53.000Z",
+    "scrapedAt": "2026-09-15T03:11:22.352Z"
+  },
+  {
+    "id": "arbeitnow:senior-analytics-engineer-london-17331",
+    "externalId": "senior-analytics-engineer-london-17331",
+    "source": "arbeitnow",
+    "title": "Senior Analytics Engineer",
+    "company": "sonyinteractiveentertainmentglobal",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-analytics-engineer-london-17331",
+    "description": "<div class=\"content-intro\"><p><strong>Why Sony Interactive Entertainment?</strong></p>\n<p>Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.</p></div><h3><span style=\"color: rgb(0, 0, 0); font-size: 12pt;\"><strong>About the Role</strong></span></h3>\n<p><span style=\"color: rgb(0, 0, 0); font-size: 12pt;\">We are seeking a Senior Analytics Engineer to help design, build, and scale our analytics platform. This is a hands‑on, high‑impact role suited to someone who enjoys greenfield analytics work, has strong opinions on data modelling and architecture, and partners closely with stakeholders to translate business problems into trusted, well‑governed data products.</span></p>\n<p><span style=\"color: rgb(0, 0, 0); font-size: 12pt;\">You will work within the PlayStation Partners Platform, delivering global data, reporting, and analytics solutions that support partners worldwide in developing and publishing games and content on PlayStation.</span></p>\n<p><span style=\"color: rgb(0, 0, 0); font-size: 12pt;\">Our mission is to deliver timely, scalable, and high‑quality data and insights that enable data‑driven decision‑making, improve operational efficiency, and uncover revenue opportunities. In this role, you will help shape how analytics is delivered across the organisation, from modelling standards and dbt best practices to the creation of trusted, decision‑rea…",
+    "tags": [
+      "Information Capital and Data Services (ICDS)"
+    ],
+    "postedAt": "2026-09-14T21:55:04.000Z",
+    "scrapedAt": "2026-09-15T03:11:21.917Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-12-month-fixed-term-contract-london-337055",
+    "externalId": "data-engineer-12-month-fixed-term-contract-london-337055",
+    "source": "arbeitnow",
+    "title": "Data Engineer (12 month Fixed term Contract)",
+    "company": "sonyinteractiveentertainmentglobal",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/data-engineer-12-month-fixed-term-contract-london-337055",
+    "description": "<div class=\"content-intro\"><p><strong>Why Sony Interactive Entertainment?</strong></p>\n<p>Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.</p></div><h2><span style=\"font-size: 12pt;\"><strong>The role&nbsp;</strong></span></h2>\n<p><span style=\"font-size: 12pt;\">We are looking for a Data Engineer to join Sony Interactive Entertainment, where data plays a key role in how we build, improve and understand PlayStation experiences around the world.</span></p>\n<p><span style=\"font-size: 12pt;\">As part of our Data Engineering team, you will help design, build and evolve the data processing platforms that power reporting, analytics and insight across our global business. Your work will support teams in understanding how our products are used and enjoyed, helping us make better decisions in service of our players.</span></p>\n<p><span style=\"font-size: 12pt;\">You will be part of a collaborative and welcoming team that values curiosity, learning and shared problem solving. This role offers the opportunity to take ownership of meaningful work, grow your technical skills, and explore new tools and ideas in a supportive environment. Based in our London office, you will join a diverse team where different perspectives are valued and building great things together is part of the culture.</span></p>\n<h2><span style=\"font-size: 12pt;\"><strong>What you’ll be doing</s…",
+    "tags": [
+      "Information Capital and Data Services (ICDS)"
+    ],
+    "postedAt": "2026-09-14T21:55:04.000Z",
+    "scrapedAt": "2026-09-15T03:11:21.917Z"
+  },
+  {
     "id": "jobicy:153263",
     "externalId": "153263",
     "source": "jobicy",
@@ -16,7 +64,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-09-14T14:07:59.000Z",
-    "scrapedAt": "2026-09-14T21:24:01.515Z"
+    "scrapedAt": "2026-09-15T03:11:21.982Z"
   },
   {
     "id": "arbeitnow:remote-senior-data-engineer-real-time-analytics-151340",
@@ -34,7 +82,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-13T19:24:53.000Z",
-    "scrapedAt": "2026-09-14T21:24:01.401Z"
+    "scrapedAt": "2026-09-15T03:11:21.917Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-paris-office-408462",
@@ -52,7 +100,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-13T19:24:53.000Z",
-    "scrapedAt": "2026-09-14T21:24:01.401Z"
+    "scrapedAt": "2026-09-15T03:11:21.917Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-finance-467775",
@@ -68,7 +116,7 @@
       "Operations"
     ],
     "postedAt": "2026-09-13T16:55:23.000Z",
-    "scrapedAt": "2026-09-14T21:24:01.401Z"
+    "scrapedAt": "2026-09-15T03:11:21.917Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -84,7 +132,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-14T21:24:01.917Z"
+    "scrapedAt": "2026-09-15T03:11:22.352Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -100,7 +148,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-14T21:24:01.917Z"
+    "scrapedAt": "2026-09-15T03:11:22.352Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -116,54 +164,6 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-14T21:24:01.917Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8175459",
-    "externalId": "coinbase:8175459",
-    "source": "greenhouse",
-    "title": "Data Engineer Intern",
-    "company": "Coinbase",
-    "location": "Hybrid - San Francisco, CA",
-    "remote": false,
-    "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n This is a 12-week internship during summer 2027.\n As a Data Engineer Intern within the Platform product group, you'll partner with analytics engineering to build and maintain the data pipelines and infrastructure that power insights across Coinbase. You'll work alongside senior engineers and cross-functional partners in product and engineering to ensure data accuracy, scalability, and accessibility for analytical and machine learning use cases.\n What you'll do:\n Build and maintain data pipelines that ensure data integrity and accessibility for analytics and machine learning workloads\n Support the development of scalable data infrastructure using Python and cloud-based technologies\n Integrate and manage data from multiple sources, including internal systems and external APIs\n Contribute to analytical deep dives with senior team members, translating findings into clear documentation and recommendations\n Learn and apply data engineering best practices including data governance, security, and performance optimization\n Required Skills and Experience:\n Completed or in-progress coursework in Computer Science, Data Engineering, or equivalent experience with demonstrated programming proficiency in Python, including data structures and algorithms\n Hands-on experience writing SQL for data analysis and working with relational database concepts\n Familiarity with cloud platforms (AWS, GCP,…",
-    "tags": [
-      "Internships & Emerging Talent Positions"
-    ],
-    "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-14T21:24:01.917Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8180833",
-    "externalId": "coinbase:8180833",
-    "source": "greenhouse",
-    "title": "Senior Market Data Engineer",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Coinbase is building the future of institutional trading as part of the Everything Exchange, powering the systems that let the world's largest financial institutions trade across markets with speed, depth, and trust. As a Senior Data Engineer, Market Data on the Institutional Markets team, you'll build and operate the systems that capture, normalize, and distribute real-time market data across Coinbase at low latency - the feed handlers, venue connectors, and distribution layer that form the backbone of a unified trading platform.\n What you'll do:\n Build and maintain market data components including feed handlers, normalization pipelines, distribution systems, and venue connectivity.\n Design and implement low-latency, high-throughput services for real-time market data consumed by trading systems across the platform.\n Drive reliability and performance improvements through observability, on-call participation, and incident response.\n Write high-quality, well-tested code and contribute to engineering standards on a lean team.\n Partner with engineers, product managers, and cross-functional stakeholders to deliver market data capabilities that support Coinbase's institutional trading roadmap.\n Required Skills and Experience:\n 3+ years of backend engineering experience building and maintaining production low-latency systems.\n Hands-on experience with at least one area of market data…",
-    "tags": [
-      "Engineering - Data"
-    ],
-    "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-14T21:24:01.917Z"
-  },
-  {
-    "id": "greenhouse:instacart-8167458",
-    "externalId": "instacart:8167458",
-    "source": "greenhouse",
-    "title": "Analytics Engineer II",
-    "company": "Instacart",
-    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-    "remote": true,
-    "url": "https://instacart.careers/job/?gh_jid=8167458",
-    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n The Marketing Enablement & Technology (MET) team sits natively within Instacart's Marketing organization, owning the data foundations that power Paid Marketing, SEO, and Retailer Marketing attribution. These datasets directly inform how we allocate hundreds of millions of dollars in marketing spend and how we measure growth.\n We're hiring an Analytics Engineer II to help build and evolve the marketing analytics data foundation. In this role, you'll independently design and deliver high-quality, business-aware data models and pipelines that Data Scientists and Analysts trust — owning your work end-to-end, raising the quality bar through code reviews and design discussion, and growing toward broader technical ownership of marketing data.\n About the Job\n Marketing Analytics Data Development: Independently build and maintain high-quality dimensional dat…",
-    "tags": [
-      "Marketing "
-    ],
-    "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-14T21:24:01.917Z"
+    "scrapedAt": "2026-09-15T03:11:22.352Z"
   }
 ]
