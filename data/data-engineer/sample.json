@@ -1,5 +1,39 @@
 [
   {
+    "id": "arbeitnow:data-engineer-measurement-reporting-paris-295755",
+    "externalId": "data-engineer-measurement-reporting-paris-295755",
+    "source": "arbeitnow",
+    "title": "Data Engineer, Measurement & Reporting",
+    "company": "Vibe",
+    "location": "Paris",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/vibe/data-engineer-measurement-reporting-paris-295755",
+    "description": "About Vibe At Vibe.co , we're reimagining how brands reach audiences in the age of streaming. We believe streaming TV is no longer just a brand awareness play, it's the next great performance marketing channel. We're building the infrastructure to unlock this $100B opportunity.\n Vibe.co provides an Audience First Streaming TV Advertising solution for marketers to unlock TV as a growth channel. Our all-in-one solution combines hyper-targeted audience segmentation, AI-powered insights and recommendations, real-time campaign optimization, and incrementality measurement, giving brands of all sizes the precision and transparency they've come to expect from social and search, but on TV.\n Trusted by over 10,000 brands, Vibe.co reaches more than 120 million households across 500+ apps and channels, delivering an average 250% return on ad spend and 20% sales lift. The company hit a $100 million revenue run rate in under two years, ranking among the ten fastest software companies to reach that milestone.\n Vibe.co 's investors include Hedosophia (an early backer of Spotify, Uber, and Airbnb), Elaia, Singular, QuantumLight (Revolut CEO Nik Storonsky's fund), and Illusian (Supercell CEO Ilkka Paananen's fund), as well as angel investors including Carolyn Everson, board member of The Walt Disney Company and Coca-Cola. Nirav Tolia, CEO of Nextdoor, sits on the company's board of directors.\n Founded in 2022, Vibe.co is widely recognized as the category-defining platform in streaming TV advertising, bringing the power of Meta and Google-style performance marketing to the fastest-growing segment in media.\n About the Role Vibe ingests more than 500,000 messages a second and stores several petabytes. Every advertiser who opens their dashboard expects their campaign numbers to be right, and current. You own the layer that makes that true. The platform side of the team builds the storage and compute. You run production on top of it: schema changes, data transformations, the reporting pi…",
+    "tags": [
+      "Engineering & Product",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-09-15T13:40:02.000Z",
+    "scrapedAt": "2026-09-15T16:09:54.817Z"
+  },
+  {
+    "id": "arbeitnow:principal-data-engineer-belfast-249456",
+    "externalId": "principal-data-engineer-belfast-249456",
+    "source": "arbeitnow",
+    "title": "Principal Data Engineer",
+    "company": "Blackduck",
+    "location": "Belfast",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/blackduck/principal-data-engineer-belfast-249456",
+    "description": "<div class=\"content-intro\"><p>Black Duck Software, Inc. helps organizations build secure, high-quality software, minimizing risks while maximizing speed and productivity. Black Duck, a recognized pioneer in application security, provides SAST, SCA, and DAST solutions that enable teams to quickly find and fix vulnerabilities and defects in proprietary code, open source components, and application behavior. With a combination of industry-leading tools, services, and expertise, only Black Duck helps organizations maximize security and quality in DevSecOps and throughout the software development life cycle.</p></div><p><strong>What you’ll do</strong></p>\n<ul>\n<li>Lead the design and build-out of cross-product data services for multiple product lines from one governed data plane.</li>\n<li>Define the “customer data plane” model: canonical customer identifiers, shared dimensions, and consistent facts used across products.</li>\n<li>Build and operationalize ingestion patterns for batch, streaming, and event data, with repeatable onboarding for new sources.</li>\n<li>Own the operational playbook for data reliability: data contracts, quality checks, lineage, monitoring, and incident response.</li>\n<li>Implement and run access methods that make data usable: curated datasets, secure query interfaces, and product-ready data APIs where needed.</li>\n<li>Productize customer-facing data products (datasets, metrics, exports, and feeds) with versioning, documentation, and clear ownership.</li>\n<li>Design data models that fit both operational systems (RDS) and analytics stores (columnar/OLAP), including performance and cost tuning.</li>\n<li>Ensure data products also power ML workflows: trusted training datasets, feature-ready outputs, and consistent definitions for decision-making.</li>\n<li>Enable AI automation by delivering reliable, low-latency, governed data products that can be used safely in automated workflows.</li>\n<li>Partner closely with product, engineering, and security stake…",
+    "tags": [
+      "5010 - R&D SaaS (GQP)"
+    ],
+    "postedAt": "2026-09-15T12:55:10.000Z",
+    "scrapedAt": "2026-09-15T16:09:54.817Z"
+  },
+  {
     "id": "jobicy:150666",
     "externalId": "150666",
     "source": "jobicy",
@@ -16,7 +50,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-09-15T04:40:15.000Z",
-    "scrapedAt": "2026-09-15T10:59:08.907Z"
+    "scrapedAt": "2026-09-15T16:09:55.102Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -32,7 +66,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-09-15T10:59:09.477Z"
+    "scrapedAt": "2026-09-15T16:09:55.770Z"
   },
   {
     "id": "arbeitnow:remote-senior-data-engineer-real-time-analytics-151340",
@@ -50,7 +84,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-13T19:24:53.000Z",
-    "scrapedAt": "2026-09-15T10:59:08.781Z"
+    "scrapedAt": "2026-09-15T16:09:54.817Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-paris-office-408462",
@@ -68,7 +102,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-13T19:24:53.000Z",
-    "scrapedAt": "2026-09-15T10:59:08.781Z"
+    "scrapedAt": "2026-09-15T16:09:54.817Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-finance-467775",
@@ -84,7 +118,7 @@
       "Operations"
     ],
     "postedAt": "2026-09-13T16:55:23.000Z",
-    "scrapedAt": "2026-09-15T10:59:08.781Z"
+    "scrapedAt": "2026-09-15T16:09:54.817Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -100,7 +134,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-15T10:59:09.477Z"
+    "scrapedAt": "2026-09-15T16:09:55.770Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -116,7 +150,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-15T10:59:09.477Z"
+    "scrapedAt": "2026-09-15T16:09:55.770Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -132,38 +166,6 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-15T10:59:09.477Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8175459",
-    "externalId": "coinbase:8175459",
-    "source": "greenhouse",
-    "title": "Data Engineer Intern",
-    "company": "Coinbase",
-    "location": "Hybrid - San Francisco, CA",
-    "remote": false,
-    "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n This is a 12-week internship during summer 2027.\n As a Data Engineer Intern within the Platform product group, you'll partner with analytics engineering to build and maintain the data pipelines and infrastructure that power insights across Coinbase. You'll work alongside senior engineers and cross-functional partners in product and engineering to ensure data accuracy, scalability, and accessibility for analytical and machine learning use cases.\n What you'll do:\n Build and maintain data pipelines that ensure data integrity and accessibility for analytics and machine learning workloads\n Support the development of scalable data infrastructure using Python and cloud-based technologies\n Integrate and manage data from multiple sources, including internal systems and external APIs\n Contribute to analytical deep dives with senior team members, translating findings into clear documentation and recommendations\n Learn and apply data engineering best practices including data governance, security, and performance optimization\n Required Skills and Experience:\n Completed or in-progress coursework in Computer Science, Data Engineering, or equivalent experience with demonstrated programming proficiency in Python, including data structures and algorithms\n Hands-on experience writing SQL for data analysis and working with relational database concepts\n Familiarity with cloud platforms (AWS, GCP,…",
-    "tags": [
-      "Internships & Emerging Talent Positions"
-    ],
-    "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-15T10:59:09.477Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8180833",
-    "externalId": "coinbase:8180833",
-    "source": "greenhouse",
-    "title": "Senior Market Data Engineer",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Coinbase is building the future of institutional trading as part of the Everything Exchange, powering the systems that let the world's largest financial institutions trade across markets with speed, depth, and trust. As a Senior Data Engineer, Market Data on the Institutional Markets team, you'll build and operate the systems that capture, normalize, and distribute real-time market data across Coinbase at low latency - the feed handlers, venue connectors, and distribution layer that form the backbone of a unified trading platform.\n What you'll do:\n Build and maintain market data components including feed handlers, normalization pipelines, distribution systems, and venue connectivity.\n Design and implement low-latency, high-throughput services for real-time market data consumed by trading systems across the platform.\n Drive reliability and performance improvements through observability, on-call participation, and incident response.\n Write high-quality, well-tested code and contribute to engineering standards on a lean team.\n Partner with engineers, product managers, and cross-functional stakeholders to deliver market data capabilities that support Coinbase's institutional trading roadmap.\n Required Skills and Experience:\n 3+ years of backend engineering experience building and maintaining production low-latency systems.\n Hands-on experience with at least one area of market data…",
-    "tags": [
-      "Engineering - Data"
-    ],
-    "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-15T10:59:09.477Z"
+    "scrapedAt": "2026-09-15T16:09:55.770Z"
   }
 ]
