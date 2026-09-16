@@ -1,5 +1,106 @@
 [
   {
+    "id": "arbeitnow:cloud-data-engineering-intern-working-student-full-stack-data-platforms-ai-automation-oberhaching-170366",
+    "externalId": "cloud-data-engineering-intern-working-student-full-stack-data-platforms-ai-automation-oberhaching-170366",
+    "source": "arbeitnow",
+    "title": "Cloud & Data Engineering Intern / Working Student (m/f/d) - Full-Stack Data Platforms & AI Automation",
+    "company": "PFASuiki GmbH",
+    "location": "Oberhaching",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/pfasuiki-gmbh/cloud-data-engineering-intern-working-student-full-stack-data-platforms-ai-automation-oberhaching-170366",
+    "description": "PFASuiki is a climate-tech startup with a clear mission: creating a world free from persistent “forever chemicals.” Using advanced electrochemical oxidation technology, we develop solutions to permanently destroy PFAS and transform contaminated streams into safe water.\n We are looking for an ambitious Cloud &#x26; Data Engineering Intern / Working Student to help build the digital backbone of our technology development. You will work at the intersection of cloud engineering, full-stack development, scientific data and AI – turning experimental data and analysis tools into scalable, production-grade infrastructure.\n Location: Oberhaching (South of Munich) – 100% on-site.\n Tasks\n • Maintain and optimize our GCP/Firebase cloud infrastructure with a focus on reliability, scalability and security\n• Expand our TypeScript/JavaScript-based laboratory data platform and improve the user experience for R&#x26;D and engineering teams\n• Build robust data pipelines connecting experimental data, databases, analysis tools and dashboards\n• Translate existing scientific Python analysis code into scalable, web-based workflows\n• Identify and implement LLM/AI integrations for data synthesis, automated reporting and environmental/industry intelligence\n• Develop clear dashboards that turn complex electrochemical data into actionable insights\n• Improve our existing codebase, architecture and technical documentation to evolve prototypes into sustainable company standards\n• Work directly with our R&#x26;D and engineering teams to identify opportunities for further digitalization and automation\n Requirements\n • Currently studying Computer Science, Data Engineering, Software Engineering, Data Science or a related technical field\n• Strong foundation in TypeScript/JavaScript, Python and SQL\n• Experience or strong interest in cloud platforms such as GCP or AWS; Firebase experience is a plus\n• Hands-on, resourceful mindset – you enjoy understanding existing systems and finding pragmatic solutions…",
+    "tags": [
+      "Data Processing",
+      "Data Engineer",
+      "no experience required / student"
+    ],
+    "jobType": "no experience required / student",
+    "postedAt": "2026-09-16T15:00:30.000Z",
+    "scrapedAt": "2026-09-16T16:03:15.707Z"
+  },
+  {
+    "id": "arbeitnow:senior-analytics-engineer-run-grow-berlin-116362",
+    "externalId": "senior-analytics-engineer-run-grow-berlin-116362",
+    "source": "arbeitnow",
+    "title": "Senior Analytics Engineer - Run & Grow",
+    "company": "SumUp",
+    "location": "Berlin, Germany",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-analytics-engineer-run-grow-berlin-116362",
+    "description": "The Run & Grow Tribe of Tribes powers the systems, insights, and experiences that keep millions of merchants engaged, successful, and growing with SumUp across every market we operate in. We're at a genuine inflection point in how we use data, moving from fragmented pipelines to a world-class data foundation built on stable business domains, trusted metrics, and AI-ready data products. This is a greenfield opportunity to shape how data is owned, defined, and built at scale, and as our Analytics Engineer, you'll be the connective tissue that makes that vision real.\n What you'll do\n Partner with squads across the tribe on event design and data contracts, maintaining staging pipelines, applying modelling conventions, and keeping domain outputs consistent, tested, and discoverable\n Model key business domains, including merchant activity, product adoption, lifecycle events, and risk scoring, building well-documented, quality-assured data products that serve as the trusted source of truth across the organisation\n Build and maintain the insights layer on top of governed domains, producing reusable KPI models, funnels, cohorts, and segmentations that Product, Commercial, and AI teams can self-serve with confidence\n Implement technical improvements including incremental processing strategies, performance optimisations, and scalable data architecture to support growing data volumes\n Contribute to SumUp's broader data domain strategy, helping establish durable ownership, consistent definitions, and a shared catalogue of data products that unlock self-serve analytics and AI at scale\n You'll be great for this role if…\n Strong, proven experience in analytics engineering or data engineering, with a track record of building and maintaining production data systems\n Expert-level SQL skills for complex transformations and query optimisation, with hands-on experience building layered data models in a modern data warehouse or lakehouse (e.g. Snowflake, Iceberg) and solid command of dbt…",
+    "tags": [],
+    "postedAt": "2026-09-16T13:45:26.000Z",
+    "scrapedAt": "2026-09-16T16:03:15.707Z"
+  },
+  {
+    "id": "arbeitnow:data-platform-engineer-berlin-462000",
+    "externalId": "data-platform-engineer-berlin-462000",
+    "source": "arbeitnow",
+    "title": "Data Platform Engineer",
+    "company": "SumUp",
+    "location": "Berlin, Germany",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/sumup/data-platform-engineer-berlin-462000",
+    "description": "As part of the Platform tribe, you will help build a self-service, AI-Ready Data Platform. The Data Platform team supports our next big bets: Data, AI, and real-time analytics. We are a team focused on building scalable, reliable infrastructure to enable our global data community.\n What you'll do\n Build and maintain best-in-class data infrastructure for critical processes.\n Develop features that strengthen self-service, including for ETL and orchestration.\n Optimise processes to use compute more efficiently and reduce cost.\n Automate operations so the platform stays highly available.\n Contribute to the design and implementation of new services.\n You'll be a strong fit if you\n Have experience with infrastructure as code and containerisation (e.g. Terraform, Helm, Docker, Kubernetes).\n Have used modern query engines (e.g. Snowflake, Databricks, BigQuery, Trino).\n Have worked with modern data orchestration tools (e.g. Airflow, Dagster).\n Are proficient in at least one of our main languages: Python or Go.\n Bring a pragmatic, team-first mindset.\n Are self-motivated, work well independently, and can balance stakeholder needs.\n Nice to have\n Experience building and operating performant API layers.\n Experience with dbt for transform, test, and documentation workflows.\n Query optimization at scale.\n Real-time streaming (e.g. Kafka, Flink, StarRocks, Pinot, Druid, ClickHouse).\n Experience with systems at petabyte scale.\n Experience implementing AI-enabled systems (e.g. agentic SRE, AI automation).\n About SumUp\n We believe in the everyday hero. Small business owners are at the heart of all we do, so we're creating tools that help them run their businesses. With a founder's mentality and a 'team-first' attitude, our diverse teams across Europe, South America, and the United States work together to ensure that the small business owners we partner with can be successful doing what they love. SumUp is an Equal Employment Opportunity employer that proudly pursues and hires a diver…",
+    "tags": [],
+    "postedAt": "2026-09-16T13:45:26.000Z",
+    "scrapedAt": "2026-09-16T16:03:15.707Z"
+  },
+  {
+    "id": "arbeitnow:analytics-engineer-paris-462175",
+    "externalId": "analytics-engineer-paris-462175",
+    "source": "arbeitnow",
+    "title": "Analytics Engineer",
+    "company": "Qonto",
+    "location": "Paris",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/qonto/analytics-engineer-paris-462175",
+    "description": "Our mission and customers: We are creating the freedom for SMEs to succeed by delivering Europe's leading finance workspace with banking at its core, augmented by financial tools. We are proud to be rated 4.8 on Trustpilot , based on 55,000+ reviews. Our culture puts customer satisfaction at the core of what we do, as proven by our Net Promoter Score of 75 (more about our culture here ).\n Our journey: Founded in 2017 by Alexandre and Steve , Qonto has grown to 1,600+ Qontoers serving over 600,000+ customers across 8 European countries. We have been profitable since 2023, and we are just getting started.\n Our beliefs: We hire for skills and potential. With 80+ nationalities, 45% women, of which 56% of women in our leadership team, diversity isn't a program; It's who we are. We've built a discrimination-free hiring process because the best teams are built on merit.\n AI at Qonto: AI is deeply embedded in how we work ( here ) - Every Qontoer gets unlimited access to the best AI tools. We want people who experiment without waiting for permission, push AI beyond the obvious, know when to trust it, and when to question it.\n ------------------------------------------------------------------------------------------------------\n ➡️ Mission: Join us as Analytics Engineer x Business Analytics and become the person our Business Analytics teams can build on without a second thought.\n You will own end-to-end the data models feeding Product, Growth, and Ops Finance analytics — designing scalable dbt models, pushing back on requests that would trade reliability for speed, and helping the team migrate to Omni and a real semantic layer.\n You will work closely with Jules Jeanroy, our Analytics Engineering Manager, and partner daily with Business Analysts across Product, Growth, and Ops Finance. The team is at a pivotal moment — investing in scalability, cutting technical debt, and building the standards that will define how Analytics Engineering works at Qonto for years to come.\n ➡️ A…",
+    "tags": [
+      "Analytics Engineering",
+      "Full-time"
+    ],
+    "jobType": "Full-time",
+    "postedAt": "2026-09-16T13:24:56.000Z",
+    "scrapedAt": "2026-09-16T16:03:15.707Z"
+  },
+  {
+    "id": "arbeitnow:cloud-fleet-data-engineer-wessling-95796",
+    "externalId": "cloud-fleet-data-engineer-wessling-95796",
+    "source": "arbeitnow",
+    "title": "Cloud & Fleet Data Engineer",
+    "company": "Quantum-Systems GmbH",
+    "location": "Wessling",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/cloud-fleet-data-engineer-wessling-95796",
+    "description": "About the Role Every flight creates valuable data. Your mission is to make it visible, accessible and actionable. You will build the product-specific cloud services and data workflows that connect our interceptors, launch boxes, engineering teams and field operations.\n What is your Day to Day Mission: •      Build the central source of truth for device identity, software versions, configurations and fleet health.\n •      Develop secure backend services and APIs connecting interceptors, launch boxes and support systems.\n •      Create resilient communication workflows for devices operating with intermittent connectivity.\n •      Automate the upload and processing of flight logs, telemetry, video and sensor data.\n •      Build pipelines, dashboards and alerts that help engineers identify and solve problems quickly.\n •      Connect flight data with the software, hardware configuration and mission context that produced it.\n What you bring to the team: You do not need to check every box. We are looking for strong fundamentals, hands-on ability and real ownership.\n •      Experience in cloud, backend, data-platform, IoT or distributed-systems engineering.\n •      Strong programming skills in Python, Go, Java, TypeScript or a comparable language.\n •      Experience with APIs, databases, object storage, message queues or data pipelines.\n •      Familiarity with telemetry, observability, monitoring or connected-device systems.\n •      The drive to turn incomplete information into reliable services and fast operational answers.\n Why Quantum-Systems: We believe in the power of combined efforts: straightforward tech expertise paired with a customer-centric focus.\n We are industry pioneers who are ambitious, bold, and visionary.\n We push limits, think outside-the-box and strive for technological excellence to shape the future of aerial data.\n We promise to be your runway for individual and professional growth.\n Our benefits: Company pension scheme: We support you so that you ca…",
+    "tags": [
+      "Engineering",
+      "bachelor's degree",
+      "Full-time permanent",
+      "mid"
+    ],
+    "jobType": "Full-time permanent",
+    "postedAt": "2026-09-16T13:20:13.000Z",
+    "scrapedAt": "2026-09-16T16:03:15.707Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-igaming-249244",
+    "externalId": "data-engineer-igaming-249244",
+    "source": "arbeitnow",
+    "title": "Data Engineer - iGaming",
+    "company": "Xdesign",
+    "location": "Unknown",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/xdesign/data-engineer-igaming-249244",
+    "description": "<p><strong>Please note:</strong> This is not a live vacancy. We are hiring ahead of demand and building a talent pipeline for upcoming client engagements. By applying, you're expressing interest in future opportunities, and we'll be in touch as soon as a matching role becomes available.</p>\n<hr>\n<h1>Data Engineer</h1>\n<h2>About the role and team</h2>\n<p>Hands-on delivery engineers working under the Architect to execute data migrations. Responsible for building and fixing data pipelines, resolving technical debt, and getting platforms to a stable, production-ready state.</p>\n<h2>What you'll be doing</h2>\n<ul>\n<li>Design, build, and optimise data pipelines on the AWS stack</li>\n<li>Identify and resolve existing technical debt in migrations</li>\n<li>Work collaboratively with client engineering teams to transfer knowledge</li>\n<li>Contribute to stabilising platforms and hitting delivery milestones</li>\n<li>Support the Architect in defining and implementing the target state</li>\n</ul>\n<h2>We'd love to talk to you if you have</h2>\n<ul>\n<li>Experience with the AWS data stack: S3, Glue, Redshift, Lake Formation</li>\n<li>Familiarity with Lakehouse patterns and architecture</li>\n<li>Strong proficiency in Python and SQL</li>\n<li>Experience in regulated or high-volume data environments</li>\n<li>Betting and/or gaming domain knowledge required</li>\n</ul><div class=\"content-conclusion\"><h3 id=\"What-we’ll-offer-you:\" data-renderer-start-pos=\"8044\"><strong data-renderer-mark=\"true\">What we’ll offer you:</strong></h3>\n<p>We trust people to do their best work. That means flexibility over rigid rules, impact over activity, and real investment in your growth both professionally and personally. You’ll be part of a supportive, and friendly culture, surrounded by smart, curious people who care deeply about what they do.<br><br>We offer flexible working, including hybrid and remote options. Our office hubs are located in Edinburgh, Leeds, Manchester, London and Bulgaria, with occasional tr…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-09-16T12:55:17.000Z",
+    "scrapedAt": "2026-09-16T16:03:15.707Z"
+  },
+  {
     "id": "jobicy:150836",
     "externalId": "150836",
     "source": "jobicy",
@@ -16,25 +117,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-09-16T04:40:07.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.107Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-measurement-reporting-paris-295755",
-    "externalId": "data-engineer-measurement-reporting-paris-295755",
-    "source": "arbeitnow",
-    "title": "Data Engineer, Measurement & Reporting",
-    "company": "Vibe",
-    "location": "Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/vibe/data-engineer-measurement-reporting-paris-295755",
-    "description": "About Vibe At Vibe.co , we're reimagining how brands reach audiences in the age of streaming. We believe streaming TV is no longer just a brand awareness play, it's the next great performance marketing channel. We're building the infrastructure to unlock this $100B opportunity.\n Vibe.co provides an Audience First Streaming TV Advertising solution for marketers to unlock TV as a growth channel. Our all-in-one solution combines hyper-targeted audience segmentation, AI-powered insights and recommendations, real-time campaign optimization, and incrementality measurement, giving brands of all sizes the precision and transparency they've come to expect from social and search, but on TV.\n Trusted by over 10,000 brands, Vibe.co reaches more than 120 million households across 500+ apps and channels, delivering an average 250% return on ad spend and 20% sales lift. The company hit a $100 million revenue run rate in under two years, ranking among the ten fastest software companies to reach that milestone.\n Vibe.co 's investors include Hedosophia (an early backer of Spotify, Uber, and Airbnb), Elaia, Singular, QuantumLight (Revolut CEO Nik Storonsky's fund), and Illusian (Supercell CEO Ilkka Paananen's fund), as well as angel investors including Carolyn Everson, board member of The Walt Disney Company and Coca-Cola. Nirav Tolia, CEO of Nextdoor, sits on the company's board of directors.\n Founded in 2022, Vibe.co is widely recognized as the category-defining platform in streaming TV advertising, bringing the power of Meta and Google-style performance marketing to the fastest-growing segment in media.\n About the Role Vibe ingests more than 500,000 messages a second and stores several petabytes. Every advertiser who opens their dashboard expects their campaign numbers to be right, and current. You own the layer that makes that true. The platform side of the team builds the storage and compute. You run production on top of it: schema changes, data transformations, the reporting pi…",
-    "tags": [
-      "Engineering & Product",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-09-15T13:40:02.000Z",
-    "scrapedAt": "2026-09-16T10:47:17.968Z"
+    "scrapedAt": "2026-09-16T16:03:15.831Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -50,7 +133,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -66,7 +149,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -82,86 +165,6 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8175471",
-    "externalId": "coinbase:8175471",
-    "source": "greenhouse",
-    "title": "Analytics Engineer Intern",
-    "company": "Coinbase",
-    "location": "Hybrid - San Francisco, CA",
-    "remote": false,
-    "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n This is a 12-week internship during summer 2027.\n You'll join the Analytics Engineering team within Platform, which builds and maintains the trusted data infrastructure that powers decision-making across Coinbase. As an Analytics Engineer Intern, you'll model complex data, build scalable pipelines, and deliver insights that help teams across the company unlock the full potential of our data. You will gain hands-on experience building production data systems at scale, mentorship from senior analytics engineers, and exposure to how data powers decision-making across a publicly traded crypto-native company.\n What you'll do:\n Build and maintain dimensional data models that transform raw data into clean, reliable datasets used by analysts, data scientists, and product teams across the organization.\n Develop data pipelines using SQL, ensuring data quality, freshness, and documentation meet production standards.\n Partner with cross-functional stakeholders to understand their data needs and deliver well-structured datasets or dashboards that enable self-serve analytics.\n Leverage generative AI tools to streamline data development, modeling, and documentation workflows.\n Investigate and resolve data quality issues, implementing tests and monitors that catch problems before they reach downstream consumers.\n Required Skills and Experience:\n Currently pursuing a degree in computer science…",
-    "tags": [
-      "Internships & Emerging Talent Positions"
-    ],
-    "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8175459",
-    "externalId": "coinbase:8175459",
-    "source": "greenhouse",
-    "title": "Data Engineer Intern",
-    "company": "Coinbase",
-    "location": "Hybrid - San Francisco, CA",
-    "remote": false,
-    "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n This is a 12-week internship during summer 2027.\n As a Data Engineer Intern within the Platform product group, you'll partner with analytics engineering to build and maintain the data pipelines and infrastructure that power insights across Coinbase. You'll work alongside senior engineers and cross-functional partners in product and engineering to ensure data accuracy, scalability, and accessibility for analytical and machine learning use cases.\n What you'll do:\n Build and maintain data pipelines that ensure data integrity and accessibility for analytics and machine learning workloads\n Support the development of scalable data infrastructure using Python and cloud-based technologies\n Integrate and manage data from multiple sources, including internal systems and external APIs\n Contribute to analytical deep dives with senior team members, translating findings into clear documentation and recommendations\n Learn and apply data engineering best practices including data governance, security, and performance optimization\n Required Skills and Experience:\n Completed or in-progress coursework in Computer Science, Data Engineering, or equivalent experience with demonstrated programming proficiency in Python, including data structures and algorithms\n Hands-on experience writing SQL for data analysis and working with relational database concepts\n Familiarity with cloud platforms (AWS, GCP,…",
-    "tags": [
-      "Internships & Emerging Talent Positions"
-    ],
-    "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8180833",
-    "externalId": "coinbase:8180833",
-    "source": "greenhouse",
-    "title": "Senior Market Data Engineer",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Coinbase is building the future of institutional trading as part of the Everything Exchange, powering the systems that let the world's largest financial institutions trade across markets with speed, depth, and trust. As a Senior Data Engineer, Market Data on the Institutional Markets team, you'll build and operate the systems that capture, normalize, and distribute real-time market data across Coinbase at low latency - the feed handlers, venue connectors, and distribution layer that form the backbone of a unified trading platform.\n What you'll do:\n Build and maintain market data components including feed handlers, normalization pipelines, distribution systems, and venue connectivity.\n Design and implement low-latency, high-throughput services for real-time market data consumed by trading systems across the platform.\n Drive reliability and performance improvements through observability, on-call participation, and incident response.\n Write high-quality, well-tested code and contribute to engineering standards on a lean team.\n Partner with engineers, product managers, and cross-functional stakeholders to deliver market data capabilities that support Coinbase's institutional trading roadmap.\n Required Skills and Experience:\n 3+ years of backend engineering experience building and maintaining production low-latency systems.\n Hands-on experience with at least one area of market data…",
-    "tags": [
-      "Engineering - Data"
-    ],
-    "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
-  },
-  {
-    "id": "greenhouse:instacart-8167458",
-    "externalId": "instacart:8167458",
-    "source": "greenhouse",
-    "title": "Analytics Engineer II",
-    "company": "Instacart",
-    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-    "remote": true,
-    "url": "https://instacart.careers/job/?gh_jid=8167458",
-    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n The Marketing Enablement & Technology (MET) team sits natively within Instacart's Marketing organization, owning the data foundations that power Paid Marketing, SEO, and Retailer Marketing attribution. These datasets directly inform how we allocate hundreds of millions of dollars in marketing spend and how we measure growth.\n We're hiring an Analytics Engineer II to help build and evolve the marketing analytics data foundation. In this role, you'll independently design and deliver high-quality, business-aware data models and pipelines that Data Scientists and Analysts trust — owning your work end-to-end, raising the quality bar through code reviews and design discussion, and growing toward broader technical ownership of marketing data.\n About the Job\n Marketing Analytics Data Development: Independently build and maintain high-quality dimensional dat…",
-    "tags": [
-      "Marketing "
-    ],
-    "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8144836",
-    "externalId": "coinbase:8144836",
-    "source": "greenhouse",
-    "title": "Staff Data Engineer, Market Data",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Coinbase is building the future of institutional trading as part of the Everything Exchange, powering the systems that let the world's largest financial institutions trade across markets with speed, depth, and trust. As a Staff Data Engineer, Market Data on the Institutional Markets team, you'll architect, build, and own the systems that generate, capture, normalize, and distribute real-time market data across Coinbase at low latency - the ticker plant and distribution backbone of a unified trading platform - while leading a lean, high-impact team. It's a rare chance to architect market data infrastructure from the ground up, with the ownership of a startup and the reach of Coinbase.\n What you'll do:\n Build and operate market data components: feed handlers, normalization, distribution, and venue connectivity.\n Design low-latency, high-throughput systems for real-time market data used by trading systems.\n Strengthen reliability and performance by contributing to observability, on-call, and incident response.\n Write high-quality, well-tested code and raise the quality bar on a lean team.\n Partner with engineers, product, and cross-functional stakeholders to deliver market data capabilities.\n Required Skills and Experience:\n 5+ years of backend engineering, with experience building and maintaining production low-latency systems.\n Hands-on experience with market data systems (feed…",
-    "tags": [
-      "Engineering"
-    ],
-    "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   }
 ]

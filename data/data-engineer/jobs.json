@@ -1,5 +1,106 @@
 [
   {
+    "id": "arbeitnow:cloud-data-engineering-intern-working-student-full-stack-data-platforms-ai-automation-oberhaching-170366",
+    "externalId": "cloud-data-engineering-intern-working-student-full-stack-data-platforms-ai-automation-oberhaching-170366",
+    "source": "arbeitnow",
+    "title": "Cloud & Data Engineering Intern / Working Student (m/f/d) - Full-Stack Data Platforms & AI Automation",
+    "company": "PFASuiki GmbH",
+    "location": "Oberhaching",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/pfasuiki-gmbh/cloud-data-engineering-intern-working-student-full-stack-data-platforms-ai-automation-oberhaching-170366",
+    "description": "PFASuiki is a climate-tech startup with a clear mission: creating a world free from persistent “forever chemicals.” Using advanced electrochemical oxidation technology, we develop solutions to permanently destroy PFAS and transform contaminated streams into safe water.\n We are looking for an ambitious Cloud &#x26; Data Engineering Intern / Working Student to help build the digital backbone of our technology development. You will work at the intersection of cloud engineering, full-stack development, scientific data and AI – turning experimental data and analysis tools into scalable, production-grade infrastructure.\n Location: Oberhaching (South of Munich) – 100% on-site.\n Tasks\n • Maintain and optimize our GCP/Firebase cloud infrastructure with a focus on reliability, scalability and security\n• Expand our TypeScript/JavaScript-based laboratory data platform and improve the user experience for R&#x26;D and engineering teams\n• Build robust data pipelines connecting experimental data, databases, analysis tools and dashboards\n• Translate existing scientific Python analysis code into scalable, web-based workflows\n• Identify and implement LLM/AI integrations for data synthesis, automated reporting and environmental/industry intelligence\n• Develop clear dashboards that turn complex electrochemical data into actionable insights\n• Improve our existing codebase, architecture and technical documentation to evolve prototypes into sustainable company standards\n• Work directly with our R&#x26;D and engineering teams to identify opportunities for further digitalization and automation\n Requirements\n • Currently studying Computer Science, Data Engineering, Software Engineering, Data Science or a related technical field\n• Strong foundation in TypeScript/JavaScript, Python and SQL\n• Experience or strong interest in cloud platforms such as GCP or AWS; Firebase experience is a plus\n• Hands-on, resourceful mindset – you enjoy understanding existing systems and finding pragmatic solutions…",
+    "tags": [
+      "Data Processing",
+      "Data Engineer",
+      "no experience required / student"
+    ],
+    "jobType": "no experience required / student",
+    "postedAt": "2026-09-16T15:00:30.000Z",
+    "scrapedAt": "2026-09-16T16:03:15.707Z"
+  },
+  {
+    "id": "arbeitnow:senior-analytics-engineer-run-grow-berlin-116362",
+    "externalId": "senior-analytics-engineer-run-grow-berlin-116362",
+    "source": "arbeitnow",
+    "title": "Senior Analytics Engineer - Run & Grow",
+    "company": "SumUp",
+    "location": "Berlin, Germany",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-analytics-engineer-run-grow-berlin-116362",
+    "description": "The Run & Grow Tribe of Tribes powers the systems, insights, and experiences that keep millions of merchants engaged, successful, and growing with SumUp across every market we operate in. We're at a genuine inflection point in how we use data, moving from fragmented pipelines to a world-class data foundation built on stable business domains, trusted metrics, and AI-ready data products. This is a greenfield opportunity to shape how data is owned, defined, and built at scale, and as our Analytics Engineer, you'll be the connective tissue that makes that vision real.\n What you'll do\n Partner with squads across the tribe on event design and data contracts, maintaining staging pipelines, applying modelling conventions, and keeping domain outputs consistent, tested, and discoverable\n Model key business domains, including merchant activity, product adoption, lifecycle events, and risk scoring, building well-documented, quality-assured data products that serve as the trusted source of truth across the organisation\n Build and maintain the insights layer on top of governed domains, producing reusable KPI models, funnels, cohorts, and segmentations that Product, Commercial, and AI teams can self-serve with confidence\n Implement technical improvements including incremental processing strategies, performance optimisations, and scalable data architecture to support growing data volumes\n Contribute to SumUp's broader data domain strategy, helping establish durable ownership, consistent definitions, and a shared catalogue of data products that unlock self-serve analytics and AI at scale\n You'll be great for this role if…\n Strong, proven experience in analytics engineering or data engineering, with a track record of building and maintaining production data systems\n Expert-level SQL skills for complex transformations and query optimisation, with hands-on experience building layered data models in a modern data warehouse or lakehouse (e.g. Snowflake, Iceberg) and solid command of dbt…",
+    "tags": [],
+    "postedAt": "2026-09-16T13:45:26.000Z",
+    "scrapedAt": "2026-09-16T16:03:15.707Z"
+  },
+  {
+    "id": "arbeitnow:data-platform-engineer-berlin-462000",
+    "externalId": "data-platform-engineer-berlin-462000",
+    "source": "arbeitnow",
+    "title": "Data Platform Engineer",
+    "company": "SumUp",
+    "location": "Berlin, Germany",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/sumup/data-platform-engineer-berlin-462000",
+    "description": "As part of the Platform tribe, you will help build a self-service, AI-Ready Data Platform. The Data Platform team supports our next big bets: Data, AI, and real-time analytics. We are a team focused on building scalable, reliable infrastructure to enable our global data community.\n What you'll do\n Build and maintain best-in-class data infrastructure for critical processes.\n Develop features that strengthen self-service, including for ETL and orchestration.\n Optimise processes to use compute more efficiently and reduce cost.\n Automate operations so the platform stays highly available.\n Contribute to the design and implementation of new services.\n You'll be a strong fit if you\n Have experience with infrastructure as code and containerisation (e.g. Terraform, Helm, Docker, Kubernetes).\n Have used modern query engines (e.g. Snowflake, Databricks, BigQuery, Trino).\n Have worked with modern data orchestration tools (e.g. Airflow, Dagster).\n Are proficient in at least one of our main languages: Python or Go.\n Bring a pragmatic, team-first mindset.\n Are self-motivated, work well independently, and can balance stakeholder needs.\n Nice to have\n Experience building and operating performant API layers.\n Experience with dbt for transform, test, and documentation workflows.\n Query optimization at scale.\n Real-time streaming (e.g. Kafka, Flink, StarRocks, Pinot, Druid, ClickHouse).\n Experience with systems at petabyte scale.\n Experience implementing AI-enabled systems (e.g. agentic SRE, AI automation).\n About SumUp\n We believe in the everyday hero. Small business owners are at the heart of all we do, so we're creating tools that help them run their businesses. With a founder's mentality and a 'team-first' attitude, our diverse teams across Europe, South America, and the United States work together to ensure that the small business owners we partner with can be successful doing what they love. SumUp is an Equal Employment Opportunity employer that proudly pursues and hires a diver…",
+    "tags": [],
+    "postedAt": "2026-09-16T13:45:26.000Z",
+    "scrapedAt": "2026-09-16T16:03:15.707Z"
+  },
+  {
+    "id": "arbeitnow:analytics-engineer-paris-462175",
+    "externalId": "analytics-engineer-paris-462175",
+    "source": "arbeitnow",
+    "title": "Analytics Engineer",
+    "company": "Qonto",
+    "location": "Paris",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/qonto/analytics-engineer-paris-462175",
+    "description": "Our mission and customers: We are creating the freedom for SMEs to succeed by delivering Europe's leading finance workspace with banking at its core, augmented by financial tools. We are proud to be rated 4.8 on Trustpilot , based on 55,000+ reviews. Our culture puts customer satisfaction at the core of what we do, as proven by our Net Promoter Score of 75 (more about our culture here ).\n Our journey: Founded in 2017 by Alexandre and Steve , Qonto has grown to 1,600+ Qontoers serving over 600,000+ customers across 8 European countries. We have been profitable since 2023, and we are just getting started.\n Our beliefs: We hire for skills and potential. With 80+ nationalities, 45% women, of which 56% of women in our leadership team, diversity isn't a program; It's who we are. We've built a discrimination-free hiring process because the best teams are built on merit.\n AI at Qonto: AI is deeply embedded in how we work ( here ) - Every Qontoer gets unlimited access to the best AI tools. We want people who experiment without waiting for permission, push AI beyond the obvious, know when to trust it, and when to question it.\n ------------------------------------------------------------------------------------------------------\n ➡️ Mission: Join us as Analytics Engineer x Business Analytics and become the person our Business Analytics teams can build on without a second thought.\n You will own end-to-end the data models feeding Product, Growth, and Ops Finance analytics — designing scalable dbt models, pushing back on requests that would trade reliability for speed, and helping the team migrate to Omni and a real semantic layer.\n You will work closely with Jules Jeanroy, our Analytics Engineering Manager, and partner daily with Business Analysts across Product, Growth, and Ops Finance. The team is at a pivotal moment — investing in scalability, cutting technical debt, and building the standards that will define how Analytics Engineering works at Qonto for years to come.\n ➡️ A…",
+    "tags": [
+      "Analytics Engineering",
+      "Full-time"
+    ],
+    "jobType": "Full-time",
+    "postedAt": "2026-09-16T13:24:56.000Z",
+    "scrapedAt": "2026-09-16T16:03:15.707Z"
+  },
+  {
+    "id": "arbeitnow:cloud-fleet-data-engineer-wessling-95796",
+    "externalId": "cloud-fleet-data-engineer-wessling-95796",
+    "source": "arbeitnow",
+    "title": "Cloud & Fleet Data Engineer",
+    "company": "Quantum-Systems GmbH",
+    "location": "Wessling",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/cloud-fleet-data-engineer-wessling-95796",
+    "description": "About the Role Every flight creates valuable data. Your mission is to make it visible, accessible and actionable. You will build the product-specific cloud services and data workflows that connect our interceptors, launch boxes, engineering teams and field operations.\n What is your Day to Day Mission: •      Build the central source of truth for device identity, software versions, configurations and fleet health.\n •      Develop secure backend services and APIs connecting interceptors, launch boxes and support systems.\n •      Create resilient communication workflows for devices operating with intermittent connectivity.\n •      Automate the upload and processing of flight logs, telemetry, video and sensor data.\n •      Build pipelines, dashboards and alerts that help engineers identify and solve problems quickly.\n •      Connect flight data with the software, hardware configuration and mission context that produced it.\n What you bring to the team: You do not need to check every box. We are looking for strong fundamentals, hands-on ability and real ownership.\n •      Experience in cloud, backend, data-platform, IoT or distributed-systems engineering.\n •      Strong programming skills in Python, Go, Java, TypeScript or a comparable language.\n •      Experience with APIs, databases, object storage, message queues or data pipelines.\n •      Familiarity with telemetry, observability, monitoring or connected-device systems.\n •      The drive to turn incomplete information into reliable services and fast operational answers.\n Why Quantum-Systems: We believe in the power of combined efforts: straightforward tech expertise paired with a customer-centric focus.\n We are industry pioneers who are ambitious, bold, and visionary.\n We push limits, think outside-the-box and strive for technological excellence to shape the future of aerial data.\n We promise to be your runway for individual and professional growth.\n Our benefits: Company pension scheme: We support you so that you ca…",
+    "tags": [
+      "Engineering",
+      "bachelor's degree",
+      "Full-time permanent",
+      "mid"
+    ],
+    "jobType": "Full-time permanent",
+    "postedAt": "2026-09-16T13:20:13.000Z",
+    "scrapedAt": "2026-09-16T16:03:15.707Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-igaming-249244",
+    "externalId": "data-engineer-igaming-249244",
+    "source": "arbeitnow",
+    "title": "Data Engineer - iGaming",
+    "company": "Xdesign",
+    "location": "Unknown",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/xdesign/data-engineer-igaming-249244",
+    "description": "<p><strong>Please note:</strong> This is not a live vacancy. We are hiring ahead of demand and building a talent pipeline for upcoming client engagements. By applying, you're expressing interest in future opportunities, and we'll be in touch as soon as a matching role becomes available.</p>\n<hr>\n<h1>Data Engineer</h1>\n<h2>About the role and team</h2>\n<p>Hands-on delivery engineers working under the Architect to execute data migrations. Responsible for building and fixing data pipelines, resolving technical debt, and getting platforms to a stable, production-ready state.</p>\n<h2>What you'll be doing</h2>\n<ul>\n<li>Design, build, and optimise data pipelines on the AWS stack</li>\n<li>Identify and resolve existing technical debt in migrations</li>\n<li>Work collaboratively with client engineering teams to transfer knowledge</li>\n<li>Contribute to stabilising platforms and hitting delivery milestones</li>\n<li>Support the Architect in defining and implementing the target state</li>\n</ul>\n<h2>We'd love to talk to you if you have</h2>\n<ul>\n<li>Experience with the AWS data stack: S3, Glue, Redshift, Lake Formation</li>\n<li>Familiarity with Lakehouse patterns and architecture</li>\n<li>Strong proficiency in Python and SQL</li>\n<li>Experience in regulated or high-volume data environments</li>\n<li>Betting and/or gaming domain knowledge required</li>\n</ul><div class=\"content-conclusion\"><h3 id=\"What-we’ll-offer-you:\" data-renderer-start-pos=\"8044\"><strong data-renderer-mark=\"true\">What we’ll offer you:</strong></h3>\n<p>We trust people to do their best work. That means flexibility over rigid rules, impact over activity, and real investment in your growth both professionally and personally. You’ll be part of a supportive, and friendly culture, surrounded by smart, curious people who care deeply about what they do.<br><br>We offer flexible working, including hybrid and remote options. Our office hubs are located in Edinburgh, Leeds, Manchester, London and Bulgaria, with occasional tr…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-09-16T12:55:17.000Z",
+    "scrapedAt": "2026-09-16T16:03:15.707Z"
+  },
+  {
     "id": "jobicy:150836",
     "externalId": "150836",
     "source": "jobicy",
@@ -16,25 +117,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-09-16T04:40:07.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.107Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-measurement-reporting-paris-295755",
-    "externalId": "data-engineer-measurement-reporting-paris-295755",
-    "source": "arbeitnow",
-    "title": "Data Engineer, Measurement & Reporting",
-    "company": "Vibe",
-    "location": "Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/vibe/data-engineer-measurement-reporting-paris-295755",
-    "description": "About Vibe At Vibe.co , we're reimagining how brands reach audiences in the age of streaming. We believe streaming TV is no longer just a brand awareness play, it's the next great performance marketing channel. We're building the infrastructure to unlock this $100B opportunity.\n Vibe.co provides an Audience First Streaming TV Advertising solution for marketers to unlock TV as a growth channel. Our all-in-one solution combines hyper-targeted audience segmentation, AI-powered insights and recommendations, real-time campaign optimization, and incrementality measurement, giving brands of all sizes the precision and transparency they've come to expect from social and search, but on TV.\n Trusted by over 10,000 brands, Vibe.co reaches more than 120 million households across 500+ apps and channels, delivering an average 250% return on ad spend and 20% sales lift. The company hit a $100 million revenue run rate in under two years, ranking among the ten fastest software companies to reach that milestone.\n Vibe.co 's investors include Hedosophia (an early backer of Spotify, Uber, and Airbnb), Elaia, Singular, QuantumLight (Revolut CEO Nik Storonsky's fund), and Illusian (Supercell CEO Ilkka Paananen's fund), as well as angel investors including Carolyn Everson, board member of The Walt Disney Company and Coca-Cola. Nirav Tolia, CEO of Nextdoor, sits on the company's board of directors.\n Founded in 2022, Vibe.co is widely recognized as the category-defining platform in streaming TV advertising, bringing the power of Meta and Google-style performance marketing to the fastest-growing segment in media.\n About the Role Vibe ingests more than 500,000 messages a second and stores several petabytes. Every advertiser who opens their dashboard expects their campaign numbers to be right, and current. You own the layer that makes that true. The platform side of the team builds the storage and compute. You run production on top of it: schema changes, data transformations, the reporting pi…",
-    "tags": [
-      "Engineering & Product",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-09-15T13:40:02.000Z",
-    "scrapedAt": "2026-09-16T10:47:17.968Z"
+    "scrapedAt": "2026-09-16T16:03:15.831Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -50,7 +133,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -66,7 +149,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -82,7 +165,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -98,7 +181,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -114,7 +197,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -130,7 +213,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -146,7 +229,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -162,7 +245,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:datadog-8141967",
@@ -178,7 +261,7 @@
       "Dev Eng"
     ],
     "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "remotive:2091097",
@@ -243,7 +326,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-08-19T12:12:11.000Z",
-    "scrapedAt": "2026-09-16T10:47:17.657Z"
+    "scrapedAt": "2026-09-16T16:03:15.580Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -259,7 +342,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "remoteok:1136860",
@@ -293,7 +376,7 @@
       "digital nomad"
     ],
     "postedAt": "2026-08-17T16:00:06.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.564Z"
+    "scrapedAt": "2026-09-16T16:03:17.059Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -309,7 +392,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -329,7 +412,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-09-16T10:50:50.228Z"
+    "scrapedAt": "2026-09-16T16:06:52.248Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -348,7 +431,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-09-16T10:50:50.939Z"
+    "scrapedAt": "2026-09-16T16:06:52.688Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -364,7 +447,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -380,7 +463,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -396,7 +479,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -412,7 +495,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -428,7 +511,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -444,7 +527,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -460,7 +543,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -476,7 +559,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -492,7 +575,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -508,7 +591,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -524,7 +607,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -540,7 +623,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -556,7 +639,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -572,7 +655,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -588,7 +671,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -604,7 +687,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -620,7 +703,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -636,7 +719,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-09-16T10:47:18.571Z"
+    "scrapedAt": "2026-09-16T16:03:17.067Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -652,7 +735,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-16T10:47:38.773Z"
+    "scrapedAt": "2026-09-16T16:03:25.524Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -668,7 +751,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-16T10:47:38.773Z"
+    "scrapedAt": "2026-09-16T16:03:25.524Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -682,7 +765,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-16T10:47:38.773Z"
+    "scrapedAt": "2026-09-16T16:03:25.524Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -696,7 +779,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-16T10:47:38.773Z"
+    "scrapedAt": "2026-09-16T16:03:25.524Z"
   },
   {
     "id": "workday:salesforce-JR359294",
@@ -710,7 +793,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-16T10:47:38.773Z"
+    "scrapedAt": "2026-09-16T16:03:25.524Z"
   },
   {
     "id": "workday:salesforce-JR358418",
@@ -724,7 +807,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-16T10:47:38.773Z"
+    "scrapedAt": "2026-09-16T16:03:25.524Z"
   },
   {
     "id": "workday:adobe-R170680",
@@ -738,7 +821,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-16T10:47:38.773Z"
+    "scrapedAt": "2026-09-16T16:03:25.524Z"
   },
   {
     "id": "workday:adobe-R171212",
@@ -752,7 +835,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-16T10:47:38.773Z"
+    "scrapedAt": "2026-09-16T16:03:25.524Z"
   },
   {
     "id": "workday:adobe-R169536",
@@ -766,7 +849,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-16T10:47:38.773Z"
+    "scrapedAt": "2026-09-16T16:03:25.524Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -780,7 +863,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-16T10:47:38.773Z"
+    "scrapedAt": "2026-09-16T16:03:25.524Z"
   },
   {
     "id": "workday:autodesk-26WD100418",
@@ -794,7 +877,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-16T10:47:38.773Z"
+    "scrapedAt": "2026-09-16T16:03:25.524Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -808,7 +891,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-16T10:47:38.773Z"
+    "scrapedAt": "2026-09-16T16:03:25.524Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -822,7 +905,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-16T10:47:38.773Z"
+    "scrapedAt": "2026-09-16T16:03:25.524Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -836,7 +919,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-16T10:47:38.773Z"
+    "scrapedAt": "2026-09-16T16:03:25.524Z"
   },
   {
     "id": "workday:salesforce-JR341884",
@@ -850,7 +933,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-16T10:48:53.542Z"
+    "scrapedAt": "2026-09-16T16:04:49.226Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -864,7 +947,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-16T10:48:53.542Z"
+    "scrapedAt": "2026-09-16T16:04:49.226Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -878,6 +961,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-16T10:48:53.542Z"
+    "scrapedAt": "2026-09-16T16:04:49.226Z"
   }
 ]
