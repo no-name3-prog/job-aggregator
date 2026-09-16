@@ -27,33 +27,6 @@
     ]
   },
   {
-    "company": "Anthropic",
-    "jobCount": 5,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA; Seattle, WA",
-      "San Francisco, CA | New York City, NY",
-      "San Francisco, CA",
-      "San Francisco, CA | New York City, NY | Seattle, WA"
-    ],
-    "sampleTitles": [
-      "Recruiting Analytics Data Engineer",
-      "Data Engineer, GTM",
-      "Data Engineer, Safeguards",
-      "Data Infrastructure Engineer, Pre-training",
-      "Data Engineer"
-    ],
-    "officialUrls": [
-      "https://job-boards.greenhouse.io/anthropic/jobs/5424111008",
-      "https://job-boards.greenhouse.io/anthropic/jobs/5418610008",
-      "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
-      "https://job-boards.greenhouse.io/anthropic/jobs/4973067008",
-      "https://job-boards.greenhouse.io/anthropic/jobs/4956672008"
-    ]
-  },
-  {
     "company": "Salesforce",
     "jobCount": 5,
     "sources": [
@@ -102,6 +75,30 @@
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Lead-Data-Engineer_R171212",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
+    ]
+  },
+  {
+    "company": "Anthropic",
+    "jobCount": 4,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA; Seattle, WA",
+      "San Francisco, CA | New York City, NY",
+      "San Francisco, CA | New York City, NY | Seattle, WA"
+    ],
+    "sampleTitles": [
+      "Recruiting Analytics Data Engineer",
+      "Data Engineer, GTM",
+      "Data Engineer, Safeguards",
+      "Data Engineer"
+    ],
+    "officialUrls": [
+      "https://job-boards.greenhouse.io/anthropic/jobs/5424111008",
+      "https://job-boards.greenhouse.io/anthropic/jobs/5418610008",
+      "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
+      "https://job-boards.greenhouse.io/anthropic/jobs/4956672008"
     ]
   },
   {
@@ -294,38 +291,6 @@
     ]
   },
   {
-    "company": "Aircall",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London Office"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer - Real time analytics"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-460273"
-    ]
-  },
-  {
-    "company": "Blackduck",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Belfast"
-    ],
-    "sampleTitles": [
-      "Principal Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/blackduck/principal-data-engineer-belfast-249456"
-    ]
-  },
-  {
     "company": "Block",
     "jobCount": 1,
     "sources": [
@@ -374,6 +339,22 @@
     ]
   },
   {
+    "company": "Gopuff",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "USA"
+    ],
+    "sampleTitles": [
+      "Data Engineer"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/150836-data-engineer"
+    ]
+  },
+  {
     "company": "Lemon.io",
     "jobCount": 1,
     "sources": [
@@ -403,22 +384,6 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
-    ]
-  },
-  {
-    "company": "Optimove",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Dundee"
-    ],
-    "sampleTitles": [
-      "Customer Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/optimove/customer-data-engineer-dundee-435911"
     ]
   },
   {
@@ -467,22 +432,6 @@
     ],
     "officialUrls": [
       "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da"
-    ]
-  },
-  {
-    "company": "Trusteq Gmbh",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "München"
-    ],
-    "sampleTitles": [
-      "Data Platform Engineer Working Student (m/w/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-195978"
     ]
   },
   {
