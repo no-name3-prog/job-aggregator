@@ -1,5 +1,34 @@
 [
   {
+    "id": "arbeitnow:data-platform-engineer-working-student-munchen-195978",
+    "externalId": "data-platform-engineer-working-student-munchen-195978",
+    "source": "arbeitnow",
+    "title": "Data Platform Engineer Working Student (m/w/d)",
+    "company": "Trusteq Gmbh",
+    "location": "München",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-195978",
+    "description": "YOUR TASKS You support the design and development of Databricks-native data platforms and lakehouse architectures for internal projects and client engagements. You contribute to implementing medallion architectures (Bronze, Silver, and Gold), including Auto Loader-based data ingestion. You support the development of data governance concepts using tools such as Unity Catalog, including access control and permission models. You help automate deployments using Databricks Asset Bundles (DAB) and CI/CD pipelines. You contribute to developing data quality frameworks and monitoring solutions for production data platforms. You support the technical documentation of platform architectures and internal best practices. You contribute to internal tooling and demonstrator projects, actively helping shape and strengthen our Data Platform practice.\n YOUR PROFIL You are currently enrolled in an IT-related degree programme, such as Computer Science, Business Information Systems, Data Engineering, Data Science, or a related discipline. You have good knowledge of Python and SQL. Initial experience with Databricks and/or cloud data platforms such as Azure, AWS, or GCP is an advantage. You are interested in topics such as data lakehouses, data governance, Infrastructure as Code, and CI/CD. You have a basic understanding of data modelling and data integration processes (ETL/ELT). Experience with Git and version control is desirable. You work independently and in a structured manner and demonstrate strong teamwork and communication skills. You have excellent German and English language skills (at least C1 level in both languages). You are able to work from our Cologne or Munich office at least 50% of the time\n YOUR BENEFITS Supportive Team Culture: Team cohesion is important to us – we support one another and foster a healthy office culture. Our event team organizes regular after-work events to encourage exchange and connection beyond the workplace. Early Ownership & Responsibility: From…",
+    "tags": [
+      "Working Student",
+      "Working Student Data Analyst",
+      "Data Analyst",
+      "IT-Strategy",
+      "ESG",
+      "Working Student Data Engineer",
+      "Data Engineer",
+      "Data Bricks",
+      "Data Platform",
+      "Data Platform Engineer",
+      "Student",
+      "Working student",
+      "Part time"
+    ],
+    "jobType": "Student",
+    "postedAt": "2026-09-15T23:09:56.000Z",
+    "scrapedAt": "2026-09-16T03:07:57.997Z"
+  },
+  {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-london-office-460273",
     "externalId": "senior-data-engineer-real-time-analytics-london-office-460273",
     "source": "arbeitnow",
@@ -15,7 +44,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-15T21:04:11.000Z",
-    "scrapedAt": "2026-09-15T23:23:33.831Z"
+    "scrapedAt": "2026-09-16T03:07:57.997Z"
   },
   {
     "id": "arbeitnow:customer-data-engineer-dundee-435911",
@@ -31,7 +60,7 @@
       "Professional Services"
     ],
     "postedAt": "2026-09-15T18:55:03.000Z",
-    "scrapedAt": "2026-09-15T23:23:33.831Z"
+    "scrapedAt": "2026-09-16T03:07:57.997Z"
   },
   {
     "id": "arbeitnow:data-engineer-measurement-reporting-paris-295755",
@@ -49,7 +78,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-15T13:40:02.000Z",
-    "scrapedAt": "2026-09-15T23:23:33.831Z"
+    "scrapedAt": "2026-09-16T03:07:57.997Z"
   },
   {
     "id": "arbeitnow:principal-data-engineer-belfast-249456",
@@ -65,7 +94,7 @@
       "5010 - R&D SaaS (GQP)"
     ],
     "postedAt": "2026-09-15T12:55:10.000Z",
-    "scrapedAt": "2026-09-15T23:23:33.831Z"
+    "scrapedAt": "2026-09-16T03:07:57.997Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -81,7 +110,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-09-15T23:23:34.479Z"
+    "scrapedAt": "2026-09-16T03:07:58.571Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -97,7 +126,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-15T23:23:34.479Z"
+    "scrapedAt": "2026-09-16T03:07:58.571Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -113,7 +142,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-15T23:23:34.479Z"
+    "scrapedAt": "2026-09-16T03:07:58.571Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -129,7 +158,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-15T23:23:34.479Z"
+    "scrapedAt": "2026-09-16T03:07:58.571Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -145,22 +174,6 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-15T23:23:34.479Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8180833",
-    "externalId": "coinbase:8180833",
-    "source": "greenhouse",
-    "title": "Senior Market Data Engineer",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Coinbase is building the future of institutional trading as part of the Everything Exchange, powering the systems that let the world's largest financial institutions trade across markets with speed, depth, and trust. As a Senior Data Engineer, Market Data on the Institutional Markets team, you'll build and operate the systems that capture, normalize, and distribute real-time market data across Coinbase at low latency - the feed handlers, venue connectors, and distribution layer that form the backbone of a unified trading platform.\n What you'll do:\n Build and maintain market data components including feed handlers, normalization pipelines, distribution systems, and venue connectivity.\n Design and implement low-latency, high-throughput services for real-time market data consumed by trading systems across the platform.\n Drive reliability and performance improvements through observability, on-call participation, and incident response.\n Write high-quality, well-tested code and contribute to engineering standards on a lean team.\n Partner with engineers, product managers, and cross-functional stakeholders to deliver market data capabilities that support Coinbase's institutional trading roadmap.\n Required Skills and Experience:\n 3+ years of backend engineering experience building and maintaining production low-latency systems.\n Hands-on experience with at least one area of market data…",
-    "tags": [
-      "Engineering - Data"
-    ],
-    "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-15T23:23:34.479Z"
+    "scrapedAt": "2026-09-16T03:07:58.571Z"
   }
 ]
