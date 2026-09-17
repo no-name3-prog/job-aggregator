@@ -1,5 +1,57 @@
 [
   {
+    "id": "arbeitnow:data-engineer-bristol-234812",
+    "externalId": "data-engineer-bristol-234812",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "Graphcore",
+    "location": "Bristol",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/data-engineer-bristol-234812",
+    "description": "<p><strong><span data-contrast=\"auto\">About us</span></strong><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">Graphcore is one of the world's leading innovators in Artificial Intelligence compute. It is developing hardware, software and systems infrastructure that will unlock the next generation of AI breakthroughs and power the widespread adoption of AI solutions across every industry.</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">As part of the SoftBank Group, Graphcore is a member of an elite family of companies responsible for some of the world's most transformative technologies. Together, they share a bold vision: to enable Artificial Super Intelligence and ensure its benefits are accessible to everyone.</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">Graphcore's teams are drawn from diverse backgrounds and bring a broad range of skills and perspectives. A melting pot of AI research specialists, silicon designers, software engineers and systems architects, Graphcore brings together deep expertise to solve complex problems and deliver meaningful progress in AI compute.</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><strong><span data-contrast=\"auto\">Job Summary</span></strong><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">Reporting to the Head of Data &amp; Transformation, the Staff Data Engineer – Agentic Applications is a senior individual contributor responsible for designing, building and operating Python-based web applications, agentic workflows and supporting data services for Graphcore’s business teams. The role combines strong data engineering foundations with hands-on application development, using AI agents, trusted data and business system integrations to improve decision-making and automate operational workflows.</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">Depending on the use case, you will…",
+    "tags": [
+      "Data Analytics"
+    ],
+    "postedAt": "2026-09-17T21:55:26.000Z",
+    "scrapedAt": "2026-09-17T23:22:02.312Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-london-239939",
+    "externalId": "data-engineer-london-239939",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "Solveintelligence",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/solveintelligence/data-engineer-london-239939",
+    "description": "💡 About Us We're the fastest-growing startup transforming the IP industry.\n Traction: 20-30% MoM revenue growth; selling to 700+ global IP teams (DLA Piper, tech boutiques, and global enterprises).\n Proven Value: Users report 50-90% efficiency gains using our AI platform.\n Backing: Recently featured in Sifted following our $40M Series B announcement, bringing our total funding to $55M from elite investors including Y Combinator, 20VC, Visionaries, Microsoft and Thomson Reuters.\n 🏗️ About the role We’re hiring a data engineer to build the ingestion and search systems behind Solve Intelligence’s AI products.\n Our sources include global patent literature, case law, technical standards and contributions, scientific databases, academic papers, and content from across the web. The data spans structured records, documents, images, audio and video. You’ll work across bulk ingestion and on-demand retrieval, making this information searchable and useful in our products\n You’ll own systems from source acquisition through to serving queries. The work includes:\n Large-scale ingestion. Build and operate high-throughput, resumable pipelines for large datasets, with efficient incremental updates, monitoring and recovery from failures.\n Document processing and data quality. Extract useful content from complex documents and other formats. Handle malformed records and changing schemas, and validate outputs while preserving structure and metadata.\n Search and serving. Build keyword, vector and structured search, and design schemas, indexes and partitioning for fast queries over tens to hundreds of millions of records.\n Connecting information across sources. Link patents, scientific records and supporting documents, preserve dates and versions, and make results traceable to their original sources.\n Performance engineering. Profile parsing, ingestion, database builds and queries throughout development, testing against representative datasets at realistic scale. Diagnose CPU, memory an…",
+    "tags": [
+      "Engineering",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-09-17T21:40:02.000Z",
+    "scrapedAt": "2026-09-17T23:22:02.312Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-data-quality-provenance-134053",
+    "externalId": "data-engineer-data-quality-provenance-134053",
+    "source": "arbeitnow",
+    "title": "Data Engineer, Data Quality & Provenance",
+    "company": "Wayve",
+    "location": "Unknown",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/wayve/data-engineer-data-quality-provenance-134053",
+    "description": "<div class=\"content-intro\"><h2><strong>About us&nbsp;</strong>&nbsp;&nbsp;</h2>\n<p>Founded in 2017, Wayve is the leading developer of Embodied AI technology.&nbsp; Our advanced AI software and foundation models enable vehicles to perceive, understand, and navigate any complex environment, enhancing the usability and safety of automated driving systems.</p>\n<p>Our vision is to create autonomy that propels the world forward.&nbsp; Our intelligent, mapless, and hardware-agnostic AI products are designed for automakers, accelerating the transition from assisted to automated driving.&nbsp; <br><br>In our fast-paced environment big problems ignite us—we embrace uncertainty, leaning into complex challenges to unlock groundbreaking solutions. We aim high and stay humble in our pursuit of excellence, constantly learning and evolving as we pave the way for a smarter, safer future.</p>\n<p>At Wayve, your contributions matter.&nbsp; We value diversity, embrace new perspectives, and foster an inclusive work environment; we back each other to deliver impact.&nbsp;&nbsp;</p>\n<p>Make Wayve the experience that defines your career!&nbsp;&nbsp;</p></div><h2><strong>The role</strong></h2>\n<p>As a Data Engineer focused on Data Quality &amp; Provenance, you will build the data foundation that enables Wayve’s autonomous-driving development. You’ll turn vast volumes of fleet and simulation data into trusted, discoverable and reproducible datasets that ML, autonomy, simulation and safety teams can use with confidence. This is a high-impact opportunity to define the data products, standards and operating model behind embodied intelligence at petabyte scale.</p>\n<p>Key responsibilities:</p>\n<ul>\n<li>Design, build and operate scalable batch and streaming pipelines for multimodal fleet and simulation data.</li>\n<li>Create data models, catalogs, indexes and query capabilities that make sensor, vehicle-state, map and event data easy to discover and use.</li>\n<li>Build versioned, reproducible data…",
+    "tags": [
+      "Simulation",
+      "Evaluation",
+      "Validation"
+    ],
+    "postedAt": "2026-09-17T20:55:25.000Z",
+    "scrapedAt": "2026-09-17T23:22:02.312Z"
+  },
+  {
     "id": "arbeitnow:data-engineer-paris-france-marseille-france-bordeaux-france-biarritz-france-brussels-belgium-305907",
     "externalId": "data-engineer-paris-france-marseille-france-bordeaux-france-biarritz-france-brussels-belgium-305907",
     "source": "arbeitnow",
@@ -15,7 +67,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-17T16:40:12.000Z",
-    "scrapedAt": "2026-09-17T20:55:46.009Z"
+    "scrapedAt": "2026-09-17T23:22:02.312Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -31,7 +83,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-09-17T20:55:46.718Z"
+    "scrapedAt": "2026-09-17T23:22:02.935Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-commercial-analytics-london-405496",
@@ -49,7 +101,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-17T15:40:12.000Z",
-    "scrapedAt": "2026-09-17T20:55:46.009Z"
+    "scrapedAt": "2026-09-17T23:22:02.312Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-commercial-analytics-united-kingdom-471031",
@@ -67,33 +119,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-17T15:40:12.000Z",
-    "scrapedAt": "2026-09-17T20:55:46.009Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-berlin-hq-246069",
-    "externalId": "data-engineer-berlin-hq-246069",
-    "source": "arbeitnow",
-    "title": "Data Engineer (f/m/d)",
-    "company": "Climate",
-    "location": "Berlin HQ",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/climate/data-engineer-berlin-hq-246069",
-    "description": "Job description We are currently seeking a  Data Engineer  for our international and diverse Climate Policy Team (CPT). The team is engaged in various projects on climate change mitigation, in particular on energy system transformation, the 1.5°C global warming limit and the evaluation of national climate action. This includes flagship projects, such as the Climate Action Tracker and the National Pathways Explorer, for which data is being processed and analysed in-house and then published on the respective project websites.\n As a  Data Engineer  you will play a critical role in designing, building and maintaining our data infrastructure, ensuring efficient and accurate data processing, storage and retrieval.\n Your Responsibilities\n You will help to build and maintain a data platform for advanced analytics and climate modelling, spanning data science and data engineering work.\n Contribute to the full lifecycle of data platform development from design and deployment to continuous improvement\n Strengthen data pipelines reliability, observability, and automation through code and tooling improvements.\n Collaborate with data scientists and researchers to define data processing requirements.\n Support AI/LLM initiatives across the organisation from a data and infrastructure perspective.\n Help develop backend data services and APIs that expose curated datasets to internal and external consumers and applications.\n Monitor, anticipate, and resolve operational or data quality issues in data pipelines. Ensure data reliability.\n Relevant Tech Skills\n Please note that this list is non exhaustive and that if you don’t have experience on some of those you should still apply.\n Required:\n Py thon\n SQL\n PostgreSQL\n Object storage (like S3/Minio)\n Containers (like Docker)\n Git\n CI/CD  princip les\n Nice to have:\n Pandas/Polar/DuckDB or other framework for data processing\n Conda\n Monitoring tools (like Prometheus, Grafana and Elasticsearch)\n Infrastructure as code tool (like Terraform or…",
-    "tags": [
-      "Data Engineer",
-      "nonprofit",
-      "NGO",
-      "Climate Policy",
-      "Python",
-      "Data Platform",
-      "SQL",
-      "Experienced",
-      "Fixed term",
-      "Full time"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-09-17T14:09:55.000Z",
-    "scrapedAt": "2026-09-17T20:55:46.009Z"
+    "scrapedAt": "2026-09-17T23:22:02.312Z"
   },
   {
     "id": "arbeitnow:staff-ai-data-engineer-paris-paris-211034",
@@ -109,7 +135,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-17T10:55:14.000Z",
-    "scrapedAt": "2026-09-17T20:55:46.009Z"
+    "scrapedAt": "2026-09-17T23:22:02.312Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -125,7 +151,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-09-17T20:55:46.718Z"
+    "scrapedAt": "2026-09-17T23:22:02.935Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -141,38 +167,6 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-17T20:55:46.718Z"
-  },
-  {
-    "id": "greenhouse:anthropic-5418610008",
-    "externalId": "anthropic:5418610008",
-    "source": "greenhouse",
-    "title": "Data Engineer, GTM",
-    "company": "Anthropic",
-    "location": "San Francisco, CA | New York City, NY",
-    "remote": false,
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418610008",
-    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the Role\n As a Data Engineer on the Data Science & Analytics team, you will build the data foundation for Anthropic’s quote-to-cash lifecycle: the path a deal takes from opportunity through revenue. You will design the canonical data models so that Sales, Deal Desk, Order Management, Revenue Operations and Finance work from one governed, auditable definition of what was sold, on what terms, and where each deal stands. You will partner closely with DS&A and with GTM and Finance systems teams who own Salesforce, CPQ and billing to make quote-to-cash data reliable, well-modeled and self-serve as our business scales.\n Responsibilities\n Understand the data needs of Deal Desk, Order Management, Revenue Operations, Finance and Sales systems teams, and translate them into technical requirements\n Design, build and own data models that transform raw Salesforce, CPQ, and billing data into canonical datasets\n Establish high data integrity standards and SLAs to ensure timely, accurate delivery of data\n Partner with Salesforce, CPQ and billing engineers on upstream schema changes, new fields and ingestion so the warehouse faithfully mirrors the systems of record\n Build foundational data products, dashboards and tools to enable self-serve analytics to scale across GTM teams\n Influence stakeholder roadmaps from a data perspective, and become the expert on Anthropic’s GTM data models and architecture\n You might be a good fit if you have\n 5+ years of experience as a Data Engineer, Analytics Engineer or in a similar Data Science & Analytics role, ideally partnering with GTM, Revenue Operations or Finance teams.\n A passion for the company's miss…",
-    "tags": [
-      "Data Science & Analytics"
-    ],
-    "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-17T20:55:46.718Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8175471",
-    "externalId": "coinbase:8175471",
-    "source": "greenhouse",
-    "title": "Analytics Engineer Intern",
-    "company": "Coinbase",
-    "location": "Hybrid - San Francisco, CA",
-    "remote": false,
-    "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n This is a 12-week internship during summer 2027.\n You'll join the Analytics Engineering team within Platform, which builds and maintains the trusted data infrastructure that powers decision-making across Coinbase. As an Analytics Engineer Intern, you'll model complex data, build scalable pipelines, and deliver insights that help teams across the company unlock the full potential of our data. You will gain hands-on experience building production data systems at scale, mentorship from senior analytics engineers, and exposure to how data powers decision-making across a publicly traded crypto-native company.\n What you'll do:\n Build and maintain dimensional data models that transform raw data into clean, reliable datasets used by analysts, data scientists, and product teams across the organization.\n Develop data pipelines using SQL, ensuring data quality, freshness, and documentation meet production standards.\n Partner with cross-functional stakeholders to understand their data needs and deliver well-structured datasets or dashboards that enable self-serve analytics.\n Leverage generative AI tools to streamline data development, modeling, and documentation workflows.\n Investigate and resolve data quality issues, implementing tests and monitors that catch problems before they reach downstream consumers.\n Required Skills and Experience:\n Currently pursuing a degree in computer science…",
-    "tags": [
-      "Internships & Emerging Talent Positions"
-    ],
-    "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-17T20:55:46.718Z"
+    "scrapedAt": "2026-09-17T23:22:02.935Z"
   }
 ]
