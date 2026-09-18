@@ -1,35 +1,57 @@
 [
   {
-    "id": "arbeitnow:data-platform-engineer-berlin-376146",
-    "externalId": "data-platform-engineer-berlin-376146",
+    "id": "arbeitnow:data-platform-engineer-paris-202815",
+    "externalId": "data-platform-engineer-paris-202815",
     "source": "arbeitnow",
     "title": "Data Platform Engineer",
-    "company": "sumup",
-    "location": "Berlin",
+    "company": "Qonto",
+    "location": "Paris",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/sumup/data-platform-engineer-berlin-376146",
-    "description": "<p>As part of the Platform tribe, you will help build a self-service, AI-Ready Data Platform. The Data Platform team supports our next big bets: Data, AI, and real-time analytics. We are a team focused on building scalable, reliable infrastructure to enable our global data community.</p>\n<p><strong>What you’ll do</strong></p>\n<ul>\n<li>Build and maintain best-in-class data infrastructure for critical processes.</li>\n<li>Develop features that strengthen self-service, including for ETL and orchestration.</li>\n<li>Optimise processes to use compute more efficiently and reduce cost.</li>\n<li>Automate operations so the platform stays highly available.</li>\n<li>Contribute to the design and implementation of new services.</li>\n</ul>\n<p><strong>You’ll be a strong fit if you</strong></p>\n<ul>\n<li>Have experience with infrastructure as code and containerisation (e.g. Terraform, Helm, Docker, Kubernetes).</li>\n<li>Have used modern query engines (e.g. Snowflake, Databricks, BigQuery, Trino).</li>\n<li>Have worked with modern data orchestration tools (e.g. Airflow, Dagster).</li>\n<li>Are proficient in at least one of our main languages: Python or Go.</li>\n<li>Bring a pragmatic, team-first mindset.</li>\n<li>Are self-motivated, work well independently, and can balance stakeholder needs.</li>\n</ul>\n<p><strong>Nice to have&nbsp;</strong></p>\n<ul>\n<li>Experience building and operating performant API layers.</li>\n<li>Experience with dbt for transform, test, and documentation workflows.</li>\n<li>Query optimization at scale.</li>\n<li>Real-time streaming (e.g. Kafka, Flink, StarRocks, Pinot, Druid, ClickHouse).</li>\n<li>Experience with systems at petabyte scale.</li>\n<li>Experience implementing AI-enabled systems (e.g. agentic SRE, AI automation).</li>\n</ul>\n<p><strong>About SumUp</strong>&nbsp;</p>\n<p>We believe in the everyday hero. Small business owners are at the heart of all we do, so we're creating tools that help them run their businesses. With a founder’s mentality and a 'team-firs…",
+    "url": "https://www.arbeitnow.fr/jobs/companies/qonto/data-platform-engineer-paris-202815",
+    "description": "Our mission and customers: We are creating the freedom for SMEs to succeed by delivering Europe's leading finance workspace with banking at its core, augmented by financial tools. We are proud to be rated 4.8 on Trustpilot , based on 55,000+ reviews. Our culture puts customer satisfaction at the core of what we do, as proven by our Net Promoter Score of 75 (more about our culture here ).\n Our journey: Founded in 2017 by Alexandre and Steve , Qonto has grown to 1,600+ Qontoers serving over 600,000+ customers across 8 European countries. We have been profitable since 2023, and we are just getting started.\n Our beliefs: We hire for skills and potential. With 80+ nationalities, 45% women, of which 56% of women in our leadership team, diversity isn't a program; It's who we are. We've built a discrimination-free hiring process because the best teams are built on merit.\n AI at Qonto: AI is deeply embedded in how we work ( here ) - Every Qontoer gets unlimited access to the best AI tools. We want people who experiment without waiting for permission, push AI beyond the obvious, know when to trust it, and when to question it.\n ------------------------------------------------------------------------------------------------------\n ➡️ Mission: Join us to build the data solutions that serve more than 600,000 customers. As a Data Engineer, you make data safe, fresh, and self-service for the almost 2,000 Qontoers who rely on it every day.\n ➡️ The team: You will join the Data Platform team: Data Platform Engineers , Data Engineers and Data SREs . We own our stack end to end — Trino, Metabase, Airflow, OpenMetadata and more are deployed, run and maintained in-house by the team.\n ➡️ As a Data Solution Engineer at Qonto, you will:\n Deliver end-to-end data solutions: You will own data solutions from the need to production — ingestion into Snowflake, exposure through Trino and Metabase, and the automation around them — for business-critical use cases.\n Make self-service real: You will t…",
     "tags": [
-      "Data Engineer/Scientist"
+      "Data Engineering",
+      "Full-time"
     ],
-    "postedAt": "2026-09-18T14:55:16.000Z",
-    "scrapedAt": "2026-09-18T18:03:16.105Z"
+    "jobType": "Full-time",
+    "postedAt": "2026-09-18T22:04:32.000Z",
+    "scrapedAt": "2026-09-18T22:59:43.290Z"
   },
   {
-    "id": "arbeitnow:senior-data-engineer-analytical-data-platform-inteligent-platforms-all-genders-berlin-berlin-207118",
-    "externalId": "senior-data-engineer-analytical-data-platform-inteligent-platforms-all-genders-berlin-berlin-207118",
+    "id": "arbeitnow:data-platform-engineer-berlin-253234",
+    "externalId": "data-platform-engineer-berlin-253234",
     "source": "arbeitnow",
-    "title": "Senior Data Engineer, Analytical Data Platform, Inteligent Platforms (all genders)",
-    "company": "hellofresh",
-    "location": "Berlin, Berlin",
+    "title": "Data Platform Engineer (m/w/d)",
+    "company": "ANGEHEUERT GmbH",
+    "location": "Berlin, Berlin, Deutschland",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-data-engineer-analytical-data-platform-inteligent-platforms-all-genders-berlin-berlin-207118",
-    "description": "<h2>About the role</h2>\n<p>At HelloFresh, data is at the heart of everything we do — from the moment a customer places an order to the way we forecast demand, optimize our supply chain, and personalize experiences for millions of people. Making that data fast, reliable, and available is what our Data Platform makes possible.</p>\n<p>We are looking for a Senior Data Platform Engineer to join our Data Platform team of 7 — the squad responsible for the infrastructure that powers our entire data ecosystem. You'll own the compute, orchestration, and storage systems that data and analytics teams depend on every day, and lead the evolution of our platform toward a more governed, scalable, and cloud-native architecture.</p>\n<p>This is a hands-on engineering role at the core of our platform. You'll drive our migration to Databricks Unity Catalog and Terraform-managed workspaces, sunset legacy systems, and help define the patterns that make it easy for teams across the company to build and run data workloads reliably and cost-efficiently.</p>\n<h2>What you'll do</h2>\n<ul>\n<li>Lead our Databricks Unity Catalog migration. Own the transition from legacy Databricks workspaces to Unity Catalog and Terraformenabled workspaces — ensuring governance, lineage, and access control are built into the platform from the start.</li>\n<li>Own our Kubernetesbased compute platform. Manage the Kubernetes infrastructure that provides compute for Spark and Airflow jobs, keeping it reliable, efficient, and easy to build on.</li>\n<li>Build and maintain infrastructureascode. Own our Terraform modules and GitHub Actions pipelines, and set the standard for how infrastructure is provisioned and managed across the platform.</li>\n<li>Ensure platform reliability and observability. Keep critical data paths highly available, improve operational maturity, and invest in automation so the platform runs with minimal manual intervention.</li>\n<li>Collaborate across the data org. Partner with data engineering and a…",
+    "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/data-platform-engineer-berlin-253234",
+    "description": "Du möchtest nicht nur Daten verarbeiten, sondern eine moderne Datenplattform entwickeln, die Analysen, Reporting und datengetriebene Entscheidungen im gesamten Unternehmen ermöglicht?\n Dann könnte diese Position genau das Richtige für dich sein.\n Unser Kunde, ein dynamisch wachsende E-Commerce Service Agentur in Berlin , zählt zu den erfolgreichsten Amazon-Händlern Deutschlands und vertreibt tausende Produkte\n Für den weiteren Ausbau der Data & Analytics Landschaft wird eine Persönlichkeit gesucht, die moderne Datenarchitekturen entwickelt und den Weg zu einer datengetriebenen Organisation aktiv mitgestaltet\n Deine Benefits Attraktive Vergütung: Ein leistungsgerechtes Fixgehalt, das deiner Erfahrung und Qualifikation entspricht.\n Flexibles Arbeiten: Hybrides Arbeitsmodell mit 2 Home-Office Tagen, einer 40-Stunden-Woche, Gleitzeit mit Arbeitsbeginn zwischen 6:00 und 10:00 Uhr.\n Langfristige Sicherheit: Unbefristeter Arbeitsvertrag sowie 30 Urlaubstage in einem wirtschaftlich erfolgreichen und zukunftssicheren Unternehmen.\n Weiterentwicklung: Ob fachlich oder persönlich – deine Entwicklung wird aktiv gefördert und langfristig begleitet.\n Modernes Arbeitsumfeld: Freue dich auf ein modernes Büro im Berliner Bezirk Lichtenberg.\n Mobilität: Ob mit den öffentlichen Verkehrsmitteln oder dem Auto – profitiere von einem bezuschussten Jobticket oder kostenlosen Parkplätzen direkt am Büro.\n Teamkultur: Flache Hierarchien, offene Kommunikation, eine gelebte Du-Kultur und regelmäßige Team- sowie Firmenevents wie „Grill & Chill“ sorgen für ein starkes Miteinander.\n Verpflegung: Kostenlose Getränke sowie frisches Obst stehen dir im Arbeitsalltag jederzeit zur Verfügung.\n Mitarbeitervorteile: Profitiere von attraktiven Mitarbeiterrabatten auf das Sortiment sowie weiteren Corporate Benefits.\n Deine Aufgaben Als Data Engineer entwickelst und betreibst du moderne Datenplattformen in Microsoft Azure und Microsoft Fabric und sorgst dafür, dass hochwertige Daten zuverlässig für Analysen,…",
     "tags": [
-      "Tech"
+      "Experienced",
+      "fulltime permanent"
     ],
-    "postedAt": "2026-09-18T14:55:10.000Z",
-    "scrapedAt": "2026-09-18T18:03:16.105Z"
+    "jobType": "Experienced",
+    "postedAt": "2026-09-18T20:30:13.000Z",
+    "scrapedAt": "2026-09-18T22:59:43.290Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-berlin-498016",
+    "externalId": "senior-data-engineer-berlin-498016",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer (m/w/d)",
+    "company": "ANGEHEUERT GmbH",
+    "location": "Berlin, Berlin, Deutschland",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/senior-data-engineer-berlin-498016",
+    "description": "Du möchtest nicht nur Daten verarbeiten, sondern eine moderne Datenplattform entwickeln, die Analysen, Reporting und datengetriebene Entscheidungen im gesamten Unternehmen ermöglicht?\n Dann könnte diese Position genau das Richtige für dich sein.\n Unser Kunde, ein dynamisch wachsende E-Commerce Service Agentur in Berlin , zählt zu den erfolgreichsten Amazon-Händlern Deutschlands und vertreibt tausende Produkte\n Für den weiteren Ausbau der Data & Analytics Landschaft wird eine Persönlichkeit gesucht, die moderne Datenarchitekturen entwickelt und den Weg zu einer datengetriebenen Organisation aktiv mitgestaltet\n Deine Benefits Attraktive Vergütung: Ein leistungsgerechtes Fixgehalt, das deiner Erfahrung und Qualifikation entspricht.\n Flexibles Arbeiten: Hybrides Arbeitsmodell mit 2 Home-Office Tagen, einer 40-Stunden-Woche, Gleitzeit mit Arbeitsbeginn zwischen 6:00 und 10:00 Uhr.\n Langfristige Sicherheit: Unbefristeter Arbeitsvertrag sowie 30 Urlaubstage in einem wirtschaftlich erfolgreichen und zukunftssicheren Unternehmen.\n Weiterentwicklung: Ob fachlich oder persönlich – deine Entwicklung wird aktiv gefördert und langfristig begleitet.\n Modernes Arbeitsumfeld: Freue dich auf ein modernes Büro im Berliner Bezirk Lichtenberg.\n Mobilität: Ob mit den öffentlichen Verkehrsmitteln oder dem Auto – profitiere von einem bezuschussten Jobticket oder kostenlosen Parkplätzen direkt am Büro.\n Teamkultur: Flache Hierarchien, offene Kommunikation, eine gelebte Du-Kultur und regelmäßige Team- sowie Firmenevents wie „Grill & Chill“ sorgen für ein starkes Miteinander.\n Verpflegung: Kostenlose Getränke sowie frisches Obst stehen dir im Arbeitsalltag jederzeit zur Verfügung.\n Mitarbeitervorteile: Profitiere von attraktiven Mitarbeiterrabatten auf das Sortiment sowie weiteren Corporate Benefits.\n Deine Aufgaben Als Data Engineer entwickelst und betreibst du moderne Datenplattformen in Microsoft Azure und Microsoft Fabric und sorgst dafür, dass hochwertige Daten zuverlässig für Analysen,…",
+    "tags": [
+      "Experienced",
+      "fulltime permanent"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-18T20:30:13.000Z",
+    "scrapedAt": "2026-09-18T22:59:43.290Z"
   },
   {
     "id": "jobicy:153597",
@@ -48,7 +70,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-09-18T14:40:03.000Z",
-    "scrapedAt": "2026-09-18T18:03:17.303Z"
+    "scrapedAt": "2026-09-18T22:59:43.393Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -64,7 +86,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-09-18T18:03:18.055Z"
+    "scrapedAt": "2026-09-18T22:59:44.110Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -80,7 +102,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-09-18T18:03:18.055Z"
+    "scrapedAt": "2026-09-18T22:59:44.110Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -96,7 +118,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-18T18:03:18.055Z"
+    "scrapedAt": "2026-09-18T22:59:44.110Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -112,7 +134,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-18T18:03:18.055Z"
+    "scrapedAt": "2026-09-18T22:59:44.110Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -128,7 +150,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-18T18:03:18.055Z"
+    "scrapedAt": "2026-09-18T22:59:44.110Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -144,22 +166,6 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-18T18:03:18.055Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8180833",
-    "externalId": "coinbase:8180833",
-    "source": "greenhouse",
-    "title": "Senior Market Data Engineer",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Coinbase is building the future of institutional trading as part of the Everything Exchange, powering the systems that let the world's largest financial institutions trade across markets with speed, depth, and trust. As a Senior Data Engineer, Market Data on the Institutional Markets team, you'll build and operate the systems that capture, normalize, and distribute real-time market data across Coinbase at low latency - the feed handlers, venue connectors, and distribution layer that form the backbone of a unified trading platform.\n What you'll do:\n Build and maintain market data components including feed handlers, normalization pipelines, distribution systems, and venue connectivity.\n Design and implement low-latency, high-throughput services for real-time market data consumed by trading systems across the platform.\n Drive reliability and performance improvements through observability, on-call participation, and incident response.\n Write high-quality, well-tested code and contribute to engineering standards on a lean team.\n Partner with engineers, product managers, and cross-functional stakeholders to deliver market data capabilities that support Coinbase's institutional trading roadmap.\n Required Skills and Experience:\n 3+ years of backend engineering experience building and maintaining production low-latency systems.\n Hands-on experience with at least one area of market data…",
-    "tags": [
-      "Engineering - Data"
-    ],
-    "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-18T18:03:18.055Z"
+    "scrapedAt": "2026-09-18T22:59:44.110Z"
   }
 ]
