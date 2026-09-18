@@ -168,25 +168,6 @@
     ]
   },
   {
-    "company": "Aircall",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "France Remote",
-      "Paris Office"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer - Real time analytics",
-      "Senior Data Engineer - Real time analytics"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-12909",
-      "https://www.arbeitnow.fr/jobs/companies/aircall/senior-data-engineer-real-time-analytics-paris-office-71547"
-    ]
-  },
-  {
     "company": "Block",
     "jobCount": 2,
     "sources": [
@@ -298,24 +279,6 @@
     ]
   },
   {
-    "company": "Prima",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Software/Data Engineer",
-      "Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/prima/software-data-engineer-london-198004",
-      "https://www.arbeitnow.co.uk/jobs/companies/prima/data-engineer-london-193372"
-    ]
-  },
-  {
     "company": "Workday",
     "jobCount": 2,
     "sources": [
@@ -351,6 +314,22 @@
     ]
   },
   {
+    "company": "Carrot",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "USA"
+    ],
+    "sampleTitles": [
+      "Sr. Data Engineer"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/153597-sr-data-engineer-3"
+    ]
+  },
+  {
     "company": "Datadog",
     "jobCount": 1,
     "sources": [
@@ -383,19 +362,19 @@
     ]
   },
   {
-    "company": "exmox",
+    "company": "hellofresh",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Hamburg"
+      "Berlin, Berlin"
     ],
     "sampleTitles": [
-      "Senior AI-Native Data Engineer (f/m/x)"
+      "Senior Data Engineer, Analytical Data Platform, Inteligent Platforms (all genders)"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/exmox/senior-ai-native-data-engineer-hamburg-387708"
+      "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-data-engineer-analytical-data-platform-inteligent-platforms-all-genders-berlin-berlin-207118"
     ]
   },
   {
@@ -476,6 +455,22 @@
     ],
     "officialUrls": [
       "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da"
+    ]
+  },
+  {
+    "company": "sumup",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin"
+    ],
+    "sampleTitles": [
+      "Data Platform Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/sumup/data-platform-engineer-berlin-376146"
     ]
   }
 ]
