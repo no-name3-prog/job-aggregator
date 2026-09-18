@@ -1,82 +1,91 @@
 [
   {
-    "id": "greenhouse:instacart-8212434",
-    "externalId": "instacart:8212434",
+    "id": "arbeitnow:senior-backend-engineer-cybersecurity-ai-appsec-paris-30162",
+    "externalId": "senior-backend-engineer-cybersecurity-ai-appsec-paris-30162",
+    "source": "arbeitnow",
+    "title": "Senior Backend Engineer | Cybersecurity AI AppSec",
+    "company": "Escape",
+    "location": "Paris Office",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/escape/senior-backend-engineer-cybersecurity-ai-appsec-paris-30162",
+    "description": "Location: Paris (75002) | Hybrid (2 days remote/week)\n About Escape\nJoin Escape, a fast-growing leader in AI-powered cybersecurity. Our mission-driven engineering team (18 engineers, 4 technical leads, 3 product owners) is dedicated to redefining application security with cutting-edge detection and automation.\n We operate at the forefront of technology and research from our Paris office.\n About the Role\nAs a Senior Backend Engineer you will work in a team with talented security researchers. You’ll champion innovation, and ensure research translates into impactful production solutions.\n What You'll Do\n Agentic scanning systems: Build systems that autonomously explore applications, maintain context, and execute complex testing strategies.\n Security detection engine : Design and implement reliable, production-grade vulnerability detection logic (injection, auth issues, business logic flaws, etc.).\n AI-driven testing: Integrate LLMs and structured reasoning into scanning workflows to improve coverage and reduce false positives.\n Distributed infrastructure: Work on systems that orchestrate thousands of concurrent scans (Kubernetes, queues, resource management).\n Performance & reliability: Ensure scans are fast, deterministic, and cost-efficient despite high complexity and concurrency.\n Core platform design: Contribute to architecture decisions around memory systems, execution environments, and data models.\n Our Tech Stack & Focus\n Languages: Python (primary), Go (performance/network components)\n Runtime: Containerized workloads on Kubernetes (EKS), supporting long and resource-intensive scans\n Scaling: Kubernetes Jobs & queue-driven autoscaling\n Web Automation: Playwright + headless Chromium\n Data: PostgreSQL, S3-compatible object storage, Redis (limited use)\n Messaging: Kafka\n Observability: OpenTelemetry, Grafana Cloud\n CI/CD & Infra: GitLab CI, Terraform\n Perks & Benefits\n 💸 Significant equity (Stock Options/BSPCE) – become a core stakeholder in Escape’s journey\n ❤️…",
+    "tags": [
+      "Tech",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-09-18T01:40:13.000Z",
+    "scrapedAt": "2026-09-18T02:58:13.602Z"
+  },
+  {
+    "id": "arbeitnow:partner-sales-manager-france-300419",
+    "externalId": "partner-sales-manager-france-300419",
+    "source": "arbeitnow",
+    "title": "Partner Sales manager",
+    "company": "Redis",
+    "location": "France",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/redis/partner-sales-manager-france-300419",
+    "description": "Who we are\n We're Redis. We built the product that runs the fast apps our world runs on. (If you checked the weather, used your credit card, or looked at your flight status online today, you’re welcome.) At Redis, you’ll work with the fastest, simplest technology in the business—whether you’re building it, telling its story, or selling it to our 10,000+ worldwide customers. We’re creating a faster world with simpler experiences. You in?\n Why would you love this job? We seek a tenacious and results-driven Cloud Channel Sales Manager to spearhead our expansion into the cloud solutions realm. Bring your proven track record of aggressively pursuing and accelerating opportunities, coupled with a deep understanding of Cloud Service Providers (CSPs) like AWS, GCP, and Azure. As an ISV Partner sales expert, you'll leverage your expertise in selling PaaS solutions to deliver customer and partner presentations that resonate.\n   What you’ll do: Hunt relentlessly for new cloud revenue opportunities and partnerships, driving pipeline generation and deal acceleration\n Identify, pursue, and close strategic deals with CSPs, showcasing exceptional deal-making prowess\n Plan and participate in regional events, generating leads and increasing pipe conversion with Cloud, reseller, and SI partners\n Foster strong relationships with CSPs, emphasizing the unique value proposition of Redis Enterprise solutions\n Cultivate new connections and leverage existing networks to build a robust pipeline of potential deals\n Collaborate effectively with cloud providers, translating relationships into tangible co-sell opportunities registered through CSP partner tools\n Create and execute comprehensive joint business plans for the region, including GTM strategies with VAR/Disti/Deployment Partners\n Conduct on-site visits to cloud provider offices for account planning and technical enablement sessions\n   What will you need to have? Demonstrated experience sourcing and influencing deals in the channel ecos…",
+    "tags": [
+      "Sales",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-09-18T01:40:06.000Z",
+    "scrapedAt": "2026-09-18T02:58:13.602Z"
+  },
+  {
+    "id": "greenhouse:airbnb-8211765",
+    "externalId": "airbnb:8211765",
     "source": "greenhouse",
-    "title": "B2B Event Marketing Manager (6-Month Contract)",
-    "company": "Instacart",
-    "location": "United States - Remote",
-    "remote": true,
-    "url": "https://instacart.careers/job/?gh_jid=8212434",
-    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Why this role is on the menu\n Instacart's commercial event calendar, spanning premier industry tradeshows like Cannes Lions, Expo West, and Shoptalk Europe alongside owned executive programs and bespoke cultural hospitality experiences, needs dedicated, hands-on ownership for the next six months. Without this role, event logistics, vendor relationships, and cross-functional coordination across Sales, Corp Comms, Product Marketing, Growth Marketing, and Creative go unmanaged at a critical point in our B2B growth. This contract role exists to ensure every Instacart presence at a major industry event is executed with precision, on budget, and with measurable impact. By the end of the engagement, Instacart's reputation as a sophisticated event marketer in the eCommerce, AdTech, and CPG space will be meaningfully advanced.\n What you'll cook up in your first year…",
+    "title": "Lead Platform Manager, Tech Foundations",
+    "company": "Airbnb",
+    "location": "United States",
+    "remote": false,
+    "url": "https://careers.airbnb.com/positions/8211765?gh_jid=8211765",
+    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n The Community You Will Join\n Airbnb is a vision- and mission-driven company. Our Product Managers embody this culture and mindset. They imagine the ideal end state for our community (guests and hosts) and work backward from it, challenging current assumptions. They champion winning strategies, leverage metrics to track progress, and partner with talented cross-functional teammates (engineering, design, data science, and more). Highly hands-on, they are never afraid to roll up their sleeves to deliver the right outcome for our community. If you’re excited to help us create a world where anyone can belong anywhere, we’d love to meet you.\n The Difference You Will Make\n As a Lead Product Manager for Developer Productivity, you will own the product areas developers rely on, and you will own something harder: the end-to-end workflows that determine how productive our engineers actually are. Those workflows cross organizational boundaries — a single developer journey can touch other parts of the infrastructure, reliability, developer experience, and security. Your job is to understand the end-to-end developer journey, find where it breaks, and drive the work to fix it whether or not the fix lives in your teams.\n You will define what developer productivity means at Airbnb, instrument it, and be accountable for moving it. In collaboration with business stakeholders, product marketing, and technical program managers, you will help shape the roadmap for these products, with an emphasis on bringing together disparate offerings into a cohesive infrastructure roadmap.This will include the creation and ownership of Product…",
     "tags": [
-      "Marketing "
+      "Product Management"
     ],
-    "postedAt": "2026-09-17T23:16:19.000Z",
-    "scrapedAt": "2026-09-17T23:21:09.322Z"
+    "postedAt": "2026-09-18T01:37:46.000Z",
+    "scrapedAt": "2026-09-18T02:58:14.139Z"
   },
   {
-    "id": "arbeitnow:senior-engineering-manager-multichannel-commerce-paris-186349",
-    "externalId": "senior-engineering-manager-multichannel-commerce-paris-186349",
+    "id": "arbeitnow:centrale-lyon-post-doctoral-open-and-flexible-system-level-evaluation-framework-for-emerging-ai-computing-architectures-ecully-82377",
+    "externalId": "centrale-lyon-post-doctoral-open-and-flexible-system-level-evaluation-framework-for-emerging-ai-computing-architectures-ecully-82377",
     "source": "arbeitnow",
-    "title": "Senior Engineering Manager - Multichannel Commerce",
-    "company": "mirakllabs",
+    "title": "CENTRALE LYON - Post Doctoral Open and Flexible System-Level Evaluation Framework for Emerging AI Computing Architectures",
+    "company": "CENTRALE LYON",
+    "location": "Ecully, Auvergne-Rhône-Alpes, France",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/centrale-lyon/centrale-lyon-post-doctoral-open-and-flexible-system-level-evaluation-framework-for-emerging-ai-computing-architectures-ecully-82377",
+    "description": "Emerging computing technologies – non-volatile and ferroelectric memories, analog and digital in-memory computing, silicon photonics, 3D integration, and heterogeneous chiplets – offer major gains in energy efficiency, latency, bandwidth, and functionality. Their potential cannot, however, be established from device or circuit results alone: it requires a rigorous link between technology characteristics, architectural choices, workload mapping, and application-level figures of merit.\n The Electronics group at the Lyon Institute of Nanotechnology (INL) is seeking a (m/f) postdoctoral researcher to develop an open, modular and extensible system-level evaluation framework for design space exploration (DSE) and system-design-technology co-optimization (SDTCO) of emerging computing architectures. The focus is at the interface of computer architecture, accelerator design, performance modelling and hardware-software codesign, while making systematic use of lower-level device, circuit and array results so that architectural conclusions remain physically credible.\n The objective is to convert low-level results – compact models, measured or simulated KPIs, variability and reliability constraints, and multi-objective Pareto fronts – into parameterized architectural models supporting efficient exploration of accelerators for emerging AI workloads. The framework must enable both bottom-up projection, from device/circuit/array choices toward system performance, and top-down constraint propagation, from targets for energy, latency, throughput, accuracy, robustness and area toward technology and circuit requirements. It will consolidate ongoing INL activities in predictive system assessment, DTCO, emerging memories, compute-in-memory and photonic computing, integrating or extending existing components with emphasis on openness, reproducibility and reusability.\n A core scientific challenge is to represent cross-layer trade-offs without hiding their origin: rather than isolated ener…",
+    "tags": [
+      "INL - Institut des Nanotechnologies de Lyon",
+      "Entry",
+      "fulltime fixed term"
+    ],
+    "jobType": "Entry",
+    "postedAt": "2026-09-18T01:30:28.000Z",
+    "scrapedAt": "2026-09-18T02:58:13.602Z"
+  },
+  {
+    "id": "arbeitnow:senior-staff-frontend-engineer-react-remote-friendly-paris-473326",
+    "externalId": "senior-staff-frontend-engineer-react-remote-friendly-paris-473326",
+    "source": "arbeitnow",
+    "title": "Senior/Staff Frontend Engineer (React) - Remote Friendly",
+    "company": "Qonto",
     "location": "Paris",
     "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-engineering-manager-multichannel-commerce-paris-186349",
-    "description": "<div class=\"content-intro\"><p><strong>About Mirakl:</strong></p>\n<p>Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.<br><br>Today, Mirakl’s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling (Mirakl Connect), retail media (Mirakl Ads) and an agentic commerce infrastructure (Mirakl Nexus).<br><br>With dual headquarters in Boston and Paris, Mirakl helps a global ecosystem of 450+ marketplaces (B2C and B2B) and a network of over 100k third-party marketplace sellers. Brands like Macy’s, Decathlon, Carrefour, Asos, and Airbus Helicopters use Mirakl to grow their businesses in new and remarkable ways.</p>\n<p>For more information: <a href=\"http://www.mirakl.com\">www.mirakl.com</a>.</p>\n<p><strong>Mirakl in Numbers:</strong></p>\n<ul>\n<li>🗓️ Founded in 2012 | Member of French Tech Next40</li>\n<li>👥 750+ employees in 9 offices worldwide: Paris, Barcelona, Bordeaux, Boston, London, Munich, New York, Sydney, Tokyo</li>\n<li>🇫🇷 350+ Mirakl Tech teams members mainly based in France</li>\n<li>⚙️ 5 Saas Solutions</li>\n</ul>\n<p><strong>Our Values:</strong></p>\n<p>Working at Mirakl means accelerating your career alongside ambitious, passionate, and supportive colleagues. We're proud of the diversity of backgrounds, perspectives, and experiences that make our teams unique.</p>\n<p>Our 5 values guide how we collaborate:</p>\n<ul>\n<li>💡<strong> Work Hard Together:</strong> Teamwork and collaboration are the foundation of our success</li>\n<li>🏆 <strong>Get Things Done: </strong>&nbsp;We prioritize action and efficiency for impactful results</li>\n<li>🚀 <strong>Go Above &amp; Beyond:</strong>&nbsp; We tackle challenges proactively and always aim for excellence</li>\n<li>🎓 <strong>Succeed Through Expertise:</strong> Knowledge sharing and c…",
+    "url": "https://www.arbeitnow.fr/jobs/companies/qonto/senior-staff-frontend-engineer-react-remote-friendly-paris-473326",
+    "description": "Our mission and customers: We are creating the freedom for SMEs to succeed by delivering Europe's leading finance workspace with banking at its core, augmented by financial tools. We are proud to be rated 4.8 on Trustpilot , based on 55,000+ reviews. Our culture puts customer satisfaction at the core of what we do, as proven by our Net Promoter Score of 75 (more about our culture here ).\n Our journey: Founded in 2017 by Alexandre and Steve , Qonto has grown to 1,600+ Qontoers serving over 600,000+ customers across 8 European countries. We have been profitable since 2023, and we are just getting started.\n Our beliefs: We hire for skills and potential. With 80+ nationalities, 45% women, of which 56% of women in our leadership team, diversity isn't a program; It's who we are. We've built a discrimination-free hiring process because the best teams are built on merit.\n AI at Qonto: AI is deeply embedded in how we work ( here ) - Every Qontoer gets unlimited access to the best AI tools. We want people who experiment without waiting for permission, push AI beyond the obvious, know when to trust it, and when to question it.\n ------------------------------------------------------------------------------------------------------\n At Qonto, we understand that true diversity isn’t just about ticking boxes on a hiring checklist. Apply regardless of the boxes you tick — who knows? You may have the missing piece of the puzzle we’ve been searching for all along.\n By applying, you agree that Qonto processes your personal data to assess your application. Your data is kept for up to 2 years in our candidate pool. Read our Privacy Notice for full details.\n - --------------------------------- ---------------------------------- ----------------------------------\n On average, our hiring process lasts 20 working days . More information on our candidate journey here\n ---------------------------------- ---------------------------------- ----------------------------------\n 🔒 Your security ma…",
     "tags": [
-      "Tech"
+      "Web",
+      "Full-time"
     ],
-    "postedAt": "2026-09-17T22:55:33.000Z",
-    "scrapedAt": "2026-09-17T23:21:08.421Z"
-  },
-  {
-    "id": "arbeitnow:senior-engineering-manager-multichannel-commerce-bordeaux-88903",
-    "externalId": "senior-engineering-manager-multichannel-commerce-bordeaux-88903",
-    "source": "arbeitnow",
-    "title": "Senior Engineering Manager - Multichannel Commerce",
-    "company": "mirakllabs",
-    "location": "Bordeaux",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-engineering-manager-multichannel-commerce-bordeaux-88903",
-    "description": "<div class=\"content-intro\"><p><strong>About Mirakl:</strong></p>\n<p>Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.<br><br>Today, Mirakl’s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling (Mirakl Connect), retail media (Mirakl Ads) and an agentic commerce infrastructure (Mirakl Nexus).<br><br>With dual headquarters in Boston and Paris, Mirakl helps a global ecosystem of 450+ marketplaces (B2C and B2B) and a network of over 100k third-party marketplace sellers. Brands like Macy’s, Decathlon, Carrefour, Asos, and Airbus Helicopters use Mirakl to grow their businesses in new and remarkable ways.</p>\n<p>For more information: <a href=\"http://www.mirakl.com\">www.mirakl.com</a>.</p>\n<p><strong>Mirakl in Numbers:</strong></p>\n<ul>\n<li>🗓️ Founded in 2012 | Member of French Tech Next40</li>\n<li>👥 750+ employees in 9 offices worldwide: Paris, Barcelona, Bordeaux, Boston, London, Munich, New York, Sydney, Tokyo</li>\n<li>🇫🇷 350+ Mirakl Tech teams members mainly based in France</li>\n<li>⚙️ 5 Saas Solutions</li>\n</ul>\n<p><strong>Our Values:</strong></p>\n<p>Working at Mirakl means accelerating your career alongside ambitious, passionate, and supportive colleagues. We're proud of the diversity of backgrounds, perspectives, and experiences that make our teams unique.</p>\n<p>Our 5 values guide how we collaborate:</p>\n<ul>\n<li>💡<strong> Work Hard Together:</strong> Teamwork and collaboration are the foundation of our success</li>\n<li>🏆 <strong>Get Things Done: </strong>&nbsp;We prioritize action and efficiency for impactful results</li>\n<li>🚀 <strong>Go Above &amp; Beyond:</strong>&nbsp; We tackle challenges proactively and always aim for excellence</li>\n<li>🎓 <strong>Succeed Through Expertise:</strong> Knowledge sharing and c…",
-    "tags": [
-      "Tech"
-    ],
-    "postedAt": "2026-09-17T22:55:33.000Z",
-    "scrapedAt": "2026-09-17T23:21:08.421Z"
-  },
-  {
-    "id": "arbeitnow:senior-engineering-manager-marketplace-bordeaux-379671",
-    "externalId": "senior-engineering-manager-marketplace-bordeaux-379671",
-    "source": "arbeitnow",
-    "title": "Senior Engineering Manager - Marketplace",
-    "company": "mirakllabs",
-    "location": "Bordeaux",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-engineering-manager-marketplace-bordeaux-379671",
-    "description": "<div class=\"content-intro\"><p><strong>About Mirakl:</strong></p>\n<p>Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.<br><br>Today, Mirakl’s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling (Mirakl Connect), retail media (Mirakl Ads) and an agentic commerce infrastructure (Mirakl Nexus).<br><br>With dual headquarters in Boston and Paris, Mirakl helps a global ecosystem of 450+ marketplaces (B2C and B2B) and a network of over 100k third-party marketplace sellers. Brands like Macy’s, Decathlon, Carrefour, Asos, and Airbus Helicopters use Mirakl to grow their businesses in new and remarkable ways.</p>\n<p>For more information: <a href=\"http://www.mirakl.com\">www.mirakl.com</a>.</p>\n<p><strong>Mirakl in Numbers:</strong></p>\n<ul>\n<li>🗓️ Founded in 2012 | Member of French Tech Next40</li>\n<li>👥 750+ employees in 9 offices worldwide: Paris, Barcelona, Bordeaux, Boston, London, Munich, New York, Sydney, Tokyo</li>\n<li>🇫🇷 350+ Mirakl Tech teams members mainly based in France</li>\n<li>⚙️ 5 Saas Solutions</li>\n</ul>\n<p><strong>Our Values:</strong></p>\n<p>Working at Mirakl means accelerating your career alongside ambitious, passionate, and supportive colleagues. We're proud of the diversity of backgrounds, perspectives, and experiences that make our teams unique.</p>\n<p>Our 5 values guide how we collaborate:</p>\n<ul>\n<li>💡<strong> Work Hard Together:</strong> Teamwork and collaboration are the foundation of our success</li>\n<li>🏆 <strong>Get Things Done: </strong>&nbsp;We prioritize action and efficiency for impactful results</li>\n<li>🚀 <strong>Go Above &amp; Beyond:</strong>&nbsp; We tackle challenges proactively and always aim for excellence</li>\n<li>🎓 <strong>Succeed Through Expertise:</strong> Knowledge sharing and c…",
-    "tags": [
-      "Tech"
-    ],
-    "postedAt": "2026-09-17T22:55:33.000Z",
-    "scrapedAt": "2026-09-17T23:21:08.421Z"
-  },
-  {
-    "id": "arbeitnow:senior-engineering-manager-marketplace-paris-484175",
-    "externalId": "senior-engineering-manager-marketplace-paris-484175",
-    "source": "arbeitnow",
-    "title": "Senior Engineering Manager - Marketplace",
-    "company": "mirakllabs",
-    "location": "Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-engineering-manager-marketplace-paris-484175",
-    "description": "<div class=\"content-intro\"><p><strong>About Mirakl:</strong></p>\n<p>Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.<br><br>Today, Mirakl’s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling (Mirakl Connect), retail media (Mirakl Ads) and an agentic commerce infrastructure (Mirakl Nexus).<br><br>With dual headquarters in Boston and Paris, Mirakl helps a global ecosystem of 450+ marketplaces (B2C and B2B) and a network of over 100k third-party marketplace sellers. Brands like Macy’s, Decathlon, Carrefour, Asos, and Airbus Helicopters use Mirakl to grow their businesses in new and remarkable ways.</p>\n<p>For more information: <a href=\"http://www.mirakl.com\">www.mirakl.com</a>.</p>\n<p><strong>Mirakl in Numbers:</strong></p>\n<ul>\n<li>🗓️ Founded in 2012 | Member of French Tech Next40</li>\n<li>👥 750+ employees in 9 offices worldwide: Paris, Barcelona, Bordeaux, Boston, London, Munich, New York, Sydney, Tokyo</li>\n<li>🇫🇷 350+ Mirakl Tech teams members mainly based in France</li>\n<li>⚙️ 5 Saas Solutions</li>\n</ul>\n<p><strong>Our Values:</strong></p>\n<p>Working at Mirakl means accelerating your career alongside ambitious, passionate, and supportive colleagues. We're proud of the diversity of backgrounds, perspectives, and experiences that make our teams unique.</p>\n<p>Our 5 values guide how we collaborate:</p>\n<ul>\n<li>💡<strong> Work Hard Together:</strong> Teamwork and collaboration are the foundation of our success</li>\n<li>🏆 <strong>Get Things Done: </strong>&nbsp;We prioritize action and efficiency for impactful results</li>\n<li>🚀 <strong>Go Above &amp; Beyond:</strong>&nbsp; We tackle challenges proactively and always aim for excellence</li>\n<li>🎓 <strong>Succeed Through Expertise:</strong> Knowledge sharing and c…",
-    "tags": [
-      "Tech"
-    ],
-    "postedAt": "2026-09-17T22:55:33.000Z",
-    "scrapedAt": "2026-09-17T23:21:08.421Z"
+    "jobType": "Full-time",
+    "postedAt": "2026-09-18T01:25:06.000Z",
+    "scrapedAt": "2026-09-18T02:58:13.602Z"
   }
 ]
