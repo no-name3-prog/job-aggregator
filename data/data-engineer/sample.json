@@ -1,5 +1,24 @@
 [
   {
+    "id": "arbeitnow:senior-ai-native-data-engineer-hamburg-387708",
+    "externalId": "senior-ai-native-data-engineer-hamburg-387708",
+    "source": "arbeitnow",
+    "title": "Senior AI-Native Data Engineer (f/m/x)",
+    "company": "exmox",
+    "location": "Hamburg",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/exmox/senior-ai-native-data-engineer-hamburg-387708",
+    "description": "Your Mission This is a company built for growth.\n When you join exmox, you're stepping onto a global, highly competitive playing field, building high-performing consumer products in mobile gaming. We're scaling a rewarded user engagement and acquisition platform that helps publishers acquire and retain players, and here, data isn't just analyzed, it's turned into systems that directly drive business performance.\n As a  Senior AI-Native Data Engineer (f/m/x) , you'll operate at the intersection of data, engineering, and product, building and scaling the data foundation that powers our entire business. This isn't a role for maintaining pipelines or following predefined processes, we look for engineering mindset and entrepreneurial ownership: you build it, you own it, and you see the impact in production. AI is not a side tool here, it's core to how you work: you'll use Claude and similar AI tools daily to plan, build, debug, and document, including managing context and memory across projects, integrating AI directly into your version control workflow, and running parallel agent workflows on separate tasks, cutting repetitive tasks so you can focus where it actually moves the needle.\n We believe a small team of engineers working closely with AI can outperform a much larger traditional data team, and we're building this role around that belief, not around AI as an occasional convenience.\n If you're excited by complex systems, high traffic, and data-driven decisions, and impact matters more to you than process, we want to hear from you. We use AI for everything in order to improve speed and quality.\n What You’ll Own:\n Data Pipelines & Integration:  You design, develop, and maintain scalable ETL pipelines on Databricks to integrate data from various sources, including app and web products and marketing partner data, ensuring reliable and efficient data flow across the business.\n Data Lakehouse Ownership:  You build and manage the Data Lakehouse on Databricks, including m…",
+    "tags": [
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-18T11:09:35.000Z",
+    "scrapedAt": "2026-09-18T13:21:24.563Z"
+  },
+  {
     "id": "arbeitnow:software-data-engineer-london-198004",
     "externalId": "software-data-engineer-london-198004",
     "source": "arbeitnow",
@@ -15,7 +34,7 @@
     ],
     "jobType": "Permanent Employment",
     "postedAt": "2026-09-18T03:24:08.000Z",
-    "scrapedAt": "2026-09-18T08:05:39.548Z"
+    "scrapedAt": "2026-09-18T13:21:24.563Z"
   },
   {
     "id": "arbeitnow:data-engineer-london-193372",
@@ -33,57 +52,7 @@
     ],
     "jobType": "Permanent Employment",
     "postedAt": "2026-09-18T03:24:08.000Z",
-    "scrapedAt": "2026-09-18T08:05:39.548Z"
-  },
-  {
-    "id": "arbeitnow:senior-analytics-engineer-london-383992",
-    "externalId": "senior-analytics-engineer-london-383992",
-    "source": "arbeitnow",
-    "title": "Senior Analytics Engineer",
-    "company": "Numan",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/numan/senior-analytics-engineer-london-383992",
-    "description": "About Numan\n Founded in 2018, we’ve already grown to be a 300+ team distributed across the globe, united by a singular mission: empowering people to take control of their health.\n Numan is transforming health: we’ve built a cutting-edge platform that integrates diagnostics, medication, supplements, digital programmes, and doctor consultations. Giving people the tools they need to maximise life.\n To deliver on our transformative mission, we are guided by our 5 company values:\n • Patients first.\n • Learn fast.\n • Own the quality.\n • Succeed together.\n • Care deeply.\n Backed by top-tier investors, Numan is already having a positive impact on hundreds of thousands of patients here in the UK, and we want you to help us deliver this mission!\n The role\n As Numan enters an exciting new chapter of AI-powered analytics, we're looking for a Senior Analytics Engineer to sit at the core of our data platform and drive better decisions across the entire business.\n This is one of the most varied analytics engineering roles in digital health. Your work will span multiple domains - from commercial performance and marketing effectiveness through to health outcomes analytics and clinical operations - giving you a genuinely broad view of the business and the full patient journey.\n We are embarking on a strategic investment in AI-powered analytics, with a full remit to explore and adopt the latest and greatest technologies. You'll be shaping which tools, approaches, and practices Numan adopts as a company.\n Reporting to the Head of Data Engineering and collaborating closely with data scientists, analysts, and stakeholders across the business.\n You'll be:\n Designing, building, and maintaining scalable, well-tested dbt data models that power analytics across commercial, marketing, health outcomes, and clinical operations domains.\n Acting as a senior technical voice within the analytics engineering function, setting standards for data modelling, testing, documentation, and code quality.\n L…",
-    "tags": [
-      "Data",
-      "Permanent"
-    ],
-    "jobType": "Permanent",
-    "postedAt": "2026-09-18T03:24:04.000Z",
-    "scrapedAt": "2026-09-18T08:05:39.548Z"
-  },
-  {
-    "id": "arbeitnow:remote-data-engineer-all-genders-310552",
-    "externalId": "remote-data-engineer-all-genders-310552",
-    "source": "arbeitnow",
-    "title": "Data Engineer (all genders)",
-    "company": "Eraneos",
-    "location": "Hamburg, München, Düsseldorf, remote",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-310552",
-    "description": "What you can expect from us We’re a high‑energy cloud- and data engineering team looking for like-minded, motivated tech builders. We are driven by ownership and business outcomes.\nAs the analytics unit within a global management consultancy, we turn data-driven strategies into production systems. Our clients are DAX and Fortune Global 500 leaders who trust us for our expertise across data platforms, big data and cloud engineering.\nYou’ll join an international environment with agile squads and a boutique spirit with room to experiment and grow, paired with above‑market compensation and an attractive benefits package.\n What you’ll do as part of our cloud- and data engineering team:\n Take ownership for projects end to end: From scoping to stakeholder alignment and the delivery of measurable outcomes Design data architectures for batch and streaming workloads, both at small and big data scales Provision and manage the underlying cloud infrastructure to support those architectures on providers such as AWS,  Azure  or GCP Building Python ETL/ELT pipelines, orchestrated with Airflow,  Dagster , or Prefect. Work with data lake technologies and  optimize  (OLAP) data ware-/ lakehouses Model and store data across SQL and NoSQL databases, as well as  optimizing  performance and costs Create web APIs with popular Python frameworks (e.g., FastAPI and Flask) and describe them using standards like OpenAPI /Swagger Automate deployments using Infrastructure-as-Code and container technologies such as Docker, Kubernetes or OpenShift\n Who you are A passionate data engineer who loves being at the forefront of modern, AI-driven technology, but also cares about the engineering craftmanship. Relevant hands-on experience with a cloud hyperscaler (preferably AWS, Azure or GCP). Preferably experience building production-grade software. Python development with idiomatic and well-tested code. Skilled in performance tuning and optimization of relational databases (e.g., through indexing, shard…",
-    "tags": [
-      "Data Engineering",
-      "Cloud Engineering",
-      "Snowflake",
-      "Databricks",
-      "ETL",
-      "Python",
-      "Azure",
-      "AWS",
-      "GCP",
-      "Data Warehouse",
-      "ELT",
-      "SQL",
-      "Consutling",
-      "Experienced",
-      "Permanent",
-      "Full time"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-09-18T02:09:24.000Z",
-    "scrapedAt": "2026-09-18T08:05:39.548Z"
+    "scrapedAt": "2026-09-18T13:21:24.563Z"
   },
   {
     "id": "arbeitnow:remote-senior-data-engineer-real-time-analytics-12909",
@@ -101,7 +70,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-18T01:24:57.000Z",
-    "scrapedAt": "2026-09-18T08:05:39.548Z"
+    "scrapedAt": "2026-09-18T13:21:24.563Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-paris-office-71547",
@@ -119,76 +88,86 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-18T01:24:57.000Z",
-    "scrapedAt": "2026-09-18T08:05:39.548Z"
+    "scrapedAt": "2026-09-18T13:21:24.563Z"
   },
   {
-    "id": "arbeitnow:senior-data-engineer-london-441631",
-    "externalId": "senior-data-engineer-london-441631",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer",
-    "company": "Livescore9",
-    "location": "London",
+    "id": "greenhouse:block-5424561008",
+    "externalId": "block:5424561008",
+    "source": "greenhouse",
+    "title": "Senior Analytics Engineer, AI & DX Analytics",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore9/senior-data-engineer-london-441631",
-    "description": "<p><strong>Soho, London</strong></p>\n<p><strong>Hybrid working: 3 days in the office Tues - Thurs</strong></p>\n<p><strong>The Role</strong></p>\n<p>We are seeking a Senior Data Engineer to join our Data Team, taking a leading role in building the complex, scalable systems that power our data strategy. You will lead architectural discussions, own the design of business-critical data solutions and deliver high-quality systems that bring millions of fans closer to the sports they love. This is a fantastic opportunity to lead the optimisation of our data platforms for real-time AI/ML workloads, mentor engineers and make a significant impact on our business. The Senior Data Engineer leads technical initiatives, maintains data integrity and performance, and works across teams to translate complex business requirements into effective data solutions. The role also uses automation and artificial intelligence to improve efficiency, decision-making and productivity across the organisation.</p>\n<p>At LiveScore Group, we’re the proud home of three of the most exciting brands in the sports and gaming world: LiveScore, LiveScore Bet and Virgin Bet. A fully owned and operated ecosystem that converges the two worlds of sports media and sports betting. We’re proud of the high ratings for our commitment to excellence and fueling fan’s passion for sport driving us to the top.</p>\n<p>We don’t just lead; we innovate. Our cutting-edge products and immersive experiences set the standard, but it’s our people who truly make the difference. Every day, our team embody our values: adaptability, teamwork, a fan-driven approach, and an ever-curious mindset that fuels our ambition. As we scale and continue to create a culture that allows all employees to thrive, we know we need the most talented people with diverse backgrounds, perspectives and skills. If you’re good at what you do, come and join us. The more inclusive we are, the more amazing experiences we can create for our users.</p>\n<p><em>We…",
+    "url": "http://block.xyz/careers/jobs/5424561008?gh_jid=5424561008",
+    "description": "Block builds simple, powerful tools that make progress towards an economy that’s truly open to all.\n Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Join us.\n The Role\n The AI & DX Analytics team exists to measure and improve Block's developer experience and investment in AI. We turn raw engineering signals (agent session data, pull request and CI activity, and AI spend) into reporting and analysis that shape leadership's AI investment decisions, and drive improvement in AI ROI and developer experience.\n We're hiring a Senior Analytics Engineer to own parts of that pipeline end to end. This role drives two key parts: You will instrument new telemetry at the source and build production pipelines that turn it into governed data. You will then turn that governed data into executive-facing reporting that leadership will use to decide where AI investment is working and where to redirect it, and into the analysis that surfaces concrete opportunities to improve AI ROI and developer experience. You'll define new metrics and craft the visual narrative — the charts, dashboards, and presentation materials — that make them land with an executive audience. AI-first workflows are central to how this team operates and critical to succeeding in this role: using AI coding agents is a default part of how you build and maintain pipelines and dashboards. You’ll excel in this role if you're as comfortable defining and visualizing a brand new executive-facing metric from a messy signal as you are d…",
     "tags": [
-      "Technology"
+      "10410 Engineering - Developer Experience"
     ],
-    "postedAt": "2026-09-18T00:55:05.000Z",
-    "scrapedAt": "2026-09-18T08:05:39.548Z"
+    "postedAt": "2026-09-17T16:08:50.000Z",
+    "scrapedAt": "2026-09-18T13:21:25.299Z"
   },
   {
-    "id": "arbeitnow:remote-senior-oracle-data-engineer-karlsruhe-51203",
-    "externalId": "remote-senior-oracle-data-engineer-karlsruhe-51203",
-    "source": "arbeitnow",
-    "title": "Senior Oracle Data Engineer (m/w/d)",
-    "company": "virtual7 GmbH",
-    "location": "Homeoffice",
-    "remote": true,
-    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-51203",
-    "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Finance.\n DEINE MISSION Als Senior Oracle Data Engineer (m/w/d) übernimmst du fachliche Verantwortung für anspruchsvolle Datenbanklösungen und gestaltest performante, sichere Anwendungen auf Basis von Oracle-Technologien. Du bringst deine Expertise in SQL, PL/SQL und Oracle Data Integrator ein, koordinierst das Entwicklerteam und sorgst mit sicherem Auftreten dafür, dass Projektleitung und Endkunde jederzeit bestens abgeholt sind.\n Deine Aufgaben:\n Entwicklung und Weiterentwicklung von Datenbanklösungen auf Basis von Oracle sowie SQL und PL/SQL\n Erfahrung in der Konzeption und Umsetzung von Integrationsprozessen mit Oracle Data Integrator (ODI) sind wünschenswert\n Übernahme fachlicher Verantwortung für Themen und Anforderungen im Projektkontext\n Aktive Unterstützung und Koordination des Entwicklerteams\n Zügige Einarbeitung in neue Technologien und Themenstellungen\n Nutzung von Jira und Confluence zur Planung, Dokumentation und Nachverfolgung der Entwicklungsarbeiten\n Sicherer Umgang mit Git und gängigen Entwicklungswerkzeugen wie Visual Studio Code\n Moderation, Kommunikation und adressatengerechte Vermittlung technischer Inhalte\n Sicheres Auftreten in Abstimmungen mit der Projektleitung und dem Endkunden\n DAS IST UNS WICHTIG Sehr gute Kenntnisse in Oracle-Datenbanken sowie SQL und PL/SQL\n Grundkenntnisse in Oracle Data Integrator (ODI)\n Erfahrung mit Jira und Confluence\n Sicherer Umgang mit Git und gängigen Entwicklungswerkzeugen, beispielsweise Visual Studio Code\n Fähigkeit zur Übernahme fachlicher Verantwortung\n Gute Moderations-, K…",
-    "tags": [
-      "Customer Cluster Finance",
-      "Remote",
-      "Experienced",
-      "fulltime permanent"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-09-17T23:30:14.000Z",
-    "scrapedAt": "2026-09-18T08:05:39.548Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-bristol-234812",
-    "externalId": "data-engineer-bristol-234812",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Graphcore",
-    "location": "Bristol",
+    "id": "greenhouse:anthropic-5424111008",
+    "externalId": "anthropic:5424111008",
+    "source": "greenhouse",
+    "title": "Recruiting Analytics Data Engineer",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/data-engineer-bristol-234812",
-    "description": "<p><strong><span data-contrast=\"auto\">About us</span></strong><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">Graphcore is one of the world's leading innovators in Artificial Intelligence compute. It is developing hardware, software and systems infrastructure that will unlock the next generation of AI breakthroughs and power the widespread adoption of AI solutions across every industry.</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">As part of the SoftBank Group, Graphcore is a member of an elite family of companies responsible for some of the world's most transformative technologies. Together, they share a bold vision: to enable Artificial Super Intelligence and ensure its benefits are accessible to everyone.</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">Graphcore's teams are drawn from diverse backgrounds and bring a broad range of skills and perspectives. A melting pot of AI research specialists, silicon designers, software engineers and systems architects, Graphcore brings together deep expertise to solve complex problems and deliver meaningful progress in AI compute.</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><strong><span data-contrast=\"auto\">Job Summary</span></strong><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">Reporting to the Head of Data &amp; Transformation, the Staff Data Engineer – Agentic Applications is a senior individual contributor responsible for designing, building and operating Python-based web applications, agentic workflows and supporting data services for Graphcore’s business teams. The role combines strong data engineering foundations with hands-on application development, using AI agents, trusted data and business system integrations to improve decision-making and automate operational workflows.</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">Depending on the use case, you will…",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424111008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\n We are seeking a Recruiting Analytics Data Engineer to join our People Data Solutions team, focusing on building and maintaining the data infrastructure that powers our recruiting analytics capabilities. You'll be the technical foundation for our recruiting analytics team, designing scalable data architectures and implementing robust data models that enable evidence-based decision-making across Anthropic.\n This role sits at the intersection of data engineering and recruiting analytics - you'll build the technical foundation for insights about recruiting funnels, interviews, and workforce planning while working with a team that's actively experimenting with AI to transform how we understand and support our workforce.\n Key responsibilities\n Data Infrastructure & Modeling\n Refactor and optimize our existing BigQuery tables to create a scalable data foundation that supports and enables AI-driven data insights across the company\n Design scalable data architectures and build dimensional models that transform raw HR data into trusted, reusable datasets for self-serve analytics while maintaining performance\n Implement data governance including documentation, lineage tracking, quality monitoring, and proactive alerting systems\n Ensure appropriate data access controls including row and column-level security for sensitive candidate data\n Pipeline Development & Integration\n Build and maintain ETL/ELT pipelines using dbt and Google BigQuery to integrate data from our HRIS (Workday), ATS (Greenhouse), and internal tools\n Create reliable data flows that handle both real-time needs and batch processing requirements\n Design fault-to…",
     "tags": [
-      "Data Analytics"
+      "People"
     ],
-    "postedAt": "2026-09-17T21:55:26.000Z",
-    "scrapedAt": "2026-09-18T08:05:39.548Z"
+    "postedAt": "2026-09-15T01:14:53.000Z",
+    "scrapedAt": "2026-09-18T13:21:25.299Z"
   },
   {
-    "id": "arbeitnow:data-engineer-paris-france-marseille-france-bordeaux-france-biarritz-france-brussels-belgium-305907",
-    "externalId": "data-engineer-paris-france-marseille-france-bordeaux-france-biarritz-france-brussels-belgium-305907",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Alan",
-    "location": "Paris, France; Marseille, France; Bordeaux, France; Biarritz, France; Brussels, Belgium",
+    "id": "greenhouse:lyft-8797376002",
+    "externalId": "lyft:8797376002",
+    "source": "greenhouse",
+    "title": "Data Engineer Intern (Summer 2027)",
+    "company": "Lyft",
+    "location": "Toronto, Canada",
     "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/alan/data-engineer-paris-france-marseille-france-bordeaux-france-biarritz-france-brussels-belgium-305907",
-    "description": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t.\n Alan exists to end the wait.\n Health is a universal right, and we believe this right can only become real when it’s coupled with prevention. We need to stop treating health as something we repair and start treating it as something we build, every day. It’s not solely a question of willpower. It’s the healthcare system itself that needs to work for everyone, in a sustainable way.\n So we are building the new standard in prevention insurance. Alan is the first company that integrates insurance, prevention, and care into a single, acclaimed user experience.\n We are on an incredible journey to build a global leading company, with a unique culture . We already partner with 40K+ companies of all sizes, serving more than 1M+ members, and have reached €800M+ in ARR.\n Prevention as the new norm. That's what we're building with our team of 800+ people. If it speaks to you: we're hiring across France, Spain, Belgium, and Canada. And beyond.\n ⭐️ The Data Foundations team ⭐ At Alan, every decision we make about our members' care, contracts and claims is a data decision. The Data Foundations team builds the platform that makes those decisions possible in a safe way.\n Being part of the Data Foundations team means you’ll build, maintain, and improve the Data Platform used by everyone at Alan.\n We enable Alan’s data-driven nature and help our colleagues make the most of their data.\n Partner closely with people across Alan (technical and non-technical) to understand their needs and build data solutions they can trust and use effectively.\n We own and manage all data-related tools that power Alan.\n AI is changing the way companies work with data: agents are becoming first-class users of our data warehouse. It opens a world of new usage and exciting features, as well as concerns around security, data…",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
+    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n Interns work side-by-side with top engineers in the industry while having autonomy from the get-go. They contribute to user-facing products and are able to see their work go live quickly. Lyft fosters a collaborative environment in the office, so there's always a sharp mind eager to hear about your next idea. So what's yours?\n Responsibilities:\n Own your project, while checking in with other team members throughout the day with questions and updates\n You leave the code in a better state than when you found it (progressive refactor)\n You value reliability, ensured by testing\n Participate in code reviews to ensure code quality and distribute knowledge\n Continuous integration and deployment\n Go home knowing that your work today is meaningfully improving the lives of every Lyft driver and every Lyft passenger!\n Experience:\n Currently pursuing a Bachelor's or Master's degree in Computer Science, Data Science or related major from a university in Canada (required) , with a graduation date between December 2027 and Summer 2028 (required) . For any candidates who are master's students who worked between their bachelor's and master's programs: candidates should also have less than 2 years of relevant full-time work experience\n Available during Summer 2027 for an internship in Toronto\n Strong knowledge of CS fundamentals\n Knowledge of SQL and data modeling fundamentals\n Experience working with databases\n Excellent communication skills\n Interest in solving large scale data problems in a real world scenario\n Passion for community, sustainability, and/or transportation\n Benefits:\n Mental health benefits\n In addition to holidays, interns receive 2 days paid time off and 3 days sick time off\n Subsidized commuter benefits and Lyft ride credits\n Lyft is committed to creating an inclusive workforce that fosters belo…",
     "tags": [
-      "Data",
-      "Full Time"
+      "Early Talent"
     ],
-    "jobType": "Full Time",
-    "postedAt": "2026-09-17T16:40:12.000Z",
-    "scrapedAt": "2026-09-18T08:05:39.548Z"
+    "postedAt": "2026-09-11T16:48:58.000Z",
+    "scrapedAt": "2026-09-18T13:21:25.299Z"
+  },
+  {
+    "id": "greenhouse:anthropic-5418610008",
+    "externalId": "anthropic:5418610008",
+    "source": "greenhouse",
+    "title": "Data Engineer, GTM",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418610008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the Role\n As a Data Engineer on the Data Science & Analytics team, you will build the data foundation for Anthropic’s quote-to-cash lifecycle: the path a deal takes from opportunity through revenue. You will design the canonical data models so that Sales, Deal Desk, Order Management, Revenue Operations and Finance work from one governed, auditable definition of what was sold, on what terms, and where each deal stands. You will partner closely with DS&A and with GTM and Finance systems teams who own Salesforce, CPQ and billing to make quote-to-cash data reliable, well-modeled and self-serve as our business scales.\n Responsibilities\n Understand the data needs of Deal Desk, Order Management, Revenue Operations, Finance and Sales systems teams, and translate them into technical requirements\n Design, build and own data models that transform raw Salesforce, CPQ, and billing data into canonical datasets\n Establish high data integrity standards and SLAs to ensure timely, accurate delivery of data\n Partner with Salesforce, CPQ and billing engineers on upstream schema changes, new fields and ingestion so the warehouse faithfully mirrors the systems of record\n Build foundational data products, dashboards and tools to enable self-serve analytics to scale across GTM teams\n Influence stakeholder roadmaps from a data perspective, and become the expert on Anthropic’s GTM data models and architecture\n You might be a good fit if you have\n 5+ years of experience as a Data Engineer, Analytics Engineer or in a similar Data Science & Analytics role, ideally partnering with GTM, Revenue Operations or Finance teams.\n A passion for the company's miss…",
+    "tags": [
+      "Data Science & Analytics"
+    ],
+    "postedAt": "2026-09-09T02:30:44.000Z",
+    "scrapedAt": "2026-09-18T13:21:25.299Z"
+  },
+  {
+    "id": "greenhouse:coinbase-8175471",
+    "externalId": "coinbase:8175471",
+    "source": "greenhouse",
+    "title": "Analytics Engineer Intern",
+    "company": "Coinbase",
+    "location": "Hybrid - San Francisco, CA",
+    "remote": false,
+    "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n This is a 12-week internship during summer 2027.\n You'll join the Analytics Engineering team within Platform, which builds and maintains the trusted data infrastructure that powers decision-making across Coinbase. As an Analytics Engineer Intern, you'll model complex data, build scalable pipelines, and deliver insights that help teams across the company unlock the full potential of our data. You will gain hands-on experience building production data systems at scale, mentorship from senior analytics engineers, and exposure to how data powers decision-making across a publicly traded crypto-native company.\n What you'll do:\n Build and maintain dimensional data models that transform raw data into clean, reliable datasets used by analysts, data scientists, and product teams across the organization.\n Develop data pipelines using SQL, ensuring data quality, freshness, and documentation meet production standards.\n Partner with cross-functional stakeholders to understand their data needs and deliver well-structured datasets or dashboards that enable self-serve analytics.\n Leverage generative AI tools to streamline data development, modeling, and documentation workflows.\n Investigate and resolve data quality issues, implementing tests and monitors that catch problems before they reach downstream consumers.\n Required Skills and Experience:\n Currently pursuing a degree in computer science…",
+    "tags": [
+      "Internships & Emerging Talent Positions"
+    ],
+    "postedAt": "2026-09-08T22:20:56.000Z",
+    "scrapedAt": "2026-09-18T13:21:25.299Z"
   }
 ]
