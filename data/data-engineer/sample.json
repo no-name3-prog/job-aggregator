@@ -1,5 +1,24 @@
 [
   {
+    "id": "arbeitnow:junior-data-engineer-hamburg-63055",
+    "externalId": "junior-data-engineer-hamburg-63055",
+    "source": "arbeitnow",
+    "title": "Junior Data Engineer",
+    "company": "Reeeliance",
+    "location": "Hamburg",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/reeeliance/junior-data-engineer-hamburg-63055",
+    "description": "About the role Data is undeniably one of the world's most valuable resources. However, it's futile if it's not in the right place or the right setup. We strive to place data where it's needed most and can be used to its fullest potential.\n Become a valued member of our data integration team and start your journey building scalable data architectures and fast data pipelines for our multinational clients. Our use cases range from data warehouse and lakehouse architecture implementations over IoT and data streaming setups to sophisticated AI scenarios, in industries ranging from manufacturing, consumer products, and healthcare to banking and insurance, just to name a few.\n Your responsibilities You will support the team in designing, building, and maintaining data pipelines according to client business needs and embedding them end-to-end into the given data stack\n On this role, you will assist in maintaining and optimizing data infrastructure required for data extraction, transformation, and loading (ETL/ELT) from a wide variety of data sources\n As a junior Data Engineer, you will build, test, and deploy data artifacts on cloud platforms using modern version control best practices\n You will collaborate with senior engineers to ensure data accuracy, integrity, privacy, security, and compliance by applying data quality assurance methods\n Monitoring data pipeline performance and assisting in identifying opportunities for pipeline optimization\n In this role, you will work closely together with both reeeliance and client staff as part of an agile project team\n Our requirements Solid foundational knowledge of data modeling concepts and modern data warehousing architectures\n Proficiency in Python and strong SQL skills for querying and manipulating complex datasets\n Hands-on experience with Git for version control and collaborative development\n Practical exposure to or understanding of working within cloud environments (such as Azure or AWS)\n Eagerness to learn new ETL/ELT to…",
+    "tags": [
+      "Entry",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Entry",
+    "postedAt": "2026-09-19T17:09:54.000Z",
+    "scrapedAt": "2026-09-19T19:59:23.829Z"
+  },
+  {
     "id": "arbeitnow:remote-data-engineer-73233",
     "externalId": "remote-data-engineer-73233",
     "source": "arbeitnow",
@@ -13,7 +32,7 @@
       "Data & AI"
     ],
     "postedAt": "2026-09-19T15:55:11.000Z",
-    "scrapedAt": "2026-09-19T17:45:00.230Z"
+    "scrapedAt": "2026-09-19T19:59:23.829Z"
   },
   {
     "id": "jobicy:153638",
@@ -32,7 +51,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-09-19T12:39:52.000Z",
-    "scrapedAt": "2026-09-19T17:45:00.339Z"
+    "scrapedAt": "2026-09-19T19:59:23.921Z"
   },
   {
     "id": "arbeitnow:staff-data-engineer-442323",
@@ -48,7 +67,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-19T07:55:05.000Z",
-    "scrapedAt": "2026-09-19T17:45:00.230Z"
+    "scrapedAt": "2026-09-19T19:59:23.829Z"
   },
   {
     "id": "arbeitnow:data-engineering-manager-paris-paris-villeneuve-dascq-nord-76458",
@@ -64,7 +83,7 @@
       "Data"
     ],
     "postedAt": "2026-09-19T07:55:03.000Z",
-    "scrapedAt": "2026-09-19T17:45:00.230Z"
+    "scrapedAt": "2026-09-19T19:59:23.829Z"
   },
   {
     "id": "arbeitnow:data-engineer-confirmed-core-data-product-paris-paris-villeneuve-dascq-nord-351322",
@@ -80,7 +99,7 @@
       "Data"
     ],
     "postedAt": "2026-09-19T07:55:03.000Z",
-    "scrapedAt": "2026-09-19T17:45:00.230Z"
+    "scrapedAt": "2026-09-19T19:59:23.829Z"
   },
   {
     "id": "arbeitnow:remote-senior-analytics-engineer-455638",
@@ -97,7 +116,7 @@
       "Legal & Corporate Services"
     ],
     "postedAt": "2026-09-19T03:55:04.000Z",
-    "scrapedAt": "2026-09-19T17:45:00.230Z"
+    "scrapedAt": "2026-09-19T19:59:23.829Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -113,7 +132,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-09-19T17:45:00.780Z"
+    "scrapedAt": "2026-09-19T19:59:24.419Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -129,7 +148,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-09-19T17:45:00.780Z"
+    "scrapedAt": "2026-09-19T19:59:24.419Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -145,22 +164,6 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-19T17:45:00.780Z"
-  },
-  {
-    "id": "greenhouse:anthropic-5418610008",
-    "externalId": "anthropic:5418610008",
-    "source": "greenhouse",
-    "title": "Data Engineer, GTM",
-    "company": "Anthropic",
-    "location": "San Francisco, CA | New York City, NY",
-    "remote": false,
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418610008",
-    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the Role\n As a Data Engineer on the Data Science & Analytics team, you will build the data foundation for Anthropic’s quote-to-cash lifecycle: the path a deal takes from opportunity through revenue. You will design the canonical data models so that Sales, Deal Desk, Order Management, Revenue Operations and Finance work from one governed, auditable definition of what was sold, on what terms, and where each deal stands. You will partner closely with DS&A and with GTM and Finance systems teams who own Salesforce, CPQ and billing to make quote-to-cash data reliable, well-modeled and self-serve as our business scales.\n Responsibilities\n Understand the data needs of Deal Desk, Order Management, Revenue Operations, Finance and Sales systems teams, and translate them into technical requirements\n Design, build and own data models that transform raw Salesforce, CPQ, and billing data into canonical datasets\n Establish high data integrity standards and SLAs to ensure timely, accurate delivery of data\n Partner with Salesforce, CPQ and billing engineers on upstream schema changes, new fields and ingestion so the warehouse faithfully mirrors the systems of record\n Build foundational data products, dashboards and tools to enable self-serve analytics to scale across GTM teams\n Influence stakeholder roadmaps from a data perspective, and become the expert on Anthropic’s GTM data models and architecture\n You might be a good fit if you have\n 5+ years of experience as a Data Engineer, Analytics Engineer or in a similar Data Science & Analytics role, ideally partnering with GTM, Revenue Operations or Finance teams.\n A passion for the company's miss…",
-    "tags": [
-      "Data Science & Analytics"
-    ],
-    "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-19T17:45:00.780Z"
+    "scrapedAt": "2026-09-19T19:59:24.419Z"
   }
 ]
