@@ -1,5 +1,40 @@
 [
   {
+    "id": "arbeitnow:remote-data-engineer-73233",
+    "externalId": "remote-data-engineer-73233",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "prolific",
+    "location": "Remote",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-data-engineer-73233",
+    "description": "<h1 style=\"text-align: center;\"><span style=\"font-family: tahoma, arial, helvetica, sans-serif;\"><span style=\"color: rgb(126, 140, 141);\">Data Engineer&nbsp; </span>&nbsp; &nbsp;&nbsp;</span></h1>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"color: rgb(126, 140, 141); font-family: tahoma, arial, helvetica, sans-serif;\"><em>Prolific</em></span></p>\n<p><span style=\"font-family: tahoma, arial, helvetica, sans-serif;\">Prolific is not just another player in the AI space—we are the architects of the human data infrastructure that's reshaping the landscape of AI development. In a world where foundational AI technologies are increasingly commoditized, it's the quality and diversity of human-generated data that truly differentiates products and models.</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"color: rgb(126, 140, 141); font-family: tahoma, arial, helvetica, sans-serif;\"><em>The role</em></span></p>\n<p><span style=\"font-family: tahoma, arial, helvetica, sans-serif;\">We're looking for a Data Engineer to help build scalable data solutions that serve teams across the business—from data scientists and analysts to AI engineers and product teams. You'll contribute to both the underlying platform and the way data is used in our products, working in a modern, cloud-native environment where privacy, security, and good data practices are part of how we build.</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"color: rgb(126, 140, 141); font-family: tahoma, arial, helvetica, sans-serif;\"><em>What you’ll bring to the role</em></span></p>\n<ul>\n<li style=\"font-family: tahoma, arial, helvetica, sans-serif;\"><span style=\"font-family: tahoma, arial, helvetica, sans-serif;\">Technical Expertise: 3+ years building and shipping production-grade data systems, with strong SQL skills and proficiency in Python or another object-oriented language (Java, Scala…",
+    "tags": [
+      "Data & AI"
+    ],
+    "postedAt": "2026-09-19T15:55:11.000Z",
+    "scrapedAt": "2026-09-19T17:45:00.230Z"
+  },
+  {
+    "id": "jobicy:153638",
+    "externalId": "153638",
+    "source": "jobicy",
+    "title": "Data Engineer (FedD024)",
+    "company": "Defense Unicorns",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/44a44784-221-1.png",
+    "location": "USA",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/153638-data-engineer-fedd024",
+    "description": "EMPLOYER IS A CONTRACTOR FOR THE U.S. GOVERNMENT. THIS POSITION WILL REQUIRE U.S. CITIZENSHIP.\n Responsibilities:\n Designing data workflows, pipelines, and pathways to support ETL/ELT, while ensuring data-quality and exchange of sensitive information across AWS cloud and on-prem environments.\n Implementing systems engineering principles to ensure the reliability, scalability, and maintainability of data layer systems, including backup and recovery strategies\n Architecting, deploying, and operating data streaming technologies (Kafka, Redpanda, Kinesis, etc ) on Kubernetes with an emphasis on declarative definitions to reduce complexity in day-2 operations\n Working with a platform team to implement best practices for configuration management, security, and performance optimization within Kubernetes and AWS environments\n Working with a platform team to automate infrastructure provisioning, monitoring, and scaling using tools such as Terraform working with cybersecurity SMEs to incorporate best practices and techniques to defend our data layer against potential threats\n Ensuring that our data layer systems are compliant with industry and DoD regulations, standards, and best-practices\n Staying up-to-date with industry trends and emerging technologies related to Kubernetes, containerization, and data engineering\n Travel Expectations/Requirements: 6-10 times per year\n The listed responsibilities are not exhaustive and additional responsibilities may be assigned based on the evolving needs of the organization. We are seeking a dynamic individual who is able to adapt and take on new responsibilities as they arise.\n * Preferred Experience and Qualifications:\n Demonstrated experience (minimum 5 years) in building and maintaining production data pipelines, databases, and data exchange services on Kubernetes Experience in designing, deploying, and operating Kafka / Redpanda data streaming solutions on Kubernetes\n Experience in creating data pipelines from scratch with the abili…",
+    "tags": [
+      "Data Science & Analytics",
+      "Any"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-09-19T12:39:52.000Z",
+    "scrapedAt": "2026-09-19T17:45:00.339Z"
+  },
+  {
     "id": "arbeitnow:staff-data-engineer-442323",
     "externalId": "staff-data-engineer-442323",
     "source": "arbeitnow",
@@ -13,7 +48,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-19T07:55:05.000Z",
-    "scrapedAt": "2026-09-19T12:51:36.670Z"
+    "scrapedAt": "2026-09-19T17:45:00.230Z"
   },
   {
     "id": "arbeitnow:data-engineering-manager-paris-paris-villeneuve-dascq-nord-76458",
@@ -29,7 +64,7 @@
       "Data"
     ],
     "postedAt": "2026-09-19T07:55:03.000Z",
-    "scrapedAt": "2026-09-19T12:51:36.670Z"
+    "scrapedAt": "2026-09-19T17:45:00.230Z"
   },
   {
     "id": "arbeitnow:data-engineer-confirmed-core-data-product-paris-paris-villeneuve-dascq-nord-351322",
@@ -45,7 +80,7 @@
       "Data"
     ],
     "postedAt": "2026-09-19T07:55:03.000Z",
-    "scrapedAt": "2026-09-19T12:51:36.670Z"
+    "scrapedAt": "2026-09-19T17:45:00.230Z"
   },
   {
     "id": "arbeitnow:remote-senior-analytics-engineer-455638",
@@ -62,7 +97,7 @@
       "Legal & Corporate Services"
     ],
     "postedAt": "2026-09-19T03:55:04.000Z",
-    "scrapedAt": "2026-09-19T12:51:36.670Z"
+    "scrapedAt": "2026-09-19T17:45:00.230Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -78,7 +113,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-09-19T12:51:37.252Z"
+    "scrapedAt": "2026-09-19T17:45:00.780Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -94,7 +129,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-09-19T12:51:37.252Z"
+    "scrapedAt": "2026-09-19T17:45:00.780Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -110,7 +145,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-19T12:51:37.252Z"
+    "scrapedAt": "2026-09-19T17:45:00.780Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -126,38 +161,6 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-19T12:51:37.252Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8175471",
-    "externalId": "coinbase:8175471",
-    "source": "greenhouse",
-    "title": "Analytics Engineer Intern",
-    "company": "Coinbase",
-    "location": "Hybrid - San Francisco, CA",
-    "remote": false,
-    "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n This is a 12-week internship during summer 2027.\n You'll join the Analytics Engineering team within Platform, which builds and maintains the trusted data infrastructure that powers decision-making across Coinbase. As an Analytics Engineer Intern, you'll model complex data, build scalable pipelines, and deliver insights that help teams across the company unlock the full potential of our data. You will gain hands-on experience building production data systems at scale, mentorship from senior analytics engineers, and exposure to how data powers decision-making across a publicly traded crypto-native company.\n What you'll do:\n Build and maintain dimensional data models that transform raw data into clean, reliable datasets used by analysts, data scientists, and product teams across the organization.\n Develop data pipelines using SQL, ensuring data quality, freshness, and documentation meet production standards.\n Partner with cross-functional stakeholders to understand their data needs and deliver well-structured datasets or dashboards that enable self-serve analytics.\n Leverage generative AI tools to streamline data development, modeling, and documentation workflows.\n Investigate and resolve data quality issues, implementing tests and monitors that catch problems before they reach downstream consumers.\n Required Skills and Experience:\n Currently pursuing a degree in computer science…",
-    "tags": [
-      "Internships & Emerging Talent Positions"
-    ],
-    "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-19T12:51:37.252Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8175459",
-    "externalId": "coinbase:8175459",
-    "source": "greenhouse",
-    "title": "Data Engineer Intern",
-    "company": "Coinbase",
-    "location": "Hybrid - San Francisco, CA",
-    "remote": false,
-    "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n This is a 12-week internship during summer 2027.\n As a Data Engineer Intern within the Platform product group, you'll partner with analytics engineering to build and maintain the data pipelines and infrastructure that power insights across Coinbase. You'll work alongside senior engineers and cross-functional partners in product and engineering to ensure data accuracy, scalability, and accessibility for analytical and machine learning use cases.\n What you'll do:\n Build and maintain data pipelines that ensure data integrity and accessibility for analytics and machine learning workloads\n Support the development of scalable data infrastructure using Python and cloud-based technologies\n Integrate and manage data from multiple sources, including internal systems and external APIs\n Contribute to analytical deep dives with senior team members, translating findings into clear documentation and recommendations\n Learn and apply data engineering best practices including data governance, security, and performance optimization\n Required Skills and Experience:\n Completed or in-progress coursework in Computer Science, Data Engineering, or equivalent experience with demonstrated programming proficiency in Python, including data structures and algorithms\n Hands-on experience writing SQL for data analysis and working with relational database concepts\n Familiarity with cloud platforms (AWS, GCP,…",
-    "tags": [
-      "Internships & Emerging Talent Positions"
-    ],
-    "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-19T12:51:37.252Z"
+    "scrapedAt": "2026-09-19T17:45:00.780Z"
   }
 ]
