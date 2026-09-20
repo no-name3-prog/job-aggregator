@@ -245,6 +245,25 @@
     ]
   },
   {
+    "company": "Luxury Presence",
+    "jobCount": 2,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "USA",
+      "Canada"
+    ],
+    "sampleTitles": [
+      "Senior Analytics Engineer - US",
+      "Senior Analytics Engineer - CANADA"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/151266-senior-analytics-engineer-us",
+      "https://jobicy.com/jobs/151263-senior-analytics-engineer-canada"
+    ]
+  },
+  {
     "company": "Lyft",
     "jobCount": 2,
     "sources": [
@@ -333,22 +352,6 @@
     ]
   },
   {
-    "company": "Defense Unicorns",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "USA"
-    ],
-    "sampleTitles": [
-      "Data Engineer (FedD024)"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/153638-data-engineer-fedd024"
-    ]
-  },
-  {
     "company": "Discord",
     "jobCount": 1,
     "sources": [
@@ -397,35 +400,51 @@
     ]
   },
   {
-    "company": "prolific",
+    "company": "Mactores",
     "jobCount": 1,
     "sources": [
-      "arbeitnow"
+      "jobicy"
     ],
     "locations": [
-      "Remote"
+      "USA"
     ],
     "sampleTitles": [
-      "Data Engineer"
+      "AWS Data Engineer (Senior)"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-data-engineer-73233"
+      "https://jobicy.com/jobs/151146-aws-data-engineer-senior"
     ]
   },
   {
-    "company": "Reeeliance",
+    "company": "Ommax",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Hamburg"
+      "München"
     ],
     "sampleTitles": [
-      "Junior Data Engineer"
+      "Intern AI & Data Engineering (m/f/d)"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/reeeliance/junior-data-engineer-hamburg-63055"
+      "https://www.arbeitnow.com/jobs/companies/ommax/intern-ai-data-engineering-munchen-263792"
+    ]
+  },
+  {
+    "company": "remotewoman",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Remote • France, Spain or UK"
+    ],
+    "sampleTitles": [
+      "Senior Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/remotewoman/remote-senior-analytics-engineer-91565"
     ]
   },
   {
