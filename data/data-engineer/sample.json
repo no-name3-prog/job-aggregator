@@ -1,96 +1,82 @@
 [
   {
-    "id": "arbeitnow:remote-senior-analytics-engineer-91565",
-    "externalId": "remote-senior-analytics-engineer-91565",
+    "id": "arbeitnow:ml-data-engineer-sensor-data-pipelines-munich-deu-456196",
+    "externalId": "ml-data-engineer-sensor-data-pipelines-munich-deu-456196",
     "source": "arbeitnow",
-    "title": "Senior Analytics Engineer",
-    "company": "remotewoman",
-    "location": "Remote • France, Spain or UK",
+    "title": "ML Data Engineer (m/f/d) - Sensor Data & Pipelines",
+    "company": "autonomous-teaming",
+    "location": "Munich (DEU)",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/remotewoman/remote-senior-analytics-engineer-91565",
-    "description": "<h1><span style=\"font-size: 14pt; font-family: helvetica, arial, sans-serif;\">About Upsun (formerly Platform.sh)&nbsp;</span></h1>\n<p><span style=\"font-size: 12pt;\">Upsun is the cloud application platform humans and robots love. It is built for today’s hybrid teams, where AI agents write and test code and humans focus on solving the problems that really matter. Developers, DevOps engineers, and platform teams use Upsun to build, ship, and scale confidently without wrestling with backend infrastructure. We give you your time back. You get:</span></p>\n<ul>\n<li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Predictable performance, even at scale </span></li>\n<li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Secure, compliant environments by default&nbsp;</span></li>\n<li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Real-time observability and profiling built in </span></li>\n<li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Cloning, configuration, and provisioning in seconds&nbsp;</span></li>\n<li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">AI-ready features that plug directly into your stack </span></li>\n</ul>\n<p><span style=\"font-size: 12pt;\">The name says it all. \"Up\" means uptime, reliability, and acceleration. \"Sun\" reflects our follow-the-sun-support, a 24x7, globally distributed support team keeping the lights on while you rest. Our core belief is that software should power brighter solutions and greater innovation. </span></p>\n<p><span style=\"font-size: 12pt;\">Upsunners are a remote, global workforce, and we thrive in a multicultural team. We are committed to open source and an open, welcoming environment. Our team spans the globe and the experience spectrum. </span></p>\n<p><span style=\"font-size: 12pt;\">What's our commonality, our cultural fabric? A curious spirit and a thirst for knowledge; an eagerness for innovative ideas and cultures. We believe we can build anything together in an environment that frees yo…",
+    "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/ml-data-engineer-sensor-data-pipelines-munich-deu-456196",
+    "description": "What we offer Work in an international, agile team creating the future of autonomous systems Grow your career in a expanding and ambitious engineering team Build innovative products using state-of-the-art technologies in AI, robotics, and autonomy  Benefit from a steep learning curve and continuous development Enjoy team events and a strong, collaborative culture\n Your mission This role owns the data foundation of our perception systems end-to-end — the layer that directly determines model performance in real-world environments. You'll set the technical direction for how we collect, curate, and continuously improve the datasets behind object detection, working as a senior technical partner to ML, perception, and robotics teams — turning raw, messy sensor data into reliable, production-grade systems at scale.\nYou will take full ownership of the ML data lifecycle — from architecture decisions on ingestion and pipelines, through labeling strategy and QA, to driving continuous, metrics-informed dataset improvement — and will be expected to bring judgment and prior experience to how this is done, not just execute a defined process.\nWhat you'll do:\n Architect and own scalable pipelines for ingesting, organizing, and preprocessing large volumes of time-series camera and multi-sensor data (RGB, IR, thermal, depth, IMU) Drive the strategy behind our object detection datasets, ensuring quality, diversity, and statistical representativeness at scale Design and operate active learning loops that connect model performance directly to data selection and improvement priorities Own labeling workflows end-to-end — tooling decisions, QA methodology, consistency standards, and coordination of annotation efforts Partner closely with AI Engineers to diagnose model weaknesses, bias, and drift, and translate findings into concrete dataset strategy Plan and lead data collection campaigns (field recordings, drone/video capture) to close gaps with high-value real-world data Build internal t…",
     "tags": [
-      "Finance",
-      "Legal & Corporate Services"
-    ],
-    "postedAt": "2026-09-20T08:55:06.000Z",
-    "scrapedAt": "2026-09-20T10:33:23.861Z"
-  },
-  {
-    "id": "arbeitnow:intern-ai-data-engineering-munchen-263792",
-    "externalId": "intern-ai-data-engineering-munchen-263792",
-    "source": "arbeitnow",
-    "title": "Intern AI & Data Engineering (m/f/d)",
-    "company": "Ommax",
-    "location": "München",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/ommax/intern-ai-data-engineering-munchen-263792",
-    "description": "What we look for: You support client projects in turning AI opportunities into practical, valuable, and scalable solutions. You contribute to the development and implementation of AI and automation use cases, from the initial idea to technical prototypes. You help build software components, interfaces, and prototypes for concrete client applications. You prepare, integrate, and process data for AI applications and support the connection of different data sources. You contribute to the development and continuous improvement of data pipelines and technical foundations for scalable solutions. You work closely with AI specialists, data scientists, engineers, and consultants in interdisciplinary client projects. You evaluate new AI tools, models, and methods, assess their potential for relevant use cases, and document your findings.\n What we require: You are currently pursuing a degree in Computer Science, Data Science, Artificial Intelligence, Software Engineering, or a related field with excellent academic performance. You have gained initial hands-on experience in software development, ideally with Python. You have a strong interest in generative AI, machine learning, data engineering, and modern software architectures. Ideally, you have basic knowledge of databases, APIs, cloud technologies, or version control systems such as Git. You demonstrate strong analytical and solution-oriented thinking, with a structured, independent working style and high standards for quality. You are able to communicate technical topics clearly and enjoy collaborating with clients and multidisciplinary project teams. You have good German and English skills.\n What you can expect: Your impact is crucial: You develop solutions that connect AI strategy and technical implementation, creating tangible value for our clients. Your hard work pays off! You benefit from attractive salary packages, participation in sales success, and exclusive investment opportunities. In addition, we promote our to…",
-    "tags": [
-      "Student",
-      "Intern",
+      "Active Learning",
+      "Machine Learning",
+      "Python",
+      "Pandas",
+      "Data Orchestration",
+      "CVAT",
+      "NumPy",
+      "Data Engineering",
+      "Data Pipelines",
+      "Dataset Engineering",
+      "Data Processing",
+      "Data Lifecycle",
+      "ELT / ETL",
+      "Sensor Data",
+      "Video Data Processing",
+      "Experienced",
+      "Permanent",
       "Full time"
     ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-20T14:09:57.000Z",
+    "scrapedAt": "2026-09-20T15:21:52.079Z"
+  },
+  {
+    "id": "arbeitnow:data-platform-engineer-working-student-munchen-15969",
+    "externalId": "data-platform-engineer-working-student-munchen-15969",
+    "source": "arbeitnow",
+    "title": "Data Platform Engineer Working Student (m/w/d)",
+    "company": "Trusteq Gmbh",
+    "location": "München",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-15969",
+    "description": "YOUR TASKS You support the design and development of Databricks-native data platforms and lakehouse architectures for internal projects and client engagements. You contribute to implementing medallion architectures (Bronze, Silver, and Gold), including Auto Loader-based data ingestion. You support the development of data governance concepts using tools such as Unity Catalog, including access control and permission models. You help automate deployments using Databricks Asset Bundles (DAB) and CI/CD pipelines. You contribute to developing data quality frameworks and monitoring solutions for production data platforms. You support the technical documentation of platform architectures and internal best practices. You contribute to internal tooling and demonstrator projects, actively helping shape and strengthen our Data Platform practice.\n YOUR PROFIL You are currently enrolled in an IT-related degree programme, such as Computer Science, Business Information Systems, Data Engineering, Data Science, or a related discipline. You have good knowledge of Python and SQL. Initial experience with Databricks and/or cloud data platforms such as Azure, AWS, or GCP is an advantage. You are interested in topics such as data lakehouses, data governance, Infrastructure as Code, and CI/CD. You have a basic understanding of data modelling and data integration processes (ETL/ELT). Experience with Git and version control is desirable. You work independently and in a structured manner and demonstrate strong teamwork and communication skills. You have excellent German and English language skills (at least C1 level in both languages). You are able to work from our Cologne or Munich office at least 50% of the time\n YOUR BENEFITS Supportive Team Culture: Team cohesion is important to us – we support one another and foster a healthy office culture. Our event team organizes regular after-work events to encourage exchange and connection beyond the workplace. Early Ownership & Responsibility: From…",
+    "tags": [
+      "Working Student",
+      "Working Student Data Analyst",
+      "Data Analyst",
+      "IT-Strategy",
+      "ESG",
+      "Working Student Data Engineer",
+      "Data Engineer",
+      "Data Bricks",
+      "Data Platform",
+      "Data Platform Engineer",
+      "Student",
+      "Working student",
+      "Part time"
+    ],
     "jobType": "Student",
-    "postedAt": "2026-09-20T08:09:27.000Z",
-    "scrapedAt": "2026-09-20T10:33:23.861Z"
+    "postedAt": "2026-09-20T14:09:23.000Z",
+    "scrapedAt": "2026-09-20T15:21:52.079Z"
   },
   {
-    "id": "jobicy:151146",
-    "externalId": "151146",
-    "source": "jobicy",
-    "title": "AWS Data Engineer (Senior)",
-    "company": "Mactores",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/cea77a13-221.jpeg",
-    "location": "USA",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/151146-aws-data-engineer-senior",
-    "description": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company, which absorbs the repetitive 60–70% of engagement work, discovery, dependency mapping, validation, test generation, that traditional consulting bills human hours against. Forward-deployed engineers own the rest: architecture, judgment, and cutover, on dates we commit to in the contract.\n This is a senior role in our Data Platform Modernization pillar: consolidating and migrating customer data infrastructure on AWS in weeks, not quarters, at meaningfully lower engagement cost than traditional data consulting. Customers come to us after a data program has stalled pipelines nobody trusts, warehouses nobody runs new workloads on, a modernization that produced diagrams instead of production systems.\n Aedeon handles automated source discovery, schema mapping, lineage extraction, and parallel-run validation. You own what agents can't: target architecture, data model decisions, pipeline design under real constraints, and the calls that make a cutover safe. You'll build with PySpark and SQL on EMR and Glue, model for Redshift, Snowflake, Athena, and Presto, orchestrate with Airflow and your work will reach production, not a slide deck.\n What you will do?\n Build and maintain data pipelines on Amazon EMR or Amazon Glue that run in production.\n Design data models and end-user querying on Amazon Redshift or Snowflake, Amazon Athena, and Presto.\n Build and maintain pipeline orchestration with Airflow.\n Work with customer and internal teams to understand data needs and design the solutions that meet them.\n Troubleshoot and optimize pipelines and data models until they hold up under real load.\n Write and maintain PySpark and SQL scripts to extr…",
+    "id": "arbeitnow:analytics-engineering-manager-london-406044",
+    "externalId": "analytics-engineering-manager-london-406044",
+    "source": "arbeitnow",
+    "title": "Analytics Engineering Manager",
+    "company": "Deliveroo",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/analytics-engineering-manager-london-406044",
+    "description": "<div class=\"content-intro\"><p><strong>Our Global Structure</strong></p>\n<p><br>Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team.</p></div><p>Join us in our mission to transform the way people shop and eat, where impact, innovation and growth drive everything we do. Our Analytics organisation sits at the heart of Deliveroo powering decision-making across our 3 sided marketplace.</p><p>We’re looking for an <strong>Analytics Engineering Manager</strong> to join our London team. This is a hybrid role, with 3 days per week on-site. In this role, you’ll lead a team of Analytics Engineers embedded in a key business domain, owning the pipelines, models and metrics that power day-to-day decisions and building the data foundations your stakeholders rely on.</p><p></p><h1><strong>About the Analytics Engineering Org</strong></h1><p>Analytics Engineering is a core pillar of Deliveroo’s Analytics organisation, alongside Data Science. With over 70 Analytics Engineers across the UK and India, we are embedded directly within product and business domains, owning the pipelines, models and metrics that power decision-making at scale: from self-serve AI-enabled analytics and experimentation through to executive reporting and strategic planning.</p><p></p><p>The discipline is evolving fast. With new tooling changing how we work, we are shifting from building data pipelines to building AI first data products, developing rich semantic and data context layers and empowering self-serve data users. This role leads that work across a defined business domain, directly managing a team of Analytics Engineers and helping shape AE standards, culture and direction across the wider org.</p><p></p><h1><strong>What You'll Be Doing</strong></h1><ul><li><p>Directly lead a team of A…",
     "tags": [
-      "Data Science & Analytics",
-      "Senior"
+      "Analytics Engineering (Restaurants)"
     ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-09-20T05:00:14.000Z",
-    "scrapedAt": "2026-09-20T10:33:23.937Z"
-  },
-  {
-    "id": "jobicy:151266",
-    "externalId": "151266",
-    "source": "jobicy",
-    "title": "Senior Analytics Engineer - US",
-    "company": "Luxury Presence",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/05/f2b241fb769140fff2f70e8efaf5c0ff.jpg",
-    "location": "USA",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/151266-senior-analytics-engineer-us",
-    "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.\n The Role\n We're looking for a Senior Analytics Engineer to build and scale the analytical foundation that powers decision-making across Go-to-Market, Product, Finance, People, and Operations teams.\n You will sit at the intersection of data engineering and analytics: transforming raw product, marketing, financial, and operational data into clean, well-modeled, and trustworthy datasets. Your work will power everything from executive dashboards and cohort analyses to experimentation, billing operations, AI-powered outreach, and semantic layers that let AI agents answer stakeholder questions autonomously.\n This is a highly cross-functional role — you'll partner closely with Product Management, Marketing, RevOps, Finance, People Ops, and Engineering to ensure our analytics stack is robust, scalable, and aligned with the business.\n Responsibilities\n Build & Own the Data Foundation\n Own and evolve our dbt project — ensuring models are performant, well-tested, and documented.\n Design and maintain the Snowflake data warehouse and ingestion processes.\n Use modern data modeling best practices to create core entities and datasets that account for complex business processes and logic.\n Build and maintain custom Python/Airflow pipelines to ingest data from third-party APIs into Snowflake.\n Design and operate cross-system reconciliation models that compare data across source systems to surface discrepancies and protect revenue.\n Drive Data Quality & Automation\n Implement testing and observability for analytics pipelines.\n Enforce CI/CD best practices, such as automation, linting, tests, code review and approvals.\n Standar…",
-    "tags": [
-      "Data Science & Analytics",
-      "Director"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-09-20T04:55:31.000Z",
-    "scrapedAt": "2026-09-20T10:33:23.937Z"
-  },
-  {
-    "id": "jobicy:151263",
-    "externalId": "151263",
-    "source": "jobicy",
-    "title": "Senior Analytics Engineer - CANADA",
-    "company": "Luxury Presence",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/05/f2b241fb769140fff2f70e8efaf5c0ff.jpg",
-    "location": "Canada",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/151263-senior-analytics-engineer-canada",
-    "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.\n The Role\n We're looking for a Senior Analytics Engineer to build and scale the analytical foundation that powers decision-making across Go-to-Market, Product, Finance, People, and Operations teams.\n You will sit at the intersection of data engineering and analytics: transforming raw product, marketing, financial, and operational data into clean, well-modeled, and trustworthy datasets. Your work will power everything from executive dashboards and cohort analyses to experimentation, billing operations, AI-powered outreach, and semantic layers that let AI agents answer stakeholder questions autonomously.\n This is a highly cross-functional role — you'll partner closely with Product Management, Marketing, RevOps, Finance, People Ops, and Engineering to ensure our analytics stack is robust, scalable, and aligned with the business.\n Responsibilities\n Build & Own the Data Foundation\n Own and evolve our dbt project — ensuring models are performant, well-tested, and documented.\n Design and maintain the Snowflake data warehouse and ingestion processes.\n Use modern data modeling best practices to create core entities and datasets that account for complex business processes and logic.\n Build and maintain custom Python/Airflow pipelines to ingest data from third-party APIs into Snowflake.\n Design and operate cross-system reconciliation models that compare data across source systems to surface discrepancies and protect revenue.\n Drive Data Quality & Automation\n Implement testing and observability for analytics pipelines.\n Enforce CI/CD best practices, such as automation, linting, tests, code review and approvals.\n Standar…",
-    "tags": [
-      "Data Science & Analytics",
-      "Director"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-09-20T04:55:27.000Z",
-    "scrapedAt": "2026-09-20T10:33:23.937Z"
+    "postedAt": "2026-09-20T12:55:05.000Z",
+    "scrapedAt": "2026-09-20T15:21:52.079Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -106,7 +92,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-09-20T10:33:24.328Z"
+    "scrapedAt": "2026-09-20T15:21:52.634Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -122,7 +108,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-09-20T10:33:24.328Z"
+    "scrapedAt": "2026-09-20T15:21:52.634Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -138,7 +124,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-20T10:33:24.328Z"
+    "scrapedAt": "2026-09-20T15:21:52.634Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -154,7 +140,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-20T10:33:24.328Z"
+    "scrapedAt": "2026-09-20T15:21:52.634Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -170,6 +156,38 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-20T10:33:24.328Z"
+    "scrapedAt": "2026-09-20T15:21:52.634Z"
+  },
+  {
+    "id": "greenhouse:coinbase-8175459",
+    "externalId": "coinbase:8175459",
+    "source": "greenhouse",
+    "title": "Data Engineer Intern",
+    "company": "Coinbase",
+    "location": "Hybrid - San Francisco, CA",
+    "remote": false,
+    "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n This is a 12-week internship during summer 2027.\n As a Data Engineer Intern within the Platform product group, you'll partner with analytics engineering to build and maintain the data pipelines and infrastructure that power insights across Coinbase. You'll work alongside senior engineers and cross-functional partners in product and engineering to ensure data accuracy, scalability, and accessibility for analytical and machine learning use cases.\n What you'll do:\n Build and maintain data pipelines that ensure data integrity and accessibility for analytics and machine learning workloads\n Support the development of scalable data infrastructure using Python and cloud-based technologies\n Integrate and manage data from multiple sources, including internal systems and external APIs\n Contribute to analytical deep dives with senior team members, translating findings into clear documentation and recommendations\n Learn and apply data engineering best practices including data governance, security, and performance optimization\n Required Skills and Experience:\n Completed or in-progress coursework in Computer Science, Data Engineering, or equivalent experience with demonstrated programming proficiency in Python, including data structures and algorithms\n Hands-on experience writing SQL for data analysis and working with relational database concepts\n Familiarity with cloud platforms (AWS, GCP,…",
+    "tags": [
+      "Internships & Emerging Talent Positions"
+    ],
+    "postedAt": "2026-09-08T22:19:13.000Z",
+    "scrapedAt": "2026-09-20T15:21:52.634Z"
+  },
+  {
+    "id": "greenhouse:coinbase-8180833",
+    "externalId": "coinbase:8180833",
+    "source": "greenhouse",
+    "title": "Senior Market Data Engineer",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "remote": true,
+    "url": "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Coinbase is building the future of institutional trading as part of the Everything Exchange, powering the systems that let the world's largest financial institutions trade across markets with speed, depth, and trust. As a Senior Data Engineer, Market Data on the Institutional Markets team, you'll build and operate the systems that capture, normalize, and distribute real-time market data across Coinbase at low latency - the feed handlers, venue connectors, and distribution layer that form the backbone of a unified trading platform.\n What you'll do:\n Build and maintain market data components including feed handlers, normalization pipelines, distribution systems, and venue connectivity.\n Design and implement low-latency, high-throughput services for real-time market data consumed by trading systems across the platform.\n Drive reliability and performance improvements through observability, on-call participation, and incident response.\n Write high-quality, well-tested code and contribute to engineering standards on a lean team.\n Partner with engineers, product managers, and cross-functional stakeholders to deliver market data capabilities that support Coinbase's institutional trading roadmap.\n Required Skills and Experience:\n 3+ years of backend engineering experience building and maintaining production low-latency systems.\n Hands-on experience with at least one area of market data…",
+    "tags": [
+      "Engineering - Data"
+    ],
+    "postedAt": "2026-09-04T21:31:02.000Z",
+    "scrapedAt": "2026-09-20T15:21:52.634Z"
   }
 ]
