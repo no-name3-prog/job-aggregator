@@ -1,5 +1,56 @@
 [
   {
+    "id": "arbeitnow:data-engineerin-hamburg-367808",
+    "externalId": "data-engineerin-hamburg-367808",
+    "source": "arbeitnow",
+    "title": "DATA ENGINEER*IN (m/w/d)",
+    "company": "Ramp106 Gmbh",
+    "location": "Hamburg",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/data-engineerin-hamburg-367808",
+    "description": "Dein Team\nDas  Data & Automation Team ist Teil der OMR Tech Abteilung und fungiert als Center of Excellence für die Daten- und Prozessoptimierung bei OMR. Wir schaffen die Basis für fundierte, datengetriebene Entscheidungen und reibungslose Abläufe in allen Business Units (Festival, Podstars, Reviews, Education, Jobs). Wir verstehen uns als starker Business Partner: Wir bauen die Brücken zwischen komplexen Datenstrukturen, smarter Automatisierung und echtem Business Impact.\nBock auf maximale Freiheiten in einem unternehmerischen Umfeld? Du liebst es, Datenpipelines zu bauen, die einfach laufen, und Infrastruktur, auf die sich alle verlassen können? Dann verstärke unser Team und übernimm die Verantwortung für das technische Fundament unserer Datenplattform. Bei uns betreibst du nicht nur Pipelines: Du baust die Dateninfrastruktur, auf der der gesamte OMR-Kosmos seine Entscheidungen trifft!\n Wo du wirklich was bewegst\n Du verantwortest unsere ELT-Pipeline-Infrastruktur, entwickelst, betreibst und überwachst unsere Airflow-DAGs auf Cloud Composer und managst unsere Connector-Landschaft (Airbyte, Fivetran) Du baust eigene Airflow-Operatoren für Datenquellen ohne Standard-Connector und bindest neue Quellen an unser Data Warehouse an (aktuell über 28 externe Systeme) Du betreibst und optimierst unsere BigQuery-Infrastruktur von Performance-Tuning über Partitioning und Clustering, Monitoring der Query-Kosten und sauberes Schema-Management in der Raw Zone Du sorgst für Data Reliability, baust Monitoring und Alerting aus, pflegst Source-Freshness-Checks und erkennst Pipeline-Ausfälle, bevor die Business Units sie spüren Du entwickelst unsere CI/CD-Pipelines (GitHub Actions) für Ingestion und dbt weiter und bringst dich aktiv in Code Reviews ein Du legst das infrastrukturelle Fundament für unsere strategischen Datenprojekte, etwa den Aufbau unserer zentralen Audience-Datenplattform, und bringst dabei deine Ideen zu Architektur und Tooling ein\n Was dich auszeichnet\n Du hast m…",
+    "tags": [
+      "RAMP106",
+      "Data",
+      "Engineer",
+      "Data Engineer",
+      "Tech",
+      "Automation",
+      "Data Atutomation",
+      "Prozessoptimierung",
+      "Job",
+      "OMR",
+      "OMR FESTIVAL",
+      "Vollzeit",
+      "Hamburg",
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-20T23:09:39.000Z",
+    "scrapedAt": "2026-09-21T03:07:23.249Z"
+  },
+  {
+    "id": "arbeitnow:analytics-engineerin-hamburg-65168",
+    "externalId": "analytics-engineerin-hamburg-65168",
+    "source": "arbeitnow",
+    "title": "ANALYTICS ENGINEER*IN (m/w/d)",
+    "company": "Ramp106 Gmbh",
+    "location": "Hamburg",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/analytics-engineerin-hamburg-65168",
+    "description": "Dein Team\nDas  Data & Automation Team ist Teil der OMR Tech Abteilung und fungiert als Center of Excellence für die Daten- und Prozessoptimierung bei OMR. Wir schaffen die Basis für fundierte, datengetriebene Entscheidungen und reibungslose Abläufe in allen Business Units (Festival, Podstars, Reviews, Education, Jobs). Wir verstehen uns als starker Business Partner: Wir bauen die Brücken zwischen komplexen Datenstrukturen, smarter Automatisierung und echtem Business Impact.\nBock auf maximale Freiheiten in einem unternehmerischen Umfeld? Du liebst es, aus Rohdaten verlässliche Datenmodelle zu bauen, mit denen echte Geschäftsentscheidungen getroffen werden? Dann verstärke unser Team und übernimm die Ownership für zentrale Datenmodelle im OMR-Kosmos. Bei uns schreibst du nicht nur SQL: Deine Modelle steuern das Ticketing unseres Festivals, unser Finance-Reporting und unsere Marketingbudgets!\n Wo du wirklich was bewegst\n Du übernimmst die Ownership unserer Ticketing- und Event-Datenmodelle in dbt (Staging, Reporting und Semantic Layer) und entwickelst sie eigenständig weiter Du baust ein verlässliches Ticket-Forecasting auf Basis historischer Verkaufsdaten, Pricing und Event-Kategorien auf und schaffst damit die Grundlage für unsere Absatzplanung Du verantwortest unsere Finance-Datenmodelle und baust ein Working Capital Reporting auf, das Forderungen, Verbindlichkeiten und Cashflow transparent macht Du entwickelst unser Cross-Channel-Attributionsmodell über alle Marketingkanäle (u. a. Google Ads, Meta, LinkedIn, TikTok) und machst damit den ROI unserer Marketingausgaben sichtbar Du bearbeitest Ad-hoc-Anfragen aus unseren Business Units eigenständig, von der Auswertung über den Datenexport bis zur Dashboard-Anpassung Du arbeitest eng mit Sales, Finance, Marketing und Events zusammen und übersetzt deren Anforderungen in skalierbare Datenmodelle\n Was dich auszeichnet\n Du hast 1 bis 2 Jahre Berufserfahrung im Analytics- oder BI-Umfeld und bereits eigenständig Datenmodelle…",
+    "tags": [
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-20T23:09:39.000Z",
+    "scrapedAt": "2026-09-21T03:07:23.249Z"
+  },
+  {
     "id": "arbeitnow:ml-data-engineer-sensor-data-pipelines-munich-deu-456196",
     "externalId": "ml-data-engineer-sensor-data-pipelines-munich-deu-456196",
     "source": "arbeitnow",
@@ -31,7 +82,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-09-20T14:09:57.000Z",
-    "scrapedAt": "2026-09-20T22:56:53.657Z"
+    "scrapedAt": "2026-09-21T03:07:23.249Z"
   },
   {
     "id": "arbeitnow:data-platform-engineer-working-student-munchen-15969",
@@ -60,7 +111,7 @@
     ],
     "jobType": "Student",
     "postedAt": "2026-09-20T14:09:23.000Z",
-    "scrapedAt": "2026-09-20T22:56:53.657Z"
+    "scrapedAt": "2026-09-21T03:07:23.249Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -76,7 +127,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-09-20T22:56:54.224Z"
+    "scrapedAt": "2026-09-21T03:07:23.808Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -92,7 +143,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-09-20T22:56:54.224Z"
+    "scrapedAt": "2026-09-21T03:07:23.808Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -108,7 +159,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-20T22:56:54.224Z"
+    "scrapedAt": "2026-09-21T03:07:23.808Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -124,7 +175,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-20T22:56:54.224Z"
+    "scrapedAt": "2026-09-21T03:07:23.808Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -140,7 +191,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-20T22:56:54.224Z"
+    "scrapedAt": "2026-09-21T03:07:23.808Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -156,38 +207,6 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-20T22:56:54.224Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8180833",
-    "externalId": "coinbase:8180833",
-    "source": "greenhouse",
-    "title": "Senior Market Data Engineer",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Coinbase is building the future of institutional trading as part of the Everything Exchange, powering the systems that let the world's largest financial institutions trade across markets with speed, depth, and trust. As a Senior Data Engineer, Market Data on the Institutional Markets team, you'll build and operate the systems that capture, normalize, and distribute real-time market data across Coinbase at low latency - the feed handlers, venue connectors, and distribution layer that form the backbone of a unified trading platform.\n What you'll do:\n Build and maintain market data components including feed handlers, normalization pipelines, distribution systems, and venue connectivity.\n Design and implement low-latency, high-throughput services for real-time market data consumed by trading systems across the platform.\n Drive reliability and performance improvements through observability, on-call participation, and incident response.\n Write high-quality, well-tested code and contribute to engineering standards on a lean team.\n Partner with engineers, product managers, and cross-functional stakeholders to deliver market data capabilities that support Coinbase's institutional trading roadmap.\n Required Skills and Experience:\n 3+ years of backend engineering experience building and maintaining production low-latency systems.\n Hands-on experience with at least one area of market data…",
-    "tags": [
-      "Engineering - Data"
-    ],
-    "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-20T22:56:54.224Z"
-  },
-  {
-    "id": "greenhouse:instacart-8167458",
-    "externalId": "instacart:8167458",
-    "source": "greenhouse",
-    "title": "Analytics Engineer II",
-    "company": "Instacart",
-    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-    "remote": true,
-    "url": "https://instacart.careers/job/?gh_jid=8167458",
-    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n The Marketing Enablement & Technology (MET) team sits natively within Instacart's Marketing organization, owning the data foundations that power Paid Marketing, SEO, and Retailer Marketing attribution. These datasets directly inform how we allocate hundreds of millions of dollars in marketing spend and how we measure growth.\n We're hiring an Analytics Engineer II to help build and evolve the marketing analytics data foundation. In this role, you'll independently design and deliver high-quality, business-aware data models and pipelines that Data Scientists and Analysts trust — owning your work end-to-end, raising the quality bar through code reviews and design discussion, and growing toward broader technical ownership of marketing data.\n About the Job\n Marketing Analytics Data Development: Independently build and maintain high-quality dimensional dat…",
-    "tags": [
-      "Marketing "
-    ],
-    "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-20T22:56:54.224Z"
+    "scrapedAt": "2026-09-21T03:07:23.808Z"
   }
 ]
