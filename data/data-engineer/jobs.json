@@ -1,5 +1,62 @@
 [
   {
+    "id": "arbeitnow:data-platform-engineer-for-the-european-ai-factory-hammerhai-garching-bei-munchen-349180",
+    "externalId": "data-platform-engineer-for-the-european-ai-factory-hammerhai-garching-bei-munchen-349180",
+    "source": "arbeitnow",
+    "title": "Data Platform Engineer (f/m/d)  for the European AI Factory HammerHAI",
+    "company": "Lrz",
+    "location": "Garching bei München",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/lrz/data-platform-engineer-for-the-european-ai-factory-hammerhai-garching-bei-munchen-349180",
+    "description": "Description: Looking for an employer you can count on? Join us!\n   Data Platform Engineer (f/m/d) for the European AI Factory HammerHAI\n Your Role and Responsibilities: Developing and maintaining the data facility of the AI Factory including its software environments in the context of AI, HPC and data analytics use cases for modern AI, high-performance and cloud computing systems Contributing to the initial (and evolving) service portfolio of the AI Factory within a friendly and open work environment in a highly motivated, international team with opportunities to contribute with your own ideas Supporting and enabling customers to publish, access and share their own AI data sets and models Fostering contact with collaboration partners as well as stakeholders from the European AI ecosystem, relying on your friendly personality and communication skills Opportunities to work with national and European partners on novel AI R&D projects from the private and academic sectors Maintaining relationships with technology providers and system developers (software/hardware)\n Your Qualifications: Required/Minimum Qualifications\n PhD or Master’s degree in computer or data science, or other areas of scientific computing, or a Bachelor’s degree with multiple years (>3) of applied data platform development / engineering / deployment experience and/or working with AI data management workflows ideally as senior engineer in research or enterprise environments\n Other Requirements\n Proficiency working in data center environments (incl. Linux, Git, Gitlab) Willingness to keep up with current developments and to learn new technologies in the field of AI Extensive knowledge and experience in developing and working with data platforms including their backend components in the context of AI, HPC and data analytics use cases (preferably piveau,  www.piveau.de ) Extensive knowledge about and practical skills in specifying and implementing FAIR-aligned (Findable, Accessible, Interoperable, Reusab…",
+    "tags": [
+      "Experienced",
+      "Temporary",
+      "Full or part time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-21T14:09:36.000Z",
+    "scrapedAt": "2026-09-21T17:48:31.680Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-berlin-123002",
+    "externalId": "data-engineer-berlin-123002",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "ASP Group",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/asp-group/data-engineer-berlin-123002",
+    "description": "AI Service Partners (ASP) helps enterprise clients successfully implement and scale GenAI and data initiatives, from central data platforms to intelligent automation, working out of Munich and Berlin. We work close to the client, solving real operational problems rather than building demos, and we're building a team that combines technical depth with a pragmatic, ownership-driven delivery mindset.\n As Data Engineer at ASP, you'll build the technical backbone behind our clients' data and AI initiatives: designing pipelines, integrations, and data infrastructure that run in real corporate production environments, not sandboxes. You'll work directly on high-stakes enterprise projects where your work is the foundation everything else, from reporting to automation to GenAI use cases, is built on.\n Tasks\n Design, build, and operate data pipelines, integrations, and data infrastructure in real corporate production environments\n Build APIs and connectors to integrate heterogeneous systems and keep data mapped consistently across them\n Set up and manage cloud data infrastructure, including access rights, identity, and security configuration\n Work with modern data platform tools such as Microsoft Fabric, Databricks, or similar to build and operate scalable data solutions for clients\n Lay the technical foundation that everything else, from reporting to automation to GenAI use cases, is built on\n Requirements\n Experience designing, building, and operating data pipelines in a corporate production environment\n A solid understanding of data quality practices and how to map data consistently across systems\n Hands-on experience integrating heterogeneous systems, including building APIs and connectors\n Knowledge of one or more cloud providers (e.g., Microsoft Azure), including setting up access rights/IAM and security configuration\n Experience with modern data platform tools such as Microsoft Fabric, Databricks, or similar\n Good knowledge of networking and security fundamentals as t…",
+    "tags": [
+      "Data Processing",
+      "Data Engineer",
+      "professional / experienced"
+    ],
+    "jobType": "professional / experienced",
+    "postedAt": "2026-09-21T13:01:13.000Z",
+    "scrapedAt": "2026-09-21T17:48:31.680Z"
+  },
+  {
+    "id": "jobicy:151141",
+    "externalId": "151141",
+    "source": "jobicy",
+    "title": "AWS Data Engineer (Associate)",
+    "company": "Mactores",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/cea77a13-221.jpeg",
+    "location": "USA",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/151141-aws-data-engineer-associate",
+    "description": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company, which absorbs the repetitive 60–70% of engagement work, discovery, dependency mapping, validation, test generation, that traditional consulting bills human hours against. Forward-deployed engineers own the rest: architecture, judgment, and cutover, on dates we commit to in the contract.\n This role sits in our Data Platform Modernization pillar: consolidating and migrating customer data infrastructure on AWS in weeks, not quarters. Customers come to us with pipelines nobody trusts, metrics nobody agrees on, and warehouses that stall every new business question. You'll build the data products that fix that — working with business leads, analysts, and data scientists to understand the domain, then shipping pipelines and models that hold up in production.\n Because Aedeon handles the repetitive layer source discovery, schema mapping, validation harnesses — you won't spend your early career grinding through spreadsheet audits. You'll spend it writing code that reaches production and learning judgment from engineers who own cutovers. Data quality isn't a checkbox here; it's the product.\n What you will do?\n Write efficient PySpark and Amazon Glue code that ships to production.\n Write SQL in Amazon Athena and Amazon Redshift.\n Pick up new technologies and techniques and put them to work on real business problems.\n Work across engineering and business teams to build data products and services people actually use.\n Deliver projects with the team and land customer updates on time.\n What are we looking for?\n 1 to 3 years of experience in Apache Spark, PySpark, and Amazon Glue.\n 2+ years of experience writing ETL jobs using PySpark and SparkS…",
+    "tags": [
+      "Data Science & Analytics",
+      "Senior"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-09-21T09:55:07.000Z",
+    "scrapedAt": "2026-09-21T17:48:31.826Z"
+  },
+  {
     "id": "greenhouse:block-5424561008",
     "externalId": "block:5424561008",
     "source": "greenhouse",
@@ -13,7 +70,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -29,7 +86,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -45,7 +102,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -61,7 +118,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -77,7 +134,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -93,7 +150,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -109,7 +166,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -125,7 +182,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -141,7 +198,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:affirm-7916080003",
@@ -157,39 +214,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-08-20T13:43:45.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
-  },
-  {
-    "id": "greenhouse:instacart-8132846",
-    "externalId": "instacart:8132846",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer II, Finance",
-    "company": "Instacart",
-    "location": "United States - Remote",
-    "remote": true,
-    "url": "https://instacart.careers/job/?gh_jid=8132846",
-    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
-    "tags": [
-      "Data"
-    ],
-    "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
-  },
-  {
-    "id": "greenhouse:instacart-8126023",
-    "externalId": "instacart:8126023",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer II, Finance",
-    "company": "Instacart",
-    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-    "remote": true,
-    "url": "https://instacart.careers/job/?gh_jid=8126023",
-    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n Our backend systems power the clients used by millions of customers every year to buy their groceries online. These systems must also support tight integration with the largest retailers in the US and Canada. Engineering at Instacart provides the opportunity to work on challenging scaling problems while also designing the features that will define our industry. You will learn how to build in an open collaborative environment serving millions of requests daily.\nFinance data engineering is part of the Data Infrastructure team, working closely with accounting, billing & revenue teams to support the monthly/quarterly book close, retailer invoicing and internal/external financial reporting. The team plays a critical role in defining how financial data is modeled and standardized for uniform, reliable, timely and accurate reporting. This is a high impact,…",
-    "tags": [
-      "Data"
-    ],
-    "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -209,7 +234,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-09-21T11:56:16.356Z"
+    "scrapedAt": "2026-09-21T17:52:18.755Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -228,7 +253,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-09-21T11:56:17.178Z"
+    "scrapedAt": "2026-09-21T17:52:20.182Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -244,23 +269,23 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
-    "id": "greenhouse:coinbase-8104148",
-    "externalId": "coinbase:8104148",
+    "id": "greenhouse:stripe-8112043",
+    "externalId": "stripe:8112043",
     "source": "greenhouse",
-    "title": "Staff Analytics Engineer, Compliance Data",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8104148?gh_jid=8104148",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n We're hiring a Staff Analytics Engineer to lead the data foundations for the Compliance Data team within the Platform organization. This team owns the Compliance Reporting Data Platform, Coinbase's canonical source of truth for user, transaction, and compliance data, and every regulatory report at Coinbase depends on it. You'll define the technical direction for how compliance data is modeled, validated, and certified at scale, ensuring our foundations hold as products, entities, and regulatory requirements evolve, while also delivering accurate, timely data when regulators come calling.\n What you'll do:\n Own the systems, architecture, technical strategy, and roadmap for the Compliance Data, including the data models, pipelines, quality frameworks, and certification processes that the entire compliance reporting stack depends on.\n Build production-grade solutions, in addition to data models and pipelines, covering user, transaction, and compliance data across retail and institutional product lines, designing for durability, auditability, and consumption by both analysts and AI agents.\n Drive data quality at the source by establishing data contracts, validation frameworks, monitoring, and reconciliation logic that catch issues before they propagate to downstream reports or regulatory filings.\n Partner with upstream engineering teams, Compliance leadership, and downstream consum…",
+    "title": "Staff Software Engineer, Risk Data Engineering",
+    "company": "Stripe",
+    "location": "Toronto",
+    "remote": false,
+    "url": "https://stripe.com/jobs/search?gh_jid=8112043",
+    "description": "Who we are\n About Stripe\n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n About the team\n Product and Risk Data Engineering is Stripe's single source of truth data engineering layer for Payments, Risk, and Product — we enable Stripe to confidently run, measure, and grow the business by making accurate information easy to access. We curate and maintain high-quality data warehouses and pipelines that serve as the authoritative foundation for product and financial activity across Stripe, powering analytics, ML capabilities, agentic workflows, and merchant-facing data interfaces. Beyond building data, we act as the internal experts in data technologies and partner with Data Platform to deliver high-quality, low-friction data processing frameworks. We also serve as the bridge between data producers and data consumers — championing best-in-class data engineering practices and guiding product teams on event-driven data API modeling — so that every team at Stripe can build, decide, and grow from a trusted, well-engineered data foundation.\n What you’ll do\n We're looking for a person who could contribute to the team by solving high-impact, cutting-edge data problems. The ideal candidate will be someone that has built data pipelines for large scale volume, is deeply knowledgeable of key tools including Airflow/Spark/Kafka/Flink, is empathetic, excels at building strong relationships, and collaborates effectively with other Stripe teams to understand their use cases and unlock new capabilities.\n Responsibilities\n Lead the technical outc…",
     "tags": [
-      "Data Science"
+      "8122 Data Foundations"
     ],
-    "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "postedAt": "2026-08-06T14:27:44.000Z",
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -276,7 +301,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -292,7 +317,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -308,7 +333,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:affirm-7813362003",
@@ -324,7 +349,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-07-28T10:52:21.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -340,7 +365,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -356,7 +381,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -372,7 +397,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -388,7 +413,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -404,7 +429,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -420,7 +445,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -436,7 +461,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -452,7 +477,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -468,7 +493,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -484,7 +509,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -500,7 +525,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -516,7 +541,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -532,7 +557,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -548,7 +573,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -564,7 +589,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T11:53:05.551Z"
+    "scrapedAt": "2026-09-21T17:48:49.713Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -578,7 +603,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T11:53:05.551Z"
+    "scrapedAt": "2026-09-21T17:48:49.713Z"
   },
   {
     "id": "workday:nvidia-JR2023850",
@@ -592,7 +617,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T11:53:05.551Z"
+    "scrapedAt": "2026-09-21T17:48:49.713Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -606,7 +631,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T11:53:05.551Z"
+    "scrapedAt": "2026-09-21T17:48:49.713Z"
   },
   {
     "id": "workday:adobe-R170680",
@@ -620,7 +645,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T11:53:05.551Z"
+    "scrapedAt": "2026-09-21T17:48:49.713Z"
   },
   {
     "id": "workday:adobe-R171212",
@@ -634,7 +659,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T11:53:05.551Z"
+    "scrapedAt": "2026-09-21T17:48:49.713Z"
   },
   {
     "id": "workday:adobe-R169536",
@@ -648,7 +673,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T11:53:05.551Z"
+    "scrapedAt": "2026-09-21T17:48:49.713Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -662,7 +687,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T11:53:05.551Z"
+    "scrapedAt": "2026-09-21T17:48:49.713Z"
   },
   {
     "id": "workday:autodesk-26WD100418",
@@ -676,7 +701,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T11:53:05.551Z"
+    "scrapedAt": "2026-09-21T17:48:49.713Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -690,21 +715,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T11:53:05.551Z"
-  },
-  {
-    "id": "workday:autodesk-25WD89669",
-    "externalId": "autodesk:25WD89669",
-    "source": "workday",
-    "title": "Principal Data Engineer -General application",
-    "company": "Autodesk",
-    "location": "2 Locations",
-    "remote": false,
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-09-21T11:53:05.551Z"
+    "scrapedAt": "2026-09-21T17:48:49.713Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -718,7 +729,21 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T11:53:05.551Z"
+    "scrapedAt": "2026-09-21T17:48:49.713Z"
+  },
+  {
+    "id": "workday:autodesk-25WD89669",
+    "externalId": "autodesk:25WD89669",
+    "source": "workday",
+    "title": "Principal Data Engineer -General application",
+    "company": "Autodesk",
+    "location": "2 Locations",
+    "remote": false,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-09-21T17:48:49.713Z"
   },
   {
     "id": "workday:salesforce-JR341884",
@@ -732,7 +757,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T11:54:20.242Z"
+    "scrapedAt": "2026-09-21T17:50:11.130Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -746,7 +771,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T11:54:20.242Z"
+    "scrapedAt": "2026-09-21T17:50:11.130Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -760,6 +785,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T11:54:20.242Z"
+    "scrapedAt": "2026-09-21T17:50:11.130Z"
   }
 ]

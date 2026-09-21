@@ -1,5 +1,62 @@
 [
   {
+    "id": "arbeitnow:data-platform-engineer-for-the-european-ai-factory-hammerhai-garching-bei-munchen-349180",
+    "externalId": "data-platform-engineer-for-the-european-ai-factory-hammerhai-garching-bei-munchen-349180",
+    "source": "arbeitnow",
+    "title": "Data Platform Engineer (f/m/d)  for the European AI Factory HammerHAI",
+    "company": "Lrz",
+    "location": "Garching bei München",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/lrz/data-platform-engineer-for-the-european-ai-factory-hammerhai-garching-bei-munchen-349180",
+    "description": "Description: Looking for an employer you can count on? Join us!\n   Data Platform Engineer (f/m/d) for the European AI Factory HammerHAI\n Your Role and Responsibilities: Developing and maintaining the data facility of the AI Factory including its software environments in the context of AI, HPC and data analytics use cases for modern AI, high-performance and cloud computing systems Contributing to the initial (and evolving) service portfolio of the AI Factory within a friendly and open work environment in a highly motivated, international team with opportunities to contribute with your own ideas Supporting and enabling customers to publish, access and share their own AI data sets and models Fostering contact with collaboration partners as well as stakeholders from the European AI ecosystem, relying on your friendly personality and communication skills Opportunities to work with national and European partners on novel AI R&D projects from the private and academic sectors Maintaining relationships with technology providers and system developers (software/hardware)\n Your Qualifications: Required/Minimum Qualifications\n PhD or Master’s degree in computer or data science, or other areas of scientific computing, or a Bachelor’s degree with multiple years (>3) of applied data platform development / engineering / deployment experience and/or working with AI data management workflows ideally as senior engineer in research or enterprise environments\n Other Requirements\n Proficiency working in data center environments (incl. Linux, Git, Gitlab) Willingness to keep up with current developments and to learn new technologies in the field of AI Extensive knowledge and experience in developing and working with data platforms including their backend components in the context of AI, HPC and data analytics use cases (preferably piveau,  www.piveau.de ) Extensive knowledge about and practical skills in specifying and implementing FAIR-aligned (Findable, Accessible, Interoperable, Reusab…",
+    "tags": [
+      "Experienced",
+      "Temporary",
+      "Full or part time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-21T14:09:36.000Z",
+    "scrapedAt": "2026-09-21T17:48:31.680Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-berlin-123002",
+    "externalId": "data-engineer-berlin-123002",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "ASP Group",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/asp-group/data-engineer-berlin-123002",
+    "description": "AI Service Partners (ASP) helps enterprise clients successfully implement and scale GenAI and data initiatives, from central data platforms to intelligent automation, working out of Munich and Berlin. We work close to the client, solving real operational problems rather than building demos, and we're building a team that combines technical depth with a pragmatic, ownership-driven delivery mindset.\n As Data Engineer at ASP, you'll build the technical backbone behind our clients' data and AI initiatives: designing pipelines, integrations, and data infrastructure that run in real corporate production environments, not sandboxes. You'll work directly on high-stakes enterprise projects where your work is the foundation everything else, from reporting to automation to GenAI use cases, is built on.\n Tasks\n Design, build, and operate data pipelines, integrations, and data infrastructure in real corporate production environments\n Build APIs and connectors to integrate heterogeneous systems and keep data mapped consistently across them\n Set up and manage cloud data infrastructure, including access rights, identity, and security configuration\n Work with modern data platform tools such as Microsoft Fabric, Databricks, or similar to build and operate scalable data solutions for clients\n Lay the technical foundation that everything else, from reporting to automation to GenAI use cases, is built on\n Requirements\n Experience designing, building, and operating data pipelines in a corporate production environment\n A solid understanding of data quality practices and how to map data consistently across systems\n Hands-on experience integrating heterogeneous systems, including building APIs and connectors\n Knowledge of one or more cloud providers (e.g., Microsoft Azure), including setting up access rights/IAM and security configuration\n Experience with modern data platform tools such as Microsoft Fabric, Databricks, or similar\n Good knowledge of networking and security fundamentals as t…",
+    "tags": [
+      "Data Processing",
+      "Data Engineer",
+      "professional / experienced"
+    ],
+    "jobType": "professional / experienced",
+    "postedAt": "2026-09-21T13:01:13.000Z",
+    "scrapedAt": "2026-09-21T17:48:31.680Z"
+  },
+  {
+    "id": "jobicy:151141",
+    "externalId": "151141",
+    "source": "jobicy",
+    "title": "AWS Data Engineer (Associate)",
+    "company": "Mactores",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/cea77a13-221.jpeg",
+    "location": "USA",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/151141-aws-data-engineer-associate",
+    "description": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company, which absorbs the repetitive 60–70% of engagement work, discovery, dependency mapping, validation, test generation, that traditional consulting bills human hours against. Forward-deployed engineers own the rest: architecture, judgment, and cutover, on dates we commit to in the contract.\n This role sits in our Data Platform Modernization pillar: consolidating and migrating customer data infrastructure on AWS in weeks, not quarters. Customers come to us with pipelines nobody trusts, metrics nobody agrees on, and warehouses that stall every new business question. You'll build the data products that fix that — working with business leads, analysts, and data scientists to understand the domain, then shipping pipelines and models that hold up in production.\n Because Aedeon handles the repetitive layer source discovery, schema mapping, validation harnesses — you won't spend your early career grinding through spreadsheet audits. You'll spend it writing code that reaches production and learning judgment from engineers who own cutovers. Data quality isn't a checkbox here; it's the product.\n What you will do?\n Write efficient PySpark and Amazon Glue code that ships to production.\n Write SQL in Amazon Athena and Amazon Redshift.\n Pick up new technologies and techniques and put them to work on real business problems.\n Work across engineering and business teams to build data products and services people actually use.\n Deliver projects with the team and land customer updates on time.\n What are we looking for?\n 1 to 3 years of experience in Apache Spark, PySpark, and Amazon Glue.\n 2+ years of experience writing ETL jobs using PySpark and SparkS…",
+    "tags": [
+      "Data Science & Analytics",
+      "Senior"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-09-21T09:55:07.000Z",
+    "scrapedAt": "2026-09-21T17:48:31.826Z"
+  },
+  {
     "id": "greenhouse:block-5424561008",
     "externalId": "block:5424561008",
     "source": "greenhouse",
@@ -13,7 +70,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -29,7 +86,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -45,7 +102,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -61,7 +118,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -77,7 +134,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -93,7 +150,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -109,54 +166,6 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
-  },
-  {
-    "id": "greenhouse:instacart-8167458",
-    "externalId": "instacart:8167458",
-    "source": "greenhouse",
-    "title": "Analytics Engineer II",
-    "company": "Instacart",
-    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-    "remote": true,
-    "url": "https://instacart.careers/job/?gh_jid=8167458",
-    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Overview\n The Marketing Enablement & Technology (MET) team sits natively within Instacart's Marketing organization, owning the data foundations that power Paid Marketing, SEO, and Retailer Marketing attribution. These datasets directly inform how we allocate hundreds of millions of dollars in marketing spend and how we measure growth.\n We're hiring an Analytics Engineer II to help build and evolve the marketing analytics data foundation. In this role, you'll independently design and deliver high-quality, business-aware data models and pipelines that Data Scientists and Analysts trust — owning your work end-to-end, raising the quality bar through code reviews and design discussion, and growing toward broader technical ownership of marketing data.\n About the Job\n Marketing Analytics Data Development: Independently build and maintain high-quality dimensional dat…",
-    "tags": [
-      "Marketing "
-    ],
-    "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8144836",
-    "externalId": "coinbase:8144836",
-    "source": "greenhouse",
-    "title": "Staff Data Engineer, Market Data",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Coinbase is building the future of institutional trading as part of the Everything Exchange, powering the systems that let the world's largest financial institutions trade across markets with speed, depth, and trust. As a Staff Data Engineer, Market Data on the Institutional Markets team, you'll architect, build, and own the systems that generate, capture, normalize, and distribute real-time market data across Coinbase at low latency - the ticker plant and distribution backbone of a unified trading platform - while leading a lean, high-impact team. It's a rare chance to architect market data infrastructure from the ground up, with the ownership of a startup and the reach of Coinbase.\n What you'll do:\n Build and operate market data components: feed handlers, normalization, distribution, and venue connectivity.\n Design low-latency, high-throughput systems for real-time market data used by trading systems.\n Strengthen reliability and performance by contributing to observability, on-call, and incident response.\n Write high-quality, well-tested code and raise the quality bar on a lean team.\n Partner with engineers, product, and cross-functional stakeholders to deliver market data capabilities.\n Required Skills and Experience:\n 5+ years of backend engineering, with experience building and maintaining production low-latency systems.\n Hands-on experience with market data systems (feed…",
-    "tags": [
-      "Engineering"
-    ],
-    "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
-  },
-  {
-    "id": "greenhouse:affirm-7916080003",
-    "externalId": "affirm:7916080003",
-    "source": "greenhouse",
-    "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
-    "company": "Affirm",
-    "location": "Remote Spain",
-    "remote": true,
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7916080003",
-    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.\n We’re looking for a curious, driven professional to join our Revenue Analytics team. This builds and owns the data products, reporting infrastructure, semantic foundations, and analytical systems that power Affirm’s Revenue organization.\nAs a Analyst at Revenue Analytics, you’ll build scalable data products that power day-to-day decision-making - owning end-to-end work across data modeling, metric definitions, dashboards, automation, and enablement.\nYou’ll also help strengthen our semantic layer and data governance, laying the foundation for reliable AI. The ideal candidate combines strong technical and analytical skills with the ability to turn ambiguous business questions into durable, well-tested data infrastructure.\n What you'll do\n Develop dbt data models, dashboards, metrics, and automation processes for the revenue field team and revenue analysts\n Build and maintain critical reporting data models that power external merchant reporting\n Build the semantic, metadata, and context layers that allow AI systems to accurately understand Revenue data, metrics, and business definitions\n Partner with Business Systems, engineering, and business stakeholders to translate requirements into durable, well-tested data products\n Contribute to the team’s best practices in version control, code review, documentation, and release hygiene (GitHub-based workflows)\n Develop processes, governance, and foundations to scale the impact of analytics within Revenue.\n What we look for\n 3+ years of work experience in an analytics engineering or business intelligence role\n Strong working knowledge of SQL, dbt, Python, data modeling, and data visualization\n Hands-on experience with BI tools (Sigma/Looker/Tableau), Databricks, and cloud data warehouses (Snowflake)\n Understanding of the data foundations required for…",
-    "tags": [
-      "Revenue Operations & Analytics"
-    ],
-    "postedAt": "2026-08-20T13:43:45.000Z",
-    "scrapedAt": "2026-09-21T11:52:58.163Z"
+    "scrapedAt": "2026-09-21T17:48:32.367Z"
   }
 ]
