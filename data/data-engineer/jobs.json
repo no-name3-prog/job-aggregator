@@ -1,119 +1,5 @@
 [
   {
-    "id": "arbeitnow:data-engineerin-hamburg-367808",
-    "externalId": "data-engineerin-hamburg-367808",
-    "source": "arbeitnow",
-    "title": "DATA ENGINEER*IN (m/w/d)",
-    "company": "Ramp106 Gmbh",
-    "location": "Hamburg",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/data-engineerin-hamburg-367808",
-    "description": "Dein Team\nDas  Data & Automation Team ist Teil der OMR Tech Abteilung und fungiert als Center of Excellence für die Daten- und Prozessoptimierung bei OMR. Wir schaffen die Basis für fundierte, datengetriebene Entscheidungen und reibungslose Abläufe in allen Business Units (Festival, Podstars, Reviews, Education, Jobs). Wir verstehen uns als starker Business Partner: Wir bauen die Brücken zwischen komplexen Datenstrukturen, smarter Automatisierung und echtem Business Impact.\nBock auf maximale Freiheiten in einem unternehmerischen Umfeld? Du liebst es, Datenpipelines zu bauen, die einfach laufen, und Infrastruktur, auf die sich alle verlassen können? Dann verstärke unser Team und übernimm die Verantwortung für das technische Fundament unserer Datenplattform. Bei uns betreibst du nicht nur Pipelines: Du baust die Dateninfrastruktur, auf der der gesamte OMR-Kosmos seine Entscheidungen trifft!\n Wo du wirklich was bewegst\n Du verantwortest unsere ELT-Pipeline-Infrastruktur, entwickelst, betreibst und überwachst unsere Airflow-DAGs auf Cloud Composer und managst unsere Connector-Landschaft (Airbyte, Fivetran) Du baust eigene Airflow-Operatoren für Datenquellen ohne Standard-Connector und bindest neue Quellen an unser Data Warehouse an (aktuell über 28 externe Systeme) Du betreibst und optimierst unsere BigQuery-Infrastruktur von Performance-Tuning über Partitioning und Clustering, Monitoring der Query-Kosten und sauberes Schema-Management in der Raw Zone Du sorgst für Data Reliability, baust Monitoring und Alerting aus, pflegst Source-Freshness-Checks und erkennst Pipeline-Ausfälle, bevor die Business Units sie spüren Du entwickelst unsere CI/CD-Pipelines (GitHub Actions) für Ingestion und dbt weiter und bringst dich aktiv in Code Reviews ein Du legst das infrastrukturelle Fundament für unsere strategischen Datenprojekte, etwa den Aufbau unserer zentralen Audience-Datenplattform, und bringst dabei deine Ideen zu Architektur und Tooling ein\n Was dich auszeichnet\n Du hast m…",
-    "tags": [
-      "RAMP106",
-      "Data",
-      "Engineer",
-      "Data Engineer",
-      "Tech",
-      "Automation",
-      "Data Atutomation",
-      "Prozessoptimierung",
-      "Job",
-      "OMR",
-      "OMR FESTIVAL",
-      "Vollzeit",
-      "Hamburg",
-      "Experienced",
-      "Permanent",
-      "Full time"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-09-20T23:09:39.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.249Z"
-  },
-  {
-    "id": "arbeitnow:analytics-engineerin-hamburg-65168",
-    "externalId": "analytics-engineerin-hamburg-65168",
-    "source": "arbeitnow",
-    "title": "ANALYTICS ENGINEER*IN (m/w/d)",
-    "company": "Ramp106 Gmbh",
-    "location": "Hamburg",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/analytics-engineerin-hamburg-65168",
-    "description": "Dein Team\nDas  Data & Automation Team ist Teil der OMR Tech Abteilung und fungiert als Center of Excellence für die Daten- und Prozessoptimierung bei OMR. Wir schaffen die Basis für fundierte, datengetriebene Entscheidungen und reibungslose Abläufe in allen Business Units (Festival, Podstars, Reviews, Education, Jobs). Wir verstehen uns als starker Business Partner: Wir bauen die Brücken zwischen komplexen Datenstrukturen, smarter Automatisierung und echtem Business Impact.\nBock auf maximale Freiheiten in einem unternehmerischen Umfeld? Du liebst es, aus Rohdaten verlässliche Datenmodelle zu bauen, mit denen echte Geschäftsentscheidungen getroffen werden? Dann verstärke unser Team und übernimm die Ownership für zentrale Datenmodelle im OMR-Kosmos. Bei uns schreibst du nicht nur SQL: Deine Modelle steuern das Ticketing unseres Festivals, unser Finance-Reporting und unsere Marketingbudgets!\n Wo du wirklich was bewegst\n Du übernimmst die Ownership unserer Ticketing- und Event-Datenmodelle in dbt (Staging, Reporting und Semantic Layer) und entwickelst sie eigenständig weiter Du baust ein verlässliches Ticket-Forecasting auf Basis historischer Verkaufsdaten, Pricing und Event-Kategorien auf und schaffst damit die Grundlage für unsere Absatzplanung Du verantwortest unsere Finance-Datenmodelle und baust ein Working Capital Reporting auf, das Forderungen, Verbindlichkeiten und Cashflow transparent macht Du entwickelst unser Cross-Channel-Attributionsmodell über alle Marketingkanäle (u. a. Google Ads, Meta, LinkedIn, TikTok) und machst damit den ROI unserer Marketingausgaben sichtbar Du bearbeitest Ad-hoc-Anfragen aus unseren Business Units eigenständig, von der Auswertung über den Datenexport bis zur Dashboard-Anpassung Du arbeitest eng mit Sales, Finance, Marketing und Events zusammen und übersetzt deren Anforderungen in skalierbare Datenmodelle\n Was dich auszeichnet\n Du hast 1 bis 2 Jahre Berufserfahrung im Analytics- oder BI-Umfeld und bereits eigenständig Datenmodelle…",
-    "tags": [
-      "Experienced",
-      "Permanent",
-      "Full time"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-09-20T23:09:39.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.249Z"
-  },
-  {
-    "id": "arbeitnow:ml-data-engineer-sensor-data-pipelines-munich-deu-456196",
-    "externalId": "ml-data-engineer-sensor-data-pipelines-munich-deu-456196",
-    "source": "arbeitnow",
-    "title": "ML Data Engineer (m/f/d) - Sensor Data & Pipelines",
-    "company": "autonomous-teaming",
-    "location": "Munich (DEU)",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/ml-data-engineer-sensor-data-pipelines-munich-deu-456196",
-    "description": "What we offer Work in an international, agile team creating the future of autonomous systems Grow your career in a expanding and ambitious engineering team Build innovative products using state-of-the-art technologies in AI, robotics, and autonomy  Benefit from a steep learning curve and continuous development Enjoy team events and a strong, collaborative culture\n Your mission This role owns the data foundation of our perception systems end-to-end — the layer that directly determines model performance in real-world environments. You'll set the technical direction for how we collect, curate, and continuously improve the datasets behind object detection, working as a senior technical partner to ML, perception, and robotics teams — turning raw, messy sensor data into reliable, production-grade systems at scale.\nYou will take full ownership of the ML data lifecycle — from architecture decisions on ingestion and pipelines, through labeling strategy and QA, to driving continuous, metrics-informed dataset improvement — and will be expected to bring judgment and prior experience to how this is done, not just execute a defined process.\nWhat you'll do:\n Architect and own scalable pipelines for ingesting, organizing, and preprocessing large volumes of time-series camera and multi-sensor data (RGB, IR, thermal, depth, IMU) Drive the strategy behind our object detection datasets, ensuring quality, diversity, and statistical representativeness at scale Design and operate active learning loops that connect model performance directly to data selection and improvement priorities Own labeling workflows end-to-end — tooling decisions, QA methodology, consistency standards, and coordination of annotation efforts Partner closely with AI Engineers to diagnose model weaknesses, bias, and drift, and translate findings into concrete dataset strategy Plan and lead data collection campaigns (field recordings, drone/video capture) to close gaps with high-value real-world data Build internal t…",
-    "tags": [
-      "Active Learning",
-      "Machine Learning",
-      "Python",
-      "Pandas",
-      "Data Orchestration",
-      "CVAT",
-      "NumPy",
-      "Data Engineering",
-      "Data Pipelines",
-      "Dataset Engineering",
-      "Data Processing",
-      "Data Lifecycle",
-      "ELT / ETL",
-      "Sensor Data",
-      "Video Data Processing",
-      "Experienced",
-      "Permanent",
-      "Full time"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-09-20T14:09:57.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.249Z"
-  },
-  {
-    "id": "arbeitnow:data-platform-engineer-working-student-munchen-15969",
-    "externalId": "data-platform-engineer-working-student-munchen-15969",
-    "source": "arbeitnow",
-    "title": "Data Platform Engineer Working Student (m/w/d)",
-    "company": "Trusteq Gmbh",
-    "location": "München",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-15969",
-    "description": "YOUR TASKS You support the design and development of Databricks-native data platforms and lakehouse architectures for internal projects and client engagements. You contribute to implementing medallion architectures (Bronze, Silver, and Gold), including Auto Loader-based data ingestion. You support the development of data governance concepts using tools such as Unity Catalog, including access control and permission models. You help automate deployments using Databricks Asset Bundles (DAB) and CI/CD pipelines. You contribute to developing data quality frameworks and monitoring solutions for production data platforms. You support the technical documentation of platform architectures and internal best practices. You contribute to internal tooling and demonstrator projects, actively helping shape and strengthen our Data Platform practice.\n YOUR PROFIL You are currently enrolled in an IT-related degree programme, such as Computer Science, Business Information Systems, Data Engineering, Data Science, or a related discipline. You have good knowledge of Python and SQL. Initial experience with Databricks and/or cloud data platforms such as Azure, AWS, or GCP is an advantage. You are interested in topics such as data lakehouses, data governance, Infrastructure as Code, and CI/CD. You have a basic understanding of data modelling and data integration processes (ETL/ELT). Experience with Git and version control is desirable. You work independently and in a structured manner and demonstrate strong teamwork and communication skills. You have excellent German and English language skills (at least C1 level in both languages). You are able to work from our Cologne or Munich office at least 50% of the time\n YOUR BENEFITS Supportive Team Culture: Team cohesion is important to us – we support one another and foster a healthy office culture. Our event team organizes regular after-work events to encourage exchange and connection beyond the workplace. Early Ownership & Responsibility: From…",
-    "tags": [
-      "Working Student",
-      "Working Student Data Analyst",
-      "Data Analyst",
-      "IT-Strategy",
-      "ESG",
-      "Working Student Data Engineer",
-      "Data Engineer",
-      "Data Bricks",
-      "Data Platform",
-      "Data Platform Engineer",
-      "Student",
-      "Working student",
-      "Part time"
-    ],
-    "jobType": "Student",
-    "postedAt": "2026-09-20T14:09:23.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.249Z"
-  },
-  {
     "id": "greenhouse:block-5424561008",
     "externalId": "block:5424561008",
     "source": "greenhouse",
@@ -127,7 +13,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -143,7 +29,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -159,7 +45,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -175,7 +61,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -191,7 +77,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -207,7 +93,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -223,7 +109,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -239,7 +125,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -255,23 +141,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
-  },
-  {
-    "id": "greenhouse:datadog-8141967",
-    "externalId": "datadog:8141967",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer - Revenue Data Platform",
-    "company": "Datadog",
-    "location": "Boston, Massachusetts, USA; New York, New York, USA",
-    "remote": false,
-    "url": "https://careers.datadoghq.com/detail/8141967/?gh_jid=8141967",
-    "description": "About Datadog:\n We're on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale—trillions of data points per day—allowing for seamless collaboration and problem-solving among Dev, Ops and Security teams globally for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.\n The Team:\n The Revenue Data Engineering Teams designs, builds and runs the data pipelines and helper systems to accurately and in a timely manner quantify our customers’ usage across all Datadog products. This team is at the leading edge of any new product we release.\n The Revenue Data Processing team builds and operates the data pipelines that does billing, and cost attribution for all Datadog products. We process terabytes of data daily to power revenue-critical systems and are at the center of every new product launch at Datadog.\n As a Senior Software Engineer, you will own meaningful parts of a large-scale, mission-critical processing platform — driving architectural improvements, building new billing capabilities, and maintaining the high reliability bar our downstream consumers depend on.\n You Will:\n Design and build high-throughput data pipelines for billing and cost attribution\n Drive platform improvements — latency reduction, Spark optimization, sharding, and cross-datacenter reliability\n Own root-cause investigations on billing accuracy issues in collaboration with Finance and Product teams\n Contribute to new billing features\n Work across Python and Scala, with technologies including Spark, Airflow, Trino, and Apache Iceberg\n Participate in on-call rotation and maintain a high reliability bar for production systems\n Contribute to engineering standards and help grow the technical culture of the team\n You Are:\n You have significant experience building and operating production data pipelines at scale using Spark an…",
-    "tags": [
-      "Dev Eng"
-    ],
-    "postedAt": "2026-08-20T13:47:35.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:affirm-7916080003",
@@ -287,7 +157,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-08-20T13:43:45.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:instacart-8132846",
@@ -303,7 +173,7 @@
       "Data"
     ],
     "postedAt": "2026-08-17T16:40:40.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:instacart-8126023",
@@ -319,7 +189,7 @@
       "Data"
     ],
     "postedAt": "2026-08-12T16:58:43.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -339,7 +209,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-09-21T03:10:27.026Z"
+    "scrapedAt": "2026-09-21T11:56:16.356Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -358,7 +228,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-09-21T03:10:27.528Z"
+    "scrapedAt": "2026-09-21T11:56:17.178Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -374,7 +244,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:coinbase-8104148",
@@ -390,7 +260,7 @@
       "Data Science"
     ],
     "postedAt": "2026-08-06T21:32:09.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -406,7 +276,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -422,7 +292,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -438,7 +308,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:affirm-7813362003",
@@ -454,7 +324,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-07-28T10:52:21.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -470,7 +340,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -486,7 +356,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -502,7 +372,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -518,7 +388,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -534,7 +404,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -550,7 +420,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -566,7 +436,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -582,7 +452,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -598,7 +468,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -614,7 +484,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -630,7 +500,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -646,7 +516,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -662,7 +532,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -678,23 +548,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-09-21T03:07:23.808Z"
-  },
-  {
-    "id": "workday:workday-JR-0107830",
-    "externalId": "workday:JR-0107830",
-    "source": "workday",
-    "title": "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
-    "company": "Workday",
-    "location": "2 Locations",
-    "remote": false,
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
-    "description": "",
-    "tags": [
-      "Flex"
-    ],
-    "postedAt": null,
-    "scrapedAt": "2026-09-21T03:07:31.101Z"
+    "scrapedAt": "2026-09-21T11:52:58.163Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -710,7 +564,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T03:07:31.101Z"
+    "scrapedAt": "2026-09-21T11:53:05.551Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -724,7 +578,21 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T03:07:31.101Z"
+    "scrapedAt": "2026-09-21T11:53:05.551Z"
+  },
+  {
+    "id": "workday:nvidia-JR2023850",
+    "externalId": "nvidia:JR2023850",
+    "source": "workday",
+    "title": "Senior Synthetic Data Engineer - Autonomous Driving",
+    "company": "NVIDIA",
+    "location": "5 Locations",
+    "remote": false,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Synthetic-Data-Engineer---Autonomous-Driving_JR2023850-1",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-09-21T11:53:05.551Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -738,21 +606,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T03:07:31.101Z"
-  },
-  {
-    "id": "workday:salesforce-JR358536",
-    "externalId": "salesforce:JR358536",
-    "source": "workday",
-    "title": "Sr. Data Engineer (Python & SQL exp. mandatory)",
-    "company": "Salesforce",
-    "location": "India - Hyderabad",
-    "remote": false,
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Sr-Data-Engineer--Python---SQL-exp-mandatory-_JR358536",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-09-21T03:07:31.101Z"
+    "scrapedAt": "2026-09-21T11:53:05.551Z"
   },
   {
     "id": "workday:adobe-R170680",
@@ -766,7 +620,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T03:07:31.101Z"
+    "scrapedAt": "2026-09-21T11:53:05.551Z"
   },
   {
     "id": "workday:adobe-R171212",
@@ -780,7 +634,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T03:07:31.101Z"
+    "scrapedAt": "2026-09-21T11:53:05.551Z"
   },
   {
     "id": "workday:adobe-R169536",
@@ -794,7 +648,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T03:07:31.101Z"
+    "scrapedAt": "2026-09-21T11:53:05.551Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -808,21 +662,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T03:07:31.101Z"
-  },
-  {
-    "id": "workday:autodesk-26WD98492",
-    "externalId": "autodesk:26WD98492",
-    "source": "workday",
-    "title": "Senior Data Engineer",
-    "company": "Autodesk",
-    "location": "Bengaluru, IND",
-    "remote": false,
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Data-Engineer_26WD98492",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-09-21T03:07:31.101Z"
+    "scrapedAt": "2026-09-21T11:53:05.551Z"
   },
   {
     "id": "workday:autodesk-26WD100418",
@@ -836,7 +676,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T03:07:31.101Z"
+    "scrapedAt": "2026-09-21T11:53:05.551Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -850,7 +690,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T03:07:31.101Z"
+    "scrapedAt": "2026-09-21T11:53:05.551Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -864,7 +704,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T03:07:31.101Z"
+    "scrapedAt": "2026-09-21T11:53:05.551Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -878,7 +718,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T03:07:31.101Z"
+    "scrapedAt": "2026-09-21T11:53:05.551Z"
   },
   {
     "id": "workday:salesforce-JR341884",
@@ -892,7 +732,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T03:08:40.147Z"
+    "scrapedAt": "2026-09-21T11:54:20.242Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -906,7 +746,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T03:08:40.147Z"
+    "scrapedAt": "2026-09-21T11:54:20.242Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -920,6 +760,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-21T03:08:40.147Z"
+    "scrapedAt": "2026-09-21T11:54:20.242Z"
   }
 ]
