@@ -52,33 +52,6 @@
     ]
   },
   {
-    "company": "Salesforce",
-    "jobCount": 5,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Ireland - Dublin",
-      "India - Hyderabad",
-      "3 Locations",
-      "Mexico - Mexico City"
-    ],
-    "sampleTitles": [
-      "Data Engineering Senior Associate",
-      "Sr. Data Engineer (Python & SQL exp. mandatory)",
-      "Sr. Data Engineer,  Enterprise - Slack",
-      "Senior Data Engineer",
-      "PMTS - Principal Agentic Data Engineer"
-    ],
-    "officialUrls": [
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Sr-Data-Engineer--Python---SQL-exp-mandatory-_JR358536",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Sr-Data-Engineer---Enterprise---Slack_JR341884-1",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
-    ]
-  },
-  {
     "company": "Adobe",
     "jobCount": 4,
     "sources": [
@@ -128,6 +101,53 @@
     ]
   },
   {
+    "company": "Dropbox",
+    "jobCount": 4,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "Remote - Canada: Select locations",
+      "Remote - US: Select locations"
+    ],
+    "sampleTitles": [
+      "Data Engineer",
+      "Data Engineer",
+      "Senior Manager, Data Engineering",
+      "Senior Manager, Data Engineering"
+    ],
+    "officialUrls": [
+      "https://jobs.dropbox.com/listing/8211532?gh_jid=8211532",
+      "https://jobs.dropbox.com/listing/8211529?gh_jid=8211529",
+      "https://jobs.dropbox.com/listing/8090065?gh_jid=8090065",
+      "https://jobs.dropbox.com/listing/8090062?gh_jid=8090062"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "jobCount": 4,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Ireland - Dublin",
+      "India - Hyderabad",
+      "Mexico - Mexico City"
+    ],
+    "sampleTitles": [
+      "Data Engineering Senior Associate",
+      "Sr. Data Engineer (Python & SQL exp. mandatory)",
+      "Senior Data Engineer",
+      "PMTS - Principal Agentic Data Engineer"
+    ],
+    "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Sr-Data-Engineer--Python---SQL-exp-mandatory-_JR358536",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
+    ]
+  },
+  {
     "company": "Affirm",
     "jobCount": 3,
     "sources": [
@@ -168,6 +188,43 @@
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Interconnect-Product-Data-Engineer_JR2021975",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Synthetic-Data-Engineer---Autonomous-Driving_JR2023850-1",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "jobCount": 2,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "sampleTitles": [
+      "Senior Staff Data Engineer, Foundational Data",
+      "Senior Staff Data Engineer - Data Stewardship"
+    ],
+    "officialUrls": [
+      "https://careers.airbnb.com/positions/8224032?gh_jid=8224032",
+      "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
+    ]
+  },
+  {
+    "company": "Aircall",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "France Remote",
+      "Paris Office"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer - Real time analytics",
+      "Senior Data Engineer - Real time analytics"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-494507",
+      "https://www.arbeitnow.fr/jobs/companies/aircall/senior-data-engineer-real-time-analytics-paris-office-440809"
     ]
   },
   {
@@ -226,22 +283,22 @@
     ]
   },
   {
-    "company": "Dropbox",
+    "company": "Codat",
     "jobCount": 2,
     "sources": [
-      "greenhouse"
+      "arbeitnow"
     ],
     "locations": [
-      "Remote - Canada: Select locations",
-      "Remote - US: Select locations"
+      "Remote",
+      "London"
     ],
     "sampleTitles": [
-      "Senior Manager, Data Engineering",
-      "Senior Manager, Data Engineering"
+      "Senior Data Engineer",
+      "Senior Data Engineer"
     ],
     "officialUrls": [
-      "https://jobs.dropbox.com/listing/8090065?gh_jid=8090065",
-      "https://jobs.dropbox.com/listing/8090062?gh_jid=8090062"
+      "https://www.arbeitnow.co.uk/jobs/companies/codat/remote-senior-data-engineer-472633",
+      "https://www.arbeitnow.co.uk/jobs/companies/codat/senior-data-engineer-london-337477"
     ]
   },
   {
@@ -263,35 +320,21 @@
     ]
   },
   {
-    "company": "Airbnb",
-    "jobCount": 1,
+    "company": "Workday",
+    "jobCount": 2,
     "sources": [
-      "greenhouse"
+      "workday"
     ],
     "locations": [
-      "United States"
+      "Ireland, Dublin"
     ],
     "sampleTitles": [
-      "Senior Staff Data Engineer - Data Stewardship"
+      "Data Engineer",
+      "Data Platform Engineer - Cybersecurity"
     ],
     "officialUrls": [
-      "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
-    ]
-  },
-  {
-    "company": "Bettermile",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Better Place, Oranienstraße 183, Berlin"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer - Better Planner (d/f/m)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/bettermile/senior-data-engineer-better-planner-berlin-357533"
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Scientist_JR-0108262",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
     ]
   },
   {
@@ -311,22 +354,6 @@
     ]
   },
   {
-    "company": "Eraneos",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Hamburg, München, Düsseldorf, remote"
-    ],
-    "sampleTitles": [
-      "Data Engineer (all genders)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-306396"
-    ]
-  },
-  {
     "company": "Figma",
     "jobCount": 1,
     "sources": [
@@ -340,22 +367,6 @@
     ],
     "officialUrls": [
       "https://boards.greenhouse.io/figma/jobs/6201407004?gh_jid=6201407004"
-    ]
-  },
-  {
-    "company": "Fundingcircle",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Lead Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/lead-analytics-engineer-london-196325"
     ]
   },
   {
@@ -375,6 +386,22 @@
     ]
   },
   {
+    "company": "Kryptos Technologies limited",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "AWS Data Engineer- ( 10+ years experience only )"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/kryptos-technologies-limited/aws-data-engineer-10-years-experience-only-london-499876"
+    ]
+  },
+  {
     "company": "Linear",
     "jobCount": 1,
     "sources": [
@@ -388,6 +415,38 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
+    ]
+  },
+  {
+    "company": "Pleo",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "Denmark,  Portugal,  Spain,  UK"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer (Commercial Analytics)"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/153896-senior-data-engineer-commercial-analytics"
+    ]
+  },
+  {
+    "company": "Quantum",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/quantum/senior-data-engineer-london-433529"
     ]
   },
   {
@@ -407,22 +466,6 @@
     ]
   },
   {
-    "company": "Ruby Labs",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "Europe"
-    ],
-    "sampleTitles": [
-      "Data Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/151318-data-analytics-engineer"
-    ]
-  },
-  {
     "company": "Scale AI",
     "jobCount": 1,
     "sources": [
@@ -436,6 +479,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/scaleai/jobs/4713597005"
+    ]
+  },
+  {
+    "company": "Socure",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "USA"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/153886-senior-data-engineer-4"
     ]
   },
   {
@@ -468,22 +527,6 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8112043"
-    ]
-  },
-  {
-    "company": "Workday",
-    "jobCount": 1,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Ireland, Dublin"
-    ],
-    "sampleTitles": [
-      "Data Platform Engineer - Cybersecurity"
-    ],
-    "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
     ]
   }
 ]
