@@ -1,5 +1,23 @@
 [
   {
+    "id": "arbeitnow:data-analytics-engineer-hamburg-or-berlin-317958",
+    "externalId": "data-analytics-engineer-hamburg-or-berlin-317958",
+    "source": "arbeitnow",
+    "title": "Data & Analytics Engineer (m/f/d)",
+    "company": "Statista",
+    "location": "Hamburg or Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/statista/data-analytics-engineer-hamburg-or-berlin-317958",
+    "description": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions.\n Founded in Hamburg in 2007, we have quickly grown into a global company with offices in major cities such as London, New York, Berlin and Tokyo. And we still have a lot of plans. Our constant growth does not only prove our success, but also keeps creating new development and career opportunities for our employees.\n We value and celebrate our diverse culture. You are welcome here for who you are, no matter where you come from, what you look like, or whether you prefer bar graphs to pie charts. Your story matters – keep writing it as part of our team.\n Are you ready to join us?\n Your role\n Design, implement, and maintain backend services in Python that power our data access and distribution layer\n Build and operate automated build, test, and deployment pipelines following CI/CD and GitOps practices, running on AWS and Kubernetes\n Design and maintain data models and schemas (Avro, SQL) for our data pipelines and services, and publish them to downstream consumers via our Kafka-based distribution platform and schema registry\n Build access-layer data models in our analytics environment (e.g., Snowflake) so applications can work with the data directly, including via API\n Act as the coordination interface between the Data and Tech divisions, aligning priorities, schemas, and timelines across upstream and downstream teams\n Your profile\n 3+ years of experience in analytics engineering, data engineering, or a related role.\n Strong SQL skills and solid experience in data modeling (e.g., dimensional modeling, star schemas).\n Hands-on experience with event streaming and message distribution, ideally Kafka, including schema management with the Kafka schema registry (Avro, Protobuf, or JSON Schema).\n Experience designing data…",
+    "tags": [
+      "Tech",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-09-22T23:40:08.000Z",
+    "scrapedAt": "2026-09-23T03:08:42.959Z"
+  },
+  {
     "id": "arbeitnow:data-engineer-edinburgh-490285",
     "externalId": "data-engineer-edinburgh-490285",
     "source": "arbeitnow",
@@ -13,7 +31,7 @@
       "Data Engineering"
     ],
     "postedAt": "2026-09-22T21:55:27.000Z",
-    "scrapedAt": "2026-09-22T23:27:56.117Z"
+    "scrapedAt": "2026-09-23T03:08:42.959Z"
   },
   {
     "id": "arbeitnow:remote-senior-data-engineer-real-time-analytics-494507",
@@ -31,7 +49,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-22T19:04:27.000Z",
-    "scrapedAt": "2026-09-22T23:27:56.117Z"
+    "scrapedAt": "2026-09-23T03:08:42.959Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-paris-office-440809",
@@ -49,7 +67,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-09-22T19:04:27.000Z",
-    "scrapedAt": "2026-09-22T23:27:56.117Z"
+    "scrapedAt": "2026-09-23T03:08:42.959Z"
   },
   {
     "id": "greenhouse:airbnb-8224032",
@@ -65,7 +83,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-09-22T23:27:56.576Z"
+    "scrapedAt": "2026-09-23T03:08:43.453Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-london-433529",
@@ -83,7 +101,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-22T18:40:09.000Z",
-    "scrapedAt": "2026-09-22T23:27:56.117Z"
+    "scrapedAt": "2026-09-23T03:08:42.959Z"
   },
   {
     "id": "greenhouse:dropbox-8211532",
@@ -99,7 +117,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-09-22T17:18:25.000Z",
-    "scrapedAt": "2026-09-22T23:27:56.576Z"
+    "scrapedAt": "2026-09-23T03:08:43.453Z"
   },
   {
     "id": "greenhouse:dropbox-8211529",
@@ -115,7 +133,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-09-22T17:18:18.000Z",
-    "scrapedAt": "2026-09-22T23:27:56.576Z"
+    "scrapedAt": "2026-09-23T03:08:43.453Z"
   },
   {
     "id": "jobicy:153896",
@@ -134,7 +152,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-09-22T14:50:05.000Z",
-    "scrapedAt": "2026-09-22T23:27:56.190Z"
+    "scrapedAt": "2026-09-23T03:08:43.021Z"
   },
   {
     "id": "jobicy:153886",
@@ -153,22 +171,6 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-09-22T14:10:17.000Z",
-    "scrapedAt": "2026-09-22T23:27:56.190Z"
-  },
-  {
-    "id": "greenhouse:figma-6201407004",
-    "externalId": "figma:6201407004",
-    "source": "greenhouse",
-    "title": "Data Platform Engineer",
-    "company": "Figma",
-    "location": "San Francisco, CA • New York, NY • United States",
-    "remote": false,
-    "url": "https://boards.greenhouse.io/figma/jobs/6201407004?gh_jid=6201407004",
-    "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!\n We are looking for a Data Platform Engineer to join our Data Engineering team and help build the foundational systems that power Figma’s next generation of AI-driven products and data experiences.\n This is a unique opportunity to be an early engineer shaping Figma’s ML and data platform, enabling everything from self-serve analytics to production-grade AI systems. You’ll work at the intersection of data, infrastructure, and machine learning, building scalable systems that empower Data Science, unlock AI capabilities across the company, and bring data and models closer to the product experience.\n This is a full-time role that can be held from one of our US hubs or remotely in the United States.\n What you'll do at Figma:\n Build and evolve the shared data platform that powers analytics, Data Science, and data-driven product development at Figma\n Make data development faster and easier by improving local development, testing, CI/CD, staging, and deployment workflows\n Create self-service tools and clear paths for teams to build, deploy, and operate reliable data pipelines\n Improve the reliability of critical data systems through better monitoring, data quality, incident response, upgrades, and performance management\n Make trusted data easier to find and use by establishing clear definitions, ownership, lineage, and reliability expectations\n Partner across Data Engineering, Data Infrastructure, Data Science, Research, Modeling Platform, Security, and Product Engineering to define ownership boundarie…",
-    "tags": [
-      "Engineering"
-    ],
-    "postedAt": "2026-09-21T16:13:46.000Z",
-    "scrapedAt": "2026-09-22T23:27:56.576Z"
+    "scrapedAt": "2026-09-23T03:08:43.021Z"
   }
 ]
