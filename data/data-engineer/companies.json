@@ -148,30 +148,6 @@
     ]
   },
   {
-    "company": "Salesforce",
-    "jobCount": 4,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Ireland - Dublin",
-      "India - Hyderabad",
-      "Mexico - Mexico City"
-    ],
-    "sampleTitles": [
-      "Data Engineering Senior Associate",
-      "Sr. Data Engineer (Python & SQL exp. mandatory)",
-      "Senior Data Engineer",
-      "PMTS - Principal Agentic Data Engineer"
-    ],
-    "officialUrls": [
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Sr-Data-Engineer--Python---SQL-exp-mandatory-_JR358536",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
-    ]
-  },
-  {
     "company": "Affirm",
     "jobCount": 3,
     "sources": [
@@ -190,6 +166,27 @@
       "https://job-boards.greenhouse.io/affirm/jobs/7916080003",
       "https://job-boards.greenhouse.io/affirm/jobs/7813362003",
       "https://job-boards.greenhouse.io/affirm/jobs/7764109003"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "jobCount": 3,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Ireland - Dublin",
+      "Mexico - Mexico City"
+    ],
+    "sampleTitles": [
+      "Data Engineering Senior Associate",
+      "Senior Data Engineer",
+      "PMTS - Principal Agentic Data Engineer"
+    ],
+    "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
     ]
   },
   {
@@ -340,19 +337,51 @@
     ]
   },
   {
-    "company": "Checkout.com",
+    "company": "AIPTO TechBio",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "London"
+      "Heidelberg"
     ],
     "sampleTitles": [
-      "Senior BigQuery Data Engineer"
+      "Data Engineer / Scientist – Multimodal Clinical Data Integration & AI (m/f/d)"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-bigquery-data-engineer-london-212506"
+      "https://www.arbeitnow.com/jobs/companies/aipto-techbio/data-engineer-scientist-multimodal-clinical-data-integration-ai-heidelberg-305399"
+    ]
+  },
+  {
+    "company": "Aircall",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London Office"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer - Real time analytics"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-444994"
+    ]
+  },
+  {
+    "company": "Blackduck",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Belfast"
+    ],
+    "sampleTitles": [
+      "Principal Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/blackduck/principal-data-engineer-belfast-230425"
     ]
   },
   {
@@ -401,38 +430,6 @@
     ],
     "officialUrls": [
       "https://instacart.careers/job/?gh_jid=8167458"
-    ]
-  },
-  {
-    "company": "Jupus",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Germany"
-    ],
-    "sampleTitles": [
-      "Staff Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/jupus/staff-data-engineer-germany-488259"
-    ]
-  },
-  {
-    "company": "Kayak",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Berlin Office"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/kayak/senior-data-engineer-berlin-168686"
     ]
   },
   {
@@ -545,38 +542,6 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8112043"
-    ]
-  },
-  {
-    "company": "tripadvisor",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/senior-data-engineer-london-270437"
-    ]
-  },
-  {
-    "company": "Wayve",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Unknown"
-    ],
-    "sampleTitles": [
-      "Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/wayve/data-engineer-418990"
     ]
   }
 ]
