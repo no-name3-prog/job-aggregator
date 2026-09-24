@@ -1,87 +1,82 @@
 [
   {
-    "id": "greenhouse:anthropic-5427309008",
-    "externalId": "anthropic:5427309008",
-    "source": "greenhouse",
-    "title": "APAC Recruiting Coordinator",
-    "company": "Anthropic",
-    "location": "Singapore",
-    "remote": false,
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427309008",
-    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\n Anthropic is growing quickly across Asia Pacific, and our International Recruiting Coordination team is building for it. As our first Recruiting Coordinator based in Singapore, you'll deliver a warm, high touch interview experience for candidates across APAC, including Japan, Korea, India, Australia, New Zealand and South East Asia. You'll partner closely with our APAC recruiters and recruiting managers, be the local point of contact for candidates and interviewers in the region and help keep hiring moving around the clock as part of a follow the sun coordination model with your teammates.\n As you'll be first in seat, you'll also help shape how coordination works in a region where we're still building: spotting what's missing, documenting what works and making it easier for the people who join after you.\n You'll own coordination for your region end to end and act as our go to operator for APAC hiring logistics, working independently with support from your manager.\n Responsibilities:\n Schedule a high volume of APAC interview loops, from hiring manager screens through onsites, debriefs and reference calls, across multiple time zones, languages and stakeholder calendars.\n Be the primary point of contact for candidates on logistics, with a warm, clear and culturally aware tone that makes every candidate feel supported and informed.\n Partner with recruiters and hiring managers as a trusted advisor: flag capacity risks, local holidays and market norms early, and help them see around corners.\n Keep our systems accurate for APAC roles, including Greenhouse job setup, interview plans; scheduling tool configuration and superv…",
-    "tags": [
-      "People"
-    ],
-    "postedAt": "2026-09-24T13:37:52.000Z",
-    "scrapedAt": "2026-09-24T13:59:16.323Z"
-  },
-  {
-    "id": "greenhouse:stripe-8196288",
-    "externalId": "stripe:8196288",
-    "source": "greenhouse",
-    "title": "Account Executive, Product - Tax",
-    "company": "Stripe",
-    "location": "Dublin",
-    "remote": false,
-    "url": "https://stripe.com/jobs/search?gh_jid=8196288",
-    "description": "Who we are\n About Stripe\n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n About the team\n Product Sales is a team of functional and technical specialists who both lead and advise on deals for the most strategically important products in Stripe’s portfolio. Revenue suite Product Sales is tasked with attacking a $100B market opportunity for back office finance automation across billing, tax, revenue reporting, and data.\n What you’ll do\n As a Tax Account Executive at Stripe, you will use your sales and product expertise to help drive growth through both existing and new to Stripe customers. You will collaborate with the core sales, marketing, product marketing, and product teams to develop deep product and industry knowledge and drive strategic deals. You will be instrumental in leading in depth product discussions with existing and prospective customers – and building and executing against our go to market strategy.\n Responsibilities\n Drive revenue and retain users to achieve and over perform on target and KPIs\n Lead discussions with our largest existing and prospective customers\n Contribute to the development of go-to-market playbooks alongside product, marketing, sales, and technical services stakeholders\n Understand and articulate the value propositions of Stripe Tax to key stakeholders, including technical teams, financial departments, partners and C-suite executives.\n Develop a deep understanding of global indirect tax requirements of potential customers.\n Build and maintain relationships with clients, guiding them throug…",
-    "tags": [
-      "1641 Product Sales - RFA ex Billing"
-    ],
-    "postedAt": "2026-09-24T13:11:50.000Z",
-    "scrapedAt": "2026-09-24T13:59:16.323Z"
-  },
-  {
-    "id": "arbeitnow:machine-learning-engineer-berlin-435827",
-    "externalId": "machine-learning-engineer-berlin-435827",
+    "id": "arbeitnow:site-reliability-engineer-berlin-216548",
+    "externalId": "site-reliability-engineer-berlin-216548",
     "source": "arbeitnow",
-    "title": "Machine Learning Engineer",
-    "company": "Phantasma Labs",
+    "title": "Site Reliability Engineer",
+    "company": "sonyinteractiveentertainmentglobal",
     "location": "Berlin",
-    "remote": true,
-    "url": "https://www.arbeitnow.com/jobs/companies/phantasma-labs/machine-learning-engineer-berlin-435827",
-    "description": "At Phantasma Labs, we're building AI-powered production scheduling software for manufacturers. Production scheduling is a complex problem: priorities change, machines go down, new orders come in and planners constantly need to adapt. Many factories still rely heavily on manual planning to manage this complexity.\n We approach this differently. Our technology combines reinforcement learning with Digital Twin environments to train AI agents in simulation, allowing manufacturers to create and optimize production schedules without relying on large historical datasets.\n We're already working with manufacturers across Europe, the US and Japan and partner with ERP and MES providers to bring our technology into real production environments. We're a small, international team based in Berlin with a flexible remote setup, and there's still a lot to build as we continue developing the product and bringing it to more manufacturers.\n Tasks\n As a Machine Learning Engineer, you'll work on the core AI behind our production scheduling software. You'll develop and improve our reinforcement learning agents, work on the Digital Twin environments they train in and help turn complex manufacturing problems into models that work in real factories.\n You'll have a lot of ownership over how we approach these problems and work closely with both our engineering team and customers. We're looking for someone who brings strong Python experience together with an understanding of manufacturing environments and wants to apply reinforcement learning to real-world production challenges.\n Write robust, scalable and production-ready Python code\n Provide code reviews, guidance, and mentorship to fellow developers to maintain high coding standards\n Write unit and integration tests using tools such as unittest and pytest\n Design, engineer and optimize features in the Digital Twin for reinforcement learning simulations using Python, NumPy and Pandas\n Create, optimize and maintain training and evaluation scrip…",
-    "tags": [
-      "Remote",
-      "Engineering"
-    ],
-    "postedAt": "2026-09-24T13:00:30.000Z",
-    "scrapedAt": "2026-09-24T13:59:15.521Z"
-  },
-  {
-    "id": "arbeitnow:berater-fur-kundenprojekte-fur-berlin-wurzburg-335466",
-    "externalId": "berater-fur-kundenprojekte-fur-berlin-wurzburg-335466",
-    "source": "arbeitnow",
-    "title": "Berater für Kundenprojekte (m/w/d) für Berlin",
-    "company": "Administration Intelligence AG",
-    "location": "Würzburg",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/administration-intelligence-ag/berater-fur-kundenprojekte-fur-berlin-wurzburg-335466",
-    "description": "Die Prof. Thome Gruppe vereint seit über zwei Jahrzehnten ein starkes Netzwerk an Kompe­ten­zen in Systemanalyse, Softwareent­wicklung und Beratung. Die sieben Firmen der Unter­nehmens­gruppemit Stammsitz in Würzburg ar­beiten weltweit und haben ein Ziel: Die Ermög­lichung der zukünftigen digitalen Zusammen­arbeit.\n Mit unseren intelligenten Lösungen für eVergabe und eBeschaffung unterstützt die\nAdministration Intelligence AG wir öffentliche Auftraggeber auf Ebene von Bund,\nLändern und Kommunen bei der effizienten und sicheren Abwicklung ihrer\nEinkaufsprozesse.\n Wir suchen neue Kolle­ginnen und Kollegen, die mit uns Ihre Fähigkeiten teilen und Ihre Erfahrung in die Projekte bringen.\n Aufgaben\n Beratung unserer Bestandskunden des Public Sectors bei der stetigen Weiterentwicklung ihrer digitalen Einkaufsprozesse\n Realisierung kundenindividueller Projekte von der Anforderungsanalyse bis zur Umsetzung beim Kunden\n Priorisierung von Anforderungen beim Kunden inkl. der Konzeption innovativer Lösungswege\n Organisation und Moderation von Kundenworkshops und Schulungsmaßnahmen\n Kommunikatives Bindeglied zwischen allen Stakeholdern eines Softwareprojektes\n Qualifikation\n Affinität an den Themen IT und Software\n Einschlägige kaufmännische oder technische Ausbildung oder Studium (Informtatik, Wirtschaftsinformatik, Jura oä.)\n Interesse an öffentlichen Einkauf oder Vergaberecht\n Teamgeist,ausgeprägte analytische und kommunikative Fähigkeiten\n Lust am persönlichen Austausch mit den Kunden\n Benefits\n Job- und Krisensicherheit durch öffentliche Auftraggeber in einem unbefristeten Arbeitsverhältnis\n Freundlicher, respektvoller und aufgeschlossener Umgang mit flachen Hierarchien\n Mentorenprogramm und ausgiebige Weiterbildungsmöglichkeiten\n Eine gute Work-Life-Balance, flexible Arbeitszeiten und der Möglichkeit im Homeoffice zu arbeiten\n Gemeinsame Team- und Firmenevents, attraktive Sozialleistungen, Gesundheitsangebote wie z.B. Wellpass, Getränke und Obst-Bar\n Jobrad oder Jobticket…",
+    "url": "https://www.arbeitnow.com/jobs/companies/sonyinteractiveentertainmentglobal/site-reliability-engineer-berlin-216548",
+    "description": "<div class=\"content-intro\"><p><strong>Why Sony Interactive Entertainment?</strong></p>\n<p>Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.</p></div><p><strong>Site Reliability Engineer</strong></p>\n<p>As a part of Sony Computer Entertainment, the <span data-contrast=\"none\">Gaming,<span class=\"Apple-converted-space\">&nbsp;</span><span class=\"searchHighlight\">Developer</span><span class=\"Apple-converted-space\">&nbsp;</span>&amp; Future<span class=\"Apple-converted-space\">&nbsp;</span><span class=\"searchHighlight\">Technology Group</span> (<span data-teams=\"true\">GDFT</span>)</span> is leading the cloud gaming revolution, putting console-quality video games on any device, from TVs to consoles to mobile devices and beyond.</p>\n<p>Our Site Reliability Engineering team plays a significant role in delivering on the promise of a great cloud gaming experience to our customers. We do this by influencing design and operational decisions towards the overall stability of the gaming service. Our SREs focus on three main things: overall ownership of production, production code quality, and deployments. The successful candidate will be self-directed and able to participate in the way we make decisions at different levels.</p>\n<p>We expect our SREs to have opinions on the state of our service and provide critical feedback during different phases of the operational…",
     "tags": [
-      "Project Management"
+      "Network / Core Engineering"
     ],
-    "postedAt": "2026-09-24T13:00:30.000Z",
-    "scrapedAt": "2026-09-24T13:59:15.521Z"
+    "postedAt": "2026-09-24T17:55:20.000Z",
+    "scrapedAt": "2026-09-24T18:48:42.853Z"
   },
   {
-    "id": "arbeitnow:chat-setter-high-ticket-pr-coaching-frankfurt-am-main-449791",
-    "externalId": "chat-setter-high-ticket-pr-coaching-frankfurt-am-main-449791",
+    "id": "arbeitnow:senior-service-reliability-engineer-berlin-123825",
+    "externalId": "senior-service-reliability-engineer-berlin-123825",
     "source": "arbeitnow",
-    "title": "Chat Setter (m/w/d) High-Ticket PR & Coaching",
-    "company": "PR Profis®",
-    "location": "Frankfurt am Main",
-    "remote": true,
-    "url": "https://www.arbeitnow.com/jobs/companies/pr-profis/chat-setter-high-ticket-pr-coaching-frankfurt-am-main-449791",
-    "description": "Du bist stark in der Kommunikation, erkennst schnell, ob echtes Interesse vorhanden ist, und weißt, wie man aus einem Kontakt ein qualifiziertes Gespräch macht?\n Dann suchen wir dich.\n Wir sind eine etablierte PR-Agentur und unterstützen Unternehmer, Coaches, Experten und Selbstständige dabei, durch redaktionelle Medienpräsenz sichtbarer zu werden, Vertrauen aufzubauen und ihre Positionierung zu stärken.\n Zusätzlich begleiten wir Unternehmer und Dienstleister im Bereich PR und Agenturaufbau durch hochpreisige Coachings.\n Für unser Wachstum suchen wir einen Chat Setter (m/w/d) , der über Social Media und Messenger aktiv neue Kontakte anspricht, Gespräche führt, Leads qualifiziert und passende Interessenten für unsere Verkaufsgespräche terminiert.\n Aufgaben\n Aktive Ansprache potenzieller Kunden über LinkedIn, Instagram und weitere Kanäle\n Aufbau echter Gespräche statt Copy-Paste-Spam\n Qualifizierung vonInteressentenHerausfinden von Bedarf, Zielen und Investitionsbereitschaft\n Terminierung qualifizierter Leads für unsere Closer\n Konsequentes Follow-up mit bestehenden KontaktenPflege und Dokumentation der Leads\n Qualifikation\n Sehr gute schriftliche Kommunikation auf Deutsch\n Selbstbewusstes und sympathisches Auftreten\n Du kannst Gespräche führen, ohne aufdringlich zu wirken\n Du erkennst schnell, welche Leads wirklich Potenzial haben\n Du arbeitest strukturiert und zuverlässig\n Du hast kein Problem damit, täglich aktiv auf Menschen zuzugehen\n Du bist zielorientiert und willst Ergebnisse sehen\n Wichtig:\n Wir suchen keinen reinen „Nachrichten-Verschicker“.\n Wir suchen jemanden, der versteht, dass gutes Setting bedeutet:\n Vertrauen aufbauen, Bedarf erkennen, qualifizieren und die richtigen Menschen ins Gespräch bringen.\n Wenn du bereits Erfahrung als Setter hast und Lust auf ein ambitioniertes Umfeld mit hochpreisigen Dienstleistungen hast, freuen wir uns auf deine Bewerbung.\n Find Jobs in Germany on Arbeitnow",
+    "title": "Senior Service Reliability Engineer",
+    "company": "sonyinteractiveentertainmentglobal",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/sonyinteractiveentertainmentglobal/senior-service-reliability-engineer-berlin-123825",
+    "description": "<div class=\"content-intro\"><p><strong>Why Sony Interactive Entertainment?</strong></p>\n<p>Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.</p></div><p><strong><span data-contrast=\"auto\">Senior Service Reliability Engineer</span></strong><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"none\">As a part of Sony Interactive Entertainment, the Gaming,<span class=\"Apple-converted-space\">&nbsp;</span><span class=\"searchHighlight\">Developer</span><span class=\"Apple-converted-space\">&nbsp;</span>&amp; Future<span class=\"Apple-converted-space\">&nbsp;</span><span class=\"searchHighlight\">Technology Group</span> (<span data-teams=\"true\">GDFT</span>) is leading the cloud gaming revolution, putting console-quality video games on any device, from TVs to consoles to mobile devices and beyond.</span><span data-ccp-props=\"{\"134233117\":true,\"134233118\":true,\"201341983\":0,\"335559740\":240}\">&nbsp;</span></p>\n<p><span data-contrast=\"none\">Our Site Reliability Engineering team plays a significant role in delivering on the promise of a great cloud gaming experience to our customers. We do this by influencing design and operational decisions towards the overall stability of the gaming service. Our SREs focus on three main things: overall ownership of production, production code quality, and deployments. The successful candidate will be self-directed and…",
     "tags": [
-      "Remote",
-      "Marketing Assistant",
-      "Freelance",
-      "berufserfahren"
+      "Network / Core Engineering"
     ],
-    "jobType": "Freelance",
-    "postedAt": "2026-09-24T13:00:29.000Z",
-    "scrapedAt": "2026-09-24T13:59:15.521Z"
+    "postedAt": "2026-09-24T17:55:20.000Z",
+    "scrapedAt": "2026-09-24T18:48:42.853Z"
+  },
+  {
+    "id": "arbeitnow:werkstudent-rezeptmanagement-all-genders-berlin-berlin-339970",
+    "externalId": "werkstudent-rezeptmanagement-all-genders-berlin-berlin-339970",
+    "source": "arbeitnow",
+    "title": "Werkstudent Rezeptmanagement (all genders)",
+    "company": "hellofresh",
+    "location": "Berlin, Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/werkstudent-rezeptmanagement-all-genders-berlin-berlin-339970",
+    "description": "<h2><strong>Deine Rolle</strong></h2>\n<p>Als Werkstudent/in im Rezeptmanagement unterstützt du unser Rezeptentwicklungsteam bei der Pflege und Verwaltung kulinarischer Daten. Dabei arbeitest du eng mit dem Culinary-Operations-Team zusammen und sorgst mit einem guten Blick fürs Detail, Struktur und Sorgfalt dafür, dass Rezepturen korrekt abgebildet und unsere Datensätze zuverlässig gepflegt sind.</p>\n<p>Bitte beachte, dass diese Stelle zunächst auf 12 Monate befristet ist.</p>\n<h2><strong>Dein Verantwortungsbereich</strong></h2>\n<ul>\n<li><strong>Rezept-Management: </strong>Pflege und Aktualisierung von Rezeptdaten in unseren internen Systemen sowie kurzfristige Anpassung von Rezepten bei Änderungen von Zutaten</li>\n<li><strong>Korrekturlesen:</strong> Prüfung von Rezepten auf korrekte Datenpunkte, Vollständigkeit und Konsistenz</li>\n<li><strong>Rezept-Optimierung:</strong> Erstellung und Überprüfung anpassbarer Rezeptvarianten auf Basis bestehender Rezepte</li>\n<li><strong>Datenkontrolle:</strong> Regelmäßige Validierung der Einträge in unserem System sowie systematische Fehleranalyse und -behebung</li>\n<li><strong>Performance-Analyse: </strong>Unterstützung bei der Auswertung von Rezepten auf Basis von Kundenfeedback sowie Zusammenfassung neuer Erkenntnisse und wiederkehrender Muster</li>\n</ul>\n<h2><strong>Dein Profil&nbsp;</strong></h2>\n<ul>\n<li>Studium mit Bezug zu Ernährung, Daten, Naturwissenschaften oder Wirtschaft</li>\n<li>Begeisterung für die Themen Essen und Kochen sowie grundlegendes kulinarisches Verständnis (z. B. Garzeiten, Geschmacksprofile, Zutatenkunde), welches eine fachliche Beurteilung bzw. Bearbeitung von Rezepten ermöglicht - auch ohne selbst am Herd zu stehen</li>\n<li>Detailverliebtheit, Zuverlässigkeit und ein selbstständiger Arbeitsstil, kombiniert mit Freude an klaren Strukturen und sorgfältiger Datenpflege</li>\n<li>Lösungsorientiertes Denken und die Fähigkeit, logisch nachvollziehbare Alternativen selbstständig zu entwickeln</li>\n<li>Fließe…",
+    "tags": [
+      "Menu + Culinary"
+    ],
+    "postedAt": "2026-09-24T17:55:15.000Z",
+    "scrapedAt": "2026-09-24T18:48:42.853Z"
+  },
+  {
+    "id": "arbeitnow:supply-chain-planning-working-student-all-genders-berlin-berlin-250745",
+    "externalId": "supply-chain-planning-working-student-all-genders-berlin-berlin-250745",
+    "source": "arbeitnow",
+    "title": "Supply Chain Planning Working Student (all genders)",
+    "company": "hellofresh",
+    "location": "Berlin, Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/supply-chain-planning-working-student-all-genders-berlin-berlin-250745",
+    "description": "<h2><strong>Your role</strong></h2>\n<p>We are looking for a Supply Chain planning working student for 12 months at the heart of our Product team, where you will be responsible for supporting our operational and strategic needs for our physical product: meal kits. You will be central to our activity and will have a significant influence on our customers' meals.</p>\n<p>We are looking for someone capable of assisting us in the operational planning of recipes at HelloFresh. This is a unique opportunity to learn and gain experience within a fast-growing company that is pioneering the food industry.</p>\n<p>If you want to be a driving force in the growth of a scale-up, then this position is for you!</p>\n<p>&nbsp;</p>\n<h2><strong>Your area of responsibility</strong></h2>\n<ul>\n<li><strong>Menu creation and optimization: </strong>Assist the team in creating and optimizing menus using our python-based menu-planning algorithm.</li>\n<li><strong>Product Improvement:</strong> You will work on several projects and initiatives that focus on improving our product offering aiming to increase customer satisfaction.</li>\n<li><strong>Menu De-Risking:</strong> You will lead a number of cross-collaborative initiatives and processes aiming to reduce the menu risk and to ensure ingredient availability by considering the end-to-end value chain of our product.&nbsp;</li>\n<li><strong>Operations support:</strong> You support the team in day-to-day operations as well as with administrative and organizational tasks along the supply and menu planning process and have the opportunity to solve concrete problems, make decisions, and learn to manage real-world situations in a dynamic environment.</li>\n<li><strong>Process management:</strong> You will participate in projects aimed at optimizing and automating and improving our product processes and supply chain by working with other teams.</li>\n<li><strong>Reporting:</strong> You will track the weekly performance of menus and recipes, and conduct analy…",
+    "tags": [
+      "Product Development"
+    ],
+    "postedAt": "2026-09-24T17:55:15.000Z",
+    "scrapedAt": "2026-09-24T18:48:42.853Z"
+  },
+  {
+    "id": "arbeitnow:senior-product-delivery-manager-production-berlin-berlin-243949",
+    "externalId": "senior-product-delivery-manager-production-berlin-berlin-243949",
+    "source": "arbeitnow",
+    "title": "Senior Product Delivery Manager, Production (f/m/x)",
+    "company": "hellofresh",
+    "location": "Berlin, Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-product-delivery-manager-production-berlin-berlin-243949",
+    "description": "<h2><strong>The role</strong></h2>\n<p>We are seeking a dynamic, hands-on Senior Product Delivery Manager at HelloFresh. This role is pivotal to the future of our fulfillment network. You will be at the helm of further developing and deploying a high-profile, highly complex strategic project that fundamentally redefines our production methods and capabilities across our DCs.<br>Working closely with Tech and Operations Leadership, you will be responsible for taking our new, next-generation production setup and refining its processes, equipment, and layouts. Once optimized, you will lead the charge in deploying this new operational blueprint into other DCs across our international markets.<br>This is not a traditional desk-bound product role; it requires a strong operational background, deep understanding of physical process design, and the ability to bridge the gap between high-level strategy and on-the-ground execution. The international role will be based in our Berlin office and will involve frequent travel to our local warehouses across markets and potentially extended stays during roll-out periods.</p>\n<p>Above all, we are looking for people who will&nbsp;<strong>make HelloFresh</strong>&nbsp;<strong>better.</strong>&nbsp;We believe there are many different ways of developing skills and we love diverse experiences! So even if you don’t “tick all the boxes” but think you’d thrive in this role, we would really like to learn more about you.</p>\n<h2><strong>What you’ll do</strong></h2>\n<ul>\n<li><strong>Process and Equipment Design:</strong> You will actively design, evaluate, and refine DC layouts, operational workflows, and physical equipment setups for our next-generation production models.</li>\n<li><strong>Project Deployment &amp; Rollout:</strong> Working cross-functionally, you will be the driving force for the end-to-end implementation and deployment of production technologies. Including this complex new production model across multiple international fulfillme…",
+    "tags": [
+      "Tech"
+    ],
+    "postedAt": "2026-09-24T17:55:15.000Z",
+    "scrapedAt": "2026-09-24T18:48:42.853Z"
   }
 ]
