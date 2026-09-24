@@ -1,5 +1,91 @@
 [
   {
+    "id": "arbeitnow:senior-bigquery-data-engineer-london-212506",
+    "externalId": "senior-bigquery-data-engineer-london-212506",
+    "source": "arbeitnow",
+    "title": "Senior BigQuery Data Engineer",
+    "company": "Checkout.com",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-bigquery-data-engineer-london-212506",
+    "description": "Company Description\n We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day.\n We are where the world checks out, enabling over 10 billion transactions yearly for more than one billion global shoppers.\n Whether you want to book a holiday, order food, renew a subscription, or check out online, there’s a good chance our tech powers the payments behind the scenes. Our platform helps the most ambitious businesses deliver effortless digital experiences, at scale.\n If you want to do career-defining work, you’ve come to the right place. We move fast, think globally, and believe great teams are built by hiring exceptional people with conviction, curiosity, and the desire to make an impact.\n With 20 offices across six continents and London as our HQ, we’re shaping the future of fintech – and we’re just getting started.\n Checkout.com is looking for an ambitious Data Engineer to join our Data Platform Team. Our team’s mission is to build a world-class data platform that powers our products and analytics.\n The Data Platform team is here to ensure internal stakeholders can easily collect, store, process and utilise data to build reports or products aiming to solve business problems. Our focus is on maximising the amount of time business stakeholders spend on solving business problems and minimising time spent on technical details around implementation, deployment, and monitoring of their solutions.\n The core tech stack we use is based on AWS and GCP, using:\n Kafka as our message transport\n Flink for (near) real time processing\n Datahub as our catalog\n BigQuery as our warehouse\n Airflow (GCP Composer) for scheduling\n DBT for data transformation\n Montecarlo for monitoring\n The platform here encompasses the end-to-end, first for real time / streaming use cases but also for our analytical / warehouse needs. We're building for scale. As such, much of what we…",
+    "tags": [
+      "All Departments",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-09-24T00:40:13.000Z",
+    "scrapedAt": "2026-09-24T02:57:22.529Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-berlin-345637",
+    "externalId": "data-engineer-berlin-345637",
+    "source": "arbeitnow",
+    "title": "Data Engineer (f/m/d)",
+    "company": "Moonfare",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/moonfare/data-engineer-berlin-345637",
+    "description": "<p><strong>Join the team rewriting the rules in private markets.</strong></p>\n<p>Moonfare delivers what few others can: the highly sought-after funds and hidden-gem investments that go beyond what most private banks offer. Every opportunity is subjected to a ruthless vetting process; the bar is unforgivingly high. The result? Institutional-quality portfolios for investors who demand more.</p>\n<p>Our team combines finance veterans with talent from tech, consulting, law and industries you’d never expect. Headquartered in Berlin, we operate from eight offices across Europe, the US and Asia.</p>\n<p>If you're ready to build what's next in private markets, let's talk.</p>\n<p><strong>Data Engineer (m/f/d)</strong></p>\n<p>We're looking for a Data Engineer who has hands-on experience integrating&nbsp;databases and external APIs, understands AWS infrastructure, and is comfortable working with tools like DBT to model and transform data. You'll&nbsp;help build and scale our data platform from ingestion through to the&nbsp;warehouse layer, powering AI Agents, BI, and business decisions across the&nbsp;organization.</p>\n<p><strong>You will:</strong></p>\n<ul>\n<li>Build and maintain data pipelines from ingestion through to storage</li>\n<li>Take end-to-end ownership of pipeline components</li>\n<li>Model data using data lake and warehouse concepts, and contribute to performance improvements (partitioning, file formats, tuning)</li>\n<li>Apply data governance and security practices in your work (least-privilege IAM, encryption, PII handling)</li>\n<li>Support the team with data quality, coding consistency and data availability</li>\n<li>Collaborate with analysts and stakeholders to translate requirements into working data solutions</li>\n<li>Identify, formulate, and propose improvements to your own and your team’s practices</li>\n</ul>\n<p><strong>The Next Moonfarian:</strong></p>\n<ul>\n<li>2–4 years of hands-on experience building and maintaining data pipelines in production</li>\n<li>Stron…",
+    "tags": [
+      "Engineering"
+    ],
+    "postedAt": "2026-09-23T23:56:09.000Z",
+    "scrapedAt": "2026-09-24T02:57:22.529Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-418990",
+    "externalId": "data-engineer-418990",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "Wayve",
+    "location": "Unknown",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/wayve/data-engineer-418990",
+    "description": "<div class=\"content-intro\"><h2><strong>About us&nbsp;</strong>&nbsp;&nbsp;</h2>\n<p>Founded in 2017, Wayve is the leading developer of Embodied AI technology.&nbsp; Our advanced AI software and foundation models enable vehicles to perceive, understand, and navigate any complex environment, enhancing the usability and safety of automated driving systems.</p>\n<p>Our vision is to create autonomy that propels the world forward.&nbsp; Our intelligent, mapless, and hardware-agnostic AI products are designed for automakers, accelerating the transition from assisted to automated driving.&nbsp; <br><br>In our fast-paced environment big problems ignite us—we embrace uncertainty, leaning into complex challenges to unlock groundbreaking solutions. We aim high and stay humble in our pursuit of excellence, constantly learning and evolving as we pave the way for a smarter, safer future.</p>\n<p>At Wayve, your contributions matter.&nbsp; We value diversity, embrace new perspectives, and foster an inclusive work environment; we back each other to deliver impact.&nbsp;&nbsp;</p>\n<p>Make Wayve the experience that defines your career!&nbsp;&nbsp;</p></div><h2><strong>The Role&nbsp;</strong></h2>\n<p>As a Data Engineer within the Machine Learning team in Application Software, you’ll contribute to critical initiatives that push the frontier of model-based autonomous driving—both in terms of core driving performance and feature-level intelligence such as personalization, comfort, and collaboration.</p>\n<p>You’ll design and deliver scalable data pipelines that transform vast amounts of data from diverse internal and external sources into structured, reliable, and model-ready datasets. Your work will span data ingestion, data quality assurance, transformation, curation, evaluation and ML support. You’ll collaborate deeply with Wayve’s Data Corpus teams and ML engineers to build systems that are performant, adaptable, and ready for production.</p>\n<p>&nbsp;</p>\n<p><strong>Key Responsibilities:…",
+    "tags": [
+      "Product & Delivery"
+    ],
+    "postedAt": "2026-09-23T23:56:07.000Z",
+    "scrapedAt": "2026-09-24T02:57:22.529Z"
+  },
+  {
+    "id": "arbeitnow:staff-data-engineer-germany-488259",
+    "externalId": "staff-data-engineer-germany-488259",
+    "source": "arbeitnow",
+    "title": "Staff Data Engineer",
+    "company": "Jupus",
+    "location": "Germany",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/jupus/staff-data-engineer-germany-488259",
+    "description": "We're seeking a Staff Data Engineer to join one of the fastest-growing AI legal tech companies in Europe. You'll take technical ownership of the data platform behind how we run the business: the pipelines, the warehouse, and the definitions behind the numbers our leadership team actually uses.\n You'll report to our Head of Engineering and work alongside a colleague who owns the business-facing side of data, plus our infrastructure and application engineers. This is a senior individual contributor role with no line management in either direction, roughly 70% hands-on building, 30% defining, documenting and explaining.\n Your Challenge and Opportunity in This Role JUPUS supports hundreds of law firms across Europe, and our customer base is growing roughly 4x a year. Our data platform has grown with it (ClickHouse, dbt, Python extract-load pipelines into an S3 data lake, orchestration in GitHub Actions) and it has grown fast.\n Your job is to make it trustworthy. That means modernising what already exists, making historical trends a record of what actually happened rather than a nightly re-derivation of it, and owning the definitions behind the metrics that reach our board. This is not a greenfield build, and it is not a maintenance seat. It is a real platform with real problems, and you would own it.\n Tasks Own the data platform end to end: ingestion and the raw layer, the ClickHouse warehouse, and the dbt project on top of it. You're the person who can say whether a number is wrong or the pipeline is.\n Make our numbers trustworthy: reliability, correctness, and a history that holds up, so that a trend is a record of what actually happened rather than a re-derivation of it.\n Own the metrics the company runs on , starting with our customer health score- the definition, the denominator, the eligibility rules and the known limitations, not just the SQL underneath them.\n Turn business questions into durable metrics: work directly with Customer Success, Sales, Product and l…",
+    "tags": [
+      "Engineering",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-09-23T20:40:12.000Z",
+    "scrapedAt": "2026-09-24T02:57:22.529Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-berlin-168686",
+    "externalId": "senior-data-engineer-berlin-168686",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer",
+    "company": "Kayak",
+    "location": "Berlin Office",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/kayak/senior-data-engineer-berlin-168686",
+    "description": "KAYAK, part of Booking Holdings (NASDAQ: BKNG), is the world's leading travel search engine. With billions of queries across our platforms, we help people find their perfect flight, stay, rental car and vacation package. We're also transforming business travel with a new corporate travel solution, KAYAK for Business.\n As an employee of KAYAK, you will be part of a travel company that operates a portfolio of global metasearch brands including momondo, Cheapflights and HotelsCombined, among others. From start-up to industry leader, innovation is at our core and every employee has an opportunity to make their mark. Our focus is on building the best travel search engine to make it easier for everyone to experience the world.\n We are looking for a Senior Data Engineer to join our Business Intelligence team.\n Our team builds and operates the data backbone that serves as the single source of truth for the organization. We manage KAYAK’s business-critical reporting to support billing and provide the foundation for company-wide reporting and analytics.\n If you want to build the systems that define how the business measures success, we’d love to hear from you.\n This role will be required to work from our Berlin office 3 days per week.\n In this role, you will: Architect for scale: Develop and monitor robust data pipelines using Python, SQL, and Rundeck/Airflow that handle large-scale data volumes with high reliability.\n Optimize performance: Design performant data models and optimize complex SQL queries for high-scale environments.\n Ensure data reliability: build automated checks and alerts to catch errors early so financial and operational reports remain accurate.\n Increase data access: automate repetitive tasks and build self-service tools to make data easier to use across teams.\n Drive engineering excellence: experiment with and leverage AI-assisted coding tools to accelerate development cycles and enhance code quality.\n Work with partners across the company: translate bus…",
+    "tags": [
+      "Cost Centers",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-09-23T20:40:04.000Z",
+    "scrapedAt": "2026-09-24T02:57:22.529Z"
+  },
+  {
     "id": "arbeitnow:internship-data-engineer-core-data-product-lille-villeneuve-dascq-nord-171725",
     "externalId": "internship-data-engineer-core-data-product-lille-villeneuve-dascq-nord-171725",
     "source": "arbeitnow",
@@ -13,7 +99,7 @@
       "Data"
     ],
     "postedAt": "2026-09-23T19:55:25.000Z",
-    "scrapedAt": "2026-09-23T21:01:25.977Z"
+    "scrapedAt": "2026-09-24T02:57:22.529Z"
   },
   {
     "id": "arbeitnow:internship-data-engineer-core-data-product-paris-paris-paris-421816",
@@ -29,7 +115,7 @@
       "Data"
     ],
     "postedAt": "2026-09-23T19:55:25.000Z",
-    "scrapedAt": "2026-09-23T21:01:25.977Z"
+    "scrapedAt": "2026-09-24T02:57:22.529Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -45,7 +131,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-09-23T21:01:26.467Z"
+    "scrapedAt": "2026-09-24T02:57:23.097Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-london-270437",
@@ -61,7 +147,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-09-23T18:55:03.000Z",
-    "scrapedAt": "2026-09-23T21:01:25.977Z"
+    "scrapedAt": "2026-09-24T02:57:22.529Z"
   },
   {
     "id": "greenhouse:pinterest-8209014",
@@ -77,88 +163,6 @@
       "Oversight Engineering"
     ],
     "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-09-23T21:01:26.467Z"
-  },
-  {
-    "id": "arbeitnow:head-of-data-engineering-manchester-273667",
-    "externalId": "head-of-data-engineering-manchester-273667",
-    "source": "arbeitnow",
-    "title": "Head of Data Engineering",
-    "company": "PHMG Careers",
-    "location": "Manchester, England, United Kingdom",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/head-of-data-engineering-manchester-273667",
-    "description": "Role: Head of Data Engineering\n Location: Manchester based office – Hybrid working\n Package: £98k OTE\n PHMG is continuing to develop and mature its data capability, focusing on modernising our data platform and enhancing the way we work. This creates further opportunities to leverage data more effectively, allowing us to better serve our customers and colleagues. As part of this continued development, we are looking to strengthen our Data Engineering capability and maximise the value from the wealth of data held across the organisation.\n To support this vision, we are seeking a Head of Data Engineering. This pivotal role will lead an established Data Engineering team, supporting their development while strengthening engineering practices, technical standards and ways of working across the function. The successful candidate will foster a culture of technical excellence, collaboration and continuous improvement.\n This is an exciting opportunity for an experienced data engineering leader to help develop our data engineering community of practice, define data standards across the organisation and be part of the team delivering and evolving PHMG's Data Strategy.\n The role: What you will do:\n Lead, manage and develop the Data Engineering team, building capability, resilience and strong ways of working.\n Own PHMG's core data platform, architecture, data warehouse and associated pipelines, ensuring solutions are scalable, reliable, maintainable and cost-effective.\n Own Data Engineering delivery, ensuring work is appropriately designed, prioritised and delivered to agreed standards.\n Establish and embed strong engineering practices across source control, CI/CD, testing, code review, documentation, monitoring and error handling.\n Work closely with the wider Data team to translate the Data Strategy and business priorities into an effective engineering roadmap and delivery plan.\n Work closely with IT, Infrastructure and other engineering teams on architecture, integrations, mi…",
-    "tags": [],
-    "postedAt": "2026-09-23T14:45:28.000Z",
-    "scrapedAt": "2026-09-23T21:01:25.977Z"
-  },
-  {
-    "id": "arbeitnow:senior-software-data-engineering-h-f-paris-83837",
-    "externalId": "senior-software-data-engineering-h-f-paris-83837",
-    "source": "arbeitnow",
-    "title": "Senior Software & Data Engineering (H/F)",
-    "company": "ILLUIN Technology",
-    "location": "Paris La Défense",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/senior-software-data-engineering-h-f-paris-83837",
-    "description": "Descriptif du poste\n   → Votre mission\nEn tant que Senior Software & Data Engineer, votre rôle sera de concevoir, développer et industrialiser des solutions technologiques et data de pointe, au service de produits IA à fort impact.\nVous interviendrez à la fois sur :\n le développement de solutions software sur mesure ou produit\n la conception et l’industrialisation d’architectures data scalables\n la mise en place de systèmes IA et MLOps en environnement cloud ou on-premise\n Ces solutions s’inscrivent dans des projets clients exigeants, ainsi que dans le développement de nos produits et de notre stack interne.\n → Vos responsabilités\n Concevoir et développer des applications, APIs et architectures data robustes et scalables\n Industrialiser des pipelines de données (ingestion, transformation, streaming, batch) sur des volumes importants\n Participer à la conception de solutions IA / GenAI intégrées dans des produits clients\n Contribuer à la mise en place et à l’évolution de notre stack MLOps / Data Engineering\n Participer aux code reviews, challenger les implémentations et partager les bonnes pratiques\n Prendre part aux cérémonies agiles et sprint reviews en interaction directe avec les clients et équipes produit\n Encadrer et faire monter en compétences des profils juniors (selon séniorité)\n Contribuer à la R&D, aux projets internes transverses (OPS, sécurité, tooling, formation, innovation)\n Participer ponctuellement aux échanges techniques avec les équipes commerciales (avant-vente / cadrage)\n   Profil recherché\nNous cherchons le match parfait 💓 …mais nous croyons à la richesse des rencontres ! Alors si vous n’êtes pas certain.e de matcher notre recherche nous vous encourageons à nous contacter quand même ✉️\n   ✅ Must have\n Expérience avec un langage de programmation (Python, Java, Kotlin, Scala, TypeScript…)\n Solide compréhension du développement logiciel et du fonctionnement du Web\n Maîtrise de SQL et des bases de données (SQL / NoSQL)\n Expérience avec frameworks b…",
-    "tags": [
-      "Software Engineering",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-09-23T13:40:08.000Z",
-    "scrapedAt": "2026-09-23T21:01:25.977Z"
-  },
-  {
-    "id": "arbeitnow:senior-director-reporting-analytics-engineering-london-17039",
-    "externalId": "senior-director-reporting-analytics-engineering-london-17039",
-    "source": "arbeitnow",
-    "title": "Senior Director, Reporting & Analytics Engineering",
-    "company": "sonyinteractiveentertainmentglobal",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-director-reporting-analytics-engineering-london-17039",
-    "description": "<div class=\"content-intro\"><p><strong>Why Sony Interactive Entertainment?</strong></p>\n<p>Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.</p></div><h2><span style=\"font-size: 16px;\">Role Overview:</span></h2>\n<p><span style=\"font-size: 12pt;\">We are seeking a Senior Director to lead our Enterprise Reporting and Analytics Engineering organization, a team of analytics engineers, report developers, visualization specialists, and people leaders. This organization focuses on the last mile of the enterprise data supply chain: the semantic models, curated data products, metric definitions, and consumption experiences that turn engineered data into decisions.</span></p>\n<p><span style=\"font-size: 12pt;\">This is not a traditional reporting leadership role; the classic notion of “reporting” in the form of a myriad of dashboards and filters is racing towards obsolescence. But the need for data and insights, and the need to deliver it in a way that is digestible and actionable, is timeless. Yes, governed dashboards and trusted reporting remain the foundation, and this leader must be excellent at that foundation. But the mandate is to move the organization decisively beyond static reporting toward a proactive, intelligent analytics capability: partnering with Data Science to productize and visualize their models, enabling generative AI and LLM-based access t…",
-    "tags": [
-      "Admin (PDS)"
-    ],
-    "postedAt": "2026-09-23T12:55:03.000Z",
-    "scrapedAt": "2026-09-23T21:01:25.977Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-platform-engineer-london-140270",
-    "externalId": "senior-data-platform-engineer-london-140270",
-    "source": "arbeitnow",
-    "title": "Senior Data Platform Engineer",
-    "company": "Deepl",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/senior-data-platform-engineer-london-140270",
-    "description": "Meet DeepL DeepL is a global AI product and research company focused on building secure, intelligent solutions to complex business problems. Over 200,000 business customers and millions of individuals across 228 global markets today trust DeepL's Language AI platform for human-like translation, improved writing and real-time voice translation.\nFounded in 2017 by CEO Jaroslaw “Jarek” Kutylowski, DeepL now has around 1,000 passionate employees and is supported by world-renowned investors including Benchmark, IVP, and Index Ventures.\n Our goal is to become the global leader in trusted, intelligent AI technology, building products that drive better communication, foster connections, and create a meaningful impact. To achieve this, we need talented people like you to join our journey. If you’re ready to shape the future of AI and grow your career in a fast-moving, purpose-driven environment, DeepL is your next destination.\n What sets us apart What sets us apart is our blend of cutting-edge AI technology, meaningful work, and a culture where people truly thrive. We’re a team of innovators, researchers, and creators driven by a shared purpose to unlock human potential by making work simpler, smarter, and more connected.\n When we share what it’s like to work at DeepL, the reactions are overwhelmingly positive. This might be because of our technology that helps millions of people and businesses communicate and work better every day, or because of the trust, curiosity, and care that shape our culture.\n What we know for sure is this: being part of DeepL means joining a team dedicated to innovation, growth, and well-being. Discover more about life at DeepL on LinkedIn , Instagram , and our Blog .\n Meet the team behind this journey DeepL is not just a translation tool; we are building the Operating System for Global Communication . We are the rare AI company that builds the entire stack in-house: from training next-gen LLMs on our own NVIDIA DGX SuperPODs to delivering real-tim…",
-    "tags": [
-      "Engineering",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-09-23T12:40:12.000Z",
-    "scrapedAt": "2026-09-23T21:01:25.977Z"
-  },
-  {
-    "id": "greenhouse:airbnb-8224032",
-    "externalId": "airbnb:8224032",
-    "source": "greenhouse",
-    "title": "Senior Staff Data Engineer, Foundational Data",
-    "company": "Airbnb",
-    "location": "United States",
-    "remote": false,
-    "url": "https://careers.airbnb.com/positions/8224032?gh_jid=8224032",
-    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n The Community You Will Join:\n At Airbnb, our mission is to create a world where anyone can belong anywhere. The Foundational Data team builds and operates the high-quality, widely reused datasets that power critical decisions across Airbnb: how visitors are measured from site traffic, how bot traffic is separated from organic traffic, and how cloud costs are attributed to Airbnb services. Our cost dashboards are among the most-used at Airbnb, relied on by technical leads, finance, and executives. Every dollar Airbnb spends running its infrastructure is attributed by models this team owns.\n We are now building a third pillar, and it puts this team at the forefront of how Airbnb measures AI: the cost, usage, and performance of the models we train and serve ourselves, and of the AI tools our own engineers use every day. When Airbnb asks whether an AI investment is paying off, the answer comes from datasets this team builds.\n Foundational Data sits inside Cloud Infrastructure and is a deliberate mix of Data Engineers and Analytics Engineers working as one team.\n The Difference You Will Make:\n As a Senior Staff Data Engineer, you are the technical leader for this team and the person who sets its direction. This is a hands-on role with no direct reports: you will own the long-term data architecture and you will build against it, from the Airflow-orchestrated pipelines that ingest telemetry, logs, and billing data through to the dimensional models and Minerva definitions that thousands of people at Airbnb reason with. Because we are a mixed DE and AE team, you will work across both disciplines: this role needs data…",
-    "tags": [
-      "Software Engineering"
-    ],
-    "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-09-23T21:01:26.467Z"
+    "scrapedAt": "2026-09-24T02:57:23.097Z"
   }
 ]

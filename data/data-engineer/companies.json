@@ -340,7 +340,7 @@
     ]
   },
   {
-    "company": "Deepl",
+    "company": "Checkout.com",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
@@ -349,10 +349,10 @@
       "London"
     ],
     "sampleTitles": [
-      "Senior Data Platform Engineer"
+      "Senior BigQuery Data Engineer"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/deepl/senior-data-platform-engineer-london-140270"
+      "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-bigquery-data-engineer-london-212506"
     ]
   },
   {
@@ -404,6 +404,38 @@
     ]
   },
   {
+    "company": "Jupus",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Germany"
+    ],
+    "sampleTitles": [
+      "Staff Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/jupus/staff-data-engineer-germany-488259"
+    ]
+  },
+  {
+    "company": "Kayak",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin Office"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/kayak/senior-data-engineer-berlin-168686"
+    ]
+  },
+  {
     "company": "Linear",
     "jobCount": 1,
     "sources": [
@@ -420,19 +452,19 @@
     ]
   },
   {
-    "company": "PHMG Careers",
+    "company": "Moonfare",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Manchester, England, United Kingdom"
+      "Berlin"
     ],
     "sampleTitles": [
-      "Head of Data Engineering"
+      "Data Engineer (f/m/d)"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/head-of-data-engineering-manchester-273667"
+      "https://www.arbeitnow.com/jobs/companies/moonfare/data-engineer-berlin-345637"
     ]
   },
   {
@@ -484,22 +516,6 @@
     ]
   },
   {
-    "company": "sonyinteractiveentertainmentglobal",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Senior Director, Reporting & Analytics Engineering"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-director-reporting-analytics-engineering-london-17039"
-    ]
-  },
-  {
     "company": "Spotify",
     "jobCount": 1,
     "sources": [
@@ -545,6 +561,22 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/senior-data-engineer-london-270437"
+    ]
+  },
+  {
+    "company": "Wayve",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Unknown"
+    ],
+    "sampleTitles": [
+      "Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/wayve/data-engineer-418990"
     ]
   }
 ]
