@@ -1,5 +1,24 @@
 [
   {
+    "id": "arbeitnow:intern-ai-data-engineering-munchen-481917",
+    "externalId": "intern-ai-data-engineering-munchen-481917",
+    "source": "arbeitnow",
+    "title": "Intern AI & Data Engineering (m/f/d)",
+    "company": "Ommax",
+    "location": "München",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/ommax/intern-ai-data-engineering-munchen-481917",
+    "description": "What we look for: You support client projects in turning AI opportunities into practical, valuable, and scalable solutions. You contribute to the development and implementation of AI and automation use cases, from the initial idea to technical prototypes. You help build software components, interfaces, and prototypes for concrete client applications. You prepare, integrate, and process data for AI applications and support the connection of different data sources. You contribute to the development and continuous improvement of data pipelines and technical foundations for scalable solutions. You work closely with AI specialists, data scientists, engineers, and consultants in interdisciplinary client projects. You evaluate new AI tools, models, and methods, assess their potential for relevant use cases, and document your findings.\n What we require: You are currently pursuing a degree in Computer Science, Data Science, Artificial Intelligence, Software Engineering, or a related field with excellent academic performance. You have gained initial hands-on experience in software development, ideally with Python. You have a strong interest in generative AI, machine learning, data engineering, and modern software architectures. Ideally, you have basic knowledge of databases, APIs, cloud technologies, or version control systems such as Git. You demonstrate strong analytical and solution-oriented thinking, with a structured, independent working style and high standards for quality. You are able to communicate technical topics clearly and enjoy collaborating with clients and multidisciplinary project teams. You have good German and English skills.\n What you can expect: Your impact is crucial: You develop solutions that connect AI strategy and technical implementation, creating tangible value for our clients. Your hard work pays off! You benefit from attractive salary packages, participation in sales success, and exclusive investment opportunities. In addition, we promote our to…",
+    "tags": [
+      "Student",
+      "Intern",
+      "Full time"
+    ],
+    "jobType": "Student",
+    "postedAt": "2026-09-24T20:09:42.000Z",
+    "scrapedAt": "2026-09-24T23:45:04.566Z"
+  },
+  {
     "id": "greenhouse:block-5434325008",
     "externalId": "block:5434325008",
     "source": "greenhouse",
@@ -13,7 +32,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "arbeitnow:founding-data-engineer-paris-399584",
@@ -31,60 +50,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-24T16:40:07.000Z",
-    "scrapedAt": "2026-09-24T18:49:37.390Z"
-  },
-  {
-    "id": "arbeitnow:working-student-data-engineering-munich-376970",
-    "externalId": "working-student-data-engineering-munich-376970",
-    "source": "arbeitnow",
-    "title": "Working Student - Data Engineering (m/f/d), Munich",
-    "company": "Kyrall",
-    "location": "Munich",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/kyrall/working-student-data-engineering-munich-376970",
-    "description": "We're building the world's fastest way to design real, functional 3D parts. Kyrall's AI-powered design agent turns ideas into ready-to-manufacture 3D models in seconds. Backed by top European VCs, we're a young, well-funded startup based in Munich — and we're just getting started.\n The Role\nYou'll work on our data team that owns the data our models learn from. That means sourcing 3D parametric data, writing parsers for CAD formats, and keeping the pipeline running so the AI team always has clean, usable training data.\n What To Expect\n Develop parsers that turn CAD formats into ML-compatible representations\n Source, clean and structure 3D parametric datasets\n Maintain and extend our data pipeline\n Deliver datasets to the AI team and support their experiments\n Your Profile\n Studying computer science, engineering, mathematics or similar\n Solid Python skills\n Interest in 3D geometry, CAD or geometric data (B-Reps, meshes, point clouds)\n Structured, self-driven way of working\n 20 hours per week, on-site in Munich\n Nice To Have\n Experience with CAD software or libraries\n Familiarity with data pipeline tooling\n Why Kyrall?\nWe're reinventing how machines are designed and built, from the ground up. 3D modeling tools were the last major leap in this space, and the way we design parts today has hit its limit. You'll work directly with the founders and AI team on a small, fast-moving team — and see your work land in the product within weeks.\n Find Jobs in Germany on Arbeitnow",
-    "tags": [
-      "AI",
-      "Part Time"
-    ],
-    "jobType": "Part Time",
-    "postedAt": "2026-09-24T14:40:08.000Z",
-    "scrapedAt": "2026-09-24T18:49:37.390Z"
-  },
-  {
-    "id": "arbeitnow:senior-analytics-engineer-207590",
-    "externalId": "senior-analytics-engineer-207590",
-    "source": "arbeitnow",
-    "title": "Senior Analytics Engineer",
-    "company": "Monzoreferrals",
-    "location": "Unknown",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/senior-analytics-engineer-207590",
-    "description": "<p>📍 London, Cardiff or Remote in the UK |&nbsp;<a href=\"https://monzo.com/careers/\">Benefits</a>&nbsp;|&nbsp;<a href=\"https://www.youtube.com/watch?v=U62l09nB0M4\">Hear from the team</a>&nbsp;✨| Check out our&nbsp;<a href=\"https://sites.google.com/monzo.com/career-launchpad/home\">Career Launchpad</a> 🚀</p>\n<p><strong>What you’ll be working on:&nbsp;</strong></p>\n<p>The Analytics Engineering team is responsible for building downstream data models from backend services with the desire to make our Data Warehouse a genuine competitive advantage for Monzo. We want a discipline capable of building an amazing Data Warehouse to support decision making, Business Intelligence, key financial reconciliation processes and best in class analytics and Data Science.&nbsp;</p>\n<p>You’ll enable our data driven approach, and:</p>\n<ul>\n<li style=\"line-height: 1.5;\">Support the building of robust data models downstream of backend services (mostly in BigQuery) that support internal reporting, machine learning as well as financial and regulatory use cases.</li>\n</ul>\n<ul>\n<li>Focus on optimisation of our Data Warehouse, spotting opportunities to reduce complexity and cost.</li>\n</ul>\n<ul>\n<li>Help define and manage best practices for our Data Warehouse. This may include payload design of source data, logical data modelling, implementation, metadata and testing standards.</li>\n</ul>\n<ul>\n<li>Set standards and ways of working with data across Monzo, working collaboratively with others to make it happen.</li>\n</ul>\n<ul>\n<li>Take established best practices and standards defined by the team, applying them within other areas of the business.</li>\n</ul>\n<ul>\n<li>Investigate and effectively work with colleagues from other disciplines to monitor and improve data quality within the warehouse.</li>\n</ul>\n<ul>\n<li style=\"line-height: 2;\">Contribute to prioritisation of data governance issues</li>\n<li style=\"line-height: 2;\">We all own and support the pipelines we contribute to, and on call support…",
-    "tags": [
-      "Data"
-    ],
-    "postedAt": "2026-09-24T12:55:05.000Z",
-    "scrapedAt": "2026-09-24T18:49:37.390Z"
-  },
-  {
-    "id": "jobicy:154001",
-    "externalId": "154001",
-    "source": "jobicy",
-    "title": "Sr. Manager, Data Engineering",
-    "company": "Carrot",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/07/005d05de29487ec44cd07bd9d757d4e1.png",
-    "location": "USA",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/154001-sr-manager-data-engineering",
-    "description": "About Carrot :\n Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide.\n Carrot is widely regarded as a defining force in healthcare innovation as a recipient of several top-tier awards, including Fast Company's 'Most Innovative Companies' and CNBC's '100 Barrier Breaking Startups'. The company is regularly cited by leading global outlets — including The Economist, Bloomberg, The Wall Street Journal, NPR, ABC News, and Harvard Business Review — as a leading voice on digital health, the future of work, and family health. Learn more at get-carrot.com .\n The Opportunity\n Carrot is seeking a Sr. Manager, Data Engineering to lead our Business Intelligence data engineering function as it scales to meet, and anticipate, the needs of the organization and its clients. This is a senior player/coach role with a strong emphasis on strategic leadership, technical excellence, and organizational impact. You will lead and grow a high-impact team while remaining deeply hands-on in architecting and building Carrot's data infrastructure.\n You will set technical vision, drive cross-functional data strategy, and ensure our data systems are reliable, scalable, secure, and aligned with business priorities. You will influence and execute on the long-term roadmap for Data Engineering within the Data Team, defining how we ingest, transform, govern, and expose data across the company, and partner closely with senior leaders across Product, Engineering, Operations…",
-    "tags": [
-      "Data Science & Analytics",
-      "Director"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-09-24T11:38:28.000Z",
-    "scrapedAt": "2026-09-24T18:49:37.578Z"
+    "scrapedAt": "2026-09-24T23:45:04.566Z"
   },
   {
     "id": "arbeitnow:big-data-engineer-paris-396890",
@@ -102,39 +68,7 @@
     ],
     "jobType": "Full time",
     "postedAt": "2026-09-24T07:04:06.000Z",
-    "scrapedAt": "2026-09-24T18:49:37.390Z"
-  },
-  {
-    "id": "arbeitnow:internship-data-engineer-core-data-product-lille-villeneuve-dascq-nord-171725",
-    "externalId": "internship-data-engineer-core-data-product-lille-villeneuve-dascq-nord-171725",
-    "source": "arbeitnow",
-    "title": "Internship - Data Engineer Core Data Product - Lille (f/m/d)",
-    "company": "Decathlontechnology",
-    "location": "Villeneuve-d'Ascq, Nord",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/internship-data-engineer-core-data-product-lille-villeneuve-dascq-nord-171725",
-    "description": "<h3><strong>L'équipe Core Data Product de DECATHLON recherche ses futur-e-s Data Engineers en stage basé·e·s à Lille.&nbsp;</strong></h3>\n<p>Au cœur de l’entité Decathlon Digital, nous recherchons nos futur.es <strong>Data Engineers</strong> pour rejoindre les équipes Core Data Products.</p>\n<p>Rejoignez l'équipe Core Data Products : Au cœur des décisions stratégiques de Decathlon</p>\n<p>Au sein de notre Data Platform, vous évoluerez sur le socle qui alimente l'ensemble des décisions stratégiques et des modèles d'IA de Decathlon.</p>\n<p>Notre mission ? Construire la Single Source of Truth transversale pour transformer les données brutes en produits de données prêts à l'emploi (Gold layer), fiables et normés.&nbsp;</p>\n<p>Du design produit à la supply chain, en passant par l'éco-conception et l'expérience client, nos Core Data Products permettent à chaque équipe métier d'opérer avec agilité tout en propulsant des business models circulaires, rentables et responsables.</p>\n<h3><strong>Ton futur terrain de jeu&nbsp;</strong></h3>\n<p>Les Core Data Products sont organisés en équipes expertes, chacune pilotée par un binôme Tech Lead &amp; Product Manager.<br>Tu intégreras l' <strong>Équipe </strong><strong>INDUSTRY SUPPLY INVENTORY </strong>dont la mission est d'unifier les données de la chaîne d'approvisionnement grâce à des produits de données prêts à évoluer à grande échelle.&nbsp;</p>\n<p><strong>TA FUTURE CONTRIBUTION&nbsp;</strong></p>\n<p><strong>Architecture &amp; Stratégie Technique</strong></p>\n<ul>\n<li>Contribuer à l'élaboration de la stratégie de nos stacks techniques et garantir la CI/CD.</li>\n<li>Maintenir et repenser les datasets et pipelines existants pour servir une plus large variété de use cases.</li>\n<li>Concevoir, développer et industrialiser des modèles de données complexes pour permettre l'analyse des usages, de la qualité et de la maturité de notre patrimoine de données.</li>\n</ul>\n<p><strong>Expertise &amp; Accompagnement</strong></p>\n<ul>\n<li>Comp…",
-    "tags": [
-      "Data"
-    ],
-    "postedAt": "2026-09-23T19:55:25.000Z",
-    "scrapedAt": "2026-09-24T18:49:37.390Z"
-  },
-  {
-    "id": "arbeitnow:internship-data-engineer-core-data-product-paris-paris-paris-421816",
-    "externalId": "internship-data-engineer-core-data-product-paris-paris-paris-421816",
-    "source": "arbeitnow",
-    "title": "Internship - Data Engineer Core Data Product (f/m/d)- Paris",
-    "company": "Decathlontechnology",
-    "location": "Paris, Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/internship-data-engineer-core-data-product-paris-paris-paris-421816",
-    "description": "<h3><strong>L'équipe Core Data Product de DECATHLON recherche ses futur-e-s Data Engineers basé·e·s à Paris. </strong></h3>\n<p>Au cœur de l’entité Decathlon Digital, nous recherchons nos futur.esData Engineers pour rejoindre les équipes Core Data Products.</p>\n<p>Rejoignez l'équipe Core Data Products :</p>\n<p>Au cœur des décisions stratégiques de Decathlon Au sein de notre Data Platform, vous évoluerez sur le socle qui alimente l'ensemble des décisions stratégiques et des modèles d'IA de Decathlon.</p>\n<p>Notre mission ? Construire la Single Source of Truth transversale pour transformer les données brutes en produits de données prêts à l'emploi (Gold layer), fiables et normés.</p>\n<p>Du design produit à la supply chain, en passant par l'éco-conception et l'expérience client, nos Core Data Products permettent à chaque équipe métier d'opérer avec agilité tout en propulsant des business models circulaires, rentables et responsables.&nbsp;</p>\n<h3><strong>Ton futur terrain de jeu </strong></h3>\n<p>Les Core Data Products sont organisés en équipes expertes, chacune pilotée par un binôme Tech Lead &amp; Product Manager.</p>\n<p>Tu intégreras l' <strong>Équipe INDUSTRY SUPPLY INVENTORY</strong> dont la mission est d'unifier les données de la chaîne d'approvisionnement grâce à des produits de données prêts à évoluer à grande échelle.</p>\n<p><strong>TA FUTURE CONTRIBUTION <br></strong>Tes responsabilités comprendront () :</p>\n<h4><strong>Architecture &amp; Stratégie Technique </strong></h4>\n<ul>\n<li>Contribuer à l'élaboration de la stratégie de nos stacks techniques et garantir la CI/CD.</li>\n<li>Maintenir et repenser les datasets et pipelines existants pour servir une plus large variété de use cases.</li>\n<li>Concevoir, développer et industrialiser des modèles de données complexes pour permettre l'analyse des usages, de la qualité et de la maturité de notre patrimoine de données.</li>\n</ul>\n<h4><strong>Expertise &amp; Accompagnement </strong></h4>\n<ul>\n<li>Compréhension des…",
-    "tags": [
-      "Data"
-    ],
-    "postedAt": "2026-09-23T19:55:25.000Z",
-    "scrapedAt": "2026-09-24T18:49:37.390Z"
+    "scrapedAt": "2026-09-24T23:45:04.566Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -150,7 +84,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:pinterest-8209014",
@@ -166,7 +100,7 @@
       "Oversight Engineering"
     ],
     "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:airbnb-8224032",
@@ -182,7 +116,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:dropbox-8211532",
@@ -198,7 +132,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-09-22T17:18:25.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:dropbox-8211529",
@@ -214,7 +148,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-09-22T17:18:18.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "lever:spotify-80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
@@ -234,7 +168,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-09-22T08:36:16.099Z",
-    "scrapedAt": "2026-09-24T18:53:11.933Z"
+    "scrapedAt": "2026-09-24T23:48:26.213Z"
   },
   {
     "id": "greenhouse:figma-6201407004",
@@ -250,7 +184,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-21T16:13:46.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -266,7 +200,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -282,7 +216,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -298,7 +232,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -314,7 +248,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -330,7 +264,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -346,7 +280,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -362,7 +296,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -378,7 +312,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -394,7 +328,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:affirm-7916080003",
@@ -410,7 +344,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-08-20T13:43:45.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -430,7 +364,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-09-24T18:53:11.933Z"
+    "scrapedAt": "2026-09-24T23:48:26.213Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -449,7 +383,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-09-24T18:53:12.607Z"
+    "scrapedAt": "2026-09-24T23:48:27.339Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -465,7 +399,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:stripe-8112043",
@@ -481,7 +415,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-08-06T14:27:44.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -497,7 +431,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -513,7 +447,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -529,7 +463,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:affirm-7813362003",
@@ -545,7 +479,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-07-28T10:52:21.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -561,7 +495,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -577,7 +511,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -593,7 +527,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -609,7 +543,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -625,7 +559,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -641,7 +575,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -657,7 +591,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -673,7 +607,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -689,7 +623,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -705,7 +639,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -721,7 +655,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -737,7 +671,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -753,7 +687,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -769,7 +703,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-09-24T18:49:38.207Z"
+    "scrapedAt": "2026-09-24T23:45:05.814Z"
   },
   {
     "id": "workday:workday-JR-0108262",
@@ -785,7 +719,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-24T18:49:45.678Z"
+    "scrapedAt": "2026-09-24T23:45:12.388Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -801,7 +735,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-24T18:49:45.678Z"
+    "scrapedAt": "2026-09-24T23:45:12.388Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -815,7 +749,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-24T18:49:45.678Z"
+    "scrapedAt": "2026-09-24T23:45:12.388Z"
   },
   {
     "id": "workday:nvidia-JR2023850",
@@ -829,7 +763,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-24T18:49:45.678Z"
+    "scrapedAt": "2026-09-24T23:45:12.388Z"
   },
   {
     "id": "workday:nvidia-JR2009512",
@@ -843,7 +777,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-24T18:49:45.678Z"
+    "scrapedAt": "2026-09-24T23:45:12.388Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -857,7 +791,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-24T18:49:45.678Z"
+    "scrapedAt": "2026-09-24T23:45:12.388Z"
   },
   {
     "id": "workday:salesforce-JR358536",
@@ -871,7 +805,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-24T18:49:45.678Z"
+    "scrapedAt": "2026-09-24T23:45:12.388Z"
   },
   {
     "id": "workday:salesforce-JR359930",
@@ -885,7 +819,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-24T18:49:45.678Z"
+    "scrapedAt": "2026-09-24T23:45:12.388Z"
   },
   {
     "id": "workday:adobe-R170680",
@@ -899,7 +833,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-24T18:49:45.678Z"
+    "scrapedAt": "2026-09-24T23:45:12.388Z"
   },
   {
     "id": "workday:adobe-R171212",
@@ -913,7 +847,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-24T18:49:45.678Z"
+    "scrapedAt": "2026-09-24T23:45:12.388Z"
   },
   {
     "id": "workday:adobe-R169536",
@@ -927,7 +861,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-24T18:49:45.678Z"
+    "scrapedAt": "2026-09-24T23:45:12.388Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -941,7 +875,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-24T18:49:45.678Z"
+    "scrapedAt": "2026-09-24T23:45:12.388Z"
   },
   {
     "id": "workday:autodesk-26WD100418",
@@ -955,7 +889,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-24T18:49:45.678Z"
+    "scrapedAt": "2026-09-24T23:45:12.388Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -969,7 +903,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-24T18:49:45.678Z"
+    "scrapedAt": "2026-09-24T23:45:12.388Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -983,7 +917,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-24T18:49:45.678Z"
+    "scrapedAt": "2026-09-24T23:45:12.388Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -997,7 +931,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-24T18:49:45.678Z"
+    "scrapedAt": "2026-09-24T23:45:12.388Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -1011,7 +945,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-24T18:51:02.287Z"
+    "scrapedAt": "2026-09-24T23:46:27.389Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -1025,6 +959,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-24T18:51:02.287Z"
+    "scrapedAt": "2026-09-24T23:46:27.389Z"
   }
 ]
