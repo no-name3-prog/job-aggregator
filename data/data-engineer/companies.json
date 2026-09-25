@@ -77,30 +77,6 @@
     ]
   },
   {
-    "company": "Autodesk",
-    "jobCount": 4,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Kraków, POL",
-      "Toronto, ON, CAN",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Data Engineer with AI",
-      "Principal Data Engineer, User Success",
-      "Principal Data Engineer, User Success (Agentic Experiences)",
-      "Principal Data Engineer -General application"
-    ],
-    "officialUrls": [
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
-    ]
-  },
-  {
     "company": "Dropbox",
     "jobCount": 4,
     "sources": [
@@ -211,6 +187,27 @@
       "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
       "http://block.xyz/careers/jobs/5424561008?gh_jid=5424561008",
       "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008"
+    ]
+  },
+  {
+    "company": "Workday",
+    "jobCount": 3,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Ireland, Dublin",
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Data Engineer",
+      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
+      "Data Platform Engineer - Cybersecurity"
+    ],
+    "officialUrls": [
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Scientist_JR-0108262",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
     ]
   },
   {
@@ -325,72 +322,6 @@
     ]
   },
   {
-    "company": "Workday",
-    "jobCount": 2,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Ireland, Dublin"
-    ],
-    "sampleTitles": [
-      "Data Engineer",
-      "Data Platform Engineer - Cybersecurity"
-    ],
-    "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Scientist_JR-0108262",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
-    ]
-  },
-  {
-    "company": "Accurx",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London (Shoreditch)"
-    ],
-    "sampleTitles": [
-      "Senior Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/accurx/senior-analytics-engineer-london-205757"
-    ]
-  },
-  {
-    "company": "Deliveroo",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London, England, United Kingdom"
-    ],
-    "sampleTitles": [
-      "Analytics Engineering Manager"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/analytics-engineering-manager-london-317060"
-    ]
-  },
-  {
-    "company": "Dex",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Founding Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/dex/founding-analytics-engineer-london-178492"
-    ]
-  },
-  {
     "company": "Discord",
     "jobCount": 1,
     "sources": [
@@ -455,22 +386,6 @@
     ]
   },
   {
-    "company": "Odaseva",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Paris"
-    ],
-    "sampleTitles": [
-      "Big Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/odaseva/big-data-engineer-paris-396890"
-    ]
-  },
-  {
     "company": "Pinterest",
     "jobCount": 1,
     "sources": [
@@ -532,22 +447,6 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8112043"
-    ]
-  },
-  {
-    "company": "Thehutgroup",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Manchester"
-    ],
-    "sampleTitles": [
-      "Head of Data Engineering & Governance"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/head-of-data-engineering-governance-manchester-188753"
     ]
   }
 ]
