@@ -77,6 +77,30 @@
     ]
   },
   {
+    "company": "Autodesk",
+    "jobCount": 4,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Kraków, POL",
+      "Toronto, ON, CAN",
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Data Engineer with AI",
+      "Principal Data Engineer, User Success",
+      "Principal Data Engineer, User Success (Agentic Experiences)",
+      "Principal Data Engineer -General application"
+    ],
+    "officialUrls": [
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
+    ]
+  },
+  {
     "company": "NVIDIA",
     "jobCount": 4,
     "sources": [
@@ -318,6 +342,22 @@
     ]
   },
   {
+    "company": "Deliveroo",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London, England, United Kingdom"
+    ],
+    "sampleTitles": [
+      "Senior Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-analytics-engineer-london-114371"
+    ]
+  },
+  {
     "company": "Discord",
     "jobCount": 1,
     "sources": [
@@ -366,19 +406,51 @@
     ]
   },
   {
-    "company": "Meetdavis",
+    "company": "Lrz",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Paris"
+      "Garching bei München"
     ],
     "sampleTitles": [
-      "Founding Data Engineer"
+      "Data Platform Engineer (f/m/d)  for the European AI Factory HammerHAI"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/meetdavis/founding-data-engineer-paris-399584"
+      "https://www.arbeitnow.com/jobs/companies/lrz/data-platform-engineer-for-the-european-ai-factory-hammerhai-garching-bei-munchen-91148"
+    ]
+  },
+  {
+    "company": "Material Bank",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London, England, United Kingdom"
+    ],
+    "sampleTitles": [
+      "Senior Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/material-bank/senior-analytics-engineer-london-429326"
+    ]
+  },
+  {
+    "company": "Octopus Energy Group",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Munich (DE)"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer - Cost Modelling (m/w/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/analytics-engineer-cost-modelling-munich-de-418543"
     ]
   },
   {
@@ -443,6 +515,38 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8112043"
+    ]
+  },
+  {
+    "company": "Tailscale",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "Canada"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer, Data"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/154067-analytics-engineer-data"
+    ]
+  },
+  {
+    "company": "Thermondo",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin (Zentrale)"
+    ],
+    "sampleTitles": [
+      "Working Student Analytics Engineering (f/m/x)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/thermondo/working-student-analytics-engineering-berlin-zentrale-133129"
     ]
   }
 ]
