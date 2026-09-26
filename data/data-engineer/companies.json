@@ -305,6 +305,24 @@
     ]
   },
   {
+    "company": "Lendable",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Python Analytics Engineer",
+      "Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/lendable/python-analytics-engineer-london-78193",
+      "https://www.arbeitnow.co.uk/jobs/companies/lendable/analytics-engineer-london-81303"
+    ]
+  },
+  {
     "company": "Lyft",
     "jobCount": 2,
     "sources": [
@@ -358,19 +376,51 @@
     ]
   },
   {
-    "company": "Flix",
+    "company": "Doctolib",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Berlin, Berlin, Germany"
+      "Paris, Paris"
     ],
     "sampleTitles": [
-      "Data Platform Engineer (m/f/d)"
+      "Senior Data Engineer - Analytics (x/f/m)"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/flix/data-platform-engineer-berlin-324571"
+      "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-data-engineer-analytics-paris-paris-9674"
+    ]
+  },
+  {
+    "company": "Enpal",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin"
+    ],
+    "sampleTitles": [
+      "Senior Analytics Engineer (f/m/x) - Enpal Energy"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/enpal/senior-analytics-engineer-enpal-energy-berlin-8015"
+    ]
+  },
+  {
+    "company": "Firmus",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Sydney, Australia"
+    ],
+    "sampleTitles": [
+      "Principal Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/firmus/principal-data-engineer-sydney-australia-53701"
     ]
   },
   {
@@ -419,22 +469,6 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-analytics-engineer-cardiff-408174"
-    ]
-  },
-  {
-    "company": "Pergolux",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Berlin | Global Team"
-    ],
-    "sampleTitles": [
-      "Working Student Analytics Engineer (m/w/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/pergolux/working-student-analytics-engineer-berlin-127740"
     ]
   },
   {
@@ -502,35 +536,19 @@
     ]
   },
   {
-    "company": "Tailscale",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "Canada"
-    ],
-    "sampleTitles": [
-      "Analytics Engineer, Data"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/154067-analytics-engineer-data"
-    ]
-  },
-  {
-    "company": "Thermondo",
+    "company": "teccle group GmbH",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Berlin (Zentrale)"
+      "Homeoffice"
     ],
     "sampleTitles": [
-      "Working Student Analytics Engineering (f/m/x)"
+      "Senior Data Engineer & Consultant (all genders) – Microsoft Fabric"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/thermondo/working-student-analytics-engineering-berlin-zentrale-133129"
+      "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-191205"
     ]
   }
 ]
