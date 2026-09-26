@@ -1,5 +1,53 @@
 [
   {
+    "id": "arbeitnow:senior-analytics-engineer-cardiff-408174",
+    "externalId": "senior-analytics-engineer-cardiff-408174",
+    "source": "arbeitnow",
+    "title": "Senior Analytics Engineer",
+    "company": "Monzo",
+    "location": "Cardiff",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-analytics-engineer-cardiff-408174",
+    "description": "<div class=\"content-intro\"><p><strong><em>🚀 We’re on a mission to make money work for everyone.</em></strong></p>\n<p>We’re waving goodbye to the complicated and confusing ways of traditional banking.</p>\n<p>After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&nbsp;<a href=\"https://monzo.com/current-account/personal\">personal</a> and <a href=\"https://monzo.com/business-banking\">business</a> bank accounts, we offer <a href=\"https://monzo.com/current-account/joint-account\">joint accounts</a>, <a href=\"https://monzo.com/current-account/16-17\">accounts for 16-17 year olds</a>, a <a href=\"https://monzo.com/current-account/under-16s\">free kids account</a> and <a href=\"https://monzo.com/flex\">credit cards</a> in the UK, with more exciting things to come beyond. Our UK customers can also <a href=\"https://monzo.com/savings\">save</a>, <a href=\"https://monzo.com/investments\">invest </a>and&nbsp;<a href=\"https://monzo.com/pensions\">combine their pensions</a> with us.&nbsp;</p>\n<p>With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!</p>\n<p>We’re not about selling products - we want to solve problems and change lives through Monzo ❤️</p>\n<hr>\n<p>&nbsp;</p></div><p>📍London/Cardiff/UK Remote | 💰 £76,500-£95,000 ➕ Incentive Awards tied to your performance and <a href=\"https://monzo.com/careers/\">&nbsp;Benefits</a> |<a href=\"https://www.youtube.com/watch?v=U62l09nB0M4\"> Hear from the team</a> ✨</p>\n<p><strong data-stringify-type=\"bold\"><span class=\"c-emoji c-emoji__medium c-emoji--inline\" data-qa=\"emoji\" data-sk=\"tooltip_parent\"><img style=\"max-width: 100%;\" src=\"https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/2b50.png\" alt=\":star:\" data-stringify-type=\"emoji\" data-stringify-emoji=\":star:\"></span></strong><strong data-stringify-type=\"bo…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-09-26T06:55:13.000Z",
+    "scrapedAt": "2026-09-26T10:45:11.624Z"
+  },
+  {
+    "id": "arbeitnow:data-platform-engineer-berlin-324571",
+    "externalId": "data-platform-engineer-berlin-324571",
+    "source": "arbeitnow",
+    "title": "Data Platform Engineer (m/f/d)",
+    "company": "Flix",
+    "location": "Berlin, Berlin, Germany",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/flix/data-platform-engineer-berlin-324571",
+    "description": "We're looking for a Data Platform Engineer (m/f/d) to join our team and help build and operate the data infrastructure that powers Flix's mobility platform.\n At FlixTech, our data platform enables teams across the company to process, analyze, and act on large volumes of mobility data. The platform supports critical use cases such as network planning, pricing, operations, and business analytics. You will work on scalable infrastructure that processes millions of daily events and ensures reliable data availability across the organization.\n You'll be part of a cross-functional engineering environment collaborating with data analysts, data scientists, and platform engineers. The role focuses on building reliable, scalable data systems and enabling other teams to work efficiently with data.\n About the Role\n Design, build, and maintain scalable data infrastructure running on AWS and Kubernetes\n Develop and operate streaming and data platform components using technologies such as Kafka and Snowflake\n Implement monitoring, alerting, and operational tooling to ensure platform reliability and performance\n Own features end-to-end, including development, testing, deployment, monitoring, and maintenance\n Build and maintain Infrastructure as Code using Terraform and GitLab CI/CD\n Collaborate with data analysts, data scientists, and stakeholders to support data platform use cases\n Contribute to improving platform reliability, automation, and engineering practices\n Participate in on-call rotations to support the stability of the data platform\n About You\n 3+ years of experience building or operating data infrastructure or data platforms\n Hands-on experience with streaming technologies such as Kafka and data warehouses like Snowflake\n Experience with Infrastructure as Code tools (e.g., Terraform) and CI/CD pipelines (e.g., GitLab)\n Practical experience with cloud platforms (preferably AWS) and container platforms such as Kubernetes\n Experience with monitoring and observability tools…",
+    "tags": [],
+    "postedAt": "2026-09-26T06:45:31.000Z",
+    "scrapedAt": "2026-09-26T10:45:11.624Z"
+  },
+  {
+    "id": "arbeitnow:working-student-analytics-engineer-berlin-127740",
+    "externalId": "working-student-analytics-engineer-berlin-127740",
+    "source": "arbeitnow",
+    "title": "Working Student Analytics Engineer (m/w/d)",
+    "company": "Pergolux",
+    "location": "Berlin | Global Team",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/pergolux/working-student-analytics-engineer-berlin-127740",
+    "description": "As a Working Student Analytics Engineer, you will get hands-on with the systems and data that power decisions across the entire business. You will write real SQL, ship production dbt models, help maintain a modern data warehouse, and see your work land in the reports leadership actually runs on. This is a part-time (Werkstudent) role where you take ownership of your own small projects end to end, from raw data to actionable insight, with room to grow your responsibilities as your skills develop.\n PERGOLUX designs and sells Scandinavian-inspired outdoor living products, from pergolas to garden furniture, directly to consumers. With around 300 employees, 9-figure revenue, and operations across 8 markets, we build our data systems with the same care and precision as our products, guided by integrity, innovation, ambition, and unity.\n What You'll Do\n Help build and maintain our Snowflake data warehouse with dbt, and contribute to the migration of our ERP pipelines\n Support the team in defining and developing core metrics that steer business performance\n Build and iterate reports in Looker, turning raw data into insights the business acts on\n Monitor data health, proactively flagging gaps, freshness issues, and quality problems\n Take on your own small projects across the stack (Airbyte for ingestion, Snowflake as the warehouse, Python for the messy bits, dbt for transformation and orchestration) and ship them\n What You'll Bring\n Currently enrolled in a Bachelor's or Master's program (Data Science, Statistics, CS, Business Analytics, or related), or a solid self-taught track record\n Solid SQL fundamentals, comfortable writing complex queries and full-fledged models well beyond a basic SELECT\n Business intuition: before running a query, you weigh whether asking \"why does this number look like that?\" will drive real decisions\n Technical curiosity about end-to-end data architecture and a critical mindset for getting the most out of AI tools while knowing where they fall sho…",
+    "tags": [
+      "Data & BI",
+      "Part Time"
+    ],
+    "jobType": "Part Time",
+    "postedAt": "2026-09-26T05:40:06.000Z",
+    "scrapedAt": "2026-09-26T10:45:11.624Z"
+  },
+  {
     "id": "arbeitnow:working-student-analytics-engineering-berlin-zentrale-133129",
     "externalId": "working-student-analytics-engineering-berlin-zentrale-133129",
     "source": "arbeitnow",
@@ -19,72 +67,7 @@
     ],
     "jobType": "Student",
     "postedAt": "2026-09-26T02:09:56.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.011Z"
-  },
-  {
-    "id": "arbeitnow:data-platform-engineer-for-the-european-ai-factory-hammerhai-garching-bei-munchen-91148",
-    "externalId": "data-platform-engineer-for-the-european-ai-factory-hammerhai-garching-bei-munchen-91148",
-    "source": "arbeitnow",
-    "title": "Data Platform Engineer (f/m/d)  for the European AI Factory HammerHAI",
-    "company": "Lrz",
-    "location": "Garching bei München",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/lrz/data-platform-engineer-for-the-european-ai-factory-hammerhai-garching-bei-munchen-91148",
-    "description": "Description: Looking for an employer you can count on? Join us!\n   Data Platform Engineer (f/m/d) for the European AI Factory HammerHAI\n Your Role and Responsibilities: Developing and maintaining the data facility of the AI Factory including its software environments in the context of AI, HPC and data analytics use cases for modern AI, high-performance and cloud computing systems Contributing to the initial (and evolving) service portfolio of the AI Factory within a friendly and open work environment in a highly motivated, international team with opportunities to contribute with your own ideas Supporting and enabling customers to publish, access and share their own AI data sets and models Fostering contact with collaboration partners as well as stakeholders from the European AI ecosystem, relying on your friendly personality and communication skills Opportunities to work with national and European partners on novel AI R&D projects from the private and academic sectors Maintaining relationships with technology providers and system developers (software/hardware)\n Your Qualifications: Required/Minimum Qualifications\n PhD or Master’s degree in computer or data science, or other areas of scientific computing, or a Bachelor’s degree with multiple years (>3) of applied data platform development / engineering / deployment experience and/or working with AI data management workflows ideally as senior engineer in research or enterprise environments\n Other Requirements\n Proficiency working in data center environments (incl. Linux, Git, Gitlab) Willingness to keep up with current developments and to learn new technologies in the field of AI Extensive knowledge and experience in developing and working with data platforms including their backend components in the context of AI, HPC and data analytics use cases (preferably piveau,  www.piveau.de ) Extensive knowledge about and practical skills in specifying and implementing FAIR-aligned (Findable, Accessible, Interoperable, Reusab…",
-    "tags": [
-      "Experienced",
-      "Temporary",
-      "Full or part time"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-09-25T23:09:50.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.011Z"
-  },
-  {
-    "id": "arbeitnow:analytics-engineer-cost-modelling-munich-de-418543",
-    "externalId": "analytics-engineer-cost-modelling-munich-de-418543",
-    "source": "arbeitnow",
-    "title": "Analytics Engineer - Cost Modelling (m/w/d)",
-    "company": "Octopus Energy Group",
-    "location": "Munich (DE)",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/analytics-engineer-cost-modelling-munich-de-418543",
-    "description": "Als global tätiges EnerTech-Unternehmen verbinden wir Energieversorgung, Technologie und Services. Unser Ziel ist es, mehr Menschen Zugang zu modernen Energielösungen zu ermöglichen. Dafür bieten wir Stromtarife aus 100% erneuerbaren Energien an, installieren Wärmepumpen und entwickeln smarte Tarife.\n Dabei sind unsere Ökostromtarife nur die Basis . Bereits seit 2022 installieren wir Wärmepumpen-Komplettlösungen mit eigenen Fachkräften . Außerdem arbeiten wir aktiv an der flächendeckenden Einführung von Smart Metern, Elektromobilitätslösungen und der eigenen Stromerzeugung aus Wind- und Sonnenenergie .\n Das schaffen wir allerdings nicht alleine, sondern dazu brauchen wir dich! Werde Teil unseres Teams und fordere den Status Quo heraus. Mit Energie, die gut für den Planeten ist und gut für dein Karma. 💚 Finde jetzt deinen Traumjob und werde Teil der Energierevolution von Octopus Energy Germany.\n Für unseren Bereich Costing suchen wir zum nächstmöglichen Zeitpunkt eine n engagierte n Analytics Engineer , der/die unsere Datenarchitektur im Bereich der direkten Kosten (Netzentgelte, Umlagen, Steuern) auf das nächste Level hebt. In dieser Schlüsselposition bist du das Bindeglied zwischen komplexen regulatorischen Anforderungen, energiewirtschaftlichen Forecasts und unserer Pricing-Strategie. Du liebst es, skalierbare Daten-Pipelines zu bauen, behältst bei wechselnden regulatorischen Vorgaben den Überblick und hast den Anspruch, unsere Systeme durch eine moderne Neuarchitektur zukunftssicher zu machen.\n Deine Aufgaben:\n Datenarchitektur & Pipeline Architektur\n Du verantwortest die Neuarchitektur unserer Datenlandschaft zur Abbildung der direkten Kosten im Energievertrieb.\n Du konzipierst und implementierst robuste ETL/ELT-Pipelines mittels dbt und Airflow , um Daten aus regulatorischen Quellen, Marktdaten und internen Systemen effizient zu verarbeiten.\n Du stellst die Datenqualität und -konsistenz sicher, die als direkte Entscheidungsgrundlage für unser Pricing dient.…",
-    "tags": [
-      "Data/Analytics",
-      "Full-time"
-    ],
-    "jobType": "Full-time",
-    "postedAt": "2026-09-25T23:05:15.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.011Z"
-  },
-  {
-    "id": "arbeitnow:senior-analytics-engineer-london-429326",
-    "externalId": "senior-analytics-engineer-london-429326",
-    "source": "arbeitnow",
-    "title": "Senior Analytics Engineer",
-    "company": "Material Bank",
-    "location": "London, England, United Kingdom",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/material-bank/senior-analytics-engineer-london-429326",
-    "description": "Material Bank is the world's largest material marketplace for the architecture and design industry. Operating in 37 countries, our platform has become the standard for design professionals around the globe. Every day, Material Bank connects thousands of designers with tens of thousands of materials from leading brands. Material Bank is the fastest and most powerful way for design professionals to search, sample, and specify materials.\n Senior Analytics Engineer, Analytics & Insights\n London, UK (Hybrid, 2 days in office)\n Material Bank is the world's largest material marketplace for the architecture and design industry. Operating in 37 countries, our platform has become the standard for design professionals around the globe. Every day, Material Bank connects thousands of designers with tens of thousands of materials from leading brands. Material Bank is the fastest and most powerful way for design professionals to search, sample, and specify materials.\n About the role\n We are looking for a Senior Analytics Engineer to join Analytics & Insights, the team that owns Material Bank's analytics data layer, internal reporting, and data products that support our teams and brand partners.\n This is a hands-on technical role for someone who wants to own how analytics get built. You will take approved metric definitions and business questions and turn them into the models and metric logic in Snowflake and dbt, the dashboards, and the semantic layer and data products people use every day.\n You will own the analytics engineering for key areas of the business: understanding what needs to be measured, building the models, validating the logic, delivering the reporting, and keeping it accurate and reliable over time. You will work across multiple departments and across our data products, including embedded analytics for brands. The work varies day to day, and as a team we contribute to everything.\n What we require\n Ownership, end to end. You own what you build, from the first stake…",
-    "tags": [],
-    "postedAt": "2026-09-25T21:45:25.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.011Z"
-  },
-  {
-    "id": "arbeitnow:senior-analytics-engineer-london-114371",
-    "externalId": "senior-analytics-engineer-london-114371",
-    "source": "arbeitnow",
-    "title": "Senior Analytics Engineer",
-    "company": "Deliveroo",
-    "location": "London, England, United Kingdom",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-analytics-engineer-london-114371",
-    "description": "Our Global Structure\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.\n Why Deliveroo?\n We're building the definitive online food company, transforming the way the world eats by making hyper-local food more convenient and accessible. We obsess about building the future of food, whilst using our network as a force for good. We're at the forefront of a industry, powered by our market-leading technology and unrivalled network to bring incredible convenience and selection to our customers.\n Working at Deliveroo is the perfect environment to build an engineering career, driven by impact. Firstly, the impact that working here will have on your development, allowing you to grow faster than you might elsewhere; secondly, the impact that you can have on Deliveroo, leaving your mark as we scale; and finally, being part of something bigger, through the impact that we make together in our marketplace and communities.\n The Role\n Working as part of our analytics engineering team and reporting to one of our Analytics Engineering Managers, your role will be to provide clean, tested, well-documented and well-modelled data sets, that will enable and empower data scientists and business users alike, via tools like Snowflake and/or Looker.\n You'll work with product engineering teams to ensure modelling of source data meets downstream requirements.\n You will maintain and develop SQL data transformation scripts, and advise and review data scientists on data modelling to achieve denormalised and aggregated output datasets.\n You'll work with data scientists and other analytics engineers to surface clean, intuitive datasets in our BI tool, Looker.\n You will be responsible for optimisation and further adoption of Looker as a data product in the business, catering to ~1…",
-    "tags": [],
-    "postedAt": "2026-09-25T21:45:24.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.011Z"
+    "scrapedAt": "2026-09-26T10:45:11.624Z"
   },
   {
     "id": "jobicy:154067",
@@ -103,7 +86,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-09-25T18:05:29.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.141Z"
+    "scrapedAt": "2026-09-26T10:45:11.683Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -119,7 +102,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -135,7 +118,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:pinterest-8209014",
@@ -151,7 +134,7 @@
       "Oversight Engineering"
     ],
     "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:airbnb-8224032",
@@ -167,7 +150,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "lever:spotify-80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
@@ -187,7 +170,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-09-22T08:36:16.099Z",
-    "scrapedAt": "2026-09-26T03:21:11.705Z"
+    "scrapedAt": "2026-09-26T10:48:21.740Z"
   },
   {
     "id": "greenhouse:figma-6201407004",
@@ -203,7 +186,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-21T16:13:46.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -219,7 +202,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -235,7 +218,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -251,7 +234,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -267,7 +250,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -283,7 +266,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -299,7 +282,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -315,7 +298,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -331,7 +314,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -347,7 +330,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:affirm-7916080003",
@@ -363,7 +346,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-08-20T13:43:45.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -383,7 +366,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-09-26T03:21:11.705Z"
+    "scrapedAt": "2026-09-26T10:48:21.740Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -402,7 +385,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-09-26T03:21:12.449Z"
+    "scrapedAt": "2026-09-26T10:48:23.413Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -418,7 +401,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:stripe-8112043",
@@ -434,7 +417,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-08-06T14:27:44.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -450,7 +433,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -466,7 +449,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -482,7 +465,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:affirm-7813362003",
@@ -498,7 +481,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-07-28T10:52:21.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -514,7 +497,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -530,7 +513,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -546,7 +529,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -562,7 +545,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -578,7 +561,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -594,7 +577,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -610,7 +593,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -626,7 +609,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -642,7 +625,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -658,7 +641,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -674,7 +657,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -690,7 +673,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -706,7 +689,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -722,7 +705,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-09-26T03:17:54.614Z"
+    "scrapedAt": "2026-09-26T10:45:12.060Z"
   },
   {
     "id": "workday:workday-JR-0108262",
@@ -738,7 +721,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-26T03:18:02.265Z"
+    "scrapedAt": "2026-09-26T10:45:18.808Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -754,7 +737,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-26T03:18:02.265Z"
+    "scrapedAt": "2026-09-26T10:45:18.808Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -770,7 +753,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-26T03:18:02.265Z"
+    "scrapedAt": "2026-09-26T10:45:18.808Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -784,7 +767,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-26T03:18:02.265Z"
+    "scrapedAt": "2026-09-26T10:45:18.808Z"
   },
   {
     "id": "workday:nvidia-JR2023850",
@@ -798,7 +781,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-26T03:18:02.265Z"
+    "scrapedAt": "2026-09-26T10:45:18.808Z"
   },
   {
     "id": "workday:nvidia-JR2009512",
@@ -812,7 +795,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-26T03:18:02.265Z"
+    "scrapedAt": "2026-09-26T10:45:18.808Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -826,7 +809,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-26T03:18:02.265Z"
+    "scrapedAt": "2026-09-26T10:45:18.808Z"
   },
   {
     "id": "workday:salesforce-JR358536",
@@ -840,7 +823,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-26T03:18:02.265Z"
+    "scrapedAt": "2026-09-26T10:45:18.808Z"
   },
   {
     "id": "workday:salesforce-JR359930",
@@ -854,7 +837,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-26T03:18:02.265Z"
+    "scrapedAt": "2026-09-26T10:45:18.808Z"
   },
   {
     "id": "workday:adobe-R170680",
@@ -868,7 +851,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-26T03:18:02.265Z"
+    "scrapedAt": "2026-09-26T10:45:18.808Z"
   },
   {
     "id": "workday:adobe-R171212",
@@ -882,7 +865,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-26T03:18:02.265Z"
+    "scrapedAt": "2026-09-26T10:45:18.808Z"
   },
   {
     "id": "workday:adobe-R169536",
@@ -896,7 +879,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-26T03:18:02.265Z"
+    "scrapedAt": "2026-09-26T10:45:18.808Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -910,7 +893,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-26T03:18:02.265Z"
+    "scrapedAt": "2026-09-26T10:45:18.808Z"
   },
   {
     "id": "workday:autodesk-26WD100418",
@@ -924,7 +907,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-26T03:18:02.265Z"
+    "scrapedAt": "2026-09-26T10:45:18.808Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -938,7 +921,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-26T03:18:02.265Z"
+    "scrapedAt": "2026-09-26T10:45:18.808Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -952,7 +935,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-26T03:18:02.265Z"
+    "scrapedAt": "2026-09-26T10:45:18.808Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -966,7 +949,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-26T03:18:02.265Z"
+    "scrapedAt": "2026-09-26T10:45:18.808Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -980,7 +963,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-26T03:19:15.770Z"
+    "scrapedAt": "2026-09-26T10:46:30.898Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -994,6 +977,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-26T03:19:15.770Z"
+    "scrapedAt": "2026-09-26T10:46:30.898Z"
   }
 ]
