@@ -170,6 +170,26 @@
     ]
   },
   {
+    "company": "Amo",
+    "jobCount": 3,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Paris"
+    ],
+    "sampleTitles": [
+      "Location Data engineer",
+      "Data Engineer, Places",
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/amo/location-data-engineer-paris-97531",
+      "https://www.arbeitnow.fr/jobs/companies/amo/data-engineer-places-paris-142762",
+      "https://www.arbeitnow.fr/jobs/companies/amo/senior-data-engineer-paris-371160"
+    ]
+  },
+  {
     "company": "Block",
     "jobCount": 3,
     "sources": [
@@ -227,6 +247,24 @@
     "officialUrls": [
       "https://careers.airbnb.com/positions/8224032?gh_jid=8224032",
       "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
+    ]
+  },
+  {
+    "company": "BeReal",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Paris"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer - BeReal",
+      "Freelance Senior Data Engineer - BeReal"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/bereal/senior-data-engineer-bereal-paris-395719",
+      "https://www.arbeitnow.fr/jobs/companies/bereal/freelance-senior-data-engineer-bereal-paris-460331"
     ]
   },
   {
@@ -374,19 +412,35 @@
     ]
   },
   {
-    "company": "Doctolib",
+    "company": "exmox",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Paris, Paris"
+      "Hamburg"
     ],
     "sampleTitles": [
-      "Senior Data Engineer - Analytics (x/f/m)"
+      "Senior AI-Native Data Engineer (f/m/x)"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-data-engineer-analytics-paris-paris-9674"
+      "https://www.arbeitnow.com/jobs/companies/exmox/senior-ai-native-data-engineer-hamburg-413553"
+    ]
+  },
+  {
+    "company": "Inato",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "PARIS OFFICE or REMOTE FROM FRANCE"
+    ],
+    "sampleTitles": [
+      "Senior Analytics Engineer, Product"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/inato/remote-senior-analytics-engineer-product-117030"
     ]
   },
   {
@@ -470,22 +524,6 @@
     ]
   },
   {
-    "company": "Sonarsource",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Geneva"
-    ],
-    "sampleTitles": [
-      "Staff Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.ch/jobs/companies/sonarsource/staff-data-engineer-geneva-374411"
-    ]
-  },
-  {
     "company": "Stripe",
     "jobCount": 1,
     "sources": [
@@ -502,6 +540,22 @@
     ]
   },
   {
+    "company": "Trg",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Remote within Germany"
+    ],
+    "sampleTitles": [
+      "Junior Data Engineer & MarTech Specialist (Mobile Apps) (m/w/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/trg/remote-junior-data-engineer-martech-specialist-mobile-apps-391953"
+    ]
+  },
+  {
     "company": "virtual7 GmbH",
     "jobCount": 1,
     "sources": [
@@ -515,6 +569,22 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-75190"
+    ]
+  },
+  {
+    "company": "Zefir",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Paris"
+    ],
+    "sampleTitles": [
+      "Founding Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/zefir/founding-analytics-engineer-paris-74468"
     ]
   }
 ]
