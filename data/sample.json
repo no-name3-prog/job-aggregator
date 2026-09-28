@@ -1,90 +1,86 @@
 [
   {
-    "id": "arbeitnow:electrical-engineer-gimbal-paris-239074",
-    "externalId": "electrical-engineer-gimbal-paris-239074",
+    "id": "arbeitnow:operations-manager-education-student-services-london-257699",
+    "externalId": "operations-manager-education-student-services-london-257699",
     "source": "arbeitnow",
-    "title": "Electrical Engineer (Gimbal)",
-    "company": "Signal Processing Engineer (RF Processing & Analytics)",
-    "location": "Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-gimbal-paris-239074",
-    "description": "About Us Harmattan AI is a next-generation defense prime building autonomous and scalable defense systems. Following the close of a $200M Series B, valuing the company at $1.4 billion, we are expanding our teams and capabilities to deliver mission-critical systems to allied forces.\n Our work is guided by clear values: building technologies with real-world impact, pursuing excellence in everything we do, setting ambitious goals, and taking on the hardest technical challenges. We operate in a demanding environment where rigor, ownership, and execution are expected.\n About the Role\n As an Electrical Engineer , your main role will be to design and develop electronic boards and embedded systems (SoM) for UAVs (e.g., Flight Controllers, Companion Computers, Electronic Speed Controllers).\n   Responsibilities\n High-performance embedded system design : Define the architecture and design the physical and electrical integration of complex systems based on processors, fast memory (DDR, Flash), and peripherals (e.g. embedded computers/calculators, sensors, video processing…).\n Advanced schematic and routing design : Design and develop electronic schematics, and perform board placement/routing to meet design specifications, managing fast signal constraints.\n Physical integration : Collaborate with the Mechanical Department to ensure the seamless physical integration of the boards into the final product.\n Sensor integration : Work closely with the GNC (Guidance, Navigation, and Control) Department to ensure accurate and effective sensor integration.\n Electromagnetic compatibility : Address and resolve EMC challenges while ensuring signal integrity.\n Troubleshooting : Identify and resolve issues in electrical and electronic boards through effective troubleshooting.\n Testing and Validation : Conduct testing, integration, and performance validation of electronic boards to meet operational and design requirements.\n   Candidate Requirements\n Educational Background : Master’s degree in…",
-    "tags": [
-      "R&D",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-09-27T22:40:09.000Z",
-    "scrapedAt": "2026-09-27T23:35:28.223Z"
-  },
-  {
-    "id": "arbeitnow:electrical-engineer-tooling-paris-197270",
-    "externalId": "electrical-engineer-tooling-paris-197270",
-    "source": "arbeitnow",
-    "title": "Electrical Engineer (Tooling)",
-    "company": "Signal Processing Engineer (RF Processing & Analytics)",
-    "location": "Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-tooling-paris-197270",
-    "description": "About Us Harmattan AI is a next-generation defense prime building autonomous and scalable defense systems. Following the close of a $200M Series B, valuing the company at $1.4 billion, we are expanding our teams and capabilities to deliver mission-critical systems to allied forces.\n Our work is guided by clear values: building technologies with real-world impact, pursuing excellence in everything we do, setting ambitious goals, and taking on the hardest technical challenges. We operate in a demanding environment where rigor, ownership, and execution are expected.\n Overview\nHarmattan AI is developing new hardware products within the Launcher module: field-deployable drone launchers designed to be deployed and operated autonomously in demanding field environments. These products require dedicated electronics design with complex architecture in a constrained environment – PCBs integrating power conversion, energy management, control and communication interfaces – optimised for cost at volume. The Launcher team is seeking a dedicated hardware engineer to own electronics design end-to-end and accelerate the path to production milestones.\n Ideal candidate\nA senior hardware engineer who has designed and shipped complex PCBs, ideally mixing digital and significant power (hundreds of watts), into production. They are rigorous on schematics, layout, and bring-up, and have a strong instinct for cost and manufacturability. They design with real-world operating conditions in mind - temperature, moisture, surges - and an interest in battery thermal management; direct experience of outdoor-deployed equipment is a plus rather than a prerequisite. They are comfortable working autonomously in a small team and can bridge hardware and firmware.\n Skills required\n PCB schematic and layout design (Altium Designer preferred)\n Power electronics design: ~300 W DC/DC conversion, protection, derating, efficiency and thermal budgets\n Thermal regulation: temperature sensing and control loops, b…",
-    "tags": [
-      "R&D",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-09-27T22:40:09.000Z",
-    "scrapedAt": "2026-09-27T23:35:28.223Z"
-  },
-  {
-    "id": "arbeitnow:electrical-engineer-ground-control-system-paris-206218",
-    "externalId": "electrical-engineer-ground-control-system-paris-206218",
-    "source": "arbeitnow",
-    "title": "Electrical Engineer (Ground Control System)",
-    "company": "Signal Processing Engineer (RF Processing & Analytics)",
-    "location": "Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-ground-control-system-paris-206218",
-    "description": "About Us Harmattan AI is a next-generation defense prime building autonomous and scalable defense systems. Following the close of a $200M Series B, valuing the company at $1.4 billion, we are expanding our teams and capabilities to deliver mission-critical systems to allied forces.\n Our work is guided by clear values: building technologies with real-world impact, pursuing excellence in everything we do, setting ambitious goals, and taking on the hardest technical challenges. We operate in a demanding environment where rigor, ownership, and execution are expected.\n Overview\nHarmattan AI is developing new hardware products within the GCS module, including ruggedised drone controllers and long-range RF systems designed for demanding field environments. These products require dedicated electronics design with complex architecture in a constrained environment – PCBs integrating RF modules, microcontrollers, power management, and communication interfaces – optimised for cost at volume. The GCS team is seeking a dedicated hardware engineer to own electronics design end-to-end and accelerate the path to production milestones.\n Ideal candidate\n A senior hardware engineer who has designed and shipped complex PCBs, ideally mixing digital and power, into production. They are rigorous on schematics, layout, and bring-up, and have a strong instinct for cost and manufacturability. They are comfortable working autonomously in a small team and can bridge hardware and firmware.\n Skills required\n PCB schematic and layout design (Altium Designer preferred)\n RF PCB design: controlled impedance, antenna matching, EMC management\n Mixed-signal design: power management, MCU interfaces, communication buses (SPI, I2C, UART, USB, CAN)\n Hardware bring-up and debug: bench equipment proficiency\n DFM/DFA for PCB manufacturing and assembly\n Component selection and BOM management\n   Responsibilities:\n Schematic Design - Design complete schematics for mixed-signal and RF boards, from power to digita…",
-    "tags": [
-      "R&D",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-09-27T22:40:09.000Z",
-    "scrapedAt": "2026-09-27T23:35:28.223Z"
-  },
-  {
-    "id": "arbeitnow:embedded-electrical-engineer-som-paris-376101",
-    "externalId": "embedded-electrical-engineer-som-paris-376101",
-    "source": "arbeitnow",
-    "title": "Embedded Electrical Engineer - SoM",
-    "company": "Signal Processing Engineer (RF Processing & Analytics)",
-    "location": "Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/embedded-electrical-engineer-som-paris-376101",
-    "description": "About Us Harmattan AI is a next-generation defense prime building autonomous and scalable defense systems. Following the close of a $200M Series B, valuing the company at $1.4 billion, we are expanding our teams and capabilities to deliver mission-critical systems to allied forces.\n Our work is guided by clear values: building technologies with real-world impact, pursuing excellence in everything we do, setting ambitious goals, and taking on the hardest technical challenges. We operate in a demanding environment where rigor, ownership, and execution are expected.\n About the role\n As an Embedded Electrical Engineer at Harmattan AI, you will join the R&D team to design the compute modules and associated boards used across our platforms. You will own these designs end-to-end, from system architecture and schematic through layout guidance, fabrication, bring-up, and qualification. This is a high-impact role that combines demanding high-speed design work with hands-on bench work, taking hardware from a first prototype through to boards that fly.\n   Responsibilities\n Board Design: Design SoMs, baseboards, and test boards for our compute platforms.\n High-Speed Digital Design: Design around high-end application processors, covering PCIe, 10 Gb Ethernet, USB 3.x, and MIPI, managing layout constraints and signal integrity.\n Power Design: Design power trees, sequencing, and conversion topologies, and verify power-up and power-down behaviour.\n Design Reviews: Prepare and lead design reviews at each milestone, from block diagram to release for fabrication.\n Manufacture: Work with PCB and EMS partners on stack-up, via technology, layout guidance, and cost trade-offs.\n Bring Up and Qualification: Define verification test plans, troubleshoot and characterise boards, and run thermal, vibration, EMC, and ESD qualification.\n Cross-Functional Collaboration: Work with the embedded software team through board bring-up, the mechanical team on form factor and thermal constraints, and vali…",
-    "tags": [
-      "R&D",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-09-27T22:40:09.000Z",
-    "scrapedAt": "2026-09-27T23:35:28.223Z"
-  },
-  {
-    "id": "arbeitnow:senior-community-operation-manager-london-454965",
-    "externalId": "senior-community-operation-manager-london-454965",
-    "source": "arbeitnow",
-    "title": "Senior Community Operation Manager",
-    "company": "sonyinteractiveentertainmentglobal",
+    "title": "Operations Manager - Education & Student Services",
+    "company": "London School of Excellence",
     "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-community-operation-manager-london-454965",
-    "description": "<div class=\"content-intro\"><p><strong>Why Sony Interactive Entertainment?</strong></p>\n<p>Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.</p></div><div>\n<div>\n<p><strong><span data-contrast=\"none\"><span data-ccp-parastyle=\"heading 2\">About This Role</span></span></strong><span data-ccp-props=\"{\"335559738\":240,\"335559739\":100}\">&nbsp;</span></p>\n<p><span data-contrast=\"none\">Sony Interactive&nbsp;Entertainment&nbsp;is seeking a Senior Player Health Manager to act as a studio-facing community strategy partner across&nbsp;PlayStation’s&nbsp;first-party portfolio. Reporting to the Senior&nbsp;Community Operations &amp; Strategy Lead, you will be one of the founding members of a central Community team that provides strategy, standards, and scale&nbsp;for PlayStation Studios and their player-first&nbsp;community operations.</span><span data-ccp-props=\"{\"335559739\":100}\">&nbsp;</span></p>\n<p><span data-contrast=\"none\">Working across some of the largest IPs in gaming,&nbsp;this role&nbsp;will be integral to shaping the strategy and central operations supporting community and marketing teams. This is a role for a community&nbsp;leader in gaming&nbsp;who can also execute: equally credible presenting a title community strategy to studio leadership and&nbsp;leaning into game&nbsp;launch-window&nbsp;operations.</span><span data-ccp-props=\"{\"335559739\":100}\">…",
+    "remote": true,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/london-school-of-excellence/operations-manager-education-student-services-london-257699",
+    "description": "London School of Excellence is looking for a highly organised and proactive Operations Manager to oversee our day-to-day education operations.\n The successful candidate will manage staff activity, student communication, application progress, university correspondence, operational reporting and partnership development.\n This is a hands-on management role for someone who can keep multiple teams and processes organised, ensure tasks are completed on time, and provide management with clear visibility of ongoing operations.\n Tasks\n Manage and monitor day-to-day staff activities, attendance, punctuality and overall performance.\n Allocate daily and weekly tasks and ensure work is completed on time.\n Conduct brief team check-ins and review staff weekly reports.\n Monitor whether students, agents and universities are being contacted and followed up by the responsible team.\n Oversee student enquiries, application progress, outstanding documents and pending actions.\n Ensure applications are properly assigned, updated and progressed without unnecessary delay.\n Monitor university communication, application follow-ups, offers, conditions and outstanding matters.\n Assign or coordinate important operational emails and internal communication.\n Support and monitor new university/education partnership activities, including follow-ups and meetings.\n Ensure staff correctly update the CRM and internal systems.\n Monitor overdue tasks, inactive cases and unresolved issues.\n Identify blockers, coordinate with the relevant team members and make sure problems are resolved quickly.\n Act as the main communication point across teams to keep workflows moving smoothly.\n Maintain visibility of staff workload, task status and operational priorities.\n Prepare a weekly operations report for senior management.\n Escalate serious staff, application, university or operational issues when required.\n Requirements\n Previous experience in operations, education, student recruitment, admissions, office manageme…",
     "tags": [
-      "Admin (Business & Product)"
+      "Remote",
+      "Management",
+      "Team Leader",
+      "manager"
     ],
-    "postedAt": "2026-09-27T21:55:20.000Z",
-    "scrapedAt": "2026-09-27T23:35:28.223Z"
+    "jobType": "manager",
+    "postedAt": "2026-09-28T03:00:41.000Z",
+    "scrapedAt": "2026-09-28T03:22:47.972Z"
+  },
+  {
+    "id": "arbeitnow:sr-manager-quality-assurance-zug-142731",
+    "externalId": "sr-manager-quality-assurance-zug-142731",
+    "source": "arbeitnow",
+    "title": "Sr. Manager, Quality Assurance",
+    "company": "Acadia Job Listings",
+    "location": "Zug",
+    "remote": false,
+    "url": "https://www.arbeitnow.ch/jobs/companies/acadia-job-listings/sr-manager-quality-assurance-zug-142731",
+    "description": "<div class=\"content-intro\"><p></p>\n<div data-ogsc=\"black\"><span data-ogsc=\"\" data-ogsb=\"yellow\"><strong data-ogsc=\"\" data-olk-copy-source=\"MessageBody\">About Acadia Pharmaceuticals</strong></span></div>\n<div data-ogsc=\"black\">&nbsp;</div>\n<div data-ogsc=\"black\"><span data-ogsc=\"\" data-ogsb=\"yellow\">Acadia is committed to turning scientific promise into meaningful innovation that makes the difference for underserved neurological and rare disease communities around the world. Our commercial portfolio includes the first and only FDA-approved treatments for Parkinson’s disease psychosis and Rett syndrome. We are developing the next wave of therapeutic advancements with a robust and diverse pipeline that includes mid- to late-stage programs in Alzheimer’s disease psychosis and Lewy body dementia psychosis, along with earlier-stage programs that address other underserved patient needs. At Acadia, we’re here to be their difference.</span></div></div><div>\n<h1><span style=\"font-size: 10pt;\">Position Summary:</span></h1>\n<p><span style=\"font-size: 10pt;\">On behalf of Acadia GmbH the Sr. Manager, Quality Assurance Operations will be responsible for oversight of cGMP European operations within a global Quality Assurance department of Acadia Pharmaceuticals Inc. Responsibilities will include oversight of assigned cGMP operations performed at Contract Manufacturing Organizations (CMOs), as well as cGMP European operations performed at Acadia, quality release of API and drug product, raw materials and intermediates intended for commercial and clinical (where required) use. Primary responsibilities include: batch record review and batch disposition, support of product complaints, annual product review / product quality reviews, continuous process verifications (CPV), ensuring conformance to global Acadia standard operating procedures (SOPs) and quality agreements with CMOs, as well as compliance to Swissmedic/EMA/MHRA and other applicable international regulations. Proficient-lev…",
+    "tags": [
+      "Quality Assurance"
+    ],
+    "postedAt": "2026-09-28T02:55:18.000Z",
+    "scrapedAt": "2026-09-28T03:22:47.972Z"
+  },
+  {
+    "id": "arbeitnow:associate-director-regulatory-affairs-europe-zug-176813",
+    "externalId": "associate-director-regulatory-affairs-europe-zug-176813",
+    "source": "arbeitnow",
+    "title": "Associate Director Regulatory Affairs Europe",
+    "company": "Acadia Job Listings",
+    "location": "Zug",
+    "remote": false,
+    "url": "https://www.arbeitnow.ch/jobs/companies/acadia-job-listings/associate-director-regulatory-affairs-europe-zug-176813",
+    "description": "<div class=\"content-intro\"><p></p>\n<div data-ogsc=\"black\"><span data-ogsc=\"\" data-ogsb=\"yellow\"><strong data-ogsc=\"\" data-olk-copy-source=\"MessageBody\">About Acadia Pharmaceuticals</strong></span></div>\n<div data-ogsc=\"black\">&nbsp;</div>\n<div data-ogsc=\"black\"><span data-ogsc=\"\" data-ogsb=\"yellow\">Acadia is committed to turning scientific promise into meaningful innovation that makes the difference for underserved neurological and rare disease communities around the world. Our commercial portfolio includes the first and only FDA-approved treatments for Parkinson’s disease psychosis and Rett syndrome. We are developing the next wave of therapeutic advancements with a robust and diverse pipeline that includes mid- to late-stage programs in Alzheimer’s disease psychosis and Lewy body dementia psychosis, along with earlier-stage programs that address other underserved patient needs. At Acadia, we’re here to be their difference.</span></div></div><p><strong><u>Position Summary</u></strong></p>\n<p>The Associate Director, Regulatory Affairs Europe is responsible for the implementation and execution of global regulatory development, submission and lifecycle maintenance strategies for assigned products in Europe. Staying abreast of the ever evolving regulatory and therapeutic landscapes, the Associate Director will inform regional and global strategic plans on a continuous basis. Further, the Associate Director will assist in building a European regulatory infrastructure that is fit for purpose in line with Acadia’s product pipeline, patient and caregiver needs and in full compliance with European regulatory requirements and standards.</p>\n<p><strong><u>Primary Responsibilities</u></strong></p>\n<ul>\n<li>Proactively initiate, manage, submit and maintain regulatory activities in support of the development, commercialization and maintenance of assigned products in compliance with reporting requirements.</li>\n<li>Plan, coordinate and manage Pediatric Investigation Plans and Or…",
+    "tags": [
+      "Regulatory Affairs"
+    ],
+    "postedAt": "2026-09-28T02:55:18.000Z",
+    "scrapedAt": "2026-09-28T03:22:47.972Z"
+  },
+  {
+    "id": "arbeitnow:associate-director-manufacturing-drug-substance-zug-265251",
+    "externalId": "associate-director-manufacturing-drug-substance-zug-265251",
+    "source": "arbeitnow",
+    "title": "Associate Director, Manufacturing (Drug Substance)",
+    "company": "Acadia Job Listings",
+    "location": "Zug",
+    "remote": false,
+    "url": "https://www.arbeitnow.ch/jobs/companies/acadia-job-listings/associate-director-manufacturing-drug-substance-zug-265251",
+    "description": "<div class=\"content-intro\"><p></p>\n<div data-ogsc=\"black\"><span data-ogsc=\"\" data-ogsb=\"yellow\"><strong data-ogsc=\"\" data-olk-copy-source=\"MessageBody\">About Acadia Pharmaceuticals</strong></span></div>\n<div data-ogsc=\"black\">&nbsp;</div>\n<div data-ogsc=\"black\"><span data-ogsc=\"\" data-ogsb=\"yellow\">Acadia is committed to turning scientific promise into meaningful innovation that makes the difference for underserved neurological and rare disease communities around the world. Our commercial portfolio includes the first and only FDA-approved treatments for Parkinson’s disease psychosis and Rett syndrome. We are developing the next wave of therapeutic advancements with a robust and diverse pipeline that includes mid- to late-stage programs in Alzheimer’s disease psychosis and Lewy body dementia psychosis, along with earlier-stage programs that address other underserved patient needs. At Acadia, we’re here to be their difference.</span></div></div><h3>Position Summary:</h3>\n<p>Responsible for oversight of commercial Contract Manufacturing Organizations (CMO’s), and other third-party suppliers for products as identified, including the transfer of processes from R&amp;D/Product development to commercial third-party suppliers. Responsible for oversight of ongoing manufacturing schedules to ensure both development and commercial supply levels are maintained, and inventory targets are met. Ensures that manufacturing activities meet the needs of all internal and external constituencies with an emphasis on process, quality, budget control and profitability.</p>\n<h3>Primary Responsibilities:</h3>\n<ul>\n<li>Develops and maintains good working relationships with contract manufacturers.</li>\n<li>Negotiate and manage CMO contracts</li>\n<li>Develops SOP’s and work processes needed for Commercial Manufacturing</li>\n<li>Works with CMOs to diagnose and correct process issues.</li>\n<li>Identifies, evaluates and selects CMOs for the manufacture of Commercial products</li>\n<li>Develops, co…",
+    "tags": [
+      "Manufacturing & Operations"
+    ],
+    "postedAt": "2026-09-28T02:55:18.000Z",
+    "scrapedAt": "2026-09-28T03:22:47.972Z"
+  },
+  {
+    "id": "arbeitnow:staff-security-engineer-incident-response-168072",
+    "externalId": "staff-security-engineer-incident-response-168072",
+    "source": "arbeitnow",
+    "title": "Staff Security Engineer, Incident Response",
+    "company": "databricks",
+    "location": "Unknown",
+    "remote": false,
+    "url": "https://www.arbeitnow.ch/jobs/companies/databricks/staff-security-engineer-incident-response-168072",
+    "description": "<p>RDQ327R180</p>\n<p><strong>Staff Security Engineer, Incident Response</strong></p>\n<p>The Incident Response team's mission is to respond to security threats, incidents and investigations to protect our customers, employees and enterprise data in a fast, efficient and standardised manner. We're a tight-knit team of security incident responders and incident handlers doing \"Security for Databricks on Databricks\", using our own platform to create near-real-time log analytics, alerting and forensics.</p>\n<p>You will be an individual contributor on the security Incident Response (IR) team at Databricks, reporting to the regional IR manager. You will be responsible for conducting security analysis and forensics, responding to high-priority alerts and contributing to automations and agentic capabilities. You will be a security multiplier and help the team scale security incident response at Databricks.</p>\n<p><strong>The impact you will have:</strong></p>\n<ul>\n<li>You will respond to incidents as part of a distributed 24x7 operations and on-call schedule.</li>\n<li>You will triage and respond to security events and alerts, ensuring quick and effective containment.</li>\n<li>You will conduct analysis and forensics across a range of data sources to determine the timeline and impact of security events.</li>\n<li>You will provide technical leadership and influence team direction.</li>\n<li>You will develop solutions, including leveraging AI and agentic platforms, to deliver autonomous capabilities, expedite your work and scale the impact of the team.</li>\n<li>You will communicate technical decisions through design docs and tech talks, and mentor junior security responders via security guidance, design reviews and code reviews.</li>\n</ul>\n<p><strong>What we look for:</strong></p>\n<ul>\n<li>Bachelor's Degree AND 7+ years experience in Incident Response work OR Master's Degree AND 5+ years experience.</li>\n<li>Cloud security expertise in at least 1 of AWS, GCP or Azure, and proficie…",
+    "tags": [
+      "Security"
+    ],
+    "postedAt": "2026-09-28T02:55:15.000Z",
+    "scrapedAt": "2026-09-28T03:22:47.972Z"
   }
 ]

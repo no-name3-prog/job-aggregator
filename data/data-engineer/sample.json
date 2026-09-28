@@ -13,7 +13,7 @@
       "Information Security"
     ],
     "postedAt": "2026-09-27T21:55:20.000Z",
-    "scrapedAt": "2026-09-27T23:36:16.659Z"
+    "scrapedAt": "2026-09-28T03:23:35.923Z"
   },
   {
     "id": "arbeitnow:innomaster-big-data-engineering-part-time-masters-program-hamburg-170006",
@@ -31,23 +31,7 @@
     ],
     "jobType": "Combined-study",
     "postedAt": "2026-09-27T17:04:33.000Z",
-    "scrapedAt": "2026-09-27T23:36:16.659Z"
-  },
-  {
-    "id": "arbeitnow:staff-data-engineer-255812",
-    "externalId": "staff-data-engineer-255812",
-    "source": "arbeitnow",
-    "title": "Staff Data Engineer",
-    "company": "Overstory",
-    "location": "Unknown",
-    "remote": false,
-    "url": "https://www.arbeitnow.ch/jobs/companies/overstory/staff-data-engineer-255812",
-    "description": "<div class=\"content-intro\"><p>The climate crisis is the defining challenge of our time—but it’s also the greatest opportunity for innovation, and a challenge we’re proud to take on. At Overstory, we’re harnessing cutting-edge technology to enable a resilient electrical grid that keeps communities thriving as our world changes.</p>\n<p>The grid is the backbone of life as we know it. It powers hospitals, keeps food fresh, and ensures communities stay connected. But extreme weather, aging infrastructure, and growing wildfire risks are putting this critical system under pressure. All of this combined makes the electric utility industry the greatest opportunity for tackling climate change.&nbsp;</p>\n<p>One of the leading causes of catastrophic wildfires and power outages? Trees and brush coming into contact with power lines.&nbsp;</p>\n<p>That’s where we help. At Overstory, we use AI and advanced satellite imagery to pinpoint and prioritize vegetation risks before they materialize. By giving utilities critical analysis on those risks, we’re helping prevent outages, reduce wildfire risks, and accelerate the transition to a safer, more resilient grid.</p>\n<p>Our team spans the Americas and Europe, and we work with utility partners across the Americas and beyond. We’re outdoor enthusiasts, musicians, artists, athletes, parents, and adventurers. What unites us is a passion for solving complex problems, a commitment to climate action, and the belief that technology should be a force for good.</p>\n<p>Join us to help us build a more resilient world together.&nbsp;</p></div><h2>Role &amp; Team</h2>\n<p>As a <strong>Staff Data Engineer</strong> at Overstory, you will lead the design and scaling of the data platform that enables Overstory’s AI-powered vegetation analysis. Our analysis depends on moving enormous volumes of satellite imagery, model inferences, and utility network data through orchestrated pipelines reliably, repeatably, and on time to support customer decision-making.…",
-    "tags": [
-      "Engineering"
-    ],
-    "postedAt": "2026-09-27T14:55:47.000Z",
-    "scrapedAt": "2026-09-27T23:36:16.659Z"
+    "scrapedAt": "2026-09-28T03:23:35.923Z"
   },
   {
     "id": "arbeitnow:senior-analytics-engineer-paris-278463",
@@ -63,7 +47,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-27T13:55:02.000Z",
-    "scrapedAt": "2026-09-27T23:36:16.659Z"
+    "scrapedAt": "2026-09-28T03:23:35.923Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-paris-153526",
@@ -79,7 +63,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-27T13:55:02.000Z",
-    "scrapedAt": "2026-09-27T23:36:16.659Z"
+    "scrapedAt": "2026-09-28T03:23:35.923Z"
   },
   {
     "id": "arbeitnow:senior-analytics-engineer-london-245078",
@@ -95,7 +79,7 @@
       "Insights & Analytics"
     ],
     "postedAt": "2026-09-27T12:55:09.000Z",
-    "scrapedAt": "2026-09-27T23:36:16.659Z"
+    "scrapedAt": "2026-09-28T03:23:35.923Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-london-375027",
@@ -111,7 +95,7 @@
       "Data & Analytics - Burson"
     ],
     "postedAt": "2026-09-27T12:55:04.000Z",
-    "scrapedAt": "2026-09-27T23:36:16.659Z"
+    "scrapedAt": "2026-09-28T03:23:35.923Z"
   },
   {
     "id": "arbeitnow:remote-senior-analytics-engineer-product-117030",
@@ -129,7 +113,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-27T10:40:09.000Z",
-    "scrapedAt": "2026-09-27T23:36:16.659Z"
+    "scrapedAt": "2026-09-28T03:23:35.923Z"
   },
   {
     "id": "arbeitnow:founding-analytics-engineer-paris-74468",
@@ -147,7 +131,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-27T10:40:09.000Z",
-    "scrapedAt": "2026-09-27T23:36:16.659Z"
+    "scrapedAt": "2026-09-28T03:23:35.923Z"
   },
   {
     "id": "arbeitnow:location-data-engineer-paris-97531",
@@ -165,6 +149,24 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-27T10:40:07.000Z",
-    "scrapedAt": "2026-09-27T23:36:16.659Z"
+    "scrapedAt": "2026-09-28T03:23:35.923Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-places-paris-142762",
+    "externalId": "data-engineer-places-paris-142762",
+    "source": "arbeitnow",
+    "title": "Data Engineer, Places",
+    "company": "Amo",
+    "location": "Paris",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/amo/data-engineer-places-paris-142762",
+    "description": "What You’ll Do\n Build pipelines for place and location-related data.\n Work with noisy real-world signals and large geospatial datasets.\n Improve quality, reliability, and observability of derived datasets.\n Define metrics and feedback loops for data quality and attribution.\n Prototype in Python, SQL, notebooks, or similar tools.\n Integrate scoped production experiments with amo’s backend systems.\n Run offline evaluations and A/B tests where relevant.\n Must Have\n Strong Python and SQL.\n Production experience with Python or Scala.\n Experience with PySpark, Spark SQL, Spark Streaming, Parquet, and Iceberg.\n Experience with large datasets and data pipelines.\n Experience with geospatial data, POI datasets, place matching, or similar real-world entity data.\n Comfort with metrics, experimentation, and data quality measurement.\n Comfort working near backend systems and reading production code.\n Nice To Have\n Experience in maps, mobility, local search, POI data, or geospatial systems.\n Experience with ranking, recommendations, embeddings, or entity resolution.\n Experience with Flink or similar stream processing systems.\n Experience reading or making scoped changes in Rust-backed systems.\n Life at amo\n To ensure that everyone is set up for success within our way of working, we work together onsite 5 days a week.\n We wanted to make sure coming to the office was as comfortable as possible for you:\n We chose a location in central Paris, near Opera (Metro lines 3,8,9 and RER A).\n We have a beautiful Parisian-style office with high ceilings, balconies, and huge windows. So a lot of natural light!\n Because life outside of work should also be stress-free, we cover:\n Health care (100% coverage).\n Maternity Leave, Paternity Leave, Second Parent Leave (salary maintained at 100%).\n Vacation days: 8-9 weeks (total) per year - (European summer? 🥹😎).\n 5 weeks of paid time off (by the state);\n 1-2 additional weeks (RTT, based on our company contract);\n ~11 bank holidays.\n We shut down en…",
+    "tags": [
+      "Engineering",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-09-27T10:40:07.000Z",
+    "scrapedAt": "2026-09-28T03:23:35.923Z"
   }
 ]
