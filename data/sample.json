@@ -1,82 +1,88 @@
 [
   {
-    "id": "arbeitnow:projektleiter-luftung-koln-cologne-6451",
-    "externalId": "projektleiter-luftung-koln-cologne-6451",
-    "source": "arbeitnow",
-    "title": "Projektleiter Lüftung (m/w/d) | Köln",
-    "company": "WUP INGENIEURE",
-    "location": "Cologne",
+    "id": "greenhouse:discord-8846732002",
+    "externalId": "discord:8846732002",
+    "source": "greenhouse",
+    "title": "Software Engineer, Consumer Revenue",
+    "company": "Discord",
+    "location": "San Francisco Bay Area",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/wup-ingenieure/projektleiter-luftung-koln-cologne-6451",
-    "description": "Als eine führende Ingenieurgesellschaft für technische Gebäudeausrüstung (TGA) planen und realisieren wir seit über 30 Jahren technische Anlagen für Gebäude aller Art – unter anderem von Universitäten und Lehranstalten, Bürokomplexen, Laboren über Krankenhäuser bis hin zu Forschungseinrichtungen.\n Die Baubranche und die Technik entwickeln sich stetig weiter. Deshalb sind wir immer auf der Suche nach neuen Fachkräften, die unser Unternehmen mit Leidenschaft, Neugier und Engagement mitprägen und unsere Marktposition stärken.\n An unserem Hauptstandort Köln suchen wir zum nächstmöglichen Zeitpunkt Verstärkung im Bereich Projektleitung für ELT/ Elektrotechnik (m/w/d).\n Aufgaben\n Eigenverantwortliche Leitung und Steuerung von anspruchsvollen Projekten im Bereich Elektrotechnik innerhalb der Technischen Gebäudeausrüstung (TGA)\n Fachliche und organisatorische Verantwortung für die Projektabwicklung über alle Leistungsphasen der HOAI\n Entwicklung innovativer und wirtschaftlicher Konzepte im Bereich Lüftung für Neu- und Bestandsbauten\n Koordination von Projektteams sowie Zusammenarbeit mit Fachplanern, Bauherren, Architekten und externen Partnern\n Überwachung von Terminen, Kosten und Qualitäten während der gesamten Projektlaufzeit\n Durchführung technischer Abstimmungen und Planungsbesprechungen\n Sicherstellung der Einhaltung relevanter Normen, Vorschriften und Richtlinien\n Unterstützung bei der Ausschreibung, Vergabe und Abrechnung von elektrotechnischen Anlagen\n Ansprechpartner für Kunden und Projektbeteiligte in allen projektbezogenen Fragestellungen\n Qualifikation\n Erfolgreich abgeschlossenes Studium der Versorgungstechnik, Energie- und Gebäudetechnik, Gebäudetechnik mit Schwerpunkt Lüftungs- und Klimatechnik oder eine vergleichbare Qualifikation\n Alternativ Weiterbildung zum staatlich geprüften Techniker oder Meister (m/w/d) im Bereich Lüftungs-, Klima- oder Versorgungstechnik\n Mehrjährige Berufserfahrung in der Planung, Projektierung oder Projektleitung von Lüftungs- un…",
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8846732002",
+    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.\n We're looking for talented Software Engineers to join our Consumer Revenue squads, the teams at the heart of premium experiences at Discord. You’ll be building out a premium Discord for millions of subscribers, focusing on surfaces such as Nitro, shop, boosting, user identity, and more. Your work will be vital in delivering a high-value premium experience, without compromising the core experience for our free users. You’ll be a key driver in generating the revenue that fuels Discord’s mission.\n In this product engineering role, you'll collaborate cross-functionally with Product, Data Science, Design, Marketing, and other functions to create best-in-class consumer experiences. Your work will cover the full breadth of the technical stack, from backend data modeling, through business logic in APIs, to polished, user-facing interfaces. You’ll be supported by infrastructure, platform, and product teams on your mission to build the best premium Discord.\n What You'll Be Doing\n Build and improve premium Discord experiences such as Nitro, shop, boosting, user identity, and more.\n Own projects end to end by partnering with Product to refine requirements, create technical specs, and work closely with Design to execute and deliver best-in-class user experiences.\n Work with a team of full-stack engineers to ship new features across Web, Android, and iOS.\n Lead complex initiatives from conception to completion, thriving in ambiguous environments.\n Rapidly prototype new features and synthesize insights through experimentation.\n What you should have\n 3+ years of software engineering experience. You’re a key technical…",
     "tags": [
-      "Engineering"
+      "Product Engineering"
     ],
-    "postedAt": "2026-09-28T12:00:33.000Z",
-    "scrapedAt": "2026-09-28T12:47:17.471Z"
+    "postedAt": "2026-09-28T20:44:39.000Z",
+    "scrapedAt": "2026-09-28T21:02:18.537Z"
   },
   {
-    "id": "arbeitnow:staff-design-verification-engineer-ai-hw-zurich-77609",
-    "externalId": "staff-design-verification-engineer-ai-hw-zurich-77609",
-    "source": "arbeitnow",
-    "title": "Staff Design Verification Engineer, AI HW",
-    "company": "tenstorrent",
-    "location": "Zürich",
+    "id": "greenhouse:brex-8853828002",
+    "externalId": "brex:8853828002",
+    "source": "greenhouse",
+    "title": "Banking Relationship Manager",
+    "company": "Brex",
+    "location": "San Francisco, California, United States",
     "remote": false,
-    "url": "https://www.arbeitnow.ch/jobs/companies/tenstorrent/staff-design-verification-engineer-ai-hw-zurich-77609",
-    "description": "<div class=\"content-intro\"><p>Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.</p></div><p class=\"wnfdnte\" data-pm-slice=\"1 1 []\">Our Tensix team is building custom AI compute cores, RISC-V CPUs, and chiplet-based architectures for datacenter, edge, and automotive AI. Design Verification Engineers on this team validate compute IP and subsystems and build scalable DV infrastructure to keep verification fast, automated, and production-grade.</p>\n<p class=\"wnfdnte\">This role is hybrid, based out of Toronto, ON, Austin, TX or Belgrade, Serbia.</p>\n<p class=\"wnfdnte\">We welcome candidates at various experience levels for this role. During the interview process, candidates will be assessed for the appropriate level, and offers will align with that level, which may differ from the one in this posting.</p>\n<p class=\"wnfdnte\">&nbsp;</p>\n<p class=\"wnfdnte\"><strong>Who You Are</strong></p>\n<ul>\n<li>Experienced in modern verification methodologies with strong SystemVerilog skills and exposure to structured testbench development.</li>\n<li>Comfortable working from block-level to system-level verification and reasoning about microarchitecture behavior from specs and waveforms.</li>\n<li>Proficient in Linux environments with Python, or Bash scripting for automate builds, parse logs, manage CI pipelines.</li>\n<li>Skilled in coverage-driven verification and confident debugging across RTL, testbench, and workload…",
+    "url": "https://www.brex.com/careers/8853828002?gh_jid=8853828002",
+    "description": "Why join us\n Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.\n Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.\n Sales at Brex\n Sales is the growth engine at Brex. We bring in new customers, expand existing relationships, and drive the company’s bottom line. With unlimited territories and uncapped opportunity, your ambition sets the ceiling. We win together, celebrate often, and reward performance. If you want to sell a category-defining product with real ownership, this is your team.\n What you’ll do\n As a Banking Relationship Manager on our newly formed Banking Team, you will have the opportunity to partner directly with Founders, Co-Founders, C-Suite Executives, VPs of Finance, and Controllers to continue generating net-new revenue by optimizing their adoption of our business account suite of products. As a foundational member of the team, you will work closely with our customers to upsell our checking, treasury, and sweep products to ultimately increase total AUM for Brex, a pivotal opportunity for Brex's overall growth.\n You will have th…",
     "tags": [
-      "AI Hardware"
+      "Sales"
     ],
-    "postedAt": "2026-09-28T11:55:19.000Z",
-    "scrapedAt": "2026-09-28T12:47:17.471Z"
+    "postedAt": "2026-09-28T20:41:30.000Z",
+    "scrapedAt": "2026-09-28T21:02:18.537Z"
   },
   {
-    "id": "arbeitnow:principal-data-strategist-zurich-182572",
-    "externalId": "principal-data-strategist-zurich-182572",
+    "id": "arbeitnow:senior-product-manager-core-product-paris-392131",
+    "externalId": "senior-product-manager-core-product-paris-392131",
     "source": "arbeitnow",
-    "title": "Principal Data Strategist (m/f/d)",
-    "company": "thoughtworks",
-    "location": "Zurich",
+    "title": "Senior Product Manager, Core Product",
+    "company": "Photoroom",
+    "location": "Paris",
     "remote": false,
-    "url": "https://www.arbeitnow.ch/jobs/companies/thoughtworks/principal-data-strategist-zurich-182572",
-    "description": "<p>Principal data strategists at Thoughtworks are experienced consultants who work with clients to create winning data solutions that meet business goals. They play a pivotal role in developing modern data architecture approaches that directly address our clients' key business objectives. Their responsibilities span in-depth reviews of current data and technology strategy, targeted data strategy, guiding clients to unlock the full potential of data, and providing high-level roadmaps.</p>\n<p>This role entails a mix of advisory responsibilities in data strategy and governance, coupled with a solid delivery-lead role and a breadth of data and AI ecosystem expertise.</p>\n<p>This is a client-facing, builder's leadership role. You will start with a small, senior team and grow it through technical depth, delivery excellence and thought leadership, rather than inheriting a large organisation to manage. The role is based in Germany and requires regular travel to client sites, up to approximately 50% of your time.</p>\n<p><strong>Job responsibilities</strong></p>\n<ul>\n<li>You will collaborate closely with clients to understand their business ecosystem and goals, and co-create data and technology strategies aligned with their objectives.</li>\n<li>You will help define a clear vision for the client enterprise to become data-driven and aligned with the overall business strategy.</li>\n<li>You will consult on complex data programs, providing technical leadership and guidance as a data subject-matter expert.</li>\n<li>You will lead and interact with clients across various domains, addressing challenging problems, and collaborate with sales to turn them into viable solutions and winning proposals.</li>\n<li>You will act as a translator between business, data and IT, and communicate data strategy to senior client stakeholders, including C-level.</li>\n<li>You will own the creation of end-to-end viable data solutions, keeping in mind long-term impacts and overseeing program inceptions for…",
+    "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/senior-product-manager-core-product-paris-392131",
+    "description": "About us Founded in 2019 and part of Y Combinator's 2020 cohort, Photoroom is the leading visual solution for e-commerce.\nWe've raised Series B funding and reached 300+ million users worldwide, processing over 5 billion images annually and serving both small businesses and major enterprises like Amazon, DoorDash, and Decathlon through our mobile app, web platform, and API.\nWe're a team of 100+ passionate builders giving e-commerce businesses superpowers to create visuals that help them grow, making the hardest parts of selling online disappear. We focus on craft, innovation, and collaboration to create exceptional impact for e-commerce businesses worldwide.\n We're looking for a Senior Product Manager to own the self-serve product experience for our SMB customers: small to medium brands selling on Shopify and beyond. The proposition for this segment is unbuilt, the squad is yours to shape, and you'll own the slice of ARR that comes with it. Working closely with engineers, designers, and AI researchers, you'll decide what gets built, why, and how it ships\n Location: Paris, hybrid 3 days in the office. We offer relocation support\n About the role Own a real slice of the self-serve product. From idea to shipped feature, you will build and execute the roadmap that solves problems for our users.\n Define the problem before the solution. Sharpen the user problem, then partner with design and engineering to ship work that feels effortless.\n Turn AI capabilities into products people want. Work hand-in-hand with our researchers and engineers to convert new model capabilities into shipped features that move usage and revenue.\n Stay close to the user. Talk to e-commerce sellers every week, and feed what you hear directly into roadmap decisions.\n Use data to decide, not to justify. Pull and interpret data yourself, form hypotheses, measure what shipped, and call what's next. You won’t need to wait around for someone else to run the query.\n About You You've shipped products you ca…",
     "tags": [
-      "1Y_TWDEU SL DATA"
+      "R&D",
+      "Full Time"
     ],
-    "postedAt": "2026-09-28T11:55:16.000Z",
-    "scrapedAt": "2026-09-28T12:47:17.471Z"
+    "jobType": "Full Time",
+    "postedAt": "2026-09-28T19:40:11.000Z",
+    "scrapedAt": "2026-09-28T21:02:17.884Z"
   },
   {
-    "id": "arbeitnow:senior-consultant-strategy-data-ai-transformation-zurich-134394",
-    "externalId": "senior-consultant-strategy-data-ai-transformation-zurich-134394",
+    "id": "arbeitnow:senior-backend-engineer-paris-30009",
+    "externalId": "senior-backend-engineer-paris-30009",
     "source": "arbeitnow",
-    "title": "Senior Consultant (Strategy & Data/AI Transformation)",
-    "company": "Artefactlinkedin",
-    "location": "Zürich",
+    "title": "Senior Backend Engineer",
+    "company": "Photoroom",
+    "location": "Paris",
     "remote": false,
-    "url": "https://www.arbeitnow.ch/jobs/companies/artefactlinkedin/senior-consultant-strategy-data-ai-transformation-zurich-134394",
-    "description": "<h2>Who is Artefact?</h2>\n<p>Artefact is a next-generation strategy and data consulting firm dedicated to transforming organisations through data and AI. We combine the rigour of top-tier strategy consulting with deep expertise in data, digital and analytics to help clients achieve tangible business impact.</p>\n<p>With 2,500+ consultants, data scientists and engineers, we work with global leaders such as Samsung, L’Oréal, Orange and Sanofi. Our Swiss offices are at the heart of Artefact’s growth, advising clients on their most pressing strategic challenges — from AI strategy and governance to digital transformation roadmaps and new business model design.</p>\n<h2>Main Responsibilities</h2>\n<p>As a Senior Consultant in our Zurich/Lausanne office, you will work at the intersection of strategy consulting and data and AI delivery. You will:</p>\n<ul>\n<li><strong>Strategy Development:</strong> Work with client leadership teams to address high-stakes questions. How can AI reshape our business model? How should we govern and organise for data? Which strategic programmes deliver the most impact?</li>\n<li><strong>Structured Problem-Solving:</strong> Break complex challenges down into decisions a client can act on, combining consulting rigour with a working knowledge of what current AI can and cannot actually do.</li>\n<li><strong>Solution Design:</strong> Turn a business question into a solution shape — what data it depends on, what kind of platform or product it should sit on, and what “good” looks like once it is built. You will do this alongside our data scientists and engineers.</li>\n<li><strong>Project Delivery:</strong> Support engagements end to end, from hypothesis framing and market and competitor analysis through to data maturity assessments, client workshops, governance design and implementation roadmaps.</li>\n<li><strong>Client Engagement:</strong> Work closely with C-level stakeholders and business unit leaders. You will build trusted relationships, communicate re…",
+    "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/senior-backend-engineer-paris-30009",
+    "description": "About us Founded in 2019 and part of Y Combinator's 2020 cohort, Photoroom is the leading visual solution for e-commerce.\nWe've raised Series B funding and reached 300+ million users worldwide, processing over 5 billion images annually and serving both small businesses and major enterprises like Amazon, DoorDash, and Decathlon through our mobile app, web platform, and API.\nWe're a team of 100+ passionate builders giving e-commerce businesses superpowers to create visuals that help them grow, making the hardest parts of selling online disappear. We focus on craft, innovation, and collaboration to create exceptional impact for e-commerce businesses worldwide.\n Role Summary We're looking for a Senior backend engineer to own the pricing system for all apps at Photoroom . You'll help deliver Product Growth initiatives and pricing architecture while collaborating closely with other engineers (both frontend and backend) and product owners.\n Compensation: 95k to 105k + Stock-Options/BSPCE\n Location: Paris (hybrid)\n About the Role You will own your work from A to Z: it goes from working on the architecture & coding features to monitoring releases' performance (we use Datadog for monitoring).\n You will own the delivery and the architecture of the pricing system used by all our products (iOS, Android, Web, API) and millions of users.\n You will get fast feedback from our users and will iterate quickly (we update the backend multiple times a week). You will follow the usage of the product and make decisions based on that.\n Collaborate with cross-functional teams (e.g., product, front-end) to actively help design and deliver seamless user experiences.\n You will optimise existing endpoints, driving down latency and ensuring we can continue to scale to ever greater usages\n About You You have 5+ years of experience in backend development with Django and Django Rest Framework\n You have experience working with a relational database at scale, designing schemas, optimising Django queri…",
     "tags": [
-      "Data Consulting"
+      "R&D",
+      "Full Time"
     ],
-    "postedAt": "2026-09-28T11:55:09.000Z",
-    "scrapedAt": "2026-09-28T12:47:17.471Z"
+    "jobType": "Full Time",
+    "postedAt": "2026-09-28T19:40:11.000Z",
+    "scrapedAt": "2026-09-28T21:02:17.884Z"
   },
   {
-    "id": "arbeitnow:senior-ai-engineer-technical-consultant-lausanne-vaud-322378",
-    "externalId": "senior-ai-engineer-technical-consultant-lausanne-vaud-322378",
+    "id": "arbeitnow:staff-product-manager-agentic-ai-platform-paris-266066",
+    "externalId": "staff-product-manager-agentic-ai-platform-paris-266066",
     "source": "arbeitnow",
-    "title": "Senior AI Engineer / Technical Consultant",
-    "company": "Artefactlinkedin",
-    "location": "Lausanne, Vaud",
+    "title": "Staff Product Manager, Agentic & AI Platform",
+    "company": "Photoroom",
+    "location": "Paris",
     "remote": false,
-    "url": "https://www.arbeitnow.ch/jobs/companies/artefactlinkedin/senior-ai-engineer-technical-consultant-lausanne-vaud-322378",
-    "description": "<h2 data-start=\"107\" data-end=\"126\">Who is Artefact?</h2>\n<p data-start=\"127\" data-end=\"406\">Artefact is a next-generation strategy and data consulting firm dedicated to transforming organizations through data and AI. We combine the rigor of top-tier strategy consulting with deep expertise in data, digital, and analytics to help clients achieve tangible business impact.</p>\n<p data-start=\"408\" data-end=\"795\">With 1,800+ consultants, data scientists, and engineers across 23 countries, we work with global leaders such as Samsung, L’Oréal, Orange, and Sanofi. Our Romandie office (Geneva/Lausanne) is at the heart of Artefact’s growth, advising clients on their most pressing strategic challenges — from AI strategy and governance to digital transformation roadmaps and new business model design.</p>\n<h2 data-start=\"797\" data-end=\"821\">Main Responsibilities</h2>\n<p data-start=\"822\" data-end=\"1096\">As a <strong data-start=\"827\" data-end=\"879\">Senior Technical Consultant / Senior AI Engineer</strong>, you will lead the design and delivery of impactful AI and data solutions. You’ll combine hands-on engineering with client advisory, guiding multi-disciplinary teams from opportunity framing to production deployment.</p>\n<ul data-start=\"1098\" data-end=\"2600\">\n<li data-start=\"1098\" data-end=\"1326\">\n<p data-start=\"1100\" data-end=\"1326\"><strong data-start=\"1100\" data-end=\"1141\">Own solution architecture &amp; delivery:</strong> Define end-to-end architectures (data, ML/LLM, APIs, security), make build/buy decisions, and drive projects from PoC to production with reliability, observability, and cost in mind.</p>\n</li>\n<li data-start=\"1327\" data-end=\"1512\">\n<p data-start=\"1329\" data-end=\"1512\"><strong data-start=\"1329\" data-end=\"1360\">Lead complex PoCs &amp; pilots:</strong> Scope, prototype, and validate AI/ML use cases (incl. LLMs/GenAI, RAG, fine-tuning, evaluation) and convert successful pilots into scalable products.</p>\n</li>\n<li data-start=\"1513\" data-end=\"1754\">\n<p data-start…",
+    "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/staff-product-manager-agentic-ai-platform-paris-266066",
+    "description": "About us Founded in 2019 and part of Y Combinator's 2020 cohort, Photoroom is the leading visual solution for e-commerce.\nWe've raised Series B funding and reached 300+ million users worldwide, processing over 5 billion images annually and serving both small businesses and major enterprises like Amazon, DoorDash, and Decathlon through our mobile app, web platform, and API.\nWe're a team of 100+ passionate builders giving e-commerce businesses superpowers to create visuals that help them grow, making the hardest parts of selling online disappear. We focus on craft, innovation, and collaboration to create exceptional impact for e-commerce businesses worldwide.\n Role Summary We're looking for a Staff Product Manager to own the AI platform every Photoroom product is built on. Our mission is that any team ships best-in-class GenAI visuals without needing a backend engineer: the primitives, the gateway and the no-code tooling turn adding an AI capability into a configuration step rather than an engineering project. On top of that sits the agentic layer — multi-step visual workflows that generate, check, reason, route and publish on their own. Working closely with engineers, ML researchers, and the product teams who ship on your platform, you'll decide what gets built, why, and how it ships.\n Location: Paris, (Hybrid)\n About the role Own the platform every AI feature runs through. Expand and improve our AI gateway, including safeguards, evals, cost and observability, giving teams the ability to ship with little to no code and build skills that we can ship directly to users.\n Build the agentic layer and Photoroom’s MCP. Visual agents that run multi-step flows: generate, QA, route, retry, publish, all unattended and at catalog scale.\n Define the problem before the solution. Sharpen the problem, then partner with engineering and research to ship work that feels effortless — for the developers and PMs using the platform as much as for end users.\n Treat other teams as your cust…",
     "tags": [
-      "Data Science"
+      "R&D",
+      "Full Time"
     ],
-    "postedAt": "2026-09-28T11:55:09.000Z",
-    "scrapedAt": "2026-09-28T12:47:17.471Z"
+    "jobType": "Full Time",
+    "postedAt": "2026-09-28T19:40:11.000Z",
+    "scrapedAt": "2026-09-28T21:02:17.884Z"
   }
 ]
