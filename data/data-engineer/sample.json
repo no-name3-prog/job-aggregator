@@ -1,5 +1,21 @@
 [
   {
+    "id": "arbeitnow:security-analytics-engineer-london-453235",
+    "externalId": "security-analytics-engineer-london-453235",
+    "source": "arbeitnow",
+    "title": "Security Analytics Engineer",
+    "company": "sonyinteractiveentertainmentglobal",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/security-analytics-engineer-london-453235",
+    "description": "<div class=\"content-intro\"><p><strong>Why Sony Interactive Entertainment?</strong></p>\n<p>Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.</p></div><p><span style=\"color: rgb(31, 56, 100); font-size: 12pt;\"><strong>Job description</strong></span></p>\n<p style=\"color: !important;\"><span style=\"font-size: 12pt;\">The successful candidate will join the Security Data Analytics team, working across PlayStation data assets and business groups.&nbsp;This team develops the data products, pipelines, dashboards, and reporting that help Information Security teams understand security posture, risk trends, control effectiveness, exposure, and remediation progress.&nbsp; Our work is increasingly built on automation and AI-enabled analytics, and this role builds the data foundations that make that possible.</span></p>\n<p style=\"color: !important;\"><span style=\"font-size: 12pt;\">This opening focuses on the backend of that work.&nbsp; Reporting to the Director of Security Data Analytics, you will design and operate the data engineering foundations our analytics depend on: ingestion and transformation pipelines, Snowflake data models, automation, and the enrichment and AI-ready data patterns that turn raw security signals into trusted, analytics-ready data.&nbsp;Presentation-layer engineers own most visualization delivery, so your primary contribution is the reliab…",
+    "tags": [
+      "Information Security"
+    ],
+    "postedAt": "2026-09-27T21:55:20.000Z",
+    "scrapedAt": "2026-09-27T23:36:16.659Z"
+  },
+  {
     "id": "arbeitnow:innomaster-big-data-engineering-part-time-masters-program-hamburg-170006",
     "externalId": "innomaster-big-data-engineering-part-time-masters-program-hamburg-170006",
     "source": "arbeitnow",
@@ -15,7 +31,7 @@
     ],
     "jobType": "Combined-study",
     "postedAt": "2026-09-27T17:04:33.000Z",
-    "scrapedAt": "2026-09-27T20:48:17.868Z"
+    "scrapedAt": "2026-09-27T23:36:16.659Z"
   },
   {
     "id": "arbeitnow:staff-data-engineer-255812",
@@ -31,7 +47,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-27T14:55:47.000Z",
-    "scrapedAt": "2026-09-27T20:48:17.868Z"
+    "scrapedAt": "2026-09-27T23:36:16.659Z"
   },
   {
     "id": "arbeitnow:senior-analytics-engineer-paris-278463",
@@ -47,7 +63,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-27T13:55:02.000Z",
-    "scrapedAt": "2026-09-27T20:48:17.868Z"
+    "scrapedAt": "2026-09-27T23:36:16.659Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-paris-153526",
@@ -63,7 +79,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-27T13:55:02.000Z",
-    "scrapedAt": "2026-09-27T20:48:17.868Z"
+    "scrapedAt": "2026-09-27T23:36:16.659Z"
   },
   {
     "id": "arbeitnow:senior-analytics-engineer-london-245078",
@@ -79,7 +95,7 @@
       "Insights & Analytics"
     ],
     "postedAt": "2026-09-27T12:55:09.000Z",
-    "scrapedAt": "2026-09-27T20:48:17.868Z"
+    "scrapedAt": "2026-09-27T23:36:16.659Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-london-375027",
@@ -95,7 +111,7 @@
       "Data & Analytics - Burson"
     ],
     "postedAt": "2026-09-27T12:55:04.000Z",
-    "scrapedAt": "2026-09-27T20:48:17.868Z"
+    "scrapedAt": "2026-09-27T23:36:16.659Z"
   },
   {
     "id": "arbeitnow:remote-senior-analytics-engineer-product-117030",
@@ -113,7 +129,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-27T10:40:09.000Z",
-    "scrapedAt": "2026-09-27T20:48:17.868Z"
+    "scrapedAt": "2026-09-27T23:36:16.659Z"
   },
   {
     "id": "arbeitnow:founding-analytics-engineer-paris-74468",
@@ -131,7 +147,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-27T10:40:09.000Z",
-    "scrapedAt": "2026-09-27T20:48:17.868Z"
+    "scrapedAt": "2026-09-27T23:36:16.659Z"
   },
   {
     "id": "arbeitnow:location-data-engineer-paris-97531",
@@ -149,24 +165,6 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-27T10:40:07.000Z",
-    "scrapedAt": "2026-09-27T20:48:17.868Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-places-paris-142762",
-    "externalId": "data-engineer-places-paris-142762",
-    "source": "arbeitnow",
-    "title": "Data Engineer, Places",
-    "company": "Amo",
-    "location": "Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/amo/data-engineer-places-paris-142762",
-    "description": "What You’ll Do\n Build pipelines for place and location-related data.\n Work with noisy real-world signals and large geospatial datasets.\n Improve quality, reliability, and observability of derived datasets.\n Define metrics and feedback loops for data quality and attribution.\n Prototype in Python, SQL, notebooks, or similar tools.\n Integrate scoped production experiments with amo’s backend systems.\n Run offline evaluations and A/B tests where relevant.\n Must Have\n Strong Python and SQL.\n Production experience with Python or Scala.\n Experience with PySpark, Spark SQL, Spark Streaming, Parquet, and Iceberg.\n Experience with large datasets and data pipelines.\n Experience with geospatial data, POI datasets, place matching, or similar real-world entity data.\n Comfort with metrics, experimentation, and data quality measurement.\n Comfort working near backend systems and reading production code.\n Nice To Have\n Experience in maps, mobility, local search, POI data, or geospatial systems.\n Experience with ranking, recommendations, embeddings, or entity resolution.\n Experience with Flink or similar stream processing systems.\n Experience reading or making scoped changes in Rust-backed systems.\n Life at amo\n To ensure that everyone is set up for success within our way of working, we work together onsite 5 days a week.\n We wanted to make sure coming to the office was as comfortable as possible for you:\n We chose a location in central Paris, near Opera (Metro lines 3,8,9 and RER A).\n We have a beautiful Parisian-style office with high ceilings, balconies, and huge windows. So a lot of natural light!\n Because life outside of work should also be stress-free, we cover:\n Health care (100% coverage).\n Maternity Leave, Paternity Leave, Second Parent Leave (salary maintained at 100%).\n Vacation days: 8-9 weeks (total) per year - (European summer? 🥹😎).\n 5 weeks of paid time off (by the state);\n 1-2 additional weeks (RTT, based on our company contract);\n ~11 bank holidays.\n We shut down en…",
-    "tags": [
-      "Engineering",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-09-27T10:40:07.000Z",
-    "scrapedAt": "2026-09-27T20:48:17.868Z"
+    "scrapedAt": "2026-09-27T23:36:16.659Z"
   }
 ]
