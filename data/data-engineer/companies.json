@@ -160,9 +160,10 @@
       "workday"
     ],
     "locations": [
-      "Ireland, Dublin",
+      "Poland, Warsaw",
       "USA, GA, Atlanta",
-      "2 Locations"
+      "2 Locations",
+      "Ireland, Dublin"
     ],
     "sampleTitles": [
       "Data Engineer",
@@ -171,7 +172,7 @@
       "Data Platform Engineer - Cybersecurity"
     ],
     "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Scientist_JR-0108262",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Poland-Warsaw/Data-Engineer_JR-0110295-1",
       "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Principal-Software-Development-Engineer--Data-Engineering-_JR-0109442",
       "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
       "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
@@ -273,24 +274,6 @@
     ]
   },
   {
-    "company": "Dashlane",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Paris"
-    ],
-    "sampleTitles": [
-      "Senior Analytics Engineer",
-      "Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/dashlane/senior-analytics-engineer-paris-278463",
-      "https://www.arbeitnow.fr/jobs/companies/dashlane/analytics-engineer-paris-153526"
-    ]
-  },
-  {
     "company": "Dropbox",
     "jobCount": 2,
     "sources": [
@@ -382,22 +365,6 @@
     ]
   },
   {
-    "company": "Bookboost",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Germany - Munich"
-    ],
-    "sampleTitles": [
-      "Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/bookboost/data-engineer-germany-munich-159377"
-    ]
-  },
-  {
     "company": "Discord",
     "jobCount": 1,
     "sources": [
@@ -446,6 +413,22 @@
     ]
   },
   {
+    "company": "Ledger",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Paris, France"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/ledger/analytics-engineer-paris-4050"
+    ]
+  },
+  {
     "company": "Linear",
     "jobCount": 1,
     "sources": [
@@ -459,22 +442,6 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
-    ]
-  },
-  {
-    "company": "PHMG Careers",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Manchester, England, United Kingdom"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/senior-data-engineer-manchester-124429"
     ]
   },
   {
@@ -539,6 +506,22 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8112043"
+    ]
+  },
+  {
+    "company": "Wolt - English",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin, Berlin, Germany"
+    ],
+    "sampleTitles": [
+      "Senior Analytics Engineer (Multiple Domains)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-analytics-engineer-multiple-domains-berlin-287258"
     ]
   }
 ]

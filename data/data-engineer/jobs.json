@@ -1,5 +1,37 @@
 [
   {
+    "id": "arbeitnow:senior-analytics-engineer-multiple-domains-berlin-287258",
+    "externalId": "senior-analytics-engineer-multiple-domains-berlin-287258",
+    "source": "arbeitnow",
+    "title": "Senior Analytics Engineer (Multiple Domains)",
+    "company": "Wolt - English",
+    "location": "Berlin, Berlin, Germany",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-analytics-engineer-multiple-domains-berlin-287258",
+    "description": "About Wolt\n At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we're building the delivery of (almost) everything and you'll find us in over 500 cities in 30 countries around the world. In 2022 we joined forces with DoorDash and together we keep on dreaming big and expanding across the globe.\nWorking at Wolt isn't always easy, but it's definitely exciting. Here you'll learn more, build more, and ship more than in most other companies. You'll be challenged a lot, but also have a lot of fun on the way. So, if you're a self-starter with drive and entrepreneurial spirit, this could be the ride of your life.\n Analytics at Wolt is a business-critical area that covers three different teams: data science, regional business operations, and analytics engineering. The complexity of online delivery, differences in the economics and dynamics of the cities we operate in, and vast amounts of data make our work truly interesting!\n Now we are looking for three experienced Senior Analytics Engineers to join our Analytics Engineering teams. We have three domains available: Consumer, Merchant, or Ads . You can work in Berlin, Stockholm or Helsinki .\n About the role\n The role is focused on the business needs - you'll be working within a cross-functional team, making sure your teammates get the insights needed for their operations. The role requires interpreting the needs and requests of our internal stakeholders from business and product, and transforming them into actionable data. Data Scientists working in the domain will be your closest partners in your day-to-day work, as your solutions will enable them to create relevant experiments, A/B tests, and analyses.\n Your daily work will include\n Developing reporting and metrics quality as a whole, from understanding the needs of the business to providing easily understandable and actionable data.\n Working on our centrally maint…",
+    "tags": [],
+    "postedAt": "2026-09-29T06:45:32.000Z",
+    "scrapedAt": "2026-09-29T12:03:50.841Z"
+  },
+  {
+    "id": "arbeitnow:analytics-engineer-paris-4050",
+    "externalId": "analytics-engineer-paris-4050",
+    "source": "arbeitnow",
+    "title": "Analytics Engineer",
+    "company": "Ledger",
+    "location": "Paris, France",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/ledger/analytics-engineer-paris-4050",
+    "description": "We’re a team of experts pushing the limits of what’s possible, united by our common goal to unlock true freedom through digital ownership, making technology accessible for all. We believe in a world where users, creators and enterprises manage their value with ownership and freedom. Our curiosity drives us to innovate, empowering individuals on a global scale. We believe change is constant and our team moves forward as one, with a culture of problem-solving where every employee is empowered and supported to challenge tradition and create solutions. Our mission is simple: to make self-custody accessible and give people the keys to their own financial futures. If you want to make a true impact, we want you to join us at Ledger.\n At Ledger, we’re proud to be the global platform for digital assets and Web3, with over 20% of the world’s crypto assets secured through our Ledger devices. With our headquarters in Paris, and offices in Vierzon, Grenoble, Montpellier, London, Portland, Geneva, Zurich and Central Singapore, we have a team of around 600 professionals developing a variety of products and services to enable individuals and companies to securely buy, store, swap, grow and manage crypto assets – including the Ledger hardware wallets line with more than 7.5 millions units already sold in 200 countries.\n The team:\n You'll join the Data Team, responsible for turning data into actionable insights and recommendations for our consumer sales and marketing operations across all channels.\n What you’ll be doing:\n Own analytics across the full consumer sales scope: Ledger.com e-commerce, Amazon marketplaces, wholesale and resellers/distributors - covering both sell-in and sell-out- with one consistent view of revenue, units and margin reconciled in Snowflake, our source of truth\n Develop and improve data models (dbt/Snowflake) across varied data sources (sales, sell-out, marketing, web analytics) with the support of the data engineering team; co-own data quality alerting (SK…",
+    "tags": [
+      "Corporate Functions",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-09-29T04:40:04.000Z",
+    "scrapedAt": "2026-09-29T12:03:50.841Z"
+  },
+  {
     "id": "arbeitnow:senior-ai-data-engineer-paris-paris-394082",
     "externalId": "senior-ai-data-engineer-paris-paris-394082",
     "source": "arbeitnow",
@@ -13,44 +45,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-28T22:55:04.000Z",
-    "scrapedAt": "2026-09-29T04:00:06.691Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-manchester-124429",
-    "externalId": "senior-data-engineer-manchester-124429",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer",
-    "company": "PHMG Careers",
-    "location": "Manchester, England, United Kingdom",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/senior-data-engineer-manchester-124429",
-    "description": "Role: Senior Data Engineer\n Location: Manchester – Hybrid working\n Salary: £55k OTE\n PHMG is continuing to develop and mature its data capability, focusing on modernising our data platform and enhancing the way we work. As part of this continued development, we are looking to strengthen our Data Engineering team and maximise the value from the wealth of data held across the organisation.\n We are looking for a Data Engineer to help design, build and maintain reliable, scalable data solutions. Working as part of an established Data Engineering team, you will contribute to the development of our data platform, strengthen engineering practices and help improve the quality and reliability of data across the organisation.\n This is an exciting opportunity for an experienced Data Engineer with strong SQL and Python skills to work with modern cloud data technologies, contribute to our engineering standards and play a part in delivering and evolving PHMG's Data Strategy.\n What you will do:\n Design, build and maintain scalable, reliable and maintainable data pipelines and datasets.\n Play a key role in developing and improving our Microsoft Fabric data platform.\n Take ownership of complex data engineering solutions from design through to production.\n Contribute to technical design and architecture decisions across data warehouse, lakehouse and data integration solutions.\n Champion strong engineering practices across source control, CI/CD, testing, documentation, monitoring and error handling.\n Work with other Data Engineers to improve data architecture, platform performance and engineering processes, providing technical guidance and mentoring where required.\n Work closely with the business to understand requirements and deliver effective data solutions.\n The person we are looking for will have the following experience:\n Strong SQL and Python skills, with practical experience using both for data engineering and transformation.\n Significant experience designing, building and sup…",
-    "tags": [],
-    "postedAt": "2026-09-28T21:45:28.000Z",
-    "scrapedAt": "2026-09-29T04:00:06.691Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-germany-munich-159377",
-    "externalId": "data-engineer-germany-munich-159377",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Bookboost",
-    "location": "Germany - Munich",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/bookboost/data-engineer-germany-munich-159377",
-    "description": "Your mission Bookboost is the Hospitality Engagement Platform that empowers hotels to understand and engage their guests like never before. We unify guest data, automate personalised communication, and deliver experiences that drive revenue, loyalty, and operational excellence.\n We have customers across more than 20 countries and a platform that wins on depth. As we scale, the volume and importance of our data is growing fast, and we're looking for a Data Engineer to build the infrastructure that keeps up.\n Your profile You'll design and build the data infrastructure that carries Bookboost from hundreds of gigabytes to terabytes of guest data, moving, transforming and making it available to our frontend application and our machine learning and AI pipelines.\n This is a role with real scope. You'll work with the latest technologies on hospitality-industry-first use cases spanning both analytics and machine learning, and you'll have genuine ownership of how our data platform is designed rather than implementing someone else's blueprint.\n If you want to be handed narrow tickets and left alone, this is not that job. If you want to shape the data foundation the whole product runs on, it's a good one. What you'll own and deliver Scalable data pipelines and infrastructure, designed and built alongside Product and Engineering Data pipelines for ingestion, transformation and storage at high scale, deployed and monitored end to end Tools and abstractions on top of the data infrastructure for analytics, recommendations and machine learning Data orchestration and streaming pipelines Reusable data resources and design patterns, built in close collaboration with product teams What makes you a great fit? Data engineering depth: 4+ years of industry experience, with production systems you have owned rather than contributed to Programming and processing: strong engineering skills, ideally with distributed data processing (AWS, PySpark) Scale: strong quantitative skills and experienc…",
-    "tags": [
-      "Germany",
-      "Data Engineer",
-      "SaaS",
-      "Hosp Tech",
-      "Experienced",
-      "Permanent",
-      "Full time"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-09-28T20:09:35.000Z",
-    "scrapedAt": "2026-09-29T04:00:06.691Z"
+    "scrapedAt": "2026-09-29T12:03:50.841Z"
   },
   {
     "id": "arbeitnow:data-engineer-paris-france-424097",
@@ -68,39 +63,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-28T13:40:03.000Z",
-    "scrapedAt": "2026-09-29T04:00:06.691Z"
-  },
-  {
-    "id": "arbeitnow:senior-analytics-engineer-paris-278463",
-    "externalId": "senior-analytics-engineer-paris-278463",
-    "source": "arbeitnow",
-    "title": "Senior Analytics Engineer",
-    "company": "Dashlane",
-    "location": "Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/dashlane/senior-analytics-engineer-paris-278463",
-    "description": "<div class=\"content-intro\"><p><strong>About Dashlane</strong></p>\n<p style=\"margin-left: 0.0in;\">Dashlane’s mission is to deliver the credential security every business and employee needs to thrive. Millions of consumers, and over 25,000 brands worldwide, such as Michelin, Air France, and Forrester, trust Dashlane for industry-leading innovations, patented zero-knowledge security, and an unmatched user experience. Founded in Paris, Dashlane has since established offices in New York and Lisbon, and has grown to more than 300 Dashlaners globally.</p>\n<p style=\"margin-left: 0.0in;\">We're looking for people who actively use AI tools to drive efficiency, creativity, and impact in their work. At Dashlane, we drive innovation and value learning, strive for excellence in everything we do, and thrive as one team. Learn more about&nbsp;<a href=\"https://lifeatdashlane.com/\" data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"link\"><u data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"underline\">life at Dashlane</u></a>, including <a href=\"https://lifeatdashlane.com/how-we-work\" data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"link\"><u data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"underline\">how we work</u></a>, <a href=\"https://lifeatdashlane.com/how-we-hire\" data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"link\"><u data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"underline\">how we hire</u></a>, and the <a href=\"https://lifeatdashlane.com/benefits-dashlane\" data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"link\"><u data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"underline\">benefits of being a Dashlaner</u></a>.</p>\n<p style=\"margin-left: 0.0in;\">&nbsp;</p></div><p><strong>About the role:</strong></p>\n<p>At Dashlane, we believe that data is an engine of growth and the voice of our customer. We are looking for a Senior Analytics Engineer to join our coll…",
-    "tags": [
-      "Engineering"
-    ],
-    "postedAt": "2026-09-27T13:55:02.000Z",
-    "scrapedAt": "2026-09-29T04:00:06.691Z"
-  },
-  {
-    "id": "arbeitnow:analytics-engineer-paris-153526",
-    "externalId": "analytics-engineer-paris-153526",
-    "source": "arbeitnow",
-    "title": "Analytics Engineer",
-    "company": "Dashlane",
-    "location": "Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/dashlane/analytics-engineer-paris-153526",
-    "description": "<div class=\"content-intro\"><p><strong>About Dashlane</strong></p>\n<p style=\"margin-left: 0.0in;\">Dashlane’s mission is to deliver the credential security every business and employee needs to thrive. Millions of consumers, and over 25,000 brands worldwide, such as Michelin, Air France, and Forrester, trust Dashlane for industry-leading innovations, patented zero-knowledge security, and an unmatched user experience. Founded in Paris, Dashlane has since established offices in New York and Lisbon, and has grown to more than 300 Dashlaners globally.</p>\n<p style=\"margin-left: 0.0in;\">We're looking for people who actively use AI tools to drive efficiency, creativity, and impact in their work. At Dashlane, we drive innovation and value learning, strive for excellence in everything we do, and thrive as one team. Learn more about&nbsp;<a href=\"https://lifeatdashlane.com/\" data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"link\"><u data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"underline\">life at Dashlane</u></a>, including <a href=\"https://lifeatdashlane.com/how-we-work\" data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"link\"><u data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"underline\">how we work</u></a>, <a href=\"https://lifeatdashlane.com/how-we-hire\" data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"link\"><u data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"underline\">how we hire</u></a>, and the <a href=\"https://lifeatdashlane.com/benefits-dashlane\" data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"link\"><u data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"underline\">benefits of being a Dashlaner</u></a>.</p>\n<p style=\"margin-left: 0.0in;\">&nbsp;</p></div><p><strong>About the role:</strong></p>\n<p>At Dashlane, we believe that data is an engine of growth and the voice of our customer. We are looking for an Analytics Engineer to join our collaborat…",
-    "tags": [
-      "Engineering"
-    ],
-    "postedAt": "2026-09-27T13:55:02.000Z",
-    "scrapedAt": "2026-09-29T04:00:06.691Z"
+    "scrapedAt": "2026-09-29T12:03:50.841Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -116,7 +79,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -132,7 +95,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:pinterest-8209014",
@@ -148,7 +111,7 @@
       "Oversight Engineering"
     ],
     "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:airbnb-8224032",
@@ -164,7 +127,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "lever:spotify-80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
@@ -184,7 +147,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-09-22T08:36:16.099Z",
-    "scrapedAt": "2026-09-29T04:04:02.361Z"
+    "scrapedAt": "2026-09-29T12:07:21.450Z"
   },
   {
     "id": "greenhouse:figma-6201407004",
@@ -200,7 +163,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-21T16:13:46.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -216,7 +179,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -232,7 +195,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -248,7 +211,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -264,7 +227,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -280,7 +243,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -296,7 +259,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -312,7 +275,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:instacart-8167458",
@@ -328,7 +291,7 @@
       "Marketing "
     ],
     "postedAt": "2026-08-31T18:20:26.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -344,7 +307,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:affirm-7916080003",
@@ -360,7 +323,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-08-20T13:43:45.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -380,7 +343,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-09-29T04:04:02.361Z"
+    "scrapedAt": "2026-09-29T12:07:21.450Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -399,7 +362,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-09-29T04:04:03.396Z"
+    "scrapedAt": "2026-09-29T12:07:22.150Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -415,7 +378,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:stripe-8112043",
@@ -431,7 +394,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-08-06T14:27:44.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -447,7 +410,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:dropbox-8090065",
@@ -463,7 +426,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-08-04T17:49:51.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:dropbox-8090062",
@@ -479,7 +442,7 @@
       "CTO-Data Science, AI Platform & Eng (Sub Team)"
     ],
     "postedAt": "2026-07-29T21:04:04.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:affirm-7813362003",
@@ -495,7 +458,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-07-28T10:52:21.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -511,7 +474,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -527,7 +490,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -543,7 +506,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -559,7 +522,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -575,7 +538,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:cloudflare-8007032",
@@ -591,7 +554,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-06-19T05:40:45.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -607,7 +570,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:airbnb-7998356",
@@ -623,7 +586,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-06-10T23:39:45.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -639,7 +602,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -655,7 +618,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -671,7 +634,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:anthropic-4956672008",
@@ -687,7 +650,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2025-10-17T18:13:10.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -703,23 +666,23 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-09-29T04:00:07.604Z"
+    "scrapedAt": "2026-09-29T12:03:51.722Z"
   },
   {
-    "id": "workday:workday-JR-0108262",
-    "externalId": "workday:JR-0108262",
+    "id": "workday:workday-JR-0110295",
+    "externalId": "workday:JR-0110295",
     "source": "workday",
     "title": "Data Engineer",
     "company": "Workday",
-    "location": "Ireland, Dublin",
+    "location": "Poland, Warsaw",
     "remote": false,
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Scientist_JR-0108262",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Poland-Warsaw/Data-Engineer_JR-0110295-1",
     "description": "",
     "tags": [
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:workday-JR-0109442",
@@ -735,7 +698,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -751,7 +714,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -767,7 +730,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -781,7 +744,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:nvidia-JR2023850",
@@ -795,7 +758,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:nvidia-JR2009512",
@@ -809,7 +772,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:nvidia-JR2026497",
@@ -823,7 +786,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -837,7 +800,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:salesforce-JR359930",
@@ -851,7 +814,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:salesforce-JR358536",
@@ -865,7 +828,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:adobe-R170680",
@@ -879,7 +842,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:adobe-R171212",
@@ -893,7 +856,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:adobe-R171875",
@@ -907,7 +870,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:adobe-R169536",
@@ -921,7 +884,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -935,7 +898,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:autodesk-26WD100418",
@@ -949,7 +912,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -963,7 +926,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -977,7 +940,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -991,7 +954,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:00:46.024Z"
+    "scrapedAt": "2026-09-29T12:03:59.481Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -1005,7 +968,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:02:06.643Z"
+    "scrapedAt": "2026-09-29T12:05:18.819Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -1019,6 +982,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-09-29T04:02:06.643Z"
+    "scrapedAt": "2026-09-29T12:05:18.819Z"
   }
 ]
