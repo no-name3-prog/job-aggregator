@@ -80,29 +80,29 @@
     ]
   },
   {
-    "company": "NVIDIA",
+    "company": "Salesforce",
     "jobCount": 5,
     "sources": [
       "workday"
     ],
     "locations": [
-      "Israel, Yokneam",
-      "5 Locations",
-      "2 Locations"
+      "India - Hyderabad",
+      "Ireland - Dublin",
+      "Mexico - Mexico City"
     ],
     "sampleTitles": [
-      "Senior Interconnect Product Data Engineer",
-      "Senior Synthetic Data Engineer - Autonomous Driving",
-      "Senior Data Engineer - Financial Transactions & Automation",
-      "SAP MM/PP Master Data Engineer - Enterprise Data Management",
-      "Senior Data Infrastructure Engineer, AI Performance"
+      "Senior Data Engineer",
+      "Data Engineering Senior Associate",
+      "Sr. Data Engineer (Python & SQL exp. mandatory)",
+      "Senior Data Engineer",
+      "PMTS - Principal Agentic Data Engineer"
     ],
     "officialUrls": [
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Interconnect-Product-Data-Engineer_JR2021975",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Synthetic-Data-Engineer---Autonomous-Driving_JR2023850-1",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer---Financial-Transactions---Automation_JR2009512",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Gurugram/SAP-MM-PP-Master-Data-Engineer---Enterprise-Data-Management_JR2026497",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970"
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Data-Engineer_JR353458",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Sr-Data-Engineer--Python---SQL-exp-mandatory-_JR358536",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
     ]
   },
   {
@@ -130,27 +130,26 @@
     ]
   },
   {
-    "company": "Salesforce",
+    "company": "NVIDIA",
     "jobCount": 4,
     "sources": [
       "workday"
     ],
     "locations": [
-      "Ireland - Dublin",
-      "India - Hyderabad",
-      "Mexico - Mexico City"
+      "Israel, Yokneam",
+      "2 Locations"
     ],
     "sampleTitles": [
-      "Data Engineering Senior Associate",
-      "Sr. Data Engineer (Python & SQL exp. mandatory)",
-      "Senior Data Engineer",
-      "PMTS - Principal Agentic Data Engineer"
+      "Senior Interconnect Product Data Engineer",
+      "Senior Data Engineer - Financial Transactions & Automation",
+      "SAP MM/PP Master Data Engineer - Enterprise Data Management",
+      "Senior Data Infrastructure Engineer, AI Performance"
     ],
     "officialUrls": [
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Sr-Data-Engineer--Python---SQL-exp-mandatory-_JR358536",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Interconnect-Product-Data-Engineer_JR2021975",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer---Financial-Transactions---Automation_JR2009512",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Gurugram/SAP-MM-PP-Master-Data-Engineer---Enterprise-Data-Management_JR2026497",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970"
     ]
   },
   {
@@ -274,6 +273,24 @@
     ]
   },
   {
+    "company": "Discord",
+    "jobCount": 2,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "San Francisco Bay Area"
+    ],
+    "sampleTitles": [
+      "Staff Data Engineer - Data Infrastructure",
+      "Senior Data Engineer, Ads"
+    ],
+    "officialUrls": [
+      "https://job-boards.greenhouse.io/discord/jobs/8691572002",
+      "https://job-boards.greenhouse.io/discord/jobs/8299493002"
+    ]
+  },
+  {
     "company": "Dropbox",
     "jobCount": 2,
     "sources": [
@@ -365,19 +382,83 @@
     ]
   },
   {
-    "company": "Discord",
+    "company": "Alma",
     "jobCount": 1,
     "sources": [
-      "greenhouse"
+      "jobicy"
     ],
     "locations": [
-      "San Francisco Bay Area"
+      "France"
     ],
     "sampleTitles": [
-      "Staff Data Engineer - Data Infrastructure"
+      "Analytics Engineer"
     ],
     "officialUrls": [
-      "https://job-boards.greenhouse.io/discord/jobs/8691572002"
+      "https://jobicy.com/jobs/154219-analytics-engineer-3"
+    ]
+  },
+  {
+    "company": "Anaplan",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer - AI"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-data-engineer-ai-london-488533"
+    ]
+  },
+  {
+    "company": "autonomous-teaming",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Munich (DEU)"
+    ],
+    "sampleTitles": [
+      "ML Data Engineer (m/f/d) - Sensor Data & Pipelines"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/ml-data-engineer-sensor-data-pipelines-munich-deu-324411"
+    ]
+  },
+  {
+    "company": "Collaboration Betters The World GmbH",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Munich"
+    ],
+    "sampleTitles": [
+      "Senior Consultant Cloud Data Engineering (m/w/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/senior-consultant-cloud-data-engineering-munich-465021"
+    ]
+  },
+  {
+    "company": "Defense Unicorns",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "USA"
+    ],
+    "sampleTitles": [
+      "FDE Data Engineer- Space (FedD141/FedD147)"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/154213-fde-data-engineer-space-fedd141-fedd147"
     ]
   },
   {
@@ -394,6 +475,22 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-ai-data-engineer-paris-paris-394082"
+    ]
+  },
+  {
+    "company": "Getground",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/getground/data-engineer-london-107704"
     ]
   },
   {
@@ -509,19 +606,19 @@
     ]
   },
   {
-    "company": "Wolt - English",
+    "company": "Xdesign",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Berlin, Berlin, Germany"
+      "Edinburgh"
     ],
     "sampleTitles": [
-      "Senior Analytics Engineer (Multiple Domains)"
+      "Lead Data Engineer"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-analytics-engineer-multiple-domains-berlin-287258"
+      "https://www.arbeitnow.co.uk/jobs/companies/xdesign/lead-data-engineer-edinburgh-414772"
     ]
   }
 ]

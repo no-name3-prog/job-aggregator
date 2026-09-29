@@ -1,87 +1,82 @@
 [
   {
-    "id": "greenhouse:stripe-8174141",
-    "externalId": "stripe:8174141",
+    "id": "greenhouse:reddit-8240716",
+    "externalId": "reddit:8240716",
     "source": "greenhouse",
-    "title": "Account Executive Product - Global Selling",
+    "title": "Frontend Engineer, Ads Campaign Manager",
+    "company": "Reddit",
+    "location": "Remote - United States",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8240716",
+    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com .\n Ads powers Reddit’s mission to bring community, belonging, and empowerment to everyone in the world. The Advertiser Platform organization owns ads.reddit.com, Reddit’s core advertiser-facing product.\n We’re looking for a mid-level frontend engineer to join our Ads Manager team. Our team includes frontend and backend engineers who build tools that help advertisers create and manage campaigns at scale. We make complex advertising workflows easier to use, with a focus on performance and reliability.\n In this role, you’ll own medium-sized frontend projects. You’ll help clarify requirements, propose technical solutions, and carry your work through implementation and release. You’ll make progress independently, collaborate with teammates on tradeoffs, and ask for input when you need it.\n Responsibilities\n Build intuitive, accessible interfaces that help advertisers create and manage campaigns.\n Partner with product managers, designers, and backend engineers to turn advertiser needs into scoped projects.\n Own technical design, implementation, testing, and release for medium-sized frontend projects.\n Communicate progress, dependencies, and risks early so partners can plan around them.\n Review code and document technical decisions to help the team maintain and extend its work.\n Improve frontend performance and reliability, address bugs, and contribute reusable components and patterns.\n Requirements\n 3+ years of software engineering experience, including 2+ years in frontend engineering.\n Experience building and maintaining pro…",
+    "tags": [
+      "Ads Engineering"
+    ],
+    "postedAt": "2026-09-29T19:30:04.000Z",
+    "scrapedAt": "2026-09-29T19:45:30.698Z"
+  },
+  {
+    "id": "greenhouse:pinterest-7494740",
+    "externalId": "pinterest:7494740",
+    "source": "greenhouse",
+    "title": "Principal Engineer, Shopping & Delivery Infra",
+    "company": "Pinterest",
+    "location": "San Francisco, CA, US; Remote, US",
+    "remote": true,
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494740",
+    "description": "About Pinterest:\n Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.\n Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here .\n Pinterest is looking for a Principal Engineer to lead the technical strategy and execution for our Indexing & Retrieval Infrastructure across Core, Ads, and Shopping. This role sits at the center of our delivery infrastructure organization and will shape how fresh, relevant, and cost-efficient candidates are generated for the discovery experiences that power Pinterest at scale.\n What you’ll do:\n Define and drive the long-term technical vision for indexing and retrieval infrastructure across Core, Ads, and Shopping, aligning architecture investments to measurable improvements in freshness, quality, coverage, reliability, and cost efficiency.\n Lead cross-org initiatives to modernize Pinterest’s indexing architecture, including advancing unified real-time and incremental retrieval systems that support high-scale, high-quality candidate generation.…",
+    "tags": [
+      "Data Engineering"
+    ],
+    "postedAt": "2026-09-29T19:07:35.000Z",
+    "scrapedAt": "2026-09-29T19:45:30.698Z"
+  },
+  {
+    "id": "greenhouse:stripe-8190040",
+    "externalId": "stripe:8190040",
+    "source": "greenhouse",
+    "title": "Account Executive Product, Global Selling",
     "company": "Stripe",
-    "location": "Sydney Or Melbourne",
+    "location": "Seattle, SF, NYC, Chicago",
     "remote": false,
-    "url": "https://stripe.com/jobs/search?gh_jid=8174141",
-    "description": "Who we are\n About Stripe\n Stripe is a financial infrastructure platform for businesses. Millions of companies from the world's largest enterprises to the most ambitious startups use Stripe to accept payments, grow their revenue and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.\n About the team\n Stripe is investing in building out its Global Product Sales team to actively engage and drive prospects and customers to help them optimize their local currency presentment and pricing through Stripe’s Adaptive Pricing product.\n Stripe's Global Product Sales team is at the forefront of driving revenue and growth. As trusted business partners and strategic salespeople, our goal is to help users understand Stripe products and integrate them with ease so they can concentrate on what's most important to them: their business. We are known for our product knowledge, sales expertise, rigorous thinking and user-first approach to problem solving. Within Stripe, Product Sales proudly serve as a critical source of user feedback and market intelligence, with direct influence on Stripe's product roadmap and growth strategy.\n What you'll do\n Adaptive Pricing empowers businesses to dynamically optimize their pricing and presentment online, leveraging data-driven insights to maximize revenue while maintaining competitive positioning in rapidly evolving global markets. As part of Stripe’s Optimised Checkout Suite, Adaptive Pricing is a key strategic driver within Stripe Payments to support our users with global selling. As an Account Executive for Adaptive Pricing, you will use your sales and deep product expertise to help drive growth in this space to users across ANZ. You will collaborate with product, engineering, legal, marketing and other GTM teams…",
+    "url": "https://stripe.com/jobs/search?gh_jid=8190040",
+    "description": "Who we are\n About Stripe\n Stripe is a financial infrastructure platform for businesses. Millions of companies from the world's largest enterprises to the most ambitious startups use Stripe to accept payments, grow their revenue and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.\n About the team\n Stripe is investing in building out its Global Product Sales team to actively engage and drive prospects and customers to adopt our Global Selling products which include Stripe Managed Payments and Adaptive Pricing. Adaptive Pricing helps businesses optimize local currency pricing and presentment, while Stripe Managed Payments is Stripe’s Merchant of Record solution, enabling businesses to offload the complexity of global selling to Stripe. Managed Payments enables businesses to sell digital products globally with Stripe managing tax, fraud, disputes, and transaction-related customer support. We officially announced and launched Managed Payments this year, and are looking for a self-starter who can operate in the ‘build’ phase of products and go to market, capitalising on new opportunities and helping to scale rapidly our Global Selling Solutions.\n As trusted business partners and strategic salespeople, our goal is to help users understand Stripe products and integrate them with ease so they can concentrate on what's most important to them: their business. We are known for our product knowledge, sales expertise, rigorous thinking and user-first approach to problem solving. Within Stripe, Product Sales proudly serve as a critical source of user feedback and market intelligence, with direct influence on Stripe's product roadmap and growth strategy.\n What you’ll do\n Managed Payments and Adaptive Pricing are key strategic drivers within Stri…",
     "tags": [
       "1640 Product Sales - Payments"
     ],
-    "postedAt": "2026-09-29T11:14:22.000Z",
-    "scrapedAt": "2026-09-29T12:02:46.197Z"
+    "postedAt": "2026-09-29T19:00:48.000Z",
+    "scrapedAt": "2026-09-29T19:45:30.698Z"
   },
   {
-    "id": "arbeitnow:contentcreator-social-media-munich-398340",
-    "externalId": "contentcreator-social-media-munich-398340",
+    "id": "arbeitnow:director-of-people-partnering-emea-197247",
+    "externalId": "director-of-people-partnering-emea-197247",
     "source": "arbeitnow",
-    "title": "Contentcreator Social Media (m/w/d)",
-    "company": "Distorted People GmbH",
-    "location": "Munich",
+    "title": "Director of People Partnering, EMEA",
+    "company": "eucalyptus",
+    "location": "Unknown",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/distorted-people-gmbh/contentcreator-social-media-munich-398340",
-    "description": "distorted people ist unangepasst. Anders. Unerwartet. Ungewöhnlich. Irgendwie verdreht und verzerrt. Aus dem Herzen Münchens entwirft das kreative Kollektiv um distorted people seit mehr als 15 Jahren urbane Lifestylemode und schaffte es, den Namen in der Streetwear-Szene zu etablieren.\n Aufgaben\n Planung und Umsetzung von UGC-Inhalten für Social Media und Marketingzwecke\n Talent Management für potenzielle Protagonisten von UGC-Videos\n Editieren von verschiedenen Videoformaten für unsere Werbekanäle\n Qualifikation\n abgeschlossenes Studium / Ausbildung im Bereich Film oder Mediendesign\n einschlägige Berufserfahrung in Bereich Film- und Fotoproduktion\n zuverlässige, eigenständige und strukturierte Arbeitsweise\n sehr guter Umgang in Adobe Premiere oder DaVinci Resolve\n Benefits\n angenehmes Arbeitsumfeld in einem jungen, motivierten Team\n spannende Aufgaben in einem stark wachsenden Unternehmen\n flache hierarchische Strukturen die zum Mitgestalten anregen\n betriebliche Krankenzusatzversicherung\n bei Bedarf reduzierte Mitgliedschaft im EGYM Wellpass\n distorted people Klamotten (gemäß dem jährlichen Freibetrag)\n Team-Events &#x26; regelmäßiger Team-Lunch\n zentrales Büro mit Dachterrasse im Herzen Münchens\n Wir freuen uns auf deine aussagekräftige Bewerbung\n distorted people GmbH\n Lindwurmstrasse 122\n 80337 München\n Find more English Speaking Jobs in Germany on Arbeitnow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/eucalyptus/director-of-people-partnering-emea-197247",
+    "description": "<div class=\"content-intro\"><h3>About Eucalyptus</h3>\n<p>We're on a mission to make good health last a lifetime. More than 1 billion people live with obesity worldwide, driving preventable chronic conditions. We're here to build better long-term care.</p>\n<p>&nbsp;</p>\n<p>Eucalyptus is now part of Hims &amp; Hers, the global leader in personalised health and wellness.</p>\n<p>&nbsp;</p>\n<p>Euc is the company behind Juniper, one of the world's largest weight-management programs combining GLP-1 medication with personalised nutrition, movement support, and clinician-led care from prescribers, nurses, health coaches, pharmacists, and dietitians. Our published clinical research shows that our combined clinical and behavioural approach helps patients lose significantly more weight during their treatment with Juniper by four times.<br><br></p>\n<h3>Our Growth Story:</h3>\n<ul>\n<li>Supporting patients living with obesity across our 5 markets</li>\n<li>Received selective NICE endorsement to provide services to the NHS</li>\n<li>Tailored our offering to thousands of patients in Australia, the UK, Germany, Japan and Canada.</li>\n</ul></div><h3><strong>About the Role</strong></h3>\n<p>As Hims &amp; Hers grows internationally, the complexity of our business, organisation and leadership needs is growing with it. We’re looking for a Director of People Partnering, EMEA to help build the leadership and talent, and strengthen the organisation, for what comes next.</p>\n<p>In this role, you’ll work with senior leaders on the critical people and organisational decisions needed to drive the next phase of our international growth.</p>\n<p>You’ll start with the business problem, bring an independent point of view, and help leaders translate business strategy into the organisation, leadership and talent decisions required to support growth and performance. You’ll shape strategy with senior leaders while staying close enough to the business to turn decisions into action.</p>\n<h3><strong>What you'll…",
     "tags": [
-      "Social Media Manager",
-      "berufserfahren"
+      "People & Talent"
     ],
-    "jobType": "berufserfahren",
-    "postedAt": "2026-09-29T11:00:34.000Z",
-    "scrapedAt": "2026-09-29T12:02:45.122Z"
+    "postedAt": "2026-09-29T18:55:13.000Z",
+    "scrapedAt": "2026-09-29T19:45:29.838Z"
   },
   {
-    "id": "arbeitnow:mainframe-engineer-munich-56224",
-    "externalId": "mainframe-engineer-munich-56224",
+    "id": "arbeitnow:senior-customer-analyst-352990",
+    "externalId": "senior-customer-analyst-352990",
     "source": "arbeitnow",
-    "title": "Mainframe Engineer (w/m/d)",
-    "company": "CPU Consulting & Software GmbH",
-    "location": "Munich",
-    "remote": true,
-    "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/mainframe-engineer-munich-56224",
-    "description": "Deine Rolle:\n Die Bankenwelt läuft im Kern auf Mainframe-Systemen – und du sorgst dafür, dass diese stabil, performant und zukunftssicher bleiben. Als Mainframe Engineer (w/m/d) entwickelst und wartest du zentrale Anwendungen im Host-Umfeld. Mit deinem Know-how in JCL, DB2 oder REXX bringst du deine Projekte zum Erfolg und arbeitest eng mit Fachbereichen und IT-Teams zusammen.\n Über uns\n Die CPU Consulting &#x26; Software GmbH ist seit mehr als vier Jahrzehnten als erfolgreicher IT-Dienstleister im Bankenumfeld tätig.\nAls Tochterunternehmen der CPU Gruppe richten wir unsere Kompetenzen auf die erfolgreiche Umsetzung von Softwareprojekten unserer Kunden vor Ort aus.\nMit unserem starken Netzwerk begleiten wir Banken und IT-Dienstleister bei der digitalen Transformation.\n Aufgaben\n Du betreust und administrierst Test- und Systemumgebungen im Mainframe-/z/OS-Umfeld\n Du sorgst gemeinsam mit deinem Team für einen stabilen Betrieb und unterstützt bei der täglichen Batchverarbeitung\n Im 2nd- und 3rd-Level-Support analysierst du technische Störungen, gehst den Ursachen auf den Grund und entwickelst nachhaltige Lösungen\n Du optimierst und automatisierst wiederkehrende Installations- und Betriebsabläufe mittels Scripting\n Du arbeitest mit z/OS, JCL und DB2 sowie weiteren etablierten Mainframe-Technologien\n Bei technischen Fragestellungen und Störungen arbeitest du eng mit internen Teams sowie externen Partnern und Dienstleistern zusammen und koordinierst gemeinsam mit ihnen die Lösungsfindung\n Du bist dabei eine wichtige Schnittstelle zwischen Entwicklung, DevOps, Betrieb und weiteren beteiligten IT-Bereichen und sorgst für einen guten Informationsaustausch\n Du bringst deine Erfahrung und eigene Ideen ein, um technische Abläufe und Prozesse kontinuierlich zu verbessern\n Qualifikation\n Du verfügst über mehrjährige praktische Berufserfahrung im Mainframe-/Host-Umfeld\n Mit z/OS und JCL hast du bereits praktisch gearbeitet\n Du bringst Erfahrung mit DB2 und SQL mit\n Du hast Erfahr…",
-    "tags": [
-      "Remote",
-      "Software Development"
-    ],
-    "postedAt": "2026-09-29T11:00:33.000Z",
-    "scrapedAt": "2026-09-29T12:02:45.122Z"
-  },
-  {
-    "id": "arbeitnow:fachplaner-sachverstandiger-vorbeugender-brandschutz-berlin-463876",
-    "externalId": "fachplaner-sachverstandiger-vorbeugender-brandschutz-berlin-463876",
-    "source": "arbeitnow",
-    "title": "Fachplaner / Sachverständiger vorbeugender Brandschutz (m/w/d)",
-    "company": "HOCH- UND TIEFBAU-GENERALPLANUNG SCHRÖDER GMBH",
-    "location": "Berlin",
+    "title": "Senior Customer Analyst",
+    "company": "Dexory",
+    "location": "Unknown",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/hoch-und-tiefbau-generalplanung-schroder-gmbh/fachplaner-sachverstandiger-vorbeugender-brandschutz-berlin-463876",
-    "description": "Für unser mittelständiges, seit Jahrzehnten am Markt erfolgreich tätiges Architektur- und Ingenieurbüro in Berlin-Kaulsdorf suchen wir zur Verstärkung einen Fachplaner / Sachverständiger (m/w/d) vorbeugender Brandschutz\n Unsere Projekte sind vielfältig und unterscheiden sich sowohl in Größe als auch im Hinblick auf die spätere Nutzung. So planen wir Mehrfamilienhäuser für professionelle Bauherren ebenso wie Kindergärten, Pflegeheime, Bürogebäude oder Hochbauten und Industriebauvorhaben für öffentliche Bauherren. Neben innovativen Lösungen für Neubauten bieten wir ebenso sorgsam durchdachte Planungen für die Sanierung, Aufstockung oder den Dachgeschossausbau von Altbauten.\n Aufgaben\n Erstellung von vorbeugenden Brandschutzkonzepten und prüffähigen Brandschutznachweisen für Neu- und Bestandsbauten\n Fachliche Beratung von Bauherren, Architekten und Fachplanern in allen Fragen des Brandschutzes\n Konstruktive brandschutztechnische Baubegleitung von der Planung bis zur Umsetzung\n Abstimmung mit Behörden sowie Mitwirkung bei Abnahmen und Begehungen\n Erstellung von Sachverständigengutachten bei Brandschäden\n Prüfung und Bewertung von Ausführungsplänen im Hinblick auf brandschutztechnische Anforderungen\n Mitgestaltung und Weiterentwicklung interner Brandschutzstandards und -prozesse\n Qualifikation\n Abgeschlossenes Studium des Bauingenieurwesens, der Architektur oder des Brandschutzingenieurwesens\n Qualifizierter Abschluss als Fachplaner:in oder Sachverständige:r für vorbeugenden Brandschutz\n Erfahrung in der Planung und Zusammenarbeit mit Architekten, Prüfern und Fachplanern\n Mindestens 3 Jahre Berufserfahrung im Bereich Brandschutz\n Verhandlungssichere Deutschkenntnisse in Wort und Schrift\n Umfassende EDV-Kenntnisse\n Was Sie erwartet:\n Eigenständige Arbeit in kollegialem Umfeld bei anspruchsvollen Projekten\n Ein motiviertes Team, in dem die Arbeit Spaß macht\n Ein attraktiver, abwechslungsreicher Arbeitsplatz\n Ein gutes Betriebsklima\n Leistungsfähige Ausstattung nach dem ne…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/dexory/senior-customer-analyst-352990",
+    "description": "<p>At Dexory, we're developing advanced software powered by cutting-edge robots that are transforming the very face of global logistics. With infectious enthusiasm, our unique blend of disciplines work in harmony to produce results at pace. From hardware and manufacturing to software, AI and commercial, we're one team – one heart – that beats, learns and grows together.</p>\n<p>&nbsp;</p>\n<p><strong>Take your customer analysis out of the dashboard and onto the warehouse floor.</strong></p>\n<p>As an experienced <strong>Senior Customer Analyst </strong>you already know how to find the story in customer data: segments, drivers of churn, usage patterns, voice-of-customer signals. Here, you'll pair that with what you see first-hand in live warehouses, then use both to decide which product bets Dexory makes.</p>\n<p><strong>What you'll do</strong></p>\n<ul>\n<li><strong>Get to the \"why\" behind the numbers.</strong> Run contextual inquiry, operator and manager interviews, surveys, card sorts, and prototype and usability tests across every stage of deployment and every persona.</li>\n<li><strong>Check site behaviour against behaviour at scale.</strong> Combine what you observe on site with Pendo and DexoryView usage data, so no insight rests on one warehouse or one dashboard.</li>\n<li><strong>Validate or kill ideas quickly.</strong> Pressure-test concepts with A/B tests, prototype tests and interviews, and tell the team whether a bet solves a real problem.</li>\n<li><strong>Close the loop after go-live.</strong> Log structured operator and site-manager feedback, pass it to the PM, and keep it in the research repository.</li>\n<li><strong>Size the opportunity.</strong> Support market sizing and competitive mapping for specific themes.</li>\n<li><strong>Turn findings into decisions.</strong> Write clear, presentation-ready syntheses and share them through Notion and Slack, internally and externally.</li>\n<li><strong>Run the insight machinery.</strong> Maintain SurveyMonkey dashboard…",
     "tags": [
-      "Engineering"
+      "UI/UX"
     ],
-    "postedAt": "2026-09-29T11:00:33.000Z",
-    "scrapedAt": "2026-09-29T12:02:45.122Z"
-  },
-  {
-    "id": "arbeitnow:teamassistenz-in-der-personalberatung-jn701-02-oldenburg-447756",
-    "externalId": "teamassistenz-in-der-personalberatung-jn701-02-oldenburg-447756",
-    "source": "arbeitnow",
-    "title": "Teamassistenz in der Personalberatung (m/w/d) - JN701-02",
-    "company": "Projekt-Team Personalberatung",
-    "location": "Oldenburg",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/projekt-team-personalberatung/teamassistenz-in-der-personalberatung-jn701-02-oldenburg-447756",
-    "description": "Die Projekt-Team GmbH ist eine bundesweit tätige, inhabergeführte Personalberatung aus Oldenburg. Wir wurden 1998 gegründet und vermitteln mit fünf Mitarbeitern Positionen in unseren Schwerpunktbranchen Automotive, Pharma und Medizintechnik. Für unser Team am Oldenburger Pferdemarkt suchen wir im Bereich Pharma / Medizintechnik ab dem 1. Januar 2027 in Vollzeit oder Teilzeit eine\n Teamassistenz in der Personalberatung (m/w/d)\n Aufgaben\n Aktive Mitarbeit in den Suchprojekten durch Vakanz-bezogene Telefonien und eigene erfolgreiche Bewerbervermittlungen\n Mitarbeit im Research durch Suche, Identifikation und Ansprachen geeigneter Bewerber\n Eigene Durchführung von Telefoninterviews und Vorstellung geeigneter Vakanzen\n Bearbeitung neu eingehender Bewerbungen durch Anlage in der Bewerberdatenbank und Vorbereitung der anschließenden Telefoninterviews\n Versand von Bewerbungsunterlagen an Kunden (per Mail und über die Kunden-Portale, inkl. Aufbereitung der Anlagen)\n Regelmäßige Dokumentationen in der Bewerberdatenbank\n Laufende Kontaktpflege und Netzwerkarbeit im Markt der Pharmaindustrie (überwiegend mit Pharmareferenten, telefonisch, per Mail sowie über Karriereportale wie Xing &#x26; LinkedIn)\n Schriftliche Korrespondenz mit Bewerbern (Bestands- und Versandmitteilungen, Zwischenbescheide, Anforderung weiterer Unterlagen, Einladungen, Absagen etc.)\n Organisation von Vorstellungsgesprächen inkl. schriftlicher Korrespondenzen auf Deutsch und Englisch\n Anzeigenschaltungen, -aktualisierungen und -pflege in den Jobbörsen, in Social Media Portalen (Xing, LinkedIn, facebook und Instagram) sowie auf unserer Homepage\n Qualifikation\n Abgeschlossene Berufsausbildung im kaufmännischen, medizinisch-/pharmazeutischen oder naturwissenschaftlichen Bereich\n Berufseinsteiger oder mit Berufserfahrung im Recruiting / auch Quereinsteiger sind willkommen!\n Sehr gute Rechtschreib- und Grammatikkenntnisse, sehr gutes schriftliches und mündliches Ausdrucksvermögen\n Lust auf Personalberatung und N…",
-    "tags": [
-      "Recruitment and Selection",
-      "berufseinstieg"
-    ],
-    "jobType": "berufseinstieg",
-    "postedAt": "2026-09-29T11:00:33.000Z",
-    "scrapedAt": "2026-09-29T12:02:45.122Z"
+    "postedAt": "2026-09-29T18:55:10.000Z",
+    "scrapedAt": "2026-09-29T19:45:29.838Z"
   }
 ]
