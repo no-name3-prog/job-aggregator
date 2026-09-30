@@ -80,32 +80,6 @@
     ]
   },
   {
-    "company": "Salesforce",
-    "jobCount": 5,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "India - Hyderabad",
-      "Ireland - Dublin",
-      "Mexico - Mexico City"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Data Engineering Senior Associate",
-      "Sr. Data Engineer (Python & SQL exp. mandatory)",
-      "Senior Data Engineer",
-      "PMTS - Principal Agentic Data Engineer"
-    ],
-    "officialUrls": [
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Data-Engineer_JR353458",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Sr-Data-Engineer--Python---SQL-exp-mandatory-_JR358536",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
-    ]
-  },
-  {
     "company": "Autodesk",
     "jobCount": 4,
     "sources": [
@@ -150,6 +124,30 @@
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer---Financial-Transactions---Automation_JR2009512",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Gurugram/SAP-MM-PP-Master-Data-Engineer---Enterprise-Data-Management_JR2026497",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "jobCount": 4,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "India - Hyderabad",
+      "Ireland - Dublin",
+      "Mexico - Mexico City"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer",
+      "Data Engineering Senior Associate",
+      "Senior Data Engineer",
+      "PMTS - Principal Agentic Data Engineer"
+    ],
+    "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Data-Engineer_JR353458",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
     ]
   },
   {
@@ -384,102 +382,6 @@
     ]
   },
   {
-    "company": "Alma",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "France"
-    ],
-    "sampleTitles": [
-      "Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/154219-analytics-engineer-3"
-    ]
-  },
-  {
-    "company": "Anaplan",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer - AI"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-data-engineer-ai-london-488533"
-    ]
-  },
-  {
-    "company": "Collaboration Betters The World GmbH",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Munich"
-    ],
-    "sampleTitles": [
-      "Senior Consultant Cloud Data Engineering (m/w/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/senior-consultant-cloud-data-engineering-munich-465021"
-    ]
-  },
-  {
-    "company": "Defense Unicorns",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "USA"
-    ],
-    "sampleTitles": [
-      "FDE Data Engineer- Space (FedD141/FedD147)"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/154213-fde-data-engineer-space-fedd141-fedd147"
-    ]
-  },
-  {
-    "company": "Doctolib",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Paris, Paris"
-    ],
-    "sampleTitles": [
-      "Senior AI Data Engineer  (x/f/m)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-ai-data-engineer-paris-paris-394082"
-    ]
-  },
-  {
-    "company": "Getground",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/getground/data-engineer-london-107704"
-    ]
-  },
-  {
     "company": "Instacart",
     "jobCount": 1,
     "sources": [
@@ -496,22 +398,6 @@
     ]
   },
   {
-    "company": "Ledger",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Paris, France"
-    ],
-    "sampleTitles": [
-      "Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/ledger/analytics-engineer-paris-4050"
-    ]
-  },
-  {
     "company": "Linear",
     "jobCount": 1,
     "sources": [
@@ -525,22 +411,6 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
-    ]
-  },
-  {
-    "company": "PHMG Careers",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Manchester, England, United Kingdom"
-    ],
-    "sampleTitles": [
-      "Head of Data Engineering"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/head-of-data-engineering-manchester-131679"
     ]
   },
   {
@@ -576,6 +446,22 @@
     ]
   },
   {
+    "company": "Ruhrdot Gmbh",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Headoffice Onsite/Hybrid Essen"
+    ],
+    "sampleTitles": [
+      "Data Platform Engineer (f/m/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/ruhrdot-gmbh/data-platform-engineer-headoffice-onsite-hybrid-essen-199884"
+    ]
+  },
+  {
     "company": "Scale AI",
     "jobCount": 1,
     "sources": [
@@ -605,38 +491,6 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8112043"
-    ]
-  },
-  {
-    "company": "Xdesign",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Edinburgh"
-    ],
-    "sampleTitles": [
-      "Lead Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/xdesign/lead-data-engineer-edinburgh-414772"
-    ]
-  },
-  {
-    "company": "zetaglobal",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/zetaglobal/data-engineer-london-61023"
     ]
   }
 ]
