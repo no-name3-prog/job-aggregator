@@ -197,24 +197,6 @@
     ]
   },
   {
-    "company": "agileDSS",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "France, Île-de-France, France"
-    ],
-    "sampleTitles": [
-      "Data Engineer AWS - Recrutement international (Montréal)",
-      "Data Engineer Databricks (Azure) - Recrutement international (Montréal)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/agiledss/data-engineer-aws-recrutement-international-montreal-france-204641",
-      "https://www.arbeitnow.fr/jobs/companies/agiledss/data-engineer-databricks-azure-recrutement-international-montreal-france-284911"
-    ]
-  },
-  {
     "company": "Airbnb",
     "jobCount": 2,
     "sources": [
@@ -398,6 +380,38 @@
     ]
   },
   {
+    "company": "Lendable",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer (UK Cards)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/lendable/analytics-engineer-uk-cards-london-78872"
+    ]
+  },
+  {
+    "company": "Life360",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "Canada,  USA"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer II, AI Native"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/154261-senior-data-engineer-ii-ai-native"
+    ]
+  },
+  {
     "company": "Linear",
     "jobCount": 1,
     "sources": [
@@ -446,22 +460,6 @@
     ]
   },
   {
-    "company": "Ruhrdot Gmbh",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Headoffice Onsite/Hybrid Essen"
-    ],
-    "sampleTitles": [
-      "Data Platform Engineer (f/m/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/ruhrdot-gmbh/data-platform-engineer-headoffice-onsite-hybrid-essen-199884"
-    ]
-  },
-  {
     "company": "Scale AI",
     "jobCount": 1,
     "sources": [
@@ -491,6 +489,38 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8112043"
+    ]
+  },
+  {
+    "company": "Voodoo",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Paris"
+    ],
+    "sampleTitles": [
+      "Finance Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/voodoo/finance-data-engineer-paris-498896"
+    ]
+  },
+  {
+    "company": "wolt",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin"
+    ],
+    "sampleTitles": [
+      "Senior Analytics Engineer (Multiple Domains)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/wolt/senior-analytics-engineer-multiple-domains-berlin-310443"
     ]
   }
 ]
