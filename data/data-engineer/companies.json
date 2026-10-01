@@ -27,6 +27,35 @@
     ]
   },
   {
+    "company": "Salesforce",
+    "jobCount": 6,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Washington - Seattle",
+      "4 Locations",
+      "India - Hyderabad",
+      "Ireland - Dublin",
+      "Mexico - Mexico City"
+    ],
+    "sampleTitles": [
+      "Data Engineer",
+      "Senior Director, Data Engineering - Slack",
+      "Senior Data Engineer",
+      "Data Engineering Senior Associate",
+      "Senior Data Engineer",
+      "PMTS - Principal Agentic Data Engineer"
+    ],
+    "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Data-Engineer_JR358418",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Director--Data-Engineering---Slack_JR361288-1",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Data-Engineer_JR353458",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657"
+    ]
+  },
+  {
     "company": "Adobe",
     "jobCount": 5,
     "sources": [
@@ -34,23 +63,23 @@
     ],
     "locations": [
       "San Francisco",
-      "Bucharest",
-      "2 Locations",
       "San Jose",
+      "2 Locations",
+      "Bucharest",
       "3 Locations"
     ],
     "sampleTitles": [
       "Senior Data Engineer",
-      "Data Platform Engineer",
-      "Staff Security Data Engineer",
       "Lead Data Engineer",
+      "Staff Security Data Engineer",
+      "Data Platform Engineer",
       "Principal Scientist - Data Pipeline Engineer"
     ],
     "officialUrls": [
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Engineer_R170680-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Security-Data-Engineer_R171875-1",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Lead-Data-Engineer_R171212",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Security-Data-Engineer_R171875-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
     ]
   },
@@ -104,33 +133,6 @@
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
-    ]
-  },
-  {
-    "company": "Salesforce",
-    "jobCount": 5,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "4 Locations",
-      "India - Hyderabad",
-      "Ireland - Dublin",
-      "Mexico - Mexico City"
-    ],
-    "sampleTitles": [
-      "Senior Director, Data Engineering - Slack",
-      "Senior Data Engineer",
-      "Data Engineering Senior Associate",
-      "Senior Data Engineer",
-      "PMTS - Principal Agentic Data Engineer"
-    ],
-    "officialUrls": [
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Director--Data-Engineering---Slack_JR361288-1",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Data-Engineer_JR353458",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
     ]
   },
   {
@@ -203,21 +205,22 @@
     ]
   },
   {
-    "company": "Airbnb",
+    "company": "Aircall",
     "jobCount": 2,
     "sources": [
-      "greenhouse"
+      "arbeitnow"
     ],
     "locations": [
-      "United States"
+      "France Remote",
+      "Paris Office"
     ],
     "sampleTitles": [
-      "Senior Staff Data Engineer, Foundational Data",
-      "Senior Staff Data Engineer - Data Stewardship"
+      "Senior Data Engineer - Real time analytics",
+      "Senior Data Engineer - Real time analytics"
     ],
     "officialUrls": [
-      "https://careers.airbnb.com/positions/8224032?gh_jid=8224032",
-      "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
+      "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-12199",
+      "https://www.arbeitnow.fr/jobs/companies/aircall/senior-data-engineer-real-time-analytics-paris-office-268875"
     ]
   },
   {
@@ -370,19 +373,19 @@
     ]
   },
   {
-    "company": "Foundational",
+    "company": "Airbnb",
     "jobCount": 1,
     "sources": [
-      "arbeitnow"
+      "greenhouse"
     ],
     "locations": [
-      "London"
+      "United States"
     ],
     "sampleTitles": [
-      "Backend / Data Platform Engineer"
+      "Senior Staff Data Engineer, Foundational Data"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/foundational/backend-data-platform-engineer-london-80961"
+      "https://careers.airbnb.com/positions/8224032?gh_jid=8224032"
     ]
   },
   {
@@ -418,6 +421,22 @@
     ]
   },
   {
+    "company": "Multiverse",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/multiverse/analytics-engineer-london-96205"
+    ]
+  },
+  {
     "company": "Pinterest",
     "jobCount": 1,
     "sources": [
@@ -431,6 +450,22 @@
     ],
     "officialUrls": [
       "https://www.pinterestcareers.com/jobs/?gh_jid=8209014"
+    ]
+  },
+  {
+    "company": "Quantum-Systems GmbH",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Wessling, Bayern, Germany"
+    ],
+    "sampleTitles": [
+      "Cloud & Fleet Data Engineer (m/f/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/cloud-fleet-data-engineer-wessling-494642"
     ]
   },
   {
@@ -482,35 +517,19 @@
     ]
   },
   {
-    "company": "taod Consulting GmbH",
+    "company": "Unigy GmbH",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Cologne"
+      "Essen"
     ],
     "sampleTitles": [
-      "Data Engineer (m/w/d)"
+      "AWS Cloud Data Engineer (m/w/d)"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/taod-consulting-gmbh/data-engineer-cologne-48188"
-    ]
-  },
-  {
-    "company": "Voodoo",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Paris"
-    ],
-    "sampleTitles": [
-      "Finance Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/voodoo/finance-data-engineer-paris-498896"
+      "https://www.arbeitnow.com/jobs/companies/unigy-gmbh/aws-cloud-data-engineer-essen-199969"
     ]
   }
 ]

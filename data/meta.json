@@ -1,7 +1,7 @@
 {
-  "lastRunAt": "2026-10-01T12:21:21.583Z",
-  "durationMs": 51704,
-  "totalJobs": 3326,
+  "lastRunAt": "2026-10-01T20:05:44.637Z",
+  "durationMs": 60307,
+  "totalJobs": 3377,
   "sources": [
     {
       "source": "remotive",
@@ -15,9 +15,8 @@
     },
     {
       "source": "jobicy",
-      "fetched": 0,
-      "kept": 0,
-      "error": "fetch failed"
+      "fetched": 50,
+      "kept": 50
     },
     {
       "source": "remoteok",
@@ -26,8 +25,8 @@
     },
     {
       "source": "greenhouse",
-      "fetched": 1975,
-      "kept": 1975
+      "fetched": 1977,
+      "kept": 1977
     },
     {
       "source": "workday",
@@ -36,8 +35,8 @@
     },
     {
       "source": "lever",
-      "fetched": 80,
-      "kept": 80
+      "fetched": 79,
+      "kept": 79
     },
     {
       "source": "ashby",
