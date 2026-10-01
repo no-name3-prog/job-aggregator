@@ -1,43 +1,139 @@
 [
   {
-    "id": "arbeitnow:data-engineer-london-55989",
-    "externalId": "data-engineer-london-55989",
+    "id": "arbeitnow:data-engineer-berlin-berlin-288391",
+    "externalId": "data-engineer-berlin-berlin-288391",
     "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Quantum",
-    "location": "London",
+    "title": "Data Engineer (m/f/d)",
+    "company": "Superchat",
+    "location": "Berlin, Berlin",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/data-engineer-london-55989",
-    "description": "Our Company\n At Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.\n Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison service, delivering value and simplicity to millions.\n We drive growth through data-driven affiliate marketing built for performance from day one. Every campaign is measurable, optimised in real time, and designed to scale.\n With in-house tech, full-stack analytics, and a compliance-first mindset, we give our partners an edge. We drive confident decisions and growth in regulated and high-growth sectors. We’ve helped ambitious brands grow faster, smarter, and globally.\n The Role\n Our Data Engineering team is growing! We’re looking for a Data Engineer to join our team in London.\n In this role you will build and run the pipelines behind QiCore, our new data warehouse. You’ll bring acquired businesses like Rewards into one platform and make sure the data the business runs on is reliable, governed and built to last.\n Key Responsibilities\n Build, test and maintain batch and streaming pipelines into QiCore to agreed engineering standards\n Migrate Rewards data into our warehouse and single customer view, keeping reporting running throughout\n Model data for analytics and reporting, working to the architecture and governance principles the team sets\n Monitor pipeline health and data quality, fixing issues at the root rather than patching symptoms\n Support future acquisitions and platform migrations, turning each one into a faster, repeatable process\n About You\n Several years of hands-on data engineering, writing production SQL and Python\n Experience building ETL or ELT pipelines on a modern cloud warehouse or big data platform\n Working knowledge of data governance, testing and data quality practices\n Comfortable with orchestration and version control, and with reviewing and being reviewed\n High standards for quality, with…",
+    "url": "https://www.arbeitnow.com/jobs/companies/superchat/data-engineer-berlin-berlin-288391",
+    "description": "<p><strong>At Superchat, we're rebuilding how businesses talk to their customers. The phone call, the contact form, the support ticket: all of it is being replaced by messaging and AI. We're building the platform that runs underneath.</strong></p>\n<p>Founded in 2020, Superchat has become the platform of choice for <strong>10,000+ businesses worldwide</strong>, from globally recognized brands like Allianz, Auto1, Enpal, Danone, and GASAG to the small businesses, dental practices, and one-person startups that need to look bigger than they are. Today, <strong>millions of messages flow through Superchat every single day</strong>.</p>\n<p>We started as a unified inbox: one place for every channel a customer might pick, WhatsApp, email, SMS, Instagram. Then ChatGPT happened, and the second chapter began: AI agents that respond across chat, email, and voice at the quality of the best human teams.</p>\n<p>We're <strong>100 people</strong>, <strong>profitable</strong>, and have raised <strong>€18M in funding</strong> (last round 4.5 years ago, we've been growing on our own money since). Headquartered in Berlin.</p>\n<p>We're hiring our first Data Engineer to own Superchat's data platform end to end, from raw product and business data to the gold tables the whole company reports on. Our engineers have already built the foundations, including a warehouse, pipelines, dbt and reverse ETL. Now we need someone to make the platform trustworthy at scale, with testing, monitoring, clear modelling layers and customer history over time. You'll set the standards for how data is modelled and documented, and work with a Business Analyst to build the gold tables that Finance, Sales, Marketing and Product rely on.</p>\n<h4><span style=\"text-decoration: underline;\"><strong>Who We Want</strong></span></h4>\n<p><strong>An experienced Data Engineer.</strong> <br>You bring 3+ years of building and running data pipelines in production, ideally at a SaaS company. You've owned a data platform, or a lar…",
     "tags": [
-      "Technology",
+      "Engineering"
+    ],
+    "postedAt": "2026-10-01T02:55:14.000Z",
+    "scrapedAt": "2026-10-01T03:54:31.018Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-heidelberg-341797",
+    "externalId": "data-engineer-heidelberg-341797",
+    "source": "arbeitnow",
+    "title": "Data Engineer (m/w/d)",
+    "company": "Rewire",
+    "location": "Heidelberg, Baden-Württemberg, Germany",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/rewire/data-engineer-heidelberg-341797",
+    "description": "Make impact. Be human. Stay curious.\n Who we are Founded in 2006, Rewire is an applied AI company helping organizations reinvent how they work with data and AI. We partner with leading organizations across industries to create scalable business impact by solving complex challenges through data, AI, and technology. Our team of 100+ data scientists, engineers, and change agents operates across Europe from offices in the Netherlands and Germany. Strategic in intent and pragmatic in execution, we combine deep Data & AI expertise with close, committed collaboration.\n Collaboration, knowledge sharing, and continuous learning are at the heart of our culture. Through topic communities, expert colleagues, and our internal academy, GAIN, you'll have plenty of opportunities to develop your skills in areas such as Agentic AI, Data Strategy, AI Product Development, and Technology Platforms, while helping clients achieve measurable results.\n Join a team that loves learning, solving challenges together, and having fun along the way. Ready to join the ride?\n Where you’ll make a difference Build robust data & AI infrastructure – design and develop the pipelines, platforms, and systems that power our clients' data-driven ambitions\n Advise clients on technical best practices – translate business needs into sound engineering decisions, bridging the gap between strategy and implementation\n Develop scalable software solutions – write clean, maintainable code that turns complex requirements into reliable, production-ready systems\n Contribute to organizational change – implement data & AI innovations supported by GAIN®, our certified education and training portfolio\n Use technical expertise and communication skills – build scalable data & AI solutions that drive value across the organization\n Collaborate with cross-functional teams from both the client and Rewire – contribute from day one while learning from experienced leaders\n What makes us the right choice for you Be part of groundbrea…",
+    "tags": [
+      "Data Engineering",
+      "Entry",
+      "fulltime permanent"
+    ],
+    "jobType": "Entry",
+    "postedAt": "2026-10-01T02:30:21.000Z",
+    "scrapedAt": "2026-10-01T03:54:31.018Z"
+  },
+  {
+    "id": "arbeitnow:senior-analytics-engineer-people-analytics-berlin-380157",
+    "externalId": "senior-analytics-engineer-people-analytics-berlin-380157",
+    "source": "arbeitnow",
+    "title": "Senior Analytics Engineer – People Analytics (m/f/d)",
+    "company": "Flix",
+    "location": "Berlin, Germany",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-analytics-engineer-people-analytics-berlin-380157",
+    "description": "At Flix, we offer a dynamic work environment with competitive pay, strong growth opportunities, and a tech-driven approach to making travel more accessible, sustainable, and affordable.\n You will join a People Analytics environment where the foundations are already in place, but there is significant room to shape what comes next.\n You will have the opportunity to take real ownership of our People data layer, work on questions that matter to senior decision-makers, and help us move from traditional reporting toward a more automated and AI-enabled way of working with People data.\n About the Role\n We are looking for a Senior Analytics Engineer to own and evolve the data foundation behind People Analytics.\n You will turn complex People data into clean, trusted and well-modeled data products used across People, Finance and Management. Sitting at the intersection of data engineering and analytics, you will own the transformation layer from raw data to reliable models, metrics and insights.\n You will work hands-on with SQL, dbt, Snowflake and Python, while using AI to accelerate how we build, analyze and work with data. This is a role with significant ownership: you will shape how People data is modeled, tested and made accessible across the organization\n What you'll do\n Build and own scalable, tested data models and transformations using dbt and SQL, with Snowflake as our data platform.\n Design the data models and architecture behind our People Analytics products, creating a trusted foundation for reporting and decision-making.\n Build analytics products and dashboards directly in Snowflake, making reliable People data accessible across the organization.\n Turn ambiguous questions from People, Finance and Management into robust analyses and reusable data products.\n Use Python to integrate internal and external data sources, work with APIs and automate data workflows.\n Use AI tools such as Claude to accelerate data modeling, development and analysis, and help us explore new…",
+    "tags": [],
+    "postedAt": "2026-09-30T23:45:31.000Z",
+    "scrapedAt": "2026-10-01T03:54:31.018Z"
+  },
+  {
+    "id": "arbeitnow:senior-analytics-engineer-people-analytics-munich-52858",
+    "externalId": "senior-analytics-engineer-people-analytics-munich-52858",
+    "source": "arbeitnow",
+    "title": "Senior Analytics Engineer – People Analytics (m/f/d)",
+    "company": "Flix",
+    "location": "Munich, Bavaria, Germany",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-analytics-engineer-people-analytics-munich-52858",
+    "description": "At Flix, we offer a dynamic work environment with competitive pay, strong growth opportunities, and a tech-driven approach to making travel more accessible, sustainable, and affordable.\n You will join a People Analytics environment where the foundations are already in place, but there is significant room to shape what comes next.\n You will have the opportunity to take real ownership of our People data layer, work on questions that matter to senior decision-makers, and help us move from traditional reporting toward a more automated and AI-enabled way of working with People data.\n About the Role\n We are looking for a Senior Analytics Engineer to own and evolve the data foundation behind People Analytics.\n You will turn complex People data into clean, trusted and well-modeled data products used across People, Finance and Management. Sitting at the intersection of data engineering and analytics, you will own the transformation layer from raw data to reliable models, metrics and insights.\n You will work hands-on with SQL, dbt, Snowflake and Python, while using AI to accelerate how we build, analyze and work with data. This is a role with significant ownership: you will shape how People data is modeled, tested and made accessible across the organization\n What you'll do\n Build and own scalable, tested data models and transformations using dbt and SQL, with Snowflake as our data platform.\n Design the data models and architecture behind our People Analytics products, creating a trusted foundation for reporting and decision-making.\n Build analytics products and dashboards directly in Snowflake, making reliable People data accessible across the organization.\n Turn ambiguous questions from People, Finance and Management into robust analyses and reusable data products.\n Use Python to integrate internal and external data sources, work with APIs and automate data workflows.\n Use AI tools such as Claude to accelerate data modeling, development and analysis, and help us explore new…",
+    "tags": [],
+    "postedAt": "2026-09-30T23:45:31.000Z",
+    "scrapedAt": "2026-10-01T03:54:31.018Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-berlin-177908",
+    "externalId": "data-engineer-berlin-177908",
+    "source": "arbeitnow",
+    "title": "Data Engineer (f/m/d)",
+    "company": "Good Hood Gmbh",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/good-hood-gmbh/data-engineer-berlin-177908",
+    "description": "Your mission We're looking for a Data Engineer to join our Information and AI Platform and own our data pipelines end to end — from data modeling to experimentation to production.\n Own our pipelines end-to-end, from stakeholder metric definition through dbt modeling, QA, and A/B testing, to Dagster scheduling and production.\n Move us from people asking for reports to a system that answers — self-service for coworkers, reliable answers for AI agents, a self-describing warehouse.\n Keep our steering metrics real and trusted as governed metrics-as-code.\n Run the relevance and content pipelines that keep the platform a reflection of real life.\n Work closely with Product, engineering, and other stakeholders to translate their data needs into models that hold up in production.\n Keep our data governance in good shape in terms of quality, security, and compliance.\n Work with the team to improve personalized recommendations and other ML algorithms.\n Our stack: dbt, Snowflake, MotherDuck, Dagster, SQL, Python, AWS, GitHub Actions, Docker, VS Code\n Your profile Must-haves\n Experience in a data engineering role or similar, with a solid understanding of data warehousing and ETL concepts.\n Strong SQL skills and hands-on experience running dbt models in production.\n Experience with an orchestration tool — we use Dagster.\n You've built and run data or information infrastructure that other teams depend on.\n You're comfortable working directly with backend and infrastructure engineers as well as non-technical stakeholders, and can translate between the two.\n Experience with a cloud data warehouse, ideally Snowflake, and a cloud provider, ideally AWS.\n You're comfortable with version control, ideally Git.\n You have experience working with AI coding tools like Claude Code, and know how to use them to move faster without cutting corners.\n You're sound on GDPR and Article 9 in practice — you know how to design compliant data access for both people and agents.\n Nice-to-haves\n You've taken…",
+    "tags": [
+      "Data Modeling",
+      "Experimentation",
+      "Data Warehousing",
+      "AI Coding",
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-09-30T23:09:38.000Z",
+    "scrapedAt": "2026-10-01T03:54:31.018Z"
+  },
+  {
+    "id": "arbeitnow:freelance-data-engineer-security-321132",
+    "externalId": "freelance-data-engineer-security-321132",
+    "source": "arbeitnow",
+    "title": "Freelance Data Engineer (Security)",
+    "company": "Jack Morton Worldwide",
+    "location": "Unknown",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/jack-morton-worldwide/freelance-data-engineer-security-321132",
+    "description": "<div class=\"content-intro\"><h3 class=\"ms-outlook-mobile-reference-message skipProofing\"><strong>Experience Without Limits</strong><br><strong>Come shape the future of brand experience.</strong></h3>\n<p class=\"ms-outlook-mobile-reference-message skipProofing\"><strong>At Jack Morton, we design and build<span class=\"Apple-converted-space\">&nbsp;</span></strong>head-turning, smile-inducing, impact-driving brand experiences that redefine what experiential marketing can achieve. We help our clients<span class=\"Apple-converted-space\">&nbsp;</span><strong>unlock the full value of experiences</strong>&nbsp;by turning bold ideas into meaningful connections.</p>\n<p class=\"ms-outlook-mobile-reference-message skipProofing\"><strong>That takes a team that's bold, curious, and acts as one.</strong>&nbsp;We build on each other's ideas, challenge conventions, and show up for one another every day. Here, you'll do your best work, grow quickly, and partner across clients, disciplines, and global teams to bring new ideas to life.</p>\n<p class=\"ms-outlook-mobile-reference-message skipProofing\">This is a place where curiosity drives what’s next, boldness raises the bar, and every win is shared. Where ownership is expected, egos are left at the door, and the work reflects the passion and talent of the people behind it.</p>\n<p class=\"ms-outlook-mobile-reference-message skipProofing\">Experience without limits—in your work, your growth, and your impact.</p></div><p><strong>Freelance Data Engineer (Security)</strong></p>\n<p><em>Jack IQ Programme&nbsp; ·&nbsp; </em></p>\n<p><strong>Role details</strong></p>\n<p>Job title | Data Engineer (Security)</p>\n<p>Reports to | Product Lead / Technology Executive</p>\n<p>Contract type&nbsp; Freelance (to perm possible)</p>\n<p>Duration ASAP – April 27</p>\n<p>Location / working pattern&nbsp; - Remote</p>\n<p>Start date ASAP</p>\n<p><strong>Purpose of the role</strong></p>\n<p>Jack Morton is seeking a Data Engineer to help build out the data spine for an AI-enabl…",
+    "tags": [
+      "Freelance"
+    ],
+    "postedAt": "2026-09-30T21:56:01.000Z",
+    "scrapedAt": "2026-10-01T03:54:31.018Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-mi-platform-420475",
+    "externalId": "senior-data-engineer-mi-platform-420475",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer, Mi-Platform",
+    "company": "Point72",
+    "location": "Unknown",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/point72/senior-data-engineer-mi-platform-420475",
+    "description": "<p>Senior Data Engineer, Proprietary Research</p>\n<p>London</p>\n<p><strong>A Career with Point72's Market Intelligence team</strong></p>\n<p>On our proprietary research team—Market Intelligence— you will uncover insights about markets and the broader economy through deep compliant fundamental research and applying data science and engineering techniques to alternative data sets. In partnership with our investment professionals and Compliance team, our team of analysts, data scientists and engineers work together to produce compliant research and build tools that inform our firm’s investments. We look for other bright, motivated, and collaborative people to join our team and grow with us—a majority of the leaders in our group were promoted from within.</p>\n<p><strong>WHAT YOU'LL DO</strong></p>\n<ul>\n<li>Work closely with investment professionals, researchers, and data scientists to design, build, and launch robust end-to-end business solutions including data pipelines, products and tools.</li>\n</ul>\n<ul>\n<li>Design and develop big data processing pipelines including but not limited to ingestion, transformation, trends creation to deliver AI-ready data assets &amp; products.</li>\n<li>Develop reusable software components, libraries, and APIs that enable rapid experimentation and production deployment</li>\n<li>Implement data quality, lineage, and governance controls to ensure datasets are reliable, auditable, and compliant with compliance policies</li>\n<li>Build scalable AI-native cloud-based infrastructure using distributed systems techniques, to deliver efficient data-driven business solutions</li>\n<li>Optimize performance, cost, and reliability of software systems through benchmarking and iterative improvements</li>\n</ul>\n<p><strong>WHAT’S REQUIRED&nbsp;</strong>&nbsp;</p>\n<ul>\n<li>5+ years of experience in Data Engineering, Software Engineering or related field</li>\n<li>2+ years of strong experience in Python development</li>\n<li>Experience with system design and le…",
+    "tags": [
+      "MI - Proprietary Research"
+    ],
+    "postedAt": "2026-09-30T21:55:26.000Z",
+    "scrapedAt": "2026-10-01T03:54:31.018Z"
+  },
+  {
+    "id": "arbeitnow:data-platform-engineer-i-london-203571",
+    "externalId": "data-platform-engineer-i-london-203571",
+    "source": "arbeitnow",
+    "title": "Data Platform Engineer I",
+    "company": "Kraken",
+    "location": "London, UK",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/data-platform-engineer-i-london-203571",
+    "description": "Help us use technology to make a big green dent in the universe!\n Kraken powers some of the most innovative global developments in energy.\n We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable generation, building a more intelligent grid, and empowering utilities to deliver an exceptional customer experience, our operating system is transforming the industry worldwide.\n It’s an incredibly exciting time to work in energy. Join us on our mission to improve the lives of ONE BILLION humans within the decade and shape a cleaner, better future for everyone.\n At Kraken we’re looking to revolutionise the energy system to make power cheaper, greener and better for people around the world. Our tech platform is already licensed to support 60 million customer accounts in 17 countries, and we aim to serve 100 million globally by 2027.\n Our technology team has grown extremely quickly as a result. With this rapid growth, we are looking for Platform Engineers to join our team.\n The data platform team works across the whole customer domain, handling everything from natural language understanding of our customer communications to processing billions of smart meter readings every day to support clients in creating customised and market leading smart energy tariffs.\nAs the volume, scope, and geographical range of our data offerings rapidly expand, we're looking for an experienced Platform Engineer to join the team to help us build and maintain our platform, pipelines and data sources.\n We're passionate about building great technology to change the way customers use, and think about, energy for the good of the planet. This is a fantastic opportunity to work with us on data problems that genuinely move us closer to Net Zero, and support the energy transition.\n We employ software engineering best practices to design, test, and deploy our data platform and services.\n   What you'll have...\n First and foremost, we want our…",
+    "tags": [
+      "Tech Development",
       "Full Time"
     ],
     "jobType": "Full Time",
-    "postedAt": "2026-09-30T18:40:06.000Z",
-    "scrapedAt": "2026-09-30T21:50:06.239Z"
-  },
-  {
-    "id": "arbeitnow:working-student-analytics-engineering-berlin-zentrale-375249",
-    "externalId": "working-student-analytics-engineering-berlin-zentrale-375249",
-    "source": "arbeitnow",
-    "title": "Working Student Analytics Engineering (f/m/x)",
-    "company": "Thermondo",
-    "location": "Berlin (Zentrale)",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/thermondo/working-student-analytics-engineering-berlin-zentrale-375249",
-    "description": "We're looking for We are looking for you as a  Working Student Analytics Engineering (f/m/x) to join one of our various departments\nand help us at thermondo make an important contribution to climate neutrality. With your interest\nin renewable energy and your identification with our values — Our word counts, Better every day,\nand Stronger together — you can create real added value for all of us\n If you enjoy this Answering Data-related questions from business stakeholders across all departments Building new dashboards and improving existing dashboards in Looker Conducting ad hoc analyses and translating data requests into clear results Monitoring data quality and working closely with our Analytics Engineers Documenting KPIs and data sources, and contributing to our data dictionary Writing basic SQL queries for data exploration and analysis\n And recognise yourself here You are enrolled in a data-related or analytical degree programme, such as Data Science, Business Informatics, Statistics, Economics or a comparable field, with at least two semesters remaining. SQL basics: You understand basic syntax, filtering, JOINs and aggregations. BI experience: You have worked with a BI or reporting tool such as Looker, Tableau or Power BI and can explain what you built with it. Data understanding: You can prepare analysis results clearly and explain them to non-technical stakeholders. AI tools: You use tools such as Gemini or Claude in a practical way to support analysis, research or problem-solving. Independent work: You have initial practical experience with smaller data-related tasks and can structure your work with limited guidance. Languages: You speak German at least at B1 level and English at C1 level.\n What we have to offer A meaningful purpose — through your work, you make an important contribution to making homes climate-neutral  Professional development opportunities with experienced mentors Interaction with other working students in an open working environment A col…",
-    "tags": [
-      "Werkstudent",
-      "Student",
-      "Working Student",
-      "Student",
-      "Intern",
-      "Part time"
-    ],
-    "jobType": "Student",
-    "postedAt": "2026-09-30T17:09:12.000Z",
-    "scrapedAt": "2026-09-30T21:50:06.239Z"
+    "postedAt": "2026-09-30T21:40:13.000Z",
+    "scrapedAt": "2026-10-01T03:54:31.018Z"
   },
   {
     "id": "arbeitnow:finance-data-engineer-paris-498896",
@@ -55,41 +151,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-09-30T16:40:14.000Z",
-    "scrapedAt": "2026-09-30T21:50:06.239Z"
-  },
-  {
-    "id": "arbeitnow:senior-analytics-engineer-multiple-domains-berlin-310443",
-    "externalId": "senior-analytics-engineer-multiple-domains-berlin-310443",
-    "source": "arbeitnow",
-    "title": "Senior Analytics Engineer (Multiple Domains)",
-    "company": "wolt",
-    "location": "Berlin",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/wolt/senior-analytics-engineer-multiple-domains-berlin-310443",
-    "description": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2>\n<p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we’re building the delivery of (almost) everything and you’ll find us in over 500 cities in 30 countries around the world. In 2022 we joined forces with DoorDash and together we keep on dreaming big and expanding across the globe.<br><br>Working at Wolt isn’t always easy, but it’s definitely exciting. Here you’ll learn more, build more, and ship more than in most other companies. You’ll be challenged a lot, but also have a lot of fun on the way. So, if you’re a self-starter with drive and entrepreneurial spirit, this could be the ride of your life.</span></p></div><p>Analytics at Wolt is a business-critical area that covers three different teams: data science, regional business operations, and analytics engineering. The complexity of online delivery, differences in the economics and dynamics of the cities we operate in, and vast amounts of data make our work truly interesting!</p>\n<p>Now we are looking for three experienced <strong>Senior Analytics Engineers</strong> to join our Analytics Engineering teams. We have three domains available: <strong>Consumer, Merchant, or Ads</strong>. You can work in&nbsp;<strong>Berlin, Stockholm or Helsinki</strong>.</p>\n<h2><strong>About the role</strong></h2>\n<p>The role is focused on the business needs - you’ll be working within a cross-functional team, making sure your teammates get the insights needed for their operations. The role requires interpreting the needs and requests of our internal stakeholders from business and product, and transforming them into actionable data. Data Scientists working in the domain will be your closest partners in your day-to-day work, as your solutions will enable them to create relevant experiments, A/B tests, and analyses.</…",
-    "tags": [
-      "Analytics"
-    ],
-    "postedAt": "2026-09-30T14:55:40.000Z",
-    "scrapedAt": "2026-09-30T21:50:06.239Z"
-  },
-  {
-    "id": "arbeitnow:analytics-engineer-uk-cards-london-78872",
-    "externalId": "analytics-engineer-uk-cards-london-78872",
-    "source": "arbeitnow",
-    "title": "Analytics Engineer (UK Cards)",
-    "company": "Lendable",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/analytics-engineer-uk-cards-london-78872",
-    "description": "About Lendable Lendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start:\n One of the UK’s most exciting unicorns with a team of over 800 people\n Among the fastest-growing tech companies in the UK\n Profitable since 2017\n Backed by top investors including Balderton Capital and Goldman Sachs\n Loved by customers with the best reviews in the market (4.9 across 10,000s of reviews on Trustpilot )\n So far, we’ve rebuilt the Big Three consumer finance products from scratch: loans, credit cards and car finance . We get money into our customers’ hands in minutes instead of days.\n We’re growing fast, and there’s a lot more to do: we’re going after the two biggest Western markets (UK and US) where trillions worth of financial products are held by big banks with dated systems and painful processes.\n Join us if you want to Take ownership: you are trusted to make decisions that drive a material impact on the direction and success of Lendable from day 1\n Work in small teams of exceptional people: Lendies are relentlessly resourceful. We challenge the status quo to solve problems and find smarter solutions\n Build the best technology in-house : we use new data sources, machine learning and AI to make machines do the heavy lifting\n About the role We're looking for an analytics engineer to contribute to the analytical foundation of the UK Cards team, a growing area of the business.\n You’ll work closely with analysts, product teams, backend engineers, and business stakeholders to improve how data is structured, transformed, and consumed across the company.\n The role is fundamentally about building a strong analytical foundation: making it easier for teams to move from question to insight quickly, while maintaining high standards around data quality, scalability, and maintainability.\n You'll contribute to the modelling layer, help improve how the busine…",
-    "tags": [
-      "Engineering & Product",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-09-30T12:40:14.000Z",
-    "scrapedAt": "2026-09-30T21:50:06.239Z"
+    "scrapedAt": "2026-10-01T03:54:31.018Z"
   },
   {
     "id": "jobicy:154261",
@@ -108,70 +170,6 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-09-30T08:03:59.000Z",
-    "scrapedAt": "2026-09-30T21:50:06.393Z"
-  },
-  {
-    "id": "greenhouse:block-5434325008",
-    "externalId": "block:5434325008",
-    "source": "greenhouse",
-    "title": "Senior Analytics Engineer, AI & DX Analytics",
-    "company": "Block",
-    "location": "New York, NY, United States of America",
-    "remote": false,
-    "url": "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
-    "description": "Block builds simple, powerful tools that make progress towards an economy that’s truly open to all.\n Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Join us.\n The Role\n The AI & DX (Developer Experience) Analytics team exists to measure and improve Block's developer experience and investment in AI. We turn raw engineering signals (agent session data, pull request and CI activity, and AI spend) into reporting and analysis that shape leadership's AI investment decisions, and drive improvement in AI ROI and developer experience. Your work will be the trusted source of truth that engineers and executives use to decide where AI investment is working and where to redirect it.\n We're hiring a Senior Analytics Engineer to own parts of that pipeline end to end. This is a broad, high-visibility role with a lot of white space: you will instrument new telemetry at the source and build production pipelines that turn it into governed data, then turn that governed data into executive-facing reporting and the analysis that surfaces concrete opportunities to improve AI ROI and developer experience. You'll also help pioneer one of the most consequential open problems in the industry right now: measuring the productivity impact of an increasingly AI- and agent-augmented engineering workforce, where there is no textbook answer and real room to set the standard. You'll define new metrics and craft the visual narrative — the charts, dashboards, and presentation materials — that make them land with…",
-    "tags": [
-      "10410 Engineering - Developer Experience"
-    ],
-    "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-09-30T21:50:06.880Z"
-  },
-  {
-    "id": "greenhouse:figma-6178851004",
-    "externalId": "figma:6178851004",
-    "source": "greenhouse",
-    "title": "Data Engineer Intern (2027)",
-    "company": "Figma",
-    "location": "San Francisco, CA • New York, NY",
-    "remote": false,
-    "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
-    "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!\n We are looking for Data Engineering interns who are excited to help scale the systems and pipelines that power decision-making at Figma. As an intern on our data team, you will partner with engineers and analysts to design and build reliable datasets, ensure data quality, and make Figma's data more accessible across the company.\n This internship will be based out of our San Francisco or New York Hub.\n What you'll do at Figma:\n Build, test, and document data pipelines that bring product or business data into Figma’s data warehouse\n Help design foundational datasets that are trusted, well-documented, and easy to use\n Optimize pipelines for performance and scalability as Figma grows\n Partner with cross-functional teammates to understand data needs and deliver solutions\n Contribute to the tools and practices that make working with data at Figma easier\n With support from a manager and mentor, you’ll own a scoped project from problem definition through implementation, testing, documentation, and sharing the results.\n Some projects you could work on:\n Develop new ETL jobs to integrate product or business data into our warehouse\n Improve the performance and reliability of core pipelines\n Build reusable datasets that support experimentation, product and business analytics, or cross-functional stakeholders\n Document and simplify complex data workflows for broader use\n We'd love to hear from you if you have:\n Experience coding in Python or a similar language and writing SQL queries\n Experience building o…",
-    "tags": [
-      "Early Career"
-    ],
-    "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-09-30T21:50:06.880Z"
-  },
-  {
-    "id": "greenhouse:pinterest-8209014",
-    "externalId": "pinterest:8209014",
-    "source": "greenhouse",
-    "title": "Sr. Technical Program Manager, Data Engineering",
-    "company": "Pinterest",
-    "location": "San Francisco, CA, US; Remote, US",
-    "remote": true,
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209014",
-    "description": "About Pinterest:\n Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.\n Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here .\n The Team\n Pinterest's Data Engineering organization builds and operates the data platforms that power every Pinterest product — the batch and streaming pipelines that produce training data for our ML models, the storage and table formats that back our data lake, the workflow orchestration that runs it all, and the analytics platforms that fuel experimentation and decision-making. We're in the middle of a multi-year modernization effort: moving to streaming-first ingestion (CDC, Kafka, Flink), open table formats (Iceberg), a consolidated workflow platform, and retiring legacy footprints along the way. We work closely with ML, product, and analytics teams to make Pinterest's data platforms faster, more reliable, and more cost-efficient.\n What You'll Do:\n Lead a multi-quarter portfolio of data platform modernization programs — spanning ingestion (C…",
-    "tags": [
-      "Oversight Engineering"
-    ],
-    "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-09-30T21:50:06.880Z"
-  },
-  {
-    "id": "greenhouse:airbnb-8224032",
-    "externalId": "airbnb:8224032",
-    "source": "greenhouse",
-    "title": "Senior Staff Data Engineer, Foundational Data",
-    "company": "Airbnb",
-    "location": "United States",
-    "remote": false,
-    "url": "https://careers.airbnb.com/positions/8224032?gh_jid=8224032",
-    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n The Community You Will Join:\n At Airbnb, our mission is to create a world where anyone can belong anywhere. The Foundational Data team builds and operates the high-quality, widely reused datasets that power critical decisions across Airbnb: how visitors are measured from site traffic, how bot traffic is separated from organic traffic, and how cloud costs are attributed to Airbnb services. Our cost dashboards are among the most-used at Airbnb, relied on by technical leads, finance, and executives. Every dollar Airbnb spends running its infrastructure is attributed by models this team owns.\n We are now building a third pillar, and it puts this team at the forefront of how Airbnb measures AI: the cost, usage, and performance of the models we train and serve ourselves, and of the AI tools our own engineers use every day. When Airbnb asks whether an AI investment is paying off, the answer comes from datasets this team builds.\n Foundational Data sits inside Cloud Infrastructure and is a deliberate mix of Data Engineers and Analytics Engineers working as one team.\n The Difference You Will Make:\n As a Senior Staff Data Engineer, you are the technical leader for this team and the person who sets its direction. This is a hands-on role with no direct reports: you will own the long-term data architecture and you will build against it, from the Airflow-orchestrated pipelines that ingest telemetry, logs, and billing data through to the dimensional models and Minerva definitions that thousands of people at Airbnb reason with. Because we are a mixed DE and AE team, you will work across both disciplines: this role needs data…",
-    "tags": [
-      "Software Engineering"
-    ],
-    "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-09-30T21:50:06.880Z"
+    "scrapedAt": "2026-10-01T03:54:31.093Z"
   }
 ]

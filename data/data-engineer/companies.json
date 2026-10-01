@@ -81,6 +81,32 @@
     ]
   },
   {
+    "company": "Autodesk",
+    "jobCount": 5,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Toronto, ON, CAN",
+      "Kraków, POL",
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineering",
+      "Data Engineer with AI",
+      "Principal Data Engineer, User Success",
+      "Principal Data Engineer, User Success (Agentic Experiences)",
+      "Principal Data Engineer -General application"
+    ],
+    "officialUrls": [
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Data-Engineering_26WD101237",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
+    ]
+  },
+  {
     "company": "Salesforce",
     "jobCount": 5,
     "sources": [
@@ -105,30 +131,6 @@
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
-    ]
-  },
-  {
-    "company": "Autodesk",
-    "jobCount": 4,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Kraków, POL",
-      "Toronto, ON, CAN",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Data Engineer with AI",
-      "Principal Data Engineer, User Success",
-      "Principal Data Engineer, User Success (Agentic Experiences)",
-      "Principal Data Engineer -General application"
-    ],
-    "officialUrls": [
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
     ]
   },
   {
@@ -331,6 +333,25 @@
     ]
   },
   {
+    "company": "Flix",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin, Germany",
+      "Munich, Bavaria, Germany"
+    ],
+    "sampleTitles": [
+      "Senior Analytics Engineer – People Analytics (m/f/d)",
+      "Senior Analytics Engineer – People Analytics (m/f/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/flix/senior-analytics-engineer-people-analytics-berlin-380157",
+      "https://www.arbeitnow.com/jobs/companies/flix/senior-analytics-engineer-people-analytics-munich-52858"
+    ]
+  },
+  {
     "company": "Lyft",
     "jobCount": 2,
     "sources": [
@@ -368,6 +389,22 @@
     ]
   },
   {
+    "company": "Good Hood Gmbh",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin"
+    ],
+    "sampleTitles": [
+      "Data Engineer (f/m/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/good-hood-gmbh/data-engineer-berlin-177908"
+    ]
+  },
+  {
     "company": "Instacart",
     "jobCount": 1,
     "sources": [
@@ -384,19 +421,35 @@
     ]
   },
   {
-    "company": "Lendable",
+    "company": "Jack Morton Worldwide",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "London"
+      "Unknown"
     ],
     "sampleTitles": [
-      "Analytics Engineer (UK Cards)"
+      "Freelance Data Engineer (Security)"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/lendable/analytics-engineer-uk-cards-london-78872"
+      "https://www.arbeitnow.co.uk/jobs/companies/jack-morton-worldwide/freelance-data-engineer-security-321132"
+    ]
+  },
+  {
+    "company": "Kraken",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London, UK"
+    ],
+    "sampleTitles": [
+      "Data Platform Engineer I"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/kraken/data-platform-engineer-i-london-203571"
     ]
   },
   {
@@ -448,19 +501,35 @@
     ]
   },
   {
-    "company": "Quantum",
+    "company": "Point72",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "London"
+      "Unknown"
     ],
     "sampleTitles": [
-      "Data Engineer"
+      "Senior Data Engineer, Mi-Platform"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/quantum/data-engineer-london-55989"
+      "https://www.arbeitnow.co.uk/jobs/companies/point72/senior-data-engineer-mi-platform-420475"
+    ]
+  },
+  {
+    "company": "Rewire",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Heidelberg, Baden-Württemberg, Germany"
+    ],
+    "sampleTitles": [
+      "Data Engineer (m/w/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/rewire/data-engineer-heidelberg-341797"
     ]
   },
   {
@@ -512,19 +581,19 @@
     ]
   },
   {
-    "company": "Thermondo",
+    "company": "Superchat",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Berlin (Zentrale)"
+      "Berlin, Berlin"
     ],
     "sampleTitles": [
-      "Working Student Analytics Engineering (f/m/x)"
+      "Data Engineer (m/f/d)"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/thermondo/working-student-analytics-engineering-berlin-zentrale-375249"
+      "https://www.arbeitnow.com/jobs/companies/superchat/data-engineer-berlin-berlin-288391"
     ]
   },
   {
@@ -541,22 +610,6 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.fr/jobs/companies/voodoo/finance-data-engineer-paris-498896"
-    ]
-  },
-  {
-    "company": "wolt",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Berlin"
-    ],
-    "sampleTitles": [
-      "Senior Analytics Engineer (Multiple Domains)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/wolt/senior-analytics-engineer-multiple-domains-berlin-310443"
     ]
   }
 ]
