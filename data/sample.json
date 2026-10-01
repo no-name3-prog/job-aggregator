@@ -1,82 +1,95 @@
 [
   {
-    "id": "arbeitnow:production-engineer-zurich-58771",
-    "externalId": "production-engineer-zurich-58771",
+    "id": "arbeitnow:tech-talente-frontend-backend-fullstack-devops-munich-76765",
+    "externalId": "tech-talente-frontend-backend-fullstack-devops-munich-76765",
     "source": "arbeitnow",
-    "title": "Production Engineer",
-    "company": "Auterion",
-    "location": "Zurich",
+    "title": "Tech-Talente: Frontend, Backend, Fullstack & DevOps",
+    "company": "bits&birds GmbH",
+    "location": "Munich",
     "remote": false,
-    "url": "https://www.arbeitnow.ch/jobs/companies/auterion/production-engineer-zurich-58771",
-    "description": "<p>As a Production Engineer, you will play a key role within our Test Engineering team, programming test software and documenting test procedures to scale production of our next-generation drone platforms. In this position, you will take ownership of verification and production test equipment, from defining test concepts to designing automated test solutions, jigs and needle-bed adapters that help us improve yield and reliability. You’ll collaborate closely with our software and electronics engineers and OEM partners to enhance test coverage and reduce testing time, driving efficiency across our manufacturing process.</p>\n<p>This is a hands-on role in a fast-paced, agile environment, offering the opportunity to design creative, practical test solutions from concept through to mass production. This involves balancing the transition from our existing test setups to more scalable and complete solutions in a pragmatic and iterative way for a number of different projects.</p>\n<p>Beyond test engineering, you’ll apply your software expertise across the broader hardware and software team by supporting the engineering validation efforts of new products. You will also visit OEMs to support new product integrations and support small scale engineering runs in person.</p>\n<h3><strong>Responsibilities and Duties</strong></h3>\n<ul>\n<li>Research, design and build test solutions, including auto generated, 3D printed test equipment and CNC milled custom test jigs, and needle-bed adapters to enable low-volume prototyping and mid- to high-volume PCB production.</li>\n<li>Plan and execute product verification, covering test case definition, execution, analysis, and comprehensive documentation, also for repair guidance.</li>\n<li>Write Python code and STM32 firmware to test our embedded products from the inside (selftest) and outside (via test fixture).</li>\n<li>Collaborate with cross-functional engineering teams by offering technical guidance and hands-on support for testing and validati…",
+    "url": "https://www.arbeitnow.com/jobs/companies/bitsbirds-gmbh/tech-talente-frontend-backend-fullstack-devops-munich-76765",
+    "description": "Unser Kunde ist ein inhabergeführtes, profitables Unternehmen ohne Investoren im Rücken. Seit der Gründung 2011 ist die Gruppe kontinuierlich gewachsen: mit starken Marken, neuen Gesellschaften und zunehmender Internationalisierung. Heute arbeiten rund 40 Entwickler in sechs Teams daran, die digitale Welt dahinter weiterzuentwickeln.\nJetzt soll das Tech-Team weiter wachsen!\n Aufgaben\n Vier Wege, ein Ziel: richtig gute Tech-Produkte bauen\n 🖥️ Frontend\n Du liebst es, wenn aus Code ein richtig gutes digitales Erlebnis wird? Dann wartet auf dich ein moderner Stack aus Vue 3, Nuxt 3 und TypeScript , ergänzt durch Pinia, Vite, Vitest und Playwright.\n 🔧 Backend\n Du fühlst dich eher dort zu Hause, wo Daten, Services und Business-Logik zusammenkommen? Im Backend arbeitest du unter anderem mit PHP 8, Symfony, Doctrine, Go und TypeScript sowie RabbitMQ und Redis.\n 🚀 Fullstack\n Du willst nicht zwischen Frontend und Backend wählen? Als Fullstack Developer arbeitest du mit TypeScript, NestJS, Prisma, PostgreSQL, AWS Lambda, Vue 3 und Nuxt und kannst Features von der Idee bis zum fertigen Produkt begleiten.\n ☁️ DevOps\n Du denkst in Plattformen, Automatisierung und Skalierbarkeit? Dann bist du im DevOps-Team richtig. Hier dreht sich alles um Kubernetes auf AWS, Terraform, GitHub Actions, Datadog und Infrastructure as Code .\n Qualifikation\n Du musst nicht alles können, aber du solltest für deine Disziplin brennen . Gesucht werden echte Tech-Expert mit mindestens zwei Jahren relevanter Berufserfahrung. Außerdem solltest du Deutsch mindestens auf B2-Niveau sprechen.\n Noch wichtiger: Neugier und Lust auf neue Technologien. Unser Kunde arbeitet AI-first und gibt seinen Mitarbeitern Zugang zu aktuellen KI-Tools wie Claude, AWS Bedrock, Langfuse und dem Vercel AI SDK . KI ist hier kein Buzzword für die Jobanzeige, sondern Teil des täglichen Arbeitens.\n Und dann ist da noch die Haltung: miteinander statt gegeneinander, mutig statt abwartend, klar statt politisch und ambitioniert statt…",
     "tags": [
-      "Engineering"
+      "Software Development"
     ],
-    "postedAt": "2026-10-01T02:55:29.000Z",
-    "scrapedAt": "2026-10-01T03:53:40.150Z"
+    "postedAt": "2026-10-01T12:00:30.000Z",
+    "scrapedAt": "2026-10-01T12:20:30.369Z"
   },
   {
-    "id": "arbeitnow:electronics-engineering-intern-zurich-471494",
-    "externalId": "electronics-engineering-intern-zurich-471494",
+    "id": "arbeitnow:customer-service-kundenbetreuer-in-berlin-8787",
+    "externalId": "customer-service-kundenbetreuer-in-berlin-8787",
     "source": "arbeitnow",
-    "title": "Electronics Engineering Intern",
-    "company": "Auterion",
-    "location": "Zurich",
+    "title": "Customer Service - Kundenbetreuer/in - (m/w/d)",
+    "company": "ecowindow Gruppe",
+    "location": "Berlin",
     "remote": false,
-    "url": "https://www.arbeitnow.ch/jobs/companies/auterion/electronics-engineering-intern-zurich-471494",
-    "description": "<p>We are looking for an enthusiastic Electronics Engineering Intern to gain hands-on experience designing, building, testing, and debugging electronic hardware. Working alongside senior engineers, you’ll contribute across the development cycle—from schematic and PCB design through prototyping, testing, debugging, and documentation.</p>\n<p><strong>Responsibilities and Duties</strong></p>\n<ul>\n<li>Build, assemble, test, and debug prototype circuits and PCB assemblies.</li>\n<li>Assist with schematic capture and PCB design.</li>\n<li>Use lab equipment such as oscilloscopes, multimeters, power supplies, and signal generators for testing and troubleshooting.</li>\n<li>Support soldering, rework, and other hands-on laboratory activities.</li>\n<li>Develop and test firmware for microcontrollers and embedded systems.</li>\n<li>Analyse test results and document designs, tests, and project progress.</li>\n<li>Work with senior engineers to troubleshoot technical issues and improve hardware performance.</li>\n<li>Follow engineering and laboratory safety procedures.</li>\n</ul>\n<p><strong>Qualifications and Skills</strong></p>\n<ul>\n<li>Currently pursuing a Master’s degree in Electrical/Electronics Engineering or a related field.</li>\n<li>Understanding of analog and digital circuit design.</li>\n<li>Familiarity with PCB design tools such as Altium, KiCad, or Eagle.</li>\n<li>Hands-on experience with electronics lab equipment and basic soldering.</li>\n<li>Programming experience in C, C++, Python, or similar.</li>\n<li>Familiarity with STM32, ESP32, Arduino, or other microcontrollers.</li>\n<li>Knowledge of communication protocols such as I²C, SPI, UART, CAN, or USB is a plus.</li>\n<li>Strong problem-solving, communication, and teamwork skills.</li>\n<li>Hands-on experience through university, robotics, or personal electronics projects is highly valued.</li>\n<li>EU citizenship required.&nbsp;</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible working hours</li>\n<li>Generous holiday…",
+    "url": "https://www.arbeitnow.com/jobs/companies/ecowindow-gruppe/customer-service-kundenbetreuer-in-berlin-8787",
+    "description": "fenstermaxx24 verbindet hochwertige Fenster und Haustüren mit modernen digitalen Lösungen. Dabei legen wir besonderen Wert auf persönlichen Kundenservice, eine reibungslose Abwicklung und Nachhaltigkeit.\n Unser Ziel ist es, unseren Kunden den bestmöglichen Service zu bieten und gleichzeitig einen aktiven Beitrag zum Umweltschutz zu leisten, indem wir CO₂-Emissionen und Energieverbrauch reduzieren.\n Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen Mitarbeiter im Customer Service (m/w/d).\n Aufgaben\n Kundenbetreuung: Du bist die erste Ansprechperson für unsere Kunden per Telefon und E-Mail – von der Auftragsbestätigung bis zur fertigen Montage. Du beantwortest Rückfragen, klärst offene Punkte und sorgst dafür, dass sich unsere Kunden gut informiert und betreut fühlen.\n Auftragskoordination: Du prüfst eingehende Aufträge auf Vollständigkeit, stimmst dich mit Vertrieb und Außendienst ab und stellst sicher, dass Termine gehalten werden. Wenn irgendwo etwas hakt, findest du eine Lösung.\n Reklamationsmanagement: Wenn mal etwas nicht passt, übernimmst du: Du nimmst Reklamationen auf, klärst die Ursache mit den beteiligten Teams und sorgst dafür, dass der Kunde eine schnelle und faire Lösung bekommt. Du dokumentierst wiederkehrende Probleme und hilfst so, sie langfristig abzustellen.\n Prozesse verbessern: Du merkst schnell, wo es in Abläufen knirscht, und bringst eigene Ideen ein, wie wir besser werden können. Bei uns darfst du Dinge verändern – nicht nur abarbeiten.\n Qualifikation\n Du hast Erfahrung im Kundenservice, in der Auftragsabwicklung oder Projektkoordination – ob im Handwerk, Handel, Produktion oder einem ähnlichen Umfeld.\n Du bist organisiert, kommunikativ und lösungsorientiert - du magst es, Dinge zu strukturieren und Projekte ins Ziel zu bringen.\n Du telefonierst gerne, schreibst klare E-Mails und behältst auch bei mehreren parallelen Vorgängen den Überblick.\n Du bringst eine Hands on Mentalität mit und willst aktiv Prozesse mitgestal…",
     "tags": [
-      "Internships"
+      "Customer Service",
+      "berufserfahren"
     ],
-    "postedAt": "2026-10-01T02:55:29.000Z",
-    "scrapedAt": "2026-10-01T03:53:40.150Z"
+    "jobType": "berufserfahren",
+    "postedAt": "2026-10-01T12:00:30.000Z",
+    "scrapedAt": "2026-10-01T12:20:30.369Z"
   },
   {
-    "id": "arbeitnow:electronics-engineer-zurich-327962",
-    "externalId": "electronics-engineer-zurich-327962",
+    "id": "arbeitnow:werkstundentin-marketing-viernheim-214852",
+    "externalId": "werkstundentin-marketing-viernheim-214852",
     "source": "arbeitnow",
-    "title": "Electronics Engineer",
-    "company": "Auterion",
-    "location": "Zurich",
+    "title": "Werkstundent:in Marketing",
+    "company": "all4cloud Group",
+    "location": "Viernheim",
     "remote": false,
-    "url": "https://www.arbeitnow.ch/jobs/companies/auterion/electronics-engineer-zurich-327962",
-    "description": "<p>As an Electronics Engineer, you will be a member of our interdisciplinary hardware engineering team, contributing to the design and development of electronics for our next-generation drone platforms. You’ll work on electronic modules such as flight controllers, sensors, and vision systems, supporting PCB development from concept through production.</p>\n<p>As part of a cross-functional team, you will contribute to advanced systems such as interceptor and reconnaissance drones with integrated visual navigation, as well as quadcopters for defense applications.</p>\n<h2><strong>Responsibilities and Duties</strong></h2>\n<ul>\n<li>Design, prototype, and validate avionics PCBs, sensors, and electronic modules for drone platforms, contributing to designs from initial concepts through detailed design and manufacturing</li>\n<li>Support PCB and product verification activities, including test planning, execution, and documentation; contribute to electrical and mechanical validation such as EMI/EMC compliance testing, thermal cycling, and mechanical shock testing</li>\n<li>Create and maintain technical documentation, including design concepts, schematics and CAD drawings, bills of materials (BOMs), assembly instructions, and repair documentation</li>\n<li>Collaborate with test engineering, manufacturing, and production teams to support the transition of hardware designs from development to production</li>\n<li>Work with hardware and software engineers to define electronics requirements, system interfaces, and design solutions</li>\n<li>Support troubleshooting and design improvements based on test results, production feedback, and field performance</li>\n<li>Contribute to the development and improvement of engineering processes and best practices within the hardware team</li>\n</ul>\n<h2><strong>Qualifications and Skills</strong></h2>\n<ul>\n<li>Bachelor’s or Master’s degree in Electrical or Electronics Engineering</li>\n<li>2+ years of experience in PCB design and electronic product dev…",
+    "url": "https://www.arbeitnow.com/jobs/companies/all4cloud-group/werkstundentin-marketing-viernheim-214852",
+    "description": "Du willst im Marketing nicht nur Präsentationen bauen und Aufgaben abarbeiten, sondern wirklich mitgestalten?\n Bei uns wirst du Teil des Marketingteams und arbeitest an echten Kampagnen mit. Du bringst Ideen ein, übernimmst eigene Aufgaben und hilfst dabei, aus Strategien erfolgreiche Marketingmaßnahmen zu machen.\n Unsere Themen bewegen sich rund um SAP Cloud ERP und unsere eigenen Lösungen für mittelständische Unternehmen . Keine Sorge: SAP-Expert musst du nicht sein. Viel wichtiger ist, dass du neugierig bist, dich schnell in neue Themen einarbeitest und daraus Inhalte machst, die Menschen wirklich lesen wollen.\n Aufgaben\n Gemeinsam mit unserem Field Marketing Manager setzt du Marketingkampagnen operativ um und übernimmst dabei Verantwortung für eigene Aufgaben :\n Du entwickelst Texte für Mailings, Landingpages, Produktseiten, LinkedIn Ads, Social Media und weitere Kampagnenformate.\n Du schreibst nicht einfach nur Texte herunter, sondern überlegst: Was interessiert unsere Zielgruppe wirklich? Wie können wir einen Einstieg stärker, mutiger oder überraschender formulieren?\n Du hilfst dabei, Produkt- und Kampagnenseiten in WordPress aufzubauen, anzupassen und zu veröffentlichen.\n Du unterstützt bei der Umsetzung unserer Webinare und digitalen Events - von der Anmeldeseite über Texte bis zum technischen Setup in Microsoft Teams.\n Du arbeitest mit Tools wie Canva und KI-Anwendungen wie Claude und Copilot und entwickelst daraus Creatives, Inhalte und neue Ideen für unsere Kampagnen.\n Du unterstützt bei der Vorbereitung und Pflege von Sales- und Kampagnenlisten, prüfst Daten und sorgst dafür, dass unsere Kampagnen mit einer guten Datenbasis starten.\n Du hast mehrere Kampagnen und Aufgaben gleichzeitig im Blick, priorisierst gemeinsam mit uns und hältst deine Themen zuverlässig nach.\n Und vor allem: Du darfst mitdenken. Wenn du findest, dass eine Headline langweilig ist, ein Prozess besser funktionieren könnte oder eine Kampagne einen anderen Ansatz braucht, wollen wir d…",
     "tags": [
-      "Engineering"
+      "Marketing Assistant",
+      "Working student",
+      "hilfstätigkeit / student"
     ],
-    "postedAt": "2026-10-01T02:55:29.000Z",
-    "scrapedAt": "2026-10-01T03:53:40.150Z"
+    "jobType": "Working student",
+    "postedAt": "2026-10-01T12:00:30.000Z",
+    "scrapedAt": "2026-10-01T12:20:30.369Z"
   },
   {
-    "id": "arbeitnow:graduate-operations-supervisor-berlin-berlin-148717",
-    "externalId": "graduate-operations-supervisor-berlin-berlin-148717",
+    "id": "arbeitnow:heavy-industries-finance-advisor-london-499580",
+    "externalId": "heavy-industries-finance-advisor-london-499580",
     "source": "arbeitnow",
-    "title": "Graduate Operations Supervisor (m/w/d)",
-    "company": "Teampicnic",
-    "location": "Berlin, Berlin",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-berlin-berlin-148717",
-    "description": "<h2></h2>\n<h2><strong>Kurz und knapp</strong></h2>\n<p>Du hast dein Studium in der Tasche, sprühst vor Energie und willst nicht nur zuschauen, sondern echte Verantwortung übernehmen?<br><br>Bei Picnic startest du direkt in einer Führungsrolle durch! Als Graduate Operations Supervisor (m/w/d) in unserem teilautomatisierten Fulfillment Center (FC) in <strong>Falkensee</strong> bist du der Motor des Standorts. Unterstützt von Investoren wie der <em>Bill &amp; Melinda Gates Foundation</em> bauen wir gemeinsam das modernste, 100 % elektrische Liefersystem Europas.<br><br><strong>Sei von Anfang an dabei:</strong> Im August 2027 eröffnen wir unser neues teilautomatisiertes Fulfillment Center in Falkensee. Du kannst aber schon früher bei uns starten und dein Onboarding an einem unserer bestehenden Standorte absolvieren - zum Beispiel in unserem manuellen Fulfillment Center in Ludwigsfelde oder unserem vollautomatisierten Fulfillment Center in Oberhausen. So bekommst du einen umfassenden Einblick in unsere Operations und bist bestens vorbereitet, wenn wir in Falkensee an den Start gehen.</p>\n<p><iframe src=\"https://www.youtube.com/embed/erdeY5trkMA\" width=\"560\" height=\"314\"></iframe></p>\n<h2><strong>Das erwartet dich&nbsp;</strong></h2>\n<ul>\n<li><strong>Teamleitung: </strong>Du bist Coach und Vorbild – mit deinem echten, intrinsischen Interesse an Menschen führst und inspirierst du dein Team aus 5 Lead Shoppers und über 150 Shoppers.</li>\n<li><strong>Schichtleitung: </strong>Im FC behältst du stets den Überblick, priorisierst Aufgaben im Tagesgeschäft und sorgst dafür, dass jede Bestellung pünktlich rausgeht.</li>\n<li><strong>Abwechslung:</strong> Du erlebst den perfekten Mix aus Action direkt auf der Lagerfläche (4 Tage pro Woche) und strategischem Deep Dive im FC Office (1 Tag pro Woche).</li>\n<li><strong>Prozessoptimierung: </strong>Stillstand gibt es bei uns nicht. Du hast Ideen? Hier entwickelst du eigene Logistikprojekte und hebst unsere Abläufe durch deinen Tatendrang…",
+    "title": "Heavy Industries Finance Advisor",
+    "company": "Authority.inc",
+    "location": "London",
+    "remote": true,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/heavy-industries-finance-advisor-london-499580",
+    "description": "Authority is building an industry intelligence platform that combines expert insight with data to improve online news coverage and forecasts about business, financial and economic outcomes.\n We are looking for a Heavy Industries Finance Advisor who is currently active in the United Kingdom market and has up-to-date market intelligence. This is a flexible, paid consulting engagement of up to 2 hours per month.\n What you will do\n Provide concise written or recorded commentary on current developments, market shifts and likely business outcomes.\n Review articles, reports and forecast assumptions for accuracy, especially in capital expenditure and project finance, industrial cash flow, commodity and energy exposure, working capital, refinancing and manufacturing investment.\n Explain the practical implications for companies, investors and decision-makers.\n Contribute insight that may be featured in Authority content and major industry news outlets.\n When relevant, consider separate market advisory opportunities with organizations in our client base.\n Requirements\n At least 5 years of relevant professional experience.\n Currently operating in the United Kingdom market with up-to-date local market intelligence.\n Firsthand exposure to important financial, commercial or investment decisions in this field.\n Ability to explain complex issues clearly and concisely.\n A valid LinkedIn profile showing relevant experience.\n Engagement details\n Independent consulting contract.\n Remote within the United Kingdom.\n Up to 2 paid consulting hours per month.\n Flexible assignments, primarily short commentary and occasional calls.\n Additional advisory work may be offered separately based on fit and client demand.\n About Authority\n Authority develops industry intelligence, forecasts and expert-led content to help organizations make better strategic decisions.\n Find more English Speaking Jobs in United Kingdom on Arbeitnow",
     "tags": [
-      "Operations"
+      "Remote",
+      "Finance",
+      "Contract",
+      "professional / experienced"
     ],
-    "postedAt": "2026-10-01T02:55:17.000Z",
-    "scrapedAt": "2026-10-01T03:53:40.150Z"
+    "jobType": "Contract",
+    "postedAt": "2026-10-01T12:00:30.000Z",
+    "scrapedAt": "2026-10-01T12:20:30.369Z"
   },
   {
-    "id": "arbeitnow:graduate-operations-supervisor-potsdam-brandenburg-31072",
-    "externalId": "graduate-operations-supervisor-potsdam-brandenburg-31072",
+    "id": "arbeitnow:real-estate-finance-advisor-london-268",
+    "externalId": "real-estate-finance-advisor-london-268",
     "source": "arbeitnow",
-    "title": "Graduate Operations Supervisor (m/w/d)",
-    "company": "Teampicnic",
-    "location": "Potsdam, Brandenburg",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-potsdam-brandenburg-31072",
-    "description": "<h2></h2>\n<h2><strong>Kurz und knapp</strong></h2>\n<p>Du hast dein Studium in der Tasche, sprühst vor Energie und willst nicht nur zuschauen, sondern echte Verantwortung übernehmen?<br><br>Bei Picnic startest du direkt in einer Führungsrolle durch! Als Graduate Operations Supervisor (m/w/d) in unserem teilautomatisierten Fulfillment Center (FC) in <strong>Falkensee</strong> bist du der Motor des Standorts. Unterstützt von Investoren wie der <em>Bill &amp; Melinda Gates Foundation</em> bauen wir gemeinsam das modernste, 100 % elektrische Liefersystem Europas.<br><br><strong>Sei von Anfang an dabei:</strong> Im August 2027 eröffnen wir unser neues teilautomatisiertes Fulfillment Center in Falkensee. Du kannst aber schon früher bei uns starten und dein Onboarding an einem unserer bestehenden Standorte absolvieren - zum Beispiel in unserem manuellen Fulfillment Center in Ludwigsfelde oder unserem vollautomatisierten Fulfillment Center in Oberhausen. So bekommst du einen umfassenden Einblick in unsere Operations und bist bestens vorbereitet, wenn wir in Falkensee an den Start gehen.</p>\n<p><iframe src=\"https://www.youtube.com/embed/erdeY5trkMA\" width=\"560\" height=\"314\"></iframe></p>\n<h2><strong>Das erwartet dich&nbsp;</strong></h2>\n<ul>\n<li><strong>Teamleitung: </strong>Du bist Coach und Vorbild – mit deinem echten, intrinsischen Interesse an Menschen führst und inspirierst du dein Team aus 5 Lead Shoppers und über 150 Shoppers.</li>\n<li><strong>Schichtleitung: </strong>Im FC behältst du stets den Überblick, priorisierst Aufgaben im Tagesgeschäft und sorgst dafür, dass jede Bestellung pünktlich rausgeht.</li>\n<li><strong>Abwechslung:</strong> Du erlebst den perfekten Mix aus Action direkt auf der Lagerfläche (4 Tage pro Woche) und strategischem Deep Dive im FC Office (1 Tag pro Woche).</li>\n<li><strong>Prozessoptimierung: </strong>Stillstand gibt es bei uns nicht. Du hast Ideen? Hier entwickelst du eigene Logistikprojekte und hebst unsere Abläufe durch deinen Tatendrang…",
+    "title": "Real Estate Finance Advisor",
+    "company": "Authority.inc",
+    "location": "London",
+    "remote": true,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/real-estate-finance-advisor-london-268",
+    "description": "Authority is building an industry intelligence platform that combines expert insight with data to improve online news coverage and forecasts about business, financial and economic outcomes.\n We are looking for a Real Estate Finance Advisor who is currently active in the United Kingdom market and has up-to-date market intelligence. This is a flexible, paid consulting engagement of up to 2 hours per month.\n What you will do\n Provide concise written or recorded commentary on current developments, market shifts and likely business outcomes.\n Review articles, reports and forecast assumptions for accuracy, especially in real estate lending, underwriting, debt and equity structures, valuations, refinancing, development finance and capital markets.\n Explain the practical implications for companies, investors and decision-makers.\n Contribute insight that may be featured in Authority content and major industry news outlets.\n When relevant, consider separate market advisory opportunities with organizations in our client base.\n Requirements\n At least 5 years of relevant professional experience.\n Currently operating in the United Kingdom market with up-to-date local market intelligence.\n Firsthand exposure to important financial, commercial or investment decisions in this field.\n Ability to explain complex issues clearly and concisely.\n A valid LinkedIn profile showing relevant experience.\n Engagement details\n Independent consulting contract.\n Remote within the United Kingdom.\n Up to 2 paid consulting hours per month.\n Flexible assignments, primarily short commentary and occasional calls.\n Additional advisory work may be offered separately based on fit and client demand.\n About Authority\n Authority develops industry intelligence, forecasts and expert-led content to help organizations make better strategic decisions.\n Find more English Speaking Jobs in United Kingdom on Arbeitnow",
     "tags": [
-      "Operations"
+      "Remote",
+      "Finance",
+      "Contract",
+      "professional / experienced"
     ],
-    "postedAt": "2026-10-01T02:55:17.000Z",
-    "scrapedAt": "2026-10-01T03:53:40.150Z"
+    "jobType": "Contract",
+    "postedAt": "2026-10-01T12:00:30.000Z",
+    "scrapedAt": "2026-10-01T12:20:30.369Z"
   }
 ]
