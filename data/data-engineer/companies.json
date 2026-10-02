@@ -156,31 +156,6 @@
     ]
   },
   {
-    "company": "Workday",
-    "jobCount": 4,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Poland, Warsaw",
-      "USA, GA, Atlanta",
-      "2 Locations",
-      "Ireland, Dublin"
-    ],
-    "sampleTitles": [
-      "Data Engineer",
-      "Principal Software Development Engineer (Data Engineering)",
-      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
-      "Data Platform Engineer - Cybersecurity"
-    ],
-    "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Poland-Warsaw/Data-Engineer_JR-0110295-1",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Principal-Software-Development-Engineer--Data-Engineering-_JR-0109442",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
-    ]
-  },
-  {
     "company": "Affirm",
     "jobCount": 3,
     "sources": [
@@ -223,22 +198,25 @@
     ]
   },
   {
-    "company": "Aircall",
-    "jobCount": 2,
+    "company": "Workday",
+    "jobCount": 3,
     "sources": [
-      "arbeitnow"
+      "workday"
     ],
     "locations": [
-      "France Remote",
-      "Paris Office"
+      "Poland, Warsaw",
+      "2 Locations",
+      "Ireland, Dublin"
     ],
     "sampleTitles": [
-      "Senior Data Engineer - Real time analytics",
-      "Senior Data Engineer - Real time analytics"
+      "Data Engineer",
+      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
+      "Data Platform Engineer - Cybersecurity"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-12199",
-      "https://www.arbeitnow.fr/jobs/companies/aircall/senior-data-engineer-real-time-analytics-paris-office-268875"
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Poland-Warsaw/Data-Engineer_JR-0110295-1",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
     ]
   },
   {
@@ -285,7 +263,8 @@
       "greenhouse"
     ],
     "locations": [
-      "San Francisco Bay Area"
+      "San Francisco Bay Area",
+      "Remote (U.S.)"
     ],
     "sampleTitles": [
       "Staff Data Engineer - Data Infrastructure",
@@ -388,19 +367,19 @@
     ]
   },
   {
-    "company": "ANGEHEUERT GmbH Personalberatung",
+    "company": "Aircall",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Berlin"
+      "London Office"
     ],
     "sampleTitles": [
-      "Data Engineer (m/w/d)"
+      "Senior Data Engineer - Real time analytics"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh-personalberatung/data-engineer-berlin-148327"
+      "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-354897"
     ]
   },
   {
@@ -465,6 +444,22 @@
     ],
     "officialUrls": [
       "https://www.pinterestcareers.com/jobs/?gh_jid=8209014"
+    ]
+  },
+  {
+    "company": "Qonto",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Paris"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/qonto/analytics-engineer-paris-363229"
     ]
   },
   {
