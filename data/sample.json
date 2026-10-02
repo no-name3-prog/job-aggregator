@@ -1,88 +1,85 @@
 [
   {
-    "id": "greenhouse:gitlab-8859694002",
-    "externalId": "gitlab:8859694002",
-    "source": "greenhouse",
-    "title": "Associate Revenue Operations Manager, India",
-    "company": "GitLab",
-    "location": "Remote, India",
-    "remote": true,
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8859694002",
-    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.\n The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software.\n * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.\n Location and Working Hours\n This role is based in the APJ region and requires substantial daily overlap with APJ business hours. The Territory Operations team works asynchronously across regions, so comfort with written handoffs and documentation is more important than real-time availability outside your local hours.\n About the Role\n This is an early-career role designed for someone with foundational operations, analytics, or CRM experience who wants to build depth in sales systems and territory management. You will learn our territory carving and account routing processes from the ground up, with structured onboarding, a defined…",
-    "tags": [
-      "Field Operations"
-    ],
-    "postedAt": "2026-10-02T00:06:10.000Z",
-    "scrapedAt": "2026-10-02T00:29:15.775Z"
-  },
-  {
-    "id": "greenhouse:lyft-8861939002",
-    "externalId": "lyft:8861939002",
-    "source": "greenhouse",
-    "title": "Director, Product & Brand Communications",
-    "company": "Lyft",
-    "location": "San Francisco, CA",
-    "remote": false,
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8861939002?gh_jid=8861939002",
-    "description": "At Lyft, our purpose is to serve and connect. To do this, we start with our own community by fostering a respectful and diverse organization where every voice is heard, valued, and empowered to contribute to our shared success.\n We are seeking a strategic and visionary Director of Product and Brand Communications to play a pivotal leadership role in building a fresh take on an iconic brand. This highly visible and cross-functional position will drive the company’s product narrative, giving riders and drivers compelling reasons to choose Lyft.\n As a vocal cross-functional partner with significant influence, you'll collaborate across departments to shape our brand story and product narratives. This role demands a strategic thinker who can craft compelling narratives for multiple audiences including riders, drivers, regulators, and the broader business community.\n The successful candidate will be a resourceful self-starter who thrives in dynamic, fast-paced environments, demonstrating agility and adaptability as our company and industry evolve. You'll own the process for building and launching brand and product moments through multi-channel, earned media programs including narrative development, product demos, event planning, editorial extensions, and influencer engagement.\n This is an opportunity to join a fun and hungry team and have a profound impact on the company. The role reports to the Vice President of Communications.\n Responsibilities:\n Define compelling consumer and technology narratives that support the company’s broader narrative and vision, and build a strategic and creative communications plan that strengthens Lyft’s image and reputation with consumers.\n Provide strategic leadership for the Product and Brand Communications team, setting the vision, developing long-term plans, and fostering a high-performing team through mentorship, coaching, and professional development opportunities.\n Lead our content strategy, including AEO efforts\n Drive the organizat…",
-    "tags": [
-      "Executive"
-    ],
-    "postedAt": "2026-10-01T23:45:38.000Z",
-    "scrapedAt": "2026-10-02T00:29:15.775Z"
-  },
-  {
-    "id": "arbeitnow:senior-go-backend-developer-hamburg-460186",
-    "externalId": "senior-go-backend-developer-hamburg-460186",
+    "id": "arbeitnow:senior-snowflake-consultant-german-speaking-dusseldorf-159807",
+    "externalId": "senior-snowflake-consultant-german-speaking-dusseldorf-159807",
     "source": "arbeitnow",
-    "title": "Senior Go Backend Developer (f/m/d)",
-    "company": "adjoe",
-    "location": "Hamburg",
+    "title": "Senior Snowflake Consultant (m/w/d) - German speaking",
+    "company": "ON-POINT Connect GmbH",
+    "location": "Düsseldorf",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-go-backend-developer-hamburg-460186",
-    "description": "adjoe builds the technologies behind mobile apps growth and monetization. With our core product Playtime Arcade , we've become the global leader in rewarded advertising, an ad unit built on a simple premise: users earn real in-app rewards for engaging with new apps. The result is one of the most effective value exchanges in adtech, connecting advertisers and publishers with over 770 million users annually.\n Engineering the sub-millisecond decision engine that powers 200 million daily ad interactions\nThe Demand Core team builds the infrastructure that determines which of our thousands of active advertising campaigns are relevant to a user the moment they open our ad unit Playtime. At our scale, system latency is a business failure, downtime means advertisers stop spending, users stop earning rewards, and publisher revenue stalls. You will build and operate the services that power these decisions 200 million times every day .\n Go microservices load the active ad campaign catalog into memory, evaluating 40+ targeting constraints and 30+ real-time signals , geo, fraud status, budget caps to rank potential user performance in milliseconds . Beyond campaign distribution, the team owns the entire ad interaction chain: processing clicks, views, MMP postbacks from Adjust and AppsFlyer , and in-app events that trigger rewards. These events are broadcasted through a hybrid messaging architecture using SNS/SQS and Kafka , directly powering our advertiser dashboards, publisher reward payouts, and ad campaign scoring pipelines, all backed by DynamoDB .\n Your Mission & Who We Are Looking For:\n Production Golang Systems Expertise: You bring 5+ years of backend development experience, including at least 3 years writing Go in production distributed environments. You will build and maintain our +99% Go microservice architecture—interfacing with our TypeScript/React frontend—to reliably handle 2+ million daily publisher interactions and scale beyond hundreds of millions of monthly act…",
+    "url": "https://www.arbeitnow.com/jobs/companies/on-point-connect-gmbh/senior-snowflake-consultant-german-speaking-dusseldorf-159807",
+    "description": "Karrierechance als Senior Snowflake Consultant bei ON-POINT Connect!\n Du willst moderne Datenplattformen nicht nur technisch mitgestalten, sondern anspruchsvolle Snowflake-Projekte aktiv steuern, Teams fachlich führen und Kunden im Banking-Umfeld strategisch beraten?\n Du kennst Snowflake aus der Praxis, verstehst Data Platforms, Data Engineering und Analytics nicht nur technisch, sondern auch aus Projekt-, Governance- und Business-Perspektive? Du kannst Anforderungen strukturieren, Stakeholder koordinieren, Prioritäten setzen und dafür sorgen, dass Qualität, Timeline und Budget zusammenpassen?\n Aufgaben\n Deine neue Herausforderung\n Du berätst unsere Kunden bei der Konzeption und Umsetzung moderner Data-Plattform- und Analytics-Lösungen auf Basis von Snowflake\n Du analysierst Anforderungen und begleitest unsere Kunden bei der Implementierung neuer Anforderungen inkl. Dokumentation. Dabei fungierst Du beim Kunden als Schnittstelle zwischen IT und Fachbereich.\n Fachliche Führung von Projektteams, Streams oder Teilprojekten\n Steuerung der wirtschaftlichen Performance von Projekten, inklusive Ressourcenplanung, Budgetkontrolle und Profitabilität\n Unterstützung beim Projekt-Sourcing, bei Pitches und Angebotsprozessen\n Unterstützung beim strategischen Client Management und beim Ausbau unseres Snowflake- und Data-Consulting-Portfolios\n Qualifikation\n Du bringst mit\n Abgeschlossenes Studium der Wirtschaftswissenschaften, (Wirtschafts-)Informatik oder vergleichbares mit hoher IT-Affinität.\n Mindestens 5 Jahre Erfahrung in Data Engineering/Analytics Engineering/BI-Projekten, idealerweise im Banking/Financial Services.\n Erfahrung als Projekt Manager und/oder Team Manager\n Nachweisbare Praxiserfahrung in Snowflake: SQL, Datenmodellierung, Security &#x26; RBAC, Performance-Optimierung sowie Erfahrung mit Data Lakes in Snowflake\n Kenntnisse bankinterner Prozesse und Produkten von Vorteil\n SnowPro-Zertifizierung (Core, Data Engineer oder Specialty Gen AI) oder Kenntnisse in Snowfl…",
     "tags": [
-      "adjoe",
-      "Full Time"
+      "Consulting",
+      "Engineering"
     ],
-    "jobType": "Full Time",
-    "postedAt": "2026-10-01T23:40:11.000Z",
-    "scrapedAt": "2026-10-02T00:29:15.161Z"
+    "postedAt": "2026-10-02T09:00:30.000Z",
+    "scrapedAt": "2026-10-02T09:18:06.716Z"
   },
   {
-    "id": "arbeitnow:remote-regional-sales-manager-dach-8213",
-    "externalId": "remote-regional-sales-manager-dach-8213",
+    "id": "arbeitnow:growth-manager-cologne-383157",
+    "externalId": "growth-manager-cologne-383157",
     "source": "arbeitnow",
-    "title": "Regional Sales Manager, DACH (m/w/d)",
-    "company": "Everfield",
-    "location": "Germany - Remote",
+    "title": "Growth Manager (m/w/d)",
+    "company": "Coduct Solutions GmbH",
+    "location": "Cologne",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/everfield/remote-regional-sales-manager-dach-8213",
-    "description": "Regional Sales Manager, DACH (m/w/d)\n Regional Role · Remote, based in the DACH region · Reports to: Sales Director\n About Everfield\n Everfield acquires and builds vertical SaaS businesses across Europe. Our portfolio spans more than 40 companies serving niche markets where software is mission-critical. We take a long-term ownership approach: we buy, invest, and build. We don't flip. Seven companies are in DACH, and we expect continuous growth in portfolio size and performance across all regions.\n We are building a small, high-impact HQ revenue team responsible for lifting the commercial capability of our portfolio companies: setting standards, identifying risk, and accelerating performance. The role reports to Everfield's Sales Director, who owns consistency of the revenue system across all regions, and works day to day with the region's General Director and the CEOs of its Business Units.\n The Opportunity\n The Regional Sales Manager (RSM) is a cluster-level revenue operator responsible for improving sales execution and accelerating organic revenue growth across a group of portfolio companies. The role partners directly with CEOs and Business Unit leaders to strengthen pipeline discipline, improve forecast accuracy, and raise commercial maturity across the region.\n This is not purely an advisory role. Alongside the regional remit, the RSM is expected to take direct sales management responsibility inside Business Units where that is the fastest route to growth, giving smaller commercial teams access to experienced sales leadership they would not otherwise have. As the region scales, the ambition is that one person can hold the sales management role on behalf of several Business Units at once, applying a standard across all of them.\n Success is reflected in improved revenue predictability, stronger pipeline discipline, and sustained bookings growth across Business Units.\n How the Role Operates\n • Two levels, one standard. The regional remit is constant: diagnostics,…",
+    "url": "https://www.arbeitnow.com/jobs/companies/coduct-solutions-gmbh/growth-manager-cologne-383157",
+    "description": "Über Coduct\n Coduct Solutions GmbH ist ein schnell wachsendes IT-Beratungs- und Softwareentwicklungsunternehmen mit Full-Stack Angebot für moderne Cloud- und KI-Lösungen. Wir starten bei Bedarf mit Analysen &#x26; Audits, planen und entwickeln die Software und betreiben die Umgebungen. Wir haben feste Standorte in Deutschland (Nordrhein-Westfalen und Berlin). Gemeinsam mit unserer Gruppengesellschaft in Vietnam entwickeln wir maßgeschneiderte Kundenlösungen.\n Unser Portfolio umfasst insbesondere Cloud-Solution-Provider-(CSP)-Services (insbesondere Azure), Build-Operate-Transfer-(BOT)-Modelle, individuelle Softwareentwicklung sowie End-to-End-Transformationsprojekte von On-Premises- zu Cloud-Lösungen.\n Wir verfolgen einen konsequenten Cloud-First- und KI-getriebenen Ansatz und verbinden Business-Analyse, Projektmanagement und Managed Services , um skalierbare und zukunftssichere Lösungen für unsere Kunden bereitzustellen.\n Um unsere nächste Wachstumsphase zu beschleunigen, suchen wir eine*n Growth Manager (m/w/d). In dieser Rolle übersetzt du unsere Fähigkeiten in ein klares, skalierbares Marktangebot und baust gemeinsam mit uns nachhaltiges Umsatzwachstum auf.\n Aufgaben\n Deine Rolle\n Du arbeitest direkt an der Weiterentwicklung unseres Unternehmenswachstums – von der Strukturierung des Produkt- und Serviceportfolios über Go-to-Market-Aktivitäten bis hin zur Verbesserung unserer Vertriebs- und Wachstumsprozesse.\n Dein Ziel: Du hilfst dabei, aus Coduct ein klar positioniertes, skalierbares Angebot zu machen und dafür zu sorgen, dass dieses Angebot zunehmend einfacher, reproduzierbarer und erfolgreicher verkauft werden kann.\n Die Rolle ist bewusst als Entwicklungsschritt angelegt: Du übernimmst von Anfang an Verantwortung für eigene Themen und wächst mit zunehmender Erfahrung in strategische und bereichsübergreifende Verantwortung hinein.\n Deine Verantwortungsbereiche\n Wachstum &#x26; Umsatzsteuerung\n Du bist Teil des Teams, das für das ganzheitliche Unternehmenswachs…",
     "tags": [
-      "Everfield HQ",
-      "Full Time"
+      "Business Development",
+      "teamleitung"
     ],
-    "jobType": "Full Time",
-    "postedAt": "2026-10-01T23:40:11.000Z",
-    "scrapedAt": "2026-10-02T00:29:15.161Z"
+    "jobType": "teamleitung",
+    "postedAt": "2026-10-02T09:00:28.000Z",
+    "scrapedAt": "2026-10-02T09:18:06.716Z"
   },
   {
-    "id": "arbeitnow:remote-senior-product-marketing-manager-emea-184249",
-    "externalId": "remote-senior-product-marketing-manager-emea-184249",
+    "id": "arbeitnow:techniker-ingenieur-versorgungstechnik-gebaude-energiemanagement-tga-oder-heizungstechnik-dusseldorf-446043",
+    "externalId": "techniker-ingenieur-versorgungstechnik-gebaude-energiemanagement-tga-oder-heizungstechnik-dusseldorf-446043",
     "source": "arbeitnow",
-    "title": "Senior Product Marketing Manager - EMEA",
-    "company": "Camunda",
-    "location": "Remote",
-    "remote": true,
-    "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-product-marketing-manager-emea-184249",
-    "description": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. Trusted by over 700 organizations worldwide , including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.\n Fully remote and global, we are in the middle of something bigger: transforming into an AI-first organisation, built on our own platform . We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.\nNamed GP Bullhound’s Top 100 Next Unicorn list, 2025 Great Place to Work certified. Visionary in 2025 Gartner® Magic Quadrant™ for Business Orchestration and Automation Technologies. ranked 3rd in Flexa's 2026 Most Flexible Companies , We’re growing fast and looking for top talent to join our team. If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading.\n About the Role:\n Hi there! We're hiring a Senior Product Marketing Manager to join our Product Marketing team.\n We're a group that cares about getting the story right, not just getting it out the door. We work closely with product, sales, and demand gen, and we hold ourselves to a high bar because our work directly shapes how the market understands what we build.\n This role gives you real ownership. You'll shape positioning and messaging for a meaningful piece of our product portfolio, build the competitive intelligence that keeps our field teams sharp, and work directly with sales leaders who depend on your materials to close deals. It's a role with visible impact, not one where your work disappears into a shared drive.\n As a Senior Product Marketing Manager, you'll drive go-to-m…",
+    "title": "Techniker / Ingenieur Versorgungstechnik, Gebäude- Energiemanagement, TGA oder Heizungstechnik (m/w/d)",
+    "company": "termios",
+    "location": "Düsseldorf",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/termios/techniker-ingenieur-versorgungstechnik-gebaude-energiemanagement-tga-oder-heizungstechnik-dusseldorf-446043",
+    "description": "Wer wir sind\n termios macht Heizen in Wohn- und Gewerbeimmobilien smarter und klimafreundlicher. Unser Thermostat spart spürbar Energie und hilft Asset Managern, Wohnungsunternehmen und Eigentümern, ihre ESG- und Net-Zero-Ziele zu erreichen.\n Wir sind ein Startup - 2023 als Joint-Venture von mantro (Company Builder), dem sauerländischen Familienunternehmen Oventrop und der Düsseldorfer LEG Immobilien SE gegründet. Als Technologieunternehmen entwickeln wir grüne Lösungen rund um Heizen, Nachhaltigkeit und ESG für Wohnimmobilien.\n Unser Produkt — termios Pro — ist ein cloud-vernetztes Smart-Thermostat, das Wohnungsbaugesellschaften hilft, verifizierbaren CO₂- und Energieverbrauch in ihrem Bestand zu senken.\n Warum wir diese Stelle besetzen\n Unser Algorithmik-Team hat Daten aus zigtausend verbauten Thermostaten und kann aus Theorie und Daten Verfahren entwickeln, auswerten und ausrollen. Hier arbeitest du mit – mit deinem Hintergrund entwickelst du Verfahren mit und beurteilst, ob eine Idee der Begegnung mit realer Gebäudehydraulik, verschiedenen Wärmeerzeugern (Fernwärme-Übergabestation, WP etc.) und den unterschiedlichen Regelungssystemen im Feld standhält.\n Aufgaben\n Hydraulik und Anlagentypen bewerten: Egal ob Einrohr- und Zweirohrsysteme, Fernwärme (inkl. Rücklauftemperaturbegrenzung und Netzanforderungen), Anlagen mit Strangregulier- und Differenzdruckregelventile sowie Voreinstellungen und kv-Werte - Du kennst Dich mit der Hydraulik unterschiedlicher Anlagentypen aus und kannst beurteilen, welche Anforderungen sich daraus für unsere Verfahren ergeben.\n Machbarkeit beurteilen: Du bewertest algorithmische und methodische Ideen daraufhin, ob sie anlagentechnisch tragfähig sind — und sagst früh, wenn eine Annahme an der Realität vorbeigeht.\n Feldtests konzipieren und durchführen: Du baust Testszenarien in realen Gebäuden auf, steuerst sie, misst und bewertest die Ergebnisse.\n Messdaten lesen und auswerten: Wir erfassen zwar viele Messwerte, manches ist aber nicht d…",
     "tags": [
-      "Marketing",
-      "Full Time"
+      "Power Engineering and Environmental Engineering"
     ],
-    "jobType": "Full Time",
-    "postedAt": "2026-10-01T23:40:09.000Z",
-    "scrapedAt": "2026-10-02T00:29:15.161Z"
+    "postedAt": "2026-10-02T09:00:28.000Z",
+    "scrapedAt": "2026-10-02T09:18:06.716Z"
+  },
+  {
+    "id": "arbeitnow:obermonteur-bauleiter-im-anlagen-rohrleitungsbau-bad-oeynhausen-239496",
+    "externalId": "obermonteur-bauleiter-im-anlagen-rohrleitungsbau-bad-oeynhausen-239496",
+    "source": "arbeitnow",
+    "title": "Obermonteur / Bauleiter (m/w/d) im Anlagen- & Rohrleitungsbau",
+    "company": "Kögel Bau GmbH & Co. KG",
+    "location": "Bad Oeynhausen",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/kogel-bau-gmbh-co-kg/obermonteur-bauleiter-im-anlagen-rohrleitungsbau-bad-oeynhausen-239496",
+    "description": "Wir sind KB Anlagenbau, seit 2020 Teil der KÖGEL Unternehmensgruppe und betreuen anspruchsvolle Kundenprojekte im Anlagen- und Rohrleitungsbau. Unser Team wächst und sucht weitere Experten und Lösungsfinder:\n Aufgaben\n DEINE MISSION: QUALITÄT ABLIEFERN\n Teamführung: Du hast auf der Baustelle den Hut auf, koordinierst Abläufe und setzt die Vorgaben des Projektleiters um – natürlich immer mit Fokus auf Qualität, Termin und Sicherheit.\n Kommunikation: Als Bindeglied zwischen Projektleitung, Auftraggeber und Nachunternehmern sorgst Du dafür, dass alle wissen, was zu tun ist und mit Dir an einem Strang ziehen.\n Berichtswesen: Du dokumentierst den Baufortschritt und sorgst so für eine transparente, nachvollziehbare Baustellendokumentation.\n Logistik: Du planst vorausschauend und stellst sicher, dass Material, Geräte und Personal genau zur richtigen Zeit am richtigen Ort sind.\n Qualifikation\n DEIN PROFIL: TECHNISCHE EXPERTISE TRIFFT MACHER-MENTALITÄT\n Qualifikation: Du hast eine abgeschlossene Ausbildung in der Tasche z. B. als Anlagenmechaniker, Rohrleitungsbauer, Industriemechaniker, Schlosser oder Metallbauer – idealerweise mit Meister oder Technikerqualifikation.\n Berufserfahrung: Du bist im Anlagen- oder Rohrleitungsbau zuhause und bringst genug Erfahrung mit, um ein Baustellenteam erfolgreich zu führen.\n Technisches Verständnis: Du liest technische Zeichnungen und Isometrien sicher und bringst Kenntnisse in gängigen Schweißverfahren sowie in den Montageabläufen von Rohrsystemen mit.\n Arbeitsweise : Du gehst Aufgaben proaktiv und lösungsorientiert an und überzeugst mit vorausschauendem Denken.\n Kommunikationsstil: Du kommunizierst offen, transparent und auf Augenhöhe – klar, wertschätzend und verbindlich.\n Benefits\n DEINE VORTEILE: WARUM DU UNS LIEBEN WIRST!\n Wir bieten Dir mehr als nur einen Job:\n Echter Einfluss: Verantwortung und Projekte, die Deinen Stempel tragen.\n Gesundheitsboost: Jährliches Gesundheitsbudget, Zahnzusatzversicherung, Vorsorgeuntersuchungen und…",
+    "tags": [
+      "Engineering"
+    ],
+    "postedAt": "2026-10-02T09:00:26.000Z",
+    "scrapedAt": "2026-10-02T09:18:06.716Z"
+  },
+  {
+    "id": "arbeitnow:practice-lead-media-data-consulting-solutions-osterreich-schweiz-zurich-35367",
+    "externalId": "practice-lead-media-data-consulting-solutions-osterreich-schweiz-zurich-35367",
+    "source": "arbeitnow",
+    "title": "Practice Lead Media Data Consulting & Solutions (m/w/d) Österreich & Schweiz",
+    "company": "wppmedia",
+    "location": "Zurich",
+    "remote": false,
+    "url": "https://www.arbeitnow.ch/jobs/companies/wppmedia/practice-lead-media-data-consulting-solutions-osterreich-schweiz-zurich-35367",
+    "description": "<div class=\"content-intro\"><p><strong>About WPP Media</strong></p>\n<p>WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigate change, capture opportunity, and deliver transformational growth. </p>\n<p>WPP Media is WPP's AI-driven media operating unit, bringing together media, data, and partnerships to deliver creative personalisation at scale. Connected through WPP Open and powered by Open Intelligence, clients see exactly where, how, and why their media investment is working.</p>\n<p>For more information, visit <a href=\"wppmedia.com\">wppmedia.com</a>.</p></div><p>Der Bereich <span data-teams=\"true\">Data, Tech &amp; Analytics</span> ist dabei ein strategischer Wachstumstreiber für uns und für die Zukunft unserer Kunden. Wir entwickeln für die Agenturen der WPP Media und deren Kunden intelligente, KI-gestützte und skalierbare Lösungen, die Marketing effektiver, messbarer und kundenzentrierter machen – verbunden durch unsere Plattform WPP Open.</p>\n<p>&nbsp;</p>\n<h2><strong>Das bieten wir dir:</strong></h2>\n<ul>\n<li><strong>Work-life-balance:</strong> Für uns steht Teamarbeit und der persönliche Austausch im Büro im Vordergrund. Wir ermöglichen dir aber auch einen regelmäßigen Homeoffice-Tag für mehr Flexibilität.&nbsp;</li>\n<li><strong>We care for you:</strong> Wir übernehmen deine Kosten für die öffentlichen Verkehrsmittel und du bekommst für jeden Arbeitstag einen 8€ Essensgutschein zur freien Verfügung.</li>\n<li><strong>Wellbeing first</strong>: Gesundheitsleistungen, attraktive Altersvorsorge sowie Mental Health Awareness Days stellen deine Gesundheit in den Mittelpunkt.</li>\n<li><strong>Practice makes perfect</strong>: Entfalte dich mit unseren vielfältigen Weiterbildungen und nutze unsere internen Karriereprogramme für deine Entwicklung im WPP-Netzwerk.</li>\n<li><strong>More…",
+    "tags": [
+      "Technology & Data"
+    ],
+    "postedAt": "2026-10-02T08:55:15.000Z",
+    "scrapedAt": "2026-10-02T09:18:06.716Z"
   }
 ]
