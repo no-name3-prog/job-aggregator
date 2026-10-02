@@ -56,34 +56,6 @@
     ]
   },
   {
-    "company": "Adobe",
-    "jobCount": 5,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "San Francisco",
-      "San Jose",
-      "2 Locations",
-      "Bucharest",
-      "3 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Lead Data Engineer",
-      "Staff Security Data Engineer",
-      "Data Platform Engineer",
-      "Principal Scientist - Data Pipeline Engineer"
-    ],
-    "officialUrls": [
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Engineer_R170680-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Lead-Data-Engineer_R171212",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Security-Data-Engineer_R171875-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
-    ]
-  },
-  {
     "company": "Anthropic",
     "jobCount": 5,
     "sources": [
@@ -133,6 +105,31 @@
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
+    ]
+  },
+  {
+    "company": "Adobe",
+    "jobCount": 4,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "San Francisco",
+      "2 Locations",
+      "Bucharest",
+      "3 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer",
+      "Staff Security Data Engineer",
+      "Data Platform Engineer",
+      "Principal Scientist - Data Pipeline Engineer"
+    ],
+    "officialUrls": [
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Engineer_R170680-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Security-Data-Engineer_R171875-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
     ]
   },
   {
@@ -205,6 +202,27 @@
     ]
   },
   {
+    "company": "Block",
+    "jobCount": 3,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "Bay Area, CA, United States of America",
+      "New York, NY, United States of America"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer, Product",
+      "Senior Analytics Engineer, AI & DX Analytics",
+      "Senior Analytics Engineer, AI & DX Analytics"
+    ],
+    "officialUrls": [
+      "http://block.xyz/careers/jobs/5440102008?gh_jid=5440102008",
+      "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
+      "http://block.xyz/careers/jobs/5424561008?gh_jid=5424561008"
+    ]
+  },
+  {
     "company": "Aircall",
     "jobCount": 2,
     "sources": [
@@ -221,25 +239,6 @@
     "officialUrls": [
       "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-12199",
       "https://www.arbeitnow.fr/jobs/companies/aircall/senior-data-engineer-real-time-analytics-paris-office-268875"
-    ]
-  },
-  {
-    "company": "Block",
-    "jobCount": 2,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "New York, NY, United States of America",
-      "Bay Area, CA, United States of America"
-    ],
-    "sampleTitles": [
-      "Senior Analytics Engineer, AI & DX Analytics",
-      "Senior Analytics Engineer, AI & DX Analytics"
-    ],
-    "officialUrls": [
-      "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
-      "http://block.xyz/careers/jobs/5424561008?gh_jid=5424561008"
     ]
   },
   {
@@ -453,22 +452,6 @@
     ]
   },
   {
-    "company": "Quantum-Systems GmbH",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Wessling, Bayern, Germany"
-    ],
-    "sampleTitles": [
-      "Cloud & Fleet Data Engineer (m/f/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/cloud-fleet-data-engineer-wessling-494642"
-    ]
-  },
-  {
     "company": "Robinhood",
     "jobCount": 1,
     "sources": [
@@ -514,22 +497,6 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8112043"
-    ]
-  },
-  {
-    "company": "Unigy GmbH",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Essen"
-    ],
-    "sampleTitles": [
-      "AWS Cloud Data Engineer (m/w/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/unigy-gmbh/aws-cloud-data-engineer-essen-199969"
     ]
   }
 ]
