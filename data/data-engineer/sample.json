@@ -1,54 +1,38 @@
 [
   {
-    "id": "arbeitnow:data-engineerin-hamburg-26838",
-    "externalId": "data-engineerin-hamburg-26838",
+    "id": "arbeitnow:data-platform-engineer-headoffice-onsite-hybrid-essen-488015",
+    "externalId": "data-platform-engineer-headoffice-onsite-hybrid-essen-488015",
     "source": "arbeitnow",
-    "title": "DATA ENGINEER*IN (m/w/d)",
-    "company": "Ramp106 Gmbh",
-    "location": "Hamburg",
+    "title": "Data Platform Engineer (f/m/d)",
+    "company": "Ruhrdot Gmbh",
+    "location": "Headoffice Onsite/Hybrid Essen",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/data-engineerin-hamburg-26838",
-    "description": "Dein Team\nDas  Data & Automation Team ist Teil der OMR Tech Abteilung und fungiert als Center of Excellence für die Daten- und Prozessoptimierung bei OMR. Wir schaffen die Basis für fundierte, datengetriebene Entscheidungen und reibungslose Abläufe in allen Business Units (Festival, Podstars, Reviews, Education, Jobs). Wir verstehen uns als starker Business Partner: Wir bauen die Brücken zwischen komplexen Datenstrukturen, smarter Automatisierung und echtem Business Impact.\nBock auf maximale Freiheiten in einem unternehmerischen Umfeld? Du liebst es, Datenpipelines zu bauen, die einfach laufen, und Infrastruktur, auf die sich alle verlassen können? Dann verstärke unser Team und übernimm die Verantwortung für das technische Fundament unserer Datenplattform. Bei uns betreibst du nicht nur Pipelines: Du baust die Dateninfrastruktur, auf der der gesamte OMR-Kosmos seine Entscheidungen trifft!\n Wo du wirklich was bewegst\n Du verantwortest unsere ELT-Pipeline-Infrastruktur, entwickelst, betreibst und überwachst unsere Airflow-DAGs auf Cloud Composer und managst unsere Connector-Landschaft (Airbyte, Fivetran) Du baust eigene Airflow-Operatoren für Datenquellen ohne Standard-Connector und bindest neue Quellen an unser Data Warehouse an (aktuell über 28 externe Systeme) Du betreibst und optimierst unsere BigQuery-Infrastruktur von Performance-Tuning über Partitioning und Clustering, Monitoring der Query-Kosten und sauberes Schema-Management in der Raw Zone Du behandelst unsere Datenpipelines wie Produktivsysteme und machst sie standardmäßig beobachtbar: Du konzipierst Monitoring und Alerting rund um Pipeline-Health, Source Freshness, Datenqualität und operative SLAs – so, dass wir wissen, was kaputt ist, warum und wen es betrifft, bevor die Business Units es merken Du entwickelst unsere CI/CD-Pipelines (GitHub Actions) für Ingestion und dbt weiter und bringst dich aktiv in Code Reviews ein Du gestaltest unseren Stack aktiv mit: Du legst das infrastrukturelle Fundament für u…",
+    "url": "https://www.arbeitnow.com/jobs/companies/ruhrdot-gmbh/data-platform-engineer-headoffice-onsite-hybrid-essen-488015",
+    "description": "Your mission We have challenging tasks for you:\nAs a Data Platform Engineer, you will be responsible for building and evolving modern cloud platforms for Data & AI. Together with our team and our clients, you will develop platforms that can be operated in a scalable, secure, and sustainable manner.\n In doing so, you will combine cloud infrastructure, platform architecture, and modern Data & AI technologies into solutions that create a stable foundation for analytics, data engineering, and AI use cases.\n In detail, you will:\n Design, build, and continuously evolve cloud-based Data & AI platforms\n Develop platform strategies and target architectures together with our clients and implement them technically\n Design scalable and robust platform architectures that serve as a foundation for data-driven solutions\n Provision modern cloud infrastructures on Azure or AWS automatically using Infrastructure as Code\n Work specifically with Terraform or OpenTofu as well as modern CI/CD processes\n Design and evolve Databricks platforms regarding workspaces, compute, networking, identity, security, and governance\n Make architecture decisions and establish best practices for performance, security, governance, scalability, and cost optimization\n Develop reusable platform blueprints, standards, and automations\n Evaluate new technologies and platform components and integrate them meaningfully into existing architectures\n Support data, analytics, and AI teams by providing stable and high-performance platforms\n Contribute to technical concepts, architecture workshops, and the further development of our standards together with our team\n Your profile What we are looking for\n You work in a structured manner, think in terms of platforms and architectures, and implement technical solutions cleanly and sustainably.\n Ideally, you bring to the table:\n Sound experience in building modern cloud infrastructures and platform architectures\n Excellent knowledge of at least one cloud platform, ideally…",
     "tags": [
-      "RAMP106",
-      "Data",
-      "Engineer",
-      "Data Engineer",
-      "Tech",
-      "Automation",
-      "Data Atutomation",
-      "Prozessoptimierung",
-      "Job",
-      "OMR",
-      "OMR FESTIVAL",
-      "Vollzeit",
-      "Hamburg",
       "Experienced",
       "Permanent",
       "Full time"
     ],
     "jobType": "Experienced",
-    "postedAt": "2026-10-04T05:09:13.000Z",
-    "scrapedAt": "2026-10-04T11:44:23.539Z"
+    "postedAt": "2026-10-04T14:09:46.000Z",
+    "scrapedAt": "2026-10-04T16:23:01.802Z"
   },
   {
-    "id": "arbeitnow:analytics-engineerin-hamburg-321554",
-    "externalId": "analytics-engineerin-hamburg-321554",
+    "id": "arbeitnow:senior-consultant-data-engineer-reading-472423",
+    "externalId": "senior-consultant-data-engineer-reading-472423",
     "source": "arbeitnow",
-    "title": "ANALYTICS ENGINEER*IN (m/w/d)",
-    "company": "Ramp106 Gmbh",
-    "location": "Hamburg",
+    "title": "Senior Consultant (Data Engineer)",
+    "company": "Coeo",
+    "location": "Reading",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/analytics-engineerin-hamburg-321554",
-    "description": "Dein Team\nDas  Data & Automation Team ist Teil der OMR Tech Abteilung und fungiert als Center of Excellence für die Daten- und Prozessoptimierung bei OMR. Wir schaffen die Basis für fundierte, datengetriebene Entscheidungen und reibungslose Abläufe in allen Business Units (Festival, Podstars, Reviews, Education, Jobs). Wir verstehen uns als starker Business Partner: Wir bauen die Brücken zwischen komplexen Datenstrukturen, smarter Automatisierung und echtem Business Impact.\nBock auf maximale Freiheiten in einem unternehmerischen Umfeld? Du liebst es, aus Rohdaten verlässliche Datenmodelle zu bauen, mit denen echte Geschäftsentscheidungen getroffen werden? Dann verstärke unser Team und übernimm die Ownership für zentrale Datenmodelle im OMR-Kosmos. Bei uns schreibst du nicht nur SQL: Deine Modelle steuern das Ticketing unseres Festivals, unser Finance-Reporting und unsere Marketingbudgets!\n Wo du wirklich was bewegst\n Du übernimmst die Ownership unserer Ticketing- und Event-Datenmodelle in dbt (Staging, Reporting und Semantic Layer) und entwickelst sie eigenständig weiter Du baust ein verlässliches Ticket-Forecasting auf Basis historischer Verkaufsdaten, Pricing und Event-Kategorien auf und schaffst damit die Grundlage für unsere Absatzplanung Du verantwortest unsere Finance-Datenmodelle und baust ein Working Capital Reporting auf, das Forderungen, Verbindlichkeiten und Cashflow transparent macht Du entwickelst unser Cross-Channel-Attributionsmodell über alle Marketingkanäle (u. a. Google Ads, Meta, LinkedIn, TikTok) und machst damit den ROI unserer Marketingausgaben sichtbar Du bearbeitest Ad-hoc-Anfragen aus unseren Business Units eigenständig, von der Auswertung über den Datenexport bis zur Dashboard-Anpassung Du arbeitest eng mit Sales, Finance, Marketing und Events zusammen und übersetzt deren Anforderungen in skalierbare Datenmodelle\n Was dich auszeichnet\n Du hast 1 bis 2 Jahre Berufserfahrung im Analytics- oder BI-Umfeld und bereits eigenständig Datenmodelle…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/coeo/senior-consultant-data-engineer-reading-472423",
+    "description": "<p></p>\n<p></p>\n<p><strong>Job Title: Senior Consultant (Data Engineer)</strong></p>\n<p><strong>Location: Reading, UK (Hybrid)</strong></p>\n<p><strong>Company:</strong> <strong>Coeo Ltd</strong></p>\n<p><strong>Please Note</strong>: You must have a UK passport or be able to live and work in the UK without employer sponsorship.</p>\n<p>At Coeo, we believe data has the power to transform organizations. As one of the UK's leading Microsoft Data &amp; AI consultancies, we help our clients unlock the full value of their data by combining deep technical expertise with business-focused consulting.</p>\n<p>Our mission is simple: <strong>to help our clients predict their future</strong>.</p>\n<p>For over 18 years, we've specialized exclusively in the Microsoft ecosystem, helping organizations modernize their data platforms, harness the power of analytics and AI, and make better decisions faster. Today, we're at the forefront of delivering solutions built on Microsoft Fabric, Azure, Databricks, Power BI and AI technologies, enabling our clients to turn data into a genuine competitive advantage.</p>\n<p><strong>Why Coeo?</strong></p>\n<p>We're more than just technology specialists. We're trusted advisors, architects, engineers and consultants who work closely with our clients to solve complex business challenges and deliver measurable outcomes.</p>\n<p>Our expertise spans:</p>\n<ul>\n<li>Managed Services</li>\n<li>Database Modernization</li>\n<li>Data Engineering &amp; Analytics</li>\n<li>Data &amp; AI Strategy</li>\n<li>Adoption &amp; Change Management</li>\n</ul>\n<p>Our consultants are encouraged to think beyond project delivery. We look for individuals who are naturally curious, commercially aware, and passionate about helping clients succeed. You'll have the opportunity to build trusted relationships, identify new opportunities, influence strategic decisions, and play a key role in shaping our clients' data journeys.</p>\n<p><strong>Job Summary</strong></p>\n<p>The Senior Consultant role…",
     "tags": [
-      "Experienced",
-      "Permanent",
-      "Full time"
+      "Consulting Services"
     ],
-    "jobType": "Experienced",
-    "postedAt": "2026-10-04T05:09:13.000Z",
-    "scrapedAt": "2026-10-04T11:44:23.539Z"
+    "postedAt": "2026-10-04T12:55:06.000Z",
+    "scrapedAt": "2026-10-04T16:23:01.802Z"
   },
   {
     "id": "greenhouse:block-5440102008",
@@ -64,7 +48,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-10-01T21:06:06.000Z",
-    "scrapedAt": "2026-10-04T11:44:24.106Z"
+    "scrapedAt": "2026-10-04T16:23:02.298Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -80,7 +64,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-10-04T11:44:24.106Z"
+    "scrapedAt": "2026-10-04T16:23:02.298Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -96,7 +80,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-10-04T11:44:24.106Z"
+    "scrapedAt": "2026-10-04T16:23:02.298Z"
   },
   {
     "id": "greenhouse:pinterest-8209014",
@@ -112,7 +96,7 @@
       "Oversight Engineering"
     ],
     "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-10-04T11:44:24.106Z"
+    "scrapedAt": "2026-10-04T16:23:02.298Z"
   },
   {
     "id": "greenhouse:airbnb-8224032",
@@ -128,7 +112,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-10-04T11:44:24.106Z"
+    "scrapedAt": "2026-10-04T16:23:02.298Z"
   },
   {
     "id": "lever:spotify-80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
@@ -148,7 +132,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-09-22T08:36:16.099Z",
-    "scrapedAt": "2026-10-04T11:47:26.716Z"
+    "scrapedAt": "2026-10-04T16:26:12.476Z"
   },
   {
     "id": "greenhouse:figma-6201407004",
@@ -164,7 +148,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-21T16:13:46.000Z",
-    "scrapedAt": "2026-10-04T11:44:24.106Z"
+    "scrapedAt": "2026-10-04T16:23:02.298Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -180,6 +164,6 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-10-04T11:44:24.106Z"
+    "scrapedAt": "2026-10-04T16:23:02.298Z"
   }
 ]
