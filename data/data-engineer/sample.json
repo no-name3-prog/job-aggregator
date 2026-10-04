@@ -1,81 +1,54 @@
 [
   {
-    "id": "arbeitnow:ml-data-engineer-sensor-data-pipelines-munich-deu-298521",
-    "externalId": "ml-data-engineer-sensor-data-pipelines-munich-deu-298521",
+    "id": "arbeitnow:data-engineerin-hamburg-26838",
+    "externalId": "data-engineerin-hamburg-26838",
     "source": "arbeitnow",
-    "title": "ML Data Engineer (m/f/d) - Sensor Data & Pipelines",
-    "company": "autonomous-teaming",
-    "location": "Munich (DEU)",
+    "title": "DATA ENGINEER*IN (m/w/d)",
+    "company": "Ramp106 Gmbh",
+    "location": "Hamburg",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/ml-data-engineer-sensor-data-pipelines-munich-deu-298521",
-    "description": "What we offer Work in an international, agile team creating the future of autonomous systems Grow your career in a expanding and ambitious engineering team Build innovative products using state-of-the-art technologies in AI, robotics, and autonomy  Benefit from a steep learning curve and continuous development Enjoy team events and a strong, collaborative culture\n Your mission This role owns the data foundation of our perception systems end-to-end — the layer that directly determines model performance in real-world environments. You'll set the technical direction for how we collect, curate, and continuously improve the datasets behind object detection, working as a senior technical partner to ML, perception, and robotics teams — turning raw, messy sensor data into reliable, production-grade systems at scale.\nYou will take full ownership of the ML data lifecycle — from architecture decisions on ingestion and pipelines, through labeling strategy and QA, to driving continuous, metrics-informed dataset improvement — and will be expected to bring judgment and prior experience to how this is done, not just execute a defined process.\nWhat you'll do:\n Architect and own scalable pipelines for ingesting, organizing, and preprocessing large volumes of time-series camera and multi-sensor data (RGB, IR, thermal, depth, IMU) Drive the strategy behind our object detection datasets, ensuring quality, diversity, and statistical representativeness at scale Design and operate active learning loops that connect model performance directly to data selection and improvement priorities Own labeling workflows end-to-end — tooling decisions, QA methodology, consistency standards, and coordination of annotation efforts Partner closely with AI Engineers to diagnose model weaknesses, bias, and drift, and translate findings into concrete dataset strategy Plan and lead data collection campaigns (field recordings, drone/video capture) to close gaps with high-value real-world data Build internal t…",
+    "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/data-engineerin-hamburg-26838",
+    "description": "Dein Team\nDas  Data & Automation Team ist Teil der OMR Tech Abteilung und fungiert als Center of Excellence für die Daten- und Prozessoptimierung bei OMR. Wir schaffen die Basis für fundierte, datengetriebene Entscheidungen und reibungslose Abläufe in allen Business Units (Festival, Podstars, Reviews, Education, Jobs). Wir verstehen uns als starker Business Partner: Wir bauen die Brücken zwischen komplexen Datenstrukturen, smarter Automatisierung und echtem Business Impact.\nBock auf maximale Freiheiten in einem unternehmerischen Umfeld? Du liebst es, Datenpipelines zu bauen, die einfach laufen, und Infrastruktur, auf die sich alle verlassen können? Dann verstärke unser Team und übernimm die Verantwortung für das technische Fundament unserer Datenplattform. Bei uns betreibst du nicht nur Pipelines: Du baust die Dateninfrastruktur, auf der der gesamte OMR-Kosmos seine Entscheidungen trifft!\n Wo du wirklich was bewegst\n Du verantwortest unsere ELT-Pipeline-Infrastruktur, entwickelst, betreibst und überwachst unsere Airflow-DAGs auf Cloud Composer und managst unsere Connector-Landschaft (Airbyte, Fivetran) Du baust eigene Airflow-Operatoren für Datenquellen ohne Standard-Connector und bindest neue Quellen an unser Data Warehouse an (aktuell über 28 externe Systeme) Du betreibst und optimierst unsere BigQuery-Infrastruktur von Performance-Tuning über Partitioning und Clustering, Monitoring der Query-Kosten und sauberes Schema-Management in der Raw Zone Du behandelst unsere Datenpipelines wie Produktivsysteme und machst sie standardmäßig beobachtbar: Du konzipierst Monitoring und Alerting rund um Pipeline-Health, Source Freshness, Datenqualität und operative SLAs – so, dass wir wissen, was kaputt ist, warum und wen es betrifft, bevor die Business Units es merken Du entwickelst unsere CI/CD-Pipelines (GitHub Actions) für Ingestion und dbt weiter und bringst dich aktiv in Code Reviews ein Du gestaltest unseren Stack aktiv mit: Du legst das infrastrukturelle Fundament für u…",
     "tags": [
-      "Active Learning",
-      "Machine Learning",
-      "Python",
-      "Pandas",
-      "Data Orchestration",
-      "CVAT",
-      "NumPy",
-      "Data Engineering",
-      "Data Pipelines",
-      "Dataset Engineering",
-      "Data Processing",
-      "Data Lifecycle",
-      "ELT / ETL",
-      "Sensor Data",
-      "Video Data Processing",
+      "RAMP106",
+      "Data",
+      "Engineer",
+      "Data Engineer",
+      "Tech",
+      "Automation",
+      "Data Atutomation",
+      "Prozessoptimierung",
+      "Job",
+      "OMR",
+      "OMR FESTIVAL",
+      "Vollzeit",
+      "Hamburg",
       "Experienced",
       "Permanent",
       "Full time"
     ],
     "jobType": "Experienced",
-    "postedAt": "2026-10-03T20:09:46.000Z",
-    "scrapedAt": "2026-10-04T04:06:25.197Z"
+    "postedAt": "2026-10-04T05:09:13.000Z",
+    "scrapedAt": "2026-10-04T11:44:23.539Z"
   },
   {
-    "id": "jobicy:154478",
-    "externalId": "154478",
-    "source": "jobicy",
-    "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
-    "company": "Affirm",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/fac7714c-221-1.jpg",
-    "location": "Poland",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/154478-analytics-engineer-ii-full-stack-revenue-analytics",
-    "description": "At Affirm , we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.\n We’re looking for a curious, driven professional to join our Revenue Analytics team. This builds and owns the data products, reporting infrastructure, semantic foundations, and analytical systems that power Affirm’s Revenue organization.\nAs a Senior Analyst, Revenue Analytics, you’ll build scalable data products that power day-to-day decision-making - owning end-to-end work across data modeling, metric definitions, dashboards, automation, and enablement.\nYou’ll also help strengthen our semantic layer and data governance, laying the foundation for reliable AI. The ideal candidate combines strong technical and analytical skills with the ability to turn ambiguous business questions into durable, well-tested data infrastructure.\n What you'll do\n Develop dbt data models, dashboards, metrics, and automation processes for the revenue field team and revenue analysts\n Build and maintain critical reporting data models that power external merchant reporting\n Build the semantic, metadata, and context layers that allow AI systems to accurately understand Revenue data, metrics, and business definitions\n Partner with Business Systems, engineering, and business stakeholders to translate requirements into durable, well-tested data products\n Contribute to the team’s best practices in version control, code review, documentation, and release hygiene (GitHub-based workflows)\n Develop processes, governance, and foundations to scale the impact of analytics within Revenue.\n What we look for\n 3+ years of work experience in an analytics engineering or business intelligence role\n Strong working knowledge of SQL, dbt, Python, data modeling, and data visualization\n Hands-on experience with BI tools (Sigma/Looker/Tableau), Databricks, and cloud data warehouses (Snowflake)\n Understanding of the data foundations requir…",
-    "tags": [
-      "Data Science & Analytics",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-10-03T19:24:30.000Z",
-    "scrapedAt": "2026-10-04T04:06:25.269Z"
-  },
-  {
-    "id": "arbeitnow:ai-first-data-engineer-zurich-65570",
-    "externalId": "ai-first-data-engineer-zurich-65570",
+    "id": "arbeitnow:analytics-engineerin-hamburg-321554",
+    "externalId": "analytics-engineerin-hamburg-321554",
     "source": "arbeitnow",
-    "title": "AI First Data Engineer",
-    "company": "isolutions",
-    "location": "Zürich",
+    "title": "ANALYTICS ENGINEER*IN (m/w/d)",
+    "company": "Ramp106 Gmbh",
+    "location": "Hamburg",
     "remote": false,
-    "url": "https://www.arbeitnow.ch/jobs/companies/isolutions/ai-first-data-engineer-zurich-65570",
-    "description": "Was erwartet dich bei uns? Weiterbildung ab Tag 1 : Wir unterstützen dich zeitlich und finanziell bei deiner persönlichen und fachlichen Entwicklung. Starke Unternehmenskultur : Offene Kommunikation, Hilfsbereitschaft, authentische Zusammenarbeit und ein echtes Learn-it-all-Mindset. New Work leben : Flexible Arbeitsorte, Workation in Europa und kultureller Austausch mit Kolleginnen und Kollegen aus Spanien. Teamspirit : Arbeite mit Menschen, die motiviert sind, gemeinsam voranzukommen – und voneinander lernen wollen. Gestaltungsspielraum : Bei uns kannst du aktiv mitgestalten und echten Mehrwert für Kundschaft und Team schaffen. Top Arbeitsumgebung : Modern ausgestattete Büros, unter anderem im Circle am Flughafen Zürich, im PostParc in Bern und an bester Lage in Basel.\n Einführung Liegt deine Leidenschaft darin, mit AI echten Mehrwert für unsere Kunden zu schaffen und moderne Data- & AI-Lösungen nicht nur zu entwickeln, sondern gemeinsam mit deinem AI-Agententeam erfolgreich in die Produktion zu bringen?\n Verbindest du technisches Know-how mit Eigenverantwortung, Kundenverständnis und einem echten AI-first Mindset? Denkst du gerne einen Schritt weiter, übernimmst die Führung und hast Freude daran, mit spezialisierten AI-Agenten neue Wege zu gehen?\n Dann gehörst du in unser Team! Bei uns arbeitest du nicht einfach mit AI – du gestaltest aktiv mit, wie wir als Unternehmen und für unsere Kunden arbeiten. Du gibst deinem AI-Agententeam die Richtung vor, verteilst Aufgaben, triffst Entscheidungen und verantwortest das Ergebnis. Dabei kombinierst du deine Expertise mit spezialisierten Agenten und entwickelst unsere Agenten und Workflows laufend weiter.\n Dafür stehst du am Morgen auf: Du baust Datenpipelines und Datenmodelle mit Databricks oder Microsoft Fabric auf Azure auf und schaffst damit die Grundlage für moderne AI- und Analytics-Lösungen. Du klärst Anforderungen direkt mit unseren Kunden, stellst die richtigen Fragen, entwickelst passende Lösungsarchitekturen und…",
+    "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/analytics-engineerin-hamburg-321554",
+    "description": "Dein Team\nDas  Data & Automation Team ist Teil der OMR Tech Abteilung und fungiert als Center of Excellence für die Daten- und Prozessoptimierung bei OMR. Wir schaffen die Basis für fundierte, datengetriebene Entscheidungen und reibungslose Abläufe in allen Business Units (Festival, Podstars, Reviews, Education, Jobs). Wir verstehen uns als starker Business Partner: Wir bauen die Brücken zwischen komplexen Datenstrukturen, smarter Automatisierung und echtem Business Impact.\nBock auf maximale Freiheiten in einem unternehmerischen Umfeld? Du liebst es, aus Rohdaten verlässliche Datenmodelle zu bauen, mit denen echte Geschäftsentscheidungen getroffen werden? Dann verstärke unser Team und übernimm die Ownership für zentrale Datenmodelle im OMR-Kosmos. Bei uns schreibst du nicht nur SQL: Deine Modelle steuern das Ticketing unseres Festivals, unser Finance-Reporting und unsere Marketingbudgets!\n Wo du wirklich was bewegst\n Du übernimmst die Ownership unserer Ticketing- und Event-Datenmodelle in dbt (Staging, Reporting und Semantic Layer) und entwickelst sie eigenständig weiter Du baust ein verlässliches Ticket-Forecasting auf Basis historischer Verkaufsdaten, Pricing und Event-Kategorien auf und schaffst damit die Grundlage für unsere Absatzplanung Du verantwortest unsere Finance-Datenmodelle und baust ein Working Capital Reporting auf, das Forderungen, Verbindlichkeiten und Cashflow transparent macht Du entwickelst unser Cross-Channel-Attributionsmodell über alle Marketingkanäle (u. a. Google Ads, Meta, LinkedIn, TikTok) und machst damit den ROI unserer Marketingausgaben sichtbar Du bearbeitest Ad-hoc-Anfragen aus unseren Business Units eigenständig, von der Auswertung über den Datenexport bis zur Dashboard-Anpassung Du arbeitest eng mit Sales, Finance, Marketing und Events zusammen und übersetzt deren Anforderungen in skalierbare Datenmodelle\n Was dich auszeichnet\n Du hast 1 bis 2 Jahre Berufserfahrung im Analytics- oder BI-Umfeld und bereits eigenständig Datenmodelle…",
     "tags": [
-      "databricks",
-      "fabric",
-      "python",
-      "powerbi",
-      "microsoft",
-      "azure",
       "Experienced",
       "Permanent",
       "Full time"
     ],
     "jobType": "Experienced",
-    "postedAt": "2026-10-02T05:09:24.000Z",
-    "scrapedAt": "2026-10-04T04:06:25.197Z"
+    "postedAt": "2026-10-04T05:09:13.000Z",
+    "scrapedAt": "2026-10-04T11:44:23.539Z"
   },
   {
     "id": "greenhouse:block-5440102008",
@@ -91,7 +64,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-10-01T21:06:06.000Z",
-    "scrapedAt": "2026-10-04T04:06:25.627Z"
+    "scrapedAt": "2026-10-04T11:44:24.106Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -107,7 +80,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-10-04T04:06:25.627Z"
+    "scrapedAt": "2026-10-04T11:44:24.106Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -123,7 +96,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-10-04T04:06:25.627Z"
+    "scrapedAt": "2026-10-04T11:44:24.106Z"
   },
   {
     "id": "greenhouse:pinterest-8209014",
@@ -139,7 +112,7 @@
       "Oversight Engineering"
     ],
     "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-10-04T04:06:25.627Z"
+    "scrapedAt": "2026-10-04T11:44:24.106Z"
   },
   {
     "id": "greenhouse:airbnb-8224032",
@@ -155,7 +128,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-10-04T04:06:25.627Z"
+    "scrapedAt": "2026-10-04T11:44:24.106Z"
   },
   {
     "id": "lever:spotify-80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
@@ -175,7 +148,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-09-22T08:36:16.099Z",
-    "scrapedAt": "2026-10-04T04:09:39.298Z"
+    "scrapedAt": "2026-10-04T11:47:26.716Z"
   },
   {
     "id": "greenhouse:figma-6201407004",
@@ -191,6 +164,22 @@
       "Engineering"
     ],
     "postedAt": "2026-09-21T16:13:46.000Z",
-    "scrapedAt": "2026-10-04T04:06:25.627Z"
+    "scrapedAt": "2026-10-04T11:44:24.106Z"
+  },
+  {
+    "id": "greenhouse:block-5424561008",
+    "externalId": "block:5424561008",
+    "source": "greenhouse",
+    "title": "Senior Analytics Engineer, AI & DX Analytics",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "remote": false,
+    "url": "http://block.xyz/careers/jobs/5424561008?gh_jid=5424561008",
+    "description": "Block builds simple, powerful tools that make progress towards an economy that’s truly open to all.\n Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Join us.\n The Role\n The AI & DX (Developer Experience) Analytics team exists to measure and improve Block's developer experience and investment in AI. We turn raw engineering signals (agent session data, pull request and CI activity, and AI spend) into reporting and analysis that shape leadership's AI investment decisions, and drive improvement in AI ROI and developer experience. Your work will be the trusted source of truth that engineers and executives use to decide where AI investment is working and where to redirect it.\n We're hiring a Senior Analytics Engineer to own parts of that pipeline end to end. This is a broad, high-visibility role with a lot of white space: you will instrument new telemetry at the source and build production pipelines that turn it into governed data, then turn that governed data into executive-facing reporting and the analysis that surfaces concrete opportunities to improve AI ROI and developer experience. You'll also help pioneer one of the most consequential open problems in the industry right now: measuring the productivity impact of an increasingly AI- and agent-augmented engineering workforce, where there is no textbook answer and real room to set the standard. You'll define new metrics and craft the visual narrative — the charts, dashboards, and presentation materials — that make them land with…",
+    "tags": [
+      "10410 Engineering - Developer Experience"
+    ],
+    "postedAt": "2026-09-17T16:08:50.000Z",
+    "scrapedAt": "2026-10-04T11:44:24.106Z"
   }
 ]
