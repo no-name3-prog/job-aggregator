@@ -222,25 +222,6 @@
     ]
   },
   {
-    "company": "Airbnb",
-    "jobCount": 2,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "United States",
-      "Bangalore, India"
-    ],
-    "sampleTitles": [
-      "Senior Staff Data Engineer, Foundational Data",
-      "Senior Data Engineer, BizTech"
-    ],
-    "officialUrls": [
-      "https://careers.airbnb.com/positions/8224032?gh_jid=8224032",
-      "https://careers.airbnb.com/positions/8152721?gh_jid=8152721"
-    ]
-  },
-  {
     "company": "Brex",
     "jobCount": 2,
     "sources": [
@@ -372,6 +353,38 @@
     ]
   },
   {
+    "company": "Airbnb",
+    "jobCount": 1,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "sampleTitles": [
+      "Senior Staff Data Engineer, Foundational Data"
+    ],
+    "officialUrls": [
+      "https://careers.airbnb.com/positions/8224032?gh_jid=8224032"
+    ]
+  },
+  {
+    "company": "Alexander Thamm Gmbh",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Hybrid (Frankfurt)"
+    ],
+    "sampleTitles": [
+      "Principal Data Engineer (m/w/d) - GIS / Geospatial"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-data-engineer-gis-geospatial-hybrid-frankfurt-148651"
+    ]
+  },
+  {
     "company": "Instacart",
     "jobCount": 1,
     "sources": [
@@ -468,22 +481,6 @@
     ]
   },
   {
-    "company": "Ruhrdot Gmbh",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Headoffice Onsite/Hybrid Essen"
-    ],
-    "sampleTitles": [
-      "Data Platform Engineer (f/m/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/ruhrdot-gmbh/data-platform-engineer-headoffice-onsite-hybrid-essen-488015"
-    ]
-  },
-  {
     "company": "Scale AI",
     "jobCount": 1,
     "sources": [
@@ -513,6 +510,22 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8112043"
+    ]
+  },
+  {
+    "company": "Thermondo",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin (Zentrale)"
+    ],
+    "sampleTitles": [
+      "Working Student Analytics Engineering (f/m/x)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/thermondo/working-student-analytics-engineering-berlin-zentrale-183852"
     ]
   }
 ]

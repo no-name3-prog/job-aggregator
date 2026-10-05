@@ -1,88 +1,96 @@
 [
   {
-    "id": "arbeitnow:optimization-and-forecast-engineer-energy-systems-berlin-104629",
-    "externalId": "optimization-and-forecast-engineer-energy-systems-berlin-104629",
+    "id": "arbeitnow:senior-software-engineer-connectivity-c-berlin-301995",
+    "externalId": "senior-software-engineer-connectivity-c-berlin-301995",
     "source": "arbeitnow",
-    "title": "Optimization and Forecast Engineer - Energy Systems (f/m/d)",
-    "company": "FION Energy GmbH",
+    "title": "Senior Software Engineer, Connectivity, C++",
+    "company": "vay",
     "location": "Berlin",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/fion-energy-gmbh/optimization-and-forecast-engineer-energy-systems-berlin-104629",
-    "description": "About FION\n European industry is losing competitiveness because electricity here is more expensive and more volatile than in the US or China. The reason: renewables fluctuate strongly, factories consume constantly.\n We close that gap. FION plans and installs the right battery system for an industrial site and runs it with AI in real time against tariffs and markets. The software that dimensions, controls and monitors those systems is our own, and it runs end to end: ML and optimization in the cloud, data streaming and control, and the edge device at the customer site. The result for the customer: significantly lower energy costs and measurable CO2 savings. We earn trust by delivering systems and operating them transparently.\n We already work with more than 20 factories across industries such as plastics, automotive and food processing, and we are backed by early-stage investors.\n We're looking for an engineer with deep experience in time-series forecasting and mathematical optimization to join us as an early hire. You'll work on the forecasting and optimization core of our platform: the models that forecast industrial electricity consumption and PV generation, and the optimization that decides how each battery operates and trades against tariffs and markets within physical and grid constraints. This is a startup role: you should be comfortable switching between strategic thinking and hands-on work.\n You'll work directly with the CTO, one of the co-founders.\n Tasks\n Forecasting models Develop and improve time-series forecasting models for industrial electricity consumption, PV generation, and other energy-relevant signals, and extend them with probabilistic outputs. Evaluate forecast quality on noisy, incomplete, and non-stationary industrial data, including its actual operational and economic impact.\n Battery dispatch optimization Develop and improve the optimization models that schedule battery dispatch across peak shaving, self-consumption, spot market trading an…",
-    "tags": [
-      "Engineering",
-      "professional / experienced"
-    ],
-    "jobType": "professional / experienced",
-    "postedAt": "2026-10-04T22:30:29.000Z",
-    "scrapedAt": "2026-10-04T23:47:43.063Z"
-  },
-  {
-    "id": "arbeitnow:senior-director-people-culture-london-1085",
-    "externalId": "senior-director-people-culture-london-1085",
-    "source": "arbeitnow",
-    "title": "Senior Director, People & Culture",
-    "company": "Catapult Sports",
-    "location": "London, England, United Kingdom",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/catapult-sports/senior-director-people-culture-london-1085",
-    "description": "Catapult is building the future of sports performance technology, with a mission to Unleash the Potential of every athlete and team on earth. We don't just work in the sporting industry; we are actively changing it. Since 2006, our solutions have been leading the way in sports performance software, science, and data, in a world where 1% can literally mean the difference between winning and losing.\n We work with over 5,000+ teams around the world, empowering coaches, managers and trainers in premier teams in the NFL, NBA, NHL, MLS, EPL, AFL, NRL, NCAA and more. We provide the information they need to optimize athletes' health, game-day readiness, and performance, as well as in-game tactics.\n Catapult is a sports technology company that empowers professional teams to make data-driven decisions. We deliver health, performance, video, and AI insights from the locker room to competitive environments, ensuring every decision is an opportunity to gain an advantage, sharpen performance, and build lasting success.\n WE WANT PEOPLE WHO ARE PASSIONATE ABOUT BUILDING LEADERS, SHAPING CULTURE, AND ENABLING BUSINESS SUCCESS\n The Senior Director, People & Culture is a pivotal senior role within our London Office and a key member of Catapult's global P&C leadership team. Working three days in the office and partnering closely with senior business leaders, you will drive strategic impact while shaping both the culture and operational effectiveness of the EMEA region.\n Reporting to the Vice President, People & Culture, based in Melbourne, you will lead an in-region team of three and be responsible for designing and implementing strategies that enable, engage, develop and retain exceptional talent.\n Success in this role requires a balance of strategic thinking and practical execution. You will thrive in a fast-paced, global environment and be energised by creating innovative, scalable solutions that strengthen leadership capability and foster a high-performance culture across the regi…",
+    "url": "https://www.arbeitnow.com/jobs/companies/vay/senior-software-engineer-connectivity-c-berlin-301995",
+    "description": "<div class=\"content-intro\"><p>Ever imagined saying, “I helped launch the future of transportation”?</p>\n<p>We’re rewriting the rules of urban mobility. At Vay, customers tap a button and a car arrives - with no one inside - powered by our world-first Remote Driving technology on real public streets.</p>\n<p>We’re live in Las Vegas and scaling fast, powered by a strategic investment of up to $410 million from <a href=\"https://www.grab.com/sg/\">Grab</a>. Our mission is simple: replace private car ownership with a faster, cleaner, door-to-door mobility model. If you want to build something real, visible, and genuinely transformative, you’ll feel right at home here.</p>\n<p><strong>Curious to experience Vay yourself? Use the code <em data-start=\"289\" data-end=\"303\">VAYCANDIDATE</em> for $10 off your first trip in Las Vegas! Download the \"Vay\" app from the Apple or Google Play store &amp; off you go!&nbsp;</strong></p>\n<h4><strong>What’s happening at Vay</strong></h4>\n<ul>\n<li>First to roll out vehicles in both Europe and the USA on public roads without a human being inside &amp; currently the 2nd largest commercial, driverless car fleet in the Western World.</li>\n<li>We've partnered with <a href=\"https://kodiak.ai/\">Kodiak</a> to bring remote-driving technology to autonomous trucks in the US, showcasing our ability to integrate our system into heavy-duty commercial vehicles and expand the applications of our tech across the US.</li>\n<li>We’ve completed 10’s of thousands of trips so far and are busy multiplying our Las Vegas fleet just to meet demand!</li>\n<li><strong>...And soon we’ll be expanding across the US &amp; Europe 🚀</strong></li>\n</ul></div><h4><em><strong>Why this role is exciting</strong></em></h4>\n<p data-start=\"1056\" data-end=\"1563\"><strong data-start=\"1056\" data-end=\"1195\">As a Senior Software Engineer, Connectivity at Vay, you’ll help build and optimize the networking backbone that makes remote driving possible.</strong> Our Connectivity team owns the lo…",
     "tags": [],
-    "postedAt": "2026-10-04T21:45:23.000Z",
-    "scrapedAt": "2026-10-04T23:47:43.063Z"
+    "postedAt": "2026-10-05T02:55:02.000Z",
+    "scrapedAt": "2026-10-05T03:50:05.726Z"
   },
   {
-    "id": "arbeitnow:live-streamer-london-104885",
-    "externalId": "live-streamer-london-104885",
+    "id": "arbeitnow:customer-development-operations-munich-368266",
+    "externalId": "customer-development-operations-munich-368266",
     "source": "arbeitnow",
-    "title": "Live Streamer",
-    "company": "Tilt",
-    "location": "London",
+    "title": "Customer & Development Operations",
+    "company": "Furo",
+    "location": "München",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/tilt/live-streamer-london-104885",
-    "description": "About the role Make money streaming live shopping!\nWe're looking for charismatic, ambitious people to become the face of live shopping for sellers on Tilt.\nYou'll be on camera selling products, entertaining viewers and building your own audience.\n What you get\n Flexible schedule you can make work around your other commitments\n Choice between flat hourly rate or hourly rate + comission\n Availability\n 3–5 days per week , including evenings and weekends\n Able to work on-site in central London\n How to apply Forget the cover letter. We'd rather see you in action.\n Please submit:\n Your CV\n Links to any social channels or previous content (if you have them)\n If you can make people stop scrolling, stick around and want to buy, we'd love to hear from you.\n Find Jobs in United Kingdom on Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/furo/customer-development-operations-munich-368266",
+    "description": "You'll stay close to our customer base, spot which projects are moving toward deployment, and make sure Furo is there when they do: turning our planning platform into a gateway for the next stage of our product. You'll work directly with the founders and help build a new function from the ground up.\n You'll Have Fun If You Are Founder at Heart\n You get energy from building something that doesn't exist yet — no templates, no playbook\n You thrive wearing multiple hats across sales, customer success, product, and business development\n Commercially Sharp\n You genuinely love talking to customers and are curious about their world\n People want to say yes to you — whether you're building trust or closing the next step\n Data-Driven and Structured\n You're as comfortable in data (e.g., Supabase or Hubspot) as you are on a customer call\n You don't just track things, you build systems: scalable processes, automated workflows, dashboards that tell you what to do next\n You believe that the best commercial instinct is backed by data\n You Won't Have Fun If You Are scared of hardware: You’ll build a solid understanding of the energy system on site and stay on top of our integration landscape to get our battery projects running\n Can't spend half your day talking to customers: this role lives and dies on relationships\n Feel uncomfortable digging into databases, user stats, or platform analytics\n Expect top-down instructions: we trust you to figure it out\n Prefer a typical 9–5: we move fast and take full ownership\n Don't enjoy being close to customers and partners — we visit sites across Germany\n Qualifications Fast-paced environment in your past: top-tier consulting, a hypergrowth startup, or a commercial role in energy or infrastructure\n Experience in operations-focused roles and managing a large customer portfolio with structured processes\n C1 German or higher — most of our customers are German-speaking\n Bonus: Familiarity with energy project development, storage, or grid-connected…",
     "tags": [
-      "Marketing",
-      "Part Time"
-    ],
-    "jobType": "Part Time",
-    "postedAt": "2026-10-04T21:40:12.000Z",
-    "scrapedAt": "2026-10-04T23:47:43.063Z"
-  },
-  {
-    "id": "arbeitnow:senior-hr-project-manager-leeds-219897",
-    "externalId": "senior-hr-project-manager-leeds-219897",
-    "source": "arbeitnow",
-    "title": "Senior HR Project Manager",
-    "company": "Leovegasgroup",
-    "location": "Leeds, UK",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/senior-hr-project-manager-leeds-219897",
-    "description": "ABOUT THE ROLE We are looking for a Senior HR Project Manager to join our HR Transformation team, based in our Leeds office. In this brand-new role, you will play a critical part in helping us mature our people function and drive key strategic initiatives across LeoVegas Group. Reporting directly to the Director of HR Transformation, you will take ownership of high-impact people and workforce projects, and cross-functional HR frameworks.\n As a dedicated project lead, you will act as a vital bridge connecting different HR disciplines—including Talent Acquisition, Reward, L&D, and People Operations—with C-suite execs and senior business leaders. You will bring robust project discipline, clear governance, and commercial acumen to make sure our transformation initiatives run smoothly, stay on track, and deliver real value to the wider business. This is a fantastic opportunity for a structured project professional with a strong HR background to help deliver our global HR projects in a dynamic, fast-paced environment.\n YOU WILL BE RESPONSIBLE FOR: Leading end-to-end HR transformation projects.\n Establishing clear project management structures, timelines, risk management, and reporting via project management tools.\n Building strong relationships and comfortably managing senior stakeholders, including Directors and C-suite members.\n Connecting different HR functions to ensure cross-team alignment, smooth communication, and clear project visibility.\n Driving commercial HR conversations and guiding business leaders through operational change and maturity initiatives.\n Escalating risks, removing blockers, and keeping complex short- and long-term project deliverables on track.\n OUR SUCCESSFUL CANDIDATE WILL HAVE THE FOLLOWING:\nESSENTIAL SKILLS A minimum of 5+ years of experience as a Project Manager, with a strong background in or deep working knowledge of HR functions.\n Demonstrated ability to build trust and influence senior stakeholders, with the credibility to command the…",
-    "tags": [
-      "Human Resources",
+      "Business Development",
       "Full Time"
     ],
     "jobType": "Full Time",
-    "postedAt": "2026-10-04T21:40:11.000Z",
-    "scrapedAt": "2026-10-04T23:47:43.063Z"
+    "postedAt": "2026-10-05T02:40:11.000Z",
+    "scrapedAt": "2026-10-05T03:50:05.726Z"
   },
   {
-    "id": "arbeitnow:commercial-performance-senior-manager-newcastle-upon-tyne-457240",
-    "externalId": "commercial-performance-senior-manager-newcastle-upon-tyne-457240",
+    "id": "arbeitnow:it-systemadministrator-berlin-398709",
+    "externalId": "it-systemadministrator-berlin-398709",
     "source": "arbeitnow",
-    "title": "Commercial Performance Senior Manager",
-    "company": "Leovegasgroup",
-    "location": "Newcastle Upon Tyne, UK",
+    "title": "IT Systemadministrator (m/w/d)",
+    "company": "ANGEHEUERT GmbH",
+    "location": "Berlin, Berlin, Deutschland",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/commercial-performance-senior-manager-newcastle-upon-tyne-457240",
-    "description": "ABOUT THE ROLE\n BetMGM is one of the fastest-growing brands in the global sports betting and iGaming industry. Backed by the strength of MGM Resorts International and LeoVegas Group, we're bringing the gold standard of entertainment to disrupt the sector. As we scale rapidly, we are building a world-class local team, and performance insights are at the heart of our commercial strategy.\n   The Commercial Performance Analyst is not just a data expert, but a commercial leader with consultancy-level problem-solving skills to join our high-performing RoW analytics function. You will operate across all business functions - from marketing and product to operations and finance - with a clear mission: to understand, optimise, and grow how the business makes money.\n   This role blends deep analytical expertise with strategic advisory capability, delivering insights that shape decision-making, drive revenue, and improve operational efficiency.\n   YOU WILL BE RESPONSIBLE FOR:\n Lead and mentor Commercial Analysts providing guidance and support.\n Act as a strategic partner to functional leaders (Marketing, Product, CRM, Pricing, Risk, Operations, Finance) to identify growth opportunities and operational efficiencies.\n Alongside the regional Performance Director, accountable for reporting on UK portfolio performance to local leadership, Exco and MGM board.\n Analyse end-to-end revenue drivers across acquisition, retention, monetisation, and customer lifetime value.\n Lead consultancy-style problem solving, from scoping questions to prioritising projects, structuring analysis, and delivering clear recommendations. For example: Generosity Optimisation & Strategy, Pricing Strategy (Sports & Casino), Casino Optimisation, Commercial Deal Analysis, Customer Risk Profiling & Optimisation.\n Build and deliver actionable performance insights that directly influence revenue, customer behaviour, and profitability.\n Support the local and group Performance Directors in embedding actionable, data…",
+    "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/it-systemadministrator-berlin-398709",
+    "description": "📍 Berlin | Bezirk Lichtenberg | 2 Tage Home Office\n 💻 Microsoft 365 | Azure | Automatisierung | Digitalisierung\n Du möchtest als zentrale IT Ansprechperson die technische Infrastruktur eines Unternehmens gestalten, weiterentwickeln und automatisieren?\n Dann könnte diese Position genau das Richtige für dich sein.\n Unser Kunde ist ein dynamisch wachsendes E Commerce Unternehmen in Berlin, das mit tausenden Produkten in verschiedenen Kategorien erfolgreich auf digitalen Marktplätzen agiert. Als einer der führenden Händler auf Amazon in Deutschland verbindet das Unternehmen datengetriebene Prozesse mit einem modernen Technologieansatz.\n Für die interne IT wird eine erfahrene Persönlichkeit gesucht, die als fachlich führende IT Person die Microsoft Umgebung verantwortet, technologische Standards setzt und gemeinsam mit den Fachbereichen Geschäftsprozesse automatisiert.\n Deine Benefits\n Attraktive Vergütung: Ein leistungsgerechtes Fixgehalt, das deiner Erfahrung und Qualifikation entspricht.\n Flexibles Arbeiten: Hybrides Arbeitsmodell mit 2 Home-Office Tagen, einer 40-Stunden-Woche, Gleitzeit mit Arbeitsbeginn zwischen 6:00 und 10:00 Uhr.\n Langfristige Sicherheit: Unbefristeter Arbeitsvertrag sowie 30 Urlaubstage in einem wirtschaftlich erfolgreichen und zukunftssicheren Unternehmen.\n Weiterentwicklung: Ob fachlich oder persönlich – deine Entwicklung wird aktiv gefördert und langfristig begleitet.\n Modernes Arbeitsumfeld: Freue dich auf ein modernes Büro im Berliner Bezirk Lichtenberg.\n Mobilität: Ob mit den öffentlichen Verkehrsmitteln oder dem Auto – profitiere von einem bezuschussten Jobticket oder kostenlosen Parkplätzen direkt am Büro.\n Teamkultur: Flache Hierarchien, offene Kommunikation, eine gelebte Du-Kultur und regelmäßige Team- sowie Firmenevents wie „Grill & Chill“ sorgen für ein starkes Miteinander.\n Verpflegung: Kostenlose Getränke sowie frisches Obst stehen dir im Arbeitsalltag jederzeit zur Verfügung.\n Mitarbeitervorteile: Profitiere von attraktiven Mit…",
     "tags": [
-      "Commercial",
-      "Full Time"
+      "Experienced",
+      "fulltime permanent"
     ],
-    "jobType": "Full Time",
-    "postedAt": "2026-10-04T21:40:11.000Z",
-    "scrapedAt": "2026-10-04T23:47:43.063Z"
+    "jobType": "Experienced",
+    "postedAt": "2026-10-05T02:30:07.000Z",
+    "scrapedAt": "2026-10-05T03:50:05.726Z"
+  },
+  {
+    "id": "arbeitnow:senior-customer-success-manager-all-genders-munchen-451982",
+    "externalId": "senior-customer-success-manager-all-genders-munchen-451982",
+    "source": "arbeitnow",
+    "title": "Senior Customer Success Manager (all genders)",
+    "company": "Foodji GmbH",
+    "location": "München, Bayern, Deutschland",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-customer-success-manager-all-genders-munchen-451982",
+    "description": "Als VC-backed Foodtech-Startup schaffen wir den Spagat zwischen gesunder Ernährung, Verfügbarkeit und Nachhaltigkeit. Mit unseren Foodjis bringen wir ultrafrische, leckere Gerichte genau dorthin, wo du die meiste Zeit verbringst – denn wir haben uns zum Ziel gesetzt, über 10 Millionen Arbeitnehmern endlich Zugang zu gesunder Ernährung zu ermöglichen und gleichzeitig Foodwaste zu reduzieren.\n Gestalte das perfekte Foodji-Erlebnis\n Ein großartiges Produkt allein reicht nicht – echte Kundenzufriedenheit entsteht durch starke Beziehungen und einen klaren Blick auf die Entwicklung des Kundenportfolios. Du machst den konkreten Nutzen und Mehrwert von Foodji sichtbar und schaffst damit die Grundlage für langfristige Partnerschaften.\n Deine Mission bei Foodji:\n (Enterprise-) Kund:innen begleitest du von der Testphase über den Vertragsabschluss durch die gesamte Customer Lifetime.\n Für dein Kundenportfolio übernimmst du Verantwortung und sorgst dafür, dass Kund:innen Foodji erfolgreich nutzen, langfristig bleiben, wachsen und uns weiterempfehlen.\n Stabile und vertrauensvolle Beziehungen zu zentralen Entscheider:innen und dezentralen Stakeholdern baust du gezielt auf und entwickelst sie weiter.\n Verantwortung für die Gesundheit und Weiterentwicklung deines Enterprise-Kundenportfolios – von der KPI-basierten Analyse der Account Health bis zur Ableitung gezielter Maßnahmen.\n Vertragsverlängerungen bereitest du aktiv vor und erkennst Kündigungsrisiken frühzeitig – auch wenn sie zunächst nur an einem einzelnen Standort auftreten.\n Steuerung von internen und crossfunktionalen Projekten zur Weiterentwicklung des Customer Success Bereichs.\n DAS BRINGST DU MIT Mindestens drei Jahre Erfahrung im Customer Success Management sowie nachweisbare Erfahrung in der Steuerung von Retention-, Vertragsverlängerungs- und Churn-Kennzahlen über ein Kundenportfolio hinweg.\n Strukturierte, datengetriebene und eigenständige Arbeitsweise mit einem guten Gespür für Kundenbeziehungen sowie der Fähigkei…",
+    "tags": [
+      "Account Management",
+      "Manager",
+      "fulltime permanent"
+    ],
+    "jobType": "Manager",
+    "postedAt": "2026-10-05T02:30:03.000Z",
+    "scrapedAt": "2026-10-05T03:50:05.726Z"
+  },
+  {
+    "id": "arbeitnow:principal-data-engineer-gis-geospatial-hybrid-frankfurt-148651",
+    "externalId": "principal-data-engineer-gis-geospatial-hybrid-frankfurt-148651",
+    "source": "arbeitnow",
+    "title": "Principal Data Engineer (m/w/d) - GIS / Geospatial",
+    "company": "Alexander Thamm Gmbh",
+    "location": "Hybrid (Frankfurt)",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-data-engineer-gis-geospatial-hybrid-frankfurt-148651",
+    "description": "Startdatum Wir suchen Dich ab sofort  an einem unserer deutschen Standorte in München, Nürnberg, Frankfurt am Main, Essen, Leipzig oder Berlin !\n Deine Aufgaben Data  und AI sind Dein zu Hause? Deine neue Herausforderung gestaltet sich wie folgt: Konzeption und Entwicklung moderner Lösungen für die Verwaltung, Verarbeitung und Integration von Geodaten Gestaltung von Datenarchitekturen und Datenmodellen für komplexe GIS-, 3D- und Infrastruktur-Daten Entwicklung und Optimierung von Datenintegrations- und Transformationsprozessen mit Technologien wie ArcGIS und FME Beratung unserer Kunden bei der Auswahl und Weiterentwicklung geeigneter GIS-, Datenbank- und Systemarchitekturen Analyse von Anforderungen und Übersetzung dieser in technische Zielbilder, Schnittstellen und Lösungskonzepte Begleitung von Proof-of-Concepts, technischen Validierungen und der Überführung von Lösungen in den produktiven Betrieb Moderation von Workshops und adressatengerechte Kommunikation technischer Zusammenhänge gegenüber Kunden und Stakeholdern Übernahme fachlicher Verantwortung in Projekten und aktive Einbringung Deiner Expertise in unsere Engineering Community\n Dein Profil Data ist in Deiner  DNA ? Das solltest Du mitbringen:  Ein erfolgreich abgeschlossenes Studium der Informatik, Geoinformatik, Data Engineering, Geodäsie oder einer vergleichbaren Fachrichtung bildet die Grundlage Mehrjährige Berufserfahrung in Data Engineering, GIS, Geodatenmanagement oder einem vergleichbaren technischen Umfeld bringst Du mit Im Umgang mit Esri ArcGIS verfügst Du über sehr gute Kenntnisse, idealerweise mit ArcGIS Pro und ArcGIS Enterprise Praktische Erfahrung mit FME zur Transformation, Integration und Verarbeitung von Geodaten gehört zu Deinem Profil Sehr gute Kenntnisse in relationalen und räumlichen Datenbanken, insbesondere PostgreSQL/PostGIS, zeichnen Dich aus Fundierte Kenntnisse in Geodatenmodellen, Georeferenzierung, Koordinatensystemen und räumlichen Datenverarbeitungsprozessen runden Dein fac…",
+    "tags": [
+      "Data Engineer",
+      "Data Engineering",
+      "Senior Data Engineer",
+      "Principal Data Engineer",
+      "Data Engineer Consulting",
+      "Data Engineering Consulting",
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-10-05T02:09:57.000Z",
+    "scrapedAt": "2026-10-05T03:50:05.726Z"
   }
 ]
