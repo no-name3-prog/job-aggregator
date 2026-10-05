@@ -200,28 +200,6 @@
     ]
   },
   {
-    "company": "Workday",
-    "jobCount": 3,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Poland, Warsaw",
-      "2 Locations",
-      "Ireland, Dublin"
-    ],
-    "sampleTitles": [
-      "Data Engineer",
-      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
-      "Data Platform Engineer - Cybersecurity"
-    ],
-    "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Poland-Warsaw/Data-Engineer_JR-0110295-1",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
-    ]
-  },
-  {
     "company": "Brex",
     "jobCount": 2,
     "sources": [
@@ -353,6 +331,25 @@
     ]
   },
   {
+    "company": "Workday",
+    "jobCount": 2,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Poland, Warsaw",
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Data Engineer",
+      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME"
+    ],
+    "officialUrls": [
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Poland-Warsaw/Data-Engineer_JR-0110295-1",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830"
+    ]
+  },
+  {
     "company": "Airbnb",
     "jobCount": 1,
     "sources": [
@@ -366,22 +363,6 @@
     ],
     "officialUrls": [
       "https://careers.airbnb.com/positions/8224032?gh_jid=8224032"
-    ]
-  },
-  {
-    "company": "Alexander Thamm Gmbh",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Hybrid (Frankfurt)"
-    ],
-    "sampleTitles": [
-      "Principal Data Engineer (m/w/d) - GIS / Geospatial"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-data-engineer-gis-geospatial-hybrid-frankfurt-148651"
     ]
   },
   {
@@ -417,19 +398,19 @@
     ]
   },
   {
-    "company": "Lrz",
+    "company": "Market Cloud",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Garching bei München"
+      "Eschborn"
     ],
     "sampleTitles": [
-      "Data Platform Engineer (f/m/d)  for the European AI Factory HammerHAI"
+      "Data Engineer"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/lrz/data-platform-engineer-for-the-european-ai-factory-hammerhai-garching-bei-munchen-110447"
+      "https://www.arbeitnow.com/jobs/companies/market-cloud/data-engineer-eschborn-236274"
     ]
   },
   {
@@ -510,22 +491,6 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8112043"
-    ]
-  },
-  {
-    "company": "Thermondo",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Berlin (Zentrale)"
-    ],
-    "sampleTitles": [
-      "Working Student Analytics Engineering (f/m/x)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/thermondo/working-student-analytics-engineering-berlin-zentrale-183852"
     ]
   }
 ]
