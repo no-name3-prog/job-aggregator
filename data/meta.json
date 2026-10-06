@@ -1,7 +1,7 @@
 {
-  "lastRunAt": "2026-10-06T12:41:33.264Z",
-  "durationMs": 49271,
-  "totalJobs": 3354,
+  "lastRunAt": "2026-10-06T19:58:21.196Z",
+  "durationMs": 53446,
+  "totalJobs": 3347,
   "sources": [
     {
       "source": "remotive",
@@ -25,8 +25,8 @@
     },
     {
       "source": "greenhouse",
-      "fetched": 1955,
-      "kept": 1955
+      "fetched": 1949,
+      "kept": 1949
     },
     {
       "source": "workday",
@@ -35,8 +35,8 @@
     },
     {
       "source": "lever",
-      "fetched": 76,
-      "kept": 76
+      "fetched": 75,
+      "kept": 75
     },
     {
       "source": "ashby",
