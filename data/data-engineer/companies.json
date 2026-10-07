@@ -35,23 +35,23 @@
     "locations": [
       "4 Locations",
       "India - Hyderabad",
-      "Ireland - Dublin",
-      "Mexico - Mexico City"
+      "Mexico - Mexico City",
+      "Ireland - Dublin"
     ],
     "sampleTitles": [
       "Data Engineer (SMTS / LMTS) - MDM",
       "Senior Director, Data Engineering - Slack",
       "Senior Data Engineer",
-      "Data Engineering Senior Associate",
       "Senior Data Engineer",
-      "PMTS - Principal Agentic Data Engineer"
+      "PMTS - Principal Agentic Data Engineer",
+      "Data Engineering Senior Associate"
     ],
     "officialUrls": [
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Data-Engineer--SMTS---LMTS----MDM_JR347388",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Director--Data-Engineering---Slack_JR361288-1",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Data-Engineer_JR353458",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657"
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
     ]
   },
   {
@@ -303,25 +303,6 @@
     ]
   },
   {
-    "company": "Pinterest",
-    "jobCount": 2,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "San Francisco, CA, Seattle, WA, US; New York, NY,US; Remote;US",
-      "San Francisco, CA, US; Remote, US"
-    ],
-    "sampleTitles": [
-      "Sr. Software Engineer, Data Analytics Engineering",
-      "Sr. Technical Program Manager, Data Engineering"
-    ],
-    "officialUrls": [
-      "https://www.pinterestcareers.com/jobs/?gh_jid=8259517",
-      "https://www.pinterestcareers.com/jobs/?gh_jid=8209014"
-    ]
-  },
-  {
     "company": "Spotify",
     "jobCount": 2,
     "sources": [
@@ -376,22 +357,6 @@
     ]
   },
   {
-    "company": "Haeger Consulting GmbH",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Bonn"
-    ],
-    "sampleTitles": [
-      "Data Engineer – Schwerpunkt Infrastruktur & Plattform*"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/haeger-consulting-gmbh/data-engineer-schwerpunkt-infrastruktur-plattform-bonn-138456"
-    ]
-  },
-  {
     "company": "Instacart",
     "jobCount": 1,
     "sources": [
@@ -424,22 +389,6 @@
     ]
   },
   {
-    "company": "Lemrock",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Paris (hybrid)"
-    ],
-    "sampleTitles": [
-      "Analytics Engineer (Contract)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/lemrock/analytics-engineer-contract-paris-474208"
-    ]
-  },
-  {
     "company": "Linear",
     "jobCount": 1,
     "sources": [
@@ -456,19 +405,35 @@
     ]
   },
   {
-    "company": "Qonto",
+    "company": "Pinterest",
+    "jobCount": 1,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "San Francisco, CA, US; Remote, US"
+    ],
+    "sampleTitles": [
+      "Sr. Technical Program Manager, Data Engineering"
+    ],
+    "officialUrls": [
+      "https://www.pinterestcareers.com/jobs/?gh_jid=8209014"
+    ]
+  },
+  {
+    "company": "Reeeliance",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Paris"
+      "Hamburg"
     ],
     "sampleTitles": [
-      "Data Engineering Intern"
+      "Junior Data Engineer"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/qonto/data-engineering-intern-paris-415281"
+      "https://www.arbeitnow.com/jobs/companies/reeeliance/junior-data-engineer-hamburg-366163"
     ]
   },
   {
@@ -520,35 +485,19 @@
     ]
   },
   {
-    "company": "wolt",
+    "company": "Voize",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "London"
+      "Berlin"
     ],
     "sampleTitles": [
-      "Manager - Tax Data Analytics Engineer"
+      "Senior Analytics Engineer (f/m/d)"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/wolt/manager-tax-data-analytics-engineer-london-321690"
-    ]
-  },
-  {
-    "company": "wppmedia",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Data Engineer - GCP"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/data-engineer-gcp-london-267597"
+      "https://www.arbeitnow.com/jobs/companies/voize/senior-analytics-engineer-berlin-174871"
     ]
   }
 ]
