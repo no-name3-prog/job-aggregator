@@ -1,7 +1,7 @@
 {
-  "lastRunAt": "2026-10-06T19:58:21.196Z",
-  "durationMs": 53446,
-  "totalJobs": 3347,
+  "lastRunAt": "2026-10-07T00:21:06.204Z",
+  "durationMs": 55925,
+  "totalJobs": 3345,
   "sources": [
     {
       "source": "remotive",
@@ -25,8 +25,8 @@
     },
     {
       "source": "greenhouse",
-      "fetched": 1949,
-      "kept": 1949
+      "fetched": 1947,
+      "kept": 1947
     },
     {
       "source": "workday",
