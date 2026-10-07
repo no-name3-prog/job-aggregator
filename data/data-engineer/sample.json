@@ -1,5 +1,39 @@
 [
   {
+    "id": "arbeitnow:data-engineer-schwerpunkt-infrastruktur-plattform-bonn-138456",
+    "externalId": "data-engineer-schwerpunkt-infrastruktur-plattform-bonn-138456",
+    "source": "arbeitnow",
+    "title": "Data Engineer – Schwerpunkt Infrastruktur & Plattform*",
+    "company": "Haeger Consulting GmbH",
+    "location": "Bonn",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/haeger-consulting-gmbh/data-engineer-schwerpunkt-infrastruktur-plattform-bonn-138456",
+    "description": "Was dich erwartet\n Du baust lieber stabile, skalierbare Datenplattformen als nur einzelne Pipelines?\nCloud, Automatisierung und saubere Architekturen sind genau dein Ding? Dann passt diese Rolle perfekt zu dir.\n Du arbeitest im Consulting-Umfeld und setzt für unterschiedliche Kunden immer wieder neue, spannende Datenprojekte um.\n Du konzipierst, baust und betreibst moderne Datenplattformen in AWS, Azure oder GCP und automatisierst Infrastruktur konsequent mit Terraform.\n Du entwickelst und betreibst Lakehouse- und Data-Warehouse-Architekturen (z. B. Iceberg, Delta Lake) und integrierst und betreibst Streaming-Architekturen, z. B. mit Kafka.\n Du arbeitest mit Plattformen wie Snowflake und/oder Databricks und stellst Stabilität, Sicherheit und Skalierbarkeit sicher.\n Du verantwortest CI/CD, Monitoring, Testing und Observability für Datenplattformen und optimierst Performance und Kosten datenintensiver Systeme.\n Was du mitbringst\n Du bringst mehrjährige Berufserfahrung als Data Engineer oder in einer vergleichbaren Rolle mit – idealerweise im Consulting- oder Projektumfeld.\n Du verfügst über sehr gute SQL-Kenntnisse und hast fundierte Erfahrung in der Datenmodellierung (z. B. dimensionale Modellierung, Data Vault, Normalisierung &#x26; Denormalisierung).\n Du kennst Streaming-Architekturen, z. B. mit Kafka und arbeitest sicher mit modernen Datenplattformen wie Databricks und/oder Snowflake sowie mit dbt und Airflow oder vergleichbaren Orchestrierungstools.\n Du hast ein sehr gutes Verständnis für Datenarchitekturen, insbesondere Lakehouse- und Data-Warehouse-Ansätze, und kannst diese konzipieren, weiterentwickeln und betreiben.\n Du bringst Erfahrung im Aufbau und Betrieb von Cloud-basierten Datenplattformen in AWS, Azure oder GCP mit und automatisierst Infrastruktur idealerweise mit Terraform.\n Du hast Praxis in CI/CD, Monitoring, Testing und Observability im Umfeld von Datenplattformen.\n Deine Erfahrung mit Spark / PySpark, Python oder Trino / Presto ist von Vorteil, a…",
+    "tags": [
+      "Software Development",
+      "berufserfahren"
+    ],
+    "jobType": "berufserfahren",
+    "postedAt": "2026-10-07T05:30:57.000Z",
+    "scrapedAt": "2026-10-07T09:44:07.480Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-gcp-london-267597",
+    "externalId": "data-engineer-gcp-london-267597",
+    "source": "arbeitnow",
+    "title": "Data Engineer - GCP",
+    "company": "wppmedia",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/data-engineer-gcp-london-267597",
+    "description": "<div class=\"content-intro\"><p><strong>About WPP Media</strong></p>\n<p>WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigate change, capture opportunity, and deliver transformational growth. </p>\n<p>WPP Media is WPP's AI-driven media operating unit, bringing together media, data, and partnerships to deliver creative personalisation at scale. Connected through WPP Open and powered by Open Intelligence, clients see exactly where, how, and why their media investment is working.</p>\n<p>For more information, visit <a href=\"wppmedia.com\">wppmedia.com</a>.</p></div><h3>1608 - Data Engineer - GCS</h3>\n<p><strong>Role Summary and Impact</strong></p>\n<p>We are looking for a skilled and motivated Data Engineer to join our global team. You are a hands-on builder who is passionate about creating robust, scalable data solutions that solve real-world problems. You will be a key contributor to the team, responsible for designing, developing, and maintaining the data pipelines and infrastructure that are the foundation of our analytics products. In return providing value to our clients.</p>\n<p>Working closely with the VP of custom reporting and other engineers in the team, you will execute the technical roadmap, transforming complex business requirements into high-quality, reliable data assets. If you thrive on turning massive datasets into actionable intelligence and enjoy working with cutting-edge cloud technologies, this role is for you.</p>\n<p><strong>KEY RESPONSIBILITIES</strong></p>\n<ul>\n<li><strong>Design, build, and maintain</strong> scalable and reliable data pipelines and infrastructure, primarily using Google Cloud Platform (GCP) services like BigQuery and Cloud Storage, and Snowflake.</li>\n<li><strong>Develop, test, and deploy</strong> data transformation logic using SQL and DBT (da…",
+    "tags": [
+      "Technology & Data"
+    ],
+    "postedAt": "2026-10-07T00:55:09.000Z",
+    "scrapedAt": "2026-10-07T09:44:07.480Z"
+  },
+  {
     "id": "arbeitnow:analytics-engineer-contract-paris-474208",
     "externalId": "analytics-engineer-contract-paris-474208",
     "source": "arbeitnow",
@@ -15,7 +49,7 @@
     ],
     "jobType": "Contract",
     "postedAt": "2026-10-06T22:40:12.000Z",
-    "scrapedAt": "2026-10-07T00:21:07.065Z"
+    "scrapedAt": "2026-10-07T09:44:07.480Z"
   },
   {
     "id": "arbeitnow:manager-tax-data-analytics-engineer-london-321690",
@@ -31,96 +65,7 @@
       "Wolt Tax"
     ],
     "postedAt": "2026-10-06T21:55:13.000Z",
-    "scrapedAt": "2026-10-07T00:21:07.065Z"
-  },
-  {
-    "id": "arbeitnow:head-of-data-engineering-london-100247",
-    "externalId": "head-of-data-engineering-london-100247",
-    "source": "arbeitnow",
-    "title": "Head of Data Engineering",
-    "company": "Quantum",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/head-of-data-engineering-london-100247",
-    "description": "Our Company\n At Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.\n Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison service, delivering value and simplicity to millions.\n We drive growth through data-driven affiliate marketing built for performance from day one. Every campaign is measurable, optimised in real time, and designed to scale.\n With in-house tech, full-stack analytics, and a compliance-first mindset, we give our partners an edge. We drive confident decisions and growth in regulated and high-growth sectors. We’ve helped ambitious brands grow faster, smarter, and globally.\n The Role\n Our Data Engineering team is growing! We're looking for a Head of Data Engineering to join our team in London.\n In this role you will lead the data engineering team that powers the Quantum Platform, own the technical strategy and delivery roadmap for our data infrastructure, and turn business ambition into intelligence that scales.\n Key Responsibilities\n Build, lead and develop a high-performing data engineering team, recruiting and retaining engineers who take pride in what they ship and how it performs\n Set and own the data engineering technical strategy, so our data infrastructure scales with the business\n Lead the delivery roadmap, meeting business objectives and making well-reasoned trade-offs where they are needed\n Partner with product, marketing, commercial and executive leadership to shape data priorities that move business performance\n Set the technical bar and drive adoption of AI-led development across the function, staying close to the code where it counts\n About You\n Proven experience leading and developing data engineering teams, setting direction and building capability\n A track record of delivering data platforms that drove real customer and business results\n Hands-on technical credibility: you enjoy getting into the deta…",
-    "tags": [
-      "Technology",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-10-06T21:40:08.000Z",
-    "scrapedAt": "2026-10-07T00:21:07.065Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-real-time-analytics-london-office-25569",
-    "externalId": "senior-data-engineer-real-time-analytics-london-office-25569",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer - Real time analytics",
-    "company": "Aircall",
-    "location": "London Office",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-25569",
-    "description": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI together into one seamless workspace.\n Our momentum comes from a simple idea: help teams work smarter, not harder. Aircall’s AI Voice Agent automates routine calls, AI Assist streamlines post-call work, and AI Assist Pro delivers real-time guidance so people can do their best work. The result is higher revenue, faster resolutions, and teams that scale with confidence.\n Aircall is headquartered in Paris, our European HQ, with a strong North American presence anchored in Seattle, our North American HQ, and teams across Madrid, London, Berlin, San Francisco, New York City, Sydney, and Mexico City. We’ve built a product customers love and a business that’s scaling quickly, backed by world-class investors and driven by rapid AI innovation across multiple product lines. At Aircall, you’ll join a company in motion. We’re ambitious, product-driven, and execution-focused, with visible impact, fast decisions, and real growth.\n How we work at Aircall: We’re customer-obsessed, data-driven, and focused on delivering meaningful outcomes. We value ownership, continuous learning, and thoughtful speed. If you thrive in a collaborative, fast-moving environment where trust and impact matter, you’ll feel at home here.\n We are looking for an engaged and passionate Senior Data Engineer to join our growing Engineering Team. In this role, you will be a key member of the team managing our analytics and event platform stack.\n As part of the Analytics & Data Platform team, you will build features for over 22,000 customers across the globe. Your work will unlock the value of data, empowering our customers to make informed decisions through real-time insights, monitoring, and comprehensive analytical reports.\n Your role at Aircall\n Have key…",
-    "tags": [
-      "13001 - Engineering",
-      "Permanent Full Time Employee"
-    ],
-    "jobType": "Permanent Full Time Employee",
-    "postedAt": "2026-10-06T21:05:00.000Z",
-    "scrapedAt": "2026-10-07T00:21:07.065Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-senior-consultant-hybrid-newcastle-edinburgh-glasgow-leeds-manchester-birmingham-bristol-london-127299",
-    "externalId": "data-engineer-senior-consultant-hybrid-newcastle-edinburgh-glasgow-leeds-manchester-birmingham-bristol-london-127299",
-    "source": "arbeitnow",
-    "title": "Data Engineer - Senior Consultant",
-    "company": "Opencast",
-    "location": "Hybrid - Newcastle, Edinburgh, Glasgow, Leeds, Manchester, Birmingham, Bristol, London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/opencast/data-engineer-senior-consultant-hybrid-newcastle-edinburgh-glasgow-leeds-manchester-birmingham-bristol-london-127299",
-    "description": "Ready to build data platforms, not just pipelines?\n At Opencast, we believe great data engineering is about more than moving and transforming data. It's about creating reliable, scalable foundations that help organisations make better decisions and deliver better services.\n Our consultants tackle complex engineering challenges across integration, migration, modelling and platform design, working with Microsoft Fabric, Azure and modern data technologies. We value engineering craft, thoughtful problem-solving and building solutions that are simple, robust and built to last.\n As our data engineering capability continues to grow, you'll have the opportunity to influence its direction through delivery, mentoring, recruitment and technical leadership. If you're looking for a role where you can shape both solutions and the capability around them, we'd love to hear from you.\n The role\n Opencast data engineers help organisations transform how they manage, use and learn from data. The work ranges from building modern lakehouse and warehouse platforms in Microsoft Fabric to modernising legacy environments, migrating complex workloads and improving the quality, governance and reliability of critical data services.\n This role offers the opportunity to work across the full data lifecycle, combining platform design, engineering, integration and optimisation. Expect to work with structured, semi-structured and unstructured data, building batch and near real-time data pipelines that underpin critical business and public services.\n You'll collaborate with architects, analysts, software engineers and client teams to solve complex challenges and influence technical direction. The role also offers opportunities to contribute beyond delivery through mentoring, recruitment, community building and helping to define engineering standards and best practice as our capability continues to grow.\n Requirements\n This role involves weekly on-site work, and you’ll be required to travel regularly t…",
-    "tags": [
-      "Data engineering",
-      "Permanent - Employee"
-    ],
-    "jobType": "Permanent - Employee",
-    "postedAt": "2026-10-06T21:04:24.000Z",
-    "scrapedAt": "2026-10-07T00:21:07.065Z"
-  },
-  {
-    "id": "arbeitnow:manager-tax-data-analytics-engineer-berlin-154947",
-    "externalId": "manager-tax-data-analytics-engineer-berlin-154947",
-    "source": "arbeitnow",
-    "title": "Manager - Tax Data Analytics Engineer",
-    "company": "wolt",
-    "location": "Berlin",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/wolt/manager-tax-data-analytics-engineer-berlin-154947",
-    "description": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2>\n<p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we’re building the delivery of (almost) everything and you’ll find us in over 500 cities in 30 countries around the world. In 2022 we joined forces with DoorDash and together we keep on dreaming big and expanding across the globe.<br><br>Working at Wolt isn’t always easy, but it’s definitely exciting. Here you’ll learn more, build more, and ship more than in most other companies. You’ll be challenged a lot, but also have a lot of fun on the way. So, if you’re a self-starter with drive and entrepreneurial spirit, this could be the ride of your life.</span></p></div><p>We are looking for an experienced Data Analytics Engineer to join our growing Tax Data Mart team. This role will be a key contributor to the team and will be responsible for building the tax data operations function for our Deliveroo and Wolt legal entities.&nbsp; This includes building and operating the data pipelines and infrastructure that power tax analytics and support decision-making across the company.</p>\n<p>As DoorDash continues to grow its global footprint across multiple business lines, we are looking for a candidate with experience working with Tax teams to gather requirements, and designing scalable data processes to support them.. This person will grow our unique community via your blend of tax, data technology, and process improvement experience.</p>\n<h2><strong>About the Role</strong></h2>\n<p>You will be reporting to the Senior Manager of Tax Data &amp; Operations, and play an integral role in DoorDash’s data function, owning the processes for ingesting, transforming, and controlling our data, ensuring accuracy, and making it available to analytics and business users.</p>\n<p>As a member of this team, you will lead the…",
-    "tags": [
-      "Wolt Tax"
-    ],
-    "postedAt": "2026-10-06T20:55:09.000Z",
-    "scrapedAt": "2026-10-07T00:21:07.065Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-azure-databricks-frankfurt-401851",
-    "externalId": "senior-data-engineer-azure-databricks-frankfurt-401851",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer (Azure Databricks)",
-    "company": "Callista Group AG",
-    "location": "Frankfurt, Hessen, Germany",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/callista-group-ag/senior-data-engineer-azure-databricks-frankfurt-401851",
-    "description": "Für unseren Kunden, ein Versicherungsunternehmen im Großraum Frankfurt am Main, suchen wir im Rahmen des Aufbaus einer neuen dispositiven Datenplattform (Lakehouse) auf Basis von Microsoft Azure und Databricks zwei erfahrene Data Engineers. Du baust die Datenstrecken von den Quellsystemen bis in das Core-Modell und übernimmst dabei die technische Federführung in der Umsetzung. Du arbeitest im Tandem mit Mitarbeitenden des Kunden und gibst dein Databricks-Know-how aktiv weiter.\n Aufgaben\n Anbindung von Quellsystemen und externen Dienstleistern (Delta-Lieferungen, Dateien, APIs) sowie eines CRM-Systems inklusive automatisierter Ladeprozesse\n Entwicklung von ETL/ELT-Strecken mit Delta-Verarbeitung, Fehlerbehandlung und nachvollziehbaren Wiederanlaufverfahren\n Umsetzung der Dublettenbereinigung und Zusammenführung von Kunden- und Vermittlerdaten\n Implementierung des Core-Datenmodells mit Historisierung entlang der Medallion-Architektur (Databricks, PySpark, SQL)\n Umsetzung von Datenqualitätsregeln, Prüfroutinen, Monitoring und Alerting\n Bereitstellung von Exporten und Rückflüssen an operative Systeme (z. B. Kampagnenselektionen für das CRM)\n Mitarbeit an Entwicklungspipeline und CI/CD, Rollen und Berechtigungen, Data Catalog und Lineage\n Dokumentation, Runbooks und Wissenstransfer im Tandem mit dem Kundenteam\n Anforderungen\n Mehrjährige Erfahrung als Data Engineer, idealerweise im Aufbau von Data-Warehouse- oder Lakehouse-Lösungen\n Sehr gute Kenntnisse in Databricks, PySpark/Spark, SQL und Delta Lake\n Praxis mit Databricks Workflows bzw. Azure Data Factory und weiteren Azure-Datenservices\n Erfahrung in Datenmodellierung und Historisierung (Data Vault und/oder dimensionale Modellierung)\n Kenntnisse in Git, CI/CD und automatisiertem Testing von Datenpipelines\n Erfahrung mit KI-gestützter Entwicklung (z. B. Coding-Assistenten, agentische Workflows) von Vorteil\n Erfahrung mit Quellsystemen und Daten im Versicherungsumfeld von Vorteil\n Freude an Wissensvermittlung und Zusam…",
-    "tags": [
-      "Engineering",
-      "Experienced",
-      "contract"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-10-06T20:30:23.000Z",
-    "scrapedAt": "2026-10-07T00:21:07.065Z"
+    "scrapedAt": "2026-10-07T09:44:07.480Z"
   },
   {
     "id": "arbeitnow:ai-first-data-engineer-zurich-402283",
@@ -145,7 +90,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-10-06T20:09:48.000Z",
-    "scrapedAt": "2026-10-07T00:21:07.065Z"
+    "scrapedAt": "2026-10-07T09:44:07.480Z"
   },
   {
     "id": "greenhouse:pinterest-8259517",
@@ -161,7 +106,7 @@
       "Core Engineering"
     ],
     "postedAt": "2026-10-06T18:33:52.000Z",
-    "scrapedAt": "2026-10-07T00:21:08.378Z"
+    "scrapedAt": "2026-10-07T09:44:08.006Z"
   },
   {
     "id": "arbeitnow:data-engineering-intern-paris-415281",
@@ -179,6 +124,54 @@
     ],
     "jobType": "Internship",
     "postedAt": "2026-10-06T16:24:42.000Z",
-    "scrapedAt": "2026-10-07T00:21:07.065Z"
+    "scrapedAt": "2026-10-07T09:44:07.480Z"
+  },
+  {
+    "id": "greenhouse:airbnb-8249633",
+    "externalId": "airbnb:8249633",
+    "source": "greenhouse",
+    "title": "Senior Analytics Engineer, Airbnb.org",
+    "company": "Airbnb",
+    "location": "United States",
+    "remote": false,
+    "url": "https://careers.airbnb.com/positions/8249633?gh_jid=8249633",
+    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n The Community You Will Join:\n In December 2020 Airbnb launched Airbnb.org, a non-profit organization that builds on a long history of connecting people in times of crisis to safe, comfortable places to stay. This work began at Airbnb in 2012, when a Host named Shell reached out wanting to offer her home for free to those impacted by Hurricane Sandy in New York City. Since then, Airbnb - and now Airbnb.org - has helped provide safe housing for over 250,000 people to date in response to hundreds of emergency events around the world including hurricanes, wildfires, refugee crises, and a global pandemic. The Airbnb.org team within Airbnb works in support of the Airbnb.org non-profit and partners with Hosts, nonprofit organizations, emergency management agencies and governments to provide stays to people around the world in times of crisis, and has announced a series of commitments to diversity, equity and inclusion including centering marginalized communities in its work and in team composition.\n The Difference You Will Make:\n Airbnb.org operates like a small startup inside Airbnb. Our data team is lean, the problems are new, and there is no established playbook for most of what we do. That means your ingenuity and autonomy are welcome and you will have the room to decide what to build and how, to experiment, and to shape the way a growing, mission-driven organization uses data.\n Analytics Engineers build the data foundation for the whole team - which translates to impact on all stakeholders with insights, analysis and experimentation. As a Senior Analytics Engineer, you will own major projects that build out the…",
+    "tags": [
+      "Data Science"
+    ],
+    "postedAt": "2026-10-05T16:34:11.000Z",
+    "scrapedAt": "2026-10-07T09:44:08.006Z"
+  },
+  {
+    "id": "greenhouse:block-5440102008",
+    "externalId": "block:5440102008",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer, Product",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "remote": false,
+    "url": "http://block.xyz/careers/jobs/5440102008?gh_jid=5440102008",
+    "description": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.\nToday, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.\n The Role\n As a Data Engineer, you will handle everything from data architecture and modeling to data pipeline tooling and dashboarding. You will enable a range of other engineering and business teams to make impactful business decisions by laying the foundation of our large and unique datasets that span across multiple products. This role will support the product data engineering team.\n The Product Data Engineering Team at Block builds and maintains the curated data foundation that powers all of Block's product lines — Cash App, Square, Afterpay, and Tidal. We transform raw event streams, transactional systems, and operational data into governed, tested, and reliable analytical assets across domains including banking, lending, commerce, investing, checkout, and AI assistants. We partner with Product, Engineering, Data Science, Machine Learning, and Applied AI teams to deliver the metrics, experimentation frameworks, and ML-ready datasets that enable Block's products to grow, improve, and serve customers at scale.\n You Will\n Lead the creation and optimization of data models…",
+    "tags": [
+      "10109 Risk - Risk ML & DS"
+    ],
+    "postedAt": "2026-10-01T21:06:06.000Z",
+    "scrapedAt": "2026-10-07T09:44:08.006Z"
+  },
+  {
+    "id": "greenhouse:block-5434325008",
+    "externalId": "block:5434325008",
+    "source": "greenhouse",
+    "title": "Senior Analytics Engineer, AI & DX Analytics",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "remote": false,
+    "url": "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
+    "description": "Block builds simple, powerful tools that make progress towards an economy that’s truly open to all.\n Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Join us.\n The Role\n The AI & DX (Developer Experience) Analytics team exists to measure and improve Block's developer experience and investment in AI. We turn raw engineering signals (agent session data, pull request and CI activity, and AI spend) into reporting and analysis that shape leadership's AI investment decisions, and drive improvement in AI ROI and developer experience. Your work will be the trusted source of truth that engineers and executives use to decide where AI investment is working and where to redirect it.\n We're hiring a Senior Analytics Engineer to own parts of that pipeline end to end. This is a broad, high-visibility role with a lot of white space: you will instrument new telemetry at the source and build production pipelines that turn it into governed data, then turn that governed data into executive-facing reporting and the analysis that surfaces concrete opportunities to improve AI ROI and developer experience. You'll also help pioneer one of the most consequential open problems in the industry right now: measuring the productivity impact of an increasingly AI- and agent-augmented engineering workforce, where there is no textbook answer and real room to set the standard. You'll define new metrics and craft the visual narrative — the charts, dashboards, and presentation materials — that make them land with…",
+    "tags": [
+      "10410 Engineering - Developer Experience"
+    ],
+    "postedAt": "2026-09-24T17:40:25.000Z",
+    "scrapedAt": "2026-10-07T09:44:08.006Z"
   }
 ]
