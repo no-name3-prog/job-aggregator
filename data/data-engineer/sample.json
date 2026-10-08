@@ -1,40 +1,26 @@
 [
   {
-    "id": "arbeitnow:senior-analytics-engineer-berlin-174871",
-    "externalId": "senior-analytics-engineer-berlin-174871",
+    "id": "arbeitnow:data-engineer-germany-munich-455456",
+    "externalId": "data-engineer-germany-munich-455456",
     "source": "arbeitnow",
-    "title": "Senior Analytics Engineer (f/m/d)",
-    "company": "Voize",
-    "location": "Berlin",
+    "title": "Data Engineer",
+    "company": "Bookboost",
+    "location": "Germany - Munich",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/voize/senior-analytics-engineer-berlin-174871",
-    "description": "🎤 Why voize? Because we’re more than just a job! At voize, we believe the greatest gift to frontline workers is time - time to care, connect, and be present. Today, that time is lost to busywork and complex systems that pull them away from what matters most: people .\n Our vision is to change that by building AI companions that seamlessly take over digital workflows. We don’t replace humans with technology - we amplify their impact.\n Our mission is backed with a $50M Series A funding led by Balderton Capital, with support from HV Capital, Y Combinator and other leading VCs. Today, 2,000+ facilities trust voize, and over 200,000 users rely on our AI companion to ease their daily workload.\n As a dynamic team, we combine first-in-class technology with meaningful social impact. And now, we’re looking for you to join us on this mission!\n 💡 Your Mission: One source of truth for a company that runs on data As Senior Analytics Engineer , you own voize's company data from the warehouse to the dashboards. You'll be part of our Data & AI function - ensuring the data voize and our AI layer runs on are reliable, safe & scalable. The modern stack (Redshift, dbt, Fivetran, Lightdash) is already live: you make it rock-solid and turn it into the single source of truth the whole company runs on, from ARR to product adoption. As our first dedicated analytics hire, you partner directly with Finance, RevOps, Product, and Customer Success, turning their questions into numbers everyone trusts.\n 🚀 Your Daily Business - No two days are alike Model company data in dbt on Redshift: layered, tested, documented models built to outlive you\n Ship and run the company KPI dashboard in Lightdash, plus self-serve analytics for every team\n Own metric modeling and propose the definitions the whole company runs on. Sign-off sits with data leadership, and you make every number defensible\n Keep the ingestion layer running day to day (Fivetran connectors, existing ETL jobs), in close coordination with e…",
+    "url": "https://www.arbeitnow.com/jobs/companies/bookboost/data-engineer-germany-munich-455456",
+    "description": "Your mission Bookboost is the Hospitality Engagement Platform that empowers hotels to understand and engage their guests like never before. We unify guest data, automate personalised communication, and deliver experiences that drive revenue, loyalty, and operational excellence.\n We have customers across more than 20 countries and a platform that wins on depth. As we scale, the volume and importance of our data is growing fast, and we're looking for a Data Engineer to build the infrastructure that keeps up.\n Your profile You'll design and build the data infrastructure that carries Bookboost from hundreds of gigabytes to terabytes of guest data, moving, transforming and making it available to our frontend application and our machine learning and AI pipelines.\n This is a role with real scope. You'll work with the latest technologies on hospitality-industry-first use cases spanning both analytics and machine learning, and you'll have genuine ownership of how our data platform is designed rather than implementing someone else's blueprint.\n If you want to be handed narrow tickets and left alone, this is not that job. If you want to shape the data foundation the whole product runs on, it's a good one. What you'll own and deliver Scalable data pipelines and infrastructure, designed and built alongside Product and Engineering Data pipelines for ingestion, transformation and storage at high scale, deployed and monitored end to end Tools and abstractions on top of the data infrastructure for analytics, recommendations and machine learning Data orchestration and streaming pipelines Reusable data resources and design patterns, built in close collaboration with product teams What makes you a great fit? Data engineering depth: 4+ years of industry experience, with production systems you have owned rather than contributed to Programming and processing: strong engineering skills, ideally with distributed data processing (AWS, PySpark) Scale: strong quantitative skills and experienc…",
     "tags": [
-      "Operations",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-10-07T14:40:08.000Z",
-    "scrapedAt": "2026-10-07T18:22:58.197Z"
-  },
-  {
-    "id": "arbeitnow:junior-data-engineer-hamburg-366163",
-    "externalId": "junior-data-engineer-hamburg-366163",
-    "source": "arbeitnow",
-    "title": "Junior Data Engineer",
-    "company": "Reeeliance",
-    "location": "Hamburg",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/reeeliance/junior-data-engineer-hamburg-366163",
-    "description": "About the role Data is undeniably one of the world's most valuable resources. However, it's futile if it's not in the right place or the right setup. We strive to place data where it's needed most and can be used to its fullest potential.\n Become a valued member of our data integration team and start your journey building scalable data architectures and fast data pipelines for our multinational clients. Our use cases range from data warehouse and lakehouse architecture implementations over IoT and data streaming setups to sophisticated AI scenarios, in industries ranging from manufacturing, consumer products, and healthcare to banking and insurance, just to name a few.\n Your responsibilities You will support the team in designing, building, and maintaining data pipelines according to client business needs and embedding them end-to-end into the given data stack\n On this role, you will assist in maintaining and optimizing data infrastructure required for data extraction, transformation, and loading (ETL/ELT) from a wide variety of data sources\n As a junior Data Engineer, you will build, test, and deploy data artifacts on cloud platforms using modern version control best practices\n You will collaborate with senior engineers to ensure data accuracy, integrity, privacy, security, and compliance by applying data quality assurance methods\n Monitoring data pipeline performance and assisting in identifying opportunities for pipeline optimization\n In this role, you will work closely together with both reeeliance and client staff as part of an agile project team\n Our requirements Solid foundational knowledge of data modeling concepts and modern data warehousing architectures\n Proficiency in Python and strong SQL skills for querying and manipulating complex datasets\n Hands-on experience with Git for version control and collaborative development\n Practical exposure to or understanding of working within cloud environments (such as Azure or AWS)\n Eagerness to learn new ETL/ELT to…",
-    "tags": [
-      "Entry",
+      "Germany",
+      "Data Engineer",
+      "SaaS",
+      "Hosp Tech",
+      "Experienced",
       "Permanent",
       "Full time"
     ],
-    "jobType": "Entry",
-    "postedAt": "2026-10-07T14:09:30.000Z",
-    "scrapedAt": "2026-10-07T18:22:58.197Z"
+    "jobType": "Experienced",
+    "postedAt": "2026-10-07T17:09:48.000Z",
+    "scrapedAt": "2026-10-08T00:42:08.668Z"
   },
   {
     "id": "arbeitnow:ai-first-data-engineer-zurich-402283",
@@ -59,7 +45,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-10-06T20:09:48.000Z",
-    "scrapedAt": "2026-10-07T18:22:58.197Z"
+    "scrapedAt": "2026-10-08T00:42:08.668Z"
   },
   {
     "id": "greenhouse:airbnb-8249633",
@@ -75,7 +61,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-05T16:34:11.000Z",
-    "scrapedAt": "2026-10-07T18:22:59.278Z"
+    "scrapedAt": "2026-10-08T00:42:10.299Z"
   },
   {
     "id": "greenhouse:block-5440102008",
@@ -91,7 +77,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-10-01T21:06:06.000Z",
-    "scrapedAt": "2026-10-07T18:22:59.278Z"
+    "scrapedAt": "2026-10-08T00:42:10.299Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -107,7 +93,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-10-07T18:22:59.278Z"
+    "scrapedAt": "2026-10-08T00:42:10.299Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -123,7 +109,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-10-07T18:22:59.278Z"
+    "scrapedAt": "2026-10-08T00:42:10.299Z"
   },
   {
     "id": "greenhouse:pinterest-8209014",
@@ -139,7 +125,23 @@
       "Oversight Engineering"
     ],
     "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-10-07T18:22:59.278Z"
+    "scrapedAt": "2026-10-08T00:42:10.299Z"
+  },
+  {
+    "id": "greenhouse:airbnb-8224032",
+    "externalId": "airbnb:8224032",
+    "source": "greenhouse",
+    "title": "Senior Staff Data Engineer, Foundational Data",
+    "company": "Airbnb",
+    "location": "United States",
+    "remote": false,
+    "url": "https://careers.airbnb.com/positions/8224032?gh_jid=8224032",
+    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n The Community You Will Join:\n At Airbnb, our mission is to create a world where anyone can belong anywhere. The Foundational Data team builds and operates the high-quality, widely reused datasets that power critical decisions across Airbnb: how visitors are measured from site traffic, how bot traffic is separated from organic traffic, and how cloud costs are attributed to Airbnb services. Our cost dashboards are among the most-used at Airbnb, relied on by technical leads, finance, and executives. Every dollar Airbnb spends running its infrastructure is attributed by models this team owns.\n We are now building a third pillar, and it puts this team at the forefront of how Airbnb measures AI: the cost, usage, and performance of the models we train and serve ourselves, and of the AI tools our own engineers use every day. When Airbnb asks whether an AI investment is paying off, the answer comes from datasets this team builds.\n Foundational Data sits inside Cloud Infrastructure and is a deliberate mix of Data Engineers and Analytics Engineers working as one team.\n The Difference You Will Make:\n As a Senior Staff Data Engineer, you are the technical leader for this team and the person who sets its direction. This is a hands-on role with no direct reports: you will own the long-term data architecture and you will build against it, from the Airflow-orchestrated pipelines that ingest telemetry, logs, and billing data through to the dimensional models and Minerva definitions that thousands of people at Airbnb reason with. Because we are a mixed DE and AE team, you will work across both disciplines: this role needs data…",
+    "tags": [
+      "Software Engineering"
+    ],
+    "postedAt": "2026-09-22T18:58:28.000Z",
+    "scrapedAt": "2026-10-08T00:42:10.299Z"
   },
   {
     "id": "lever:spotify-80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
@@ -159,7 +161,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-09-22T08:36:16.099Z",
-    "scrapedAt": "2026-10-07T18:26:40.895Z"
+    "scrapedAt": "2026-10-08T00:45:34.816Z"
   },
   {
     "id": "greenhouse:figma-6201407004",
@@ -175,6 +177,6 @@
       "Engineering"
     ],
     "postedAt": "2026-09-21T16:13:46.000Z",
-    "scrapedAt": "2026-10-07T18:22:59.278Z"
+    "scrapedAt": "2026-10-08T00:42:10.299Z"
   }
 ]
