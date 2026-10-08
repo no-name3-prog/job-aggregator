@@ -1,5 +1,39 @@
 [
   {
+    "company": "SFEIR",
+    "jobCount": 11,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Rennes",
+      "Niort",
+      "Nantes",
+      "Paris",
+      "Lille",
+      "Toulouse",
+      "Bordeaux",
+      "Strasbourg"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer (F/H) - Rennes",
+      "Senior Data Engineer (F/H) - Niort",
+      "Senior Data Engineer (F/H) - Nantes",
+      "Lead Data Engineer GCP",
+      "Data Engineer GCP",
+      "Data Engineer expérimenté(e)",
+      "Data Engineer Confirmé(e)",
+      "Data Engineer (F/H/NB)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/sfeir/senior-data-engineer-f-h-rennes-49167",
+      "https://www.arbeitnow.fr/jobs/companies/sfeir/senior-data-engineer-f-h-niort-287138",
+      "https://www.arbeitnow.fr/jobs/companies/sfeir/senior-data-engineer-f-h-nantes-365382",
+      "https://www.arbeitnow.fr/jobs/companies/sfeir/lead-data-engineer-gcp-paris-176242",
+      "https://www.arbeitnow.fr/jobs/companies/sfeir/data-engineer-gcp-paris-150905"
+    ]
+  },
+  {
     "company": "Coinbase",
     "jobCount": 6,
     "sources": [
@@ -151,6 +185,27 @@
     ]
   },
   {
+    "company": "Discord",
+    "jobCount": 3,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "San Francisco Bay Area",
+      "Remote (U.S.)"
+    ],
+    "sampleTitles": [
+      "Staff Data Engineer - Data Infrastructure",
+      "Senior Data Engineer",
+      "Senior Data Engineer, Ads"
+    ],
+    "officialUrls": [
+      "https://job-boards.greenhouse.io/discord/jobs/8691572002",
+      "https://job-boards.greenhouse.io/discord/jobs/8485884002",
+      "https://job-boards.greenhouse.io/discord/jobs/8299493002"
+    ]
+  },
+  {
     "company": "NVIDIA",
     "jobCount": 3,
     "sources": [
@@ -225,44 +280,6 @@
     "officialUrls": [
       "https://www.brex.com/careers/8523806002?gh_jid=8523806002",
       "https://www.brex.com/careers/8366850002?gh_jid=8366850002"
-    ]
-  },
-  {
-    "company": "Discord",
-    "jobCount": 2,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "San Francisco Bay Area",
-      "Remote (U.S.)"
-    ],
-    "sampleTitles": [
-      "Staff Data Engineer - Data Infrastructure",
-      "Senior Data Engineer, Ads"
-    ],
-    "officialUrls": [
-      "https://job-boards.greenhouse.io/discord/jobs/8691572002",
-      "https://job-boards.greenhouse.io/discord/jobs/8299493002"
-    ]
-  },
-  {
-    "company": "Dropbox",
-    "jobCount": 2,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "Remote - Canada: Select locations",
-      "Remote - US: Select locations"
-    ],
-    "sampleTitles": [
-      "Senior Manager, Data Engineering",
-      "Senior Manager, Data Engineering"
-    ],
-    "officialUrls": [
-      "https://jobs.dropbox.com/listing/8090065?gh_jid=8090065",
-      "https://jobs.dropbox.com/listing/8090062?gh_jid=8090062"
     ]
   },
   {
@@ -341,19 +358,19 @@
     ]
   },
   {
-    "company": "Checkout.com",
+    "company": "Aqemia",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "London"
+      "Paris"
     ],
     "sampleTitles": [
-      "Data Analytics Engineer I"
+      "Senior Data Engineer"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/data-analytics-engineer-i-london-113277"
+      "https://www.arbeitnow.fr/jobs/companies/aqemia/senior-data-engineer-paris-96158"
     ]
   },
   {
@@ -373,19 +390,19 @@
     ]
   },
   {
-    "company": "Elevenlabs",
+    "company": "Finom",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "United Kingdom"
+      "Germany"
     ],
     "sampleTitles": [
-      "Analytics Engineer"
+      "Senior Analytics Engineer"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/analytics-engineer-united-kingdom-394479"
+      "https://www.arbeitnow.com/jobs/companies/finom/senior-analytics-engineer-germany-217384"
     ]
   },
   {
@@ -514,22 +531,6 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8112043"
-    ]
-  },
-  {
-    "company": "Trusteq Gmbh",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Köln"
-    ],
-    "sampleTitles": [
-      "Data Engineer Working Student (m/w/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-engineer-working-student-koln-475273"
     ]
   }
 ]
