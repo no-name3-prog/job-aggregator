@@ -1,5 +1,35 @@
 [
   {
+    "company": "Autodesk",
+    "jobCount": 7,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Toronto, ON, CAN",
+      "Kraków, POL",
+      "35 Locations",
+      "37 Locations",
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineering",
+      "Data Engineer with AI",
+      "Principal Data Engineer, User Success",
+      "Analytics Engineer, Forecasting & Revenue Intelligence",
+      "Analytics Engineer, Forecasting & Revenue Intelligence",
+      "Principal Data Engineer, User Success (Agentic Experiences)",
+      "Principal Data Engineer -General application"
+    ],
+    "officialUrls": [
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Data-Engineering_26WD101237",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Denver-CO-USA/Analytics-Engineer--Forecasting---Revenue-Intelligence_26WD101381-1",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Denver-CO-USA/Analytics-Engineer--Forecasting---Revenue-Intelligence_26WD101382-1"
+    ]
+  },
+  {
     "company": "Coinbase",
     "jobCount": 6,
     "sources": [
@@ -66,44 +96,18 @@
       "San Francisco, CA"
     ],
     "sampleTitles": [
+      "Data Engineer, Product",
       "Recruiting Analytics Data Engineer",
       "Data Engineer, GTM",
       "Data Engineer, Safeguards",
-      "Pre-training Data Infrastructure Engineer",
-      "Data Engineer"
+      "Pre-training Data Infrastructure Engineer"
     ],
     "officialUrls": [
+      "https://job-boards.greenhouse.io/anthropic/jobs/5448481008",
       "https://job-boards.greenhouse.io/anthropic/jobs/5424111008",
       "https://job-boards.greenhouse.io/anthropic/jobs/5418610008",
       "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
-      "https://job-boards.greenhouse.io/anthropic/jobs/4973067008",
-      "https://job-boards.greenhouse.io/anthropic/jobs/4956672008"
-    ]
-  },
-  {
-    "company": "Autodesk",
-    "jobCount": 5,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Toronto, ON, CAN",
-      "Kraków, POL",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineering",
-      "Data Engineer with AI",
-      "Principal Data Engineer, User Success",
-      "Principal Data Engineer, User Success (Agentic Experiences)",
-      "Principal Data Engineer -General application"
-    ],
-    "officialUrls": [
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Data-Engineering_26WD101237",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
+      "https://job-boards.greenhouse.io/anthropic/jobs/4973067008"
     ]
   },
   {
@@ -305,38 +309,6 @@
     ]
   },
   {
-    "company": "Aqemia",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Paris"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/aqemia/senior-data-engineer-paris-96158"
-    ]
-  },
-  {
-    "company": "celebrate company GmbH",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Homeoffice"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer (m/w/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-data-engineer-gilching-277204"
-    ]
-  },
-  {
     "company": "Cloudflare",
     "jobCount": 1,
     "sources": [
@@ -366,38 +338,6 @@
     ],
     "officialUrls": [
       "https://instacart.careers/job/?gh_jid=8167458"
-    ]
-  },
-  {
-    "company": "intercom",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Staff Data Engineer - GTM"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-data-engineer-gtm-london-138765"
-    ]
-  },
-  {
-    "company": "Ivcevidensia",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Keynsham, Bristol, England"
-    ],
-    "sampleTitles": [
-      "Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/data-engineer-keynsham-bristol-england-437639"
     ]
   },
   {
@@ -433,22 +373,6 @@
     ]
   },
   {
-    "company": "Quantum",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Graduate Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/quantum/graduate-data-engineer-london-224719"
-    ]
-  },
-  {
     "company": "Robinhood",
     "jobCount": 1,
     "sources": [
@@ -481,22 +405,6 @@
     ]
   },
   {
-    "company": "SFEIR",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Rennes"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer (F/H) - Rennes"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/sfeir/senior-data-engineer-f-h-rennes-49167"
-    ]
-  },
-  {
     "company": "Stripe",
     "jobCount": 1,
     "sources": [
@@ -510,22 +418,6 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8112043"
-    ]
-  },
-  {
-    "company": "Thermondo",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Berlin (Zentrale)"
-    ],
-    "sampleTitles": [
-      "Working Student Analytics Engineering (f/m/x)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/thermondo/working-student-analytics-engineering-berlin-zentrale-468443"
     ]
   },
   {

@@ -1,61 +1,19 @@
 [
   {
-    "id": "arbeitnow:remote-senior-data-engineer-gilching-277204",
-    "externalId": "remote-senior-data-engineer-gilching-277204",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer (m/w/d)",
-    "company": "celebrate company GmbH",
-    "location": "Homeoffice",
-    "remote": true,
-    "url": "https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-data-engineer-gilching-277204",
-    "description": "Wir verwandeln bedeutende Momente in wunderschöne Erinnerungen. Wir suchen eine:n Senior Data Engineer (m/w/d) für unser Data Intelligence Team, um unsere Datenplattform im gesamten Unternehmen weiterzuentwickeln und zu skalieren. Du verbindest fundiertes technisches Know-how mit Projektführungskompetenz und koordinierst bereichsübergreifende Initiativen mit Stakeholdern aus Marketing, Product und Portfolio. Die Rolle ist in Deutschland angesiedelt, im hybriden Setup, mit Berichtslinie an unsere:n Head of DevOps, IT und Data Engineering.\n Das jährliche Gehalt für diese Position liegt zwischen 67.500 € und 91.300 € (Senior).\n Deine Rolle Koordination und Umsetzung bereichsübergreifender Datenprojekte mit Business- und Tech-Stakeholdern, von der Konzeption bis zur Auslieferung, mit messbarem Business Impact\n Verantwortung für die Wartung und Weiterentwicklung der Datenplattform, einschließlich der Einführung eines Datenkatalogs und der Evaluierung von dbt als Ablösung bestehender Legacy-Pipelines\n Entwurf und Implementierung komplexer, bereichsübergreifender Datenarchitekturen und anspruchsvoller Datenmodelle, die Self-Service-Analytics und fundierte Entscheidungsfindung ermöglichen\n Coaching und Mentoring von Junior- und Peer-Engineers zur Stärkung der Teamkompetenz und Etablierung gemeinsamer Standards im Data Engineering Team\n Tech-Stack SQL\n Python\n AWS (Redshift, Step Functions)\n Langdock\n Langfuse\n Deine Benefits Wir schätzen Flexibilität: Flexible Remote-Arbeit, Teilzeitoptionen, moderne Hardware (Macbooks), kollaborative Büroflächen (Flex Desks)\n Wir begrüßen New Work: Agile Arbeitsweise, Fair Pay, Kompetenz- und Führungsmodelle\n Wir möchten, dass es dir gut geht: Nilo.health, Corporate Benefits, JobRad, Workations, Sabbaticals, 30 Tage bezahlter Urlaub sowie dein persönliches Benefit nach Wahl: Wellpass, Hansefit oder das DB-Jobticket.\n Wir wollen mit dir wachsen: Interne Weiterbildung, Coaching, regelmäßige Feedback- und Wachstumsprozesse, flexible externe…",
-    "tags": [
-      "Data Engineering",
-      "Remote",
-      "Experienced",
-      "fulltime permanent"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-10-09T08:30:18.000Z",
-    "scrapedAt": "2026-10-09T09:58:38.276Z"
-  },
-  {
-    "id": "arbeitnow:working-student-analytics-engineering-berlin-zentrale-468443",
-    "externalId": "working-student-analytics-engineering-berlin-zentrale-468443",
-    "source": "arbeitnow",
-    "title": "Working Student Analytics Engineering (f/m/x)",
-    "company": "Thermondo",
-    "location": "Berlin (Zentrale)",
+    "id": "greenhouse:anthropic-5448481008",
+    "externalId": "anthropic:5448481008",
+    "source": "greenhouse",
+    "title": "Data Engineer, Product",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/thermondo/working-student-analytics-engineering-berlin-zentrale-468443",
-    "description": "We're looking for We are looking for you as a  Working Student Analytics Engineering (f/m/x) to join one of our various departments\nand help us at thermondo make an important contribution to climate neutrality. With your interest\nin renewable energy and your identification with our values — Our word counts, Better every day,\nand Stronger together — you can create real added value for all of us\n If you enjoy this Answering Data-related questions from business stakeholders across all departments Building new dashboards and improving existing dashboards in Looker Conducting ad hoc analyses and translating data requests into clear results Monitoring data quality and working closely with our Analytics Engineers Documenting KPIs and data sources, and contributing to our data dictionary Writing basic SQL queries for data exploration and analysis\n And recognise yourself here You are enrolled in a data-related or analytical degree programme, such as Data Science, Business Informatics, Statistics, Economics or a comparable field, with at least two semesters remaining. SQL basics: You understand basic syntax, filtering, JOINs and aggregations. BI experience: You have worked with a BI or reporting tool such as Looker, Tableau or Power BI and can explain what you built with it. Data understanding: You can prepare analysis results clearly and explain them to non-technical stakeholders. AI tools: You use tools such as Gemini or Claude in a practical way to support analysis, research or problem-solving. Independent work: You have initial practical experience with smaller data-related tasks and can structure your work with limited guidance. Languages: You speak German at least at B1 level and English at C1 level.\n What we have to offer A meaningful purpose — through your work, you make an important contribution to making homes climate-neutral  Professional development opportunities with experienced mentors Interaction with other working students in an open working environment A col…",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448481008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\nAs a Data Engineer on the Data Science & Analytics team, you'll build the foundation that lets analytics scale across Anthropic. You'll partner with Engineering, Product and other teams to turn raw data into reliable metrics, reporting and insights, and you'll make sure teams have accurate metrics for our consumer products from idea to launch. You'll also lead your own projects that make self-serve insights possible, so teams can make data-driven decisions.\n Responsibilities\n Understand, and where possible anticipate, the data needs of partner teams, and translate them into data models, reporting and technical requirements\n Define, build and manage key dbt pipelines that turn raw logs into canonical datasets\n Set data integrity standards and SLAs so data is delivered on time and accurately\n Build reliable dashboards that track core metrics and share insights across the company\n Build foundational data products, dashboards and tools that let self-serve analytics scale\n Partner with stakeholders to define and materialize metrics and analysis for new and evolving consumer products\n Shape Product teams' roadmaps from a data systems perspective\n Become an expert in our data models and data architecture\n You may be a good fit if you have\n Significant experience as a Data Engineer or in a similar Data Science & Analytics role, ideally partnering with Product leads to build and report on company-wide metrics\n A passion for Anthropic's mission of building helpful, honest and harmless AI\n Expertise building multi-step ETL jobs with tools like dbt, plus experience with workflow tools like Airflow and version control through Git…",
     "tags": [
-      "Werkstudent",
-      "Student",
-      "Working Student",
-      "Student",
-      "Intern",
-      "Part time"
+      "Data Science & Analytics"
     ],
-    "jobType": "Student",
-    "postedAt": "2026-10-09T08:09:13.000Z",
-    "scrapedAt": "2026-10-09T09:58:38.276Z"
-  },
-  {
-    "id": "arbeitnow:staff-data-engineer-gtm-london-138765",
-    "externalId": "staff-data-engineer-gtm-london-138765",
-    "source": "arbeitnow",
-    "title": "Staff Data Engineer - GTM",
-    "company": "intercom",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-data-engineer-gtm-london-138765",
-    "description": "<div class=\"content-intro\"><p><a href=\"https://fin.ai/\">Fin</a>, now part of Salesforce, is on a mission to help businesses provide perfect customer experiences.</p>\n<p>Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk, giving modern support teams one single system.</p>\n<p>Together with Salesforce, the #1 AI CRM, where humans with agents drive customer success, we're building the future of customer experience. Here, ambition meets action. Tech meets trust. And innovation isn't a buzzword, it's a way of life. The world of work as we know it is changing, and we're looking for Trailblazers who are passionate about bettering business and the world through AI.</p>\n<p>Ready to level up your career at the company leading workforce transformation in the agentic era? You're in the right place. Agentforce is the future of AI, and you are the future of Salesforce.</p></div><h2>What is the opportunity?</h2>\n<p>Every go-to-market decision at Intercom, who we target, who owns the account, what we know about them, what we should say next - rests on a foundation of account and contact data. Getting that foundation right is one of the highest-leverage engineering problems in the company: a single account hierarchy fix can re-route territory, pipeline credit and forecast for thousands of accounts at once.</p>\n<p>This role owns that foundation. You will build and run the systems that decide what an account <em>is</em>, resolving duplicates, stitching subsidiaries into corporate hierarchies, sourcing new accounts and contacts into our CRM, and enriching them with firmographic, technographic and intent signals. In…",
-    "tags": [
-      "R&D Business Systems"
-    ],
-    "postedAt": "2026-10-09T06:55:05.000Z",
-    "scrapedAt": "2026-10-09T09:58:38.276Z"
+    "postedAt": "2026-10-09T17:00:40.000Z",
+    "scrapedAt": "2026-10-09T17:55:44.722Z"
   },
   {
     "id": "jobicy:154889",
@@ -74,44 +32,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-10-09T06:19:14.000Z",
-    "scrapedAt": "2026-10-09T09:58:38.366Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-keynsham-bristol-england-437639",
-    "externalId": "data-engineer-keynsham-bristol-england-437639",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Ivcevidensia",
-    "location": "Keynsham, Bristol, England",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/data-engineer-keynsham-bristol-england-437639",
-    "description": "About Us\n IVC Evidensia is the UK and Europe’s leading veterinary care group, made up of over 900 practices and referral hospitals, united by a shared purpose of happier animals, happier owners.\n At IVC Evidensia, we believe careers should be built without limits. Our people are supported to make more impact, access more career opportunities, and play an active role in their local and professional communities. Through investment in learning, innovation, and wellbeing, we create environments where our teams can grow in confidence, capability, and fulfilment—at every stage of their career.\n As part of Central Functions, you will be part of the teams that support and enable our network of over 2,500 practices across 20 countries, driving operational excellence, innovation, and strategic impact across the business.\n Our Technology teams are responsible for the systems and infrastructure that make that work - everything our healthcare professionals need to deliver world-class care. From keeping on top of patient records, health plans, client communications, diary management and dispensing, our teams have a lot to think about and need smarter ways to provide the convenience and expertise that modern Pet owners have come to expect.\n IVC Evidensia is undergoing an exciting digital transformation. The key to this is improving the management of our core data sets - accelerating the standardisation of operational systems in practices, building stronger master data management tooling, and developing standard reporting models across the group.\n As a data engineer, you will work with the team to advance the data platform within a DevOps culture. You will play a central role in building and maintaining scalable data pipelines across Databricks & Azure SQL Server, and will bring solid experience with ELT, orchestration, and scripting languages. A firm grasp of data modelling and management will be essential throughout.\n The role\n The Data Engineer will be a technical authority acc…",
-    "tags": [
-      "IT & Digital",
-      "Chocolate Factory",
-      "Keynsham [9025]"
-    ],
-    "jobType": "Chocolate Factory",
-    "postedAt": "2026-10-09T03:24:07.000Z",
-    "scrapedAt": "2026-10-09T09:58:38.276Z"
-  },
-  {
-    "id": "arbeitnow:graduate-data-engineer-london-224719",
-    "externalId": "graduate-data-engineer-london-224719",
-    "source": "arbeitnow",
-    "title": "Graduate Data Engineer",
-    "company": "Quantum",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/graduate-data-engineer-london-224719",
-    "description": "Our Company\n At Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.\n Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison service, delivering value and simplicity to millions.\n We drive growth through data-driven affiliate marketing built for performance from day one. Every campaign is measurable, optimised in real time, and designed to scale.\n With in-house tech, full-stack analytics, and a compliance-first mindset, we give our partners an edge. We drive confident decisions and growth in regulated and high-growth sectors. We’ve helped ambitious brands grow faster, smarter, and globally.\n The Role As a Data Engineering Graduate, you'll be an integral part of our Data Engineering team. From day one, you'll gain hands-on experience, taking on meaningful responsibility, and making a tangible impact. This role is ideal for someone who likes building things that last and wants to learn how reliable data infrastructure is designed, built and maintained at scale.\n Key Responsibilities Pipeline development: you'll help build and maintain the data pipelines that ingest, clean and move data across our systems, learning how reliable data flows are engineered\n Data integration: you'll support the onboarding of new data sources, writing and testing the logic that brings partner data into our platform cleanly and consistently\n Transformation and modelling: you'll apply transformations that turn raw data into structured, trustworthy datasets the wider business can use\n Monitoring and reliability: you'll help keep our ingestion pipelines running, flagging issues early and learning how we maintain the integrity of our data operations\n Quality assurance: whether it's checking for anomalies or validating schemas and formats, your attention to detail will keep our data trustworthy and actionable\n Automation and process improvement: you'll help identif…",
-    "tags": [
-      "Technology",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-10-09T00:40:03.000Z",
-    "scrapedAt": "2026-10-09T09:58:38.276Z"
+    "scrapedAt": "2026-10-09T17:55:43.774Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -127,41 +48,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-10-09T09:58:39.137Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-paris-96158",
-    "externalId": "senior-data-engineer-paris-96158",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer",
-    "company": "Aqemia",
-    "location": "Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/aqemia/senior-data-engineer-paris-96158",
-    "description": "About AQEMIA\n AQEMIA is a drug invention company dedicated to creating entirely new medicines to address major unmet medical needs. At the core of our mission is QEMI , our proprietary molecule-invention platform, which uniquely combines cutting-edge science with advanced technology. Powered by physics-based modeling, statistical mechanics, and generative AI, QEMI allows our teams to design novel drug candidates from first principles.\n What makes AQEMIA different is our commitment to true innovation: our research is dedicated to the invention of new molecular entities, not the refinement of existing ones. We focus on inventing never-before-seen molecules , without relying on experimental data, and advancing them into a growing pipeline of proprietary programs and strategic partnerships with leading pharmaceutical companies.\n Our most advanced preclinical programs are currently in vivo optimization , targeting diseases still waiting for effective treatments, offering our teams the opportunity to work on science that can make a real difference in people’s lives.\n For more information, visit AQEMIA.com, our WTTJ Page , and our LinkedIn .\n About our Team\n AQEMIA brings together a diverse, multidisciplinary team of 80+ professionals based in Paris and London. Our scientists and engineers, including chemists, physicists, machine learning experts, and software engineers, work side by side to push the boundaries of early-stage drug discovery.\n This close collaboration across disciplines is central to our approach, enabling us to tackle complex scientific challenges from first principles and translate cutting-edge ideas into novel therapeutic candidates. At AQEMIA, team members are encouraged to contribute their expertise, learn from one another, and play an active role in shaping the future of drug invention.\n About our Engineering Department\n The Engineering team (~12 people) builds and scales the technical foundations that power Aqemia’s drug discovery engine.\n Bringing…",
-    "tags": [
-      "Data"
-    ],
-    "postedAt": "2026-10-08T16:04:10.000Z",
-    "scrapedAt": "2026-10-09T09:58:38.276Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-f-h-rennes-49167",
-    "externalId": "senior-data-engineer-f-h-rennes-49167",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer (F/H) - Rennes",
-    "company": "SFEIR",
-    "location": "Rennes",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/senior-data-engineer-f-h-rennes-49167",
-    "description": "🚀 Senior Data Engineer (F/H) – Création d'agence Rennes\n 👾 Tu as l'âme d'un vibe coder ?\n Tu développes avec Claude Code ouvert en permanence, tu prompts plus vite que ton ombre et tu penses que l’IA va profondément transformer le métier de Data Engineer ?\n Bienvenue chez SFEIR Rennes.\n 🤔 C’est quoi SFEIR ?\n SFEIR, c’est avant tout une communauté de 900 techs en France, Belgique et Luxembourg, réunis autour d’une même passion : construire des solutions modernes, apprendre et transmettre.\n Nous accompagnons nos clients sur :\n 🔹 Le développement d’applications web & mobiles ;\n🔹 Les architectures Cloud, Platform Engineering et Data ;\n🔹 L’IA générative et les nouveaux usages augmentés ;\n🔹 Les meilleures pratiques Software Engineering et Cloud Native.\n 🚀 Pourquoi les ingénieurs rejoignent aussi SFEIR aujourd’hui\n SFEIR est partenaire officiel d'Anthropic et également partenaire Premium Google Cloud.\n Pour nos ingénieurs, cela signifie être au plus près des évolutions du Cloud et de l'IA générative, développer une expertise concrète sur les nouveaux usages de l'IA appliqués à l'ingénierie logicielle et expérimenter les outils qui transforment déjà le métier.\n Nous sommes convaincus que les profils les plus recherchés dans les années à venir seront ceux capables de combiner excellence technique, culture Data et maîtrise des outils d'IA.\n Chez SFEIR, nous t'accompagnons dans cette évolution grâce à une communauté qui expérimente déjà ces nouveaux usages au quotidien.\n Une opportunité unique d'évoluer dans un environnement où innovation, Data Engineering, Cloud et IA avancent ensemble.\n 🌊 Et Rennes dans tout ça ?\n SFEIR ouvre une nouvelle page de son histoire à Rennes 🚀\n L'objectif ?\n Construire une communauté Data, Cloud et IA de référence en Bretagne.\n Rejoindre SFEIR Rennes aujourd'hui, c'est :\n 🔹 Participer à la création et au développement d'une nouvelle agence ;\n🔹 Avoir un impact direct sur les orientations techniques locales ;\n🔹 Contribuer à bâtir une co…",
-    "tags": [
-      "Data",
-      "CDI"
-    ],
-    "jobType": "CDI",
-    "postedAt": "2026-10-08T16:04:05.000Z",
-    "scrapedAt": "2026-10-09T09:58:38.276Z"
+    "scrapedAt": "2026-10-09T17:55:44.722Z"
   },
   {
     "id": "greenhouse:airbnb-8249633",
@@ -177,6 +64,106 @@
       "Data Science"
     ],
     "postedAt": "2026-10-05T16:34:11.000Z",
-    "scrapedAt": "2026-10-09T09:58:39.137Z"
+    "scrapedAt": "2026-10-09T17:55:44.722Z"
+  },
+  {
+    "id": "greenhouse:block-5434325008",
+    "externalId": "block:5434325008",
+    "source": "greenhouse",
+    "title": "Senior Analytics Engineer, AI & DX Analytics",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "remote": false,
+    "url": "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
+    "description": "Block builds simple, powerful tools that make progress towards an economy that’s truly open to all.\n Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Join us.\n The Role\n The AI & DX (Developer Experience) Analytics team exists to measure and improve Block's developer experience and investment in AI. We turn raw engineering signals (agent session data, pull request and CI activity, and AI spend) into reporting and analysis that shape leadership's AI investment decisions, and drive improvement in AI ROI and developer experience. Your work will be the trusted source of truth that engineers and executives use to decide where AI investment is working and where to redirect it.\n We're hiring a Senior Analytics Engineer to own parts of that pipeline end to end. This is a broad, high-visibility role with a lot of white space: you will instrument new telemetry at the source and build production pipelines that turn it into governed data, then turn that governed data into executive-facing reporting and the analysis that surfaces concrete opportunities to improve AI ROI and developer experience. You'll also help pioneer one of the most consequential open problems in the industry right now: measuring the productivity impact of an increasingly AI- and agent-augmented engineering workforce, where there is no textbook answer and real room to set the standard. You'll define new metrics and craft the visual narrative — the charts, dashboards, and presentation materials — that make them land with…",
+    "tags": [
+      "10410 Engineering - Developer Experience"
+    ],
+    "postedAt": "2026-09-24T17:40:25.000Z",
+    "scrapedAt": "2026-10-09T17:55:44.722Z"
+  },
+  {
+    "id": "greenhouse:figma-6178851004",
+    "externalId": "figma:6178851004",
+    "source": "greenhouse",
+    "title": "Data Engineer Intern (2027)",
+    "company": "Figma",
+    "location": "San Francisco, CA • New York, NY",
+    "remote": false,
+    "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+    "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!\n We are looking for Data Engineering interns who are excited to help scale the systems and pipelines that power decision-making at Figma. As an intern on our data team, you will partner with engineers and analysts to design and build reliable datasets, ensure data quality, and make Figma's data more accessible across the company.\n This internship will be based out of our San Francisco or New York Hub.\n What you'll do at Figma:\n Build, test, and document data pipelines that bring product or business data into Figma’s data warehouse\n Help design foundational datasets that are trusted, well-documented, and easy to use\n Optimize pipelines for performance and scalability as Figma grows\n Partner with cross-functional teammates to understand data needs and deliver solutions\n Contribute to the tools and practices that make working with data at Figma easier\n With support from a manager and mentor, you’ll own a scoped project from problem definition through implementation, testing, documentation, and sharing the results.\n Some projects you could work on:\n Develop new ETL jobs to integrate product or business data into our warehouse\n Improve the performance and reliability of core pipelines\n Build reusable datasets that support experimentation, product and business analytics, or cross-functional stakeholders\n Document and simplify complex data workflows for broader use\n We'd love to hear from you if you have:\n Experience coding in Python or a similar language and writing SQL queries\n Experience building o…",
+    "tags": [
+      "Early Career"
+    ],
+    "postedAt": "2026-09-23T19:30:27.000Z",
+    "scrapedAt": "2026-10-09T17:55:44.722Z"
+  },
+  {
+    "id": "greenhouse:pinterest-8209014",
+    "externalId": "pinterest:8209014",
+    "source": "greenhouse",
+    "title": "Sr. Technical Program Manager, Data Engineering",
+    "company": "Pinterest",
+    "location": "San Francisco, CA, US; Remote, US",
+    "remote": true,
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209014",
+    "description": "About Pinterest:\n Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.\n Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here .\n The Team\n Pinterest's Data Engineering organization builds and operates the data platforms that power every Pinterest product — the batch and streaming pipelines that produce training data for our ML models, the storage and table formats that back our data lake, the workflow orchestration that runs it all, and the analytics platforms that fuel experimentation and decision-making. We're in the middle of a multi-year modernization effort: moving to streaming-first ingestion (CDC, Kafka, Flink), open table formats (Iceberg), a consolidated workflow platform, and retiring legacy footprints along the way. We work closely with ML, product, and analytics teams to make Pinterest's data platforms faster, more reliable, and more cost-efficient.\n What You'll Do:\n Lead a multi-quarter portfolio of data platform modernization programs — spanning ingestion (C…",
+    "tags": [
+      "Oversight Engineering"
+    ],
+    "postedAt": "2026-09-23T18:04:05.000Z",
+    "scrapedAt": "2026-10-09T17:55:44.722Z"
+  },
+  {
+    "id": "greenhouse:airbnb-8224032",
+    "externalId": "airbnb:8224032",
+    "source": "greenhouse",
+    "title": "Senior Staff Data Engineer, Foundational Data",
+    "company": "Airbnb",
+    "location": "United States",
+    "remote": false,
+    "url": "https://careers.airbnb.com/positions/8224032?gh_jid=8224032",
+    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n The Community You Will Join:\n At Airbnb, our mission is to create a world where anyone can belong anywhere. The Foundational Data team builds and operates the high-quality, widely reused datasets that power critical decisions across Airbnb: how visitors are measured from site traffic, how bot traffic is separated from organic traffic, and how cloud costs are attributed to Airbnb services. Our cost dashboards are among the most-used at Airbnb, relied on by technical leads, finance, and executives. Every dollar Airbnb spends running its infrastructure is attributed by models this team owns.\n We are now building a third pillar, and it puts this team at the forefront of how Airbnb measures AI: the cost, usage, and performance of the models we train and serve ourselves, and of the AI tools our own engineers use every day. When Airbnb asks whether an AI investment is paying off, the answer comes from datasets this team builds.\n Foundational Data sits inside Cloud Infrastructure and is a deliberate mix of Data Engineers and Analytics Engineers working as one team.\n The Difference You Will Make:\n As a Senior Staff Data Engineer, you are the technical leader for this team and the person who sets its direction. This is a hands-on role with no direct reports: you will own the long-term data architecture and you will build against it, from the Airflow-orchestrated pipelines that ingest telemetry, logs, and billing data through to the dimensional models and Minerva definitions that thousands of people at Airbnb reason with. Because we are a mixed DE and AE team, you will work across both disciplines: this role needs data…",
+    "tags": [
+      "Software Engineering"
+    ],
+    "postedAt": "2026-09-22T18:58:28.000Z",
+    "scrapedAt": "2026-10-09T17:55:44.722Z"
+  },
+  {
+    "id": "lever:spotify-80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
+    "externalId": "spotify:80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
+    "source": "lever",
+    "title": "Senior Backend Data Engineer – Content Intelligence",
+    "company": "Spotify",
+    "location": "Stockholm",
+    "remote": false,
+    "url": "https://jobs.lever.co/spotify/80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
+    "description": "The Experience team designs Spotify’s consumer experience—end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints—from our mobile and desktop apps to the smart speakers, TVs, cars, and integrations where Spotify shows up every day. If it touches a consumer, we shape it. We bring deep insight into human behavior, design, and technology to craft experiences that feel intuitive, expressive, and unmistakably Spotify.\nThe Content Intelligence Product Area is a core part of Spotify’s Content Platform within the Experience mission. We build systems that create deep, machine-readable understanding of content across audio, video, text, and images before it reaches users. This enables automation, safety, and entirely new product experiences. Our work powers content enrichment, quality analysis, annotation platforms, and scalable intelligence systems that allow teams across Spotify to build without needing direct content understanding expertise.\nWe’re looking for a Senior Backend Data Engineer to help build and scale the systems powering content understanding across Spotify. This role sits at the intersection of backend engineering, distributed data systems, ML infrastructure, and applied AI. You’ll take end-to-end ownership of significant engineering problems while working alongside other Engineers.\n",
+    "tags": [
+      "Experience",
+      "Engineering",
+      "Permanent",
+      "hybrid"
+    ],
+    "jobType": "Permanent",
+    "postedAt": "2026-09-22T08:36:16.099Z",
+    "scrapedAt": "2026-10-09T17:59:10.635Z"
+  },
+  {
+    "id": "greenhouse:figma-6201407004",
+    "externalId": "figma:6201407004",
+    "source": "greenhouse",
+    "title": "Data Platform Engineer",
+    "company": "Figma",
+    "location": "San Francisco, CA • New York, NY • United States",
+    "remote": false,
+    "url": "https://boards.greenhouse.io/figma/jobs/6201407004?gh_jid=6201407004",
+    "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!\n We are looking for a Data Platform Engineer to join our Data Engineering team and help build the foundational systems that power Figma’s next generation of AI-driven products and data experiences.\n This is a unique opportunity to be an early engineer shaping Figma’s ML and data platform, enabling everything from self-serve analytics to production-grade AI systems. You’ll work at the intersection of data, infrastructure, and machine learning, building scalable systems that empower Data Science, unlock AI capabilities across the company, and bring data and models closer to the product experience.\n This is a full-time role that can be held from one of our US hubs or remotely in the United States.\n What you'll do at Figma:\n Build and evolve the shared data platform that powers analytics, Data Science, and data-driven product development at Figma\n Make data development faster and easier by improving local development, testing, CI/CD, staging, and deployment workflows\n Create self-service tools and clear paths for teams to build, deploy, and operate reliable data pipelines\n Improve the reliability of critical data systems through better monitoring, data quality, incident response, upgrades, and performance management\n Make trusted data easier to find and use by establishing clear definitions, ownership, lineage, and reliability expectations\n Partner across Data Engineering, Data Infrastructure, Data Science, Research, Modeling Platform, Security, and Product Engineering to define ownership boundarie…",
+    "tags": [
+      "Engineering"
+    ],
+    "postedAt": "2026-09-21T16:13:46.000Z",
+    "scrapedAt": "2026-10-09T17:55:44.722Z"
   }
 ]
