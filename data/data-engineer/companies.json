@@ -1,39 +1,5 @@
 [
   {
-    "company": "SFEIR",
-    "jobCount": 11,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Rennes",
-      "Niort",
-      "Nantes",
-      "Paris",
-      "Lille",
-      "Toulouse",
-      "Bordeaux",
-      "Strasbourg"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer (F/H) - Rennes",
-      "Senior Data Engineer (F/H) - Niort",
-      "Senior Data Engineer (F/H) - Nantes",
-      "Lead Data Engineer GCP",
-      "Data Engineer GCP",
-      "Data Engineer expérimenté(e)",
-      "Data Engineer Confirmé(e)",
-      "Data Engineer (F/H/NB)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/sfeir/senior-data-engineer-f-h-rennes-49167",
-      "https://www.arbeitnow.fr/jobs/companies/sfeir/senior-data-engineer-f-h-niort-287138",
-      "https://www.arbeitnow.fr/jobs/companies/sfeir/senior-data-engineer-f-h-nantes-365382",
-      "https://www.arbeitnow.fr/jobs/companies/sfeir/lead-data-engineer-gcp-paris-176242",
-      "https://www.arbeitnow.fr/jobs/companies/sfeir/data-engineer-gcp-paris-150905"
-    ]
-  },
-  {
     "company": "Coinbase",
     "jobCount": 6,
     "sources": [
@@ -339,25 +305,6 @@
     ]
   },
   {
-    "company": "Workday",
-    "jobCount": 2,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Poland, Warsaw",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Data Engineer",
-      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME"
-    ],
-    "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Poland-Warsaw/Data-Engineer_JR-0110295-1",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830"
-    ]
-  },
-  {
     "company": "Aqemia",
     "jobCount": 1,
     "sources": [
@@ -371,6 +318,22 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.fr/jobs/companies/aqemia/senior-data-engineer-paris-96158"
+    ]
+  },
+  {
+    "company": "celebrate company GmbH",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Homeoffice"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer (m/w/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-data-engineer-gilching-277204"
     ]
   },
   {
@@ -390,22 +353,6 @@
     ]
   },
   {
-    "company": "Fanduel",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Edinburgh"
-    ],
-    "sampleTitles": [
-      "Data Engineering Senior Manager"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/fanduel/data-engineering-senior-manager-edinburgh-332883"
-    ]
-  },
-  {
     "company": "Instacart",
     "jobCount": 1,
     "sources": [
@@ -419,6 +366,38 @@
     ],
     "officialUrls": [
       "https://instacart.careers/job/?gh_jid=8167458"
+    ]
+  },
+  {
+    "company": "intercom",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Staff Data Engineer - GTM"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-data-engineer-gtm-london-138765"
+    ]
+  },
+  {
+    "company": "Ivcevidensia",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Keynsham, Bristol, England"
+    ],
+    "sampleTitles": [
+      "Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/data-engineer-keynsham-bristol-england-437639"
     ]
   },
   {
@@ -454,6 +433,22 @@
     ]
   },
   {
+    "company": "Quantum",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Graduate Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/quantum/graduate-data-engineer-london-224719"
+    ]
+  },
+  {
     "company": "Robinhood",
     "jobCount": 1,
     "sources": [
@@ -486,6 +481,22 @@
     ]
   },
   {
+    "company": "SFEIR",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Rennes"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer (F/H) - Rennes"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/sfeir/senior-data-engineer-f-h-rennes-49167"
+    ]
+  },
+  {
     "company": "Stripe",
     "jobCount": 1,
     "sources": [
@@ -499,6 +510,54 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8112043"
+    ]
+  },
+  {
+    "company": "Thermondo",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin (Zentrale)"
+    ],
+    "sampleTitles": [
+      "Working Student Analytics Engineering (f/m/x)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/thermondo/working-student-analytics-engineering-berlin-zentrale-468443"
+    ]
+  },
+  {
+    "company": "Toptal",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "LATAM,  Canada,  USA"
+    ],
+    "sampleTitles": [
+      "Data Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/154889-data-analytics-engineer-2"
+    ]
+  },
+  {
+    "company": "Workday",
+    "jobCount": 1,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME"
+    ],
+    "officialUrls": [
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830"
     ]
   }
 ]
