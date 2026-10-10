@@ -350,25 +350,6 @@
     ]
   },
   {
-    "company": "Trg",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Remote within Germany",
-      "Datalogue Hamburg"
-    ],
-    "sampleTitles": [
-      "Junior Data Engineer & MarTech Specialist (Mobile Apps) (m/w/d)",
-      "Data Engineer/ Database Manager (m/w/d), befristet auf 2 Jahre"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/trg/remote-junior-data-engineer-martech-specialist-mobile-apps-223444",
-      "https://www.arbeitnow.com/jobs/companies/trg/data-engineer-database-manager-befristet-auf-2-jahre-datalogue-hamburg-23068"
-    ]
-  },
-  {
     "company": "Cloudflare",
     "jobCount": 1,
     "sources": [
@@ -382,6 +363,22 @@
     ],
     "officialUrls": [
       "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118"
+    ]
+  },
+  {
+    "company": "Fundingcircle",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Principal Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/principal-data-engineer-london-271720"
     ]
   },
   {
