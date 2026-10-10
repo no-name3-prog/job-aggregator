@@ -200,28 +200,6 @@
     ]
   },
   {
-    "company": "Spotify",
-    "jobCount": 3,
-    "sources": [
-      "arbeitnow",
-      "lever"
-    ],
-    "locations": [
-      "London",
-      "Stockholm"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer - Data Platform",
-      "Senior Backend Data Engineer – Content Intelligence",
-      "Senior Data Engineer - Data Platform"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-data-engineer-data-platform-london-100292",
-      "https://jobs.lever.co/spotify/80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
-      "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da"
-    ]
-  },
-  {
     "company": "Adobe",
     "jobCount": 2,
     "sources": [
@@ -334,6 +312,25 @@
     ]
   },
   {
+    "company": "Spotify",
+    "jobCount": 2,
+    "sources": [
+      "lever"
+    ],
+    "locations": [
+      "Stockholm",
+      "London"
+    ],
+    "sampleTitles": [
+      "Senior Backend Data Engineer – Content Intelligence",
+      "Senior Data Engineer - Data Platform"
+    ],
+    "officialUrls": [
+      "https://jobs.lever.co/spotify/80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
+      "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da"
+    ]
+  },
+  {
     "company": "Swile",
     "jobCount": 2,
     "sources": [
@@ -353,6 +350,25 @@
     ]
   },
   {
+    "company": "Trg",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Remote within Germany",
+      "Datalogue Hamburg"
+    ],
+    "sampleTitles": [
+      "Junior Data Engineer & MarTech Specialist (Mobile Apps) (m/w/d)",
+      "Data Engineer/ Database Manager (m/w/d), befristet auf 2 Jahre"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/trg/remote-junior-data-engineer-martech-specialist-mobile-apps-223444",
+      "https://www.arbeitnow.com/jobs/companies/trg/data-engineer-database-manager-befristet-auf-2-jahre-datalogue-hamburg-23068"
+    ]
+  },
+  {
     "company": "Cloudflare",
     "jobCount": 1,
     "sources": [
@@ -366,6 +382,22 @@
     ],
     "officialUrls": [
       "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118"
+    ]
+  },
+  {
+    "company": "JobRad Loop",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "München"
+    ],
+    "sampleTitles": [
+      "Senior Data Platform Engineer (m/w/d) | Snowflake"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-platform-engineer-snowflake-munchen-262829"
     ]
   },
   {
@@ -446,22 +478,6 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8112043"
-    ]
-  },
-  {
-    "company": "virtual7 GmbH",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Homeoffice"
-    ],
-    "sampleTitles": [
-      "Senior Oracle Data Engineer (m/w/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-419481"
     ]
   },
   {

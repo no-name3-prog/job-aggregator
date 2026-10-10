@@ -1,5 +1,72 @@
 [
   {
+    "id": "arbeitnow:senior-data-platform-engineer-snowflake-munchen-262829",
+    "externalId": "senior-data-platform-engineer-snowflake-munchen-262829",
+    "source": "arbeitnow",
+    "title": "Senior Data Platform Engineer (m/w/d) | Snowflake",
+    "company": "JobRad Loop",
+    "location": "München",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-platform-engineer-snowflake-munchen-262829",
+    "description": "Lust auf eine besondere Herausforderung? Bei JobRad® Loop musst du dir keine Erlaubnis holen, um etwas zu bewegen. Eine Datenplattform, die du selbst prägen kannst, statt eine zu verwalten, die andere gebaut haben. Als Senior Data Platform Engineer  baust du unsere Snowflake -Plattform mit auf, setzt Standards und führst das Team fachlich. Dein Wort zählt, bis hinauf zur Geschäftsführung und sogar in der gesamten JobRad® Gruppe. Du bringst die Ideen, wir geben dir den Raum dafür. Remote aus Deutschland oder an einem unserer Standorte in München oder Kabelsketal.  Let's ride together!\n Was du brauchst, um erfolgreich zu sein Snowflake-Praxis: Du hast 2–3 Jahre produktiv mit Snowflake gearbeitet und kennst Performance, Kosten und Best Practices Data Engineering: Du beherrschst SQL und Python, baust ETL-/ELT-Pipelines (z. B. mit dbt, Airflow oder Talend) und setzt CI/CD und Infrastructure as Code ein Architektur & Cloud: Du kennst Data Warehouses, Data Lakes und Datenmodellierung und hast Erfahrung mit mindestens einer Cloud-Plattform (AWS von Vorteil, Interesse an Azure) Eigenverantwortung: Du arbeitest selbstständig, setzt Standards und bringst eigene Ideen für die Weiterentwicklung ein Stakeholder & Führung: Du kommunizierst sicher bis zur Geschäftsführung, coachst Kolleg:innen und übernimmst fachliche Verantwortung Sprache: Du sprichst sicher Deutsch (B2/C1/C2-Niveau) und hast gute Englischkenntnisse Wohnsitz in Deutschland: Du lebst in Deutschland und arbeitest remote oder in München bzw. Kabelsketal (zwischen Halle & Leipzig)\n Dein Beitrag zu unserer Erfolgsgeschichte Richtung vorgeben: Du triffst Architekturentscheidungen mit, setzt Standards und überlegst, wohin die Plattform als Nächstes gehen kann Plattform bauen: Du baust unseren neuen Data Lake auf und machst Snowflake zur Datenbasis des ganzen Unternehmens BI neu denken: Aus den Daten aller Bereiche entsteht mit dir eine neue BI-Landschaft Brücken schlagen: Du bringst die Daten unserer Schwesterfirma (Job…",
+    "tags": [
+      "Snowflake",
+      "Data Platform Engineer",
+      "Data Engineer",
+      "Data Engineering",
+      "ETL",
+      "ELT",
+      "SQL",
+      "Python",
+      "Data Warehouse",
+      "Senior Analytics Engineer",
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-10-10T14:09:59.000Z",
+    "scrapedAt": "2026-10-10T16:53:48.647Z"
+  },
+  {
+    "id": "arbeitnow:remote-junior-data-engineer-martech-specialist-mobile-apps-223444",
+    "externalId": "remote-junior-data-engineer-martech-specialist-mobile-apps-223444",
+    "source": "arbeitnow",
+    "title": "Junior Data Engineer & MarTech Specialist (Mobile Apps) (m/w/d)",
+    "company": "Trg",
+    "location": "Remote within Germany",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/trg/remote-junior-data-engineer-martech-specialist-mobile-apps-223444",
+    "description": "About Us Customlytics is the leading app marketing agency & consultancy in the DACH region . Our international team of professionals from more than 10 nationalities helps apps succeed and drives the professionalization of the app industry by working with every relevant app business in the market .\n Can you imagine a world without apps? Neither can we !\n You don't need a background in marketing to thrive here, f you have a passion for data structures, technical integration, and problem-solving, we will onboard you on the rest ! As a Junior Data Engineer & MarTech Specialist, you will work at the intersection of data infrastructure and marketing technology . You will support the setup, maintenance, and monitoring of clients' mobile app marketing and tracking systems, helping ensure data quality across data pipelines, Mobile Measurement Partners (MMPs like Adjust and AppsFlyer), and campaign analytics platforms .\n Your mission Support the setup, maintenance, and monitoring of Mobile Measurement Partners (MMPs) such as Adjust and AppsFlyer, helping ensure accurate tracking and attribution functionality .   Help maintain and structure clients' product feeds, campaign datasets, and automated data pipelines, ensuring high data quality and reliability .   Assist in identifying and troubleshooting basic tracking, event collection, or data integration issues across mobile app campaigns .   Support the connection of marketing tools, ad platforms (Meta, Google, TikTok), and data sources to improve campaign visibility and reporting workflows .   Contribute to dashboard creation and visualization updates in tools such as Clarisights, Adverity, and Google Sheets to support data-driven decision-making .   Collaborate with senior team members, consultants, and client developers to understand technical requirements and support implementation tasks .\n Your profile Background: Background in data engineering, analytics engineering, or a related discipline, with an interest in marketing…",
+    "tags": [
+      "Entry",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Entry",
+    "postedAt": "2026-10-10T11:09:20.000Z",
+    "scrapedAt": "2026-10-10T16:53:48.647Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-database-manager-befristet-auf-2-jahre-datalogue-hamburg-23068",
+    "externalId": "data-engineer-database-manager-befristet-auf-2-jahre-datalogue-hamburg-23068",
+    "source": "arbeitnow",
+    "title": "Data Engineer/ Database Manager (m/w/d), befristet auf 2 Jahre",
+    "company": "Trg",
+    "location": "Datalogue Hamburg",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/trg/data-engineer-database-manager-befristet-auf-2-jahre-datalogue-hamburg-23068",
+    "description": "Deine Aufgaben Das ist dein Beitrag: In deiner Rolle als Data Engineer/ Database Manager bist du für den Aufbau, die Betreuung und die Weiterentwicklung moderner Dateninfrastrukturen verantwortlich und gestaltest unsere Datenlandschaft aktiv mit. Du verantwortest die Datenakquise und -integration, z. B. aus bestehenden Kundensystemen sowie über definierte Schnittstellen, und entwickelst gemeinsam mit dem Team die dafür erforderlichen Konzepte.\n In engem Austausch mit deinem Team, den Fachkolleginnen und Fachkollegen sowie unseren Nutzern konzipierst und entwickelst du neue Schnittstellen und sorgst für eine zuverlässige Integration unterschiedlicher Datenquellen.\n Du gestaltest die konzeptionelle und technologische Weiterentwicklung unserer bestehenden Data-Warehouse- und BI-Systemumgebung mit.\n Du stellst gemeinsam mit dem Team Datenqualität, Verfügbarkeit und eine effiziente Verarbeitung unserer Daten sicher und entwickelst bestehende Datenprozesse kontinuierlich weiter.\n Du berätst bei analytischen Fragestellungen auf Grundlage der verfügbaren Daten und arbeitest dabei eng mit unseren Fachbereichen und Kundenteams zusammen.\n Du wirkst bei der Umsetzung von Anforderungen von der Spezifikation über die Implementierung und das Testing bis zum Rollout mit und übernimmst eigenständig Verantwortung für deine Themen.\n Du dokumentierst Datenstrukturen, Schnittstellen und Prozesse nachvollziehbar und unterstützt damit einen nachhaltigen Wissenstransfer im Team.\n Du evaluierst neue Technologien und Lösungsansätze und bringst deine Ideen aktiv in die Weiterentwicklung unserer Systemlandschaft ein.\n Im regelmäßigen Austausch mit deinen Teamkolleginnen und -kollegen teilst du dein Wissen und trägst dazu bei, Standards und Best Practices im Database Management weiterzuentwickeln.\n Dein Profil Das macht dich für uns relevant: Du verfügst über einschlägige praktische Erfahrung im Data Engineering, Database Management, Business Intelligence oder einem vergleichbaren Umfeld und m…",
+    "tags": [
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-10-10T11:09:20.000Z",
+    "scrapedAt": "2026-10-10T16:53:48.647Z"
+  },
+  {
     "id": "arbeitnow:research-data-engineer-london-233804",
     "externalId": "research-data-engineer-london-233804",
     "source": "arbeitnow",
@@ -13,25 +80,7 @@
       "Data"
     ],
     "postedAt": "2026-10-10T09:55:11.000Z",
-    "scrapedAt": "2026-10-10T11:50:35.459Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-data-platform-london-100292",
-    "externalId": "senior-data-engineer-data-platform-london-100292",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer - Data Platform",
-    "company": "Spotify",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-data-engineer-data-platform-london-100292",
-    "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\n The Data Platform team develops and maintains the infrastructure that supports Spotify’s data ecosystem. Within Data Platform, the Data Collection product area builds infrastructure that makes it easier to collect and consume data at scale. You’ll join a team focused on making user behaviour data seamless and reliable for data teams across Spotify.\n What You'll Do\n Collaborate with product and engineering teams to build and support critical data infrastructure and datasets.\n Build systems that collect and process user behaviour data at scale.\n Help power Spotify’s personalization and recommendation systems, as well as the tools teams use to build and test new features.\n Design and evolve data architectures that support high data volumes and a broad range of internal users.\n Improve the reliability, scalability, and usability of our data infrastructure.\n Work across disciplines to solve complex data challenges and make an impact across Spotify.\n Who You Are\n You are an experienced Data Engineer, and proficient in backend development using Java.\n You are comfortable working with large-scale datasets using SQL and platforms such as BigQuery.\n You have experience with JVM-based data processing frameworks such as Flink, Beam, Dataflow, or Spark.\n You are familiar with DevOps practices, cloud infrastructure, containerized applications, and Kubernetes fundamentals.\n You have experience with data modeling and schema design.\n You care about high-quality code and engineering practices such as continuous delivery and automated testing.\n You value experimentation, iterative development, and collaborative software development practices.\n You are co…",
-    "tags": [
-      "Platform",
-      "Permanent"
-    ],
-    "jobType": "Permanent",
-    "postedAt": "2026-10-10T06:05:16.000Z",
-    "scrapedAt": "2026-10-10T11:50:35.459Z"
+    "scrapedAt": "2026-10-10T16:53:48.647Z"
   },
   {
     "id": "arbeitnow:senior-data-platform-engineer-montpellier-france-182669",
@@ -49,7 +98,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-10-10T04:24:56.000Z",
-    "scrapedAt": "2026-10-10T11:50:35.459Z"
+    "scrapedAt": "2026-10-10T16:53:48.647Z"
   },
   {
     "id": "arbeitnow:senior-data-platform-engineer-paris-france-151903",
@@ -67,27 +116,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-10-10T04:24:56.000Z",
-    "scrapedAt": "2026-10-10T11:50:35.459Z"
-  },
-  {
-    "id": "arbeitnow:remote-senior-oracle-data-engineer-karlsruhe-419481",
-    "externalId": "remote-senior-oracle-data-engineer-karlsruhe-419481",
-    "source": "arbeitnow",
-    "title": "Senior Oracle Data Engineer (m/w/d)",
-    "company": "virtual7 GmbH",
-    "location": "Homeoffice",
-    "remote": true,
-    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-419481",
-    "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Finance.\n DEINE MISSION Als Senior Oracle Data Engineer (m/w/d) übernimmst du fachliche Verantwortung für anspruchsvolle Datenbanklösungen und gestaltest performante, sichere Anwendungen auf Basis von Oracle-Technologien. Du bringst deine Expertise in SQL, PL/SQL und Oracle Data Integrator ein, koordinierst das Entwicklerteam und sorgst mit sicherem Auftreten dafür, dass Projektleitung und Endkunde jederzeit bestens abgeholt sind.\n Deine Aufgaben:\n Entwicklung und Weiterentwicklung von Datenbanklösungen auf Basis von Oracle sowie SQL und PL/SQL\n Erfahrung in der Konzeption und Umsetzung von Integrationsprozessen mit Oracle Data Integrator (ODI) sind wünschenswert\n Übernahme fachlicher Verantwortung für Themen und Anforderungen im Projektkontext\n Aktive Unterstützung und Koordination des Entwicklerteams\n Zügige Einarbeitung in neue Technologien und Themenstellungen\n Nutzung von Jira und Confluence zur Planung, Dokumentation und Nachverfolgung der Entwicklungsarbeiten\n Sicherer Umgang mit Git und gängigen Entwicklungswerkzeugen wie Visual Studio Code\n Moderation, Kommunikation und adressatengerechte Vermittlung technischer Inhalte\n Sicheres Auftreten in Abstimmungen mit der Projektleitung und dem Endkunden\n DAS IST UNS WICHTIG Sehr gute Kenntnisse in Oracle-Datenbanken sowie SQL und PL/SQL\n Grundkenntnisse in Oracle Data Integrator (ODI)\n Erfahrung mit Jira und Confluence\n Sicherer Umgang mit Git und gängigen Entwicklungswerkzeugen, beispielsweise Visual Studio Code\n Fähigkeit zur Übernahme fachlicher Verantwortung\n Gute Moderations-, K…",
-    "tags": [
-      "Customer Cluster Finance",
-      "Remote",
-      "Experienced",
-      "fulltime permanent"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-10-10T02:30:06.000Z",
-    "scrapedAt": "2026-10-10T11:50:35.459Z"
+    "scrapedAt": "2026-10-10T16:53:48.647Z"
   },
   {
     "id": "arbeitnow:remote-senior-data-engineer-real-time-analytics-493491",
@@ -105,7 +134,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-10-10T01:24:27.000Z",
-    "scrapedAt": "2026-10-10T11:50:35.459Z"
+    "scrapedAt": "2026-10-10T16:53:48.647Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-paris-office-61015",
@@ -123,7 +152,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-10-10T01:24:27.000Z",
-    "scrapedAt": "2026-10-10T11:50:35.459Z"
+    "scrapedAt": "2026-10-10T16:53:48.647Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -139,7 +168,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-10T11:50:36.030Z"
+    "scrapedAt": "2026-10-10T16:53:49.210Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -155,22 +184,6 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-10-10T11:50:36.030Z"
-  },
-  {
-    "id": "greenhouse:airbnb-8249633",
-    "externalId": "airbnb:8249633",
-    "source": "greenhouse",
-    "title": "Senior Analytics Engineer, Airbnb.org",
-    "company": "Airbnb",
-    "location": "United States",
-    "remote": false,
-    "url": "https://careers.airbnb.com/positions/8249633?gh_jid=8249633",
-    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n The Community You Will Join:\n In December 2020 Airbnb launched Airbnb.org, a non-profit organization that builds on a long history of connecting people in times of crisis to safe, comfortable places to stay. This work began at Airbnb in 2012, when a Host named Shell reached out wanting to offer her home for free to those impacted by Hurricane Sandy in New York City. Since then, Airbnb - and now Airbnb.org - has helped provide safe housing for over 250,000 people to date in response to hundreds of emergency events around the world including hurricanes, wildfires, refugee crises, and a global pandemic. The Airbnb.org team within Airbnb works in support of the Airbnb.org non-profit and partners with Hosts, nonprofit organizations, emergency management agencies and governments to provide stays to people around the world in times of crisis, and has announced a series of commitments to diversity, equity and inclusion including centering marginalized communities in its work and in team composition.\n The Difference You Will Make:\n Airbnb.org operates like a small startup inside Airbnb. Our data team is lean, the problems are new, and there is no established playbook for most of what we do. That means your ingenuity and autonomy are welcome and you will have the room to decide what to build and how, to experiment, and to shape the way a growing, mission-driven organization uses data.\n Analytics Engineers build the data foundation for the whole team - which translates to impact on all stakeholders with insights, analysis and experimentation. As a Senior Analytics Engineer, you will own major projects that build out the…",
-    "tags": [
-      "Data Science"
-    ],
-    "postedAt": "2026-10-05T16:34:11.000Z",
-    "scrapedAt": "2026-10-10T11:50:36.030Z"
+    "scrapedAt": "2026-10-10T16:53:49.210Z"
   }
 ]
