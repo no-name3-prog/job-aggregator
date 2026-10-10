@@ -1,5 +1,75 @@
 [
   {
+    "id": "arbeitnow:research-data-engineer-london-233804",
+    "externalId": "research-data-engineer-london-233804",
+    "source": "arbeitnow",
+    "title": "Research Data Engineer",
+    "company": "Wehrtyou",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/research-data-engineer-london-233804",
+    "description": "<p>Hudson River Trading (HRT) is seeking a Research Data Engineer to join our Data team. Data is a cornerstone of HRT’s trading strategies, serving as the raw fuel that powers research, automated trading, and risk management.&nbsp;<br><br>You will be responsible for developing the end to end of onboarding vendor data, cleaning and validating, normalizing, and featurizing the data for alpha research, as well as ensuring high-quality service via rigorous data checks and alerts.<br><br>HRT does not have information siloes! You will work directly with researchers to build datasets that add value to our trading strategies while developing expertise in one area of data and how alpha is built from careful data analysis.</p>\n<h2><span style=\"font-size: 12pt;\">Responsibilities</span></h2>\n<ul>\n<li>Onboard, normalize, and featurize datasets for statistical modeling research</li>\n<li>Serve as the subject matter expert for datasets you onboard, building expertise in some area of data</li>\n<li>Partner with the sourcing team to identify and evaluate new data procurement opportunities</li>\n<li>Analyze data to identify and improve alpha</li>\n<li>Manage the full end-to-end data pipeline, from raw vendor ingestion to refined feature sets</li>\n<li>Provide on-call support for data issues during normal business hours</li>\n<li>Design and implement automated data quality checks and monitoring alerts</li>\n</ul>\n<h2><span style=\"font-size: 12pt;\">Qualifications</span></h2>\n<ul>\n<li>Strong Python programming skills</li>\n<li>Proficiency in data science methodologies&nbsp;</li>\n<li>Fluency in data analysis and statistics</li>\n<li>Demonstrated interest in finance</li>\n<li>Exceptional attention to detail</li>\n<li>Undergraduate degree in a STEM field</li>\n</ul>\n<p>The estimated base salary range for this position is 200,000 to 300,000 USD per year (or local equivalent). The base pay offered may vary depending on multiple individualized factors, including location, job-related knowledge, skills,…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-10-10T09:55:11.000Z",
+    "scrapedAt": "2026-10-10T11:50:35.459Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-data-platform-london-100292",
+    "externalId": "senior-data-engineer-data-platform-london-100292",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer - Data Platform",
+    "company": "Spotify",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-data-engineer-data-platform-london-100292",
+    "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\n The Data Platform team develops and maintains the infrastructure that supports Spotify’s data ecosystem. Within Data Platform, the Data Collection product area builds infrastructure that makes it easier to collect and consume data at scale. You’ll join a team focused on making user behaviour data seamless and reliable for data teams across Spotify.\n What You'll Do\n Collaborate with product and engineering teams to build and support critical data infrastructure and datasets.\n Build systems that collect and process user behaviour data at scale.\n Help power Spotify’s personalization and recommendation systems, as well as the tools teams use to build and test new features.\n Design and evolve data architectures that support high data volumes and a broad range of internal users.\n Improve the reliability, scalability, and usability of our data infrastructure.\n Work across disciplines to solve complex data challenges and make an impact across Spotify.\n Who You Are\n You are an experienced Data Engineer, and proficient in backend development using Java.\n You are comfortable working with large-scale datasets using SQL and platforms such as BigQuery.\n You have experience with JVM-based data processing frameworks such as Flink, Beam, Dataflow, or Spark.\n You are familiar with DevOps practices, cloud infrastructure, containerized applications, and Kubernetes fundamentals.\n You have experience with data modeling and schema design.\n You care about high-quality code and engineering practices such as continuous delivery and automated testing.\n You value experimentation, iterative development, and collaborative software development practices.\n You are co…",
+    "tags": [
+      "Platform",
+      "Permanent"
+    ],
+    "jobType": "Permanent",
+    "postedAt": "2026-10-10T06:05:16.000Z",
+    "scrapedAt": "2026-10-10T11:50:35.459Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-platform-engineer-montpellier-france-182669",
+    "externalId": "senior-data-platform-engineer-montpellier-france-182669",
+    "source": "arbeitnow",
+    "title": "Senior Data Platform Engineer",
+    "company": "Swile",
+    "location": "Montpellier, France",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/swile/senior-data-platform-engineer-montpellier-france-182669",
+    "description": "At Swile, we believe that good products can help reduce friction in daily professional life and boost employee satisfaction. Today, we provide innovative solutions in various areas such as Fintech, Travel, HR, and Employee Benefits to more than 5.5 million users in 85,000 companies in France and Brazil.\nAs a Senior Data Platform Engineer , you will join the Data Platform team. We are an enablement team: we build the tools, standards and foundations that let every engineering team at Swile own its data autonomously. You will work at the crossroads of data, software engineering and infrastructure, in a senior team where everyone has a direct impact.\n As a Senior Data Platform Engineer, your mission will be to:\n Design and improve the tools and platforms that empower engineering teams to build and run their own data pipelines\n Ship AI tooling (Skills, MCP) as part of the platform, to help teams design, build and run their data products\n Contribute to our batch processing (Airflow, dbt) and event-driven architecture (Kafka)\n Define, document and promote standards and best practices\n Help teams adopt our tools and practices, and grow their skills\n Evangelize the platform vision and build relays across teams, in France and Brazil\n ✨It will be a perfect match if you:\n Have solid experience in data engineering or platform engineering, with a good software engineering culture\n Have strong expertise in one area (data, infrastructure, software, EDA/streaming, developer tooling) and are curious to learn the others\n Have worked with some of these: Python, Ruby, Airflow, Kafka, Snowflake, dbt, Terraform\n Are autonomous, communicate clearly, and enjoy collaborating with and supporting other teams\n Are curious about new tools and practices, including AI (no expertise required)\n Speak good English (we work daily with our teams in Brazil)\n You are a future responsible swiler: you share our commitment to the environment, diversity, fairness and inclusion and are prepared to work ever…",
+    "tags": [
+      "Engineering",
+      "Permanent"
+    ],
+    "jobType": "Permanent",
+    "postedAt": "2026-10-10T04:24:56.000Z",
+    "scrapedAt": "2026-10-10T11:50:35.459Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-platform-engineer-paris-france-151903",
+    "externalId": "senior-data-platform-engineer-paris-france-151903",
+    "source": "arbeitnow",
+    "title": "Senior Data Platform Engineer",
+    "company": "Swile",
+    "location": "Paris, France",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/swile/senior-data-platform-engineer-paris-france-151903",
+    "description": "At Swile, we believe that good products can help reduce friction in daily professional life and boost employee satisfaction. Today, we provide innovative solutions in various areas such as Fintech, Travel, HR, and Employee Benefits to more than 5.5 million users in 85,000 companies in France and Brazil.\nAs a Senior Data Platform Engineer , you will join the Data Platform team. We are an enablement team: we build the tools, standards and foundations that let every engineering team at Swile own its data autonomously. You will work at the crossroads of data, software engineering and infrastructure, in a senior team where everyone has a direct impact.\n As a Senior Data Platform Engineer, your mission will be to:\n Design and improve the tools and platforms that empower engineering teams to build and run their own data pipelines\n Ship AI tooling (Skills, MCP) as part of the platform, to help teams design, build and run their data products\n Contribute to our batch processing (Airflow, dbt) and event-driven architecture (Kafka)\n Define, document and promote standards and best practices\n Help teams adopt our tools and practices, and grow their skills\n Evangelize the platform vision and build relays across teams, in France and Brazil\n ✨It will be a perfect match if you:\n Have solid experience in data engineering or platform engineering, with a good software engineering culture\n Have strong expertise in one area (data, infrastructure, software, EDA/streaming, developer tooling) and are curious to learn the others\n Have worked with some of these: Python, Ruby, Airflow, Kafka, Snowflake, dbt, Terraform\n Are autonomous, communicate clearly, and enjoy collaborating with and supporting other teams\n Are curious about new tools and practices, including AI (no expertise required)\n Speak good English (we work daily with our teams in Brazil)\n You are a future responsible swiler: you share our commitment to the environment, diversity, fairness and inclusion and are prepared to work ever…",
+    "tags": [
+      "Engineering",
+      "Permanent"
+    ],
+    "jobType": "Permanent",
+    "postedAt": "2026-10-10T04:24:56.000Z",
+    "scrapedAt": "2026-10-10T11:50:35.459Z"
+  },
+  {
     "id": "arbeitnow:remote-senior-oracle-data-engineer-karlsruhe-419481",
     "externalId": "remote-senior-oracle-data-engineer-karlsruhe-419481",
     "source": "arbeitnow",
@@ -17,7 +87,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-10-10T02:30:06.000Z",
-    "scrapedAt": "2026-10-10T04:07:35.632Z"
+    "scrapedAt": "2026-10-10T11:50:35.459Z"
   },
   {
     "id": "arbeitnow:remote-senior-data-engineer-real-time-analytics-493491",
@@ -35,7 +105,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-10-10T01:24:27.000Z",
-    "scrapedAt": "2026-10-10T04:07:35.632Z"
+    "scrapedAt": "2026-10-10T11:50:35.459Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-paris-office-61015",
@@ -53,42 +123,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-10-10T01:24:27.000Z",
-    "scrapedAt": "2026-10-10T04:07:35.632Z"
-  },
-  {
-    "id": "arbeitnow:enterprise-analytics-engineer-london-111179",
-    "externalId": "enterprise-analytics-engineer-london-111179",
-    "source": "arbeitnow",
-    "title": "Enterprise Analytics Engineer",
-    "company": "84674Th44Metrea9999",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/84674th44metrea9999/enterprise-analytics-engineer-london-111179",
-    "description": "<div class=\"content-intro\"><h3 id=\"isPasted\"><strong>Company Overview</strong></h3>\n<p>Metrea delivers effects-as-a-service to national security partners across five domains and more than a dozen mission areas. These include airborne ISR, electronic warfare, secure communications, aerial refueling, special air missions, aerial firefighting, and advanced simulation. We own the whole stack: designing, building, and operating turnkey capabilities that give our partners decisive, asymmetric advantage against rapidly evolving threats.</p>\n<p>Our operating model is built around three interlocking pillars. The Support Groups provide a global shared-service – spanning people, finance, platform, operations, legal, and engagement. This frees up our Core Groups, who develop and own mission capabilities end-to-end, to focus entirely on delivery. The Market Groups apply a regional lens, ensuring that our agile and adaptable capabilities remain aligned to the wicked problems that matter most to our partners across the Americas, EMEA, and Asia-Pacific.</p>\n<p>At the heart of our model is a simple but powerful idea: be a true partner with skin in the game. Our partners need effects, not just equipment. By owning the full stack – from the lab to the field – we are able to drive a continuous cycle of innovation that keeps our partners ahead. It's a fast-moving, intellectually demanding environment where talented people are given real responsibility, work on problems that matter, and contribute to an enterprise that is growing quickly and deliberately.</p>\n<p>Headquartered in Washington, DC, with facilities across the United States, the United Kingdom, as well as Continental Europe and Asia-Pacific.</p></div><h3><strong>Position Summary</strong></h3>\n<p>In this role you will primarily be responsible for owning the business logic and semantic data layer for our Enterprise reporting. You will be responsible for writing custom SQL views that merge data between disparate systems in our d…",
-    "tags": [
-      "Platform Group"
-    ],
-    "postedAt": "2026-10-10T00:55:12.000Z",
-    "scrapedAt": "2026-10-10T04:07:35.632Z"
-  },
-  {
-    "id": "jobicy:154934",
-    "externalId": "154934",
-    "source": "jobicy",
-    "title": "Staff Data Engineer",
-    "company": "Jobber",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/135a74b7-221.jpeg",
-    "location": "Canada",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/154934-staff-data-engineer-2",
-    "description": "Please note: Our Talent team at Jobber will be offline for Jobber Impact - our flagship event of the year, bringing Jobberinos together to connect, learn, and celebrate what we're building - starting October 6th and extending until October 9th. We’ll be back to go through applications and reach out with an update on your candidacy once we return next week!\n This will be updated automatically on all job posts above our What you can expect from Jobber headline.\n The automated email to candidates will have the same message as above.\n Does working with Data motivate and excite you? Do you want to make a difference cross functionally?\n Then Jobber might be the place for you! We’re looking for a new Staff Data Engineer to join our Data Platform Team.\n Jobber exists to help people in small businesses be successful. We work with small home service businesses, like your local plumbers, painters, and landscapers, to transform the way service is delivered through technology. With Jobber they can quote, schedule, invoice, and collect payments from their customers, while providing an easy and professional customer experience. Running a small business today isn’t like it used to be—the way we consume and deliver service is changing rapidly, technology is evolving, and customers expect more. That’s why we put the power and flexibility in their hands to run their businesses how, where, and when they want!\n Our culture of transparency, inclusivity, collaboration, and innovation has been recognized by Great Place to Work, Canada’s Most Admired Corporate Cultures, and more. Jobber has also been named on the Globe and Mail’s Canada’s Top Growing Companies list, and Deloitte Canada’s Technology Fast 50™, Enterprise Fast 15, and Technology Fast 500™ lists. With an Executive team that has over thirty years of industry experience of leading the way, we’ve come a long way from our first customer in 2011—but we’ve just scratched the surface of what we want to accomplish for our customers .…",
-    "tags": [
-      "Data Science & Analytics",
-      "Director"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-10-09T17:58:42.000Z",
-    "scrapedAt": "2026-10-10T04:07:35.734Z"
+    "scrapedAt": "2026-10-10T11:50:35.459Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -104,7 +139,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-10T04:07:36.209Z"
+    "scrapedAt": "2026-10-10T11:50:36.030Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -120,7 +155,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-10-10T04:07:36.209Z"
+    "scrapedAt": "2026-10-10T11:50:36.030Z"
   },
   {
     "id": "greenhouse:airbnb-8249633",
@@ -136,38 +171,6 @@
       "Data Science"
     ],
     "postedAt": "2026-10-05T16:34:11.000Z",
-    "scrapedAt": "2026-10-10T04:07:36.209Z"
-  },
-  {
-    "id": "greenhouse:block-5434325008",
-    "externalId": "block:5434325008",
-    "source": "greenhouse",
-    "title": "Senior Analytics Engineer, AI & DX Analytics",
-    "company": "Block",
-    "location": "New York, NY, United States of America",
-    "remote": false,
-    "url": "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
-    "description": "Block builds simple, powerful tools that make progress towards an economy that’s truly open to all.\n Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Join us.\n The Role\n The AI & DX (Developer Experience) Analytics team exists to measure and improve Block's developer experience and investment in AI. We turn raw engineering signals (agent session data, pull request and CI activity, and AI spend) into reporting and analysis that shape leadership's AI investment decisions, and drive improvement in AI ROI and developer experience. Your work will be the trusted source of truth that engineers and executives use to decide where AI investment is working and where to redirect it.\n We're hiring a Senior Analytics Engineer to own parts of that pipeline end to end. This is a broad, high-visibility role with a lot of white space: you will instrument new telemetry at the source and build production pipelines that turn it into governed data, then turn that governed data into executive-facing reporting and the analysis that surfaces concrete opportunities to improve AI ROI and developer experience. You'll also help pioneer one of the most consequential open problems in the industry right now: measuring the productivity impact of an increasingly AI- and agent-augmented engineering workforce, where there is no textbook answer and real room to set the standard. You'll define new metrics and craft the visual narrative — the charts, dashboards, and presentation materials — that make them land with…",
-    "tags": [
-      "10410 Engineering - Developer Experience"
-    ],
-    "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-10-10T04:07:36.209Z"
-  },
-  {
-    "id": "greenhouse:figma-6178851004",
-    "externalId": "figma:6178851004",
-    "source": "greenhouse",
-    "title": "Data Engineer Intern (2027)",
-    "company": "Figma",
-    "location": "San Francisco, CA • New York, NY",
-    "remote": false,
-    "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
-    "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!\n We are looking for Data Engineering interns who are excited to help scale the systems and pipelines that power decision-making at Figma. As an intern on our data team, you will partner with engineers and analysts to design and build reliable datasets, ensure data quality, and make Figma's data more accessible across the company.\n This internship will be based out of our San Francisco or New York Hub.\n What you'll do at Figma:\n Build, test, and document data pipelines that bring product or business data into Figma’s data warehouse\n Help design foundational datasets that are trusted, well-documented, and easy to use\n Optimize pipelines for performance and scalability as Figma grows\n Partner with cross-functional teammates to understand data needs and deliver solutions\n Contribute to the tools and practices that make working with data at Figma easier\n With support from a manager and mentor, you’ll own a scoped project from problem definition through implementation, testing, documentation, and sharing the results.\n Some projects you could work on:\n Develop new ETL jobs to integrate product or business data into our warehouse\n Improve the performance and reliability of core pipelines\n Build reusable datasets that support experimentation, product and business analytics, or cross-functional stakeholders\n Document and simplify complex data workflows for broader use\n We'd love to hear from you if you have:\n Experience coding in Python or a similar language and writing SQL queries\n Experience building o…",
-    "tags": [
-      "Early Career"
-    ],
-    "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-10-10T04:07:36.209Z"
+    "scrapedAt": "2026-10-10T11:50:36.030Z"
   }
 ]

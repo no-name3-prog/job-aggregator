@@ -200,6 +200,28 @@
     ]
   },
   {
+    "company": "Spotify",
+    "jobCount": 3,
+    "sources": [
+      "arbeitnow",
+      "lever"
+    ],
+    "locations": [
+      "London",
+      "Stockholm"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer - Data Platform",
+      "Senior Backend Data Engineer – Content Intelligence",
+      "Senior Data Engineer - Data Platform"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-data-engineer-data-platform-london-100292",
+      "https://jobs.lever.co/spotify/80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
+      "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da"
+    ]
+  },
+  {
     "company": "Adobe",
     "jobCount": 2,
     "sources": [
@@ -312,38 +334,22 @@
     ]
   },
   {
-    "company": "Spotify",
+    "company": "Swile",
     "jobCount": 2,
-    "sources": [
-      "lever"
-    ],
-    "locations": [
-      "Stockholm",
-      "London"
-    ],
-    "sampleTitles": [
-      "Senior Backend Data Engineer – Content Intelligence",
-      "Senior Data Engineer - Data Platform"
-    ],
-    "officialUrls": [
-      "https://jobs.lever.co/spotify/80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
-      "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da"
-    ]
-  },
-  {
-    "company": "84674Th44Metrea9999",
-    "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "London"
+      "Montpellier, France",
+      "Paris, France"
     ],
     "sampleTitles": [
-      "Enterprise Analytics Engineer"
+      "Senior Data Platform Engineer",
+      "Senior Data Platform Engineer"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/84674th44metrea9999/enterprise-analytics-engineer-london-111179"
+      "https://www.arbeitnow.fr/jobs/companies/swile/senior-data-platform-engineer-montpellier-france-182669",
+      "https://www.arbeitnow.fr/jobs/companies/swile/senior-data-platform-engineer-paris-france-151903"
     ]
   },
   {
@@ -360,22 +366,6 @@
     ],
     "officialUrls": [
       "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118"
-    ]
-  },
-  {
-    "company": "Jobber",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "Canada"
-    ],
-    "sampleTitles": [
-      "Staff Data Engineer"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/154934-staff-data-engineer-2"
     ]
   },
   {
@@ -475,19 +465,19 @@
     ]
   },
   {
-    "company": "Workday",
+    "company": "Wehrtyou",
     "jobCount": 1,
     "sources": [
-      "workday"
+      "arbeitnow"
     ],
     "locations": [
-      "2 Locations"
+      "London"
     ],
     "sampleTitles": [
-      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME"
+      "Research Data Engineer"
     ],
     "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830"
+      "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/research-data-engineer-london-233804"
     ]
   }
 ]
