@@ -30,30 +30,30 @@
     ]
   },
   {
-    "company": "Coinbase",
+    "company": "Anthropic",
     "jobCount": 6,
     "sources": [
       "greenhouse"
     ],
     "locations": [
-      "Hybrid - New York, NY",
-      "Hybrid - San Francisco, CA",
-      "Remote - USA"
+      "San Francisco, CA | New York City, NY",
+      "San Francisco, CA | New York City, NY | Seattle, WA",
+      "San Francisco, CA"
     ],
     "sampleTitles": [
-      "Analytics Engineer Intern",
-      "Data Engineer Intern",
-      "Senior Market Data Engineer",
-      "Staff Data Engineer, Market Data",
-      "Senior Software Engineer, Data Engineering Platform",
-      "Senior Analytics Engineer, GFCO Analytics"
+      "Data Engineer, Billing & Payments",
+      "Data Engineer, Product",
+      "Recruiting Analytics Data Engineer",
+      "Data Engineer, GTM",
+      "Data Engineer, Safeguards",
+      "Pre-training Data Infrastructure Engineer"
     ],
     "officialUrls": [
-      "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
-      "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
-      "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
-      "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
-      "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199"
+      "https://job-boards.greenhouse.io/anthropic/jobs/5450099008",
+      "https://job-boards.greenhouse.io/anthropic/jobs/5448481008",
+      "https://job-boards.greenhouse.io/anthropic/jobs/5424111008",
+      "https://job-boards.greenhouse.io/anthropic/jobs/5418610008",
+      "https://job-boards.greenhouse.io/anthropic/jobs/5240422008"
     ]
   },
   {
@@ -85,29 +85,29 @@
     ]
   },
   {
-    "company": "Anthropic",
+    "company": "Coinbase",
     "jobCount": 5,
     "sources": [
       "greenhouse"
     ],
     "locations": [
-      "San Francisco, CA | New York City, NY | Seattle, WA",
-      "San Francisco, CA | New York City, NY",
-      "San Francisco, CA"
+      "Hybrid - New York, NY",
+      "Hybrid - San Francisco, CA",
+      "Remote - USA"
     ],
     "sampleTitles": [
-      "Data Engineer, Product",
-      "Recruiting Analytics Data Engineer",
-      "Data Engineer, GTM",
-      "Data Engineer, Safeguards",
-      "Pre-training Data Infrastructure Engineer"
+      "Analytics Engineer Intern",
+      "Data Engineer Intern",
+      "Senior Market Data Engineer",
+      "Staff Data Engineer, Market Data",
+      "Senior Analytics Engineer, GFCO Analytics"
     ],
     "officialUrls": [
-      "https://job-boards.greenhouse.io/anthropic/jobs/5448481008",
-      "https://job-boards.greenhouse.io/anthropic/jobs/5424111008",
-      "https://job-boards.greenhouse.io/anthropic/jobs/5418610008",
-      "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
-      "https://job-boards.greenhouse.io/anthropic/jobs/4973067008"
+      "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
+      "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+      "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
+      "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
+      "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880"
     ]
   },
   {
@@ -131,6 +131,31 @@
       "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
       "http://block.xyz/careers/jobs/5424561008?gh_jid=5424561008",
       "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008"
+    ]
+  },
+  {
+    "company": "Discord",
+    "jobCount": 4,
+    "sources": [
+      "greenhouse",
+      "jobicy"
+    ],
+    "locations": [
+      "USA",
+      "San Francisco Bay Area",
+      "Remote (U.S.)"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer, Ads",
+      "Staff Data Engineer - Data Infrastructure",
+      "Senior Data Engineer",
+      "Senior Data Engineer, Ads"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/155126-senior-data-engineer-ads",
+      "https://job-boards.greenhouse.io/discord/jobs/8691572002",
+      "https://job-boards.greenhouse.io/discord/jobs/8485884002",
+      "https://job-boards.greenhouse.io/discord/jobs/8299493002"
     ]
   },
   {
@@ -198,27 +223,6 @@
       "https://job-boards.greenhouse.io/affirm/jobs/7916080003",
       "https://job-boards.greenhouse.io/affirm/jobs/7813362003",
       "https://job-boards.greenhouse.io/affirm/jobs/7764109003"
-    ]
-  },
-  {
-    "company": "Discord",
-    "jobCount": 3,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "San Francisco Bay Area",
-      "Remote (U.S.)"
-    ],
-    "sampleTitles": [
-      "Staff Data Engineer - Data Infrastructure",
-      "Senior Data Engineer",
-      "Senior Data Engineer, Ads"
-    ],
-    "officialUrls": [
-      "https://job-boards.greenhouse.io/discord/jobs/8691572002",
-      "https://job-boards.greenhouse.io/discord/jobs/8485884002",
-      "https://job-boards.greenhouse.io/discord/jobs/8299493002"
     ]
   },
   {
@@ -331,6 +335,38 @@
     ]
   },
   {
+    "company": "autonomous-teaming",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Munich (DEU)"
+    ],
+    "sampleTitles": [
+      "ML Data Engineer (m/f/d) - Sensor Data & Pipelines"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/ml-data-engineer-sensor-data-pipelines-munich-deu-110732"
+    ]
+  },
+  {
+    "company": "Bettyjobboard",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer | Betty CA"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-data-engineer-betty-ca-london-438162"
+    ]
+  },
+  {
     "company": "Cloudflare",
     "jobCount": 1,
     "sources": [
@@ -344,6 +380,22 @@
     ],
     "officialUrls": [
       "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118"
+    ]
+  },
+  {
+    "company": "Doctolib",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Paris, Paris"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer (x/f/m)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-data-engineer-paris-paris-87219"
     ]
   },
   {
@@ -392,22 +444,6 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.ch/jobs/companies/nozominetworks/fullstack-data-engineer-mendrisio-75224"
-    ]
-  },
-  {
-    "company": "Ommax",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "München"
-    ],
-    "sampleTitles": [
-      "Intern AI & Data Engineering (m/f/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/ommax/intern-ai-data-engineering-munchen-390578"
     ]
   },
   {
@@ -472,38 +508,6 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8112043"
-    ]
-  },
-  {
-    "company": "Sungrow Europe - Welcome traveler!",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Germany - Munich"
-    ],
-    "sampleTitles": [
-      "O&M Data Engineer – Munich (Fixed Term 2 years)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/sungrow-europe-welcome-traveler/om-data-engineer-munich-fixed-term-2-years-germany-munich-289053"
-    ]
-  },
-  {
-    "company": "Swap",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/swap/analytics-engineer-london-362159"
     ]
   }
 ]

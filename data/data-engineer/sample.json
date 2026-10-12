@@ -1,59 +1,104 @@
 [
   {
-    "id": "arbeitnow:om-data-engineer-munich-fixed-term-2-years-germany-munich-289053",
-    "externalId": "om-data-engineer-munich-fixed-term-2-years-germany-munich-289053",
-    "source": "arbeitnow",
-    "title": "O&M Data Engineer – Munich (Fixed Term 2 years)",
-    "company": "Sungrow Europe - Welcome traveler!",
-    "location": "Germany - Munich",
+    "id": "greenhouse:anthropic-5450099008",
+    "externalId": "anthropic:5450099008",
+    "source": "greenhouse",
+    "title": "Data Engineer, Billing & Payments",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/sungrow-europe-welcome-traveler/om-data-engineer-munich-fixed-term-2-years-germany-munich-289053",
-    "description": "Your mission Hello and welcome to Sungrow Europe! We are looking for a Data Engineer who can turn complex EMS, SCADA and contract data into reliable operational insight across our ESS fleet.\n Configure, commission and optimise EMS settings, control strategies, setpoints and dispatch logic across the ESS fleet. Diagnose EMS faults, validate software and firmware updates, and support reliable system performance. Serve as the EMS technical contact for Operations and Maintenance teams, the Remote Service Center and HQ. Connect and maintain data feeds from customer EMS platforms, the Insight Portal, SCADA telemetry and ticketing systems. Build robust data pipelines that bring operational sources into a consistent, traceable dataset and resolve data gaps quickly. Develop fleet monitoring dashboards and automate LTSA compliance, availability and ad hoc performance reporting.\n Your profile Sounds like an exciting challenge? To thrive in this role and enjoy a long-term impact, your background could look like this:\n You hold a degree in Engineering, Computer Science, Data Science or a comparable technical field. You bring experience with SCADA, EMS or industrial telemetry, ideally in ESS, BESS, renewables or a similarly technical environment. You understand BESS control strategies, dispatch logic and PLC behaviour, including hands-on EMS configuration or troubleshooting. You work confidently with SQL and Python or similar languages, time-series data and REST APIs. You have experience building dashboards in tools such as Power BI or Grafana and are familiar with Azure or AWS. You are structured, detail-oriented and able to translate contract requirements into transparent data logic. Knowledge of availability calculations and SLA, LTSA or liquidated damages frameworks is a strong advantage. You communicate confidently in English at C1 level; other European languages are a plus.\n Why us? Join Sungrow Europe's Energy Storage Service team and help shape how we monitor, operate an…",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450099008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\nAs a Data Engineer supporting Billing & Payments Engineering, you'll join the Finance Data Engineering team and build the foundation for accurate, scalable billing and revenue data across Anthropic. You'll work closely with Billing Engineering, Finance and Accounting, as well as Product and other partners, to turn billing and payments data into reliable metrics, reporting and insights. You'll make sure teams have trustworthy data that scales with our growth, and you'll lead your own projects to enable self-serve insights that help teams make data-driven decisions.\n Responsibilities:\n• Partner with Billing Engineering, Finance and Accounting to understand their data and reporting needs, and translate them into technical requirements\n• Design, build and maintain data models and pipelines in dbt that transform raw billing, usage and payments data into canonical datasets\n• Own revenue data accuracy and reconciliation, making sure billing, usage and revenue data tie out across systems\n• Define success metrics for billing systems, and build the data models and monitoring to track them\n• Set high data integrity standards and SLAs for timely, accurate delivery of billing and revenue data\n• Share on-call and data operations responsibilities for Finance Data Engineering pipelines\n• Build dashboards and self-serve data products that track core metrics and deliver insights across the company\n• Champion best practices for dbt, data modeling and SQL\n• Influence the Billing Engineering roadmap from a data systems perspective\n• Become an expert in our data models and data architecture\n You may be a good fit if you have:\n• 5+ years o…",
     "tags": [
+      "Data Science & Analytics"
+    ],
+    "postedAt": "2026-10-12T19:03:03.000Z",
+    "scrapedAt": "2026-10-12T20:51:36.797Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-paris-paris-87219",
+    "externalId": "senior-data-engineer-paris-paris-87219",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer (x/f/m)",
+    "company": "Doctolib",
+    "location": "Paris, Paris",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-data-engineer-paris-paris-87219",
+    "description": "<h2 class=\"s-pb-2 s-pt-4 s-heading-xl s-text-foreground dark:s-text-foreground-night\"><strong class=\"s-font-semibold s-text-foreground dark:s-text-foreground-night\">Your Impact</strong></h2>\n<div class=\"s-whitespace-pre-wrap s-break-words s-font-normal first:s-pt-0 last:s-pb-0 s-py-1 @md:s-pt-2 @md:s-pb-[10px] @md:s-leading-relaxed s-text-base s-leading-relaxed s-text-foreground dark:s-text-foreground-night\">We are looking for a <strong class=\"s-font-semibold s-text-foreground dark:s-text-foreground-night\">Senior Data Engineer into our engineering </strong>team at Doctolib.</div>\n<div class=\"s-whitespace-pre-wrap s-break-words s-font-normal first:s-pt-0 last:s-pb-0 s-py-1 @md:s-pt-2 @md:s-pb-[10px] @md:s-leading-relaxed s-text-base s-leading-relaxed s-text-foreground dark:s-text-foreground-night\">Your mission will be to build data products that provide insights and support decision-making across Doctolib, helping to transform access to healthcare. You will work in a feature team developing data pipelines and solutions that empower our organization with data-driven insights while supporting our AI strategy, enabling health professionals to deliver better care and helping millions of patients access quality healthcare.</div>\n<div class=\"s-whitespace-pre-wrap s-break-words s-font-normal first:s-pt-0 last:s-pb-0 s-py-1 @md:s-pt-2 @md:s-pb-[10px] @md:s-leading-relaxed s-text-base s-leading-relaxed s-text-foreground dark:s-text-foreground-night\">Working in the tech team at Doctolib means building innovative products and features to improve the daily lives of care teams and patients.</div>\n<h2 class=\"s-pb-2 s-pt-4 s-heading-xl s-text-foreground dark:s-text-foreground-night\"><strong class=\"s-font-semibold s-text-foreground dark:s-text-foreground-night\">What you'll do</strong></h2>\n<div class=\"s-whitespace-pre-wrap s-break-words s-font-normal first:s-pt-0 last:s-pb-0 s-py-1 @md:s-pt-2 @md:s-pb-[10px] @md:s-leading-relaxed s-text-base s-leading-relaxed s-text-foreground dark…",
+    "tags": [
+      "Engineering"
+    ],
+    "postedAt": "2026-10-12T16:55:10.000Z",
+    "scrapedAt": "2026-10-12T20:51:35.748Z"
+  },
+  {
+    "id": "arbeitnow:ml-data-engineer-sensor-data-pipelines-munich-deu-110732",
+    "externalId": "ml-data-engineer-sensor-data-pipelines-munich-deu-110732",
+    "source": "arbeitnow",
+    "title": "ML Data Engineer (m/f/d) - Sensor Data & Pipelines",
+    "company": "autonomous-teaming",
+    "location": "Munich (DEU)",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/ml-data-engineer-sensor-data-pipelines-munich-deu-110732",
+    "description": "What we offer Work in an international, agile team creating the future of autonomous systems Grow your career in a expanding and ambitious engineering team Build innovative products using state-of-the-art technologies in AI, robotics, and autonomy  Benefit from a steep learning curve and continuous development Enjoy team events and a strong, collaborative culture\n Your mission This role owns the data foundation of our perception systems end-to-end — the layer that directly determines model performance in real-world environments. You'll set the technical direction for how we collect, curate, and continuously improve the datasets behind object detection, working as a senior technical partner to ML, perception, and robotics teams — turning raw, messy sensor data into reliable, production-grade systems at scale.\nYou will take full ownership of the ML data lifecycle — from architecture decisions on ingestion and pipelines, through labeling strategy and QA, to driving continuous, metrics-informed dataset improvement — and will be expected to bring judgment and prior experience to how this is done, not just execute a defined process.\nWhat you'll do:\n Architect and own scalable pipelines for ingesting, organizing, and preprocessing large volumes of time-series camera and multi-sensor data (RGB, IR, thermal, depth, IMU) Drive the strategy behind our object detection datasets, ensuring quality, diversity, and statistical representativeness at scale Design and operate active learning loops that connect model performance directly to data selection and improvement priorities Own labeling workflows end-to-end — tooling decisions, QA methodology, consistency standards, and coordination of annotation efforts Partner closely with AI Engineers to diagnose model weaknesses, bias, and drift, and translate findings into concrete dataset strategy Plan and lead data collection campaigns (field recordings, drone/video capture) to close gaps with high-value real-world data Build internal t…",
+    "tags": [
+      "Active Learning",
+      "Machine Learning",
+      "Python",
+      "Pandas",
+      "Data Orchestration",
+      "CVAT",
+      "NumPy",
+      "Data Engineering",
+      "Data Pipelines",
+      "Dataset Engineering",
+      "Data Processing",
+      "Data Lifecycle",
+      "ELT / ETL",
+      "Sensor Data",
+      "Video Data Processing",
       "Experienced",
-      "Fixed term",
+      "Permanent",
       "Full time"
     ],
     "jobType": "Experienced",
-    "postedAt": "2026-10-12T08:09:26.000Z",
-    "scrapedAt": "2026-10-12T10:10:27.850Z"
+    "postedAt": "2026-10-12T14:09:45.000Z",
+    "scrapedAt": "2026-10-12T20:51:35.748Z"
   },
   {
-    "id": "arbeitnow:intern-ai-data-engineering-munchen-390578",
-    "externalId": "intern-ai-data-engineering-munchen-390578",
-    "source": "arbeitnow",
-    "title": "Intern AI & Data Engineering (m/f/d)",
-    "company": "Ommax",
-    "location": "München",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/ommax/intern-ai-data-engineering-munchen-390578",
-    "description": "What we look for: You support client projects in turning AI opportunities into practical, valuable, and scalable solutions. You contribute to the development and implementation of AI and automation use cases, from the initial idea to technical prototypes. You help build software components, interfaces, and prototypes for concrete client applications. You prepare, integrate, and process data for AI applications and support the connection of different data sources. You contribute to the development and continuous improvement of data pipelines and technical foundations for scalable solutions. You work closely with AI specialists, data scientists, engineers, and consultants in interdisciplinary client projects. You evaluate new AI tools, models, and methods, assess their potential for relevant use cases, and document your findings.\n What we require: You are currently pursuing a degree in Computer Science, Data Science, Artificial Intelligence, Software Engineering, or a related field with excellent academic performance. You have gained initial hands-on experience in software development, ideally with Python. You have a strong interest in generative AI, machine learning, data engineering, and modern software architectures. Ideally, you have basic knowledge of databases, APIs, cloud technologies, or version control systems such as Git. You demonstrate strong analytical and solution-oriented thinking, with a structured, independent working style and high standards for quality. You are able to communicate technical topics clearly and enjoy collaborating with clients and multidisciplinary project teams. You have good German and English skills.\n What you can expect: Your impact is crucial: You develop solutions that connect AI strategy and technical implementation, creating tangible value for our clients. Your hard work pays off! You benefit from attractive salary packages, participation in sales success, and exclusive investment opportunities. In addition, we promote our to…",
+    "id": "jobicy:155126",
+    "externalId": "155126",
+    "source": "jobicy",
+    "title": "Senior Data Engineer, Ads",
+    "company": "Discord",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/02/WRILS-210216185819-522054.jpg",
+    "location": "USA",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/155126-senior-data-engineer-ads",
+    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.\n Discord seeks a seasoned Data Engineer, focusing on our advertising product data. In this role, you will drive technical vision and strategy for ads data engineering in support of our ML initiatives while building and maintaining sophisticated data pipelines, datasets, and analytical tools. You will lead cross-functional initiatives to transform our advertising products through data-driven insights and mentor fellow engineers to deliver exceptional results.\n This role works heavily with Data Science, Machine Learning, and product. If leading technical innovation, architecting scalable solutions, and empowering teams through data excites you, we encourage you to make a move!\n What You'll Be Doing\n Design and own core ads data models : fact/dim tables, canonical datasets, and aggregation layers that power delivery, measurement, targeting, attribution, and ML use cases.\n Build and maintain the ML data that enables ads ranking, delivery, and targeting - including feature development, label generation workflows, intra-day training, and ML input observability to catch data quality issues before they degrade model performance.\n Build conversion measurement pipelines and integrate third-party attribution data - including Conversion Attribution and Mobile Measurement Partner (MMP) integrations (Adjust, AppsFlyer, Singular) - ensuring attribution accuracy and data parity across measurement surfaces.\n Build batch and near real-time pipeline infrastructure across the ads ecosystem - pushing toward lower-latency data for ML and reporting use cases on our BigQuery + dbt + Dagster stack. Partnering with Data Platfor…",
     "tags": [
-      "Student",
-      "Intern",
-      "Full time"
+      "Data Science & Analytics",
+      "Senior"
     ],
-    "jobType": "Student",
-    "postedAt": "2026-10-12T08:09:18.000Z",
-    "scrapedAt": "2026-10-12T10:10:27.850Z"
+    "jobType": "Full-Time",
+    "postedAt": "2026-10-12T13:37:23.000Z",
+    "scrapedAt": "2026-10-12T20:51:36.067Z"
   },
   {
-    "id": "arbeitnow:analytics-engineer-london-362159",
-    "externalId": "analytics-engineer-london-362159",
+    "id": "arbeitnow:senior-data-engineer-betty-ca-london-438162",
+    "externalId": "senior-data-engineer-betty-ca-london-438162",
     "source": "arbeitnow",
-    "title": "Analytics Engineer",
-    "company": "Swap",
+    "title": "Senior Data Engineer | Betty CA",
+    "company": "Bettyjobboard",
     "location": "London",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/swap/analytics-engineer-london-362159",
-    "description": "About Swap\n Swap is the infrastructure behind modern agentic commerce. The only AI-native platform connecting backend operations with a forward-thinking storefront experience.\n Built for brands that want to sell anything - anywhere, Swap centralises global operations, powers intelligent workflows, and unlocks margin-protecting decisions with real-time data and capability. Our products span cross-border, tax, returns, demand planning, and our next-generation agentic storefront, giving merchants full transparency and the ability to act with confidence.\n At Swap, we’re building a culture that values clarity, creativity, and shared ownership as we redefine how global commerce works.\n Swap is entering a new data-driven era, and we need an Analytics Engineer to help us build for it.\n You'll join our Analytics Engineering team as a key contributor with real ownership. Your models will power the whole business, from the commercial insights Sales and Finance run on to the trusted data behind our customer-facing agentic systems. You'll help shape a modern, scalable data architecture, and you'll see your work used.\n We want a hands-on builder who wants to work in a high-quality dbt project and help set our analytics direction. If you like fast-moving, collaborative teams where your work counts, we'd love to hear from you.\n What you'll do\n Scale our dbt project, shaping its architecture and CI/CD so it keeps up with company-wide ambitions.\n Help define our data modelling strategy and maintain the core set of fast, scalable, and trusted models that everything downstream relies on, from our BI tool to our agentic systems and analytics APIs.\n Champion strong standards for data quality, PII governance, testing, and documentation, so our data stays reliable as we grow.\n Work with Sales, Finance, and Product to turn business questions into clear data requirements, and keep delivery expectations realistic.\n Help build and refine the foundational data assets in Lightdash, so stakehold…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-data-engineer-betty-ca-london-438162",
+    "description": "<p><strong>About Us:<br></strong>Betty is an innovative entertainment company pioneering at the intersection of real-money online casinos and casual mobile gaming.<br><br>Betty Canada&nbsp;is a scale up company accredited by the Alcohol and Gaming Commission of Ontario (AGCO) as a B2C operator in February 2023, we've set a new standard in the industry.<br><br>Our mission is to redefine the online casino experience by offering a uniquely transparent environment where players can relax, unwind, and enjoy themselves safely. We are committed to accessibility, fairness, and inclusivity, fostering a community of like-minded individuals who value ethical gaming practices and prioritize our players' safety and enjoyment above everything else.<br><br></p>\n<p><strong>Our Values:</strong></p>\n<ul>\n<li><strong>We are honest&nbsp;</strong>- we value honesty in all aspects.</li>\n<li><strong>Bring the Olives</strong>&nbsp;- we offer premium customer experience.</li>\n<li><strong>Think Big</strong> - we believe in always striving for more.</li>\n</ul>\n<p><strong><br>Key Responsibilities</strong>:</p>\n<ul>\n<li>Collaborate with cross-functional teams, including Engineering, and business stakeholders, to define and understand data requirements.</li>\n<li>Develop and maintain scalable data pipelines for loading data from different sources into the DWH.</li>\n<li>Optimize and fine-tune existing data processes for improved performance.</li>\n<li>Collaborate with infrastructure teams to implement scalable and secure data platform.</li>\n<li>Create and maintain reports for regulatory requirements and internal business needs.</li>\n<li>Evaluate and implement new technologies, tools, and frameworks to enhance data processing and storage capabilities.</li>\n<li>Mentor junior colleagues, providing guidance in data engineering best practices.</li>\n</ul>\n<p><strong>Requirements:</strong></p>\n<ul>\n<li>Bachelor's degree in Computer Science, Data Science, or a related field.</li>\n<li>3+ years of experienc…",
     "tags": [
-      "Tech",
-      "Full Time"
+      "Engineering"
     ],
-    "jobType": "Full Time",
-    "postedAt": "2026-10-11T15:40:13.000Z",
-    "scrapedAt": "2026-10-12T10:10:27.850Z"
+    "postedAt": "2026-10-12T12:55:20.000Z",
+    "scrapedAt": "2026-10-12T20:51:35.748Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-paris-paris-368764",
@@ -69,7 +114,7 @@
       "Engineering"
     ],
     "postedAt": "2026-10-11T13:55:03.000Z",
-    "scrapedAt": "2026-10-12T10:10:27.850Z"
+    "scrapedAt": "2026-10-12T20:51:35.748Z"
   },
   {
     "id": "arbeitnow:ai-first-data-engineer-zurich-176144",
@@ -94,7 +139,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-10-11T11:09:17.000Z",
-    "scrapedAt": "2026-10-12T10:10:27.850Z"
+    "scrapedAt": "2026-10-12T20:51:35.748Z"
   },
   {
     "id": "arbeitnow:fullstack-data-engineer-mendrisio-75224",
@@ -110,7 +155,7 @@
       "Engineering"
     ],
     "postedAt": "2026-10-11T08:55:04.000Z",
-    "scrapedAt": "2026-10-12T10:10:27.850Z"
+    "scrapedAt": "2026-10-12T20:51:35.748Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -126,7 +171,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-12T10:10:28.875Z"
+    "scrapedAt": "2026-10-12T20:51:36.797Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -142,38 +187,6 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-10-12T10:10:28.875Z"
-  },
-  {
-    "id": "greenhouse:airbnb-8249633",
-    "externalId": "airbnb:8249633",
-    "source": "greenhouse",
-    "title": "Senior Analytics Engineer, Airbnb.org",
-    "company": "Airbnb",
-    "location": "United States",
-    "remote": false,
-    "url": "https://careers.airbnb.com/positions/8249633?gh_jid=8249633",
-    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n The Community You Will Join:\n In December 2020 Airbnb launched Airbnb.org, a non-profit organization that builds on a long history of connecting people in times of crisis to safe, comfortable places to stay. This work began at Airbnb in 2012, when a Host named Shell reached out wanting to offer her home for free to those impacted by Hurricane Sandy in New York City. Since then, Airbnb - and now Airbnb.org - has helped provide safe housing for over 250,000 people to date in response to hundreds of emergency events around the world including hurricanes, wildfires, refugee crises, and a global pandemic. The Airbnb.org team within Airbnb works in support of the Airbnb.org non-profit and partners with Hosts, nonprofit organizations, emergency management agencies and governments to provide stays to people around the world in times of crisis, and has announced a series of commitments to diversity, equity and inclusion including centering marginalized communities in its work and in team composition.\n The Difference You Will Make:\n Airbnb.org operates like a small startup inside Airbnb. Our data team is lean, the problems are new, and there is no established playbook for most of what we do. That means your ingenuity and autonomy are welcome and you will have the room to decide what to build and how, to experiment, and to shape the way a growing, mission-driven organization uses data.\n Analytics Engineers build the data foundation for the whole team - which translates to impact on all stakeholders with insights, analysis and experimentation. As a Senior Analytics Engineer, you will own major projects that build out the…",
-    "tags": [
-      "Data Science"
-    ],
-    "postedAt": "2026-10-05T16:34:11.000Z",
-    "scrapedAt": "2026-10-12T10:10:28.875Z"
-  },
-  {
-    "id": "greenhouse:block-5434325008",
-    "externalId": "block:5434325008",
-    "source": "greenhouse",
-    "title": "Senior Analytics Engineer, AI & DX Analytics",
-    "company": "Block",
-    "location": "New York, NY, United States of America",
-    "remote": false,
-    "url": "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
-    "description": "Block builds simple, powerful tools that make progress towards an economy that’s truly open to all.\n Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Join us.\n The Role\n The AI & DX (Developer Experience) Analytics team exists to measure and improve Block's developer experience and investment in AI. We turn raw engineering signals (agent session data, pull request and CI activity, and AI spend) into reporting and analysis that shape leadership's AI investment decisions, and drive improvement in AI ROI and developer experience. Your work will be the trusted source of truth that engineers and executives use to decide where AI investment is working and where to redirect it.\n We're hiring a Senior Analytics Engineer to own parts of that pipeline end to end. This is a broad, high-visibility role with a lot of white space: you will instrument new telemetry at the source and build production pipelines that turn it into governed data, then turn that governed data into executive-facing reporting and the analysis that surfaces concrete opportunities to improve AI ROI and developer experience. You'll also help pioneer one of the most consequential open problems in the industry right now: measuring the productivity impact of an increasingly AI- and agent-augmented engineering workforce, where there is no textbook answer and real room to set the standard. You'll define new metrics and craft the visual narrative — the charts, dashboards, and presentation materials — that make them land with…",
-    "tags": [
-      "10410 Engineering - Developer Experience"
-    ],
-    "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-10-12T10:10:28.875Z"
+    "scrapedAt": "2026-10-12T20:51:36.797Z"
   }
 ]
