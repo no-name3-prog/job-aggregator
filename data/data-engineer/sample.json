@@ -1,5 +1,28 @@
 [
   {
+    "id": "arbeitnow:data-engineer-germany-munich-87120",
+    "externalId": "data-engineer-germany-munich-87120",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "Bookboost",
+    "location": "Germany - Munich",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/bookboost/data-engineer-germany-munich-87120",
+    "description": "Your mission Bookboost is the Hospitality Engagement Platform that empowers hotels to understand and engage their guests like never before. We unify guest data, automate personalised communication, and deliver experiences that drive revenue, loyalty, and operational excellence.\n We have customers across more than 20 countries and a platform that wins on depth. As we scale, the volume and importance of our data is growing fast, and we're looking for a Data Engineer to build the infrastructure that keeps up.\n Your profile You'll design and build the data infrastructure that carries Bookboost from hundreds of gigabytes to terabytes of guest data, moving, transforming and making it available to our frontend application and our machine learning and AI pipelines.\n This is a role with real scope. You'll work with the latest technologies on hospitality-industry-first use cases spanning both analytics and machine learning, and you'll have genuine ownership of how our data platform is designed rather than implementing someone else's blueprint.\n If you want to be handed narrow tickets and left alone, this is not that job. If you want to shape the data foundation the whole product runs on, it's a good one. What you'll own and deliver Scalable data pipelines and infrastructure, designed and built alongside Product and Engineering Data pipelines for ingestion, transformation and storage at high scale, deployed and monitored end to end Tools and abstractions on top of the data infrastructure for analytics, recommendations and machine learning Data orchestration and streaming pipelines Reusable data resources and design patterns, built in close collaboration with product teams What makes you a great fit? Data engineering depth: 4+ years of industry experience, with production systems you have owned rather than contributed to Programming and processing: strong engineering skills, ideally with distributed data processing (AWS, PySpark) Scale: strong quantitative skills and experienc…",
+    "tags": [
+      "Germany",
+      "Data Engineer",
+      "SaaS",
+      "Hosp Tech",
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-10-11T20:09:55.000Z",
+    "scrapedAt": "2026-10-12T00:10:56.065Z"
+  },
+  {
     "id": "arbeitnow:junior-data-engineer-hamburg-186381",
     "externalId": "junior-data-engineer-hamburg-186381",
     "source": "arbeitnow",
@@ -16,7 +39,7 @@
     ],
     "jobType": "Entry",
     "postedAt": "2026-10-11T17:09:31.000Z",
-    "scrapedAt": "2026-10-11T19:19:27.472Z"
+    "scrapedAt": "2026-10-12T00:10:56.065Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-london-362159",
@@ -34,7 +57,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-10-11T15:40:13.000Z",
-    "scrapedAt": "2026-10-11T19:19:27.472Z"
+    "scrapedAt": "2026-10-12T00:10:56.065Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-paris-paris-368764",
@@ -50,7 +73,7 @@
       "Engineering"
     ],
     "postedAt": "2026-10-11T13:55:03.000Z",
-    "scrapedAt": "2026-10-11T19:19:27.472Z"
+    "scrapedAt": "2026-10-12T00:10:56.065Z"
   },
   {
     "id": "arbeitnow:data-engineer-london-355127",
@@ -66,23 +89,7 @@
       "Technology & Innovation"
     ],
     "postedAt": "2026-10-11T12:55:03.000Z",
-    "scrapedAt": "2026-10-11T19:19:27.472Z"
-  },
-  {
-    "id": "arbeitnow:production-data-engineer-intern-all-genders-146679",
-    "externalId": "production-data-engineer-intern-all-genders-146679",
-    "source": "arbeitnow",
-    "title": "Production Data Engineer - Intern (all genders)",
-    "company": "Skdse",
-    "location": "Unknown",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/skdse/production-data-engineer-intern-all-genders-146679",
-    "description": "<div class=\"content-intro\"><p><span style=\"font-size: 10pt; font-family: helvetica, arial, sans-serif;\">At Stark, we forge the future of European and national security through cutting-edge, AI-driven technology and unmatched engineering precision. As a premier defence technology company, our mission is clear: to equip NATO Allies and their partners &nbsp;with next-generation autonomous defence platforms and advanced AI-driven software built to perform in the world’s most demanding environments.</span></p>\n<p><span style=\"font-size: 10pt; font-family: helvetica, arial, sans-serif;\">We believe that true security stems from relentless innovation. By combining elite engineering talent with agile technology and an AI-native operational culture, Stark turns complex defence challenges into field-tested, multi-domain solutions.</span><br><br></p>\n<p><strong><span style=\"text-decoration: underline; font-size: 10pt; font-family: helvetica, arial, sans-serif;\">Why Join Us?</span></strong></p>\n<ul>\n<li style=\"font-size: 10pt; font-family: helvetica, arial, sans-serif;\"><span style=\"font-size: 10pt; font-family: helvetica, arial, sans-serif;\">The software and systems you work on directly protect personnel and defend European and national sovereignty.</span></li>\n<li style=\"font-size: 10pt; font-family: helvetica, arial, sans-serif;\"><span style=\"font-size: 10pt; font-family: helvetica, arial, sans-serif;\">You will work alongside industry-leading minds on autonomous systems, advanced propulsion, and secure cyber platforms.</span></li>\n<li style=\"font-size: 10pt; font-family: helvetica, arial, sans-serif;\"><span style=\"font-size: 10pt; font-family: helvetica, arial, sans-serif;\">We foster a fast-paced, collaborative environment where bold ideas are supported by serious R&amp;D backing.</span></li>\n</ul></div><p>&nbsp;</p>\n<p><strong>About Us</strong><br>STARK is a new kind of defence technology company revolutionizing the way autonomous systems are deployed across multiple domain…",
-    "tags": [
-      "Engineering"
-    ],
-    "postedAt": "2026-10-11T11:55:08.000Z",
-    "scrapedAt": "2026-10-11T19:19:27.472Z"
+    "scrapedAt": "2026-10-12T00:10:56.065Z"
   },
   {
     "id": "arbeitnow:ai-first-data-engineer-zurich-176144",
@@ -107,7 +114,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-10-11T11:09:17.000Z",
-    "scrapedAt": "2026-10-11T19:19:27.472Z"
+    "scrapedAt": "2026-10-12T00:10:56.065Z"
   },
   {
     "id": "arbeitnow:fullstack-data-engineer-mendrisio-75224",
@@ -123,7 +130,7 @@
       "Engineering"
     ],
     "postedAt": "2026-10-11T08:55:04.000Z",
-    "scrapedAt": "2026-10-11T19:19:27.472Z"
+    "scrapedAt": "2026-10-12T00:10:56.065Z"
   },
   {
     "id": "arbeitnow:senior-data-platform-engineer-montpellier-france-182669",
@@ -141,7 +148,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-10-10T04:24:56.000Z",
-    "scrapedAt": "2026-10-11T19:19:27.472Z"
+    "scrapedAt": "2026-10-12T00:10:56.065Z"
   },
   {
     "id": "arbeitnow:senior-data-platform-engineer-paris-france-151903",
@@ -159,7 +166,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-10-10T04:24:56.000Z",
-    "scrapedAt": "2026-10-11T19:19:27.472Z"
+    "scrapedAt": "2026-10-12T00:10:56.065Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -175,6 +182,6 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-11T19:19:28.160Z"
+    "scrapedAt": "2026-10-12T00:10:56.611Z"
   }
 ]
