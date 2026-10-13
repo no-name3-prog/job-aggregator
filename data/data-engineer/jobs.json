@@ -1,5 +1,56 @@
 [
   {
+    "id": "arbeitnow:data-engineerin-hamburg-406234",
+    "externalId": "data-engineerin-hamburg-406234",
+    "source": "arbeitnow",
+    "title": "DATA ENGINEER*IN (m/w/d)",
+    "company": "Ramp106 Gmbh",
+    "location": "Hamburg",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/data-engineerin-hamburg-406234",
+    "description": "Dein Team\nDas  Data & Automation Team ist Teil der OMR Tech Abteilung und fungiert als Center of Excellence für die Daten- und Prozessoptimierung bei OMR. Wir schaffen die Basis für fundierte, datengetriebene Entscheidungen und reibungslose Abläufe in allen Business Units (Festival, Podstars, Reviews, Education, Jobs). Wir verstehen uns als starker Business Partner: Wir bauen die Brücken zwischen komplexen Datenstrukturen, smarter Automatisierung und echtem Business Impact.\nBock auf maximale Freiheiten in einem unternehmerischen Umfeld? Du liebst es, Datenpipelines zu bauen, die einfach laufen, und Infrastruktur, auf die sich alle verlassen können? Dann verstärke unser Team und übernimm die Verantwortung für das technische Fundament unserer Datenplattform. Bei uns betreibst du nicht nur Pipelines: Du baust die Dateninfrastruktur, auf der der gesamte OMR-Kosmos seine Entscheidungen trifft!\n Wo du wirklich was bewegst\n Du verantwortest unsere ELT-Pipeline-Infrastruktur, entwickelst, betreibst und überwachst unsere Airflow-DAGs auf Cloud Composer und managst unsere Connector-Landschaft (Airbyte, Fivetran) Du baust eigene Airflow-Operatoren für Datenquellen ohne Standard-Connector und bindest neue Quellen an unser Data Warehouse an (aktuell über 28 externe Systeme) Du betreibst und optimierst unsere BigQuery-Infrastruktur von Performance-Tuning über Partitioning und Clustering, Monitoring der Query-Kosten und sauberes Schema-Management in der Raw Zone Du behandelst unsere Datenpipelines wie Produktivsysteme und machst sie standardmäßig beobachtbar: Du konzipierst Monitoring und Alerting rund um Pipeline-Health, Source Freshness, Datenqualität und operative SLAs – so, dass wir wissen, was kaputt ist, warum und wen es betrifft, bevor die Business Units es merken Du entwickelst unsere CI/CD-Pipelines (GitHub Actions) für Ingestion und dbt weiter und bringst dich aktiv in Code Reviews ein Du gestaltest unseren Stack aktiv mit: Du legst das infrastrukturelle Fundament für u…",
+    "tags": [
+      "RAMP106",
+      "Data",
+      "Engineer",
+      "Data Engineer",
+      "Tech",
+      "Automation",
+      "Data Atutomation",
+      "Prozessoptimierung",
+      "Job",
+      "OMR",
+      "OMR FESTIVAL",
+      "Vollzeit",
+      "Hamburg",
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-10-12T23:09:37.000Z",
+    "scrapedAt": "2026-10-13T02:24:47.175Z"
+  },
+  {
+    "id": "arbeitnow:analytics-engineerin-hamburg-5761",
+    "externalId": "analytics-engineerin-hamburg-5761",
+    "source": "arbeitnow",
+    "title": "ANALYTICS ENGINEER*IN (m/w/d)",
+    "company": "Ramp106 Gmbh",
+    "location": "Hamburg",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/analytics-engineerin-hamburg-5761",
+    "description": "Dein Team\nDas  Data & Automation Team ist Teil der OMR Tech Abteilung und fungiert als Center of Excellence für die Daten- und Prozessoptimierung bei OMR. Wir schaffen die Basis für fundierte, datengetriebene Entscheidungen und reibungslose Abläufe in allen Business Units (Festival, Podstars, Reviews, Education, Jobs). Wir verstehen uns als starker Business Partner: Wir bauen die Brücken zwischen komplexen Datenstrukturen, smarter Automatisierung und echtem Business Impact.\nBock auf maximale Freiheiten in einem unternehmerischen Umfeld? Du liebst es, aus Rohdaten verlässliche Datenmodelle zu bauen, mit denen echte Geschäftsentscheidungen getroffen werden? Dann verstärke unser Team und übernimm die Ownership für zentrale Datenmodelle im OMR-Kosmos. Bei uns schreibst du nicht nur SQL: Deine Modelle steuern das Ticketing unseres Festivals, unser Finance-Reporting und unsere Marketingbudgets!\n Wo du wirklich was bewegst\n Du übernimmst die Ownership unserer Ticketing- und Event-Datenmodelle in dbt (Staging, Reporting und Semantic Layer) und entwickelst sie eigenständig weiter Du baust ein verlässliches Ticket-Forecasting auf Basis historischer Verkaufsdaten, Pricing und Event-Kategorien auf und schaffst damit die Grundlage für unsere Absatzplanung Du verantwortest unsere Finance-Datenmodelle und baust ein Working Capital Reporting auf, das Forderungen, Verbindlichkeiten und Cashflow transparent macht Du entwickelst unser Cross-Channel-Attributionsmodell über alle Marketingkanäle (u. a. Google Ads, Meta, LinkedIn, TikTok) und machst damit den ROI unserer Marketingausgaben sichtbar Du bearbeitest Ad-hoc-Anfragen aus unseren Business Units eigenständig, von der Auswertung über den Datenexport bis zur Dashboard-Anpassung Du arbeitest eng mit Sales, Finance, Marketing und Events zusammen und übersetzt deren Anforderungen in skalierbare Datenmodelle\n Was dich auszeichnet\n Du hast 1 bis 2 Jahre Berufserfahrung im Analytics- oder BI-Umfeld und bereits eigenständig Datenmodelle…",
+    "tags": [
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-10-12T23:09:37.000Z",
+    "scrapedAt": "2026-10-13T02:24:47.175Z"
+  },
+  {
     "id": "greenhouse:anthropic-5450099008",
     "externalId": "anthropic:5450099008",
     "source": "greenhouse",
@@ -13,7 +64,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-paris-paris-87219",
@@ -29,41 +80,7 @@
       "Engineering"
     ],
     "postedAt": "2026-10-12T16:55:10.000Z",
-    "scrapedAt": "2026-10-12T20:51:35.748Z"
-  },
-  {
-    "id": "arbeitnow:ml-data-engineer-sensor-data-pipelines-munich-deu-110732",
-    "externalId": "ml-data-engineer-sensor-data-pipelines-munich-deu-110732",
-    "source": "arbeitnow",
-    "title": "ML Data Engineer (m/f/d) - Sensor Data & Pipelines",
-    "company": "autonomous-teaming",
-    "location": "Munich (DEU)",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/ml-data-engineer-sensor-data-pipelines-munich-deu-110732",
-    "description": "What we offer Work in an international, agile team creating the future of autonomous systems Grow your career in a expanding and ambitious engineering team Build innovative products using state-of-the-art technologies in AI, robotics, and autonomy  Benefit from a steep learning curve and continuous development Enjoy team events and a strong, collaborative culture\n Your mission This role owns the data foundation of our perception systems end-to-end — the layer that directly determines model performance in real-world environments. You'll set the technical direction for how we collect, curate, and continuously improve the datasets behind object detection, working as a senior technical partner to ML, perception, and robotics teams — turning raw, messy sensor data into reliable, production-grade systems at scale.\nYou will take full ownership of the ML data lifecycle — from architecture decisions on ingestion and pipelines, through labeling strategy and QA, to driving continuous, metrics-informed dataset improvement — and will be expected to bring judgment and prior experience to how this is done, not just execute a defined process.\nWhat you'll do:\n Architect and own scalable pipelines for ingesting, organizing, and preprocessing large volumes of time-series camera and multi-sensor data (RGB, IR, thermal, depth, IMU) Drive the strategy behind our object detection datasets, ensuring quality, diversity, and statistical representativeness at scale Design and operate active learning loops that connect model performance directly to data selection and improvement priorities Own labeling workflows end-to-end — tooling decisions, QA methodology, consistency standards, and coordination of annotation efforts Partner closely with AI Engineers to diagnose model weaknesses, bias, and drift, and translate findings into concrete dataset strategy Plan and lead data collection campaigns (field recordings, drone/video capture) to close gaps with high-value real-world data Build internal t…",
-    "tags": [
-      "Active Learning",
-      "Machine Learning",
-      "Python",
-      "Pandas",
-      "Data Orchestration",
-      "CVAT",
-      "NumPy",
-      "Data Engineering",
-      "Data Pipelines",
-      "Dataset Engineering",
-      "Data Processing",
-      "Data Lifecycle",
-      "ELT / ETL",
-      "Sensor Data",
-      "Video Data Processing",
-      "Experienced",
-      "Permanent",
-      "Full time"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-10-12T14:09:45.000Z",
-    "scrapedAt": "2026-10-12T20:51:35.748Z"
+    "scrapedAt": "2026-10-13T02:24:47.175Z"
   },
   {
     "id": "jobicy:155126",
@@ -82,7 +99,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-10-12T13:37:23.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.067Z"
+    "scrapedAt": "2026-10-13T02:24:47.336Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-betty-ca-london-438162",
@@ -98,7 +115,7 @@
       "Engineering"
     ],
     "postedAt": "2026-10-12T12:55:20.000Z",
-    "scrapedAt": "2026-10-12T20:51:35.748Z"
+    "scrapedAt": "2026-10-13T02:24:47.175Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-paris-paris-368764",
@@ -114,7 +131,7 @@
       "Engineering"
     ],
     "postedAt": "2026-10-11T13:55:03.000Z",
-    "scrapedAt": "2026-10-12T20:51:35.748Z"
+    "scrapedAt": "2026-10-13T02:24:47.175Z"
   },
   {
     "id": "arbeitnow:ai-first-data-engineer-zurich-176144",
@@ -139,7 +156,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-10-11T11:09:17.000Z",
-    "scrapedAt": "2026-10-12T20:51:35.748Z"
+    "scrapedAt": "2026-10-13T02:24:47.175Z"
   },
   {
     "id": "arbeitnow:fullstack-data-engineer-mendrisio-75224",
@@ -155,7 +172,7 @@
       "Engineering"
     ],
     "postedAt": "2026-10-11T08:55:04.000Z",
-    "scrapedAt": "2026-10-12T20:51:35.748Z"
+    "scrapedAt": "2026-10-13T02:24:47.175Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -171,7 +188,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -187,7 +204,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:airbnb-8249633",
@@ -203,7 +220,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-05T16:34:11.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -219,7 +236,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -235,7 +252,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:pinterest-8209014",
@@ -251,7 +268,7 @@
       "Oversight Engineering"
     ],
     "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:airbnb-8224032",
@@ -267,7 +284,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "lever:spotify-80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
@@ -287,7 +304,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-09-22T08:36:16.099Z",
-    "scrapedAt": "2026-10-12T20:54:50.143Z"
+    "scrapedAt": "2026-10-13T02:28:11.144Z"
   },
   {
     "id": "greenhouse:figma-6201407004",
@@ -303,7 +320,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-21T16:13:46.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -319,7 +336,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -335,7 +352,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -351,7 +368,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -367,7 +384,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -383,7 +400,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -399,7 +416,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -415,7 +432,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -431,7 +448,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:affirm-7916080003",
@@ -447,7 +464,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-08-20T13:43:45.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -467,7 +484,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-10-12T20:54:50.143Z"
+    "scrapedAt": "2026-10-13T02:28:11.144Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -486,7 +503,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-10-12T20:54:50.683Z"
+    "scrapedAt": "2026-10-13T02:28:11.947Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -502,7 +519,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:stripe-8112043",
@@ -518,7 +535,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-08-06T14:27:44.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -534,7 +551,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:affirm-7813362003",
@@ -550,7 +567,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-07-28T10:52:21.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -566,7 +583,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -582,7 +599,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -598,7 +615,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -614,7 +631,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -630,7 +647,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -646,7 +663,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:discord-8485884002",
@@ -662,7 +679,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-05-14T16:00:25.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -678,7 +695,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -694,7 +711,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -710,7 +727,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -726,7 +743,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -742,7 +759,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -756,7 +773,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:51:43.843Z"
+    "scrapedAt": "2026-10-13T02:24:55.485Z"
   },
   {
     "id": "workday:nvidia-JR2023850",
@@ -770,7 +787,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:51:43.843Z"
+    "scrapedAt": "2026-10-13T02:24:55.485Z"
   },
   {
     "id": "workday:nvidia-JR2026497",
@@ -784,7 +801,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:51:43.843Z"
+    "scrapedAt": "2026-10-13T02:24:55.485Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -798,7 +815,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:51:43.843Z"
+    "scrapedAt": "2026-10-13T02:24:55.485Z"
   },
   {
     "id": "workday:salesforce-JR347388",
@@ -812,7 +829,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:51:43.843Z"
+    "scrapedAt": "2026-10-13T02:24:55.485Z"
   },
   {
     "id": "workday:adobe-R171875",
@@ -826,7 +843,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:51:43.843Z"
+    "scrapedAt": "2026-10-13T02:24:55.485Z"
   },
   {
     "id": "workday:adobe-R172115",
@@ -840,7 +857,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:51:43.843Z"
+    "scrapedAt": "2026-10-13T02:24:55.485Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -854,7 +871,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:51:43.843Z"
+    "scrapedAt": "2026-10-13T02:24:55.485Z"
   },
   {
     "id": "workday:autodesk-26WD101237",
@@ -868,7 +885,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:51:43.843Z"
+    "scrapedAt": "2026-10-13T02:24:55.485Z"
   },
   {
     "id": "workday:autodesk-26WD100418",
@@ -882,7 +899,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:51:43.843Z"
+    "scrapedAt": "2026-10-13T02:24:55.485Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -896,7 +913,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:51:43.843Z"
+    "scrapedAt": "2026-10-13T02:24:55.485Z"
   },
   {
     "id": "workday:autodesk-26WD101381",
@@ -910,7 +927,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:51:43.843Z"
+    "scrapedAt": "2026-10-13T02:24:55.485Z"
   },
   {
     "id": "workday:autodesk-26WD101382",
@@ -924,7 +941,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:51:43.843Z"
+    "scrapedAt": "2026-10-13T02:24:55.485Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -938,7 +955,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:51:43.843Z"
+    "scrapedAt": "2026-10-13T02:24:55.485Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -952,7 +969,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:51:43.843Z"
+    "scrapedAt": "2026-10-13T02:24:55.485Z"
   },
   {
     "id": "workday:salesforce-JR361288",
@@ -966,7 +983,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:52:56.569Z"
+    "scrapedAt": "2026-10-13T02:26:08.858Z"
   },
   {
     "id": "workday:salesforce-JR353458",
@@ -980,7 +997,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:52:56.569Z"
+    "scrapedAt": "2026-10-13T02:26:08.858Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -994,7 +1011,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:52:56.569Z"
+    "scrapedAt": "2026-10-13T02:26:08.858Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -1008,7 +1025,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:52:56.569Z"
+    "scrapedAt": "2026-10-13T02:26:08.858Z"
   },
   {
     "id": "workday:salesforce-JR359930",
@@ -1022,6 +1039,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-12T20:53:31.686Z"
+    "scrapedAt": "2026-10-13T02:26:49.137Z"
   }
 ]

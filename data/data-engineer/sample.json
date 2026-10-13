@@ -1,5 +1,56 @@
 [
   {
+    "id": "arbeitnow:data-engineerin-hamburg-406234",
+    "externalId": "data-engineerin-hamburg-406234",
+    "source": "arbeitnow",
+    "title": "DATA ENGINEER*IN (m/w/d)",
+    "company": "Ramp106 Gmbh",
+    "location": "Hamburg",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/data-engineerin-hamburg-406234",
+    "description": "Dein Team\nDas  Data & Automation Team ist Teil der OMR Tech Abteilung und fungiert als Center of Excellence für die Daten- und Prozessoptimierung bei OMR. Wir schaffen die Basis für fundierte, datengetriebene Entscheidungen und reibungslose Abläufe in allen Business Units (Festival, Podstars, Reviews, Education, Jobs). Wir verstehen uns als starker Business Partner: Wir bauen die Brücken zwischen komplexen Datenstrukturen, smarter Automatisierung und echtem Business Impact.\nBock auf maximale Freiheiten in einem unternehmerischen Umfeld? Du liebst es, Datenpipelines zu bauen, die einfach laufen, und Infrastruktur, auf die sich alle verlassen können? Dann verstärke unser Team und übernimm die Verantwortung für das technische Fundament unserer Datenplattform. Bei uns betreibst du nicht nur Pipelines: Du baust die Dateninfrastruktur, auf der der gesamte OMR-Kosmos seine Entscheidungen trifft!\n Wo du wirklich was bewegst\n Du verantwortest unsere ELT-Pipeline-Infrastruktur, entwickelst, betreibst und überwachst unsere Airflow-DAGs auf Cloud Composer und managst unsere Connector-Landschaft (Airbyte, Fivetran) Du baust eigene Airflow-Operatoren für Datenquellen ohne Standard-Connector und bindest neue Quellen an unser Data Warehouse an (aktuell über 28 externe Systeme) Du betreibst und optimierst unsere BigQuery-Infrastruktur von Performance-Tuning über Partitioning und Clustering, Monitoring der Query-Kosten und sauberes Schema-Management in der Raw Zone Du behandelst unsere Datenpipelines wie Produktivsysteme und machst sie standardmäßig beobachtbar: Du konzipierst Monitoring und Alerting rund um Pipeline-Health, Source Freshness, Datenqualität und operative SLAs – so, dass wir wissen, was kaputt ist, warum und wen es betrifft, bevor die Business Units es merken Du entwickelst unsere CI/CD-Pipelines (GitHub Actions) für Ingestion und dbt weiter und bringst dich aktiv in Code Reviews ein Du gestaltest unseren Stack aktiv mit: Du legst das infrastrukturelle Fundament für u…",
+    "tags": [
+      "RAMP106",
+      "Data",
+      "Engineer",
+      "Data Engineer",
+      "Tech",
+      "Automation",
+      "Data Atutomation",
+      "Prozessoptimierung",
+      "Job",
+      "OMR",
+      "OMR FESTIVAL",
+      "Vollzeit",
+      "Hamburg",
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-10-12T23:09:37.000Z",
+    "scrapedAt": "2026-10-13T02:24:47.175Z"
+  },
+  {
+    "id": "arbeitnow:analytics-engineerin-hamburg-5761",
+    "externalId": "analytics-engineerin-hamburg-5761",
+    "source": "arbeitnow",
+    "title": "ANALYTICS ENGINEER*IN (m/w/d)",
+    "company": "Ramp106 Gmbh",
+    "location": "Hamburg",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/analytics-engineerin-hamburg-5761",
+    "description": "Dein Team\nDas  Data & Automation Team ist Teil der OMR Tech Abteilung und fungiert als Center of Excellence für die Daten- und Prozessoptimierung bei OMR. Wir schaffen die Basis für fundierte, datengetriebene Entscheidungen und reibungslose Abläufe in allen Business Units (Festival, Podstars, Reviews, Education, Jobs). Wir verstehen uns als starker Business Partner: Wir bauen die Brücken zwischen komplexen Datenstrukturen, smarter Automatisierung und echtem Business Impact.\nBock auf maximale Freiheiten in einem unternehmerischen Umfeld? Du liebst es, aus Rohdaten verlässliche Datenmodelle zu bauen, mit denen echte Geschäftsentscheidungen getroffen werden? Dann verstärke unser Team und übernimm die Ownership für zentrale Datenmodelle im OMR-Kosmos. Bei uns schreibst du nicht nur SQL: Deine Modelle steuern das Ticketing unseres Festivals, unser Finance-Reporting und unsere Marketingbudgets!\n Wo du wirklich was bewegst\n Du übernimmst die Ownership unserer Ticketing- und Event-Datenmodelle in dbt (Staging, Reporting und Semantic Layer) und entwickelst sie eigenständig weiter Du baust ein verlässliches Ticket-Forecasting auf Basis historischer Verkaufsdaten, Pricing und Event-Kategorien auf und schaffst damit die Grundlage für unsere Absatzplanung Du verantwortest unsere Finance-Datenmodelle und baust ein Working Capital Reporting auf, das Forderungen, Verbindlichkeiten und Cashflow transparent macht Du entwickelst unser Cross-Channel-Attributionsmodell über alle Marketingkanäle (u. a. Google Ads, Meta, LinkedIn, TikTok) und machst damit den ROI unserer Marketingausgaben sichtbar Du bearbeitest Ad-hoc-Anfragen aus unseren Business Units eigenständig, von der Auswertung über den Datenexport bis zur Dashboard-Anpassung Du arbeitest eng mit Sales, Finance, Marketing und Events zusammen und übersetzt deren Anforderungen in skalierbare Datenmodelle\n Was dich auszeichnet\n Du hast 1 bis 2 Jahre Berufserfahrung im Analytics- oder BI-Umfeld und bereits eigenständig Datenmodelle…",
+    "tags": [
+      "Experienced",
+      "Permanent",
+      "Full time"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-10-12T23:09:37.000Z",
+    "scrapedAt": "2026-10-13T02:24:47.175Z"
+  },
+  {
     "id": "greenhouse:anthropic-5450099008",
     "externalId": "anthropic:5450099008",
     "source": "greenhouse",
@@ -13,7 +64,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-paris-paris-87219",
@@ -29,41 +80,7 @@
       "Engineering"
     ],
     "postedAt": "2026-10-12T16:55:10.000Z",
-    "scrapedAt": "2026-10-12T20:51:35.748Z"
-  },
-  {
-    "id": "arbeitnow:ml-data-engineer-sensor-data-pipelines-munich-deu-110732",
-    "externalId": "ml-data-engineer-sensor-data-pipelines-munich-deu-110732",
-    "source": "arbeitnow",
-    "title": "ML Data Engineer (m/f/d) - Sensor Data & Pipelines",
-    "company": "autonomous-teaming",
-    "location": "Munich (DEU)",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/ml-data-engineer-sensor-data-pipelines-munich-deu-110732",
-    "description": "What we offer Work in an international, agile team creating the future of autonomous systems Grow your career in a expanding and ambitious engineering team Build innovative products using state-of-the-art technologies in AI, robotics, and autonomy  Benefit from a steep learning curve and continuous development Enjoy team events and a strong, collaborative culture\n Your mission This role owns the data foundation of our perception systems end-to-end — the layer that directly determines model performance in real-world environments. You'll set the technical direction for how we collect, curate, and continuously improve the datasets behind object detection, working as a senior technical partner to ML, perception, and robotics teams — turning raw, messy sensor data into reliable, production-grade systems at scale.\nYou will take full ownership of the ML data lifecycle — from architecture decisions on ingestion and pipelines, through labeling strategy and QA, to driving continuous, metrics-informed dataset improvement — and will be expected to bring judgment and prior experience to how this is done, not just execute a defined process.\nWhat you'll do:\n Architect and own scalable pipelines for ingesting, organizing, and preprocessing large volumes of time-series camera and multi-sensor data (RGB, IR, thermal, depth, IMU) Drive the strategy behind our object detection datasets, ensuring quality, diversity, and statistical representativeness at scale Design and operate active learning loops that connect model performance directly to data selection and improvement priorities Own labeling workflows end-to-end — tooling decisions, QA methodology, consistency standards, and coordination of annotation efforts Partner closely with AI Engineers to diagnose model weaknesses, bias, and drift, and translate findings into concrete dataset strategy Plan and lead data collection campaigns (field recordings, drone/video capture) to close gaps with high-value real-world data Build internal t…",
-    "tags": [
-      "Active Learning",
-      "Machine Learning",
-      "Python",
-      "Pandas",
-      "Data Orchestration",
-      "CVAT",
-      "NumPy",
-      "Data Engineering",
-      "Data Pipelines",
-      "Dataset Engineering",
-      "Data Processing",
-      "Data Lifecycle",
-      "ELT / ETL",
-      "Sensor Data",
-      "Video Data Processing",
-      "Experienced",
-      "Permanent",
-      "Full time"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-10-12T14:09:45.000Z",
-    "scrapedAt": "2026-10-12T20:51:35.748Z"
+    "scrapedAt": "2026-10-13T02:24:47.175Z"
   },
   {
     "id": "jobicy:155126",
@@ -82,7 +99,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-10-12T13:37:23.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.067Z"
+    "scrapedAt": "2026-10-13T02:24:47.336Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-betty-ca-london-438162",
@@ -98,7 +115,7 @@
       "Engineering"
     ],
     "postedAt": "2026-10-12T12:55:20.000Z",
-    "scrapedAt": "2026-10-12T20:51:35.748Z"
+    "scrapedAt": "2026-10-13T02:24:47.175Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-paris-paris-368764",
@@ -114,7 +131,7 @@
       "Engineering"
     ],
     "postedAt": "2026-10-11T13:55:03.000Z",
-    "scrapedAt": "2026-10-12T20:51:35.748Z"
+    "scrapedAt": "2026-10-13T02:24:47.175Z"
   },
   {
     "id": "arbeitnow:ai-first-data-engineer-zurich-176144",
@@ -139,7 +156,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-10-11T11:09:17.000Z",
-    "scrapedAt": "2026-10-12T20:51:35.748Z"
+    "scrapedAt": "2026-10-13T02:24:47.175Z"
   },
   {
     "id": "arbeitnow:fullstack-data-engineer-mendrisio-75224",
@@ -155,7 +172,7 @@
       "Engineering"
     ],
     "postedAt": "2026-10-11T08:55:04.000Z",
-    "scrapedAt": "2026-10-12T20:51:35.748Z"
+    "scrapedAt": "2026-10-13T02:24:47.175Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -171,22 +188,6 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
-  },
-  {
-    "id": "greenhouse:block-5442647008",
-    "externalId": "block:5442647008",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer, Product",
-    "company": "Block",
-    "location": "Bay Area, CA, United States of America",
-    "remote": false,
-    "url": "http://block.xyz/careers/jobs/5442647008?gh_jid=5442647008",
-    "description": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.\nToday, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.\n The Role\n As a Data Engineer, you will handle everything from data architecture and modeling to data pipeline tooling and dashboarding. You will enable a range of other engineering and business teams to make impactful business decisions by laying the foundation of our large and unique datasets that span across multiple products. This role will support the product data engineering team.\n The Product Data Engineering Team at Block builds and maintains the curated data foundation that powers all of Block's product lines — Cash App, Square, Afterpay, and Tidal. We transform raw event streams, transactional systems, and operational data into governed, tested, and reliable analytical assets across domains including banking, lending, commerce, investing, checkout, and AI assistants. We partner with Product, Engineering, Data Science, Machine Learning, and Applied AI teams to deliver the metrics, experimentation frameworks, and ML-ready datasets that enable Block's products to grow, improve, and serve customers at scale.\n You Will\n Lead the creation and optimization of data models…",
-    "tags": [
-      "10418 Engineering - Data & Data Science"
-    ],
-    "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-10-12T20:51:36.797Z"
+    "scrapedAt": "2026-10-13T02:24:47.832Z"
   }
 ]
