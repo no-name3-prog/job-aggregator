@@ -1,35 +1,5 @@
 [
   {
-    "company": "Autodesk",
-    "jobCount": 7,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Toronto, ON, CAN",
-      "Kraków, POL",
-      "35 Locations",
-      "37 Locations",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineering",
-      "Data Engineer with AI",
-      "Principal Data Engineer, User Success",
-      "Analytics Engineer, Forecasting & Revenue Intelligence",
-      "Analytics Engineer, Forecasting & Revenue Intelligence",
-      "Principal Data Engineer, User Success (Agentic Experiences)",
-      "Principal Data Engineer -General application"
-    ],
-    "officialUrls": [
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Data-Engineering_26WD101237",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Denver-CO-USA/Analytics-Engineer--Forecasting---Revenue-Intelligence_26WD101381-1",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Denver-CO-USA/Analytics-Engineer--Forecasting---Revenue-Intelligence_26WD101382-1"
-    ]
-  },
-  {
     "company": "Anthropic",
     "jobCount": 6,
     "sources": [
@@ -54,6 +24,34 @@
       "https://job-boards.greenhouse.io/anthropic/jobs/5424111008",
       "https://job-boards.greenhouse.io/anthropic/jobs/5418610008",
       "https://job-boards.greenhouse.io/anthropic/jobs/5240422008"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "jobCount": 6,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Toronto, ON, CAN",
+      "Kraków, POL",
+      "35 Locations",
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineering",
+      "Data Engineer with AI",
+      "Principal Data Engineer, User Success",
+      "Analytics Engineer, Forecasting & Revenue Intelligence",
+      "Principal Data Engineer, User Success (Agentic Experiences)",
+      "Principal Data Engineer -General application"
+    ],
+    "officialUrls": [
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Data-Engineering_26WD101237",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Denver-CO-USA/Analytics-Engineer--Forecasting---Revenue-Intelligence_26WD101381-1",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2"
     ]
   },
   {
@@ -134,31 +132,6 @@
     ]
   },
   {
-    "company": "Discord",
-    "jobCount": 4,
-    "sources": [
-      "greenhouse",
-      "jobicy"
-    ],
-    "locations": [
-      "USA",
-      "San Francisco Bay Area",
-      "Remote (U.S.)"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer, Ads",
-      "Staff Data Engineer - Data Infrastructure",
-      "Senior Data Engineer",
-      "Senior Data Engineer, Ads"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/155126-senior-data-engineer-ads",
-      "https://job-boards.greenhouse.io/discord/jobs/8691572002",
-      "https://job-boards.greenhouse.io/discord/jobs/8485884002",
-      "https://job-boards.greenhouse.io/discord/jobs/8299493002"
-    ]
-  },
-  {
     "company": "NVIDIA",
     "jobCount": 4,
     "sources": [
@@ -223,6 +196,27 @@
       "https://job-boards.greenhouse.io/affirm/jobs/7916080003",
       "https://job-boards.greenhouse.io/affirm/jobs/7813362003",
       "https://job-boards.greenhouse.io/affirm/jobs/7764109003"
+    ]
+  },
+  {
+    "company": "Discord",
+    "jobCount": 3,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "San Francisco Bay Area",
+      "Remote (U.S.)"
+    ],
+    "sampleTitles": [
+      "Staff Data Engineer - Data Infrastructure",
+      "Senior Data Engineer",
+      "Senior Data Engineer, Ads"
+    ],
+    "officialUrls": [
+      "https://job-boards.greenhouse.io/discord/jobs/8691572002",
+      "https://job-boards.greenhouse.io/discord/jobs/8485884002",
+      "https://job-boards.greenhouse.io/discord/jobs/8299493002"
     ]
   },
   {
@@ -300,24 +294,6 @@
     ]
   },
   {
-    "company": "Ramp106 Gmbh",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Hamburg"
-    ],
-    "sampleTitles": [
-      "DATA ENGINEER*IN (m/w/d)",
-      "ANALYTICS ENGINEER*IN (m/w/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/data-engineerin-hamburg-406234",
-      "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/analytics-engineerin-hamburg-5761"
-    ]
-  },
-  {
     "company": "Spotify",
     "jobCount": 2,
     "sources": [
@@ -337,35 +313,19 @@
     ]
   },
   {
-    "company": "Alma31",
+    "company": "ANGEHEUERT GmbH Personalberatung",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Paris, Paris"
+      "Berlin"
     ],
     "sampleTitles": [
-      "Analytics Engineer"
+      "Data Engineer (m/w/d)"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/alma31/analytics-engineer-paris-paris-368764"
-    ]
-  },
-  {
-    "company": "Bettyjobboard",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer | Betty CA"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-data-engineer-betty-ca-london-438162"
+      "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh-personalberatung/data-engineer-berlin-178809"
     ]
   },
   {
@@ -446,6 +406,22 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.ch/jobs/companies/nozominetworks/fullstack-data-engineer-mendrisio-75224"
+    ]
+  },
+  {
+    "company": "Perk",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Senior Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-analytics-engineer-london-427455"
     ]
   },
   {
