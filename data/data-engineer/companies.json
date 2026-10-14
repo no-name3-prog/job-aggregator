@@ -27,34 +27,6 @@
     ]
   },
   {
-    "company": "Autodesk",
-    "jobCount": 6,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Toronto, ON, CAN",
-      "Kraków, POL",
-      "35 Locations",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineering",
-      "Data Engineer with AI",
-      "Principal Data Engineer, User Success",
-      "Analytics Engineer, Forecasting & Revenue Intelligence",
-      "Principal Data Engineer -General application",
-      "Principal Data Engineer, User Success (Agentic Experiences)"
-    ],
-    "officialUrls": [
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Data-Engineering_26WD101237",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success_26WD97991-1",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Denver-CO-USA/Analytics-Engineer--Forecasting---Revenue-Intelligence_26WD101381-1",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
-    ]
-  },
-  {
     "company": "Salesforce",
     "jobCount": 6,
     "sources": [
@@ -83,29 +55,30 @@
     ]
   },
   {
-    "company": "Coinbase",
+    "company": "Autodesk",
     "jobCount": 5,
     "sources": [
-      "greenhouse"
+      "workday"
     ],
     "locations": [
-      "Hybrid - New York, NY",
-      "Hybrid - San Francisco, CA",
-      "Remote - USA"
+      "Toronto, ON, CAN",
+      "Kraków, POL",
+      "2 Locations",
+      "35 Locations"
     ],
     "sampleTitles": [
-      "Analytics Engineer Intern",
-      "Data Engineer Intern",
-      "Senior Market Data Engineer",
-      "Staff Data Engineer, Market Data",
-      "Senior Analytics Engineer, GFCO Analytics"
+      "Senior Data Engineering",
+      "Data Engineer with AI",
+      "Principal Data Engineer -General application",
+      "Analytics Engineer, Forecasting & Revenue Intelligence",
+      "Principal Data Engineer, User Success (Agentic Experiences)"
     ],
     "officialUrls": [
-      "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
-      "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
-      "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
-      "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
-      "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880"
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Data-Engineering_26WD101237",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Denver-CO-USA/Analytics-Engineer--Forecasting---Revenue-Intelligence_26WD101381-1",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2"
     ]
   },
   {
@@ -152,6 +125,30 @@
       "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
       "http://block.xyz/careers/jobs/5424561008?gh_jid=5424561008",
       "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "jobCount": 4,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "Hybrid - New York, NY",
+      "Hybrid - San Francisco, CA",
+      "Remote - USA"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer Intern",
+      "Data Engineer Intern",
+      "Senior Market Data Engineer",
+      "Staff Data Engineer, Market Data"
+    ],
+    "officialUrls": [
+      "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
+      "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+      "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
+      "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836"
     ]
   },
   {
@@ -313,22 +310,6 @@
     ]
   },
   {
-    "company": "Alexander Thamm GmbH",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "München"
-    ],
-    "sampleTitles": [
-      "Principal Data Engineer (m/w/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-data-engineer-munchen-35968"
-    ]
-  },
-  {
     "company": "Cloudflare",
     "jobCount": 1,
     "sources": [
@@ -342,6 +323,22 @@
     ],
     "officialUrls": [
       "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118"
+    ]
+  },
+  {
+    "company": "databricks",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Amsterdam"
+    ],
+    "sampleTitles": [
+      "Specialist Solutions Architect - Data Engineering"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.nl/jobs/companies/databricks/specialist-solutions-architect-data-engineering-amsterdam-293185"
     ]
   },
   {
@@ -361,6 +358,22 @@
     ]
   },
   {
+    "company": "Limatica",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Chemnitz"
+    ],
+    "sampleTitles": [
+      "Signal Processing & Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/limatica/signal-processing-data-engineer-chemnitz-282823"
+    ]
+  },
+  {
     "company": "Linear",
     "jobCount": 1,
     "sources": [
@@ -377,22 +390,6 @@
     ]
   },
   {
-    "company": "Overstory",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Unknown"
-    ],
-    "sampleTitles": [
-      "Staff Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/overstory/staff-data-engineer-431237"
-    ]
-  },
-  {
     "company": "Pinterest",
     "jobCount": 1,
     "sources": [
@@ -406,22 +403,6 @@
     ],
     "officialUrls": [
       "https://www.pinterestcareers.com/jobs/?gh_jid=8209014"
-    ]
-  },
-  {
-    "company": "Ravio",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Lead Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/ravio/lead-data-engineer-london-292706"
     ]
   },
   {
@@ -454,6 +435,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/scaleai/jobs/4713597005"
+    ]
+  },
+  {
+    "company": "smartlyio",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin, Berlin"
+    ],
+    "sampleTitles": [
+      "Senior Data Platform Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/smartlyio/senior-data-platform-engineer-berlin-berlin-307553"
     ]
   },
   {
