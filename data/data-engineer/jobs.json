@@ -1,49 +1,55 @@
 [
   {
-    "id": "arbeitnow:senior-data-platform-engineer-berlin-98232",
-    "externalId": "senior-data-platform-engineer-berlin-98232",
+    "id": "arbeitnow:principal-data-engineer-munchen-35968",
+    "externalId": "principal-data-engineer-munchen-35968",
     "source": "arbeitnow",
-    "title": "Senior Data Platform Engineer",
-    "company": "Smartly",
-    "location": "Berlin, Germany",
+    "title": "Principal Data Engineer (m/w/d)",
+    "company": "Alexander Thamm GmbH",
+    "location": "München",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/smartly/senior-data-platform-engineer-berlin-98232",
-    "description": "We are looking for a Senior Data Platform Engineer to join the Data Platform at Smartly!\n Smartly is building the standard path for governed data sharing across product services, analytics, and AI/ML. The Data Platform team owns the contracts, control mechanisms, publication paths, catalog metadata, lifecycle rules, lineage, permissions, and runtime building blocks that make reusable data safe and practical at scale.\n This is a role for someone who wants to shape a platform early, while working on concrete production problems from the start. Smartly already has the production systems, Kafka backbone, PostgreSQL databases, analytical consumers, and AI/ML use cases that need a better data foundation. The challenge is to turn that reality into a standard path that engineers actually want to use.\n Our first milestone is focused: centrally managed publishing tables in service-owned PostgreSQL databases, captured through Debezium CDC into Kafka, and registered in DataHub with ownership, lifecycle, lineage, and impact-analysis metadata. Longer-term, the platform expands toward self-service data products, governed materialisations, durable shared state, and reusable data across Smartly's operational and analytical systems.\n This is not a role where you only maintain an existing reporting pipeline. You will help design and build the platform path that other engineering teams use when they publish and consume shared data.\n What you will do\n Design and build platform services, tools, and workflows for contract-driven data publishing and consumption.\n Build the first production path for platform-managed PostgreSQL publishing tables, Debezium CDC, Kafka topics, and catalog registration.\n Create GitOps-style workflows where contracts, schemas, ownership, lifecycle, compatibility, policy metadata, and runtime desired state are reviewed, validated, and reconciled as code.\n Build tooling that gives product engineers fast feedback before they publish or change data products.\n Help d…",
-    "tags": [],
-    "postedAt": "2026-10-14T06:45:26.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.146Z"
+    "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-data-engineer-munchen-35968",
+    "description": "Startdatum\n Wir suchen Dich ab sofort an einem unserer deutschen Standorte in München, Nürnberg, Essen, Leipzig, Berlin oder Frankfurt am Main !\n Deine Aufgaben\n Data und AI sind Dein zu Hause? Des Weiteren gestaltet sich Deine neue Herausforderung wie folgt:\n Konzeptionierung und Aufbau von Big Data / Analytics / AI Plattformen, inklusive DevOps workflows, IaC, CI/CD, IAM und Monitoring & Alerting\n Konzeption, Entwicklung und Skalierung von Daten-Pipelines auf verschiedenen Cloud-Architekturen unter Einbezug von Datenqualitätsmaßnahmen sowie der Entwurf und Umsetzung von Datenmodellen\n Operationalisierung von statistischen und KI-Modellen sowie Ergebnissen der Data Scientists, um diese zur produktiven Nutzung zur Verfügung zu stellen bzw. zu automatisieren\n Auswahl und Beratung von Kunden zu Vor- und Nachteilen verschiedener Technologie-Stacks, passend zu den Use Cases und dem Umfeld im Unternehmen\n Übernahme einer führenden Rolle in der Kundenkommunikation und Leitung von Engineering-Projekten mit fachlicher Verantwortung für ein Entwicklerteam und die Projektergebnisse\n Aufbau von Data Engineering Expertise im Unternehmen z.B. durch das Halten von internen Schulungen, Leiten von internen Projekten und aktive Teilnahme in der Engineering Community\n Dein Profil\n Data ist auch in Deiner DNA? Das solltest Du mitbringen:\n Erfolgreich abgeschlossenes Studium der Informatik, Computer Science, Data Engineering oder einem anderen mathematisch/ naturwissenschaftlichem Feld oder eine vergleichbare Qualifikation\n Starke Kommunikationsfähigkeit (fließend) auf Deutsch und Englisch sowie Reisebereitschaft im Rahmen einer Consulting Tätigkeit\n Mindestens 6 Jahre Vollzeit Berufserfahrung als Data Engineer in der Konzeption & Implementierung von Datenplattformen und Data Management Prozessen oder in ähnlichem Berufsfeld\n Mindestens 5 Jahre praktische Anwendung von gängigen Programmsprachen wie z.B. Python, Scala, SQL und Entwickler Tools wie bspw. GIT\n Mindestens 4 Jahre Umsetzun…",
+    "tags": [
+      "Software Development",
+      "Unbefristeter arbeitsvertrag"
+    ],
+    "jobType": "Unbefristeter arbeitsvertrag",
+    "postedAt": "2026-10-14T12:01:12.000Z",
+    "scrapedAt": "2026-10-14T14:19:02.958Z"
   },
   {
-    "id": "arbeitnow:lead-data-engineer-london-266113",
-    "externalId": "lead-data-engineer-london-266113",
+    "id": "arbeitnow:lead-data-engineer-london-292706",
+    "externalId": "lead-data-engineer-london-292706",
     "source": "arbeitnow",
     "title": "Lead Data Engineer",
-    "company": "Livescore9",
+    "company": "Ravio",
     "location": "London",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore9/lead-data-engineer-london-266113",
-    "description": "<p><strong>Soho, London</strong></p>\n<p><strong>Hybrid working: 3 days in the office Tues - Thurs</strong></p>\n<p><strong>The Role</strong></p>\n<p>To provide technical leadership and hands-on contribution within a data engineering team, designing, building, and optimizing robust data pipelines and infrastructure for a global sports betting and media business. This role is crucial in delivering high-quality data solutions that support LiveScore’s strategic goals and embody our commitment to being Fan Driven and a Champion of Sport. You will mentor junior engineers and ensure technical excellence in your domain.</p>\n<p>At LiveScore Group, we’re the proud home of three of the most exciting brands in the sports and gaming world: LiveScore, LiveScore Bet and Virgin Bet. A fully owned and operated ecosystem that converges the two worlds of sports media and sports betting. We’re proud of the high ratings for our commitment to excellence and fueling fan’s passion for sport driving us to the top.</p>\n<p>We don’t just lead; we innovate. Our cutting-edge products and immersive experiences set the standard, but it’s our people who truly make the difference. Every day, our team embody our values: adaptability, teamwork, a fan-driven approach, and an ever-curious mindset that fuels our ambition. As we scale and continue to create a culture that allows all employees to thrive, we know we need the most talented people with diverse backgrounds, perspectives and skills. If you’re good at what you do, come and join us. The more inclusive we are, the more amazing experiences we can create for our users.</p>\n<p><em>We know that job descriptions can sometimes seem daunting, and you might not feel you tick every box. But, if you’re passionate about the role and have relevant experience, we want to hear from you!</em><strong>&nbsp;</strong></p>\n<p><strong>Key Responsibilities</strong><strong>&nbsp;</strong></p>\n<ul>\n<li><strong>Technical Leadership and Guidance:</strong> Act as a primary…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ravio/lead-data-engineer-london-292706",
+    "description": "We help companies get compensation right.\n What we get paid at work has a massive impact on our lives, and it’s one of the biggest factors in hiring and retaining talent - and yet so many companies struggle to get it right. They simply have no choice but to rely on poor data and unsophisticated tools for their pay decisions. That’s why we created Ravio.\n We help many of the world’s most innovative and ambitious companies build stronger teams and reach their goals through better compensation. Our real-time data platform brings compensation into the modern age, tracking the market across all compensation types from salary to equity and benefits. We’re passionate about ensuring everyone is paid what they deserve, no matter their background or circumstances. We believe that when compensation is done right, everyone wins.\n Ravio is growing fast, which means you can too. We’ve established ourselves as the European leader in our space serving more than 1,200 clients, and now have our sights set on becoming the global go to place for compensation data and tools for managing compensation.\n Joining a startup and scaling it into a global product is one of the most challenging and rewarding experiences a career can offer. If that sounds exciting to you, you’re in the right place.\n The role We’re looking for a Lead Data Engineer to lead a small team of data engineers within our Engineering team. You’ll remain hands-on in designing, building, and operating the data systems behind our compensation benchmarks, customer-facing tools, and AI agents. You’ll take a platform engineering approach to data, building reliable, reusable capabilities that help Engineering, Data Science, and Insights deliver. You’ll combine technical leadership with line management and coaching, working with engineering and product colleagues to turn priorities into delivered outcomes.\n You’ll report to our VP Engineering.\n Hands-on engineering and delivery Be a senior technical contributor, building and oper…",
     "tags": [
-      "Technology"
+      "Technology",
+      "Full Time"
     ],
-    "postedAt": "2026-10-14T05:56:10.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.146Z"
+    "jobType": "Full Time",
+    "postedAt": "2026-10-14T11:40:15.000Z",
+    "scrapedAt": "2026-10-14T14:19:02.958Z"
   },
   {
-    "id": "arbeitnow:associate-director-data-engineering-uk-london-433113",
-    "externalId": "associate-director-data-engineering-uk-london-433113",
+    "id": "arbeitnow:staff-data-engineer-431237",
+    "externalId": "staff-data-engineer-431237",
     "source": "arbeitnow",
-    "title": "Associate Director, Data Engineering, UK",
-    "company": "wppmedia",
-    "location": "London",
+    "title": "Staff Data Engineer",
+    "company": "Overstory",
+    "location": "Unknown",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/associate-director-data-engineering-uk-london-433113",
-    "description": "<div class=\"content-intro\"><p><strong>About WPP Media</strong></p>\n<p>WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigate change, capture opportunity, and deliver transformational growth. </p>\n<p>WPP Media is WPP's AI-driven media operating unit, bringing together media, data, and partnerships to deliver creative personalisation at scale. Connected through WPP Open and powered by Open Intelligence, clients see exactly where, how, and why their media investment is working.</p>\n<p>For more information, visit <a href=\"wppmedia.com\">wppmedia.com</a>.</p></div><p><strong>3743 - Associate Director, Data Engineering, UK</strong></p>\n<p><strong>Role Summary and Impact</strong></p>\n<p>DTA is WPP’s global data products and technology arm. We’re on a mission to transform marketing by building the fastest, most connected data platform that bridges marketing strategy to scaled activation.</p>\n<p>We work with agencies and clients to transform the value of data by bringing together technology, data and analytics capabilities. We deliver this through the Open Media Studio, an AI-enabled media and data platform for the next era of advertising.</p>\n<p>We’re endlessly curious. Our team of thinkers, builders, creators and problem solvers are over 1,000 strong, across 20 markets around the world.</p>\n<p><strong>About WPP Media&nbsp;BI &amp; Data Management</strong></p>\n<p>As the central hub for BI and data engineering, our team of 30+ specialists is responsible for the integrity, flow, and accessibility of data across the entire WPP Media ecosystem. By bridging technical data engineering with advanced BI reporting, we provide the robust foundation that powers WPP Media’s platform and drives growth at scale.</p>\n<p>As <strong>Associate Director, Engineering</strong> you&nbsp;will be joining the&n…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/overstory/staff-data-engineer-431237",
+    "description": "<div class=\"content-intro\"><p>The climate crisis is the defining challenge of our time—but it’s also the greatest opportunity for innovation, and a challenge we’re proud to take on. At Overstory, we’re harnessing cutting-edge technology to enable a resilient electrical grid that keeps communities thriving as our world changes.</p>\n<p>The grid is the backbone of life as we know it. It powers hospitals, keeps food fresh, and ensures communities stay connected. But extreme weather, aging infrastructure, and growing wildfire risks are putting this critical system under pressure. All of this combined makes the electric utility industry the greatest opportunity for tackling climate change.&nbsp;</p>\n<p>One of the leading causes of catastrophic wildfires and power outages? Trees and brush coming into contact with power lines.&nbsp;</p>\n<p>That’s where we help. At Overstory, we use AI and advanced satellite imagery to pinpoint and prioritize vegetation risks before they materialize. By giving utilities critical analysis on those risks, we’re helping prevent outages, reduce wildfire risks, and accelerate the transition to a safer, more resilient grid.</p>\n<p>Our team spans the Americas and Europe, and we work with utility partners across the Americas and beyond. We’re outdoor enthusiasts, musicians, artists, athletes, parents, and adventurers. What unites us is a passion for solving complex problems, a commitment to climate action, and the belief that technology should be a force for good.</p>\n<p>Join us to help us build a more resilient world together.&nbsp;</p></div><h2>Role &amp; Team</h2>\n<p>As a <strong>Staff Data Engineer</strong> at Overstory, you will lead the design and scaling of the data platform that enables Overstory’s AI-powered vegetation analysis. Our analysis depends on moving enormous volumes of satellite imagery, model inferences, and utility network data through orchestrated pipelines reliably, repeatably, and on time to support customer decision-making.…",
     "tags": [
-      "Technology & Data"
+      "Engineering"
     ],
-    "postedAt": "2026-10-14T03:55:07.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.146Z"
+    "postedAt": "2026-10-14T08:55:55.000Z",
+    "scrapedAt": "2026-10-14T14:19:02.958Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -59,7 +65,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -75,7 +81,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -91,7 +97,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -107,7 +113,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:airbnb-8249633",
@@ -123,7 +129,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-05T16:34:11.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:affirm-8010489003",
@@ -139,7 +145,7 @@
       "Accounting"
     ],
     "postedAt": "2026-10-01T14:33:52.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -155,7 +161,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -171,7 +177,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:pinterest-8209014",
@@ -187,7 +193,7 @@
       "Oversight Engineering"
     ],
     "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:airbnb-8224032",
@@ -203,7 +209,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "lever:spotify-80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
@@ -223,7 +229,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-09-22T08:36:16.099Z",
-    "scrapedAt": "2026-10-14T08:24:44.933Z"
+    "scrapedAt": "2026-10-14T14:22:26.998Z"
   },
   {
     "id": "greenhouse:figma-6201407004",
@@ -239,7 +245,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-21T16:13:46.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -255,7 +261,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -271,7 +277,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -287,7 +293,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -303,7 +309,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -319,7 +325,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -335,7 +341,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -351,7 +357,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -367,7 +373,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:affirm-7916080003",
@@ -383,7 +389,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-08-20T13:43:45.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -403,7 +409,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-10-14T08:24:44.933Z"
+    "scrapedAt": "2026-10-14T14:22:26.998Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -422,7 +428,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-10-14T08:24:46.173Z"
+    "scrapedAt": "2026-10-14T14:22:28.241Z"
   },
   {
     "id": "greenhouse:stripe-8112043",
@@ -438,7 +444,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-08-06T14:27:44.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -454,7 +460,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:affirm-7813362003",
@@ -470,7 +476,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-07-28T10:52:21.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -486,7 +492,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -502,7 +508,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -518,7 +524,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:anthropic-5240422008",
@@ -534,7 +540,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-07-01T20:26:10.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:coinbase-8024880",
@@ -550,7 +556,7 @@
       "Customer Experience"
     ],
     "postedAt": "2026-06-25T23:35:31.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -566,7 +572,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:discord-8485884002",
@@ -582,7 +588,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-05-14T16:00:25.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -598,7 +604,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -614,7 +620,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -630,7 +636,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -646,7 +652,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -662,7 +668,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-10-14T08:21:33.632Z"
+    "scrapedAt": "2026-10-14T14:19:03.449Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -678,7 +684,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-10-14T08:21:40.594Z"
+    "scrapedAt": "2026-10-14T14:19:10.033Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -692,7 +698,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-14T08:21:40.594Z"
+    "scrapedAt": "2026-10-14T14:19:10.033Z"
   },
   {
     "id": "workday:nvidia-JR2023850",
@@ -706,7 +712,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-14T08:21:40.594Z"
+    "scrapedAt": "2026-10-14T14:19:10.033Z"
   },
   {
     "id": "workday:nvidia-JR2026497",
@@ -720,7 +726,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-14T08:21:40.594Z"
+    "scrapedAt": "2026-10-14T14:19:10.033Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -734,7 +740,21 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-14T08:21:40.594Z"
+    "scrapedAt": "2026-10-14T14:19:10.033Z"
+  },
+  {
+    "id": "workday:salesforce-JR359930",
+    "externalId": "salesforce:JR359930",
+    "source": "workday",
+    "title": "Data Engineering Senior Associate- Finance",
+    "company": "Salesforce",
+    "location": "Ireland - Dublin",
+    "remote": false,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-10-14T14:19:10.033Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -748,35 +768,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-14T08:21:40.594Z"
-  },
-  {
-    "id": "workday:salesforce-JR359930",
-    "externalId": "salesforce:JR359930",
-    "source": "workday",
-    "title": "Data Engineering Senior Associate",
-    "company": "Salesforce",
-    "location": "Ireland - Dublin",
-    "remote": false,
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-10-14T08:21:40.594Z"
-  },
-  {
-    "id": "workday:salesforce-JR347388",
-    "externalId": "salesforce:JR347388",
-    "source": "workday",
-    "title": "Data Engineer (SMTS / LMTS) - MDM",
-    "company": "Salesforce",
-    "location": "4 Locations",
-    "remote": false,
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Data-Engineer--SMTS---LMTS----MDM_JR347388",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-10-14T08:21:40.594Z"
+    "scrapedAt": "2026-10-14T14:19:10.033Z"
   },
   {
     "id": "workday:adobe-R171875",
@@ -790,7 +782,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-14T08:21:40.594Z"
+    "scrapedAt": "2026-10-14T14:19:10.033Z"
   },
   {
     "id": "workday:adobe-R172115",
@@ -804,7 +796,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-14T08:21:40.594Z"
+    "scrapedAt": "2026-10-14T14:19:10.033Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -818,7 +810,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-14T08:21:40.594Z"
+    "scrapedAt": "2026-10-14T14:19:10.033Z"
   },
   {
     "id": "workday:autodesk-26WD101237",
@@ -832,7 +824,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-14T08:21:40.594Z"
+    "scrapedAt": "2026-10-14T14:19:10.033Z"
   },
   {
     "id": "workday:autodesk-26WD100418",
@@ -846,7 +838,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-14T08:21:40.594Z"
+    "scrapedAt": "2026-10-14T14:19:10.033Z"
   },
   {
     "id": "workday:autodesk-26WD97991",
@@ -860,21 +852,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-14T08:21:40.594Z"
-  },
-  {
-    "id": "workday:autodesk-25WD89669",
-    "externalId": "autodesk:25WD89669",
-    "source": "workday",
-    "title": "Principal Data Engineer -General application",
-    "company": "Autodesk",
-    "location": "2 Locations",
-    "remote": false,
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-10-14T08:21:40.594Z"
+    "scrapedAt": "2026-10-14T14:19:10.033Z"
   },
   {
     "id": "workday:autodesk-26WD101381",
@@ -888,7 +866,21 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-14T08:21:40.594Z"
+    "scrapedAt": "2026-10-14T14:19:10.033Z"
+  },
+  {
+    "id": "workday:autodesk-25WD89669",
+    "externalId": "autodesk:25WD89669",
+    "source": "workday",
+    "title": "Principal Data Engineer -General application",
+    "company": "Autodesk",
+    "location": "2 Locations",
+    "remote": false,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-10-14T14:19:10.033Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -902,7 +894,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-14T08:21:40.594Z"
+    "scrapedAt": "2026-10-14T14:19:10.033Z"
   },
   {
     "id": "workday:salesforce-JR361288",
@@ -916,7 +908,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-14T08:22:52.820Z"
+    "scrapedAt": "2026-10-14T14:20:26.012Z"
   },
   {
     "id": "workday:salesforce-JR353458",
@@ -930,7 +922,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-14T08:22:52.820Z"
+    "scrapedAt": "2026-10-14T14:20:26.012Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -944,6 +936,20 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-14T08:22:52.820Z"
+    "scrapedAt": "2026-10-14T14:20:26.012Z"
+  },
+  {
+    "id": "workday:salesforce-JR347388",
+    "externalId": "salesforce:JR347388",
+    "source": "workday",
+    "title": "Data Engineer (SMTS / LMTS) - MDM",
+    "company": "Salesforce",
+    "location": "4 Locations",
+    "remote": false,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Data-Engineer--SMTS---LMTS----MDM_JR347388",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-10-14T14:21:02.745Z"
   }
 ]
