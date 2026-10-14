@@ -1,71 +1,49 @@
 [
   {
-    "id": "arbeitnow:lead-data-engineer-london-84834",
-    "externalId": "lead-data-engineer-london-84834",
+    "id": "arbeitnow:senior-data-platform-engineer-berlin-98232",
+    "externalId": "senior-data-platform-engineer-berlin-98232",
+    "source": "arbeitnow",
+    "title": "Senior Data Platform Engineer",
+    "company": "Smartly",
+    "location": "Berlin, Germany",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/smartly/senior-data-platform-engineer-berlin-98232",
+    "description": "We are looking for a Senior Data Platform Engineer to join the Data Platform at Smartly!\n Smartly is building the standard path for governed data sharing across product services, analytics, and AI/ML. The Data Platform team owns the contracts, control mechanisms, publication paths, catalog metadata, lifecycle rules, lineage, permissions, and runtime building blocks that make reusable data safe and practical at scale.\n This is a role for someone who wants to shape a platform early, while working on concrete production problems from the start. Smartly already has the production systems, Kafka backbone, PostgreSQL databases, analytical consumers, and AI/ML use cases that need a better data foundation. The challenge is to turn that reality into a standard path that engineers actually want to use.\n Our first milestone is focused: centrally managed publishing tables in service-owned PostgreSQL databases, captured through Debezium CDC into Kafka, and registered in DataHub with ownership, lifecycle, lineage, and impact-analysis metadata. Longer-term, the platform expands toward self-service data products, governed materialisations, durable shared state, and reusable data across Smartly's operational and analytical systems.\n This is not a role where you only maintain an existing reporting pipeline. You will help design and build the platform path that other engineering teams use when they publish and consume shared data.\n What you will do\n Design and build platform services, tools, and workflows for contract-driven data publishing and consumption.\n Build the first production path for platform-managed PostgreSQL publishing tables, Debezium CDC, Kafka topics, and catalog registration.\n Create GitOps-style workflows where contracts, schemas, ownership, lifecycle, compatibility, policy metadata, and runtime desired state are reviewed, validated, and reconciled as code.\n Build tooling that gives product engineers fast feedback before they publish or change data products.\n Help d…",
+    "tags": [],
+    "postedAt": "2026-10-14T06:45:26.000Z",
+    "scrapedAt": "2026-10-14T08:21:33.146Z"
+  },
+  {
+    "id": "arbeitnow:lead-data-engineer-london-266113",
+    "externalId": "lead-data-engineer-london-266113",
     "source": "arbeitnow",
     "title": "Lead Data Engineer",
-    "company": "LiveScore Group",
-    "location": "London, England, United Kingdom",
+    "company": "Livescore9",
+    "location": "London",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore-group/lead-data-engineer-london-84834",
-    "description": "Soho, London\n Hybrid working: 3 days in the office Tues - Thurs\n The Role\n To provide technical leadership and hands-on contribution within a data engineering team, designing, building, and optimizing robust data pipelines and infrastructure for a global sports betting and media business. This role is crucial in delivering high-quality data solutions that support LiveScore's strategic goals and embody our commitment to being Fan Driven and a Champion of Sport. You will mentor junior engineers and ensure technical excellence in your domain.\n At LiveScore Group, we're the proud home of three of the most exciting brands in the sports and gaming world: LiveScore, LiveScore Bet and Virgin Bet. A fully owned and operated ecosystem that converges the two worlds of sports media and sports betting. We're proud of the high ratings for our commitment to excellence and fueling fan's passion for sport driving us to the top.\n We don't just lead; we innovate. Our cutting-edge products and immersive experiences set the standard, but it's our people who truly make the difference. Every day, our team embody our values: adaptability, teamwork, a fan-driven approach, and an ever-curious mindset that fuels our ambition. As we scale and continue to create a culture that allows all employees to thrive, we know we need the most talented people with diverse backgrounds, perspectives and skills. If you're good at what you do, come and join us. The more inclusive we are, the more amazing experiences we can create for our users.\n We know that job descriptions can sometimes seem daunting, and you might not feel you tick every box. But, if you're passionate about the role and have relevant experience, we want to hear from you!\n Key Responsibilities\n Technical Leadership and Guidance:  Act as a primary technical point of contact and subject matter expert for specific data engineering projects or domains, guiding team members through complex technical challenges and promoting innovative solutions…",
-    "tags": [],
-    "postedAt": "2026-10-13T21:45:24.000Z",
-    "scrapedAt": "2026-10-14T00:06:32.216Z"
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore9/lead-data-engineer-london-266113",
+    "description": "<p><strong>Soho, London</strong></p>\n<p><strong>Hybrid working: 3 days in the office Tues - Thurs</strong></p>\n<p><strong>The Role</strong></p>\n<p>To provide technical leadership and hands-on contribution within a data engineering team, designing, building, and optimizing robust data pipelines and infrastructure for a global sports betting and media business. This role is crucial in delivering high-quality data solutions that support LiveScore’s strategic goals and embody our commitment to being Fan Driven and a Champion of Sport. You will mentor junior engineers and ensure technical excellence in your domain.</p>\n<p>At LiveScore Group, we’re the proud home of three of the most exciting brands in the sports and gaming world: LiveScore, LiveScore Bet and Virgin Bet. A fully owned and operated ecosystem that converges the two worlds of sports media and sports betting. We’re proud of the high ratings for our commitment to excellence and fueling fan’s passion for sport driving us to the top.</p>\n<p>We don’t just lead; we innovate. Our cutting-edge products and immersive experiences set the standard, but it’s our people who truly make the difference. Every day, our team embody our values: adaptability, teamwork, a fan-driven approach, and an ever-curious mindset that fuels our ambition. As we scale and continue to create a culture that allows all employees to thrive, we know we need the most talented people with diverse backgrounds, perspectives and skills. If you’re good at what you do, come and join us. The more inclusive we are, the more amazing experiences we can create for our users.</p>\n<p><em>We know that job descriptions can sometimes seem daunting, and you might not feel you tick every box. But, if you’re passionate about the role and have relevant experience, we want to hear from you!</em><strong>&nbsp;</strong></p>\n<p><strong>Key Responsibilities</strong><strong>&nbsp;</strong></p>\n<ul>\n<li><strong>Technical Leadership and Guidance:</strong> Act as a primary…",
+    "tags": [
+      "Technology"
+    ],
+    "postedAt": "2026-10-14T05:56:10.000Z",
+    "scrapedAt": "2026-10-14T08:21:33.146Z"
   },
   {
-    "id": "arbeitnow:working-student-analytics-engineering-berlin-zentrale-381296",
-    "externalId": "working-student-analytics-engineering-berlin-zentrale-381296",
+    "id": "arbeitnow:associate-director-data-engineering-uk-london-433113",
+    "externalId": "associate-director-data-engineering-uk-london-433113",
     "source": "arbeitnow",
-    "title": "Working Student Analytics Engineering (f/m/x)",
-    "company": "Thermondo",
-    "location": "Berlin (Zentrale)",
+    "title": "Associate Director, Data Engineering, UK",
+    "company": "wppmedia",
+    "location": "London",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/thermondo/working-student-analytics-engineering-berlin-zentrale-381296",
-    "description": "We're looking for We are looking for you as a  Working Student Analytics Engineering (f/m/x) to join one of our various departments\nand help us at thermondo make an important contribution to climate neutrality. With your interest\nin renewable energy and your identification with our values — Our word counts, Better every day,\nand Stronger together — you can create real added value for all of us\n If you enjoy this Answering Data-related questions from business stakeholders across all departments Building new dashboards and improving existing dashboards in Looker Conducting ad hoc analyses and translating data requests into clear results Monitoring data quality and working closely with our Analytics Engineers Documenting KPIs and data sources, and contributing to our data dictionary Writing basic SQL queries for data exploration and analysis\n And recognise yourself here You are enrolled in a data-related or analytical degree programme, such as Data Science, Business Informatics, Statistics, Economics or a comparable field, with at least two semesters remaining. SQL basics: You understand basic syntax, filtering, JOINs and aggregations. BI experience: You have worked with a BI or reporting tool such as Looker, Tableau or Power BI and can explain what you built with it. Data understanding: You can prepare analysis results clearly and explain them to non-technical stakeholders. AI tools: You use tools such as Gemini or Claude in a practical way to support analysis, research or problem-solving. Independent work: You have initial practical experience with smaller data-related tasks and can structure your work with limited guidance. Languages: You speak German at least at B1 level and English at C1 level.\n What we have to offer A meaningful purpose — through your work, you make an important contribution to making homes climate-neutral  Professional development opportunities with experienced mentors Interaction with other working students in an open working environment A col…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/associate-director-data-engineering-uk-london-433113",
+    "description": "<div class=\"content-intro\"><p><strong>About WPP Media</strong></p>\n<p>WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigate change, capture opportunity, and deliver transformational growth. </p>\n<p>WPP Media is WPP's AI-driven media operating unit, bringing together media, data, and partnerships to deliver creative personalisation at scale. Connected through WPP Open and powered by Open Intelligence, clients see exactly where, how, and why their media investment is working.</p>\n<p>For more information, visit <a href=\"wppmedia.com\">wppmedia.com</a>.</p></div><p><strong>3743 - Associate Director, Data Engineering, UK</strong></p>\n<p><strong>Role Summary and Impact</strong></p>\n<p>DTA is WPP’s global data products and technology arm. We’re on a mission to transform marketing by building the fastest, most connected data platform that bridges marketing strategy to scaled activation.</p>\n<p>We work with agencies and clients to transform the value of data by bringing together technology, data and analytics capabilities. We deliver this through the Open Media Studio, an AI-enabled media and data platform for the next era of advertising.</p>\n<p>We’re endlessly curious. Our team of thinkers, builders, creators and problem solvers are over 1,000 strong, across 20 markets around the world.</p>\n<p><strong>About WPP Media&nbsp;BI &amp; Data Management</strong></p>\n<p>As the central hub for BI and data engineering, our team of 30+ specialists is responsible for the integrity, flow, and accessibility of data across the entire WPP Media ecosystem. By bridging technical data engineering with advanced BI reporting, we provide the robust foundation that powers WPP Media’s platform and drives growth at scale.</p>\n<p>As <strong>Associate Director, Engineering</strong> you&nbsp;will be joining the&n…",
     "tags": [
-      "Werkstudent",
-      "Student",
-      "Working Student",
-      "Student",
-      "Intern",
-      "Part time"
+      "Technology & Data"
     ],
-    "jobType": "Student",
-    "postedAt": "2026-10-13T17:09:49.000Z",
-    "scrapedAt": "2026-10-14T00:06:32.216Z"
-  },
-  {
-    "id": "arbeitnow:data-engineering-lead-manchester-316225",
-    "externalId": "data-engineering-lead-manchester-316225",
-    "source": "arbeitnow",
-    "title": "Data Engineering Lead",
-    "company": "Thehutgroup",
-    "location": "Manchester",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/data-engineering-lead-manchester-316225",
-    "description": "<div class=\"content-intro\"><p><strong><span data-contrast=\"auto\">About THG</span></strong><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"201341983\":0,\"335551550\":1,\"335551620\":1,\"335559685\":0,\"335559737\":0,\"335559738\":0,\"335559739\":160,\"335559740\":279}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">We are THG, a global ecommerce group on a mission to be the global online leader in beauty and sports nutrition.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"201341983\":0,\"335551550\":1,\"335551620\":1,\"335559685\":0,\"335559737\":0,\"335559738\":240,\"335559739\":240,\"335559740\":279}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">Our portfolio of</span><span data-contrast=\"auto\"> leading retailers and brands such as LOOKFANTASTIC, Myprotein, ESPA, Perricone MD, and Cult Beauty form our two core businesses: THG Beauty and THG Nutrition.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"201341983\":0,\"335551550\":1,\"335551620\":1,\"335559685\":0,\"335559737\":0,\"335559738\":240,\"335559739\":240,\"335559740\":279}\">&nbsp;</span></p>\n<p><span data-contrast=\"none\">From Manchester to New York, we’re powered by a team of over 2500 people who work together, lead by example, and think BIG.&nbsp;</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"none\">With us, you’ll go further, faster. What are you waiting for?</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"201341983\":0,\"335551550\":1,\"335551620\":1,\"335559685\":0,\"335559737\":0,\"335559738\":240,\"335559739\":240,\"335559740\":279}\">&nbsp;</span></p></div><p><strong>Location: Icon 1, WA15 0AF</strong></p>\n<p><strong>About Central Functions</strong></p>\n<p>Central Functions is formed of the teams and people that serve the entire business. These people are integral to the smooth running of the business; ensuring everyone is paid on time, that materials are sourced and arrive promptly, that we meet our legal obligations and that our health, safety, and security is s…",
-    "tags": [
-      "THG Shared Services"
-    ],
-    "postedAt": "2026-10-13T15:55:05.000Z",
-    "scrapedAt": "2026-10-14T00:06:32.216Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-customer-manchester-122641",
-    "externalId": "data-engineer-customer-manchester-122641",
-    "source": "arbeitnow",
-    "title": "Data Engineer (Customer)",
-    "company": "Thehutgroup",
-    "location": "Manchester",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/data-engineer-customer-manchester-122641",
-    "description": "<div class=\"content-intro\"><p><strong><span data-contrast=\"auto\">About THG</span></strong><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"201341983\":0,\"335551550\":1,\"335551620\":1,\"335559685\":0,\"335559737\":0,\"335559738\":0,\"335559739\":160,\"335559740\":279}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">We are THG, a global ecommerce group on a mission to be the global online leader in beauty and sports nutrition.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"201341983\":0,\"335551550\":1,\"335551620\":1,\"335559685\":0,\"335559737\":0,\"335559738\":240,\"335559739\":240,\"335559740\":279}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">Our portfolio of</span><span data-contrast=\"auto\"> leading retailers and brands such as LOOKFANTASTIC, Myprotein, ESPA, Perricone MD, and Cult Beauty form our two core businesses: THG Beauty and THG Nutrition.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"201341983\":0,\"335551550\":1,\"335551620\":1,\"335559685\":0,\"335559737\":0,\"335559738\":240,\"335559739\":240,\"335559740\":279}\">&nbsp;</span></p>\n<p><span data-contrast=\"none\">From Manchester to New York, we’re powered by a team of over 2500 people who work together, lead by example, and think BIG.&nbsp;</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"none\">With us, you’ll go further, faster. What are you waiting for?</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"201341983\":0,\"335551550\":1,\"335551620\":1,\"335559685\":0,\"335559737\":0,\"335559738\":240,\"335559739\":240,\"335559740\":279}\">&nbsp;</span></p></div><p><strong>Location: Icon 1, WA15 0AF</strong></p>\n<p><strong>About Central Functions</strong></p>\n<p>Central Functions is formed of the teams and people that serve the entire business. These people are integral to the smooth running of the business; ensuring everyone is paid on time, that materials are sourced and arrive promptly, that we meet our legal obligations and that our health, safety, and security is s…",
-    "tags": [
-      "THG Shared Services"
-    ],
-    "postedAt": "2026-10-13T15:55:05.000Z",
-    "scrapedAt": "2026-10-14T00:06:32.216Z"
+    "postedAt": "2026-10-14T03:55:07.000Z",
+    "scrapedAt": "2026-10-14T08:21:33.146Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -81,7 +59,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-10-14T00:06:34.033Z"
+    "scrapedAt": "2026-10-14T08:21:33.632Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -97,7 +75,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-10-14T00:06:34.033Z"
+    "scrapedAt": "2026-10-14T08:21:33.632Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -113,7 +91,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-14T00:06:34.033Z"
+    "scrapedAt": "2026-10-14T08:21:33.632Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -129,7 +107,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-10-14T00:06:34.033Z"
+    "scrapedAt": "2026-10-14T08:21:33.632Z"
   },
   {
     "id": "greenhouse:airbnb-8249633",
@@ -145,7 +123,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-05T16:34:11.000Z",
-    "scrapedAt": "2026-10-14T00:06:34.033Z"
+    "scrapedAt": "2026-10-14T08:21:33.632Z"
   },
   {
     "id": "greenhouse:affirm-8010489003",
@@ -161,6 +139,22 @@
       "Accounting"
     ],
     "postedAt": "2026-10-01T14:33:52.000Z",
-    "scrapedAt": "2026-10-14T00:06:34.033Z"
+    "scrapedAt": "2026-10-14T08:21:33.632Z"
+  },
+  {
+    "id": "greenhouse:block-5434325008",
+    "externalId": "block:5434325008",
+    "source": "greenhouse",
+    "title": "Senior Analytics Engineer, AI & DX Analytics",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "remote": false,
+    "url": "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
+    "description": "Block builds simple, powerful tools that make progress towards an economy that’s truly open to all.\n Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Join us.\n The Role\n The AI & DX (Developer Experience) Analytics team exists to measure and improve Block's developer experience and investment in AI. We turn raw engineering signals (agent session data, pull request and CI activity, and AI spend) into reporting and analysis that shape leadership's AI investment decisions, and drive improvement in AI ROI and developer experience. Your work will be the trusted source of truth that engineers and executives use to decide where AI investment is working and where to redirect it.\n We're hiring a Senior Analytics Engineer to own parts of that pipeline end to end. This is a broad, high-visibility role with a lot of white space: you will instrument new telemetry at the source and build production pipelines that turn it into governed data, then turn that governed data into executive-facing reporting and the analysis that surfaces concrete opportunities to improve AI ROI and developer experience. You'll also help pioneer one of the most consequential open problems in the industry right now: measuring the productivity impact of an increasingly AI- and agent-augmented engineering workforce, where there is no textbook answer and real room to set the standard. You'll define new metrics and craft the visual narrative — the charts, dashboards, and presentation materials — that make them land with…",
+    "tags": [
+      "10410 Engineering - Developer Experience"
+    ],
+    "postedAt": "2026-09-24T17:40:25.000Z",
+    "scrapedAt": "2026-10-14T08:21:33.632Z"
   }
 ]
