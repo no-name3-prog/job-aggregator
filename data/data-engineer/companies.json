@@ -1,17 +1,19 @@
 [
   {
     "company": "Salesforce",
-    "jobCount": 7,
+    "jobCount": 8,
     "sources": [
       "workday"
     ],
     "locations": [
+      "2 Locations",
       "Mexico - Mexico City",
       "Ireland - Dublin",
       "4 Locations",
       "India - Hyderabad"
     ],
     "sampleTitles": [
+      "Data Engineering MTS/SMTS - ETL",
       "Data Engineer Senior",
       "Data Engineering Senior Associate- Finance",
       "Senior Data Engineer",
@@ -21,11 +23,11 @@
       "Data Engineer (SMTS / LMTS) - MDM"
     ],
     "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Data-Engineering-MTS-SMTS---ETL_JR364390",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR363793",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Director--Data-Engineering---Slack_JR361288-1",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Data-Engineer_JR353458"
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Director--Data-Engineering---Slack_JR361288-1"
     ]
   },
   {
@@ -90,21 +92,21 @@
     "locations": [
       "Toronto, ON, CAN",
       "Kraków, POL",
-      "2 Locations",
-      "35 Locations"
+      "35 Locations",
+      "2 Locations"
     ],
     "sampleTitles": [
       "Senior Data Engineering",
       "Data Engineer with AI",
-      "Principal Data Engineer -General application",
       "Analytics Engineer, Forecasting & Revenue Intelligence",
+      "Principal Data Engineer -General application",
       "Principal Data Engineer, User Success (Agentic Experiences)"
     ],
     "officialUrls": [
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Data-Engineering_26WD101237",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Denver-CO-USA/Analytics-Engineer--Forecasting---Revenue-Intelligence_26WD101381-1",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Data-Engineer--User-Success--Agentic-Experiences-_26WD98052-2"
     ]
   },
@@ -314,22 +316,6 @@
     ]
   },
   {
-    "company": "adesso Netherlands",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Utrecht, Utrecht, Netherlands"
-    ],
-    "sampleTitles": [
-      "Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.nl/jobs/companies/adesso-netherlands/data-engineer-utrecht-175174"
-    ]
-  },
-  {
     "company": "Cloudflare",
     "jobCount": 1,
     "sources": [
@@ -359,6 +345,22 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.nl/jobs/companies/conflux/senior-data-engineer-utrecht-24250"
+    ]
+  },
+  {
+    "company": "Datasnipper",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Amsterdam"
+    ],
+    "sampleTitles": [
+      "Team Lead, Data Engineering"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.nl/jobs/companies/datasnipper/team-lead-data-engineering-amsterdam-286359"
     ]
   },
   {
@@ -471,22 +473,6 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8112043"
-    ]
-  },
-  {
-    "company": "Voize",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Berlin"
-    ],
-    "sampleTitles": [
-      "Senior Data Analytics Engineer (f/m/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/voize/senior-data-analytics-engineer-berlin-396860"
     ]
   },
   {
