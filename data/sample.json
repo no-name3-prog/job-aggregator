@@ -1,84 +1,82 @@
 [
   {
-    "id": "greenhouse:anthropic-5452403008",
-    "externalId": "anthropic:5452403008",
+    "id": "greenhouse:gitlab-8889193002",
+    "externalId": "gitlab:8889193002",
     "source": "greenhouse",
-    "title": "Anthropic STEM Fellow",
-    "company": "Anthropic",
-    "location": "Remote-Friendly, United States; San Francisco, CA",
+    "title": "Cloud Platform Engineer",
+    "company": "GitLab",
+    "location": "Remote, Canada; Remote, United States",
     "remote": true,
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452403008",
-    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n Program Overview\n Some of our world's grand challenges, from resolving long-open problems in mathematics to designing medicines for neglected diseases, require deep expert judgment that today's AI still lacks. We're working toward an AI scientist, a system capable of the long-horizon reasoning and experimental judgment needed to push the frontier on problems like these. We believe frontier AI, developed safely, can meaningfully accelerate progress across science and engineering. Getting there requires close collaboration with people who have spent years at the frontier of their fields.\n The Anthropic STEM Fellows Program brings researchers and experts from across science and engineering into Anthropic for four months to take on the grand challenges of their fields with Claude. Working in small pods of Fellows from related fields, you will pair deep domain expertise with our frontier models and internal tooling to define the hardest open problems in your discipline, build the datasets and simulations that let us test and train Claude on them, and find exactly where it falls short.\n We're looking for Fellows across science and engineering. Prior machine learning experience is helpful but not required. Scientific judgment and a willingness to learn quickly matter more.\n Our first cohort of more than 20 STEM Fellows across mathematics, physics, the life sciences, and engineering, ran from June to September 2026. The problems they built now feed Claude's training and one of our internal science evaluations.\n What to Expect:\n A place in a small pod of Fellows working on related problems in your domain. Your pod meets weekly with Anthropi…",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8889193002",
+    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.\n The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software.\n * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.\n About the Role\n We are looking for a skilled Cloud Platform Engineer to join our Runway team. In this role, you will help design, build, and maintain the infrastructure and developer tooling that powers our engineering organization. You will play a key role in advancing our Kubernetes-based platform, maturing our GitOps practices, and driving infrastructure-as-code adoption across the business.\n This is a hands-on technical role suited to someone who thrives at the intersection of infrastructure, automation, and developer experience.\n Key Responsibilities\n Kubernetes Platform Management — Operate, maintain, and improve production-…",
     "tags": [
-      "AI Research & Engineering"
+      "Platforms Engineering"
     ],
-    "postedAt": "2026-10-14T18:34:30.000Z",
-    "scrapedAt": "2026-10-14T19:08:56.474Z"
+    "postedAt": "2026-10-14T22:58:44.000Z",
+    "scrapedAt": "2026-10-14T23:37:53.035Z"
   },
   {
-    "id": "greenhouse:scaleai-4743368005",
-    "externalId": "scaleai:4743368005",
+    "id": "greenhouse:lyft-8888403002",
+    "externalId": "lyft:8888403002",
     "source": "greenhouse",
-    "title": "Head of Strategic Partnerships, Global Systems Integrators",
-    "company": "Scale AI",
-    "location": "San Francisco, CA",
+    "title": "ML Software Engineer, Routing",
+    "company": "Lyft",
+    "location": "Toronto, Canada",
     "remote": false,
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4743368005",
-    "description": "About Scale AI\n Our mission is to develop reliable AI systems for the world's most important decisions. The Enterprise AI business delivers performant, reliable, and production-grade AI applications to enterprises across all industries by providing Generative AI expertise and infrastructure.\n The Role\n Scale is looking for a seasoned world-class leader and operator to architect and expand our partnership ecosystem and transform how Scale goes to market globally. This leader will build high-impact relationships with world-class partners, focused on professional services firms, to accelerate the development of AI applications with Scale.\n We are looking for a revenue-minded leader to own GSI-sourced and GSI-influenced pipeline. You should be able to set the strategy and also run the operating cadence it takes to turn alliance agreements into closed revenue: joint account plans, co-sell motions, practice building, and delivery enablement. You will source, evaluate, negotiate, and execute partnerships covering go-to-market, joint solutions, and delivery areas.\n This is a highly cross-functional role, as you will collaborate across internal teams including product, engineering, finance, legal, marketing and operations.\n You will\n Define and deliver the strategy and roadmap for Scale's GSI partnership program, including partner selection, tiering, and investment priorities\n Build trusted relationships with alliance leaders, AI practice leads, and C-level executives at top GSIs and consultancies\n Structure and negotiate alliance agreements (e.g., resale, referral, co-sell, joint go-to-market, and delivery partnerships) and get cross-functional alignment on terms\n Build joint account plans with GSI partners for Scale's priority Enterprise accounts and drive co-selling with Scale's sales teams\n Help partners build Scale-certified practices: training, technical enablement, certification, reference architectures, and repeatable delivery playbooks\n Co-develop industry-specific…",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8888403002?gh_jid=8888403002",
+    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n Our transport network serves the needs of millions of people every day who want to get from one place to another using Lyft cars, bikes and scooters, or on foot in the most efficient way. To serve these needs, we need to suggest the fastest, most affordable and safest routes.\n We are hiring a Machine Learning Engineer to join our Routing team. Our team builds and maintains Lyft's system responsible for providing routes for every ride request on our platform. We process millions of route requests per day and low latency, high reliability and high accuracy are paramount for our success.\n If you are a critical thinker with experience in machine learning workflows and writing reliable code, passionate about solving business problems using data and working in a dynamic, creative, and collaborative environment, we are searching for you.\n Our technology stack runs on AWS, Kubernetes, Go, Python/C++, Apache Airflow, Flink, and Kafka. We use AI to improve development productivity, optimize customer support workflows, and enhance operational efficiency — all without compromising code quality or security. In this role, you will work with incredibly passionate and talented colleagues from software engineering, machine learning and data science on building rideshare experiences that delight millions of riders and drivers.\n Responsibilities:\n Perform data analysis and build proof-of-concept to explore and compare ML and non-ML solutions\n Be able to make effective tradeoffs between model accuracy, its productization complexity and runtime performance\n Develop statistical, machine learning, or optimization models\n Write production quality code that can scale well to serve millions of requests per day\n Participate in code reviews, design reviews, production on-call support and incident triaging process.\n Write well…",
     "tags": [
-      "Enterprise Sales"
+      "Mapping"
     ],
-    "postedAt": "2026-10-14T18:29:40.000Z",
-    "scrapedAt": "2026-10-14T19:08:56.474Z"
+    "postedAt": "2026-10-14T22:13:31.000Z",
+    "scrapedAt": "2026-10-14T23:37:53.035Z"
   },
   {
-    "id": "arbeitnow:projektkaufmann-eberswalde-135030",
-    "externalId": "projektkaufmann-eberswalde-135030",
-    "source": "arbeitnow",
-    "title": "Projektkaufmann (m/w/d)",
-    "company": "timpla by Renggli",
-    "location": "Eberswalde",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/timpla-by-renggli/projektkaufmann-eberswalde-135030",
-    "description": "Wir suchen Sie\n Das ist ein Job für Holzbau-Enthusiasten, denen ein nachhaltiger Wandel des Bauens wichtiger ist als Stillstand. Mit viel Energie, Überzeugungskraft und Verhandlungsgeschick gestalten wir die Bauwende und wollen Sie dafür an Bord haben.\n Bei timpla setzen wir uns mit Leidenschaft dafür ein, ein Unternehmen zu schaffen, das die Bau- und Immobilienwelt revolutioniert: sympathisch, offen, verantwortungsvoll – und zugleich erfolgshungrig, zielstrebig und unkonventionell.\n Sie leisten einen entscheidenden Beitrag dazu, dass serieller Holzbau die Zukunft unserer Städte prägt. Ihre Arbeit beeinflusst, wie wir in Zukunft wohnen, arbeiten und unsere Klimaziele erreichen können.\n Sind Sie bereit, mit uns den Bausektor zu revolutionieren? Dann kommen Sie in unser Team und unterstützen uns zum nächstmöglichen Zeitpunkt als Projektkaufmann / Projektkauffrau (m/w/d) .\n Die Position ist dem Unternehmensbereich Finanzen zugeordnet (Berichtslinie: CFO). In dieser Funktion arbeiten Sie eng und bereichsübergreifend mit den Projektleitern, Bauleitern sowie den Abteilungen Einkauf, Kalkulation, Controlling und Buchhaltung zusammen und leisten einen wichtigen Beitrag zum wirtschaftlichen Erfolg unserer Projekte.\n Darauf können Sie sich freuen.\n Kommunikation auf Augenhöhe und 100% Unterstützerdichte\n Einen gemeinsamen Kurs - durch Teamarbeit und Selbstverantwortung\n Moderne Arbeitsbedingungen und eine flexible Arbeitszeitgestaltung\n Bis zu 2 Tagen ortsunabhängiges Arbeiten pro Woche (Mobiles Arbeiten)\n Eine professionelle Duz-Kultur vom Praktikanten bis zu CEO ab Vertragsunterzeichnung\n 30 Tage Erholungsurlaub\n Überdurchschnittliche Zuschüsse zur Alters- und Gesundheitsvorsorge\n Zuschuss zu klimafreundlicher Mobilität Ihrer Wahl (bspw. ÖPNV oder E-Leasing-Rad)\n Damit erzielen Sie nachhaltig Wirkung.\n Als Projektkaufmann / Projektkauffrau (m/w/d) übernehmen Sie eine zentrale Rolle für den wirtschaftlichen Erfolg unserer Bauprojekte – von der Budgetplanung über das laufend…",
+    "id": "greenhouse:reddit-8282760",
+    "externalId": "reddit:8282760",
+    "source": "greenhouse",
+    "title": "Analytics Engineer",
+    "company": "Reddit",
+    "location": "Remote - United States",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8282760",
+    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com .\n We are looking for a talented and driven individual to be a key part of our Analytics Engineering team within the Data Science organization. We are looking for someone who can work closely with Data Scientists and Engineers across diverse areas of the organization (Consumer, Ads, and Marketing) to curate, develop, and deploy the right data and analytic tooling to drive Reddit’s product forward and provide a data and tooling foundation that will last decades. Your work will empower thousands of your colleagues to improve the user experience and grow our consumer base.\n Successful candidates have a strong track record of understanding and deeply caring about the purpose of data to support business goals, and can act as an effective conduit between Data Producers and Data Consumers. This role sits at the intersection of Data Science and Data Engineering, and the ideal candidate has skills, experience, and passion in both areas.\n Responsibilities:\n Be a key contributor and collaborator to the success of data quality, performance, reliability, and automation initiatives.\n Manage a portfolio of data products that deliver high-quality, trustworthy data\n Develop and maintain robust data pipelines and workflows for data ingestion, processing, and transformation. Work closely with engineering to ensure the quality and reliability of these data pipelines.\n Develop and implement data quality checks, conduct QA and implement monitoring routines\n Create and manage new data integrations across internal and external systems\n Create t…",
     "tags": [
-      "Finance",
-      "Unbefristeter arbeitsvertrag"
+      "ML & Search"
     ],
-    "jobType": "Unbefristeter arbeitsvertrag",
-    "postedAt": "2026-10-14T18:00:49.000Z",
-    "scrapedAt": "2026-10-14T19:08:55.747Z"
+    "postedAt": "2026-10-14T22:03:16.000Z",
+    "scrapedAt": "2026-10-14T23:37:53.035Z"
   },
   {
-    "id": "arbeitnow:senior-scientific-software-engineer-simulation-and-machine-learning-26793",
-    "externalId": "senior-scientific-software-engineer-simulation-and-machine-learning-26793",
-    "source": "arbeitnow",
-    "title": "Senior Scientific Software Engineer — Simulation and Machine Learning",
-    "company": "Constructor Labs",
-    "location": "Unknown",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/constructor-labs/senior-scientific-software-engineer-simulation-and-machine-learning-26793",
-    "description": "<p><strong>Location: </strong>Remote within Europe, with regular presence in Bremen</p>\n<p><strong>Direct Reports:&nbsp;</strong>None; supervision of students and interns</p>\n<p><strong>Working Model: </strong>Remote / hybrid. Regular time on-site in Bremen.</p>\n<h2>Mission</h2>\n<p>Build the simulation and model-learning engine at the centre of Constructor's quantum software. The work is numerics-heavy: differentiable simulation of physical systems, inference of model parameters from experimental data, and optimisation at scale. The role sits between physics and engineering and requires genuine depth in both.</p>\n<h2>Responsibilities</h2>\n<p><strong>Pillar 1 Simulation Engine</strong></p>\n<ul>\n<li>Build and maintain high-performance simulation code for open and closed quantum systems.</li>\n<li>Own the differentiable simulation and automatic differentiation layer.</li>\n<li>Drive performance. This code runs inside optimisation loops and speed decides what is possible.</li>\n<li>Maintain and extend the Julia core and its Python interface.</li>\n</ul>\n<p><em>Success Metrics and KPIs: simulation accuracy against measurement, runtime performance, API stability.</em></p>\n<p><strong>Pillar 2 Model Learning and Optimisation</strong></p>\n<ul>\n<li>Implement parameter inference and model learning from experimental data.</li>\n<li>Work on neural-network approaches to PDE solving and equation discovery.</li>\n<li>Benchmark against established academic tools and publish the comparison.</li>\n</ul>\n<p><em>Success Metrics and KPIs: benchmark results, methods adopted by the research group, publications.</em></p>\n<p><strong>Pillar 3 Research Collaboration</strong></p>\n<ul>\n<li>Work with Constructor University faculty on joint research and grant applications.</li>\n<li>Supervise graduate students and interns working on the engine.</li>\n<li>Contribute to course material on numerical simulation and machine learning for physics.</li>\n</ul>\n<p><em>Accountability: research collaborations initiat…",
+    "id": "greenhouse:instacart-8282591",
+    "externalId": "instacart:8282591",
+    "source": "greenhouse",
+    "title": "Senior Financial Insights Analyst",
+    "company": "Instacart",
+    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+    "remote": true,
+    "url": "https://instacart.careers/job/?gh_jid=8282591",
+    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Why this role is on the menu\n The Senior Financial Insights Analyst sits at the center of Instacart's Finance organization, with a mandate to identify and close areas of P&L leakage through rigorous financial and transactional data analysis and compelling narratives that drive action.\n The team works through invoice challenges with retailers and serves as experts in the broader Instacart financial ecosystem. Invoicing retailers correctly is a key operational responsibility that impacts financial success and builds trust with retailer partners.\n This is a highly visible, high-impact role for someone who is relentlessly optimistic, eager to learn, and excited about combining deep financial expertise with AI and automation tools. We are looking for a great team member who helps carry the culture and gets things done in a no-ego way.\n What you'll cook up in your…",
     "tags": [
-      "Research"
+      "Accounting & Finance"
     ],
-    "postedAt": "2026-10-14T17:55:53.000Z",
-    "scrapedAt": "2026-10-14T19:08:55.747Z"
+    "postedAt": "2026-10-14T21:53:46.000Z",
+    "scrapedAt": "2026-10-14T23:37:53.035Z"
   },
   {
-    "id": "arbeitnow:senior-frontend-engineer-scientific-applications-453180",
-    "externalId": "senior-frontend-engineer-scientific-applications-453180",
-    "source": "arbeitnow",
-    "title": "Senior Frontend Engineer — Scientific Applications",
-    "company": "Constructor Labs",
-    "location": "Unknown",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/constructor-labs/senior-frontend-engineer-scientific-applications-453180",
-    "description": "<p><strong>Location:&nbsp;</strong>Remote within Europe, with regular presence in Bremen</p>\n<p><strong>Direct Reports:&nbsp;</strong>None</p>\n<p><strong>Working Model: </strong>Remote / hybrid. Regular time on-site in Bremen.</p>\n<h2>Mission</h2>\n<p>Own the interface layer for a scientific platform used by research teams to run complex physical experiments. The work is heavier than typical product frontend — live experiment monitoring, workflow graphs, large result sets, and users who are physicists rather than consumers. The Senior Frontend Engineer owns that layer end to end and sets the standard for it.</p>\n<h2>Responsibilities</h2>\n<p><strong>Pillar 1 Frontend Ownership</strong></p>\n<ul>\n<li>Own the architecture, code and standards for the platform frontend.</li>\n<li>Build and maintain complex interactive visualisation: directed workflow graphs, live monitoring, large-scale result inspection.</li>\n<li>Handle long-running asynchronous work properly — progress, failure states, partial results.</li>\n<li>Lead the migration to the Constructor React component library.</li>\n</ul>\n<p><em>Success Metrics and KPIs: interface stability, adoption by the research team, migration delivered.</em></p>\n<p><strong>Pillar 2 Quality and Practice</strong></p>\n<ul>\n<li>Bring test coverage and review discipline to a codebase built at research pace.</li>\n<li>Establish component standards and a shared design language with the wider Constructor frontend group.</li>\n<li>Reach into the backend when that is what unblocks the work.</li>\n</ul>\n<p><em>Success Metrics and KPIs: test coverage, defects reaching users, review turnaround.</em></p>\n<p><strong>Pillar 3 Working with Scientists</strong></p>\n<ul>\n<li>Work directly with the physicists who use the interface. Understand the experiment, not just the ticket.</li>\n<li>Turn vague scientific requirements into concrete interface decisions.</li>\n</ul>\n<p><em>Accountability: researchers able to run and monitor experiments without asking for help…",
+    "id": "greenhouse:instacart-8282526",
+    "externalId": "instacart:8282526",
+    "source": "greenhouse",
+    "title": "Senior Financial Insights Analyst",
+    "company": "Instacart",
+    "location": "United States - Remote",
+    "remote": true,
+    "url": "https://instacart.careers/job/?gh_jid=8282526",
+    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Why this role is on the menu\n The Senior Financial Insights Analyst sits at the center of Instacart's Finance organization, with a mandate to identify and close areas of P&L leakage through rigorous financial and transactional data analysis and compelling narratives that drive action.\n The team works through invoice challenges with retailers and serves as experts in the broader Instacart financial ecosystem. Invoicing retailers correctly is a key operational responsibility that impacts financial success and builds trust with retailer partners.\n This is a highly visible, high-impact role for someone who is relentlessly optimistic, eager to learn, and excited about combining deep financial expertise with AI and automation tools. We are looking for a great team member who helps carry the culture and gets things done in a no-ego way.\n What you'll cook up in your…",
     "tags": [
-      "Research"
+      "Accounting & Finance"
     ],
-    "postedAt": "2026-10-14T17:55:53.000Z",
-    "scrapedAt": "2026-10-14T19:08:55.747Z"
+    "postedAt": "2026-10-14T21:53:44.000Z",
+    "scrapedAt": "2026-10-14T23:37:53.035Z"
   }
 ]
