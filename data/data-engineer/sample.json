@@ -1,5 +1,42 @@
 [
   {
+    "id": "jobicy:153263",
+    "externalId": "153263",
+    "source": "jobicy",
+    "title": "Analytics Engineer II",
+    "company": "Affirm",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/fac7714c-221-1.jpg",
+    "location": "Poland",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/153263-analytics-engineer-ii",
+    "description": "At Affirm , we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.\n Financial Systems owns the data and reporting foundation for Accounting, and the operational reliability of the pipelines that power reporting, reconciliations, and automation. We are building a single source of truth for financial information using dbt and Snowflake to enable scalable BI and process automation across the org.\n We are hiring an Analytics Engineer focused on maintaining and optimizing our finance data platform , improving reliability, efficiency, and performance of our pipelines and core datasets. This role is ideal for someone who enjoys operational ownership, building strong foundations, and making data systems easier and safer to run at scale.\n What You’ll Do\n Build and maintain dbt models and core datasets that support Accounting reporting and downstream automation use cases.\n Improve platform reliability through strong testing patterns, alerting, and runbooks.\n Own and document data pipelines and lineage, ensuring changes are understandable and auditable.\n Identify, troubleshoot, and resolve production data issues, and drive root-cause fixes.\n Optimize performance and cost in Snowflake and dbt to support scaling needs.\n Partner with engineering and business stakeholders to translate requirements into durable, well-tested data assets.\n Contribute to the team’s best practices in version control, code review, documentation, and release hygiene (GitHub-based workflows).\n What We Look For\n 3+ years of experience in analytics engineering, data engineering, or similar roles working with production data systems.\n Strong SQL skills and hands-on experience building in dbt (modeling, testing, documentation).\n Experience operating in a modern development workflow:\n Git and pull-request based collaboration (GitHub preferred).\n Familiarity with standard IDEs and collaborative debu…",
+    "tags": [
+      "Data Science & Analytics",
+      "Any"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-10-15T03:45:16.000Z",
+    "scrapedAt": "2026-10-15T08:10:49.640Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-analytics-engineer-berlin-396860",
+    "externalId": "senior-data-analytics-engineer-berlin-396860",
+    "source": "arbeitnow",
+    "title": "Senior Data Analytics Engineer (f/m/d)",
+    "company": "Voize",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/voize/senior-data-analytics-engineer-berlin-396860",
+    "description": "🎤 Why voize? Because we’re more than just a job! At voize, we believe the greatest gift to frontline workers is time - time to care, connect, and be present. Today, that time is lost to busywork and complex systems that pull them away from what matters most: people .\n Our vision is to change that by building AI companions that seamlessly take over digital workflows. We don’t replace humans with technology - we amplify their impact.\n Our mission is backed with a $50M Series A funding led by Balderton Capital, with support from HV Capital, Y Combinator and other leading VCs. Today, 2,000+ facilities trust voize, and over 200,000 users rely on our AI companion to ease their daily workload.\n As a dynamic team, we combine first-in-class technology with meaningful social impact. And now, we’re looking for you to join us on this mission!\n 💡 Your Mission: One source of truth for a company that runs on data As Senior Analytics Engineer , you own voize's company data from the warehouse to the dashboards. You'll be part of our Data & AI function - ensuring the data voize and our AI layer runs on are reliable, safe & scalable. The modern stack (Redshift, dbt, Fivetran, Lightdash) is already live: you make it rock-solid and turn it into the single source of truth the whole company runs on, from ARR to product adoption. As our first dedicated analytics hire, you partner directly with Finance, RevOps, Product, and Customer Success, turning their questions into numbers everyone trusts.\n 🚀 Your Daily Business - No two days are alike Model company data in dbt on Redshift: layered, tested, documented models built to outlive you\n Ship and run the company KPI dashboard in Lightdash, plus self-serve analytics for every team\n Own metric modeling and propose the definitions the whole company runs on. Sign-off sits with data leadership, and you make every number defensible\n Keep the ingestion layer running day to day (Fivetran connectors, existing ETL jobs), in close coordination with e…",
+    "tags": [
+      "Operations",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-10-15T02:40:18.000Z",
+    "scrapedAt": "2026-10-15T08:10:49.499Z"
+  },
+  {
     "id": "greenhouse:reddit-8282760",
     "externalId": "reddit:8282760",
     "source": "greenhouse",
@@ -13,7 +50,7 @@
       "ML & Search"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-15T03:00:22.215Z"
+    "scrapedAt": "2026-10-15T08:10:50.092Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-utrecht-24250",
@@ -32,7 +69,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-10-14T20:32:33.000Z",
-    "scrapedAt": "2026-10-15T03:00:21.655Z"
+    "scrapedAt": "2026-10-15T08:10:49.499Z"
   },
   {
     "id": "arbeitnow:data-engineer-utrecht-175174",
@@ -51,23 +88,7 @@
     ],
     "jobType": "Mid",
     "postedAt": "2026-10-14T20:32:33.000Z",
-    "scrapedAt": "2026-10-15T03:00:21.655Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-platform-engineer-berlin-berlin-307553",
-    "externalId": "senior-data-platform-engineer-berlin-berlin-307553",
-    "source": "arbeitnow",
-    "title": "Senior Data Platform Engineer",
-    "company": "smartlyio",
-    "location": "Berlin, Berlin",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/smartlyio/senior-data-platform-engineer-berlin-berlin-307553",
-    "description": "<p>We are looking for a&nbsp;<strong>Senior Data Platform Engineer</strong> to join the <strong>Data Platform</strong> at Smartly!</p>\n<p>Smartly is building the standard path for governed data sharing across product services, analytics, and AI/ML. The Data Platform team owns the contracts, control mechanisms, publication paths, catalog metadata, lifecycle rules, lineage, permissions, and runtime building blocks that make reusable data safe and practical at scale.</p>\n<p>This is a role for someone who wants to shape a platform early, while working on concrete production problems from the start. Smartly already has the production systems, Kafka backbone, PostgreSQL databases, analytical consumers, and AI/ML use cases that need a better data foundation. The challenge is to turn that reality into a standard path that engineers actually want to use.</p>\n<p>Our first milestone is focused: centrally managed publishing tables in service-owned PostgreSQL databases, captured through Debezium CDC into Kafka, and registered in DataHub with ownership, lifecycle, lineage, and impact-analysis metadata. Longer-term, the platform expands toward self-service data products, governed materialisations, durable shared state, and reusable data across Smartly’s operational and analytical systems.</p>\n<p>This is not a role where you only maintain an existing reporting pipeline. You will help design and build the platform path that other engineering teams use when they publish and consume shared data.</p>\n<h2>What you will do</h2>\n<ul>\n<li>Design and build platform services, tools, and workflows for contract-driven data publishing and consumption.</li>\n<li>Build the first production path for platform-managed PostgreSQL publishing tables, Debezium CDC, Kafka topics, and catalog registration.</li>\n<li>Create GitOps-style workflows where contracts, schemas, ownership, lifecycle, compatibility, policy metadata, and runtime desired state are reviewed, validated, and reconciled as code.</li>\n<li…",
-    "tags": [
-      "Research & Development"
-    ],
-    "postedAt": "2026-10-14T17:55:33.000Z",
-    "scrapedAt": "2026-10-15T03:00:21.655Z"
+    "scrapedAt": "2026-10-15T08:10:49.499Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -83,7 +104,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-10-15T03:00:22.215Z"
+    "scrapedAt": "2026-10-15T08:10:50.092Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -99,7 +120,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-10-15T03:00:22.215Z"
+    "scrapedAt": "2026-10-15T08:10:50.092Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -115,7 +136,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-15T03:00:22.215Z"
+    "scrapedAt": "2026-10-15T08:10:50.092Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -131,7 +152,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-10-15T03:00:22.215Z"
+    "scrapedAt": "2026-10-15T08:10:50.092Z"
   },
   {
     "id": "greenhouse:airbnb-8249633",
@@ -147,22 +168,6 @@
       "Data Science"
     ],
     "postedAt": "2026-10-05T16:34:11.000Z",
-    "scrapedAt": "2026-10-15T03:00:22.215Z"
-  },
-  {
-    "id": "greenhouse:affirm-8010489003",
-    "externalId": "affirm:8010489003",
-    "source": "greenhouse",
-    "title": "Analytics Engineer II",
-    "company": "Affirm",
-    "location": "Remote Spain",
-    "remote": true,
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010489003",
-    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.\n Financial Systems owns the data and reporting foundation for Accounting, and the operational reliability of the pipelines that power reporting, reconciliations, and automation. We are building a single source of truth for financial information using dbt and Snowflake to enable scalable BI and process automation across the org.\n We are hiring an Analytics Engineer focused on maintaining and optimizing our finance data platform , improving reliability, efficiency, and performance of our pipelines and core datasets. This role is ideal for someone who enjoys operational ownership, building strong foundations, and making data systems easier and safer to run at scale.\n What You’ll Do\n Build and maintain dbt models and core datasets that support Accounting reporting and downstream automation use cases.\n Improve platform reliability through strong testing patterns, alerting, and runbooks.\n Own and document data pipelines and lineage, ensuring changes are understandable and auditable.\n Identify, troubleshoot, and resolve production data issues, and drive root-cause fixes.\n Optimize performance and cost in Snowflake and dbt to support scaling needs.\n Partner with engineering and business stakeholders to translate requirements into durable, well-tested data assets.\n Contribute to the team’s best practices in version control, code review, documentation, and release hygiene (GitHub-based workflows).\n What We Look For\n 3+ years of experience in analytics engineering, data engineering, or similar roles working with production data systems.\n Strong SQL skills and hands-on experience building in dbt (modeling, testing, documentation).\n Experience operating in a modern development workflow:\n Git and pull-request based collaboration (GitHub preferred).\n Familiarity with standard IDEs and collaborative debug…",
-    "tags": [
-      "Accounting"
-    ],
-    "postedAt": "2026-10-01T14:33:52.000Z",
-    "scrapedAt": "2026-10-15T03:00:22.215Z"
+    "scrapedAt": "2026-10-15T08:10:50.092Z"
   }
 ]
