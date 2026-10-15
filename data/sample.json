@@ -1,82 +1,78 @@
 [
   {
-    "id": "greenhouse:gitlab-8889193002",
-    "externalId": "gitlab:8889193002",
+    "id": "greenhouse:reddit-8283770",
+    "externalId": "reddit:8283770",
     "source": "greenhouse",
-    "title": "Cloud Platform Engineer",
-    "company": "GitLab",
-    "location": "Remote, Canada; Remote, United States",
-    "remote": true,
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8889193002",
-    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.\n The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software.\n * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.\n About the Role\n We are looking for a skilled Cloud Platform Engineer to join our Runway team. In this role, you will help design, build, and maintain the infrastructure and developer tooling that powers our engineering organization. You will play a key role in advancing our Kubernetes-based platform, maturing our GitOps practices, and driving infrastructure-as-code adoption across the business.\n This is a hands-on technical role suited to someone who thrives at the intersection of infrastructure, automation, and developer experience.\n Key Responsibilities\n Kubernetes Platform Management — Operate, maintain, and improve production-…",
-    "tags": [
-      "Platforms Engineering"
-    ],
-    "postedAt": "2026-10-14T22:58:44.000Z",
-    "scrapedAt": "2026-10-14T23:37:53.035Z"
-  },
-  {
-    "id": "greenhouse:lyft-8888403002",
-    "externalId": "lyft:8888403002",
-    "source": "greenhouse",
-    "title": "ML Software Engineer, Routing",
-    "company": "Lyft",
-    "location": "Toronto, Canada",
-    "remote": false,
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8888403002?gh_jid=8888403002",
-    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n Our transport network serves the needs of millions of people every day who want to get from one place to another using Lyft cars, bikes and scooters, or on foot in the most efficient way. To serve these needs, we need to suggest the fastest, most affordable and safest routes.\n We are hiring a Machine Learning Engineer to join our Routing team. Our team builds and maintains Lyft's system responsible for providing routes for every ride request on our platform. We process millions of route requests per day and low latency, high reliability and high accuracy are paramount for our success.\n If you are a critical thinker with experience in machine learning workflows and writing reliable code, passionate about solving business problems using data and working in a dynamic, creative, and collaborative environment, we are searching for you.\n Our technology stack runs on AWS, Kubernetes, Go, Python/C++, Apache Airflow, Flink, and Kafka. We use AI to improve development productivity, optimize customer support workflows, and enhance operational efficiency — all without compromising code quality or security. In this role, you will work with incredibly passionate and talented colleagues from software engineering, machine learning and data science on building rideshare experiences that delight millions of riders and drivers.\n Responsibilities:\n Perform data analysis and build proof-of-concept to explore and compare ML and non-ML solutions\n Be able to make effective tradeoffs between model accuracy, its productization complexity and runtime performance\n Develop statistical, machine learning, or optimization models\n Write production quality code that can scale well to serve millions of requests per day\n Participate in code reviews, design reviews, production on-call support and incident triaging process.\n Write well…",
-    "tags": [
-      "Mapping"
-    ],
-    "postedAt": "2026-10-14T22:13:31.000Z",
-    "scrapedAt": "2026-10-14T23:37:53.035Z"
-  },
-  {
-    "id": "greenhouse:reddit-8282760",
-    "externalId": "reddit:8282760",
-    "source": "greenhouse",
-    "title": "Analytics Engineer",
+    "title": "Senior Software Engineer, ML Platform",
     "company": "Reddit",
     "location": "Remote - United States",
     "remote": true,
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8282760",
-    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com .\n We are looking for a talented and driven individual to be a key part of our Analytics Engineering team within the Data Science organization. We are looking for someone who can work closely with Data Scientists and Engineers across diverse areas of the organization (Consumer, Ads, and Marketing) to curate, develop, and deploy the right data and analytic tooling to drive Reddit’s product forward and provide a data and tooling foundation that will last decades. Your work will empower thousands of your colleagues to improve the user experience and grow our consumer base.\n Successful candidates have a strong track record of understanding and deeply caring about the purpose of data to support business goals, and can act as an effective conduit between Data Producers and Data Consumers. This role sits at the intersection of Data Science and Data Engineering, and the ideal candidate has skills, experience, and passion in both areas.\n Responsibilities:\n Be a key contributor and collaborator to the success of data quality, performance, reliability, and automation initiatives.\n Manage a portfolio of data products that deliver high-quality, trustworthy data\n Develop and maintain robust data pipelines and workflows for data ingestion, processing, and transformation. Work closely with engineering to ensure the quality and reliability of these data pipelines.\n Develop and implement data quality checks, conduct QA and implement monitoring routines\n Create and manage new data integrations across internal and external systems\n Create t…",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8283770",
+    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com .\n Reddit is a community of communities where people can dive into anything through experiences built around their interests, hobbies, and passions. Our mission is to bring community, belonging, and empowerment to everyone in the world. Reddit users submit, vote, and comment on content, stories, and discussions about the topics they care about the most. From pets to parenting, with over 100,000 active communities and over 70 million daily active users, it is home to the most open and authentic conversations on the internet. For more information, visit redditinc.com .\n Who We Are:\n The Machine Learning Platform team at Reddit is a high-impact team that owns the infrastructure that powers recommendations, content discovery, user and content quantification, while directly impacting other teams such as Growth, Ads, Feeds, and Core Machine Learning teams.\n What You’ll Do:\n As a Senior Software Engineer, ML Platform, you will work on our ML Data Team and be instrumental in architecting, implementing, and maintaining foundational ML infrastructure powering Feeds Ranking, Content Understanding, Recommendations, Ads, and much more to fulfill Reddit’s mission of bringing community and belonging to everyone in the world. You will create ML data-governance tools that help MLEs discover and reason about signals, while contributing across the broader ML data platform—including prediction logging and training data systems.\n Lead the design, development, testing, and operation of ML signal-governance capabilities that help MLEs discover…",
     "tags": [
       "ML & Search"
     ],
-    "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-14T23:37:53.035Z"
+    "postedAt": "2026-10-15T01:09:56.000Z",
+    "scrapedAt": "2026-10-15T02:59:30.914Z"
   },
   {
-    "id": "greenhouse:instacart-8282591",
-    "externalId": "instacart:8282591",
-    "source": "greenhouse",
-    "title": "Senior Financial Insights Analyst",
-    "company": "Instacart",
-    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-    "remote": true,
-    "url": "https://instacart.careers/job/?gh_jid=8282591",
-    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Why this role is on the menu\n The Senior Financial Insights Analyst sits at the center of Instacart's Finance organization, with a mandate to identify and close areas of P&L leakage through rigorous financial and transactional data analysis and compelling narratives that drive action.\n The team works through invoice challenges with retailers and serves as experts in the broader Instacart financial ecosystem. Invoicing retailers correctly is a key operational responsibility that impacts financial success and builds trust with retailer partners.\n This is a highly visible, high-impact role for someone who is relentlessly optimistic, eager to learn, and excited about combining deep financial expertise with AI and automation tools. We are looking for a great team member who helps carry the culture and gets things done in a no-ego way.\n What you'll cook up in your…",
-    "tags": [
-      "Accounting & Finance"
-    ],
-    "postedAt": "2026-10-14T21:53:46.000Z",
-    "scrapedAt": "2026-10-14T23:37:53.035Z"
+    "id": "arbeitnow:senior-security-operations-engineer-netherlands-276669",
+    "externalId": "senior-security-operations-engineer-netherlands-276669",
+    "source": "arbeitnow",
+    "title": "Senior Security Operations Engineer",
+    "company": "Samsara",
+    "location": "Netherlands",
+    "remote": false,
+    "url": "https://www.arbeitnow.nl/jobs/companies/samsara/senior-security-operations-engineer-netherlands-276669",
+    "description": "Who we are\n Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale.\n Working at Samsara means you'll help define the future of physical operations and be on a team that's shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you'll have the autonomy and support to make an impact as we build for the long term.\n About the role:\n As a member of our Security Operations Team, you will collaborate with a global team of engineers to monitor and respond to security events, lead security incidents as Incident Commander, and lead digital forensic investigations in support of Employee Relations, Legal, Compliance, or Information Security cases.\n Although you will be focused on security incident response, you will also have the opportunity to create and maintain runbooks, and automated workflows, and assist in process refinement and implementation. You will collaborate with a diverse team of engineers, and key stakeholders on security initiatives across the company. Above all, your focus is bringing Security expertise to the table in a collaborative, humble, and practical manner.\n Location: This role is open to candidates residing in Netherlands\n You should apply if:\n You want to impact the industries that run our world: Every phone call you answer and every ema…",
+    "tags": [],
+    "postedAt": "2026-10-15T00:45:32.000Z",
+    "scrapedAt": "2026-10-15T02:59:29.932Z"
   },
   {
-    "id": "greenhouse:instacart-8282526",
-    "externalId": "instacart:8282526",
-    "source": "greenhouse",
-    "title": "Senior Financial Insights Analyst",
-    "company": "Instacart",
-    "location": "United States - Remote",
-    "remote": true,
-    "url": "https://instacart.careers/job/?gh_jid=8282526",
-    "description": "We're transforming the grocery industry\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n Instacart is a Flex First team\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.\n Why this role is on the menu\n The Senior Financial Insights Analyst sits at the center of Instacart's Finance organization, with a mandate to identify and close areas of P&L leakage through rigorous financial and transactional data analysis and compelling narratives that drive action.\n The team works through invoice challenges with retailers and serves as experts in the broader Instacart financial ecosystem. Invoicing retailers correctly is a key operational responsibility that impacts financial success and builds trust with retailer partners.\n This is a highly visible, high-impact role for someone who is relentlessly optimistic, eager to learn, and excited about combining deep financial expertise with AI and automation tools. We are looking for a great team member who helps carry the culture and gets things done in a no-ego way.\n What you'll cook up in your…",
+    "id": "arbeitnow:senior-backend-engineer-case-management-london-485389",
+    "externalId": "senior-backend-engineer-case-management-london-485389",
+    "source": "arbeitnow",
+    "title": "Senior Backend Engineer - Case Management",
+    "company": "Deliveroo",
+    "location": "London, England, United Kingdom",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-backend-engineer-case-management-london-485389",
+    "description": "Our Global Structure\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.\n Role overview\n We are looking for a Senior Backend Engineer to help build and evolve our new Common case-management system, which powers support-case handling across DoorDash, Wolt, and Deliveroo.\n You will own significant end-to-end initiatives across our backend services: case lifecycle, routing and assignment, queue management, case evidence and history, and migration from legacy systems. This is a hands-on role for someone who can turn ambiguous customer and operational problems into durable technical solutions, coordinate other engineers, and set the standard for reliability and craftsmanship on the team.\n What you'll do\n Lead one or more project-level Case Management initiatives, on your own or by guiding a group of engineers, from discovery and design through rollout, measurement, and operational ownership.\n Design and build scalable backend services and APIs for case creation, routing, assignment, transfers, audit history, notes, attachments, and queue-management workflows.\n Help deliver feature parity with legacy platforms while safely migrating traffic across DoorDash, Wolt, and Deliveroo.\n Make and own most technical decisions within your scope. Write project-level design documents covering how sub-features interact, identify dependencies and risks, and break work into parallelizable delivery plans.\n Scope ambiguous customer and operational problems, weigh long-term against short-term trade-offs, and design durable solutions.\n Partner with Product, Operations, Support, Data, and other engineering teams to define the right problems. Shape the team roadmap through prototypes, data analysis, project proposals, and backlog prioritization.\n Run the coordination a pro…",
+    "tags": [],
+    "postedAt": "2026-10-15T00:45:23.000Z",
+    "scrapedAt": "2026-10-15T02:59:29.932Z"
+  },
+  {
+    "id": "arbeitnow:produktmanager-managed-services-cloud-infrastructure-remote-356812",
+    "externalId": "produktmanager-managed-services-cloud-infrastructure-remote-356812",
+    "source": "arbeitnow",
+    "title": "Produktmanager Managed Services - Cloud & Infrastructure (m/w/d) - Remote",
+    "company": "Swissitsecuritygroup",
+    "location": "Unknown",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/swissitsecuritygroup/produktmanager-managed-services-cloud-infrastructure-remote-356812",
+    "description": "<p>Du willst die Zukunft moderner Cloud- und Infrastruktur-Services aktiv mitgestalten? Begeistert es Dich, technische Innovationen in marktfähige Services zu übersetzen und dabei die Schnittstelle zwischen Kunden, Vertrieb und Delivery zu bilden? Dann werde Teil unseres Teams als&nbsp;<strong>Produktmanager (m/w/d) Managed</strong> <strong>Services mit Schwerpunkt</strong>&nbsp;<strong>Cloud &amp; Infrastructure</strong>. In dieser Rolle verantwortest Du die Weiterentwicklung unseres Serviceportfolios und sorgst dafür, dass unsere Managed Services kundenorientiert, wirtschaftlich, vertrieblich nutzbar und operativ erfolgreich bereitstellbar sind. Gemeinsam gestalten wir innovative Serviceangebote für die Herausforderungen von morgen.</p>\n<p><span style=\"color: rgb(222, 220, 0);\"><em>„Wir suchen keine klassischen Produktverkäufer. Wir suchen Menschen, die Kunden strategisch begleiten, komplexe Herausforderungen verstehen und daraus langfristige Services entwickeln. Wer Managed Services erfolgreich verkaufen will, muss Technologie, Betrieb und Business gleichermaßen verstehen.“&nbsp;Christoph Wolf, Managing Director Secure IT Services</em></span></p>\n<p>Du fühlst Dich angesprochen? Unser Team wächst stetig und wir suchen Dich als <strong>Produktmanager (m/w/d) Managed</strong> <strong>Services </strong>an einem unserer Standorte oder&nbsp;<strong>Remote</strong>.</p>\n<h3><span style=\"color: rgb(222, 220, 0);\"><strong>WAS DU BEI UNS MACHST</strong></span></h3>\n<ul>\n<li><span data-teams=\"true\">Weiterentwicklung und Lifecycle-Steuerung unseres Serviceportfolios im Bereich Cloud &amp; Infrastructure sowie Bewertung neuer Serviceideen hinsichtlich Kundennutzen, Marktpotenzial, Lieferfähigkeit und Wirtschaftlichkeit</span></li>\n<li>Entwicklung, Kalkulation und Optimierung marktfähiger Managed Services&nbsp;einschließlich Leistungsbeschreibungen und vertriebsrelevanter Unterlagen</li>\n<li><span data-teams=\"true\">Unterstützung von Vertrieb und Marketing bei der Positionieru…",
     "tags": [
-      "Accounting & Finance"
+      "Product Management"
     ],
-    "postedAt": "2026-10-14T21:53:44.000Z",
-    "scrapedAt": "2026-10-14T23:37:53.035Z"
+    "postedAt": "2026-10-14T23:55:44.000Z",
+    "scrapedAt": "2026-10-15T02:59:29.932Z"
+  },
+  {
+    "id": "arbeitnow:senior-project-planner-finsterwalde-221006",
+    "externalId": "senior-project-planner-finsterwalde-221006",
+    "source": "arbeitnow",
+    "title": "Senior Project Planner | Finsterwalde",
+    "company": "Kirbygroupengineering",
+    "location": "Unknown",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/kirbygroupengineering/senior-project-planner-finsterwalde-221006",
+    "description": "<div class=\"content-intro\"><p></p>\n<ul>\n<li><strong>Permanent position available with a considerable portfolio of works for the next 5+ years</strong></li>\n<li><strong>To build your career by assisting in the delivery of ‘leading edge’ engineering projects.</strong></li>\n<li><strong>To work with a vibrant, agile and multi-functional team in delivering projects on time, safely, to budget and to the required quality standards.</strong></li>\n<li><strong>To benefit from Kirby’s Career Development Programmes that will enhance your leadership capability.</strong></li>\n<li><strong>To work with the best.</strong></li>\n<li><strong>Excellent package on offer with room for negotiations</strong></li>\n</ul>\n<p>&nbsp;&nbsp;<br><strong>About Kirby Group Engineering</strong><br>Kirby Group Engineering is an international multi-disciplinary engineering services contractor and leading provider of high-value engineering services to a number of ‘blue chip’ companies. Operating across Ireland, the UK, Europe and South Africa, Kirby has become the engineering service provider of choice in growth segments such as pharmaceuticals, data centres and power transmission and distribution. Our culture is innovative, collaborative and performance focused. The successful candidate will have the opportunity to grow and develop in a company committed to developing talent and rewarding performance.</p>\n<p></p></div><p><strong>Role Purpose</strong><br>Kirby Group Engineering is expanding their planning team to support the delivery of a Data Centre Project in Germany. You'll work closely with Project Managers, Engineers, and Commercial teams to ensure projects are delivered on time, within scope, and risk-aware. If you're detail-oriented, technically minded, and thrive in fast-paced grid environments, we want to hear from you.<br>&nbsp;<br><strong>Key Functions of the Project Planner</strong></p>\n<ul>\n<li>Review Contract documentation and highlight key schedule and tracking requirements</li>\n<li>Devel…",
+    "tags": [
+      "Planning K212"
+    ],
+    "postedAt": "2026-10-14T23:55:42.000Z",
+    "scrapedAt": "2026-10-15T02:59:29.932Z"
   }
 ]
