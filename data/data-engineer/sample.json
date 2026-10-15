@@ -1,5 +1,44 @@
 [
   {
+    "id": "arbeitnow:remote-senior-scientific-data-engineer-germany-163831",
+    "externalId": "remote-senior-scientific-data-engineer-germany-163831",
+    "source": "arbeitnow",
+    "title": "Senior Scientific Data Engineer",
+    "company": "Tetrascience",
+    "location": "Germany",
+    "remote": true,
+    "url": "https://www.arbeitnow.com/jobs/companies/tetrascience/remote-senior-scientific-data-engineer-germany-163831",
+    "description": "About TetraScience TetraScience is the Scientific Data and AI Company building Tetra OS, the operating system for scientific intelligence. We help the world’s leading life sciences firms turn fragmented scientific data into AI-native assets and scientific workflows that accelerate discovery, development, and manufacturing. TetraScience’s growing ecosystem of strategic partners includes NVIDIA, Databricks, Thermo Fisher Scientific, Snowflake, Google, and Microsoft.\n In connection with your candidacy, you will be asked to carefully review “The Tetra Way,” authored by our CEO, Patrick Grady; it is impossible to overstate the importance of this document, and you should take it literally as you decide whether our mission, culture, and expectations are right for you.\n What You Will Do You will join TetraScience's forward deployed teams as a senior, hands-on engineer. In this role, you will work directly with biotech, pharmaceutical, and scientific companies, bringing advanced data and AI technologies into the labs that research, develop, and manufacture medicines. You will work alongside customer scientific, engineering, and IT teams to design, build, and ship integrations and data products on Tetra OS that serve scientific teams across the globe. You will also mentor other scientific data engineers, lead internal design sessions, and partner with Product Managers and Solution Architects to turn customer, product, and engineering objectives into commercialized solutions.\n Act as a forward deployed engineer for a portfolio of biotech, pharmaceutical, and scientific customers. Own the technical relationship, understand their scientific workflows, and deliver solutions that move their programs forward. Drive AI agents to design and build bidirectional integrations between Tetra OS and customer systems such as ELN, LIMS, MES, and process historians, including serverless push and pull pipelines, stateful connectors, and full stack data applications in Python and TypeScript. D…",
+    "tags": [
+      "Computer Software",
+      "Remote",
+      "Full time",
+      "mid-senior"
+    ],
+    "jobType": "Full time",
+    "postedAt": "2026-10-15T14:20:08.000Z",
+    "scrapedAt": "2026-10-15T18:52:26.053Z"
+  },
+  {
+    "id": "arbeitnow:ai-data-engineer-cologne-293676",
+    "externalId": "ai-data-engineer-cologne-293676",
+    "source": "arbeitnow",
+    "title": "AI & Data Engineer (m/w/d)",
+    "company": "neonto",
+    "location": "Cologne",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/neonto/ai-data-engineer-cologne-293676",
+    "description": "Bei uns lernst du modernste Technologien rund um Daten und KI kennen , gestaltest von Anfang an mit und wirst Teil eines jungen, dynamischen Teams .\n Über uns Wir sind neonto , ein junges Startup , das Beratung und Softwareentwicklung im Bereich Daten & KI vereint. Unser Ziel: Unternehmen strategisch und praktisch dabei zu unterstützen, Nutzen aus ihren Daten zu ziehen. Wir geben Daten eine Struktur, um sie nachhaltig für KI-Anwendungen und Analytics nutzbar zu machen.\n Unser zentrales Werkzeug dabei sind Knowledge Graphs - eine Schlüsseltechnologie für KI-Enablement, die das Ziel hat, als Single Source of Truth für alle relevanten Daten im Unternehmen zu dienen. Wir arbeiten dabei intensiv mit LLMs.\nUnsere Kunden kommen aus Energiewirtschaft, Chemie, Pharma oder Prozessberatung - vom Stadtwerk, das seine Netz- und Betriebsdaten zusammenführen will, bis zum Großkonzern, der Datenprodukte baut.\n Wir sind aktuell zwei Gründer und ein Mitarbeiter und suchen dich als nächste Verstärkung. Bei uns arbeitest du nicht nur an hochaktuellen Technologien, sondern gestaltest auch unsere Kultur, unsere Prozesse und unser Produkt von Anfang an mit.\n Aufgaben Hands-on Entwicklung in nationalen und internationalen Daten- & KI-Kundenprojekten mit klarem Umsetzungsfokus\n Aufbau und Planung von Daten- & Technologiestrategien für unsere Kunden\n Entwicklung von Knowledge Graphs auf Basis offener Standards (RDF, SPARQL, SHACL, OWL)\n Integration von Daten aus bestehenden Systemen (z. B. Datenbanken, GIS, ERP, Dokumente) in eine zentrale Datenbasis\n Entwicklung von maschinenlesbaren Datenmodellen (Ontologien, Taxonomien)\n Umsetzung von Proof of Concepts (PoCs) und Pilotprojekten - vom ersten Workshop bis zur lauffähigen Lösung\n Entwicklung von Ansätzen für neurosymbolische KI (LLMs + Graph Reasoning)\n Mitgestaltung unseres neonto-Toolstacks und der Knowledge-Graph-Applikationslandschaft\n Qualifikation Fließende Deutsch- und Englischkenntnisse\n Ein (bald) abgeschlossenes MINT-Masterstudium…",
+    "tags": [
+      "Consulting",
+      "Engineering",
+      "Unbefristeter arbeitsvertrag"
+    ],
+    "jobType": "Unbefristeter arbeitsvertrag",
+    "postedAt": "2026-10-15T14:01:13.000Z",
+    "scrapedAt": "2026-10-15T18:52:26.053Z"
+  },
+  {
     "id": "arbeitnow:team-lead-data-engineering-amsterdam-286359",
     "externalId": "team-lead-data-engineering-amsterdam-286359",
     "source": "arbeitnow",
@@ -15,26 +54,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-10-15T11:40:41.000Z",
-    "scrapedAt": "2026-10-15T13:54:30.308Z"
-  },
-  {
-    "id": "jobicy:153263",
-    "externalId": "153263",
-    "source": "jobicy",
-    "title": "Analytics Engineer II",
-    "company": "Affirm",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/fac7714c-221-1.jpg",
-    "location": "Poland",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/153263-analytics-engineer-ii",
-    "description": "At Affirm , we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.\n Financial Systems owns the data and reporting foundation for Accounting, and the operational reliability of the pipelines that power reporting, reconciliations, and automation. We are building a single source of truth for financial information using dbt and Snowflake to enable scalable BI and process automation across the org.\n We are hiring an Analytics Engineer focused on maintaining and optimizing our finance data platform , improving reliability, efficiency, and performance of our pipelines and core datasets. This role is ideal for someone who enjoys operational ownership, building strong foundations, and making data systems easier and safer to run at scale.\n What You’ll Do\n Build and maintain dbt models and core datasets that support Accounting reporting and downstream automation use cases.\n Improve platform reliability through strong testing patterns, alerting, and runbooks.\n Own and document data pipelines and lineage, ensuring changes are understandable and auditable.\n Identify, troubleshoot, and resolve production data issues, and drive root-cause fixes.\n Optimize performance and cost in Snowflake and dbt to support scaling needs.\n Partner with engineering and business stakeholders to translate requirements into durable, well-tested data assets.\n Contribute to the team’s best practices in version control, code review, documentation, and release hygiene (GitHub-based workflows).\n What We Look For\n 3+ years of experience in analytics engineering, data engineering, or similar roles working with production data systems.\n Strong SQL skills and hands-on experience building in dbt (modeling, testing, documentation).\n Experience operating in a modern development workflow:\n Git and pull-request based collaboration (GitHub preferred).\n Familiarity with standard IDEs and collaborative debu…",
-    "tags": [
-      "Data Science & Analytics",
-      "Any"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-10-15T03:45:16.000Z",
-    "scrapedAt": "2026-10-15T13:54:30.390Z"
+    "scrapedAt": "2026-10-15T18:52:26.053Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -50,7 +70,7 @@
       "ML & Search"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-15T13:54:30.863Z"
+    "scrapedAt": "2026-10-15T18:52:27.024Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-utrecht-24250",
@@ -69,7 +89,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-10-14T20:32:33.000Z",
-    "scrapedAt": "2026-10-15T13:54:30.308Z"
+    "scrapedAt": "2026-10-15T18:52:26.053Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -85,7 +105,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-10-15T13:54:30.863Z"
+    "scrapedAt": "2026-10-15T18:52:27.024Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -101,7 +121,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-10-15T13:54:30.863Z"
+    "scrapedAt": "2026-10-15T18:52:27.024Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -117,7 +137,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-15T13:54:30.863Z"
+    "scrapedAt": "2026-10-15T18:52:27.024Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -133,23 +153,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-10-15T13:54:30.863Z"
-  },
-  {
-    "id": "greenhouse:airbnb-8249633",
-    "externalId": "airbnb:8249633",
-    "source": "greenhouse",
-    "title": "Senior Analytics Engineer, Airbnb.org",
-    "company": "Airbnb",
-    "location": "United States",
-    "remote": false,
-    "url": "https://careers.airbnb.com/positions/8249633?gh_jid=8249633",
-    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n The Community You Will Join:\n In December 2020 Airbnb launched Airbnb.org, a non-profit organization that builds on a long history of connecting people in times of crisis to safe, comfortable places to stay. This work began at Airbnb in 2012, when a Host named Shell reached out wanting to offer her home for free to those impacted by Hurricane Sandy in New York City. Since then, Airbnb - and now Airbnb.org - has helped provide safe housing for over 250,000 people to date in response to hundreds of emergency events around the world including hurricanes, wildfires, refugee crises, and a global pandemic. The Airbnb.org team within Airbnb works in support of the Airbnb.org non-profit and partners with Hosts, nonprofit organizations, emergency management agencies and governments to provide stays to people around the world in times of crisis, and has announced a series of commitments to diversity, equity and inclusion including centering marginalized communities in its work and in team composition.\n The Difference You Will Make:\n Airbnb.org operates like a small startup inside Airbnb. Our data team is lean, the problems are new, and there is no established playbook for most of what we do. That means your ingenuity and autonomy are welcome and you will have the room to decide what to build and how, to experiment, and to shape the way a growing, mission-driven organization uses data.\n Analytics Engineers build the data foundation for the whole team - which translates to impact on all stakeholders with insights, analysis and experimentation. As a Senior Analytics Engineer, you will own major projects that build out the…",
-    "tags": [
-      "Data Science"
-    ],
-    "postedAt": "2026-10-05T16:34:11.000Z",
-    "scrapedAt": "2026-10-15T13:54:30.863Z"
+    "scrapedAt": "2026-10-15T18:52:27.024Z"
   },
   {
     "id": "greenhouse:affirm-8010489003",
@@ -165,6 +169,6 @@
       "Accounting"
     ],
     "postedAt": "2026-10-01T14:33:52.000Z",
-    "scrapedAt": "2026-10-15T13:54:30.863Z"
+    "scrapedAt": "2026-10-15T18:52:27.024Z"
   }
 ]
