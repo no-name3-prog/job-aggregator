@@ -1,85 +1,90 @@
 [
   {
-    "id": "ashby:linear-493579ff-3198-420f-ab6a-b8bb971cb513",
-    "externalId": "linear:493579ff-3198-420f-ab6a-b8bb971cb513",
-    "source": "ashby",
-    "title": "Senior / Staff Security Engineer",
-    "company": "Linear",
-    "location": "North America",
-    "remote": true,
-    "url": "https://jobs.ashbyhq.com/linear/493579ff-3198-420f-ab6a-b8bb971cb513",
-    "description": "At Linear, we're building the product development system for teams and agents. AI is fundamentally changing how software gets built, and we’re shaping the tools this new era requires.\n\nFounded in 2019, Linear has become the platform of choice for more than 30,000 companies (including OpenAI, Coinbase, and Ramp) to plan, build, and ship their products. Today, our team is distributed across North America, Europe, and Australia, and we’re continuing to grow internationally. What unites us is relentless focus, fast execution, and a deep care for software craftsmanship.\n\nAt Linear, we are committed to quality. Security is an essential part of that quality — not a layer that we add later, but something we build in from the start. We have a foundational security program we're proud of but, as Linear evolves our product and scales into enterprise, there's meaningful work ahead: staying ahead of vulnerabilities as our attack surface grows, responding fast and cleanly when incidents happen, and hardening our product and infrastructure. As Security Engineer at Linear, you'll be operating in a high-autonomy role with real scope, doing hands-on security work across the product and infrastructure we build.\n\nLocation & work mode\n\nLinear is a remote-first company. This role is open to candidates based in North America. You can work from anywhere within this region. We value deep focus and async collaboration, with intentional moments to connect in person through team off-sites, optional co-working, and occasional travel.\n\nWhat you’ll do\n\nDepending on your experience / skillset and our broader priorities, you could:\n\n - Operate, automate, and extend vulnerability management end-to-end: triage, prioritize, and drive remediation across product, infrastructure, and dependencies, and keep the program’s SLAs meaningful rather than theoretical\n\n - Run our bug bounty program: triage incoming reports, validate severity, work with engineering on fixes, and keep researcher relationships prof…",
-    "tags": [
-      "Product",
-      "Security",
-      "Remote"
-    ],
-    "jobType": "FullTime",
-    "postedAt": "2026-10-15T18:06:03.583Z",
-    "scrapedAt": "2026-10-15T18:52:21.152Z"
-  },
-  {
-    "id": "greenhouse:affirm-8016835003",
-    "externalId": "affirm:8016835003",
+    "id": "greenhouse:anthropic-5454673008",
+    "externalId": "anthropic:5454673008",
     "source": "greenhouse",
-    "title": "Senior Sales Engineer",
-    "company": "Affirm",
-    "location": "Remote Canada",
-    "remote": true,
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8016835003",
-    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.\n As a Senior Sales Engineer, you’ll combine your technical aptitude, exceptional communication skills, and creative problem solving to help enterprise merchants design and implement scalable, reliable solutions on the Affirm platform. You’ll support pre-sale activities by leading technical discovery, analyzing requirements, and identifying well-architected solutions, while playing a key role in winning deals and driving the business forward.\n Staff Sales Engineers are part of the Merchant Engineering team and work closely with Affirm’s Sales, Engineering, and Product teams. You will work cross-functionally to develop merchant solutions, serve as a trusted technical advisor to customers, identify product enhancements, and help build internal processes that scale.\n What You'll Do\n Technical Expertise: Serve as the subject matter expert on Affirm’s integration solutions, demonstrating deep understanding of merchant checkout, customer journeys, and the competitive landscape. Making the most compelling technical case for Affirm to merchants. Consistently demonstrate your technical expertise and knowledge of Affirm’s product suite through developing and articulating compelling technical narratives that map Affirm’s capabilities to merchant systems, increasing solution scope and long-term platform adoption.\n Solution Development: Architect elegant solutions addressing specific customer challenges, including complex integrations and customizations. As necessary, think outside-the-box to design and architect end-to-end solutions that address complex merchant challenges, including advanced integrations and customizations. Evaluate tradeoffs across merchant constraints, platform capabilities, and non-functional requirements, and design tailored solutions aligned with each merchant’s business and tech…",
+    "title": "Applied AI Engineer, Startups (Physical AI)",
+    "company": "Anthropic",
+    "location": "San Francisco, CA",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454673008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\n As an Applied AI Engineer on the Startups team at Anthropic, you will be a trusted technical advisor to the top AI-native startups building in the physical world, across robotics, semiconductors, aerospace, manufacturing, and civil infrastructure, as they grow from early product to scale. Some of these companies build the hardware itself and want Claude woven into how they design, test, and operate it, and others build the software that engineers everywhere use to design, simulate, test, and scale, and this role works with both. You'll lead deep technical engagements, partnering directly with startup software and hardware engineering teams to help them build their products on Claude and run their own engineering with it, advising on implementation and agent design as they build what is newly possible with AI in the physical world. You will bridge the gap between what Claude can do and what it takes to build real things, working alongside some of the strongest teams in the field on problems that matter and helping mechanical, electrical, and process engineers get the kind of step change that software engineering has had from agentic coding with tools like Claude Code.\n Working closely with Applied AI Architects, Account Executives, and Anthropic's Product, Engineering, and Research teams, you'll help startups build at the edge of what is possible with Claude. You'll leverage your AI engineering expertise and your engineering domain knowledge to develop custom evaluation frameworks, design scalable architectures, and create the technical resources that enable physical AI startups to succeed with Claude.\n Responsibilit…",
     "tags": [
-      "Infrastructure Platform Eng"
+      "Applied AI"
     ],
-    "postedAt": "2026-10-15T18:03:26.000Z",
-    "scrapedAt": "2026-10-15T18:51:31.170Z"
+    "postedAt": "2026-10-15T22:50:02.000Z",
+    "scrapedAt": "2026-10-15T23:31:27.425Z"
   },
   {
-    "id": "greenhouse:affirm-8016833003",
-    "externalId": "affirm:8016833003",
+    "id": "greenhouse:anthropic-5454650008",
+    "externalId": "anthropic:5454650008",
     "source": "greenhouse",
-    "title": "Senior Sales Engineer",
-    "company": "Affirm",
-    "location": "Remote US",
-    "remote": true,
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8016833003",
-    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.\n As a Senior Sales Engineer, you’ll combine your technical aptitude, exceptional communication skills, and creative problem solving to help enterprise merchants design and implement scalable, reliable solutions on the Affirm platform. You’ll support pre-sale activities by leading technical discovery, analyzing requirements, and identifying well-architected solutions, while playing a key role in winning deals and driving the business forward.\n Senior Sales Engineers are part of the Merchant Engineering team and work closely with Affirm’s Sales, Engineering, and Product teams. You will work cross-functionally to develop merchant solutions, serve as a trusted technical advisor to customers, identify product enhancements, and help build internal processes that scale.\n What You'll Do\n Technical Expertise: Serve as the subject matter expert on Affirm’s integration solutions, demonstrating deep understanding of merchant checkout, customer journeys, and the competitive landscape. Making the most compelling technical case for Affirm to merchants. Consistently demonstrate your technical expertise and knowledge of Affirm’s product suite through developing and articulating compelling technical narratives that map Affirm’s capabilities to merchant systems, increasing solution scope and long-term platform adoption.\n Solution Development: Architect elegant solutions addressing specific customer challenges, including complex integrations and customizations. As necessary, think outside-the-box to design and architect end-to-end solutions that address complex merchant challenges, including advanced integrations and customizations. Evaluate tradeoffs across merchant constraints, platform capabilities, and non-functional requirements, and design tailored solutions aligned with each merchant’s business and tec…",
+    "title": "Applied AI Engineer, Startups (Life Sciences)",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454650008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\n As an Applied AI Engineer on the Startups team at Anthropic, you will be a trusted technical advisor to the top AI-native life sciences and biotech startups as they grow from early product to scale. Some of these companies build products on Claude that they sell to the rest of the industry, and others do the science themselves and want Claude woven into how their own research runs, and this role works with both. You'll lead deep technical engagements, partnering directly with startup engineering and scientific teams to help them build their products on Claude and run their own research with it, advising on implementation and agent design as they build what is newly possible with AI in the life sciences. You will bridge the gap between what Claude can do and what the life sciences need, working alongside some of the strongest teams in the field on problems that matter and pushing the boundaries of AI in science as you go.\n Working closely with Applied AI Architects, Account Executives, and Anthropic's Product, Engineering, and Research teams, you'll help startups build at the edge of what is possible with Claude. You'll leverage your AI engineering expertise and your scientific domain knowledge to develop custom evaluation frameworks, design scalable architectures, and create the technical resources that enable life sciences startups to succeed with Claude.\n Responsibilities\n Serve as a deep technical advisor to high-potential life sciences and biotech startups, whether Claude sits inside the product they sell or inside the way they make discoveries, working alongside them to build innovative use cases that push the…",
     "tags": [
-      "Infrastructure Platform Eng"
+      "Applied AI"
     ],
-    "postedAt": "2026-10-15T18:03:22.000Z",
-    "scrapedAt": "2026-10-15T18:51:31.170Z"
+    "postedAt": "2026-10-15T22:47:12.000Z",
+    "scrapedAt": "2026-10-15T23:31:27.425Z"
   },
   {
-    "id": "arbeitnow:senior-project-manager-professional-services-london-78894",
-    "externalId": "senior-project-manager-professional-services-london-78894",
+    "id": "arbeitnow:principal-data-scientist-munich-3811",
+    "externalId": "principal-data-scientist-munich-3811",
     "source": "arbeitnow",
-    "title": "Senior Project Manager, Professional Services",
-    "company": "Rubrik",
-    "location": "London",
+    "title": "Principal Data Scientist (m/w/d)",
+    "company": "Alexander Thamm GmbH",
+    "location": "Munich",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/rubrik/senior-project-manager-professional-services-london-78894",
-    "description": "<h4><span style=\"text-decoration: underline;\"><strong>Professional Services Senior Project Manager</strong></span></h4>\n<p><strong>Location:</strong>&nbsp;UK (Remote)<br><strong>Department:</strong> Professional Services (PS)</p>\n<p><strong>About the Job&nbsp;</strong><br>Rubrik Professional Services is looking for a high-energy, strategic, and results-driven Senior Project Manager to lead complex, enterprise customer implementations and help shape the future of our delivery practice. In this role, you will be customer-facing, acting as a trusted advisor to ensure deployment success, business value realisation, and operational efficiency. You will own high-stakes client engagements end-to-end, bringing deep project management expertise to solve problems on the ground and drive customer outcomes with minimal oversight.</p>\n<p><strong>About You&nbsp;</strong><br>As a Senior Project Manager in our PS Organisation, you will drive impact primarily through hands-on delivery excellence, leadership, and practice enablement.</p>\n<p>1. Client Delivery Excellence<br>● Drive Complex Engagements: Lead end-to-end delivery of complex, concurrent, enterprise-level&nbsp;customer projects from kickoff to sign-off within fast-paced environments.<br>● Scope &amp; Milestone Management: Prepare enterprise customers for deployment, establish clear&nbsp;success criteria, track deliverables, set targets, manage resources, and ensure project execution&nbsp;adheres to deadlines and budgets.<br>● Risk &amp; Issue Governance: Proactively identify, track, and mitigate project risks and technical&nbsp;dependencies, resolving issues autonomously before they escalate.<br>● Stakeholder Alignment: Serve as the single point of contact and escalation owner for customer&nbsp;executives, cross-functional internal teams (Engineering, Customer Support, Sales), and third-&nbsp;party partners.<br>● Quality &amp; Performance: Execute quality control throughout project lifecycles to ensure deliverables meet o…",
+    "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-data-scientist-munich-3811",
+    "description": "Startdatum\n Wir suchen Dich ab sofort an einem unserer deutschen Standorte in München, Nürnberg, Leipzig, Berlin, Frankfurt am Main oder Essen !\n Deine Aufgaben\n Data und AI sind Dein zu Hause? Des Weiteren gestaltet sich Deine neue Herausforderung wie folgt:\n Du gestaltest und leitest zielstrebig herausfordernde Data Science Projekte in einem interdisziplinärem Team\n Routiniert erkennst Du die Bedürfnisse Deines Kunden und entwickelst effektive, datengetriebene Lösungen\n Aus den Datensätzen Deiner Kunden extrahierst Du die für die Aufgabenstellung entscheidenden Daten\n Du kreierst innovative Lösungen mithilfe moderner Methoden aus den Bereichen Statistik, Machine Learning, mathematischer Optimierung und Visual Analytics\n Enge Zusammenarbeit mit Deinem Tribe Lead (Vorgesetzte:r)\n Du kommunizierst Deine Ergebnisse erfolgreich Deinem Kunden und begleitest anschließend die umfassende Implementierung Deiner Idee zusammen mit dem Data Engineering Team\n Als Expert:in mit Fachwissen nimmst Du an Kundenterminen teil\n Dein Profil\n Data ist auch in Deiner DNA ? Das solltest Du mitbringen:\n Abgeschlossenes Studium im Bereich Informatik, Data Science, Mathematik oder einem datengetriebenem Studiengang\n Fließende Deutsch- und Englischkenntnisse in Wort und Schrift sind erforderlich\n Starke analytische Fähigkeiten und die Fähigkeit, komplexe technische Konzepte verständlich zu kommunizieren sowie out-of-the-box-thinking\n Hohes Engagement für kontinuierliches Lernen und Erproben neuer Tools und Technologien.\n Mindestens 5 Jahre Projekterfahrung im Data Umfeld, idealerweise in einem Beratungsunternehmen\n Mindestens 3 Jahre praktische Erfahrung mit Cloud Technologien (Azure, AWS)\n Sehr gute Kenntnisse in Software Development (Python, object oriented)\n Praktische Erfahrung in Data Science Bereichen wie LLMs/NLP (z.B. Transformer, Conversational AI) oder Computer Vision (z.B. Stable Diffusion, OCR)\n Wir bieten\n Data bewegt uns! Was Dich auf Deiner persönlichen Journey erwartet, finde…",
     "tags": [
-      "Support"
+      "Software Development",
+      "Unbefristeter arbeitsvertrag"
     ],
-    "postedAt": "2026-10-15T17:55:18.000Z",
-    "scrapedAt": "2026-10-15T18:51:30.307Z"
+    "jobType": "Unbefristeter arbeitsvertrag",
+    "postedAt": "2026-10-15T22:00:45.000Z",
+    "scrapedAt": "2026-10-15T23:31:26.821Z"
   },
   {
-    "id": "arbeitnow:support-engineer-last-mile-delivery-lille-upline-nord-4609",
-    "externalId": "support-engineer-last-mile-delivery-lille-upline-nord-4609",
+    "id": "arbeitnow:senior-data-ai-projektleitung-schwerpunkt-defense-munich-181237",
+    "externalId": "senior-data-ai-projektleitung-schwerpunkt-defense-munich-181237",
     "source": "arbeitnow",
-    "title": "Support Engineer - Last Mile Delivery (f/m/d)",
-    "company": "Decathlontechnology",
-    "location": "Lille, Upline, Nord",
+    "title": "Senior Data & AI Projektleitung - Schwerpunkt Defense (m/w/d)",
+    "company": "Alexander Thamm GmbH",
+    "location": "Munich",
     "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/support-engineer-last-mile-delivery-lille-upline-nord-4609",
-    "description": "<h3 data-path-to-node=\"4\"><strong data-path-to-node=\"4\" data-index-in-node=\"0\">Notre équipe Ship &amp; Back recherche un·e Support Engineer (f/m/d) en CDI basé·e à Lille.</strong></h3>\n<p>Au cœur de la Value Chain de Decathlon, l'équipe Last Mile Delivery propulse l'expérience sportive au niveau supérieur en garantissant une livraison fluide, rapide et fiable partout dans le monde. Composée d'une dizaine de passionné·es du produit et de la tech, notre mission est d'optimiser le cœur battant de la logistique e-commerce à travers 3 produits clés : Shipperbox (tracking et étiquettes transporteurs), RPM (référentiel des points relais) et Trackbox (assure la livraison des commandes e-commerce, leur suivi et leur performance). En rejoignant notre équipe à taille humaine, tu prendras le lead du support fonctionnel sur un périmètre stratégique, avec l'ambition de garantir une performance de livraison sans faille pour des millions d'utilisateur·rices.</p>\n<h3><strong>TA FUTURE CONTRIBUTION</strong></h3>\n<ul>\n<li>Animer et piloter le support fonctionnel et technique sur l'ensemble de notre scope (Shipperbox, RPM, Trackbox).</li>\n<li>Incarner la voix de l'utilisateur·rice en garantissant une satisfaction client optimale au quotidien.</li>\n<li>Adopter une démarche proactive : concevoir, déployer et maintenir des sondes et dispositifs de monitoring pour anticiper et détecter les dysfonctionnements avant l'impact métier.</li>\n<li>Intervenir avec réactivité lors des incidents critiques et mener les analyses d'impact et de cause racine.</li>\n<li>Structurer et appliquer des plans d'action post-incident rigoureux pour éliminer durablement la récurrence des problèmes.</li>\n<li>Identifier les points critiques du scope fonctionnel pour optimiser continuellement la qualité de service et la robustesse de nos outils.</li>\n</ul>\n<h3><strong>CE QUE TU APPORTES</strong></h3>\n<ul>\n<li>Une expérience confirmée sur un rôle de Support Engineer, idéalement dans le domaine de la Value Chain, de la…",
+    "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-ai-projektleitung-schwerpunkt-defense-munich-181237",
+    "description": "Startdatum\n Wir suchen Dich ab sofort an einem unserer deutschen Standorte in München, Nürnberg, Frankfurt am Main, Essen, Leipzig oder Berlin !\n Deine Aufgaben\n Data und AI sind Dein zu Hause? Des Weiteren gestaltet sich Deine neue Herausforderung wie folgt:\n Du hast erfolgreich Projekte im Bereich Defense & Security geleitet und verfügst über ein fundiertes Verständnis der branchenspezifischen Anforderungen und Prozesse\n Du bist erfahren in der Akquisition neuer Aufträge sowie in der Bearbeitung von Ausschreibungen, insbesondere im Defense & Security Umfeld und baust aktiv Kundenbeziehungen auf\n Für Deine gewonnenen Projekte übernimmst Du die Leitung datengetriebener KI-/IT-Integrationsprojekte mit Verantwortung für eine Umsetzung in Time, Budget und Qualität\n Du stellst eine hohe Kundenzufriedenheit sicher und unterstützt aktiv die Teamleads im Business Development\n Im Stakeholder-Management steuerst Du aktiv Kund:innen und interne Schnittstellen (u. a. Partnermanagement, Controlling, Teamleadership) inklusive Erwartungsmanagement\n Du verantwortest die Planung von Projekt-Roadmaps, Teilprojekten, Budgets und Ressourcen sowie die Vorbereitung, Durchführung und Nachbereitung von Terminen, Workshops und Steerings inkl. Follow-ups\n Dein Profil\n Daten sind auch in Deiner DNA ? Das solltest Du mitbringen:\n Du bist erfahrene:r Projektmanager:in in datengetriebenen KI / IT-Integrations-Projekten\n Du verfügst über fundierte Kenntnisse in der Datenwelt, idealerweise mit praktischer Erfahrung im Bereich Data Science oder Data Engineering\n Du beherrschst gängige Projektmethodiken (z. B. Wasserfall, Agile mit Scrum/Kanban), hast diese erfolgreich in Kundenprojekten angewandt und verfügst idealerweise über entsprechende Zertifizierungen sowie Erfahrung mit relevanten Tools\n Du verfügst über Erfahrung im Umgang mit öffentlichen Auftraggebern oder militärischen Industrieprojekten sowie mit sicherheitsrelevanten Anforderungen (z. B. Geheimschutz, IT-Sicherheitsvorgaben, regulato…",
     "tags": [
-      "Engineering"
+      "Project Management",
+      "Unbefristeter arbeitsvertrag",
+      "berufserfahren"
     ],
-    "postedAt": "2026-10-15T17:55:18.000Z",
-    "scrapedAt": "2026-10-15T18:51:30.307Z"
+    "jobType": "Unbefristeter arbeitsvertrag",
+    "postedAt": "2026-10-15T22:00:45.000Z",
+    "scrapedAt": "2026-10-15T23:31:26.821Z"
+  },
+  {
+    "id": "arbeitnow:senior-generative-ai-engineer-munich-276909",
+    "externalId": "senior-generative-ai-engineer-munich-276909",
+    "source": "arbeitnow",
+    "title": "Senior Generative AI Engineer (m/w/d)",
+    "company": "Alexander Thamm GmbH",
+    "location": "Munich",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-generative-ai-engineer-munich-276909",
+    "description": "Startdatum\n Wir suchen Dich ab sofort an einem unserer deutschen Standorte in München, Nürnberg, Leipzig, Berlin, Essen oder Frankfurt am Main !\n Deine Aufgaben\n Data und AI sind Dein zu Hause? Des Weiteren gestaltet sich Deine neue Herausforderung wie folgt:\n Übernahme der fachlichen Verantwortung für die Betreuung und Entwicklung von Demonstratoren für unser Business Development\n Aktive Verfolgung aktueller Trends und Entwicklungen im Bereich Generative AI durch kontinuierliche Recherche und das Experimentieren mit neuen Tools\n Übernahme der Leitung oder auch Mitarbeit an Projekten mit Schwerpunkt auf dem technischen Steering - Besonderes Augenmerk liegt hier auf der Qualitätssicherung in den Bereichen Data Science und Prompt Engineering\n Konzeption und Umsetzung von internen Schulungen, um das Wissen im Team zu vertiefen und die kontinuierliche Weiterbildung innerhalb des Unternehmens zu fördern\n Aktive Teilnahme an relevanten Konferenzen sowie das Halten von Vorträgen, um das erlangte Wissen zu teilen und als Expert:in und Repräsentant:in unseres Unternehmens aufzutreten\n Unterstützung unseres Sales Teams bei der Kundenakquise durch überzeugende Präsentationen (Pitches) technischer Lösungen\n Skizzieren von Architekturbildern für Generative KI-Lösungen\n Dein Profil\n Data ist auch in Deiner DNA? Das solltest Du mitbringen:\n Abgeschlossenes Studium im Bereich Informatik, Data Science, Mathematik oder einem naturwissenschaftlichen Studiengang\n Fließende Kommunikationsfähigkeit auf Deutsch und Englisch sowie Reisebereitschaft im Rahmen einer Consulting Tätigkeit\n Erfahrung in der Entwicklung von Generative AI-Modellen und deren Anwendung in realen Projekten\n Starke analytische Fähigkeiten und die Fähigkeit, komplexe technische Konzepte verständlich zu kommunizieren sowie out-of-the-box-thinking\n Hohes Engagement für kontinuierliches Lernen und Erproben neuer Tools und Technologien\n Sehr gute Kenntnisse im Coding und Software Development (Python, object oriented), mi…",
+    "tags": [
+      "Software Development",
+      "Unbefristeter arbeitsvertrag",
+      "berufserfahren"
+    ],
+    "jobType": "Unbefristeter arbeitsvertrag",
+    "postedAt": "2026-10-15T22:00:44.000Z",
+    "scrapedAt": "2026-10-15T23:31:26.821Z"
   }
 ]
