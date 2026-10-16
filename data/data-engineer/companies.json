@@ -1,7 +1,7 @@
 [
   {
     "company": "Salesforce",
-    "jobCount": 8,
+    "jobCount": 7,
     "sources": [
       "workday"
     ],
@@ -18,7 +18,6 @@
       "Data Engineer Senior",
       "Data Engineering Senior Associate- Finance",
       "Senior Data Engineer",
-      "Senior Director, Data Engineering - Slack",
       "PMTS - Principal Agentic Data Engineer",
       "Data Engineer (SMTS / LMTS) - MDM"
     ],
@@ -202,7 +201,7 @@
   },
   {
     "company": "Airbnb",
-    "jobCount": 2,
+    "jobCount": 3,
     "sources": [
       "greenhouse"
     ],
@@ -212,11 +211,13 @@
     ],
     "sampleTitles": [
       "Staff Data Engineer, Tech Foundations",
-      "Senior Staff Data Engineer, Foundational Data"
+      "Senior Staff Data Engineer, Foundational Data",
+      "Senior Staff Data Engineer - Data Stewardship"
     ],
     "officialUrls": [
       "https://careers.airbnb.com/positions/8284841?gh_jid=8284841",
-      "https://careers.airbnb.com/positions/8224032?gh_jid=8224032"
+      "https://careers.airbnb.com/positions/8224032?gh_jid=8224032",
+      "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
     ]
   },
   {
@@ -314,22 +315,6 @@
     ]
   },
   {
-    "company": "Agilerobotsse",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Munich, Bavaria"
-    ],
-    "sampleTitles": [
-      "Robotics Data Engineer (m/f/d) Data Generation & Curation"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/agilerobotsse/robotics-data-engineer-data-generation-curation-munich-bavaria-57898"
-    ]
-  },
-  {
     "company": "capco",
     "jobCount": 1,
     "sources": [
@@ -378,6 +363,22 @@
     ]
   },
   {
+    "company": "Deliveroo",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London, England, United Kingdom"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer – BI Platform"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/analytics-engineer-bi-platform-london-467029"
+    ]
+  },
+  {
     "company": "GitLab",
     "jobCount": 1,
     "sources": [
@@ -394,19 +395,19 @@
     ]
   },
   {
-    "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
+    "company": "Hipagesgroup",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "London"
+      "Sydney, Australia"
     ],
     "sampleTitles": [
-      "Analytics Engineer"
+      "Data Analytics Engineering Lead"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/analytics-engineer-london-168766"
+      "https://www.arbeitnow.co.uk/jobs/companies/hipagesgroup/data-analytics-engineering-lead-sydney-australia-16290"
     ]
   },
   {
@@ -442,19 +443,19 @@
     ]
   },
   {
-    "company": "prolific",
+    "company": "Pleo",
     "jobCount": 1,
     "sources": [
-      "arbeitnow"
+      "jobicy"
     ],
     "locations": [
-      "Remote"
+      "Denmark,  Portugal,  Spain,  UK"
     ],
     "sampleTitles": [
       "Analytics Engineer"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-analytics-engineer-179618"
+      "https://jobicy.com/jobs/155537-analytics-engineer-4"
     ]
   },
   {
