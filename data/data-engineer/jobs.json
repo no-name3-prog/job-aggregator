@@ -1,21 +1,55 @@
 [
   {
-    "id": "arbeitnow:remote-senior-analytics-engineer-83455",
-    "externalId": "remote-senior-analytics-engineer-83455",
+    "id": "arbeitnow:analytics-engineer-london-168766",
+    "externalId": "analytics-engineer-london-168766",
     "source": "arbeitnow",
-    "title": "Senior Analytics Engineer",
-    "company": "SoSafe",
-    "location": "United Kingdom Remote",
+    "title": "Analytics Engineer",
+    "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
+    "location": "London",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/remote-senior-analytics-engineer-83455",
-    "description": "SoSafe has the ambition to become the leading human risk management provider in Europe. Our award-winning awareness platform triggers behavioural change by providing effective and engaging training and simulations on cybersecurity and data protection. Cybercrime is costing the world >$10 trillion annually and growing by 15% p.a. - we invite you to be part of the solution!\"\n Location:\n UK, Ireland, or Portugal. Candidates must have work authorization in one of these countries. Office access available in London, Dublin, and Lisbon.\n Here's how you'll make a difference:\n Own the transformation layer in dbt - design, build, and maintain modular, well-tested data models that define how data is structured and consumed across the company.\n Define and implement core business metrics (e.g. activation, engagement, retention) as reusable, versioned data assets- ensuring consistent definitions across analytics, product, and AI use cases.\n Model complex SaaS data by integrating product events, CRM (Salesforce), and support data into clean, well-defined fact and dimension models.\n Build and evolve our semantic layer - creating a reliable abstraction over our data that enables consistent KPI definitions and supports downstream consumers, including LLM-based analytics agents.\n Collaborate with Data Engineers on upstream data contracts and event schemas - ensuring raw data is structured in a way that supports scalable, reliable analytics.\n Establish and enforce best practices in testing, documentation, and data quality- making these part of the standard development lifecycle.\n Document models, metrics, and lineage clearly - enabling self-service and reducing ambiguity across teams.\n What you bring:\n 5+ years in analytics engineering or data engineering with a strong focus on data modeling\n Strong proficiency in dbt and SQL- building modular, well-tested models\n Solid understanding of dimensional modeling and metric design\n Experience working with cloud data warehouses (BigQuery, Sn…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/analytics-engineer-london-168766",
+    "description": "<div class=\"content-intro\"><p>&nbsp;</p>\n<p><span style=\"color: rgb(0, 4, 67);\"><img style=\"max-width: 100%;\" src=\"https://www.rightmove.co.uk/careers/content/uploads/2026/09/Untitled-30-July-2026-at-10.03.05-3-8.png\" alt=\"\" width=\"1001\"><strong><br><br></strong></span></p>\n<p>Our vision is to give everyone the belief they can make their move. We aim to make moving simpler,&nbsp;by giving everyone the best place to turn to and return to for access to the tools, expertise, trust, and belief to make it happen.</p>\n<p>We’re home to the UK’s largest choice of properties and are the go-to destination for millions&nbsp;of people planning their next move, reading the latest industry news, or just browsing what’s on the market.&nbsp;</p>\n<hr>\n<p>&nbsp;</p></div><p>Millions of people visit the Rightmove website every month. We have a huge amount of data about how people use the site,&nbsp;and what this means to our customers. You’ll be at the centre of our analytics platform to help drive this, modelling and productionising high‑quality data assets in&nbsp;DBT on BigQuery, and maintaining the semantic layer to power the insights that will impact millions of users.<br><br>Working closely with a highly collaborative and high-performing team of data engineers, analysts, and product teams, you&nbsp;will help standardise metrics, elevate data quality, and enable self‑serve analytics so teams can move faster and smarter to&nbsp;drive real business impact.<br><br>Ultimately, this role would suit an analytics engineer who’s ready to take ownership of building high-quality, well-documented data models, contribute to the development of a scalable analytics layer of a modern data stack, and help&nbsp;shape how data is used across the UK’s favourite property site.<br><br><strong>What You’ll Be Doing</strong><br>- Model, build, and productionise robust data assets using dbt and BigQuery<br>- Maintain and evolve the semantic layer in Looker to support consistent, self-serve analytics<br>…",
     "tags": [
-      "Development",
-      "Full Time"
+      "Analytics Engineering"
     ],
-    "jobType": "Full Time",
-    "postedAt": "2026-10-16T05:40:18.000Z",
-    "scrapedAt": "2026-10-16T07:57:08.799Z"
+    "postedAt": "2026-10-16T11:55:23.000Z",
+    "scrapedAt": "2026-10-16T13:43:46.883Z"
+  },
+  {
+    "id": "arbeitnow:remote-analytics-engineer-179618",
+    "externalId": "remote-analytics-engineer-179618",
+    "source": "arbeitnow",
+    "title": "Analytics Engineer",
+    "company": "prolific",
+    "location": "Remote",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-analytics-engineer-179618",
+    "description": "<h1 style=\"text-align: center;\"><span style=\"color: rgb(126, 140, 141); font-family: tahoma, arial, helvetica, sans-serif;\">Analytics Engineer</span></h1>\n<p><span style=\"font-family: tahoma, arial, helvetica, sans-serif;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: tahoma, arial, helvetica, sans-serif;\"><em>&nbsp;<span style=\"color: rgb(126, 140, 141);\">&nbsp;Prolific</span></em></span></p>\n<p><span style=\"font-family: tahoma, arial, helvetica, sans-serif;\">Prolific is not just another player in the AI space—we are the architects of the human data infrastructure that's reshaping the landscape of AI development. In a world where foundational AI technologies are increasingly commoditized, it's the quality and diversity of human-generated data that truly differentiates products and models.</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: tahoma, arial, helvetica, sans-serif;\"><em>&nbsp;</em></span></p>\n<p style=\"text-align: center;\"><span style=\"color: rgb(126, 140, 141); font-family: tahoma, arial, helvetica, sans-serif;\"><em>&nbsp;The role</em></span></p>\n<div><span style=\"font-family: tahoma, arial, helvetica, sans-serif;\">As an Analytics Engineer in the Data Infrastructure Team at Prolific, you’ll be at the forefront of transforming and maintaining Prolific’s data infrastructure as the way people work with data changes rapidly. Your work will be instrumental in redesigning and scaling our data stack, ensuring data pipelines are robust, efficient, and reliable, and that our data is ready to be queried by people and AI systems alike. </span></div>\n<div>&nbsp;</div>\n<div><span style=\"font-family: tahoma, arial, helvetica, sans-serif;\">By owning and optimising our analytics codebase and semantic layer, you’ll empower teams across the business to get trustworthy answers, whether through BI dashboards or nat…",
+    "tags": [
+      "Data & AI"
+    ],
+    "postedAt": "2026-10-16T11:55:18.000Z",
+    "scrapedAt": "2026-10-16T13:43:46.883Z"
+  },
+  {
+    "id": "arbeitnow:remote-senior-scientific-data-engineer-switzerland-5487",
+    "externalId": "remote-senior-scientific-data-engineer-switzerland-5487",
+    "source": "arbeitnow",
+    "title": "Senior Scientific Data Engineer",
+    "company": "Tetrascience",
+    "location": "Switzerland",
+    "remote": true,
+    "url": "https://www.arbeitnow.ch/jobs/companies/tetrascience/remote-senior-scientific-data-engineer-switzerland-5487",
+    "description": "About TetraScience TetraScience is the Scientific Data and AI Company building Tetra OS, the operating system for scientific intelligence. We help the world’s leading life sciences firms turn fragmented scientific data into AI-native assets and scientific workflows that accelerate discovery, development, and manufacturing. TetraScience’s growing ecosystem of strategic partners includes NVIDIA, Databricks, Thermo Fisher Scientific, Snowflake, Google, and Microsoft.\n In connection with your candidacy, you will be asked to carefully review “The Tetra Way,” authored by our CEO, Patrick Grady; it is impossible to overstate the importance of this document, and you should take it literally as you decide whether our mission, culture, and expectations are right for you.\n What You Will Do You will join TetraScience's forward deployed teams as a senior, hands-on engineer. In this role, you will work directly with biotech, pharmaceutical, and scientific companies, bringing advanced data and AI technologies into the labs that research, develop, and manufacture medicines. You will work alongside customer scientific, engineering, and IT teams to design, build, and ship integrations and data products on Tetra OS that serve scientific teams across the globe. You will also mentor other scientific data engineers, lead internal design sessions, and partner with Product Managers and Solution Architects to turn customer, product, and engineering objectives into commercialized solutions.\n Act as a forward deployed engineer for a portfolio of biotech, pharmaceutical, and scientific customers. Own the technical relationship, understand their scientific workflows, and deliver solutions that move their programs forward. Drive AI agents to design and build bidirectional integrations between Tetra OS and customer systems such as ELN, LIMS, MES, and process historians, including serverless push and pull pipelines, stateful connectors, and full stack data applications in Python and TypeScript. D…",
+    "tags": [
+      "Computer Software",
+      "Remote",
+      "Full time",
+      "mid-senior"
+    ],
+    "jobType": "Full time",
+    "postedAt": "2026-10-16T11:20:05.000Z",
+    "scrapedAt": "2026-10-16T13:43:46.883Z"
   },
   {
     "id": "jobicy:150666",
@@ -34,7 +68,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-10-16T02:45:16.000Z",
-    "scrapedAt": "2026-10-16T07:57:08.918Z"
+    "scrapedAt": "2026-10-16T13:43:47.020Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-amsterdam-62897",
@@ -52,23 +86,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-10-16T02:30:19.000Z",
-    "scrapedAt": "2026-10-16T07:57:08.799Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-h-f-393580",
-    "externalId": "data-engineer-h-f-393580",
-    "source": "arbeitnow",
-    "title": "Data Engineer H/F",
-    "company": "capco",
-    "location": "Unknown",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/capco/data-engineer-h-f-393580",
-    "description": "<p></p>\n<p data-pm-slice=\"1 1 []\">Capco France recherche des <strong>Data Engineers</strong> pour accompagner les acteurs majeurs des services financiers dans la conception et la mise en œuvre de plateformes et solutions data modernes, robustes et évolutives.</p>\n<p>Au sein de notre Practice <strong>Data &amp; Analytics</strong>, vous interviendrez sur des projets de transformation à fort impact, de la conception des architectures et pipelines de données jusqu’à leur mise en production et leur optimisation.</p>\n<h2><strong>Ce que vous ferez</strong></h2>\n<p></p>\n<ul>\n<li>Concevoir, développer et maintenir des pipelines de données robustes et évolutifs permettant d’ingérer, transformer et mettre à disposition des données issues de sources multiples.</li>\n<li>Participer à la conception et à l’évolution d’architectures data modernes, notamment dans des environnements Cloud, en tenant compte des enjeux de performance, de sécurité et de scalabilité.</li>\n<li>Garantir la qualité, la fiabilité et l’observabilité des données grâce à des pratiques de tests, monitoring, documentation et automatisation.</li>\n<li>Collaborer avec les équipes Data, Cloud, Architecture et métiers afin de transformer les besoins fonctionnels en solutions techniques performantes et maintenables.</li>\n<li>Utiliser de manière responsable les outils d’IA et d’automatisation approuvés pour accélérer le développement, les tests, la documentation ou l’analyse des incidents, avec revue humaine et respect des standards de sécurité et de gouvernance</li>\n</ul>\n<p></p>\n<h2><strong>Ce que nous recherchons</strong></h2>\n<ul>\n<li>Une expérience significative en <strong>Data Engineering, minimum 5 ans</strong>, avec une bonne maîtrise de Python et SQL et une expérience dans la conception de pipelines de données.</li>\n<li>Une expérience des technologies et architectures data modernes, ainsi que d’au moins un environnement Cloud tel qu’AWS, Azure ou GCP.</li>\n<li>Une bonne compréhension des problématiques de modél…",
-    "tags": [
-      "Tech & Engineering"
-    ],
-    "postedAt": "2026-10-15T23:55:15.000Z",
-    "scrapedAt": "2026-10-16T07:57:08.799Z"
+    "scrapedAt": "2026-10-16T13:43:46.883Z"
   },
   {
     "id": "arbeitnow:finance-data-engineer-255524",
@@ -84,7 +102,7 @@
       "Data & Analytics"
     ],
     "postedAt": "2026-10-15T23:55:15.000Z",
-    "scrapedAt": "2026-10-16T07:57:08.799Z"
+    "scrapedAt": "2026-10-16T13:43:46.883Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-revenue-purchase-order-amsterdam-499404",
@@ -100,7 +118,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-15T20:55:14.000Z",
-    "scrapedAt": "2026-10-16T07:57:08.799Z"
+    "scrapedAt": "2026-10-16T13:43:46.883Z"
   },
   {
     "id": "arbeitnow:team-lead-data-engineering-amsterdam-286359",
@@ -118,7 +136,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-10-15T11:40:41.000Z",
-    "scrapedAt": "2026-10-16T07:57:08.799Z"
+    "scrapedAt": "2026-10-16T13:43:46.883Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -131,10 +149,10 @@
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8282760",
     "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com .\n We are looking for a talented and driven individual to be a key part of our Analytics Engineering team within the Data Science organization. We are looking for someone who can work closely with Data Scientists and Engineers across diverse areas of the organization (Consumer, Ads, and Marketing) to curate, develop, and deploy the right data and analytic tooling to drive Reddit’s product forward and provide a data and tooling foundation that will last decades. Your work will empower thousands of your colleagues to improve the user experience and grow our consumer base.\n Successful candidates have a strong track record of understanding and deeply caring about the purpose of data to support business goals, and can act as an effective conduit between Data Producers and Data Consumers. This role sits at the intersection of Data Science and Data Engineering, and the ideal candidate has skills, experience, and passion in both areas.\n Responsibilities:\n Be a key contributor and collaborator to the success of data quality, performance, reliability, and automation initiatives.\n Manage a portfolio of data products that deliver high-quality, trustworthy data\n Develop and maintain robust data pipelines and workflows for data ingestion, processing, and transformation. Work closely with engineering to ensure the quality and reliability of these data pipelines.\n Develop and implement data quality checks, conduct QA and implement monitoring routines\n Create and manage new data integrations across internal and external systems\n Create t…",
     "tags": [
-      "ML & Search"
+      "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -150,7 +168,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -166,7 +184,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -182,7 +200,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -198,7 +216,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:affirm-8010489003",
@@ -214,7 +232,7 @@
       "Accounting"
     ],
     "postedAt": "2026-10-01T14:33:52.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -230,7 +248,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -246,7 +264,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:pinterest-8209014",
@@ -262,7 +280,7 @@
       "Oversight Engineering"
     ],
     "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:airbnb-8224032",
@@ -278,7 +296,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "lever:spotify-80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
@@ -298,7 +316,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-09-22T08:36:16.099Z",
-    "scrapedAt": "2026-10-16T08:00:29.352Z"
+    "scrapedAt": "2026-10-16T13:47:17.725Z"
   },
   {
     "id": "greenhouse:figma-6201407004",
@@ -314,7 +332,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-21T16:13:46.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -330,7 +348,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -346,7 +364,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -362,7 +380,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -378,7 +396,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -394,7 +412,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -410,7 +428,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -426,7 +444,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -442,7 +460,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:affirm-7916080003",
@@ -458,7 +476,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-08-20T13:43:45.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -478,7 +496,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-10-16T08:00:29.352Z"
+    "scrapedAt": "2026-10-16T13:47:17.725Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -497,7 +515,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-10-16T08:00:30.089Z"
+    "scrapedAt": "2026-10-16T13:47:18.583Z"
   },
   {
     "id": "greenhouse:stripe-8112043",
@@ -513,7 +531,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-08-06T14:27:44.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -529,7 +547,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:affirm-7813362003",
@@ -545,7 +563,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-07-28T10:52:21.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -561,7 +579,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -577,7 +595,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -593,7 +611,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:affirm-7764109003",
@@ -609,7 +627,7 @@
       "Accounting"
     ],
     "postedAt": "2026-06-17T09:53:12.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:discord-8485884002",
@@ -625,7 +643,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-05-14T16:00:25.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -641,7 +659,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -657,7 +675,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -673,7 +691,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -689,7 +707,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -705,7 +723,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-10-16T07:57:09.393Z"
+    "scrapedAt": "2026-10-16T13:43:47.473Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -721,7 +739,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:57:16.919Z"
+    "scrapedAt": "2026-10-16T13:43:54.771Z"
   },
   {
     "id": "workday:nvidia-JR2021975",
@@ -735,7 +753,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:57:16.919Z"
+    "scrapedAt": "2026-10-16T13:43:54.771Z"
   },
   {
     "id": "workday:nvidia-JR2023850",
@@ -749,7 +767,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:57:16.919Z"
+    "scrapedAt": "2026-10-16T13:43:54.771Z"
   },
   {
     "id": "workday:nvidia-JR2026497",
@@ -763,7 +781,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:57:16.919Z"
+    "scrapedAt": "2026-10-16T13:43:54.771Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -777,21 +795,21 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:57:16.919Z"
+    "scrapedAt": "2026-10-16T13:43:54.771Z"
   },
   {
-    "id": "workday:salesforce-JR364390",
-    "externalId": "salesforce:JR364390",
+    "id": "workday:salesforce-JR362928",
+    "externalId": "salesforce:JR362928",
     "source": "workday",
-    "title": "Data Engineering MTS/SMTS - ETL",
+    "title": "Digital Success Analytics Engineer",
     "company": "Salesforce",
-    "location": "2 Locations",
+    "location": "Texas - Austin",
     "remote": false,
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Data-Engineering-MTS-SMTS---ETL_JR364390",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Austin/Digital-Success-Analytics-Engineer_JR362928-1",
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:57:16.919Z"
+    "scrapedAt": "2026-10-16T13:43:54.771Z"
   },
   {
     "id": "workday:salesforce-JR363793",
@@ -805,7 +823,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:57:16.919Z"
+    "scrapedAt": "2026-10-16T13:43:54.771Z"
   },
   {
     "id": "workday:salesforce-JR359930",
@@ -819,7 +837,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:57:16.919Z"
+    "scrapedAt": "2026-10-16T13:43:54.771Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -833,7 +851,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:57:16.919Z"
+    "scrapedAt": "2026-10-16T13:43:54.771Z"
   },
   {
     "id": "workday:adobe-R171875",
@@ -847,7 +865,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:57:16.919Z"
+    "scrapedAt": "2026-10-16T13:43:54.771Z"
   },
   {
     "id": "workday:adobe-R172115",
@@ -861,7 +879,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:57:16.919Z"
+    "scrapedAt": "2026-10-16T13:43:54.771Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -875,7 +893,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:57:16.919Z"
+    "scrapedAt": "2026-10-16T13:43:54.771Z"
   },
   {
     "id": "workday:autodesk-26WD101237",
@@ -889,7 +907,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:57:16.919Z"
+    "scrapedAt": "2026-10-16T13:43:54.771Z"
   },
   {
     "id": "workday:autodesk-26WD101542",
@@ -903,7 +921,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:57:16.919Z"
+    "scrapedAt": "2026-10-16T13:43:54.771Z"
   },
   {
     "id": "workday:autodesk-26WD100418",
@@ -917,7 +935,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:57:16.919Z"
+    "scrapedAt": "2026-10-16T13:43:54.771Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -931,7 +949,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:57:16.919Z"
+    "scrapedAt": "2026-10-16T13:43:54.771Z"
   },
   {
     "id": "workday:autodesk-26WD101381",
@@ -945,7 +963,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:57:16.919Z"
+    "scrapedAt": "2026-10-16T13:43:54.771Z"
   },
   {
     "id": "workday:autodesk-26WD98052",
@@ -959,7 +977,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:57:16.919Z"
+    "scrapedAt": "2026-10-16T13:43:54.771Z"
   },
   {
     "id": "workday:salesforce-JR361288",
@@ -973,21 +991,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:58:32.284Z"
-  },
-  {
-    "id": "workday:salesforce-JR353458",
-    "externalId": "salesforce:JR353458",
-    "source": "workday",
-    "title": "Senior Data Engineer",
-    "company": "Salesforce",
-    "location": "India - Hyderabad",
-    "remote": false,
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Data-Engineer_JR353458",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-10-16T07:58:32.284Z"
+    "scrapedAt": "2026-10-16T13:45:14.766Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -1001,7 +1005,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:58:32.284Z"
+    "scrapedAt": "2026-10-16T13:45:14.766Z"
   },
   {
     "id": "workday:salesforce-JR347388",
@@ -1015,6 +1019,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-16T07:59:07.578Z"
+    "scrapedAt": "2026-10-16T13:45:51.235Z"
   }
 ]
