@@ -1,5 +1,37 @@
 [
   {
+    "id": "arbeitnow:data-engineer-h-f-393580",
+    "externalId": "data-engineer-h-f-393580",
+    "source": "arbeitnow",
+    "title": "Data Engineer H/F",
+    "company": "capco",
+    "location": "Unknown",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/capco/data-engineer-h-f-393580",
+    "description": "<p></p>\n<p data-pm-slice=\"1 1 []\">Capco France recherche des <strong>Data Engineers</strong> pour accompagner les acteurs majeurs des services financiers dans la conception et la mise en œuvre de plateformes et solutions data modernes, robustes et évolutives.</p>\n<p>Au sein de notre Practice <strong>Data &amp; Analytics</strong>, vous interviendrez sur des projets de transformation à fort impact, de la conception des architectures et pipelines de données jusqu’à leur mise en production et leur optimisation.</p>\n<h2><strong>Ce que vous ferez</strong></h2>\n<p></p>\n<ul>\n<li>Concevoir, développer et maintenir des pipelines de données robustes et évolutifs permettant d’ingérer, transformer et mettre à disposition des données issues de sources multiples.</li>\n<li>Participer à la conception et à l’évolution d’architectures data modernes, notamment dans des environnements Cloud, en tenant compte des enjeux de performance, de sécurité et de scalabilité.</li>\n<li>Garantir la qualité, la fiabilité et l’observabilité des données grâce à des pratiques de tests, monitoring, documentation et automatisation.</li>\n<li>Collaborer avec les équipes Data, Cloud, Architecture et métiers afin de transformer les besoins fonctionnels en solutions techniques performantes et maintenables.</li>\n<li>Utiliser de manière responsable les outils d’IA et d’automatisation approuvés pour accélérer le développement, les tests, la documentation ou l’analyse des incidents, avec revue humaine et respect des standards de sécurité et de gouvernance</li>\n</ul>\n<p></p>\n<h2><strong>Ce que nous recherchons</strong></h2>\n<ul>\n<li>Une expérience significative en <strong>Data Engineering, minimum 5 ans</strong>, avec une bonne maîtrise de Python et SQL et une expérience dans la conception de pipelines de données.</li>\n<li>Une expérience des technologies et architectures data modernes, ainsi que d’au moins un environnement Cloud tel qu’AWS, Azure ou GCP.</li>\n<li>Une bonne compréhension des problématiques de modél…",
+    "tags": [
+      "Tech & Engineering"
+    ],
+    "postedAt": "2026-10-15T23:55:15.000Z",
+    "scrapedAt": "2026-10-16T02:57:55.330Z"
+  },
+  {
+    "id": "arbeitnow:finance-data-engineer-255524",
+    "externalId": "finance-data-engineer-255524",
+    "source": "arbeitnow",
+    "title": "Finance Data Engineer",
+    "company": "capco",
+    "location": "Unknown",
+    "remote": false,
+    "url": "https://www.arbeitnow.ch/jobs/companies/capco/finance-data-engineer-255524",
+    "description": "<p>&nbsp;</p>\n<p><em>Joining Capco means joining an organization that is committed to an inclusive working environment where you’re encouraged to #BeYourselfAtWork. We celebrate individuality and recognize that diversity and inclusion, in all forms, is critical to success. It’s important to us that we recruit and develop as diverse a range of talent as we can and we believe that everyone brings something different to the table – so we’d love to know what makes you different. Such differences may mean we need to make changes to our process to allow you the best possible platform to succeed, and we are happy to cater to any reasonable adjustments you may require. You will find the section to let us know of these at the bottom of your application form or you can mention it directly to your recruiter at any stage and they will be happy to help.</em></p>\n<p><strong>About Capco</strong></p>\n<p>Capco is a global technology and management consultancy dedicated to the financial services industry. We combine innovative thinking with unrivalled industry knowledge, to offer our clients consulting expertise, complex technology and package integration, transformation delivery and managed services to move their organizations forward.</p>\n<ul>\n<li>We specialize primarily in banking &amp; payments, capital markets, wealth &amp; asset management, insurance and energy</li>\n<li>We have a collaborative and efficient approach</li>\n<li>We help our clients successfully innovate, increase revenue, manage risk and regulatory change, reduce costs and enhance controls</li>\n<li>We serve our clients from 32 offices across the Americas, Europe, and Asia Pacific</li>\n</ul>\n<p>If creativity and innovation are your passion, then Capco is right for you. You can grow in an inclusive, diverse and collaborative environment. At Capco, we will train and support you to help accelerate your career.<span class=\"EOP SCXW202573807 BCX0\" data-ccp-props=\"{\"335551550\":6,\"335551620\":6}\">&nbsp;</span></p>\n<p>&nbsp…",
+    "tags": [
+      "Data & Analytics"
+    ],
+    "postedAt": "2026-10-15T23:55:15.000Z",
+    "scrapedAt": "2026-10-16T02:57:55.330Z"
+  },
+  {
     "id": "arbeitnow:principal-data-engineer-munich-63041",
     "externalId": "principal-data-engineer-munich-63041",
     "source": "arbeitnow",
@@ -16,26 +48,7 @@
     ],
     "jobType": "Unbefristeter arbeitsvertrag",
     "postedAt": "2026-10-15T21:30:47.000Z",
-    "scrapedAt": "2026-10-15T23:32:17.493Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-schwerpunkt-programmierung-datenpipelines-bonn-310147",
-    "externalId": "data-engineer-schwerpunkt-programmierung-datenpipelines-bonn-310147",
-    "source": "arbeitnow",
-    "title": "Data Engineer – Schwerpunkt Programmierung & Datenpipelines*",
-    "company": "Haeger Consulting GmbH",
-    "location": "Bonn",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/haeger-consulting-gmbh/data-engineer-schwerpunkt-programmierung-datenpipelines-bonn-310147",
-    "description": "Was dich erwartet\n Du liebst es, Daten zum Fließen zu bringen, große Datenmengen performant zu verarbeiten und saubere Pipelines zu bauen? Dein Schwerpunkt liegt klar auf Entwicklung und Datenverarbeitung? Dann bist du hier richtig.\n Du arbeitest im Consulting-Umfeld und entwickelst für unterschiedliche Kunden immer wieder neue, abwechslungsreiche Datenlösungen.\n Du entwickelst skalierbare ETL/ELT-Datenpipelines für Batch- und Streaming-Verarbeitung und arbeitest mit Spark / PySpark, Python und SQL.\n Du implementierst Datenmodelle nach Kimball, Data Vault oder Lakehouse-Prinzipien.\n Du transformierst, normalisierst und denormalisierst Daten aus verschiedenen Quellsystemen.\n Du orchestrierst Datenpipelines mit Airflow oder vergleichbaren Tools und arbeitest mit Databricks, Snowflake oder ähnlichen Plattformen.\n Du unterstützt Datenanalyse- und Machine-Learning-Pipelines.\n Du sorgst für Qualität durch Testing, Dokumentation und CI/CD.\n Was du mitbringst\n Du bringst mehrjährige Berufserfahrung in den oben genannten Themen mit und hast sehr gute SQL-Kenntnisse sowie sehr gute Kenntnisse in Spark / PySpark.\n Du arbeitest sicher mit Python, hast Erfahrung mit dbt und Airflow oder vergleichbaren Orchestrierungstools.\n Du bist sicher im Umgang mit Snowflake und/oder Databricks und erfahren in Datenmodellierung (dimensionale Modellierung, Data Vault, Normalisierung & Denormalisierung).\n Du denkst analytisch und hast Freude daran, komplexe Datenprobleme sauber zu lösen.\n Erfahrung in Datenmodellierung (dimensionale Modellierung, Data Vault, Normalisierung & Denormalisierung)\n Du denkst analytisch und hast Freude daran, komplexe Datenprobleme sauber zu lösen.\n Du arbeitest selbstorganisiert und behältst auch in mehreren Kundenprojekten den Überblick.\n Du hast Lust auf Consulting und wechselnde, spannende Projekte.\n Du kommunizierst offen und konstruktiv und schätzt offenes Feedback.\n Worauf du dich freuen kannst - unsere Benefits\n Spannende Projekte: Du arbeitest an vielseiti…",
-    "tags": [
-      "Software Development",
-      "Unbefristeter arbeitsvertrag",
-      "berufserfahren"
-    ],
-    "jobType": "Unbefristeter arbeitsvertrag",
-    "postedAt": "2026-10-15T21:01:22.000Z",
-    "scrapedAt": "2026-10-15T23:32:17.493Z"
+    "scrapedAt": "2026-10-16T02:57:55.330Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-revenue-purchase-order-amsterdam-499404",
@@ -51,7 +64,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-15T20:55:14.000Z",
-    "scrapedAt": "2026-10-15T23:32:17.493Z"
+    "scrapedAt": "2026-10-16T02:57:55.330Z"
   },
   {
     "id": "jobicy:155397",
@@ -70,7 +83,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-10-15T16:45:41.000Z",
-    "scrapedAt": "2026-10-15T23:32:17.615Z"
+    "scrapedAt": "2026-10-16T02:57:55.475Z"
   },
   {
     "id": "arbeitnow:team-lead-data-engineering-amsterdam-286359",
@@ -88,7 +101,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-10-15T11:40:41.000Z",
-    "scrapedAt": "2026-10-15T23:32:17.493Z"
+    "scrapedAt": "2026-10-16T02:57:55.330Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -104,7 +117,7 @@
       "ML & Search"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-15T23:32:18.175Z"
+    "scrapedAt": "2026-10-16T02:57:56.021Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -120,7 +133,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-10-15T23:32:18.175Z"
+    "scrapedAt": "2026-10-16T02:57:56.021Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -136,7 +149,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-10-15T23:32:18.175Z"
+    "scrapedAt": "2026-10-16T02:57:56.021Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -152,22 +165,6 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-15T23:32:18.175Z"
-  },
-  {
-    "id": "greenhouse:block-5442647008",
-    "externalId": "block:5442647008",
-    "source": "greenhouse",
-    "title": "Senior Data Engineer, Product",
-    "company": "Block",
-    "location": "Bay Area, CA, United States of America",
-    "remote": false,
-    "url": "http://block.xyz/careers/jobs/5442647008?gh_jid=5442647008",
-    "description": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.\nToday, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.\n The Role\n As a Data Engineer, you will handle everything from data architecture and modeling to data pipeline tooling and dashboarding. You will enable a range of other engineering and business teams to make impactful business decisions by laying the foundation of our large and unique datasets that span across multiple products. This role will support the product data engineering team.\n The Product Data Engineering Team at Block builds and maintains the curated data foundation that powers all of Block's product lines — Cash App, Square, Afterpay, and Tidal. We transform raw event streams, transactional systems, and operational data into governed, tested, and reliable analytical assets across domains including banking, lending, commerce, investing, checkout, and AI assistants. We partner with Product, Engineering, Data Science, Machine Learning, and Applied AI teams to deliver the metrics, experimentation frameworks, and ML-ready datasets that enable Block's products to grow, improve, and serve customers at scale.\n You Will\n Lead the creation and optimization of data models…",
-    "tags": [
-      "10418 Engineering - Data & Data Science"
-    ],
-    "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-10-15T23:32:18.175Z"
+    "scrapedAt": "2026-10-16T02:57:56.021Z"
   }
 ]
