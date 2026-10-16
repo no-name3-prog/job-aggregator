@@ -1,5 +1,60 @@
 [
   {
+    "id": "arbeitnow:remote-senior-analytics-engineer-83455",
+    "externalId": "remote-senior-analytics-engineer-83455",
+    "source": "arbeitnow",
+    "title": "Senior Analytics Engineer",
+    "company": "SoSafe",
+    "location": "United Kingdom Remote",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/remote-senior-analytics-engineer-83455",
+    "description": "SoSafe has the ambition to become the leading human risk management provider in Europe. Our award-winning awareness platform triggers behavioural change by providing effective and engaging training and simulations on cybersecurity and data protection. Cybercrime is costing the world >$10 trillion annually and growing by 15% p.a. - we invite you to be part of the solution!\"\n Location:\n UK, Ireland, or Portugal. Candidates must have work authorization in one of these countries. Office access available in London, Dublin, and Lisbon.\n Here's how you'll make a difference:\n Own the transformation layer in dbt - design, build, and maintain modular, well-tested data models that define how data is structured and consumed across the company.\n Define and implement core business metrics (e.g. activation, engagement, retention) as reusable, versioned data assets- ensuring consistent definitions across analytics, product, and AI use cases.\n Model complex SaaS data by integrating product events, CRM (Salesforce), and support data into clean, well-defined fact and dimension models.\n Build and evolve our semantic layer - creating a reliable abstraction over our data that enables consistent KPI definitions and supports downstream consumers, including LLM-based analytics agents.\n Collaborate with Data Engineers on upstream data contracts and event schemas - ensuring raw data is structured in a way that supports scalable, reliable analytics.\n Establish and enforce best practices in testing, documentation, and data quality- making these part of the standard development lifecycle.\n Document models, metrics, and lineage clearly - enabling self-service and reducing ambiguity across teams.\n What you bring:\n 5+ years in analytics engineering or data engineering with a strong focus on data modeling\n Strong proficiency in dbt and SQL- building modular, well-tested models\n Solid understanding of dimensional modeling and metric design\n Experience working with cloud data warehouses (BigQuery, Sn…",
+    "tags": [
+      "Development",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-10-16T05:40:18.000Z",
+    "scrapedAt": "2026-10-16T07:57:08.799Z"
+  },
+  {
+    "id": "jobicy:150666",
+    "externalId": "150666",
+    "source": "jobicy",
+    "title": "Data Engineer, Product Analytics",
+    "company": "Meta",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/750f86a9-221.jpeg",
+    "location": "USA",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/150666-data-engineer-product-analytics",
+    "description": "As a Data Engineer at Meta , you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Reality Labs, Threads). Your technical skills and analytical mindset will be utilized designing and building some of the world's most extensive data sets, helping to craft experiences for billions of people and hundreds of millions of businesses worldwide.In this role, you will collaborate with software engineering, data science, and product management teams to design/build scalable data solutions across Meta to optimize growth, strategy, and user experience for our 3 billion plus users, as well as our internal employee community.You will be at the forefront of identifying and solving some of the most interesting data challenges at a scale few companies can match. By joining Meta, you will become part of a world-class data engineering community dedicated to skill development and career growth in data engineering and beyond.Data Engineering: You will guide teams by building optimal data artifacts (including datasets and visualizations) to address key questions. You will refine our systems, design logging solutions, and create scalable data models. Ensuring data security and quality, and with a strong focus on efficiency, you will suggest architecture and development approaches and data management standards to address complex analytical problems.Product leadership: You will use data to shape product development, identify new opportunities, and tackle upcoming challenges. You'll ensure our products add value for users and businesses, by prioritizing projects, and driving innovative solutions to respond to challenges or opportunities.Communication and influence: You won't simply present data, but tell data-driven stories. You will convince and influence your partners using clear insights and recommendations. You will build credibility through structure and clarity, and be a trus…",
+    "tags": [
+      "Data Science & Analytics",
+      "Senior"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-10-16T02:45:16.000Z",
+    "scrapedAt": "2026-10-16T07:57:08.918Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-amsterdam-62897",
+    "externalId": "senior-data-engineer-amsterdam-62897",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer",
+    "company": "Wypoon",
+    "location": "Amsterdam",
+    "remote": false,
+    "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/senior-data-engineer-amsterdam-62897",
+    "description": "Are you a Data Engineer who thrives on building robust, scalable, and secure data platforms in the cloud? Join the Data Chapter at Wypoon Technologies , where we match top-tier engineering talent with impactful opportunities across the Netherlands. You’ll help design and deliver end-to-end data solutions for leading organizations, working with cutting-edge technologies across Azure, GCP and hybrid environments.\n From building real-time streaming pipelines to implementing modern lakehouse architectures , your expertise will directly contribute to data-driven innovation in sectors like f inance , ecommerce, energy , logistics , and technology . Whether you’re passionate about big data processing, cloud infrastructure, or data automation, our goal is to connect you with projects that match your skills and ambitions.\n Why Join Us?\n At Wypoon Technologies, you’ll work on dynamic projects for industry leaders such as Heineken, ING, ASML, Philips, and Shell , tackling exciting challenges and delivering tailored enterprise solutions.\n Here’s what makes us stand out:\n ✔ Impactful Work : Shape the future of our clients’ digital landscapes.\n ✔ Innovative Environment : Collaborate within a supportive team that values learning and growth.\n ✔ State-of-the-art technology : Access the latest tools and platforms.\n Key Responsibilities\n Design, build, and maintain scalable data pipelines and workflows using Python, SQL, Airflow, and dbt .\n Develop cloud-based data solutions, primarily in GCP , while working with modern data architectures and modeling practices.\n Design technical architectures and translate business and product needs into scalable technical solutions .\n Develop clean, maintainable, and testable code using strong engineering and testing practices.\n Collaborate closely with product, data, engineering, and business stakeholders to define requirements and coordinate technical topics.\n Take ownership of solutions while aligning with technical peers and proactively contrib…",
+    "tags": [
+      "Data Engineer",
+      "Permanent"
+    ],
+    "jobType": "Permanent",
+    "postedAt": "2026-10-16T02:30:19.000Z",
+    "scrapedAt": "2026-10-16T07:57:08.799Z"
+  },
+  {
     "id": "arbeitnow:data-engineer-h-f-393580",
     "externalId": "data-engineer-h-f-393580",
     "source": "arbeitnow",
@@ -13,7 +68,7 @@
       "Tech & Engineering"
     ],
     "postedAt": "2026-10-15T23:55:15.000Z",
-    "scrapedAt": "2026-10-16T02:57:55.330Z"
+    "scrapedAt": "2026-10-16T07:57:08.799Z"
   },
   {
     "id": "arbeitnow:finance-data-engineer-255524",
@@ -29,26 +84,7 @@
       "Data & Analytics"
     ],
     "postedAt": "2026-10-15T23:55:15.000Z",
-    "scrapedAt": "2026-10-16T02:57:55.330Z"
-  },
-  {
-    "id": "arbeitnow:principal-data-engineer-munich-63041",
-    "externalId": "principal-data-engineer-munich-63041",
-    "source": "arbeitnow",
-    "title": "Principal Data Engineer (m/w/d)",
-    "company": "Alexander Thamm GmbH",
-    "location": "Munich",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-data-engineer-munich-63041",
-    "description": "Startdatum\n Wir suchen Dich ab sofort an einem unserer deutschen Standorte in München, Nürnberg, Essen, Leipzig, Berlin oder Frankfurt am Main !\n Deine Aufgaben\n Data und AI sind Dein zu Hause? Des Weiteren gestaltet sich Deine neue Herausforderung wie folgt:\n Konzeptionierung und Aufbau von Big Data / Analytics / AI Plattformen, inklusive DevOps workflows, IaC, CI/CD, IAM und Monitoring & Alerting\n Konzeption, Entwicklung und Skalierung von Daten-Pipelines auf verschiedenen Cloud-Architekturen unter Einbezug von Datenqualitätsmaßnahmen sowie der Entwurf und Umsetzung von Datenmodellen\n Operationalisierung von statistischen und KI-Modellen sowie Ergebnissen der Data Scientists, um diese zur produktiven Nutzung zur Verfügung zu stellen bzw. zu automatisieren\n Auswahl und Beratung von Kunden zu Vor- und Nachteilen verschiedener Technologie-Stacks, passend zu den Use Cases und dem Umfeld im Unternehmen\n Übernahme einer führenden Rolle in der Kundenkommunikation und Leitung von Engineering-Projekten mit fachlicher Verantwortung für ein Entwicklerteam und die Projektergebnisse\n Aufbau von Data Engineering Expertise im Unternehmen z.B. durch das Halten von internen Schulungen, Leiten von internen Projekten und aktive Teilnahme in der Engineering Community\n Dein Profil\n Data ist auch in Deiner DNA? Das solltest Du mitbringen:\n Erfolgreich abgeschlossenes Studium der Informatik, Computer Science, Data Engineering oder einem anderen mathematisch/ naturwissenschaftlichem Feld oder eine vergleichbare Qualifikation\n Starke Kommunikationsfähigkeit (fließend) auf Deutsch und Englisch sowie Reisebereitschaft im Rahmen einer Consulting Tätigkeit\n Mindestens 6 Jahre Vollzeit Berufserfahrung als Data Engineer in der Konzeption & Implementierung von Datenplattformen und Data Management Prozessen oder in ähnlichem Berufsfeld\n Mindestens 5 Jahre praktische Anwendung von gängigen Programmsprachen wie z.B. Python, Scala, SQL und Entwickler Tools wie bspw. GIT\n Mindestens 4 Jahre Umsetzun…",
-    "tags": [
-      "Software Development",
-      "Unbefristeter arbeitsvertrag",
-      "berufserfahren"
-    ],
-    "jobType": "Unbefristeter arbeitsvertrag",
-    "postedAt": "2026-10-15T21:30:47.000Z",
-    "scrapedAt": "2026-10-16T02:57:55.330Z"
+    "scrapedAt": "2026-10-16T07:57:08.799Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-revenue-purchase-order-amsterdam-499404",
@@ -64,26 +100,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-15T20:55:14.000Z",
-    "scrapedAt": "2026-10-16T02:57:55.330Z"
-  },
-  {
-    "id": "jobicy:155397",
-    "externalId": "155397",
-    "source": "jobicy",
-    "title": "Senior Analytics Engineer",
-    "company": "Paddle",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/08/28ca3645-221.png",
-    "location": "Ireland,  Portugal,  UK",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/155397-senior-analytics-engineer-3",
-    "description": "What do we do?\n Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payment fragmentation. It’s faster, safer, cheaper, and, above all, way better.\n We’re backed by investors including KKR, FTV Capital, Kindred, Notion, and 83North and serve over 10,000 software sellers in 245 territories globally.\n The Role:\n We are seeking a Senior Analytics Engineer to drive significant business impact by shaping our data infrastructure, developing robust data models, and promoting best practices in analytics engineering (e.g., data quality, documentation, and scalable data architectures). You will collaborate closely with business stakeholders to identify and deliver high-value data solutions and provide informal mentorship to junior team members, fostering their growth and enhancing team capabilities.\n What you'll do:\n Create and maintain complex, scalable data models in Snowflake using dbt.\n Expose datasets effectively in BI tooling to enable robust self-service analytics.\n Perform simple data ingestion tasks using no-code tools and ensure streamlined data flows.\n Add comprehensive metadata to datasets, including documentation, data quality checks, and sensitive data masking.\n Activate data by pushing it from Snowflake into other operational tools.\n Proactively identify and raise data quality issues to the respective process owners for resolution.\n Lead training sessions and initiatives to drive adoption and effective use of BI tools across the organization.\n Mentor junior analytics engineers, fostering knowledge-sharing and professional growth.\n We'd love to hear from you if you:\n Extensive experience in analytics engineering or related data roles, with demonstrated expertise in advanced SQL, dbt, and Snowflake.\n Proficient in using BI tools (…",
-    "tags": [
-      "Data Science & Analytics",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-10-15T16:45:41.000Z",
-    "scrapedAt": "2026-10-16T02:57:55.475Z"
+    "scrapedAt": "2026-10-16T07:57:08.799Z"
   },
   {
     "id": "arbeitnow:team-lead-data-engineering-amsterdam-286359",
@@ -101,7 +118,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-10-15T11:40:41.000Z",
-    "scrapedAt": "2026-10-16T02:57:55.330Z"
+    "scrapedAt": "2026-10-16T07:57:08.799Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -117,7 +134,7 @@
       "ML & Search"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-16T02:57:56.021Z"
+    "scrapedAt": "2026-10-16T07:57:09.393Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -133,7 +150,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-10-16T02:57:56.021Z"
+    "scrapedAt": "2026-10-16T07:57:09.393Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -149,22 +166,6 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-10-16T02:57:56.021Z"
-  },
-  {
-    "id": "greenhouse:anthropic-5448481008",
-    "externalId": "anthropic:5448481008",
-    "source": "greenhouse",
-    "title": "Data Engineer, Product",
-    "company": "Anthropic",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "remote": false,
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448481008",
-    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\nAs a Data Engineer on the Data Science & Analytics team, you'll build the foundation that lets analytics scale across Anthropic. You'll partner with Engineering, Product and other teams to turn raw data into reliable metrics, reporting and insights, and you'll make sure teams have accurate metrics for our consumer products from idea to launch. You'll also lead your own projects that make self-serve insights possible, so teams can make data-driven decisions.\n Responsibilities\n Understand, and where possible anticipate, the data needs of partner teams, and translate them into data models, reporting and technical requirements\n Define, build and manage key dbt pipelines that turn raw logs into canonical datasets\n Set data integrity standards and SLAs so data is delivered on time and accurately\n Build reliable dashboards that track core metrics and share insights across the company\n Build foundational data products, dashboards and tools that let self-serve analytics scale\n Partner with stakeholders to define and materialize metrics and analysis for new and evolving consumer products\n Shape Product teams' roadmaps from a data systems perspective\n Become an expert in our data models and data architecture\n You may be a good fit if you have\n Significant experience as a Data Engineer or in a similar Data Science & Analytics role, ideally partnering with Product leads to build and report on company-wide metrics\n A passion for Anthropic's mission of building helpful, honest and harmless AI\n Expertise building multi-step ETL jobs with tools like dbt, plus experience with workflow tools like Airflow and version control through Git…",
-    "tags": [
-      "Data Science & Analytics"
-    ],
-    "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-16T02:57:56.021Z"
+    "scrapedAt": "2026-10-16T07:57:09.393Z"
   }
 ]
