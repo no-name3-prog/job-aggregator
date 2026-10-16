@@ -1,17 +1,19 @@
 [
   {
     "company": "Salesforce",
-    "jobCount": 7,
+    "jobCount": 8,
     "sources": [
       "workday"
     ],
     "locations": [
+      "India - Hyderabad",
       "Texas - Austin",
       "Mexico - Mexico City",
       "Ireland - Dublin",
       "4 Locations"
     ],
     "sampleTitles": [
+      "Data Engineering SMTS/LMTS- Revenue Analytics",
       "Digital Success Analytics Engineer",
       "Data Engineer Senior",
       "Data Engineering Senior Associate- Finance",
@@ -21,11 +23,11 @@
       "Data Engineer (SMTS / LMTS) - MDM"
     ],
     "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Data-Engineering-SMTS-LMTS--Revenue-Analytics_JR364686",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Austin/Digital-Success-Analytics-Engineer_JR362928-1",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR363793",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Director--Data-Engineering---Slack_JR361288-1"
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657"
     ]
   },
   {
@@ -199,6 +201,25 @@
     ]
   },
   {
+    "company": "Airbnb",
+    "jobCount": 2,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "San Francisco, CA",
+      "United States"
+    ],
+    "sampleTitles": [
+      "Staff Data Engineer, Tech Foundations",
+      "Senior Staff Data Engineer, Foundational Data"
+    ],
+    "officialUrls": [
+      "https://careers.airbnb.com/positions/8284841?gh_jid=8284841",
+      "https://careers.airbnb.com/positions/8224032?gh_jid=8224032"
+    ]
+  },
+  {
     "company": "Brex",
     "jobCount": 2,
     "sources": [
@@ -293,19 +314,19 @@
     ]
   },
   {
-    "company": "Airbnb",
+    "company": "Agilerobotsse",
     "jobCount": 1,
     "sources": [
-      "greenhouse"
+      "arbeitnow"
     ],
     "locations": [
-      "United States"
+      "Munich, Bavaria"
     ],
     "sampleTitles": [
-      "Senior Staff Data Engineer, Foundational Data"
+      "Robotics Data Engineer (m/f/d) Data Generation & Curation"
     ],
     "officialUrls": [
-      "https://careers.airbnb.com/positions/8224032?gh_jid=8224032"
+      "https://www.arbeitnow.com/jobs/companies/agilerobotsse/robotics-data-engineer-data-generation-curation-munich-bavaria-57898"
     ]
   },
   {
@@ -402,22 +423,6 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
-    ]
-  },
-  {
-    "company": "Meta",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "USA"
-    ],
-    "sampleTitles": [
-      "Data Engineer, Product Analytics"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/150666-data-engineer-product-analytics"
     ]
   },
   {
