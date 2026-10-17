@@ -1,5 +1,23 @@
 [
   {
+    "id": "arbeitnow:senior-data-engineer-london-213866",
+    "externalId": "senior-data-engineer-london-213866",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer",
+    "company": "Xyz Reality",
+    "location": "London Office",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/xyz-reality/senior-data-engineer-london-213866",
+    "description": "About Us\nAt XYZ Reality, we are an award-winning Series B business scaling across the UK, US and Europe. Our mission is to expand our platform, enhancing features, performance, and scalability while revolutionizing the construction industry.\nWe are a multi-disciplinary, fast-paced company working across diverse domains, including cloud development, data governance and processing pipelines, electronics, embedded software/hardware, mechanical design/manufacturing, AI & computer vision, and data science, all powering our BIM Platform.\nTo drive this mission, we are seeking a Data Engineer experienced in data modelling, databases and data pipelines to support our existing tech stack as well as developing new features with performance, scalability in mind. You will work closely with our API/backend development and data pipeline team to create robust and efficient solutions.\n Responsibilities\n · Design, develop and maintain Python data pipelines.\n · Develop SQL queries and procedures to be used by data pipeline and API services.\n · Debug, maintain and improve our existing codebase.\n · Develop and execute unit tests and integration tests to ensure software reliability.\n · Conduct performance profiling and stress testing to optimize system responsiveness.\n · Maintain clear, structured documentation for data models and ETL/ELT pipelines and codebases.\n · Collaborate closely with cross-functional teams, including client applications and cloud teams.\n · Stay adaptable, learning new technologies and contributing to various technical areas as needed.\n Required Skills & Experience\n · Bachelor’s degree in computer science or a related field or equivalent proven experience in database and data pipeline development.\n · Hands-on experience with code-driven data orchestration tools.\n · Solid experience with relational databases and SQL.\n · Strong Python language and OOP skills.\n · Experience in data modelling for both transactional systems and analytical systems.\n · Strong debugging,…",
+    "tags": [
+      "Platform",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-10-17T05:40:30.000Z",
+    "scrapedAt": "2026-10-17T07:29:15.927Z"
+  },
+  {
     "id": "arbeitnow:data-engineer-data-platform-ontology-hamburg-or-berlin-119444",
     "externalId": "data-engineer-data-platform-ontology-hamburg-or-berlin-119444",
     "source": "arbeitnow",
@@ -15,7 +33,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-10-16T23:40:22.000Z",
-    "scrapedAt": "2026-10-17T02:48:59.095Z"
+    "scrapedAt": "2026-10-17T07:29:15.927Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-document-ai-pipelines-berlin-415387",
@@ -37,26 +55,7 @@
     ],
     "jobType": "Fixed-term contract",
     "postedAt": "2026-10-16T23:00:34.000Z",
-    "scrapedAt": "2026-10-17T02:48:59.095Z"
-  },
-  {
-    "id": "jobicy:155537",
-    "externalId": "155537",
-    "source": "jobicy",
-    "title": "Analytics Engineer",
-    "company": "Pleo",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/b27fbed2-221.jpg",
-    "location": "Denmark,  Portugal,  Spain,  UK",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/155537-analytics-engineer-4",
-    "description": "About Pleo\n Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses ‘go beyond’.\n The word ‘Pleo’ actually means ‘more than you’d expect’, and living by that mantra has been the secret to our success over the last 10 years.\n Now, we’re at a pivotal moment in our journey; every move we make has a direct impact on our 40,000+ customers, our business, and our collective success. We need people who take pride in uncovering customer needs, who turn complex problems into simple solutions, challenge the way things are done (respectfully), and always aim high. With great ambitions driving us forward, we can’t say we’ve got this whole thing figured out. And frankly, that’s half the fun! What we can say is that we’re a driven, progressive, and, importantly, a kind bunch of 850+ people from over 100 nationalities, all committed to delivering the future of business spending, together.\n About the role\n Pleo's Intelligence function covers the full analytical picture - product behaviour, GTM performance, commercial data science, financial reporting, and operational intelligence. The Analytics Engineers who serve these teams own the data modelling layer that all of it runs on: dbt models, metric definitions, and semantic layer contributions that analysts, product teams, and AI tools depend on to get consistent, trustworthy answers.\n You'll be embedded in the Product Intelligence team, building the tracking, experimentation, and data modelling foundations that make product data trustworthy and self-serve. You'll join a close-knit team actively migrating our analytics stack onto a new Analytics Warehouse and Omni, moving off legacy tools like Looker and Hippocampus. If you want to build the infrastructure that…",
-    "tags": [
-      "Data Science & Analytics",
-      "Director"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-10-16T18:32:30.000Z",
-    "scrapedAt": "2026-10-17T02:48:59.206Z"
+    "scrapedAt": "2026-10-17T07:29:15.927Z"
   },
   {
     "id": "greenhouse:airbnb-8284841",
@@ -72,7 +71,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-10-16T16:32:46.000Z",
-    "scrapedAt": "2026-10-17T02:48:59.713Z"
+    "scrapedAt": "2026-10-17T07:29:16.561Z"
   },
   {
     "id": "arbeitnow:remote-senior-scientific-data-engineer-switzerland-5487",
@@ -92,7 +91,7 @@
     ],
     "jobType": "Full time",
     "postedAt": "2026-10-16T11:20:05.000Z",
-    "scrapedAt": "2026-10-17T02:48:59.095Z"
+    "scrapedAt": "2026-10-17T07:29:15.927Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-amsterdam-62897",
@@ -110,7 +109,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-10-16T02:30:19.000Z",
-    "scrapedAt": "2026-10-17T02:48:59.095Z"
+    "scrapedAt": "2026-10-17T07:29:15.927Z"
   },
   {
     "id": "arbeitnow:finance-data-engineer-255524",
@@ -126,7 +125,7 @@
       "Data & Analytics"
     ],
     "postedAt": "2026-10-15T23:55:15.000Z",
-    "scrapedAt": "2026-10-17T02:48:59.095Z"
+    "scrapedAt": "2026-10-17T07:29:15.927Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-revenue-purchase-order-amsterdam-499404",
@@ -142,7 +141,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-15T20:55:14.000Z",
-    "scrapedAt": "2026-10-17T02:48:59.095Z"
+    "scrapedAt": "2026-10-17T07:29:15.927Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -158,7 +157,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-17T02:48:59.713Z"
+    "scrapedAt": "2026-10-17T07:29:16.561Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -174,6 +173,6 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-10-17T02:48:59.713Z"
+    "scrapedAt": "2026-10-17T07:29:16.561Z"
   }
 ]
