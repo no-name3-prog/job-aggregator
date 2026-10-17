@@ -1,17 +1,43 @@
 [
   {
-    "id": "arbeitnow:analytics-engineer-bi-platform-london-467029",
-    "externalId": "analytics-engineer-bi-platform-london-467029",
+    "id": "arbeitnow:data-engineer-data-platform-ontology-hamburg-or-berlin-119444",
+    "externalId": "data-engineer-data-platform-ontology-hamburg-or-berlin-119444",
     "source": "arbeitnow",
-    "title": "Analytics Engineer – BI Platform",
-    "company": "Deliveroo",
-    "location": "London, England, United Kingdom",
+    "title": "Data Engineer - Data Platform & Ontology (m/f/d)",
+    "company": "Statista",
+    "location": "Hamburg or Berlin",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/analytics-engineer-bi-platform-london-467029",
-    "description": "Our Global Structure\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.\n Join us in our mission to transform the way people shop and eat, where impact, innovation and growth drive everything we do. Our Engineering teams tackle complex technical challenges across a global, three-sided marketplace, building and scaling systems that serve millions of customers, riders and partners every day.\n From real-time logistics to resilient infrastructure and marketplace optimisation, we design, build and operate technology that powers Deliveroo's growth at scale.\n We're looking for a BI Engineer to join our London team. This role is based in our London office with a hybrid setup, typically 3 days in the office.\n Get to know our Engineering team — what drives us, how we work, and what you can expect.\n About the Team\n The Core BI team builds and operates the services, integrations and automation that power business intelligence across DoorDash, Deliveroo and Wolt. Our platforms help analysts, Analytics Engineers, Data Scientists, Software Engineers and business teams discover trusted data and make informed decisions at scale.\n We combine software engineering, platform ownership, and a strong user focus to make BI tooling reliable, secure, scalable and self-service. The team supports the current BI ecosystem while helping shape a more integrated experience across the DoorDash group.\n About the Role\n As a BI Engineer on the Core BI team, you will build and operate the models, systems and automation behind our BI platforms. This will include supporting our extensive user base on our current BI stack (primarily Looker and Sigma) while helping shape a single, more integrated BI platform across DoorDash, Deliveroo and Wolt.\n You will own problems from discovery thr…",
-    "tags": [],
-    "postedAt": "2026-10-16T21:45:23.000Z",
-    "scrapedAt": "2026-10-16T23:14:34.768Z"
+    "url": "https://www.arbeitnow.com/jobs/companies/statista/data-engineer-data-platform-ontology-hamburg-or-berlin-119444",
+    "description": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions.\n Founded in Hamburg in 2007, we have quickly grown into a global company with offices in major cities such as London, New York, Berlin and Tokyo. And we still have a lot of plans. Our constant growth does not only prove our success, but also keeps creating new development and career opportunities for our employees.\n We value and celebrate our diverse culture. You are welcome here for who you are, no matter where you come from, what you look like, or whether you prefer bar graphs to pie charts. Your story matters – keep writing it as part of our team.\n Are you ready to join us?\n About the Role\n As Data Engineer on our Healthcare Platform, you will own the foundational data ingestion, entity-resolution, and platform infrastructure end-to-end. You will design and operate scalable batch/streaming data pipelines, harden platform orchestration, and ensure system reliability, security, and cost efficiency.\n A central challenge of this role is building and operationalizing our unified healthcare data ontology —a consistent semantic model covering hospitals, departments, specialties, metrics, and classification standards. Working closely with Analytics Engineers, Data Scientists, and Methodology experts, you will turn heterogeneous, multi-country hospital data into a coherent, highly queryable data asset.\n Key Responsibilities\n Pipeline Infrastructure & Orchestration: Build, optimize, and operate reliable ELT pipelines (using Python, SQL, and Prefect/Airflow) to ingest data from heterogeneous international sources, APIs, databases, and lakehouse storage (S3, Apache Iceberg).\n Healthcare Ontology & Entity Resolution: Drive the implementation of entity resolution and master data management (MDM) for international hospital…",
+    "tags": [
+      "Healthcare",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-10-16T23:40:22.000Z",
+    "scrapedAt": "2026-10-17T02:48:59.095Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-document-ai-pipelines-berlin-415387",
+    "externalId": "senior-data-engineer-document-ai-pipelines-berlin-415387",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer — Document & AI Pipelines",
+    "company": "Tracium GmbH",
+    "location": "Berlin",
+    "remote": true,
+    "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/senior-data-engineer-document-ai-pipelines-berlin-415387",
+    "description": "About Tracium Tracium builds AI-assisted technical documentation software that turns complex manuals and engineering documents into structured, traceable information. Starting with maritime, we help technical teams extract maintenance information and create documentation through document intelligence and S1000D authoring.\n Your role You will build the data foundation connecting source documents, AI processing, human review, and downstream systems. Your focus will be reliable processing, clear data models, and traceability throughout the document lifecycle.\n What you’ll do Design document ingestion and processing pipelines for PDFs, XML, and related technical data.\n Build workflows for parsing, enrichment, validation, indexing, and export.\n Define data models for document structure, extracted entities, maintenance tasks, and source references.\n Implement document versioning, processing history, and reproducible reprocessing.\n Make pipelines resilient through retries, monitoring, automated checks, and clear failure handling.\n Work with AI engineers to productionise extraction and retrieval workflows.\n Support integrations with authoring tools, customer APIs, and ERP systems.\n What you bring Experience designing and operating production data pipelines.\n Strong Python, SQL, and data modelling skills.\n Experience with workflow orchestration, asynchronous processing, and object storage.\n A practical approach to testing, observability, and data quality.\n Experience with cloud infrastructure, containers, and infrastructure as code.\n The ability to take ownership from initial design through production support.\n Clear communication in English.\n Useful additional experience Document processing, XML.\n Search indexes, vector databases, or AI data pipelines.\n Multi-tenant platforms and private deployment environments.\n Why join Tracium? Own the data architecture of a growing product and help make complex technical information dependable, searchable, and usable.\n Apply Send your…",
+    "tags": [
+      "Remote",
+      "Data Processing",
+      "Data Engineer",
+      "Fixed-term contract",
+      "contract",
+      "professional / experienced"
+    ],
+    "jobType": "Fixed-term contract",
+    "postedAt": "2026-10-16T23:00:34.000Z",
+    "scrapedAt": "2026-10-17T02:48:59.095Z"
   },
   {
     "id": "jobicy:155537",
@@ -30,23 +56,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-10-16T18:32:30.000Z",
-    "scrapedAt": "2026-10-16T23:14:34.856Z"
-  },
-  {
-    "id": "arbeitnow:data-analytics-engineering-lead-sydney-australia-16290",
-    "externalId": "data-analytics-engineering-lead-sydney-australia-16290",
-    "source": "arbeitnow",
-    "title": "Data Analytics Engineering Lead",
-    "company": "Hipagesgroup",
-    "location": "Sydney, Australia",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/hipagesgroup/data-analytics-engineering-lead-sydney-australia-16290",
-    "description": "<div>\n<p>Hi! We’re hipages, an ASX-listed tech company and Australia’s #1 digital platform connecting households with trusted home improvement businesses. We're on a mission to transform the home improvement industry to build better lives for everyone.</p>\n<p>With teams across Australia, New Zealand, the Philippines and Vietnam, we work as one team with a shared purpose. We’re proud to be a certified <strong>Great Place to Work</strong> and <strong>WORK180’s #1 Employer for Women</strong>. At hipages, you’ll find real impact, career growth and a workplace where everyone belongs.</p>\n<p>&nbsp;</p>\n<p><strong>About the role:</strong></p>\n<p>You'll play a crucial role in supporting the hipages marketplace by developing our analytics engineering capabilities. Working alongside a talented data team to create immense value for the business and contribute to the development and execution of hipages' commercial strategy.</p>\n<p>Your experience and expertise will help us discover new ways of operating in the world of data modelling and business intelligence. You'll design and support the deployment of end-to-end data models, data products as well as develop and maintain internal analytics capabilities within our data platform.</p>\n<p>This role is vital in scaling our current data architecture and capabilities on DBT, Databricks and Tableau to enable self-service analytics. This role will be reporting into the Head of Commercial and Data Analytics giving that mentorship and executive buy-in to ensure this role is a success.</p>\n<p>This is a senior, hands-on role leading a craft pod of three analytics engineers, yet setting direction across a much wider community, acting as the technical authority on what \"good\" data design looks like.</p>\n<p>&nbsp;</p>\n<p><strong>Why join our Data team?</strong></p>\n<ul>\n<li>💻 Hybrid working model &nbsp;</li>\n<li>🪴 In-house Talent Development team to prioritise personal and career growth &nbsp;</li>\n<li>💰 Competitive salary, benefits and…",
-    "tags": [
-      "Finance & Operations"
-    ],
-    "postedAt": "2026-10-16T17:55:38.000Z",
-    "scrapedAt": "2026-10-16T23:14:34.768Z"
+    "scrapedAt": "2026-10-17T02:48:59.206Z"
   },
   {
     "id": "greenhouse:airbnb-8284841",
@@ -62,7 +72,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-10-16T16:32:46.000Z",
-    "scrapedAt": "2026-10-16T23:14:35.267Z"
+    "scrapedAt": "2026-10-17T02:48:59.713Z"
   },
   {
     "id": "arbeitnow:remote-senior-scientific-data-engineer-switzerland-5487",
@@ -82,7 +92,7 @@
     ],
     "jobType": "Full time",
     "postedAt": "2026-10-16T11:20:05.000Z",
-    "scrapedAt": "2026-10-16T23:14:34.768Z"
+    "scrapedAt": "2026-10-17T02:48:59.095Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-amsterdam-62897",
@@ -100,7 +110,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-10-16T02:30:19.000Z",
-    "scrapedAt": "2026-10-16T23:14:34.768Z"
+    "scrapedAt": "2026-10-17T02:48:59.095Z"
   },
   {
     "id": "arbeitnow:finance-data-engineer-255524",
@@ -116,7 +126,7 @@
       "Data & Analytics"
     ],
     "postedAt": "2026-10-15T23:55:15.000Z",
-    "scrapedAt": "2026-10-16T23:14:34.768Z"
+    "scrapedAt": "2026-10-17T02:48:59.095Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-revenue-purchase-order-amsterdam-499404",
@@ -132,25 +142,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-15T20:55:14.000Z",
-    "scrapedAt": "2026-10-16T23:14:34.768Z"
-  },
-  {
-    "id": "arbeitnow:team-lead-data-engineering-amsterdam-286359",
-    "externalId": "team-lead-data-engineering-amsterdam-286359",
-    "source": "arbeitnow",
-    "title": "Team Lead, Data Engineering",
-    "company": "Datasnipper",
-    "location": "Amsterdam",
-    "remote": false,
-    "url": "https://www.arbeitnow.nl/jobs/companies/datasnipper/team-lead-data-engineering-amsterdam-286359",
-    "description": "We are looking for a Data Engineering Team Lead to lead the Data Platform team at DataSnipper.\n Every decision DataSnipper makes about its products runs through the data platform: which features land, which customers are getting value, what we bill for, what we fix next, and which AI capabilities add the most value. You will lead a team of two data engineers who own the systems that make that possible. That means how usage events get captured across a growing set of products, how they become trustworthy models in Snowflake, and how Customer Success, Product and GTM get to answers without waiting on us.\n This is a player-coach role in a small, high-ownership team . You are responsible for the people, the roadmap and the technical direction, and you stay hands-on enough to ship alongside the team and make architectural calls credibly. At DataSnipper, Team Lead is our entry point into engineering management: the same people, delivery and product responsibilities as an Engineering Manager, on a smaller team.\n We are a handful of people serving the whole company, so your judgment about what not to build matters as much as what the team ships.\n About DataSnipper\n DataSnipper is the driving force behind an intelligent automation platform that’s transforming the world of audit and finance.\n Founded in 2017, DataSnipper has skyrocketed and is now OFFICIALLY the fastest-growing software company in the Netherlands according to Deloitte Fast50 and recently achieved Unicorn status in our latest funding round. With over 400.000 users in 125+ countries and a second base in the heart of New York City, DataSnipper is shaking things up. And we’re not stopping there. At DataSnipper, we’re always on the lookout for innovators who think outside of the box. New ideas aren’t just welcomed at DataSnipper–they’re essential.\n What your team owns\n The Data Platform team works across three areas:\n Data Platform : reliable, scalable infrastructure that gets the right data to the right place\n I…",
-    "tags": [
-      "Engineering",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-10-15T11:40:41.000Z",
-    "scrapedAt": "2026-10-16T23:14:34.768Z"
+    "scrapedAt": "2026-10-17T02:48:59.095Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -166,6 +158,22 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-16T23:14:35.267Z"
+    "scrapedAt": "2026-10-17T02:48:59.713Z"
+  },
+  {
+    "id": "greenhouse:gitlab-8883003002",
+    "externalId": "gitlab:8883003002",
+    "source": "greenhouse",
+    "title": "Director, Analytics Engineering",
+    "company": "GitLab",
+    "location": "Remote, United States",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8883003002",
+    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.\n The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software.\n * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.\n An overview of this role\n As Director, Analytics Engineering, you'll lead a team of 8 and report to the VP of Data & Insights. You set direction across the data organization, stay close enough to the work to guide technical decisions credibly, and partner with Data Engineering, Data Science, IT, and business leaders.\nYou will have three mandates:\n Build trusted, AI-ready self-service. Deliver a semantic model that answers business questions correctly, with the telemetry, evals, and model flexibility to prove it and keep costs in check.\n Set the strategy for how GitLab accesses data. Own the data models, BI tools, and AI access pat…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-10-13T14:52:13.000Z",
+    "scrapedAt": "2026-10-17T02:48:59.713Z"
   }
 ]
