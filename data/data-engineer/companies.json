@@ -26,6 +26,33 @@
     ]
   },
   {
+    "company": "NVIDIA",
+    "jobCount": 5,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "3 Locations",
+      "Israel, Yokneam",
+      "5 Locations",
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer",
+      "Senior Interconnect Product Data Engineer",
+      "Senior Synthetic Data Engineer - Autonomous Driving",
+      "SAP MM/PP Master Data Engineer - Enterprise Data Management",
+      "Senior Data Infrastructure Engineer, AI Performance"
+    ],
+    "officialUrls": [
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Data-Engineer_JR2027678",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Interconnect-Product-Data-Engineer_JR2021975",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Synthetic-Data-Engineer---Autonomous-Driving_JR2023850-1",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Gurugram/SAP-MM-PP-Master-Data-Engineer---Enterprise-Data-Management_JR2026497",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970"
+    ]
+  },
+  {
     "company": "Affirm",
     "jobCount": 4,
     "sources": [
@@ -120,30 +147,6 @@
     ]
   },
   {
-    "company": "NVIDIA",
-    "jobCount": 4,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Israel, Yokneam",
-      "5 Locations",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Interconnect Product Data Engineer",
-      "Senior Synthetic Data Engineer - Autonomous Driving",
-      "SAP MM/PP Master Data Engineer - Enterprise Data Management",
-      "Senior Data Infrastructure Engineer, AI Performance"
-    ],
-    "officialUrls": [
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Interconnect-Product-Data-Engineer_JR2021975",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Synthetic-Data-Engineer---Autonomous-Driving_JR2023850-1",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Gurugram/SAP-MM-PP-Master-Data-Engineer---Enterprise-Data-Management_JR2026497",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970"
-    ]
-  },
-  {
     "company": "Adobe",
     "jobCount": 3,
     "sources": [
@@ -188,24 +191,21 @@
   },
   {
     "company": "Aircall",
-    "jobCount": 3,
+    "jobCount": 2,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
       "France Remote",
-      "Paris Office",
-      "London Office"
+      "Paris Office"
     ],
     "sampleTitles": [
-      "Senior Data Engineer - Real time analytics",
       "Senior Data Engineer - Real time analytics",
       "Senior Data Engineer - Real time analytics"
     ],
     "officialUrls": [
       "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-101618",
-      "https://www.arbeitnow.fr/jobs/companies/aircall/senior-data-engineer-real-time-analytics-paris-office-42594",
-      "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-162913"
+      "https://www.arbeitnow.fr/jobs/companies/aircall/senior-data-engineer-real-time-analytics-paris-office-42594"
     ]
   },
   {
@@ -284,6 +284,43 @@
     ]
   },
   {
+    "company": "Pinterest",
+    "jobCount": 2,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "New York, NY, US; Remote, US",
+      "San Francisco, CA, US; Remote, US"
+    ],
+    "sampleTitles": [
+      "Staff Software Engineer, Infrastructure Data Engineering",
+      "Sr. Technical Program Manager, Data Engineering"
+    ],
+    "officialUrls": [
+      "https://www.pinterestcareers.com/jobs/?gh_jid=8162539",
+      "https://www.pinterestcareers.com/jobs/?gh_jid=8209014"
+    ]
+  },
+  {
+    "company": "SkelTech  GmbH",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Frechen"
+    ],
+    "sampleTitles": [
+      "Duales Studium Wirtschaftsinformatik - Data Engineering (m/w/d)",
+      "Senior - Data Engineering (m/w/d) Azure und Databricks"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/skeltech-gmbh/duales-studium-wirtschaftsinformatik-data-engineering-frechen-244774",
+      "https://www.arbeitnow.com/jobs/companies/skeltech-gmbh/senior-data-engineering-azure-und-databricks-frechen-172745"
+    ]
+  },
+  {
     "company": "Spotify",
     "jobCount": 2,
     "sources": [
@@ -316,22 +353,6 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.fr/jobs/companies/agicap/senior-data-engineer-lyon-16891"
-    ]
-  },
-  {
-    "company": "Carrot",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "USA"
-    ],
-    "sampleTitles": [
-      "Sr. Data Engineer"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/153597-sr-data-engineer-3"
     ]
   },
   {
@@ -380,22 +401,6 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
-    ]
-  },
-  {
-    "company": "Pinterest",
-    "jobCount": 1,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "San Francisco, CA, US; Remote, US"
-    ],
-    "sampleTitles": [
-      "Sr. Technical Program Manager, Data Engineering"
-    ],
-    "officialUrls": [
-      "https://www.pinterestcareers.com/jobs/?gh_jid=8209014"
     ]
   },
   {
