@@ -319,6 +319,22 @@
     ]
   },
   {
+    "company": "Carrot",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "USA"
+    ],
+    "sampleTitles": [
+      "Sr. Data Engineer"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/153597-sr-data-engineer-3"
+    ]
+  },
+  {
     "company": "Cloudflare",
     "jobCount": 1,
     "sources": [
@@ -348,22 +364,6 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/gitlab/jobs/8883003002"
-    ]
-  },
-  {
-    "company": "Intersnack IT KG",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Düsseldorf, Nordrhein-Westfalen, Germany"
-    ],
-    "sampleTitles": [
-      "Data Engineer - AI Pipelines & DataOps"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/intersnack-it-kg/data-engineer-ai-pipelines-dataops-dusseldorf-8107"
     ]
   },
   {
@@ -463,22 +463,6 @@
     ]
   },
   {
-    "company": "Statista",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Hamburg or Berlin"
-    ],
-    "sampleTitles": [
-      "(Senior) Data Engineer - Tracking Infrastructure (m/f/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/statista/senior-data-engineer-tracking-infrastructure-hamburg-or-berlin-24021"
-    ]
-  },
-  {
     "company": "Stripe",
     "jobCount": 1,
     "sources": [
@@ -495,19 +479,19 @@
     ]
   },
   {
-    "company": "Workday",
+    "company": "Withings",
     "jobCount": 1,
     "sources": [
-      "workday"
+      "arbeitnow"
     ],
     "locations": [
-      "2 Locations"
+      "Issy-les-Moulineaux, France"
     ],
     "sampleTitles": [
-      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME"
+      "Stage - Data Engineer - ML (H/F)"
     ],
     "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830"
+      "https://www.arbeitnow.fr/jobs/companies/withings/stage-data-engineer-ml-h-f-issy-les-moulineaux-335198"
     ]
   }
 ]

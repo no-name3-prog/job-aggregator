@@ -1,5 +1,41 @@
 [
   {
+    "id": "arbeitnow:stage-data-engineer-ml-h-f-issy-les-moulineaux-335198",
+    "externalId": "stage-data-engineer-ml-h-f-issy-les-moulineaux-335198",
+    "source": "arbeitnow",
+    "title": "Stage - Data Engineer - ML (H/F)",
+    "company": "Withings",
+    "location": "Issy-les-Moulineaux, France",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/withings/stage-data-engineer-ml-h-f-issy-les-moulineaux-335198",
+    "description": "Chez Withings, nous développons des appareils de santé connectée : nos balances connectées, montres hybrides, tensiomètres, moniteurs de sommeil et tous les dispositifs de notre gamme sont aujourd'hui utilisés par des millions d'utilisateurs. Notre objectif est de permettre la prévention, le dépistage et l'accompagnement d'un certain nombre de maladies chroniques via des produits et des services innovants afin de révolutionner la manière dont on prend soin de sa santé.\n Au sein de l'équipe Machine Learning, nous développons des algorithmes pour extraire des informations physiologiques et médicales pour nos utilisateurs tels que le SPO2, la fréquence cardiaque, la présence de diverses pathologies comme la fibrillation atriale, l'apnée du sommeil…\nNous recherchons un ou une stagiaire motivé.e par des sujets de santé avec des compétences en traitement du signal, en machine learning et en deep learning pour nous aider à concevoir les algorithmes de demain.\n Votre mission\nL'objectif de ce stage est de concevoir, développer et valider des algorithmes capables d'extraire des informations physiologiques et médicales fiables à partir des signaux physiques collectés par nos dispositifs.\nPour mener à bien cette mission passionnante, la/le stagiaire aura l'opportunité de :\n Explorer et analyser des ensembles de données physiologiques réelles issues de nos utilisateurs, à la recherche de marqueurs pertinents. Concevoir et développer des algorithmes combinant des techniques de traitement du signal innovantes, des heuristiques informatiques fines, des approches Machine Learning et Deep Learning (supervisé ou non). Travailler sur l'optimisation algorithmique en vue d'une implémentation embarquée, potentiellement en langage C, sur des systèmes aux ressources contraintes. Participer à la définition des critères de succès et des métriques pour le mesurer, et évaluer la performance des algorithmes sur des jeux de données variés.\n Ce stage offre une immersion complète dans le développe…",
+    "tags": [
+      "Consumer Electronics",
+      "Data Science"
+    ],
+    "postedAt": "2026-10-19T10:20:19.000Z",
+    "scrapedAt": "2026-10-19T11:59:32.827Z"
+  },
+  {
+    "id": "jobicy:153597",
+    "externalId": "153597",
+    "source": "jobicy",
+    "title": "Sr. Data Engineer",
+    "company": "Carrot",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/07/005d05de29487ec44cd07bd9d757d4e1.png",
+    "location": "USA",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/153597-sr-data-engineer-3",
+    "description": "About Carrot :\n Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide.\n Carrot is widely regarded as a defining force in healthcare innovation as a recipient of several top-tier awards, including Fast Company's 'Most Innovative Companies' and CNBC's '100 Barrier Breaking Startups'. The company is regularly cited by leading global outlets — including The Economist, Bloomberg, The Wall Street Journal, NPR, ABC News, and Harvard Business Review — as a leading voice on digital health, the future of work, and family health. Learn more at get-carrot.com .\n The Opportunity\n Carrot is seeking a Sr. Data Engineer to lead the evolution, reliability, and scalability of our modern data infrastructure across analytics, reporting, and business intelligence. In this role, you will architect, build, and maintain robust, automated data pipelines, orchestrate workflows, integrate diverse data sources, and partner with stakeholders across the business to deliver secure, compliant, high-quality data solutions.\n Your work will span the full data lifecycle, from architecting resilient ETL/ELT pipelines and developing real-time and batch data integrations to automating reporting, reducing technical debt, and enabling advanced analytics. Sr. Data Engineers at Carrot are operational stewards and technical mentors, driving improvements in system maturity, cost efficiency, automation, and collaborative practices.\n You will join our Data Engineering team, which d…",
+    "tags": [
+      "Data Science & Analytics",
+      "Director"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-10-19T02:45:19.000Z",
+    "scrapedAt": "2026-10-19T11:59:32.947Z"
+  },
+  {
     "id": "arbeitnow:data-engineer-s-hertogenbosch-132377",
     "externalId": "data-engineer-s-hertogenbosch-132377",
     "source": "arbeitnow",
@@ -16,7 +52,7 @@
     ],
     "jobType": "Mid",
     "postedAt": "2026-10-18T23:51:51.000Z",
-    "scrapedAt": "2026-10-19T03:03:49.798Z"
+    "scrapedAt": "2026-10-19T11:59:32.827Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-lyon-16891",
@@ -34,7 +70,7 @@
     ],
     "jobType": "Permanent - Full-time",
     "postedAt": "2026-10-18T23:07:40.000Z",
-    "scrapedAt": "2026-10-19T03:03:49.798Z"
+    "scrapedAt": "2026-10-19T11:59:32.827Z"
   },
   {
     "id": "arbeitnow:remote-senior-data-engineer-real-time-analytics-101618",
@@ -52,7 +88,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-10-18T23:07:40.000Z",
-    "scrapedAt": "2026-10-19T03:03:49.798Z"
+    "scrapedAt": "2026-10-19T11:59:32.827Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-paris-office-42594",
@@ -70,7 +106,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-10-18T23:07:40.000Z",
-    "scrapedAt": "2026-10-19T03:03:49.798Z"
+    "scrapedAt": "2026-10-19T11:59:32.827Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-real-time-analytics-london-office-162913",
@@ -88,44 +124,7 @@
     ],
     "jobType": "Permanent Full Time Employee",
     "postedAt": "2026-10-18T23:07:39.000Z",
-    "scrapedAt": "2026-10-19T03:03:49.798Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-tracking-infrastructure-hamburg-or-berlin-24021",
-    "externalId": "senior-data-engineer-tracking-infrastructure-hamburg-or-berlin-24021",
-    "source": "arbeitnow",
-    "title": "(Senior) Data Engineer - Tracking Infrastructure (m/f/d)",
-    "company": "Statista",
-    "location": "Hamburg or Berlin",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/statista/senior-data-engineer-tracking-infrastructure-hamburg-or-berlin-24021",
-    "description": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions.\n Founded in Hamburg in 2007, we have quickly grown into a global company with offices in major cities such as London, New York, Berlin and Tokyo. And we still have a lot of plans. Our constant growth does not only prove our success, but also keeps creating new development and career opportunities for our employees.\n We value and celebrate our diverse culture. You are welcome here for who you are, no matter where you come from, what you look like, or whether you prefer bar graphs to pie charts. Your story matters – keep writing it as part of our team.\n Are you ready to join us?\n About the role\n Join a growing data team and take ownership of our tracking data infrastructure, which captures millions of user events across our web platform every day.\n You will focus on operating, improving, and scaling existing data systems, ensuring data is reliable, cost-efficient, and accessible for analytics teams.\n This is a hands-on role with strong ownership and visibility across engineering and analytics.\n What you’ll do\n Own and manage tracking data pipelines and infrastructure (event data, web tracking)\n Ensure data quality, governance, and cost control (e.g. retention, storage optimization)\n Build and optimize ELT pipelines using Python and SQL\n Improve data ingestion and orchestration (Airflow, Prefect, APIs, S3, Iceberg, databases)\n Support the shift toward streaming and modern analytics use cases\n Collaborate with engineering teams (data producers) and analytics teams (data consumers)\n Enable internal users by making data reliable, well-documented, and easy to use\n Your profile\n Experience in data engineering within cloud environments (AWS preferred)\n Strong skills in Python and SQL\n Hands-on experience with data pipel…",
-    "tags": [
-      "Tech",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-10-18T14:40:23.000Z",
-    "scrapedAt": "2026-10-19T03:03:49.798Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-ai-pipelines-dataops-dusseldorf-8107",
-    "externalId": "data-engineer-ai-pipelines-dataops-dusseldorf-8107",
-    "source": "arbeitnow",
-    "title": "Data Engineer - AI Pipelines & DataOps",
-    "company": "Intersnack IT KG",
-    "location": "Düsseldorf, Nordrhein-Westfalen, Germany",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/intersnack-it-kg/data-engineer-ai-pipelines-dataops-dusseldorf-8107",
-    "description": "We Want You to Grow With Us High-quality, reliable data is the foundation on which every AI use case is built, and this role is responsible for making that foundation unshakeable. As our Data Engineer for AI Pipelines & DataOps, you will design and deliver the ingestion pipelines, streaming architectures, and APIs that feed Intersnack's AI and analytics systems with the data they need to perform at scale. You will report into the AI Programme and work in close collaboration with AI engineers, data architects, and business teams, with a particular focus on manufacturing environments, where edge device data presents unique ingestion challenges. At Intersnack, we build on a solid digital foundation, and your engineering work will be central to extending that foundation into the AI era.\n What We Can Offer This role offers the opportunity to work across a genuinely diverse data landscape, from manufacturing edge devices and IoT sensors to structured enterprise data systems across procurement and sales, giving you breadth of technical challenge that few data engineering roles can match. You will have direct influence over how AI and analytics use cases are enabled across a 4.5bn euro business, with the autonomy to define pipeline patterns, API standards, and DataOps practices that others will build on. Collaboration is at the heart of how we work, and you will be embedded in a programme team that spans data science, AI architecture, and business enablement. Dusseldorf is the home base, with flexibility for remote working.\n How You Will Spend Your Time as Our Next Data Engineer - AI Pipelines & DataOps You will design and build the data infrastructure that powers Intersnack's AI programme, from scalable ingestion pipelines that handle both structured enterprise data and unstructured signals from manufacturing environments, to the APIs that expose data, models, and AI services for consumption across the organisation. Your work will span architecture, implementation, and op…",
-    "tags": [
-      "Information Management",
-      "Experienced",
-      "fulltime permanent"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-10-18T14:31:37.000Z",
-    "scrapedAt": "2026-10-19T03:03:49.798Z"
+    "scrapedAt": "2026-10-19T11:59:32.827Z"
   },
   {
     "id": "greenhouse:airbnb-8284841",
@@ -141,7 +140,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-10-16T16:32:46.000Z",
-    "scrapedAt": "2026-10-19T03:03:50.380Z"
+    "scrapedAt": "2026-10-19T11:59:33.446Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -157,7 +156,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-19T03:03:50.380Z"
+    "scrapedAt": "2026-10-19T11:59:33.446Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -173,6 +172,6 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-10-19T03:03:50.380Z"
+    "scrapedAt": "2026-10-19T11:59:33.446Z"
   }
 ]
