@@ -1,73 +1,19 @@
 [
   {
-    "id": "arbeitnow:signal-processing-data-engineer-chemnitz-95163",
-    "externalId": "signal-processing-data-engineer-chemnitz-95163",
+    "id": "arbeitnow:lead-data-engineer-london-222915",
+    "externalId": "lead-data-engineer-london-222915",
     "source": "arbeitnow",
-    "title": "Signal Processing & Data Engineer",
-    "company": "Limatica",
-    "location": "Chemnitz",
+    "title": "Lead Data Engineer",
+    "company": "sonyinteractiveentertainmentglobal",
+    "location": "London",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/limatica/signal-processing-data-engineer-chemnitz-95163",
-    "description": "Who We Are Limatica measures what batteries whisper. We turn the tiny voltage noise of battery cells into a quality verdict, far faster than conventional tests, and help cell manufacturers cut scrap.\n We are a team of twelve in Chemnitz and Munich, spanning data, ML, HPC, hardware and industrialization. Early adopters across Europe and Asia already use our technology. In 2026 we move from pilots to production lines, and our data grows faster than our team.\n What You'll Do Our measurement stations produce several hundred GB of high-resolution voltage data per hour. You own the step from raw signal to reliable answer.\n Work with novel cell noise data: Derive features from raw time series that make physical sense that hold up in production Build for streaming: Design feature computations that work in streaming mode, at a throughput of up to 10,000 measurements per hour. Make throughput a design decision: Build modular, parameterizable nodes for our distributed processing pipeline and help bring them into our Rust-based production environment. Ship modules, not scripts: Automate evaluations end to end, from raw data to reports for our engineering team and our customers. Own customer projects technically: Assess requirements, communicate interim results and findings, and turn feedback into improvements. What You Bring Measurement experience: A degree in electrical engineering (or comparable) and 3+ years with real-world measurement data. Sampling, noise, filtering and artifacts you know from practice, not just lectures. Physical intuition: You can explain why a feature makes sense, and you prefer a simple, well-understood method over a model nobody can explain. Data at scale: You think in throughput: data formats, intermediate results, distributed and cached processing. Clean engineering: Python, Git, tests and CI/CD as a matter of course. No Rust expertise needed, but the will to learn it. Customer confidence: Fluent German and English, written and spoken. You explain…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/lead-data-engineer-london-222915",
+    "description": "<div class=\"content-intro\"><p><strong>Why Sony Interactive Entertainment?</strong></p>\n<p>Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.</p></div><p>PlayStation Studios is the game development division of Sony PlayStation and is responsible for developing some of the most recognisable and ambitious console games and franchises on PlayStation, including The Last of Us, Horizon, Spider-Man, God of War, Helldivers and Gran Turismo.</p>\n<p>We work with some of the best game studios in the world, and use data to help them make their games even better. We provide end-to-end analytics services for PlayStation Studios and use data to help them in the game development lifecycle. We are looking for talented people to join us in pushing the boundaries of game analytics for PlayStation games.</p>\n<p>This role offers a flexible hybrid working arrangement, with most time spent working remotely unless you prefer to come into the office. We attend the office for key moments that matter, such as important team meetings, collaboration sessions and business activities where in-person engagement is beneficial.</p>\n<p><strong><u>Role Overview:</u></strong></p>\n<p>As a Lead Data Engineer, you’ll work in our cross-disciplinary Data Platform team to ingest and process high-volume data.&nbsp; You’ll work closely with our Game Analytics analysts and analytics engineers,…",
     "tags": [
-      "Data Processing",
-      "Data Engineer",
-      "Permanent employment (unbefristeter arbeitsvertrag)",
-      "professional / experienced"
+      "PD Tools & Services"
     ],
-    "jobType": "Permanent employment (unbefristeter arbeitsvertrag)",
-    "postedAt": "2026-10-20T09:30:55.000Z",
-    "scrapedAt": "2026-10-20T14:04:31.716Z"
-  },
-  {
-    "id": "arbeitnow:working-student-data-engineer-software-developer-research-analytics-munich-bavaria-406891",
-    "externalId": "working-student-data-engineer-software-developer-research-analytics-munich-bavaria-406891",
-    "source": "arbeitnow",
-    "title": "Working Student (m/f/d) -  Data Engineer & Software Developer (Research Analytics)",
-    "company": "Agilerobotsse",
-    "location": "Munich, Bavaria",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/working-student-data-engineer-software-developer-research-analytics-munich-bavaria-406891",
-    "description": "<p>&nbsp;</p>\n<div class=\"x_elementToProof\"><strong data-olk-copy-source=\"MessageBody\">About the Role</strong></div>\n<div class=\"x_elementToProof\">&nbsp;</div>\n<div class=\"x_elementToProof\">Join us as a working student and help build an internal data platform for analyzing scientific publications in robotics and AI research. The platform brings together openly available information about publications and turns it into a clear, reliable picture of how the research field is developing.</div>\n<div class=\"x_elementToProof\">Your work will give our team a solid data foundation for understanding research trends, emerging topics, and where new momentum is building. You will design and develop software tools that collect, validate, store and visualize this information, and you will see your work used by colleagues in their daily work.</div>\n<div class=\"x_elementToProof\">&nbsp;</div>\n<div class=\"x_elementToProof\"><strong>What You Will Do</strong></div>\n<div class=\"x_elementToProof\">&nbsp;</div>\n<div class=\"x_elementToProof\"><em>Build and maintain an internal research data platform</em></div>\n<ul>\n<li>Design, implement and maintain an internal application for collecting, processing, validating, storing and visualizing publication data</li>\n<li>Develop components for automated data acquisition from open sources such as scholarly APIs, repositories and websites</li>\n<li>Implement backend services and data pipelines for reliable processing and integration</li>\n<li>Contribute to frontend components for accessing, managing and exploring the data</li>\n<li>Use AI-assisted development practices to build and extend the platform efficiently</li>\n</ul>\n<div class=\"x_elementToProof\"><em>Ensure data quality and automation</em></div>\n<ul>\n<li>Implement automated and AI-supported validation, cleaning and quality assurance for the collected data</li>\n<li>Support the analysis of publication content, for example through text extraction or classification</li>\n<li>Keep the data consistent, trace…",
-    "tags": [
-      "Research Partnerships"
-    ],
-    "postedAt": "2026-10-20T08:55:25.000Z",
-    "scrapedAt": "2026-10-20T14:04:31.716Z"
-  },
-  {
-    "id": "arbeitnow:senior-analytics-engineer-uk-remote-united-kingdom-303139",
-    "externalId": "senior-analytics-engineer-uk-remote-united-kingdom-303139",
-    "source": "arbeitnow",
-    "title": "Senior Analytics Engineer - UK (Remote)",
-    "company": "Immersivelabs",
-    "location": "United Kingdom",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/immersivelabs/senior-analytics-engineer-uk-remote-united-kingdom-303139",
-    "description": "A platform you can believe in: Immersive One is the leading cyber resilience solution across the globe.\n Build and scale a best in class platform alongside a team of the brightest minds in cybersecurity! At Immersive, we’re uniquely positioned to future-proof organizations against any cyber challenge. If that excites you, read on!\n Immersive is the cyber proving ground for the AI enterprise. Through Immersive One, organizations can test whether people, AI-enabled workflows, cyber security teams, agents, and leaders can perform securely under realistic pressure, then turn that performance into evidence they can use to improve, benchmark, and report readiness.\n Trusted by 30%+ of the Fortune 100 and ranked #1 in the Forrester Wave™ 2026, Immersive helps organizations prove AI can be adopted safely, teams can develop and defend at AI speed, leaders can lead through crisis, and AI agents can be validated before they are trusted in live workflows\n https://www.immersivelabs.com/why-immersive-labs\n We help the world’s biggest brands like Citi, Pfizer, Humana, and HSBC, protect their revenues and brand reputations.\n Immersive was founded in 2017, from a cargo container in Bristol, UK we’ve grown to over 300 employees globally, announced funding of more than $180 million and been voted a Best place to work on multiple occasions!\n https://www.immersivelabs.com/company/our-story\n “The speed at which Immersive produces technical content is hugely impressive, and this turnaround has helped get our teams ahead of the curve, giving them hands-on experience with serious vulnerabilities, in a secure environment, as soon as they emerge.”\n Head of Global Cybersecurity Operations, HSBC\n Senior Analytics Engineer - UK (Remote)\n Immersive is hiring! Could you be our next Senior Analytics Engineer?\n Come and join our established UK Engineering team as a Senior Analytics Engineer - We are looking for someone curious, eager to solve problems, and excited to build alongside a collaborative…",
-    "tags": [
-      "Engineering",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-10-20T08:40:20.000Z",
-    "scrapedAt": "2026-10-20T14:04:31.716Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-hatfield-359118",
-    "externalId": "data-engineer-hatfield-359118",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "ocadogroup",
-    "location": "Hatfield",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/ocadogroup/data-engineer-hatfield-359118",
-    "description": "<p><iframe src=\"https://www.youtube.com/embed/bY0nNPT75xY\" width=\"560\" height=\"314\"></iframe></p>\n<p><strong>Data Engineer (Modelling &amp; Transformation)| Hybrid Working | Hatfield</strong></p>\n<p><strong></strong></p>\n<p data-path-to-node=\"2\"><strong data-path-to-node=\"2\" data-index-in-node=\"0\">Introduction:</strong></p>\n<p data-path-to-node=\"2\">We are Ocado Group, and we're bringing world-class automation to online grocery. Our Ocado Smart Platform (OSP) combines cutting-edge robotics, AI, and IoT within our advanced CFCs (Customer Fulfilment Centres). We've mastered the single pick, transforming online delivery for our global partners. Join us and be part of a team pushing the boundaries of retail technology.</p>\n<p id=\"p-rc_ed609c6a5ee7893e-248\" data-path-to-node=\"3\"><span data-path-to-node=\"3,0\"><strong data-path-to-node=\"3,0\" data-index-in-node=\"0\">About the Role:</strong></span></p>\n<p data-path-to-node=\"3\"><span data-path-to-node=\"3,0\">As a Data Engineer within our Data Engineering Modelling and Transformation team, you will be directly responsible for building and maintaining the foundational data warehouse that powers analytics, reporting, machine learning, and partner data products across Ocado Technology</span><span data-path-to-node=\"3,1\"><sup class=\"superscript\"></sup></span><span data-path-to-node=\"3,2\">. In this role, you will transform raw operational data into trusted, governed, and business-ready datasets that drive strategic and operational decision-making across the entire organisation</span><span data-path-to-node=\"3,3\"><sup class=\"superscript\"></sup></span><span data-path-to-node=\"3,4\">.</span> </p>\n<p id=\"p-rc_ed609c6a5ee7893e-249\" data-path-to-node=\"4\"><span data-path-to-node=\"4,0\">Working in an agile environment, you will collaborate closely with data scientists, analysts, product owners, and platform engineers to deliver high-quality data feeds and scalable transformation frameworks</span><span data-path-to-node=\"4,1\"><sup class=\"supers…",
-    "tags": [
-      "Data - Fulfilment & Automation"
-    ],
-    "postedAt": "2026-10-20T05:55:15.000Z",
-    "scrapedAt": "2026-10-20T14:04:31.716Z"
+    "postedAt": "2026-10-20T17:55:31.000Z",
+    "scrapedAt": "2026-10-20T18:53:42.588Z"
   },
   {
     "id": "arbeitnow:data-engineer-zwolle-82977",
@@ -86,29 +32,7 @@
     ],
     "jobType": "Mid",
     "postedAt": "2026-10-20T02:31:51.000Z",
-    "scrapedAt": "2026-10-20T14:04:31.716Z"
-  },
-  {
-    "id": "arbeitnow:remote-senior-analytics-engineer-emea-france-234875",
-    "externalId": "remote-senior-analytics-engineer-emea-france-234875",
-    "source": "arbeitnow",
-    "title": "Senior Analytics Engineer - EMEA",
-    "company": "Seeq",
-    "location": "France",
-    "remote": true,
-    "url": "https://www.arbeitnow.fr/jobs/companies/seeq/remote-senior-analytics-engineer-emea-france-234875",
-    "description": "Seeq builds advanced analytics software that unlocks insights from industrial process data—empowering companies in sectors like pharmaceuticals, oil & gas, chemicals, and power generation to optimize operations and drive business value.\n As a remote-first company since our founding, we’re built for collaboration across time zones. Our engineering and customer-facing teams thrive in a supportive, agile environment that emphasizes curiosity, learning, and continuous improvement.\n Analytics Engineers at Seeq serve as trusted technical advisors to our customers, helping them solve complex process challenges and maximize value from our software. You’ll work directly with end users to design scalable, high-impact analytics solutions that drive engagement, adoption, and tangible business outcomes.\n Key Duties & Responsibilities:\n As a key customer-facing team member, you will participate in the following activities:\n Customer Technical Adoption\n Serve as the customer’s trusted technical advisor by building relationships with champions and end-users through solution design, implementation guidance, and technical mentorship. Leverage customer relationships to perform constant discovery and uncover high-value, high-impact use case opportunities directly linked to the customer’s critical business workflows and objectives. Collaborate with the customer and account team to develop and execute strategic plans for adoption of Seeq and completion of key use cases addressing business objectives. Advise customer champions and end-users to implement and operationalize the use cases to deliver a high return on investment for the customer. Occasionally may require hands-on delivery to accelerate a customer’s high value use case. Upskill Seeq’s partner ecosystem to be an extension of the Analytics Engineering team to provide support globally and in localized languages. Product Expertise\n Be a product expert, maintaining knowledge of how to implement and troubleshoot solutions in the pla…",
-    "tags": [
-      "Data Analyst",
-      "Computer Software",
-      "Analytics Engineering",
-      "Remote",
-      "Full time",
-      "mid-senior"
-    ],
-    "jobType": "Full time",
-    "postedAt": "2026-10-19T22:20:11.000Z",
-    "scrapedAt": "2026-10-20T14:04:31.716Z"
+    "scrapedAt": "2026-10-20T18:53:42.588Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -124,26 +48,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-10-20T14:04:32.276Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-s-hertogenbosch-132377",
-    "externalId": "data-engineer-s-hertogenbosch-132377",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Prijsvrij Vakanties",
-    "location": "'s-Hertogenbosch, Noord-Brabant, Nederland",
-    "remote": false,
-    "url": "https://www.arbeitnow.nl/jobs/companies/prijsvrij-vakanties/data-engineer-s-hertogenbosch-132377",
-    "description": "Krijg jij energie van data die gewoon klopt, processen die soepel draaien en code die je zelf schrijft? Als Data Engineer zorg je dat de datastromen achter Prijsvrij Vakanties en D-reizen elke dag betrouwbaar hun werk doen. Je beheert en verbetert onze databases, pipelines en koppelingen, bouwt nieuwe oplossingen en werkt mee aan de doorontwikkeling van ons datalandschap, onder andere met Microsoft Fabric en AI. Zo help jij het hele bedrijf slimmere keuzes te maken, waar uiteindelijk elke klant van profiteert. ✈️\n Wat ga je precies doen?\n Je beheert en verbetert onze bestaande datastromen, stored procedures en jobs;\n Je bouwt nieuwe pipelines van bron tot bestemming;\n Je schrijft en optimaliseert complexe SQL-queries voor analyses, rapportages en databeheer;\n Je waarborgt de kwaliteit, betrouwbaarheid en beschikbaarheid van data binnen onze systemen;\n Je denkt actief mee over verbeteringen in onze data- en BI-architectuur en werkwijze;\n Je werkt samen met teamleden aan automatiseringen en andere technische en analytische projecten;\n Je zet AI in waar het waarde toevoegt, bijvoorbeeld voor geautomatiseerde analyses en monitoring van onze processen;\n Je ontwikkelt mee aan koppelingen en tools, ook in andere programmeertalen zoals Go.\n Dit krijg jij :\nDe allerbeste deal! De reis van jouw leven met een positie in een informele organisatie, waar harde werkers het verschil maken voor onze klanten. De mogelijkheid om je intern te ontwikkelen en door te groeien. Wij ontvangen je met open armen in een hecht en gezellig team, waar je samen met je collega’s bijdraagt aan onze missie: een zorgeloze reis voor de beste prijs!\n Een salaris dat past bij jouw ervaring en verantwoordelijkheden;\n 25 vakantiedagen (bij fulltime) en 8% vakantiegeld;\n Een goede pensioenregeling via Nationale Nederlanden;\n Korting op je eigen vakanties én Friends & Family-korting om weg te geven;\n Reiskostenvergoeding vanaf 10 kilometer enkele reis;\n Volop ontwikkelmogelijkheden via My Academy;\n Een mode…",
-    "tags": [
-      "Data & Analytics",
-      "Mid",
-      "fulltime fixed term"
-    ],
-    "jobType": "Mid",
-    "postedAt": "2026-10-18T23:51:51.000Z",
-    "scrapedAt": "2026-10-20T14:04:31.716Z"
+    "scrapedAt": "2026-10-20T18:53:43.354Z"
   },
   {
     "id": "greenhouse:airbnb-8284841",
@@ -159,7 +64,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-10-16T16:32:46.000Z",
-    "scrapedAt": "2026-10-20T14:04:32.276Z"
+    "scrapedAt": "2026-10-20T18:53:43.354Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -175,6 +80,86 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-20T14:04:32.276Z"
+    "scrapedAt": "2026-10-20T18:53:43.354Z"
+  },
+  {
+    "id": "greenhouse:gitlab-8883003002",
+    "externalId": "gitlab:8883003002",
+    "source": "greenhouse",
+    "title": "Director, Analytics Engineering",
+    "company": "GitLab",
+    "location": "Remote, United States",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8883003002",
+    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.\n The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software.\n * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.\n An overview of this role\n As Director, Analytics Engineering, you'll lead a team of 8 and report to the VP of Data & Insights. You set direction across the data organization, stay close enough to the work to guide technical decisions credibly, and partner with Data Engineering, Data Science, IT, and business leaders.\nYou will have three mandates:\n Build trusted, AI-ready self-service. Deliver a semantic model that answers business questions correctly, with the telemetry, evals, and model flexibility to prove it and keep costs in check.\n Set the strategy for how GitLab accesses data. Own the data models, BI tools, and AI access pat…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-10-13T14:52:13.000Z",
+    "scrapedAt": "2026-10-20T18:53:43.354Z"
+  },
+  {
+    "id": "greenhouse:anthropic-5450099008",
+    "externalId": "anthropic:5450099008",
+    "source": "greenhouse",
+    "title": "Data Engineer, Billing & Payments",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450099008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\n As a Data Engineer supporting Billing & Payments Engineering, you’ll join the Finance Data Engineering team and build the foundation for accurate, scalable billing and revenue data across Anthropic. You’ll work closely with Billing Engineering, Finance and Accounting, as well as Product and other partners, to turn billing and payments data into reliable metrics, reporting and insights. You’ll make sure teams have trustworthy data that scales with our growth, and you’ll lead your own projects to enable self-serve insights that help teams make data-driven decisions.\n Key responsibilities\n Partner with Billing Engineering, Finance and Accounting to understand their data and reporting needs, and translate them into technical requirements\n Design, build and maintain data models and pipelines in dbt that transform raw billing, usage and payments data into canonical datasets\n Own revenue data accuracy and reconciliation, making sure billing, usage and revenue data tie out across systems\n Define success metrics for billing systems, and build the data models and monitoring to track them\n Set data integrity standards and SLAs for timely, accurate delivery of billing and revenue data\n Share on-call and data operations responsibilities for Finance Data Engineering pipelines\n Build dashboards and self-serve data products that track core metrics and deliver insights across the company\n Promote best practices for dbt, data modeling and SQL\n Influence the Billing Engineering roadmap from a data systems perspective\n Build a thorough understanding of our data models and data architecture\n Minimum qualifications\n Experience as a Data…",
+    "tags": [
+      "Data Science & Analytics"
+    ],
+    "postedAt": "2026-10-12T19:03:03.000Z",
+    "scrapedAt": "2026-10-20T18:53:43.354Z"
+  },
+  {
+    "id": "greenhouse:anthropic-5448481008",
+    "externalId": "anthropic:5448481008",
+    "source": "greenhouse",
+    "title": "Data Engineer, Product",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448481008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n Job Description\n As a Data Engineer, you will be a member of the Data Science & Analytics team building the foundation to scale analytics across our organization. You will collaborate with key stakeholders in Engineering, Product, and other areas to build scalable solutions to transform data into key metrics reporting and insights. You will be responsible for ensuring teams have access to reliable, accurate metrics for consumer products from idea to implementation. You will also lead your own projects to enable self-serve insights to help teams make data-driven decisions.\n Responsibilities :\n Understand and whenever possible proactively identify the data needs of stakeholder teams in terms of key data models and reporting, and translate that into technical requirements\n Define, build and manage key data pipelines in dbt that transform raw logs into canonical datasets\n Establish high data integrity standards and SLAs to ensure timely, accurate delivery of data\n Develop insightful and reliable dashboards to track performance of core metrics that will deliver insights to the whole company\n Build foundational data products, dashboards and tools to enable self-serve analytics to scale across the company\n Closely partner with stakeholders to define and materialize metrics and analysis for new and evolving consumer products in a fast paced environment\n Influence the future roadmap of Product teams from a data systems perspective\n Become an expert in our organization’s data models and the company's data architecture\n You might be a good fit if you have:\n 7+ years of experience as an Data Engineer or similar Data Science & Analytics roles,…",
+    "tags": [
+      "Data Science & Analytics"
+    ],
+    "postedAt": "2026-10-09T17:00:40.000Z",
+    "scrapedAt": "2026-10-20T18:53:43.354Z"
+  },
+  {
+    "id": "greenhouse:block-5442647008",
+    "externalId": "block:5442647008",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer, Product",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "remote": false,
+    "url": "http://block.xyz/careers/jobs/5442647008?gh_jid=5442647008",
+    "description": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.\nToday, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.\n The Role\n As a Data Engineer, you will handle everything from data architecture and modeling to data pipeline tooling and dashboarding. You will enable a range of other engineering and business teams to make impactful business decisions by laying the foundation of our large and unique datasets that span across multiple products. This role will support the product data engineering team.\n The Product Data Engineering Team at Block builds and maintains the curated data foundation that powers all of Block's product lines — Cash App, Square, Afterpay, and Tidal. We transform raw event streams, transactional systems, and operational data into governed, tested, and reliable analytical assets across domains including banking, lending, commerce, investing, checkout, and AI assistants. We partner with Product, Engineering, Data Science, Machine Learning, and Applied AI teams to deliver the metrics, experimentation frameworks, and ML-ready datasets that enable Block's products to grow, improve, and serve customers at scale.\n You Will\n Lead the creation and optimization of data models…",
+    "tags": [
+      "10418 Engineering - Data & Data Science"
+    ],
+    "postedAt": "2026-10-08T21:28:47.000Z",
+    "scrapedAt": "2026-10-20T18:53:43.354Z"
+  },
+  {
+    "id": "greenhouse:affirm-8010489003",
+    "externalId": "affirm:8010489003",
+    "source": "greenhouse",
+    "title": "Analytics Engineer II",
+    "company": "Affirm",
+    "location": "Remote Spain",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010489003",
+    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.\n Financial Systems owns the data and reporting foundation for Accounting, and the operational reliability of the pipelines that power reporting, reconciliations, and automation. We are building a single source of truth for financial information using dbt and Snowflake to enable scalable BI and process automation across the org.\n We are hiring an Analytics Engineer focused on maintaining and optimizing our finance data platform , improving reliability, efficiency, and performance of our pipelines and core datasets. This role is ideal for someone who enjoys operational ownership, building strong foundations, and making data systems easier and safer to run at scale.\n What You’ll Do\n Build and maintain dbt models and core datasets that support Accounting reporting and downstream automation use cases.\n Improve platform reliability through strong testing patterns, alerting, and runbooks.\n Own and document data pipelines and lineage, ensuring changes are understandable and auditable.\n Identify, troubleshoot, and resolve production data issues, and drive root-cause fixes.\n Optimize performance and cost in Snowflake and dbt to support scaling needs.\n Partner with engineering and business stakeholders to translate requirements into durable, well-tested data assets.\n Contribute to the team’s best practices in version control, code review, documentation, and release hygiene (GitHub-based workflows).\n What We Look For\n 3+ years of experience in analytics engineering, data engineering, or similar roles working with production data systems.\n Strong SQL skills and hands-on experience building in dbt (modeling, testing, documentation).\n Experience operating in a modern development workflow:\n Git and pull-request based collaboration (GitHub preferred).\n Familiarity with standard IDEs and collaborative debug…",
+    "tags": [
+      "Accounting"
+    ],
+    "postedAt": "2026-10-01T14:33:52.000Z",
+    "scrapedAt": "2026-10-20T18:53:43.354Z"
   }
 ]
