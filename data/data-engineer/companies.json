@@ -1,5 +1,35 @@
 [
   {
+    "company": "Salesforce",
+    "jobCount": 7,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Mexico - Mexico City",
+      "India - Hyderabad",
+      "Texas - Austin",
+      "Ireland - Dublin",
+      "4 Locations"
+    ],
+    "sampleTitles": [
+      "Data Engineer Senior | AI & Data",
+      "Data Engineering SMTS/LMTS- Revenue Analytics",
+      "Digital Success Analytics Engineer",
+      "Data Engineering Senior Associate- Finance",
+      "Senior Data Engineer",
+      "PMTS - Principal Agentic Data Engineer",
+      "Data Engineer (SMTS / LMTS) - MDM"
+    ],
+    "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR363793",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Data-Engineering-SMTS-LMTS--Revenue-Analytics_JR364686",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Austin/Digital-Success-Analytics-Engineer_JR362928-1",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657"
+    ]
+  },
+  {
     "company": "Anthropic",
     "jobCount": 5,
     "sources": [
@@ -190,25 +220,6 @@
     ]
   },
   {
-    "company": "Aircall",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "France Remote",
-      "Paris Office"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer - Real time analytics",
-      "Senior Data Engineer - Real time analytics"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-101618",
-      "https://www.arbeitnow.fr/jobs/companies/aircall/senior-data-engineer-real-time-analytics-paris-office-42594"
-    ]
-  },
-  {
     "company": "Brex",
     "jobCount": 2,
     "sources": [
@@ -340,22 +351,6 @@
     ]
   },
   {
-    "company": "Agicap",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Lyon 🇫🇷"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/agicap/senior-data-engineer-lyon-16891"
-    ]
-  },
-  {
     "company": "Cloudflare",
     "jobCount": 1,
     "sources": [
@@ -369,6 +364,22 @@
     ],
     "officialUrls": [
       "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118"
+    ]
+  },
+  {
+    "company": "Defense Unicorns",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "USA"
+    ],
+    "sampleTitles": [
+      "Data Engineer (FedD024)"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/153638-data-engineer-fedd024"
     ]
   },
   {
@@ -401,6 +412,22 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
+    ]
+  },
+  {
+    "company": "ocadogroup",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Hatfield"
+    ],
+    "sampleTitles": [
+      "Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/ocadogroup/data-engineer-hatfield-359118"
     ]
   },
   {
@@ -500,19 +527,19 @@
     ]
   },
   {
-    "company": "Withings",
+    "company": "Univé",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Issy-les-Moulineaux, France"
+      "Zwolle, Overijssel, Nederland"
     ],
     "sampleTitles": [
-      "Stage - Data Engineer - ML (H/F)"
+      "Data Engineer"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/withings/stage-data-engineer-ml-h-f-issy-les-moulineaux-335198"
+      "https://www.arbeitnow.nl/jobs/companies/unive/data-engineer-zwolle-82977"
     ]
   }
 ]
