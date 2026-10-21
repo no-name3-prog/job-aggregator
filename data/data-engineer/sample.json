@@ -1,23 +1,5 @@
 [
   {
-    "id": "arbeitnow:analytics-engineer-london-25541",
-    "externalId": "analytics-engineer-london-25541",
-    "source": "arbeitnow",
-    "title": "Analytics Engineer",
-    "company": "Axle Careers",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/analytics-engineer-london-25541",
-    "description": "About Us At Axle Energy, we’re building the infrastructure that will underpin the decarbonised energy system. Our software moves energy usage to times when electricity is cheap and green, by controlling vehicle charging, heating systems, and home batteries. We control hundreds of thousands of energy assets.\n We’re building in a legacy industry and moving gigawatt-hours of electrons in the real world, but we operate at lightning speed, and we’re growing the team to meet customer demand.\n We’re proud to be supported by world-leading investors, including Energize Capital and Accel.\n Read more about what we’re building here .\n About the role Axle has quickly become the leader in our operational markets, and we are looking for someone to help run and optimise the rhythms at the heart of the business.\n We are looking for someone to develop a deep understanding of flexibility markets across the UK, who can collaborate cross-functionally, crunch numbers, and own critical daily and monthly operational processes.\n Owning daily operations means sitting at the heart of the ‘Axle control room’. This involves running and optimising the most critical operations processes in the business: asset management, trading across UK flexibility markets, and ultimately ensuring our clients and end customers get paid for the flex they deliver.\n A note on the job title: Analytics engineering is often closely associated with dbt. We don't use dbt at Axle because our data set up doesn't require a full ETL framework. Instead, this role is centred on the core analytics engineering skill set: developing a deep understanding of source data and building the data pipelines that power our analytics.\n What you will be doing Owning operations for our UK energy trading (e.g. daily trading processes, reviewing settlements)\n Debugging complex edge cases across our trading, asset registration and settlement processes\n Identifying risks to revenue and delivery and proactively mitigate them\n Communicating ins…",
-    "tags": [
-      "Engineering",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-10-21T05:40:13.000Z",
-    "scrapedAt": "2026-10-21T11:05:33.673Z"
-  },
-  {
     "id": "arbeitnow:senior-data-engineering-consultant-utrecht-151402",
     "externalId": "senior-data-engineering-consultant-utrecht-151402",
     "source": "arbeitnow",
@@ -34,45 +16,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-10-21T05:31:36.000Z",
-    "scrapedAt": "2026-10-21T11:05:33.673Z"
-  },
-  {
-    "id": "jobicy:151146",
-    "externalId": "151146",
-    "source": "jobicy",
-    "title": "AWS Data Engineer (Senior)",
-    "company": "Mactores",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/cea77a13-221.jpeg",
-    "location": "USA",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/151146-aws-data-engineer-senior",
-    "description": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company, which absorbs the repetitive 60–70% of engagement work, discovery, dependency mapping, validation, test generation, that traditional consulting bills human hours against. Forward-deployed engineers own the rest: architecture, judgment, and cutover, on dates we commit to in the contract.\n This is a senior role in our Data Platform Modernization pillar: consolidating and migrating customer data infrastructure on AWS in weeks, not quarters, at meaningfully lower engagement cost than traditional data consulting. Customers come to us after a data program has stalled pipelines nobody trusts, warehouses nobody runs new workloads on, a modernization that produced diagrams instead of production systems.\n Aedeon handles automated source discovery, schema mapping, lineage extraction, and parallel-run validation. You own what agents can't: target architecture, data model decisions, pipeline design under real constraints, and the calls that make a cutover safe. You'll build with PySpark and SQL on EMR and Glue, model for Redshift, Snowflake, Athena, and Presto, orchestrate with Airflow and your work will reach production, not a slide deck.\n What you will do?\n Build and maintain data pipelines on Amazon EMR or Amazon Glue that run in production.\n Design data models and end-user querying on Amazon Redshift or Snowflake, Amazon Athena, and Presto.\n Build and maintain pipeline orchestration with Airflow.\n Work with customer and internal teams to understand data needs and design the solutions that meet them.\n Troubleshoot and optimize pipelines and data models until they hold up under real load.\n Write and maintain PySpark and SQL scripts to extr…",
-    "tags": [
-      "Data Science & Analytics",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-10-21T03:10:28.000Z",
-    "scrapedAt": "2026-10-21T11:05:33.782Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-zwolle-82977",
-    "externalId": "data-engineer-zwolle-82977",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Univé",
-    "location": "Zwolle, Overijssel, Nederland",
-    "remote": false,
-    "url": "https://www.arbeitnow.nl/jobs/companies/unive/data-engineer-zwolle-82977",
-    "description": "Wil jij bouwen aan betrouwbare dataproducten die door heel Univé worden gebruikt? Binnen het Data & AI Office werk je met Snowflake, dbt, Azure, Git en CI/CD. Je maakt van beschikbare brondata goed gemodelleerde, geteste en beheersbare dataproducten voor analyses, rapportages, self-service en AI-toepassingen.\n We zoeken een Data Engineer die data engineering combineert met software-engineering. Iemand die verantwoordelijkheid neemt voor wat hij of zij bouwt, nieuwe technologie praktisch inzet en samen met collega’s het dataplatform en onze werkwijze verder ontwikkelt.\n Wie ben jij Jij bent een Data Engineer die technische kwaliteit belangrijk vindt en verantwoordelijkheid neemt voor wat je bouwt. Je zoekt actief naar manieren om ontwikkeling slimmer, beter en beter beheersbaar te maken en gebruikt nieuwe technologie wanneer die aantoonbaar waarde toevoegt.\n Je schrijft begrijpelijke en onderhoudbare code en automatiseert waar dat helpt. Voor jou is een dataproduct pas klaar wanneer het betrouwbaar, getest, gedocumenteerd en beheersbaar in productie staat.\n Je werkt graag samen en kunt technische keuzes helder uitleggen. Je deelt kennis, staat open voor feedback en begrijpt dat een goede technische oplossing ook bruikbaar en begrijpelijk moet zijn voor de organisatie.\n Wat neem je mee? hbo- of wo-werk- en denkniveau, bij voorkeur met een opleiding in Informatica, Data Engineering, Software Engineering of een vergelijkbare richting;\n meerdere jaren relevante ervaring als Data Engineer, Analytics Engineer, BI Developer of in een vergelijkbare technische datafunctie;\n sterke kennis van SQL en datamodellering;\n ervaring met Snowflake en dbt of vergelijkbare cloud- en transformatietechnologie;\n ervaring met Microsoft Azure of een vergelijkbare cloudomgeving is mooi meegenomen;\n ervaring met Git, geautomatiseerd testen en CI/CD;\n kennis van DevOps- en software-engineeringprincipes;\n ervaring met Python is een pré;\n ervaring met datakwaliteit, monitoring en documentatie;…",
-    "tags": [
-      "IT & Data",
-      "Mid",
-      "fulltime fixed term"
-    ],
-    "jobType": "Mid",
-    "postedAt": "2026-10-20T02:31:51.000Z",
-    "scrapedAt": "2026-10-21T11:05:33.673Z"
+    "scrapedAt": "2026-10-21T16:32:53.968Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -88,7 +32,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-10-21T11:05:34.186Z"
+    "scrapedAt": "2026-10-21T16:32:54.565Z"
   },
   {
     "id": "greenhouse:airbnb-8284841",
@@ -104,7 +48,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-10-16T16:32:46.000Z",
-    "scrapedAt": "2026-10-21T11:05:34.186Z"
+    "scrapedAt": "2026-10-21T16:32:54.565Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -120,7 +64,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-21T11:05:34.186Z"
+    "scrapedAt": "2026-10-21T16:32:54.565Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -136,7 +80,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-10-21T11:05:34.186Z"
+    "scrapedAt": "2026-10-21T16:32:54.565Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -152,7 +96,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-10-21T11:05:34.186Z"
+    "scrapedAt": "2026-10-21T16:32:54.565Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -168,6 +112,54 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-21T11:05:34.186Z"
+    "scrapedAt": "2026-10-21T16:32:54.565Z"
+  },
+  {
+    "id": "greenhouse:block-5442647008",
+    "externalId": "block:5442647008",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer, Product",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "remote": false,
+    "url": "http://block.xyz/careers/jobs/5442647008?gh_jid=5442647008",
+    "description": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.\nToday, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.\n The Role\n As a Data Engineer, you will handle everything from data architecture and modeling to data pipeline tooling and dashboarding. You will enable a range of other engineering and business teams to make impactful business decisions by laying the foundation of our large and unique datasets that span across multiple products. This role will support the product data engineering team.\n The Product Data Engineering Team at Block builds and maintains the curated data foundation that powers all of Block's product lines — Cash App, Square, Afterpay, and Tidal. We transform raw event streams, transactional systems, and operational data into governed, tested, and reliable analytical assets across domains including banking, lending, commerce, investing, checkout, and AI assistants. We partner with Product, Engineering, Data Science, Machine Learning, and Applied AI teams to deliver the metrics, experimentation frameworks, and ML-ready datasets that enable Block's products to grow, improve, and serve customers at scale.\n You Will\n Lead the creation and optimization of data models…",
+    "tags": [
+      "10418 Engineering - Data & Data Science"
+    ],
+    "postedAt": "2026-10-08T21:28:47.000Z",
+    "scrapedAt": "2026-10-21T16:32:54.565Z"
+  },
+  {
+    "id": "greenhouse:affirm-8010489003",
+    "externalId": "affirm:8010489003",
+    "source": "greenhouse",
+    "title": "Analytics Engineer II",
+    "company": "Affirm",
+    "location": "Remote Spain",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010489003",
+    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.\n Financial Systems owns the data and reporting foundation for Accounting, and the operational reliability of the pipelines that power reporting, reconciliations, and automation. We are building a single source of truth for financial information using dbt and Snowflake to enable scalable BI and process automation across the org.\n We are hiring an Analytics Engineer focused on maintaining and optimizing our finance data platform , improving reliability, efficiency, and performance of our pipelines and core datasets. This role is ideal for someone who enjoys operational ownership, building strong foundations, and making data systems easier and safer to run at scale.\n What You’ll Do\n Build and maintain dbt models and core datasets that support Accounting reporting and downstream automation use cases.\n Improve platform reliability through strong testing patterns, alerting, and runbooks.\n Own and document data pipelines and lineage, ensuring changes are understandable and auditable.\n Identify, troubleshoot, and resolve production data issues, and drive root-cause fixes.\n Optimize performance and cost in Snowflake and dbt to support scaling needs.\n Partner with engineering and business stakeholders to translate requirements into durable, well-tested data assets.\n Contribute to the team’s best practices in version control, code review, documentation, and release hygiene (GitHub-based workflows).\n What We Look For\n 3+ years of experience in analytics engineering, data engineering, or similar roles working with production data systems.\n Strong SQL skills and hands-on experience building in dbt (modeling, testing, documentation).\n Experience operating in a modern development workflow:\n Git and pull-request based collaboration (GitHub preferred).\n Familiarity with standard IDEs and collaborative debug…",
+    "tags": [
+      "Accounting"
+    ],
+    "postedAt": "2026-10-01T14:33:52.000Z",
+    "scrapedAt": "2026-10-21T16:32:54.565Z"
+  },
+  {
+    "id": "greenhouse:block-5434325008",
+    "externalId": "block:5434325008",
+    "source": "greenhouse",
+    "title": "Senior Analytics Engineer, AI & DX Analytics",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "remote": false,
+    "url": "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
+    "description": "Block builds simple, powerful tools that make progress towards an economy that’s truly open to all.\n Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Join us.\n The Role\n The AI & DX (Developer Experience) Analytics team exists to measure and improve Block's developer experience and investment in AI. We turn raw engineering signals (agent session data, pull request and CI activity, and AI spend) into reporting and analysis that shape leadership's AI investment decisions, and drive improvement in AI ROI and developer experience. Your work will be the trusted source of truth that engineers and executives use to decide where AI investment is working and where to redirect it.\n We're hiring a Senior Analytics Engineer to own parts of that pipeline end to end. This is a broad, high-visibility role with a lot of white space: you will instrument new telemetry at the source and build production pipelines that turn it into governed data, then turn that governed data into executive-facing reporting and the analysis that surfaces concrete opportunities to improve AI ROI and developer experience. You'll also help pioneer one of the most consequential open problems in the industry right now: measuring the productivity impact of an increasingly AI- and agent-augmented engineering workforce, where there is no textbook answer and real room to set the standard. You'll define new metrics and craft the visual narrative — the charts, dashboards, and presentation materials — that make them land with…",
+    "tags": [
+      "10410 Engineering - Developer Experience"
+    ],
+    "postedAt": "2026-09-24T17:40:25.000Z",
+    "scrapedAt": "2026-10-21T16:32:54.565Z"
   }
 ]
