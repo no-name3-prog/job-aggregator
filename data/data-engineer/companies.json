@@ -1,21 +1,19 @@
 [
   {
     "company": "Salesforce",
-    "jobCount": 8,
+    "jobCount": 7,
     "sources": [
       "workday"
     ],
     "locations": [
       "4 Locations",
       "Mexico - Mexico City",
-      "India - Hyderabad",
       "Texas - Austin",
       "Ireland - Dublin"
     ],
     "sampleTitles": [
       "Staff & Senior Staff Data Platform Engineer - Slack",
       "Data Engineer Senior | AI & Data",
-      "Data Engineering SMTS/LMTS- Revenue Analytics",
       "Digital Success Analytics Engineer",
       "Data Engineering Senior Associate- Finance",
       "Senior Data Engineer",
@@ -25,9 +23,9 @@
     "officialUrls": [
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Staff---Senior-Staff-Data-Platform-Engineer---Slack_JR365133-1",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR363793",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Data-Engineering-SMTS-LMTS--Revenue-Analytics_JR364686",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Austin/Digital-Success-Analytics-Engineer_JR362928-1",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930"
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657"
     ]
   },
   {
@@ -329,6 +327,22 @@
     ]
   },
   {
+    "company": "Axle Careers",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/analytics-engineer-london-25541"
+    ]
+  },
+  {
     "company": "Cloudflare",
     "jobCount": 1,
     "sources": [
@@ -342,6 +356,22 @@
     ],
     "officialUrls": [
       "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118"
+    ]
+  },
+  {
+    "company": "Conflux",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Utrecht, Utrecht, Nederland"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineering Consultant"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.nl/jobs/companies/conflux/senior-data-engineering-consultant-utrecht-151402"
     ]
   },
   {
@@ -374,6 +404,22 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
+    ]
+  },
+  {
+    "company": "Mactores",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "USA"
+    ],
+    "sampleTitles": [
+      "AWS Data Engineer (Senior)"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/151146-aws-data-engineer-senior"
     ]
   },
   {
@@ -425,22 +471,6 @@
     ]
   },
   {
-    "company": "Seeq",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Germany"
-    ],
-    "sampleTitles": [
-      "Senior Analytics Engineer - EMEA"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/seeq/remote-senior-analytics-engineer-emea-germany-207467"
-    ]
-  },
-  {
     "company": "Stripe",
     "jobCount": 1,
     "sources": [
@@ -486,38 +516,6 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.nl/jobs/companies/unive/data-engineer-zwolle-82977"
-    ]
-  },
-  {
-    "company": "Vestiairecollective",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Paris"
-    ],
-    "sampleTitles": [
-      "Senior Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/vestiairecollective/senior-analytics-engineer-paris-422361"
-    ]
-  },
-  {
-    "company": "Wpp",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London, London"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/wpp/senior-data-engineer-london-london-494449"
     ]
   }
 ]
