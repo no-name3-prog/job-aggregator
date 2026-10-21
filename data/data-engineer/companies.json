@@ -1,18 +1,19 @@
 [
   {
     "company": "Salesforce",
-    "jobCount": 7,
+    "jobCount": 8,
     "sources": [
       "workday"
     ],
     "locations": [
+      "4 Locations",
       "Mexico - Mexico City",
       "India - Hyderabad",
       "Texas - Austin",
-      "Ireland - Dublin",
-      "4 Locations"
+      "Ireland - Dublin"
     ],
     "sampleTitles": [
+      "Staff & Senior Staff Data Platform Engineer - Slack",
       "Data Engineer Senior | AI & Data",
       "Data Engineering SMTS/LMTS- Revenue Analytics",
       "Digital Success Analytics Engineer",
@@ -22,11 +23,11 @@
       "Data Engineer (SMTS / LMTS) - MDM"
     ],
     "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Staff---Senior-Staff-Data-Platform-Engineer---Slack_JR365133-1",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR363793",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Data-Engineering-SMTS-LMTS--Revenue-Analytics_JR364686",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Austin/Digital-Success-Analytics-Engineer_JR362928-1",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657"
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930"
     ]
   },
   {
@@ -440,22 +441,6 @@
     ]
   },
   {
-    "company": "sonyinteractiveentertainmentglobal",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Lead Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/lead-data-engineer-london-222915"
-    ]
-  },
-  {
     "company": "Stripe",
     "jobCount": 1,
     "sources": [
@@ -501,6 +486,38 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.nl/jobs/companies/unive/data-engineer-zwolle-82977"
+    ]
+  },
+  {
+    "company": "Vestiairecollective",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Paris"
+    ],
+    "sampleTitles": [
+      "Senior Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/vestiairecollective/senior-analytics-engineer-paris-422361"
+    ]
+  },
+  {
+    "company": "Wpp",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London, London"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/wpp/senior-data-engineer-london-london-494449"
     ]
   }
 ]
