@@ -1,5 +1,21 @@
 [
   {
+    "id": "greenhouse:airbnb-8300926",
+    "externalId": "airbnb:8300926",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer, Payments",
+    "company": "Airbnb",
+    "location": "United States",
+    "remote": false,
+    "url": "https://careers.airbnb.com/positions/8300926?gh_jid=8300926",
+    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n The community you will join\n The AirCover Data Foundation team is responsible for providing trustworthy, consistent data and metrics to facilitate business insights, informed decision-making, and seamless operations across Airbnb's AirCover programs, such as Guest Travel Insurance, AirCover for Hosts, and AirCover for Guests. The team manages the end-to-end data lifecycle for guest and host protection programs, encompassing data ingestion and reconciliation with external insurance partners, as well as the construction of curated, offline analytics-ready data assets. This foundational data supports critical business functions, including claims and operations reporting, product experimentation, financial reconciliation, and the executive dashboards utilized by stakeholders across Product, Engineering, Operations, Finance, and Data Science.\n As AirCover continues its expansion into new markets and the introduction of new protection offerings, the data team plays a fundamental role in enabling trusted, data-driven decisions at every organizational level.\n The difference you will make\n As a Senior Data Engineer on AirCover Data Foundation, you will build and evolve the trusted data systems that power AirCover products and operations. You will partner closely with software engineers, product managers, analysts, data scientists, and business stakeholders to understand business needs, secure the right data sources, design high-quality data models, and deliver robust data models and metrics. Your work will help Airbnb scale AirCover into new markets and new protection offerings with reliable data foundations for exper…",
+    "tags": [
+      "Software Engineering"
+    ],
+    "postedAt": "2026-10-21T20:37:35.000Z",
+    "scrapedAt": "2026-10-21T21:12:18.552Z"
+  },
+  {
     "id": "arbeitnow:senior-data-engineering-consultant-utrecht-151402",
     "externalId": "senior-data-engineering-consultant-utrecht-151402",
     "source": "arbeitnow",
@@ -16,7 +32,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-10-21T05:31:36.000Z",
-    "scrapedAt": "2026-10-21T16:32:53.968Z"
+    "scrapedAt": "2026-10-21T21:12:17.997Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -32,7 +48,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-10-21T16:32:54.565Z"
+    "scrapedAt": "2026-10-21T21:12:18.552Z"
   },
   {
     "id": "greenhouse:airbnb-8284841",
@@ -48,7 +64,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-10-16T16:32:46.000Z",
-    "scrapedAt": "2026-10-21T16:32:54.565Z"
+    "scrapedAt": "2026-10-21T21:12:18.552Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -64,7 +80,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-21T16:32:54.565Z"
+    "scrapedAt": "2026-10-21T21:12:18.552Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -80,7 +96,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-10-21T16:32:54.565Z"
+    "scrapedAt": "2026-10-21T21:12:18.552Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -96,7 +112,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-10-21T16:32:54.565Z"
+    "scrapedAt": "2026-10-21T21:12:18.552Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -112,7 +128,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-21T16:32:54.565Z"
+    "scrapedAt": "2026-10-21T21:12:18.552Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -128,7 +144,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-10-21T16:32:54.565Z"
+    "scrapedAt": "2026-10-21T21:12:18.552Z"
   },
   {
     "id": "greenhouse:affirm-8010489003",
@@ -144,22 +160,6 @@
       "Accounting"
     ],
     "postedAt": "2026-10-01T14:33:52.000Z",
-    "scrapedAt": "2026-10-21T16:32:54.565Z"
-  },
-  {
-    "id": "greenhouse:block-5434325008",
-    "externalId": "block:5434325008",
-    "source": "greenhouse",
-    "title": "Senior Analytics Engineer, AI & DX Analytics",
-    "company": "Block",
-    "location": "New York, NY, United States of America",
-    "remote": false,
-    "url": "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
-    "description": "Block builds simple, powerful tools that make progress towards an economy that’s truly open to all.\n Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Join us.\n The Role\n The AI & DX (Developer Experience) Analytics team exists to measure and improve Block's developer experience and investment in AI. We turn raw engineering signals (agent session data, pull request and CI activity, and AI spend) into reporting and analysis that shape leadership's AI investment decisions, and drive improvement in AI ROI and developer experience. Your work will be the trusted source of truth that engineers and executives use to decide where AI investment is working and where to redirect it.\n We're hiring a Senior Analytics Engineer to own parts of that pipeline end to end. This is a broad, high-visibility role with a lot of white space: you will instrument new telemetry at the source and build production pipelines that turn it into governed data, then turn that governed data into executive-facing reporting and the analysis that surfaces concrete opportunities to improve AI ROI and developer experience. You'll also help pioneer one of the most consequential open problems in the industry right now: measuring the productivity impact of an increasingly AI- and agent-augmented engineering workforce, where there is no textbook answer and real room to set the standard. You'll define new metrics and craft the visual narrative — the charts, dashboards, and presentation materials — that make them land with…",
-    "tags": [
-      "10410 Engineering - Developer Experience"
-    ],
-    "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-10-21T16:32:54.565Z"
+    "scrapedAt": "2026-10-21T21:12:18.552Z"
   }
 ]

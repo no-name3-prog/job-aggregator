@@ -76,6 +76,29 @@
     ]
   },
   {
+    "company": "Airbnb",
+    "jobCount": 4,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "United States",
+      "San Francisco, CA"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer, Payments",
+      "Staff Data Engineer, Tech Foundations",
+      "Senior Staff Data Engineer, Foundational Data",
+      "Senior Staff Data Engineer - Data Stewardship"
+    ],
+    "officialUrls": [
+      "https://careers.airbnb.com/positions/8300926?gh_jid=8300926",
+      "https://careers.airbnb.com/positions/8284841?gh_jid=8284841",
+      "https://careers.airbnb.com/positions/8224032?gh_jid=8224032",
+      "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
+    ]
+  },
+  {
     "company": "Block",
     "jobCount": 4,
     "sources": [
@@ -166,27 +189,6 @@
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Security-Data-Engineer_R171875-1",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Mgr--Software-Development_R172115-1",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
-    ]
-  },
-  {
-    "company": "Airbnb",
-    "jobCount": 3,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "San Francisco, CA",
-      "United States"
-    ],
-    "sampleTitles": [
-      "Staff Data Engineer, Tech Foundations",
-      "Senior Staff Data Engineer, Foundational Data",
-      "Senior Staff Data Engineer - Data Stewardship"
-    ],
-    "officialUrls": [
-      "https://careers.airbnb.com/positions/8284841?gh_jid=8284841",
-      "https://careers.airbnb.com/positions/8224032?gh_jid=8224032",
-      "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
     ]
   },
   {
@@ -466,6 +468,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/twilio/jobs/8044650"
+    ]
+  },
+  {
+    "company": "Workday",
+    "jobCount": 1,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME"
+    ],
+    "officialUrls": [
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830"
     ]
   }
 ]
