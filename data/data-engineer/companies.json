@@ -1,17 +1,19 @@
 [
   {
     "company": "Salesforce",
-    "jobCount": 7,
+    "jobCount": 8,
     "sources": [
       "workday"
     ],
     "locations": [
+      "2 Locations",
       "India - Hyderabad",
       "4 Locations",
       "Mexico - Mexico City",
       "Ireland - Dublin"
     ],
     "sampleTitles": [
+      "Data Engineering MTS/SMTS - ETL",
       "Data Engineering SMTS/LMTS",
       "Staff & Senior Staff Data Platform Engineer - Slack",
       "Data Engineer Senior | AI & Data",
@@ -21,11 +23,11 @@
       "Data Engineer (SMTS / LMTS) - MDM"
     ],
     "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Data-Engineering-MTS-SMTS---ETL_JR364390",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Data-Engineering-SMTS-LMTS--Revenue-Analytics_JR364686",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Staff---Senior-Staff-Data-Platform-Engineer---Slack_JR365133-1",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR363793",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657"
     ]
   },
   {
@@ -193,6 +195,27 @@
     ]
   },
   {
+    "company": "AVISIA",
+    "jobCount": 3,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Paris, Île-de-France, France",
+      "Lille, Hauts-de-France, France"
+    ],
+    "sampleTitles": [
+      "Data Engineer H/F - Paris",
+      "Stage de fin d'études - Analytics Engineer H/F - Paris",
+      "Data Engineer H/F Confirmé(e) - Lille"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/avisia/data-engineer-h-f-paris-250437",
+      "https://www.arbeitnow.fr/jobs/companies/avisia/stage-de-fin-detudes-analytics-engineer-h-f-paris-300289",
+      "https://www.arbeitnow.fr/jobs/companies/avisia/data-engineer-h-f-confirmee-lille-249654"
+    ]
+  },
+  {
     "company": "Affirm",
     "jobCount": 2,
     "sources": [
@@ -325,6 +348,75 @@
     ]
   },
   {
+    "company": "Workday",
+    "jobCount": 2,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "2 Locations",
+      "Ireland, Dublin"
+    ],
+    "sampleTitles": [
+      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
+      "Data Platform Engineer - Cybersecurity"
+    ],
+    "officialUrls": [
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
+    ]
+  },
+  {
+    "company": "Xdesign",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Unknown"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer",
+      "Principal Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/xdesign/senior-data-engineer-230278",
+      "https://www.arbeitnow.co.uk/jobs/companies/xdesign/principal-data-engineer-351196"
+    ]
+  },
+  {
+    "company": "AIHR",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Rotterdam, Zuid-Holland, Netherlands"
+    ],
+    "sampleTitles": [
+      "Lead Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.nl/jobs/companies/aihr/lead-analytics-engineer-rotterdam-137108"
+    ]
+  },
+  {
+    "company": "Cloudbeds",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "LATAM,  Canada"
+    ],
+    "sampleTitles": [
+      "Tech Lead Data Engineer"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/156345-tech-lead-data-engineer"
+    ]
+  },
+  {
     "company": "Cloudflare",
     "jobCount": 1,
     "sources": [
@@ -338,22 +430,6 @@
     ],
     "officialUrls": [
       "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118"
-    ]
-  },
-  {
-    "company": "Conflux",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Utrecht, Utrecht, Nederland"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineering Consultant"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.nl/jobs/companies/conflux/senior-data-engineering-consultant-utrecht-151402"
     ]
   },
   {
@@ -389,6 +465,22 @@
     ]
   },
   {
+    "company": "GradeMatch",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Venlo, Limburg, Nederland"
+    ],
+    "sampleTitles": [
+      "Microsoft Data & Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.nl/jobs/companies/gradematch/microsoft-data-analytics-engineer-venlo-269433"
+    ]
+  },
+  {
     "company": "Linear",
     "jobCount": 1,
     "sources": [
@@ -405,19 +497,19 @@
     ]
   },
   {
-    "company": "Mactores",
+    "company": "Puur Data",
     "jobCount": 1,
     "sources": [
-      "jobicy"
+      "arbeitnow"
     ],
     "locations": [
-      "USA"
+      "Ede, Gelderland, Nederland"
     ],
     "sampleTitles": [
-      "AWS Data Engineer (Associate)"
+      "Data Engineer"
     ],
     "officialUrls": [
-      "https://jobicy.com/jobs/151141-aws-data-engineer-associate"
+      "https://www.arbeitnow.nl/jobs/companies/puur-data/data-engineer-ede-471323"
     ]
   },
   {
@@ -469,19 +561,19 @@
     ]
   },
   {
-    "company": "Stack Infrastructure Emea",
+    "company": "SHIFTBASE B.V.",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "London Office"
+      "Zoetermeer, Zuid-Holland, Netherlands"
     ],
     "sampleTitles": [
-      "Senior Databricks Data Engineer"
+      "Senior Data Engineer"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/stack-infrastructure-emea/senior-databricks-data-engineer-london-455331"
+      "https://www.arbeitnow.nl/jobs/companies/shiftbase-bv/senior-data-engineer-zoetermeer-196651"
     ]
   },
   {
@@ -514,22 +606,6 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/twilio/jobs/8044650"
-    ]
-  },
-  {
-    "company": "Workday",
-    "jobCount": 1,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME"
-    ],
-    "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830"
     ]
   }
 ]
