@@ -1,27 +1,29 @@
 [
   {
     "company": "Salesforce",
-    "jobCount": 6,
+    "jobCount": 7,
     "sources": [
       "workday"
     ],
     "locations": [
+      "India - Hyderabad",
       "4 Locations",
       "Mexico - Mexico City",
       "Ireland - Dublin"
     ],
     "sampleTitles": [
+      "Data Engineering SMTS/LMTS",
       "Staff & Senior Staff Data Platform Engineer - Slack",
       "Data Engineer Senior | AI & Data",
-      "Data Engineering Senior Associate- Finance",
       "Senior Data Engineer",
       "PMTS - Principal Agentic Data Engineer",
+      "Data Engineering Senior Associate- Finance",
       "Data Engineer (SMTS / LMTS) - MDM"
     ],
     "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Data-Engineering-SMTS-LMTS--Revenue-Analytics_JR364686",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Staff---Senior-Staff-Data-Platform-Engineer---Slack_JR365133-1",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR363793",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
     ]
@@ -50,29 +52,6 @@
       "https://job-boards.greenhouse.io/anthropic/jobs/5424111008",
       "https://job-boards.greenhouse.io/anthropic/jobs/5418610008",
       "https://job-boards.greenhouse.io/anthropic/jobs/4973067008"
-    ]
-  },
-  {
-    "company": "Affirm",
-    "jobCount": 4,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "Remote Spain",
-      "Remote Poland"
-    ],
-    "sampleTitles": [
-      "Analytics Engineer II",
-      "Analytics Engineer II, Full Stack (Revenue Analytics)",
-      "Analytics Engineer II, Full Stack (Revenue Analytics)",
-      "Analytics Engineer II"
-    ],
-    "officialUrls": [
-      "https://job-boards.greenhouse.io/affirm/jobs/8010489003",
-      "https://job-boards.greenhouse.io/affirm/jobs/7916080003",
-      "https://job-boards.greenhouse.io/affirm/jobs/7813362003",
-      "https://job-boards.greenhouse.io/affirm/jobs/7764109003"
     ]
   },
   {
@@ -211,6 +190,25 @@
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Data-Engineering_26WD101237",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
       "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
+    ]
+  },
+  {
+    "company": "Affirm",
+    "jobCount": 2,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "Remote Spain",
+      "Remote Poland"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer II, Full Stack (Revenue Analytics)",
+      "Analytics Engineer II, Full Stack (Revenue Analytics)"
+    ],
+    "officialUrls": [
+      "https://job-boards.greenhouse.io/affirm/jobs/7916080003",
+      "https://job-boards.greenhouse.io/affirm/jobs/7813362003"
     ]
   },
   {
@@ -359,6 +357,22 @@
     ]
   },
   {
+    "company": "Coopers Group AG",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Zürich"
+    ],
+    "sampleTitles": [
+      "Data Engineer NiFi"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/data-engineer-nifi-zurich-71679"
+    ]
+  },
+  {
     "company": "GitLab",
     "jobCount": 1,
     "sources": [
@@ -391,19 +405,19 @@
     ]
   },
   {
-    "company": "LiveScore Group",
+    "company": "Mactores",
     "jobCount": 1,
     "sources": [
-      "arbeitnow"
+      "jobicy"
     ],
     "locations": [
-      "London, England, United Kingdom"
+      "USA"
     ],
     "sampleTitles": [
-      "Senior Data Engineer"
+      "AWS Data Engineer (Associate)"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/livescore-group/senior-data-engineer-london-423630"
+      "https://jobicy.com/jobs/151141-aws-data-engineer-associate"
     ]
   },
   {
@@ -452,6 +466,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/scaleai/jobs/4713597005"
+    ]
+  },
+  {
+    "company": "Stack Infrastructure Emea",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London Office"
+    ],
+    "sampleTitles": [
+      "Senior Databricks Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/stack-infrastructure-emea/senior-databricks-data-engineer-london-455331"
     ]
   },
   {
