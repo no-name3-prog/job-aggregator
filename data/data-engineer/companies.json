@@ -57,29 +57,6 @@
     ]
   },
   {
-    "company": "Airbnb",
-    "jobCount": 4,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "United States",
-      "San Francisco, CA"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer, Payments",
-      "Staff Data Engineer, Tech Foundations",
-      "Senior Staff Data Engineer, Foundational Data",
-      "Senior Staff Data Engineer - Data Stewardship"
-    ],
-    "officialUrls": [
-      "https://careers.airbnb.com/positions/8300926?gh_jid=8300926",
-      "https://careers.airbnb.com/positions/8284841?gh_jid=8284841",
-      "https://careers.airbnb.com/positions/8224032?gh_jid=8224032",
-      "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
-    ]
-  },
-  {
     "company": "Block",
     "jobCount": 4,
     "sources": [
@@ -170,6 +147,27 @@
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Security-Data-Engineer_R171875-1",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Mgr--Software-Development_R172115-1",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "jobCount": 3,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "San Francisco, CA",
+      "United States"
+    ],
+    "sampleTitles": [
+      "Staff Data Engineer, Tech Foundations",
+      "Senior Staff Data Engineer, Foundational Data",
+      "Senior Staff Data Engineer - Data Stewardship"
+    ],
+    "officialUrls": [
+      "https://careers.airbnb.com/positions/8284841?gh_jid=8284841",
+      "https://careers.airbnb.com/positions/8224032?gh_jid=8224032",
+      "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
     ]
   },
   {
@@ -367,24 +365,6 @@
     ]
   },
   {
-    "company": "Xdesign",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Unknown"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Principal Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/xdesign/senior-data-engineer-230278",
-      "https://www.arbeitnow.co.uk/jobs/companies/xdesign/principal-data-engineer-351196"
-    ]
-  },
-  {
     "company": "AIHR",
     "jobCount": 1,
     "sources": [
@@ -398,22 +378,6 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.nl/jobs/companies/aihr/lead-analytics-engineer-rotterdam-137108"
-    ]
-  },
-  {
-    "company": "Cloudbeds",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "LATAM,  Canada"
-    ],
-    "sampleTitles": [
-      "Tech Lead Data Engineer"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/156345-tech-lead-data-engineer"
     ]
   },
   {
@@ -446,6 +410,22 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/data-engineer-nifi-zurich-71679"
+    ]
+  },
+  {
+    "company": "Decathlontechnology",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Lille - Jardin des Plantes, Nord"
+    ],
+    "sampleTitles": [
+      "HRIS - Lead Analytics Engineer (f/m/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/hris-lead-analytics-engineer-lille-jardin-des-plantes-nord-409658"
     ]
   },
   {
@@ -494,6 +474,54 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
+    ]
+  },
+  {
+    "company": "Livescore9",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/livescore9/senior-data-engineer-london-116975"
+    ]
+  },
+  {
+    "company": "PAICON",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Heidelberg"
+    ],
+    "sampleTitles": [
+      "Data Engineer – Healthcare"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/paicon/senior-data-engineer-healthcare-heidelberg-485630"
+    ]
+  },
+  {
+    "company": "Perk",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Senior Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-analytics-engineer-london-399772"
     ]
   },
   {
@@ -574,6 +602,22 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.nl/jobs/companies/shiftbase-bv/senior-data-engineer-zoetermeer-196651"
+    ]
+  },
+  {
+    "company": "Street Group",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Manchester"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/street-group/senior-data-engineer-manchester-345585"
     ]
   },
   {
