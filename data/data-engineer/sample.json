@@ -1,38 +1,22 @@
 [
   {
-    "id": "jobicy:153886",
-    "externalId": "153886",
+    "id": "jobicy:156537",
+    "externalId": "156537",
     "source": "jobicy",
     "title": "Senior Data Engineer",
-    "company": "Socure",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/02/4dd877ff6ea919681d6e790a57ab639c.jpeg",
-    "location": "USA",
+    "company": "Nebius",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/d90c0566-221.webp",
+    "location": "Europe,  Israel",
     "remote": true,
-    "url": "https://jobicy.com/jobs/153886-senior-data-engineer-4",
-    "description": "Why Socure ?\n Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people every day.\n We hire people who want that level of responsibility. People who move fast, think critically, act like owners, and care deeply about solving customer problems with precision. If you want predictability or narrow scope, this won’t be your place. If you want to help build the future of identity with a team that holds a high bar for itself — keep reading.\n About the Role\n We are looking for a Senior Data Engineer to join our Data Automation team. You will play a critical role in designing and building scalable data platforms and pipelines that power Socure’s identity verification products and analytics. This role is ideal for someone who has a strong passion for solving real business problems with data, and combines deep hands-on data engineering expertise with strong ownership.\n What You'll Do\n • Design and build batch and streaming data pipelines to support automated data ingestion, ML feature engineering and analytics across multiple product domains.\n • Own end-to-end delivery of complex, ambiguous data initiatives, including architecture, implementation, testing, deployment, monitoring, and documentation.\n • Develop and evolve the data platform to support large-scale data processing using modern cloud-native technologies.\n • Automate data operations (validation, quality checks, alerting, backfills, and recovery workflows) to reduce manual effort and improve consistency.\n • Optimize cost, performance, and reliability of data workloads.\n • Partner closely with cross-functional teams (Data Science, Product, Engineering) to understand requirements, translate them into technical solutions.\n • Evaluate and adopt new technologies (new processing engines, storage forma…",
+    "url": "https://jobicy.com/jobs/156537-senior-data-engineer-5",
+    "description": "About Nebius :\n Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.\n Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.\n Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D.\n The role\n The Data Engineering team builds and operates the data platform that powers analytics, business intelligence, operational reporting, and data-driven products across Nebius. We ingest data from internal and external systems, develop reliable transformation pipelines and data models, and make trusted datasets available to business and product teams.\n We are looking for a Senior Data Engineer to own substantial parts of our data platform and deliver complex data products end to end. You will turn ambiguous business needs into pragmatic technical solutions, make architecture and implementation trade-offs, and improve the reliability, scalability, and usability of our data ecosystem.\n You will work closely with product, platform, and business teams, helping them use data effectively while ensuring that our systems remain maintainable and trustworthy as Nebius grows.\n Your responsibilities:\n Own the design, delivery, and operation of complex data pipelines, datasets, and platform components.\n Translate business and analytical requirements into scalable data models, reliable data products, and clear technical plans.\n Design and evolve data architecture, storage, processing, and orchestration patterns for large-scale wo…",
     "tags": [
       "Data Science & Analytics",
       "Senior"
     ],
     "jobType": "Full-Time",
-    "postedAt": "2026-10-23T03:50:10.000Z",
-    "scrapedAt": "2026-10-23T10:57:41.000Z"
-  },
-  {
-    "id": "arbeitnow:hris-lead-analytics-engineer-lille-jardin-des-plantes-nord-409658",
-    "externalId": "hris-lead-analytics-engineer-lille-jardin-des-plantes-nord-409658",
-    "source": "arbeitnow",
-    "title": "HRIS - Lead Analytics Engineer (f/m/d)",
-    "company": "Decathlontechnology",
-    "location": "Lille - Jardin des Plantes, Nord",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/hris-lead-analytics-engineer-lille-jardin-des-plantes-nord-409658",
-    "description": "<h3><strong style=\"font-size: 14px;\"></strong></h3>\n<h1><img class=\"an1\" src=\"https://fonts.gstatic.com/s/e/notoemoji/17.0/1f680/72.png\" alt=\"🚀\" data-emoji=\"🚀\" style=\"max-width: 100%;\"> Lead Data Engineer - HR Data Migration (Workday) - People VF</h1>\n<p>Dans le cadre d'un remplacement en interne, nous recrutons un·e <strong>Lead Data Engineer</strong>, basé·e à Lille.</p>\n<p>Nous souhaitons accélérer la transformation et la digitalisation de nos processus RH, en partie grâce à une forte maîtrise de nos données People et de leurs usages. Pour accompagner cette transformation, nous déployons une plateforme RH mondiale (Workday) qui intégrera un CORE RH et plusieurs modules de talent management pour les 65 pays dans lesquels Decathlon est implanté.</p>\n<p><strong>Votre mission :</strong> Au croisement de la stratégie et de l'exécution technique, vous serez le/la garant·e technique de la migration de nos données depuis nos systèmes legacy vers Workday. En tant que Lead Data Engineer, vous concevrez l'architecture de transformation, piloterez la création des pipelines de données, et mettrez en place un monitoring rigoureux pour assurer une migration \"zéro défaut\". Vous travaillerez sous la responsabilité du Program Leader et en étroite collaboration avec les équipes projet locales et globales.</p>\n<h3><img class=\"an1\" src=\"https://fonts.gstatic.com/s/e/notoemoji/17.0/1f3af/72.png\" alt=\"🎯\" data-emoji=\"🎯\" style=\"max-width: 100%;\"> VOS RESPONSABILITÉS PRINCIPALES</h3>\n<p><strong>1. Architecture et Stratégie de Transformation des données :</strong></p>\n<ul>\n<li>\n<p>Définir l'architecture technique et la stratégie de migration des données de nos systèmes sources (legacies) vers le template cible Workday.</p>\n</li>\n<li>\n<p>Identifier le périmètre technique de la migration et concevoir des modèles de données répondant aux exigences fonctionnelles et de sécurité.</p>\n</li>\n<li>\n<p>Documenter de manière précise les systèmes sources, les flux, et les règles de transformation…",
-    "tags": [
-      "Operations"
-    ],
-    "postedAt": "2026-10-22T17:55:31.000Z",
-    "scrapedAt": "2026-10-23T10:57:40.902Z"
+    "postedAt": "2026-10-23T07:09:55.000Z",
+    "scrapedAt": "2026-10-23T16:23:45.750Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-zoetermeer-196651",
@@ -51,26 +35,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-10-22T11:51:51.000Z",
-    "scrapedAt": "2026-10-23T10:57:40.902Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-nifi-zurich-71679",
-    "externalId": "data-engineer-nifi-zurich-71679",
-    "source": "arbeitnow",
-    "title": "Data Engineer NiFi",
-    "company": "Coopers Group AG",
-    "location": "Zürich",
-    "remote": false,
-    "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/data-engineer-nifi-zurich-71679",
-    "description": "................\n We are looking for an experienced Data Engineer with strong expertise in Apache NiFi to support our client's team in Maulburg, Germany .\n In this role, you will provide technical expertise in NiFi and help the team implement and manage data-related processes efficiently and reliably.\n Your Responsibilities :\n Provide technical support and expertise in Apache NiFi to the client's team Support the implementation and maintenance of data processing workflows using Apache NiFi Analyse and assist with technical issues related to NiFi Work closely with the client's team to ensure smooth operations and effective implementation of requirements Your Profile:\n Solid experience with Apache NiFi Experience in data engineering and data processing Independent, structured and solution-oriented working style Strong communication skills and the ability to collaborate effectively with a technical team German language skills preferred; English is also an option Find Jobs in Switzerland on Arbeitnow",
-    "tags": [
-      "IT",
-      "Befristeter arbeitsvertrag",
-      "contract"
-    ],
-    "jobType": "Befristeter arbeitsvertrag",
-    "postedAt": "2026-10-22T09:01:11.000Z",
-    "scrapedAt": "2026-10-23T10:57:40.902Z"
+    "scrapedAt": "2026-10-23T16:23:45.619Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -86,7 +51,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-10-23T10:57:41.366Z"
+    "scrapedAt": "2026-10-23T16:23:46.189Z"
   },
   {
     "id": "greenhouse:airbnb-8284841",
@@ -102,7 +67,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-10-16T16:32:46.000Z",
-    "scrapedAt": "2026-10-23T10:57:41.366Z"
+    "scrapedAt": "2026-10-23T16:23:46.189Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -118,7 +83,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-23T10:57:41.366Z"
+    "scrapedAt": "2026-10-23T16:23:46.189Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -134,7 +99,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-10-23T10:57:41.366Z"
+    "scrapedAt": "2026-10-23T16:23:46.189Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -150,7 +115,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-10-23T10:57:41.366Z"
+    "scrapedAt": "2026-10-23T16:23:46.189Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -166,6 +131,38 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-23T10:57:41.366Z"
+    "scrapedAt": "2026-10-23T16:23:46.189Z"
+  },
+  {
+    "id": "greenhouse:block-5442647008",
+    "externalId": "block:5442647008",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer, Product",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "remote": false,
+    "url": "http://block.xyz/careers/jobs/5442647008?gh_jid=5442647008",
+    "description": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.\nToday, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.\n The Role\n As a Data Engineer, you will handle everything from data architecture and modeling to data pipeline tooling and dashboarding. You will enable a range of other engineering and business teams to make impactful business decisions by laying the foundation of our large and unique datasets that span across multiple products. This role will support the product data engineering team.\n The Product Data Engineering Team at Block builds and maintains the curated data foundation that powers all of Block's product lines — Cash App, Square, Afterpay, and Tidal. We transform raw event streams, transactional systems, and operational data into governed, tested, and reliable analytical assets across domains including banking, lending, commerce, investing, checkout, and AI assistants. We partner with Product, Engineering, Data Science, Machine Learning, and Applied AI teams to deliver the metrics, experimentation frameworks, and ML-ready datasets that enable Block's products to grow, improve, and serve customers at scale.\n You Will\n Lead the creation and optimization of data models…",
+    "tags": [
+      "10418 Engineering - Data & Data Science"
+    ],
+    "postedAt": "2026-10-08T21:28:47.000Z",
+    "scrapedAt": "2026-10-23T16:23:46.189Z"
+  },
+  {
+    "id": "greenhouse:block-5434325008",
+    "externalId": "block:5434325008",
+    "source": "greenhouse",
+    "title": "Senior Analytics Engineer, AI & DX Analytics",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "remote": false,
+    "url": "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
+    "description": "Block builds simple, powerful tools that make progress towards an economy that’s truly open to all.\n Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Join us.\n The Role\n The AI & DX (Developer Experience) Analytics team exists to measure and improve Block's developer experience and investment in AI. We turn raw engineering signals (agent session data, pull request and CI activity, and AI spend) into reporting and analysis that shape leadership's AI investment decisions, and drive improvement in AI ROI and developer experience. Your work will be the trusted source of truth that engineers and executives use to decide where AI investment is working and where to redirect it.\n We're hiring a Senior Analytics Engineer to own parts of that pipeline end to end. This is a broad, high-visibility role with a lot of white space: you will instrument new telemetry at the source and build production pipelines that turn it into governed data, then turn that governed data into executive-facing reporting and the analysis that surfaces concrete opportunities to improve AI ROI and developer experience. You'll also help pioneer one of the most consequential open problems in the industry right now: measuring the productivity impact of an increasingly AI- and agent-augmented engineering workforce, where there is no textbook answer and real room to set the standard. You'll define new metrics and craft the visual narrative — the charts, dashboards, and presentation materials — that make them land with…",
+    "tags": [
+      "10410 Engineering - Developer Experience"
+    ],
+    "postedAt": "2026-09-24T17:40:25.000Z",
+    "scrapedAt": "2026-10-23T16:23:46.189Z"
   }
 ]
