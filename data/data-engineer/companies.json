@@ -193,27 +193,6 @@
     ]
   },
   {
-    "company": "AVISIA",
-    "jobCount": 3,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Paris, Île-de-France, France",
-      "Lille, Hauts-de-France, France"
-    ],
-    "sampleTitles": [
-      "Data Engineer H/F - Paris",
-      "Stage de fin d'études - Analytics Engineer H/F - Paris",
-      "Data Engineer H/F Confirmé(e) - Lille"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/avisia/data-engineer-h-f-paris-250437",
-      "https://www.arbeitnow.fr/jobs/companies/avisia/stage-de-fin-detudes-analytics-engineer-h-f-paris-300289",
-      "https://www.arbeitnow.fr/jobs/companies/avisia/data-engineer-h-f-confirmee-lille-249654"
-    ]
-  },
-  {
     "company": "Affirm",
     "jobCount": 2,
     "sources": [
@@ -308,25 +287,6 @@
     ]
   },
   {
-    "company": "Pinterest",
-    "jobCount": 2,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "New York, NY, US; Remote, US",
-      "San Francisco, CA, US; Remote, US"
-    ],
-    "sampleTitles": [
-      "Staff Software Engineer, Infrastructure Data Engineering",
-      "Sr. Technical Program Manager, Data Engineering"
-    ],
-    "officialUrls": [
-      "https://www.pinterestcareers.com/jobs/?gh_jid=8162539",
-      "https://www.pinterestcareers.com/jobs/?gh_jid=8209014"
-    ]
-  },
-  {
     "company": "Spotify",
     "jobCount": 2,
     "sources": [
@@ -378,6 +338,22 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.nl/jobs/companies/aihr/lead-analytics-engineer-rotterdam-137108"
+    ]
+  },
+  {
+    "company": "AVISIA",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Paris, Île-de-France, France"
+    ],
+    "sampleTitles": [
+      "Data Engineer H/F - Paris"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/avisia/data-engineer-h-f-paris-250437"
     ]
   },
   {
@@ -477,22 +453,6 @@
     ]
   },
   {
-    "company": "Livescore9",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/livescore9/senior-data-engineer-london-116975"
-    ]
-  },
-  {
     "company": "PAICON",
     "jobCount": 1,
     "sources": [
@@ -509,35 +469,19 @@
     ]
   },
   {
-    "company": "Perk",
+    "company": "Pinterest",
     "jobCount": 1,
     "sources": [
-      "arbeitnow"
+      "greenhouse"
     ],
     "locations": [
-      "London"
+      "New York, NY, US; Remote, US"
     ],
     "sampleTitles": [
-      "Senior Analytics Engineer"
+      "Staff Software Engineer, Infrastructure Data Engineering"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-analytics-engineer-london-399772"
-    ]
-  },
-  {
-    "company": "Puur Data",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Ede, Gelderland, Nederland"
-    ],
-    "sampleTitles": [
-      "Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.nl/jobs/companies/puur-data/data-engineer-ede-471323"
+      "https://www.pinterestcareers.com/jobs/?gh_jid=8162539"
     ]
   },
   {
@@ -605,22 +549,6 @@
     ]
   },
   {
-    "company": "Street Group",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Manchester"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/street-group/senior-data-engineer-manchester-345585"
-    ]
-  },
-  {
     "company": "Stripe",
     "jobCount": 1,
     "sources": [
@@ -650,6 +578,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/twilio/jobs/8044650"
+    ]
+  },
+  {
+    "company": "virtual7 GmbH",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Homeoffice"
+    ],
+    "sampleTitles": [
+      "Senior Oracle Data Engineer (m/w/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-177938"
     ]
   }
 ]
