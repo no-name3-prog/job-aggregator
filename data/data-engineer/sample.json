@@ -1,24 +1,5 @@
 [
   {
-    "id": "jobicy:156537",
-    "externalId": "156537",
-    "source": "jobicy",
-    "title": "Senior Data Engineer",
-    "company": "Nebius",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/d90c0566-221.webp",
-    "location": "Europe,  Israel",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/156537-senior-data-engineer-5",
-    "description": "About Nebius :\n Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.\n Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.\n Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D.\n The role\n The Data Engineering team builds and operates the data platform that powers analytics, business intelligence, operational reporting, and data-driven products across Nebius. We ingest data from internal and external systems, develop reliable transformation pipelines and data models, and make trusted datasets available to business and product teams.\n We are looking for a Senior Data Engineer to own substantial parts of our data platform and deliver complex data products end to end. You will turn ambiguous business needs into pragmatic technical solutions, make architecture and implementation trade-offs, and improve the reliability, scalability, and usability of our data ecosystem.\n You will work closely with product, platform, and business teams, helping them use data effectively while ensuring that our systems remain maintainable and trustworthy as Nebius grows.\n Your responsibilities:\n Own the design, delivery, and operation of complex data pipelines, datasets, and platform components.\n Translate business and analytical requirements into scalable data models, reliable data products, and clear technical plans.\n Design and evolve data architecture, storage, processing, and orchestration patterns for large-scale wo…",
-    "tags": [
-      "Data Science & Analytics",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-10-23T07:09:55.000Z",
-    "scrapedAt": "2026-10-23T16:23:45.750Z"
-  },
-  {
     "id": "arbeitnow:senior-data-engineer-zoetermeer-196651",
     "externalId": "senior-data-engineer-zoetermeer-196651",
     "source": "arbeitnow",
@@ -35,7 +16,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-10-22T11:51:51.000Z",
-    "scrapedAt": "2026-10-23T16:23:45.619Z"
+    "scrapedAt": "2026-10-23T20:56:43.347Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -51,7 +32,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-10-23T16:23:46.189Z"
+    "scrapedAt": "2026-10-23T20:56:43.850Z"
   },
   {
     "id": "greenhouse:airbnb-8284841",
@@ -67,7 +48,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-10-16T16:32:46.000Z",
-    "scrapedAt": "2026-10-23T16:23:46.189Z"
+    "scrapedAt": "2026-10-23T20:56:43.850Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -83,7 +64,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-23T16:23:46.189Z"
+    "scrapedAt": "2026-10-23T20:56:43.850Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -99,7 +80,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-10-23T16:23:46.189Z"
+    "scrapedAt": "2026-10-23T20:56:43.850Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -115,7 +96,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-10-23T16:23:46.189Z"
+    "scrapedAt": "2026-10-23T20:56:43.850Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -131,7 +112,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-23T16:23:46.189Z"
+    "scrapedAt": "2026-10-23T20:56:43.850Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -147,7 +128,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-10-23T16:23:46.189Z"
+    "scrapedAt": "2026-10-23T20:56:43.850Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -163,6 +144,22 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-10-23T16:23:46.189Z"
+    "scrapedAt": "2026-10-23T20:56:43.850Z"
+  },
+  {
+    "id": "greenhouse:figma-6178851004",
+    "externalId": "figma:6178851004",
+    "source": "greenhouse",
+    "title": "Data Engineer Intern (2027)",
+    "company": "Figma",
+    "location": "San Francisco, CA • New York, NY",
+    "remote": false,
+    "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+    "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!\n We are looking for Data Engineering interns who are excited to help scale the systems and pipelines that power decision-making at Figma. As an intern on our data team, you will partner with engineers and analysts to design and build reliable datasets, ensure data quality, and make Figma's data more accessible across the company.\n This internship will be based out of our San Francisco or New York Hub.\n What you'll do at Figma:\n Build, test, and document data pipelines that bring product or business data into Figma’s data warehouse\n Help design foundational datasets that are trusted, well-documented, and easy to use\n Optimize pipelines for performance and scalability as Figma grows\n Partner with cross-functional teammates to understand data needs and deliver solutions\n Contribute to the tools and practices that make working with data at Figma easier\n With support from a manager and mentor, you’ll own a scoped project from problem definition through implementation, testing, documentation, and sharing the results.\n Some projects you could work on:\n Develop new ETL jobs to integrate product or business data into our warehouse\n Improve the performance and reliability of core pipelines\n Build reusable datasets that support experimentation, product and business analytics, or cross-functional stakeholders\n Document and simplify complex data workflows for broader use\n We'd love to hear from you if you have:\n Experience coding in Python or a similar language and writing SQL queries\n Experience building o…",
+    "tags": [
+      "Early Career"
+    ],
+    "postedAt": "2026-09-23T19:30:27.000Z",
+    "scrapedAt": "2026-10-23T20:56:43.850Z"
   }
 ]

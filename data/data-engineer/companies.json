@@ -1,20 +1,18 @@
 [
   {
     "company": "Salesforce",
-    "jobCount": 7,
+    "jobCount": 6,
     "sources": [
       "workday"
     ],
     "locations": [
       "4 Locations",
-      "2 Locations",
       "India - Hyderabad",
       "Mexico - Mexico City",
       "Ireland - Dublin"
     ],
     "sampleTitles": [
       "Staff & Senior Staff Data Platform Engineer - Slack",
-      "Data Engineering MTS/SMTS - ETL",
       "Data Engineering SMTS/LMTS",
       "Data Engineer Senior | AI & Data",
       "Senior Data Engineer",
@@ -23,10 +21,10 @@
     ],
     "officialUrls": [
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Staff---Senior-Staff-Data-Platform-Engineer---Slack_JR365133-1",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Data-Engineering-MTS-SMTS---ETL_JR364390",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Data-Engineering-SMTS-LMTS--Revenue-Analytics_JR364686",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR363793",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657"
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
     ]
   },
   {
@@ -149,27 +147,6 @@
     ]
   },
   {
-    "company": "Airbnb",
-    "jobCount": 3,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "San Francisco, CA",
-      "United States"
-    ],
-    "sampleTitles": [
-      "Staff Data Engineer, Tech Foundations",
-      "Senior Staff Data Engineer, Foundational Data",
-      "Senior Staff Data Engineer - Data Stewardship"
-    ],
-    "officialUrls": [
-      "https://careers.airbnb.com/positions/8284841?gh_jid=8284841",
-      "https://careers.airbnb.com/positions/8224032?gh_jid=8224032",
-      "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
-    ]
-  },
-  {
     "company": "Autodesk",
     "jobCount": 3,
     "sources": [
@@ -208,6 +185,25 @@
     "officialUrls": [
       "https://job-boards.greenhouse.io/affirm/jobs/7916080003",
       "https://job-boards.greenhouse.io/affirm/jobs/7813362003"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "jobCount": 2,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "San Francisco, CA",
+      "United States"
+    ],
+    "sampleTitles": [
+      "Staff Data Engineer, Tech Foundations",
+      "Senior Staff Data Engineer, Foundational Data"
+    ],
+    "officialUrls": [
+      "https://careers.airbnb.com/positions/8284841?gh_jid=8284841",
+      "https://careers.airbnb.com/positions/8224032?gh_jid=8224032"
     ]
   },
   {
@@ -369,22 +365,6 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
-    ]
-  },
-  {
-    "company": "Nebius",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "Europe,  Israel"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/156537-senior-data-engineer-5"
     ]
   },
   {
