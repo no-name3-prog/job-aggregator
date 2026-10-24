@@ -16,7 +16,7 @@
     ],
     "jobType": "Student college",
     "postedAt": "2026-10-24T17:51:47.000Z",
-    "scrapedAt": "2026-10-24T20:08:54.455Z"
+    "scrapedAt": "2026-10-24T22:52:03.022Z"
   },
   {
     "id": "arbeitnow:data-engineer-london-281157",
@@ -34,26 +34,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-10-24T17:40:13.000Z",
-    "scrapedAt": "2026-10-24T20:08:54.455Z"
-  },
-  {
-    "id": "jobicy:156760",
-    "externalId": "156760",
-    "source": "jobicy",
-    "title": "Staff Data Engineer - US Remote",
-    "company": "PerfectServe",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/04/7e6f5669fc8c9ea0aa484ce7c3058599.jpg",
-    "location": "USA",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/156760-staff-data-engineer-us-remote",
-    "description": "What is PerfectServe ?\n PerfectServe is a leading provider of clinical communication and physician scheduling solutions in the health IT space. The company was founded in 1997 and has grown steadily since then, with a notable jump after several major acquisitions were announced in 2019. PerfectServe now has 400+ employees, 30,000+ customers — spanning medical practices, hospitals, and health systems — and $100 million+ in annual revenue.\n PerfectServe’s mission is to accelerate speed to care by optimizing provider schedules and routing communications — including messages, pages, calls, and alerts — to the right place at the right time in any care setting. By facilitating real-time information sharing, building better schedules, and automating important clinical workflows, we believe we can help our customers advance patient care and improve the well-being of their clinicians.\n Leading analyst firms like Gartner® and KLAS Research have consistently validated our approach:\n In 2026, PerfectServe was named highest in execution and furthest in vision in the Gartner Magic Quadrant™ for Clinical Communication and Collaboration — the clear segment leader.\n PerfectServe also received two Best in KLAS awards in 2026 — one for physician scheduling and another for ambulatory clinical communications. That makes for 11 Best in KLAS awards over the past 9 years.\n At PerfectServe, you'll have a unique opportunity to join a collaborative team with decades of experience that finds new ways to delight our customers every day. This involves consistent efforts to stay on the cutting edge of product development, which includes everything from implementing AI in new and existing solutions to brainstorming with customers about novel workflows. But you don't have to be in product to make in impact — everybody at PerfectServe contributes to important work that moves the business forward.\n If you're looking for a well-established, tech-forward company full of smart people doing meaningful w…",
-    "tags": [
-      "Data Science & Analytics",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-10-24T16:12:44.000Z",
-    "scrapedAt": "2026-10-24T20:08:54.550Z"
+    "scrapedAt": "2026-10-24T22:52:03.022Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-document-ai-pipelines-berlin-58783",
@@ -75,7 +56,7 @@
     ],
     "jobType": "Freelancer / indepedent contractor",
     "postedAt": "2026-10-24T14:00:46.000Z",
-    "scrapedAt": "2026-10-24T20:08:54.455Z"
+    "scrapedAt": "2026-10-24T22:52:03.022Z"
   },
   {
     "id": "arbeitnow:senior-bi-data-engineer-amsterdam-125714",
@@ -91,7 +72,7 @@
       "IT"
     ],
     "postedAt": "2026-10-24T11:55:26.000Z",
-    "scrapedAt": "2026-10-24T20:08:54.455Z"
+    "scrapedAt": "2026-10-24T22:52:03.022Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-london-444043",
@@ -107,7 +88,7 @@
       "Information Capital and Data Services (ICDS)"
     ],
     "postedAt": "2026-10-24T11:55:25.000Z",
-    "scrapedAt": "2026-10-24T20:08:54.455Z"
+    "scrapedAt": "2026-10-24T22:52:03.022Z"
   },
   {
     "id": "arbeitnow:flight-dynamics-data-engineer-all-genders-munich-bavaria-123108",
@@ -123,7 +104,7 @@
       "Flight Science"
     ],
     "postedAt": "2026-10-24T08:55:25.000Z",
-    "scrapedAt": "2026-10-24T20:08:54.455Z"
+    "scrapedAt": "2026-10-24T22:52:03.022Z"
   },
   {
     "id": "arbeitnow:data-platform-engineer-data-operations-all-genders-munich-bavaria-125008",
@@ -139,25 +120,7 @@
       "Perception Data Operations"
     ],
     "postedAt": "2026-10-24T08:55:25.000Z",
-    "scrapedAt": "2026-10-24T20:08:54.455Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-cardiff-121842",
-    "externalId": "data-engineer-cardiff-121842",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Veezu",
-    "location": "Cardiff HQ",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/veezu/data-engineer-cardiff-121842",
-    "description": "Your role at Veezu:\n As a Data Engineer, you'll build and maintain the data platform that powers reporting, analytics and data science across Veezu. Reporting into the Director of Data Engineering, you'll work hands-on with Microsoft Fabric, SQL, Python/PySpark and Power BI, bringing data in from our booking systems, databases and third-party APIs and shaping it into trusted, well-modelled datasets that the business relies on every day.\n Who are Veezu?\n Veezu is the UK's fastest growing taxi and private hire technology business operating across hundreds of UK towns and cities. We are a tech-driven on-demand mobility service that supports our hyper-local communities, helping them thrive and so much more!\n What you’ll do:\n Design, build and maintain ETL/ELT pipelines in Microsoft Fabric using Pipelines, Notebooks, Lakehouses, Warehouses and OneLake.\n Write PySpark notebooks to ingest and transform data from SQL Server databases, REST APIs, SaaS applications and file-based exports.\n Develop and optimise SQL transformations, stored procedures and Kimball-style star-schema data models.\n Build and support Power BI semantic models and the datasets behind dashboards used by teams across the business.\n Implement data quality, validation and reconciliation checks so numbers match across systems.\n Monitor production pipelines and troubleshoot data, performance and refresh issues.\n Use Git, automated testing and CI/CD to support reliable, repeatable deployments.\n Maintain clear documentation, data lineage and engineering standards.\n Work with analysts and business stakeholders to turn requirements into practical data solutions.\n Be committed to maintaining our ISO27001 certification and set high standards for Information Security compliance.\n What you’ll need:\n Essential\n 2-4 years' experience in a data engineering role.\n Strong SQL skills, including complex transformations and performance tuning.\n Hands-on experience with Microsoft Fabric (or Azure Synapse / Data Factory and…",
-    "tags": [
-      "Engineering",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-10-24T08:40:15.000Z",
-    "scrapedAt": "2026-10-24T20:08:54.455Z"
+    "scrapedAt": "2026-10-24T22:52:03.022Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -173,6 +136,38 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-10-24T20:08:55.014Z"
+    "scrapedAt": "2026-10-24T22:52:03.572Z"
+  },
+  {
+    "id": "greenhouse:airbnb-8284841",
+    "externalId": "airbnb:8284841",
+    "source": "greenhouse",
+    "title": "Staff Data Engineer, Tech Foundations",
+    "company": "Airbnb",
+    "location": "San Francisco, CA",
+    "remote": false,
+    "url": "https://careers.airbnb.com/positions/8284841?gh_jid=8284841",
+    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n Staff Data Engineer, Enterprise Core Datasets, Tech Foundations\n The Community You Will Join:\n At Airbnb, trustworthy data powers business decisions, product innovation, and operational efficiency. The Enterprise Core Datasets team builds the technical data foundations that help Airbnb understand how the business operates, where resources are invested, and how new technologies create value.\n Our scope spans high-impact datasets across the organization: measuring AI adoption, usage, and cost; understanding revenue, costs, and profitability through Unit Economics; integrating non-platform data from Jira and other enterprise applications; and powering critical company metrics such as Gross Booking Value and Revenue.\n You will join a team that values thoughtful architecture, engineering rigor, and operational ownership. We collaborate with engineering, product, analytics, finance, and business teams to turn complex requirements into dependable, reusable data assets. We welcome strong engineers who are curious about the business and eager to solve problems across diverse domains.\n The Difference You Will Make:\n As a Staff Data Engineer, you will provide hands-on technical leadership for datasets that shape decisions across Airbnb. Your work will help the organization measure AI adoption and spending, understand the economics of its products, and connect enterprise application data to meaningful business and operational insights.\n You will lead complex initiatives from problem definition and architectural design through implementation, validation, and production operations. You will build extensible data foundation…",
+    "tags": [
+      "Engineering & Technology"
+    ],
+    "postedAt": "2026-10-16T16:32:46.000Z",
+    "scrapedAt": "2026-10-24T22:52:03.572Z"
+  },
+  {
+    "id": "greenhouse:reddit-8282760",
+    "externalId": "reddit:8282760",
+    "source": "greenhouse",
+    "title": "Analytics Engineer",
+    "company": "Reddit",
+    "location": "Remote - United States",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8282760",
+    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com .\n We are looking for a talented and driven individual to be a key part of our Analytics Engineering team within the Data Science organization. We are looking for someone who can work closely with Data Scientists and Engineers across diverse areas of the organization (Consumer, Ads, and Marketing) to curate, develop, and deploy the right data and analytic tooling to drive Reddit’s product forward and provide a data and tooling foundation that will last decades. Your work will empower thousands of your colleagues to improve the user experience and grow our consumer base.\n Successful candidates have a strong track record of understanding and deeply caring about the purpose of data to support business goals, and can act as an effective conduit between Data Producers and Data Consumers. This role sits at the intersection of Data Science and Data Engineering, and the ideal candidate has skills, experience, and passion in both areas.\n Responsibilities:\n Be a key contributor and collaborator to the success of data quality, performance, reliability, and automation initiatives.\n Manage a portfolio of data products that deliver high-quality, trustworthy data\n Develop and maintain robust data pipelines and workflows for data ingestion, processing, and transformation. Work closely with engineering to ensure the quality and reliability of these data pipelines.\n Develop and implement data quality checks, conduct QA and implement monitoring routines\n Create and manage new data integrations across internal and external systems\n Create t…",
+    "tags": [
+      "Data Science"
+    ],
+    "postedAt": "2026-10-14T22:03:16.000Z",
+    "scrapedAt": "2026-10-24T22:52:03.572Z"
   }
 ]
