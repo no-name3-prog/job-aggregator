@@ -285,6 +285,42 @@
     ]
   },
   {
+    "company": "Quantum",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Head of Data Engineering",
+      "Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/quantum/head-of-data-engineering-london-75195",
+      "https://www.arbeitnow.co.uk/jobs/companies/quantum/data-engineer-london-482464"
+    ]
+  },
+  {
+    "company": "Skdse",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Munich, Bavaria"
+    ],
+    "sampleTitles": [
+      "Flight Dynamics Data Engineer (All Genders)",
+      "Data Platform Engineer – Data Operations (all genders)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/skdse/flight-dynamics-data-engineer-all-genders-munich-bavaria-123108",
+      "https://www.arbeitnow.com/jobs/companies/skdse/data-platform-engineer-data-operations-all-genders-munich-bavaria-125008"
+    ]
+  },
+  {
     "company": "Spotify",
     "jobCount": 2,
     "sources": [
@@ -320,6 +356,22 @@
     "officialUrls": [
       "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
       "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
+    ]
+  },
+  {
+    "company": "appinio",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Hamburg, Hamburg"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer (m/f/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/appinio/analytics-engineer-hamburg-hamburg-166268"
     ]
   },
   {
@@ -435,22 +487,6 @@
     ]
   },
   {
-    "company": "SHIFTBASE B.V.",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Zoetermeer, Zuid-Holland, Netherlands"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.nl/jobs/companies/shiftbase-bv/senior-data-engineer-zoetermeer-196651"
-    ]
-  },
-  {
     "company": "Stripe",
     "jobCount": 1,
     "sources": [
@@ -480,6 +516,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/twilio/jobs/8044650"
+    ]
+  },
+  {
+    "company": "Veezu",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Cardiff HQ"
+    ],
+    "sampleTitles": [
+      "Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/veezu/data-engineer-cardiff-121842"
     ]
   }
 ]
