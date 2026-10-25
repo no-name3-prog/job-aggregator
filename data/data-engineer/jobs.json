@@ -1,5 +1,78 @@
 [
   {
+    "id": "arbeitnow:data-engineer-ratingen-336049",
+    "externalId": "data-engineer-ratingen-336049",
+    "source": "arbeitnow",
+    "title": "Data Engineer (m/w/d)",
+    "company": "HyPlus Technology GmbH",
+    "location": "Ratingen, Nordrhein-Westfalen, Germany",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/data-engineer-ratingen-336049",
+    "description": "Über uns:\n HyPlus ist Dein Wegbegleiter im digitalen Wandel. Gemeinsam mit unseren Kund:innen entwickeln wir strukturiert, partnerschaftlich und mit klarem Fokus auf nachhaltigen Mehrwert, deren digitale DNA. Wir begleiten Unternehmen von der Anforderungsanalyse über Architektur, Softwareentwicklung und Implementierung bis hin zum Betrieb. Mit rund 800 Kolleg:innen in Deutschland, Polen, Litauen, Rumänien und Indien verbinden wir technologische Exzellenz mit Branchenkompetenz in Automotive, Handel, Banken & Versicherungen sowie dem öffentlichen Sektor.\n Wir begrüßen Bewerberinnen und Bewerber, die sich bereits mit modernen KI-gestützten Entwicklungstools und generativer KI beschäftigen oder Interesse daran haben, diese sinnvoll in ihren Arbeitsalltag zu integrieren. Den reflektierten Einsatz von KI sehen wir als wertvolle Ergänzung zu technischem Know-how und eigenständigem Denken.\n Als Data Engineer bringst du Datenlösungen eigenverantwortlich zum Laufen: Du entwickelst Pipelines und Datenmodelle innerhalb etablierter Plattformarchitekturen, betreust sie im Betrieb und verbesserst sie kontinuierlich. Architekturfragen entscheidest du nicht allein, du bringst dich aber mit eigenen Vorschlägen aktiv ein und übernimmst Schritt für Schritt Verantwortung für eigene Themenbereiche wie Datenqualität, Orchestrierung oder DataOps.\n Entwicklung, Test und Betrieb von ETL-/ELT-Pipelines für Batch- und Streaming-Verarbeitung, z. B. mit Python, SQL, Spark, dbt oder Airflow\n Umsetzung und Weiterentwicklung von Datenmodellen in bestehenden Lakehouse- und Data-Warehouse-Architekturen, z. B. auf Basis von Star-Schema, Normalformen oder Data Vault\n Anbindung und Harmonisierung von Quellsystemen – etwa relationale Datenbanken, REST-APIs, Event-Streams oder ERP-Systeme\n Entwicklung wiederverwendbarer Transformations- und Reporting-Layer für Analytics- und KI-Anwendungsfälle\n Sicherstellung von Datenqualität durch Validierungsregeln, Reconciliation-Prozesse und Root-Cause-Analysen bei…",
+    "tags": [
+      "HyPlus Solutions",
+      "Mid",
+      "fulltime permanent"
+    ],
+    "jobType": "Mid",
+    "postedAt": "2026-10-25T06:31:37.000Z",
+    "scrapedAt": "2026-10-25T08:19:22.352Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-ratingen-28626",
+    "externalId": "senior-data-engineer-ratingen-28626",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer (m/w/d)",
+    "company": "HyPlus Technology GmbH",
+    "location": "Ratingen, Nordrhein-Westfalen, Germany",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/senior-data-engineer-ratingen-28626",
+    "description": "Über uns:\n HyPlus ist Dein Wegbegleiter im digitalen Wandel. Gemeinsam mit unseren Kund:innen entwickeln wir strukturiert, partnerschaftlich und mit klarem Fokus auf nachhaltigen Mehrwert, deren digitale DNA. Wir begleiten Unternehmen von der Anforderungsanalyse über Architektur, Softwareentwicklung und Implementierung bis hin zum Betrieb. Mit rund 800 Kolleg:innen in Deutschland, Polen, Litauen, Rumänien und Indien verbinden wir technologische Exzellenz mit Branchenkompetenz in Automotive, Handel, Banken & Versicherungen sowie dem öffentlichen Sektor.\n Wir begrüßen Bewerberinnen und Bewerber, die sich bereits mit modernen KI-gestützten Entwicklungstools und generativer KI beschäftigen oder Interesse daran haben, diese sinnvoll in ihren Arbeitsalltag zu integrieren. Den reflektierten Einsatz von KI sehen wir als wertvolle Ergänzung zu technischem Know-how und eigenständigem Denken.\n Als Senior Data Engineer verantwortest du die technische Ausgestaltung von Datenplattformen bei unseren Kunden von der Architekturentscheidung über die Umsetzung bis zum stabilen Betrieb. Du bist die fachliche Ansprechperson im Projekt, triffst Technologieentscheidungen mit Weitblick und gibst dein Wissen im Team weiter.\n Konzeption, Aufbau und Weiterentwicklung skalierbarer Datenplattformen und -architekturen (z. B. Lakehouse, Data Warehouse, Data Mesh) in Cloud-, Hybrid- und On-Premise-Umgebungen\n Verantwortung für Architektur- und Technologieentscheidungen entlang des gesamten Lebenszyklus von Datenlösungen – mit Fokus auf Skalierbarkeit, Performance und Wirtschaftlichkeit\n Entwicklung performanter Datenmodelle (z. B. dimensionale Modellierung, Data Vault, Normalformen) sowie wiederverwendbarer semantischer und Reporting-Layer\n Design und Betrieb robuster ETL-/ELT-Pipelines für Batch- und Streaming-Verarbeitung (z. B. mit Python, SQL, Spark, dbt, Airflow, Kafka)\n Anbindung und Harmonisierung heterogener Quellsysteme, etwa ERP-/SAP-Landschaften, APIs oder Event-Streams\n Performance- u…",
+    "tags": [
+      "HyPlus Solutions",
+      "Experienced",
+      "fulltime permanent"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-10-25T06:31:37.000Z",
+    "scrapedAt": "2026-10-25T08:19:22.352Z"
+  },
+  {
+    "id": "jobicy:154001",
+    "externalId": "154001",
+    "source": "jobicy",
+    "title": "Sr. Manager, Data Engineering",
+    "company": "Carrot",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/07/005d05de29487ec44cd07bd9d757d4e1.png",
+    "location": "USA",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/154001-sr-manager-data-engineering",
+    "description": "About Carrot :\n Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide.\n Carrot is widely regarded as a defining force in healthcare innovation as a recipient of several top-tier awards, including Fast Company's 'Most Innovative Companies' and CNBC's '100 Barrier Breaking Startups'. The company is regularly cited by leading global outlets — including The Economist, Bloomberg, The Wall Street Journal, NPR, ABC News, and Harvard Business Review — as a leading voice on digital health, the future of work, and family health. Learn more at get-carrot.com .\n The Opportunity\n Carrot is seeking a Sr. Manager, Data Engineering to lead our Business Intelligence data engineering function as it scales to meet, and anticipate, the needs of the organization and its clients. This is a senior player/coach role with a strong emphasis on strategic leadership, technical excellence, and organizational impact. You will lead and grow a high-impact team while remaining deeply hands-on in architecting and building Carrot's data infrastructure.\n You will set technical vision, drive cross-functional data strategy, and ensure our data systems are reliable, scalable, secure, and aligned with business priorities. You will influence and execute on the long-term roadmap for Data Engineering within the Data Team, defining how we ingest, transform, govern, and expose data across the company, and partner closely with senior leaders across Product, Engineering, Operations…",
+    "tags": [
+      "Data Science & Analytics",
+      "Director"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-10-25T04:15:33.000Z",
+    "scrapedAt": "2026-10-25T08:19:22.436Z"
+  },
+  {
+    "id": "arbeitnow:senior-manager-data-engineering-uk-reading-265759",
+    "externalId": "senior-manager-data-engineering-uk-reading-265759",
+    "source": "arbeitnow",
+    "title": "Senior Manager, Data Engineering",
+    "company": "Keyloop",
+    "location": "UK (Reading)",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/keyloop/senior-manager-data-engineering-uk-reading-265759",
+    "description": "Keyloop bridges the gap between dealers, manufacturers, technology suppliers and car buyers.\n We empower car dealers and manufacturers to fully embrace digital transformation. How? By creating innovative technology that makes selling cars better for our customers, and buying and owning cars better for theirs.\n We use cutting-edge technology to link our clients’ systems, departments and sites. We provide an open technology platform that’s shaping the industry for the future. We use data to help clients become more efficient, increase profitability and give more customers an amazing experience. Want to be part of it?\n Purpose of the role\n Join us to build a world‑class data and analytics platform that will reshape automotive retail. You’ll lead the engineering discipline that powers our data lake, warehouse, real‑time clickstream, and applied AI—turning large‑scale data into trusted, high‑impact products our customers use every day\n What you’ll lead:\n Data Platform Engineering Team – Own our AWS‑based datalake, warehouse and core data infrastructure, including security, reliability, cost efficiency and scalability.\n Analytics Engineering Team – Drive data modelling, transformation and pipeline standards through the lake/warehouse to power governed, reusable semantic layers and metrics.\n Clickstream Team – Operate and evolve our real‑time event ingestion and processing to bring product telemetry and digital signals into the platform.\n Key outcomes & responsibilities:\n Run the function day‑to‑day. Plan, prioritise and deliver across the teams and ensure resilient operations\n Set platform direction. Support Data Architects and contribute to the modern data architecture on AWS across storage, compute, streaming, governance and cataloguing; align designs to the AWS Well‑Architected Framework and the Data Analytics Lens.\n Raise engineering standards through Embed IaC, CI/CD for data, AI based development practices, MLOps, testing, observability, lineage and cost/FinOps; co…",
+    "tags": [
+      "Engineering"
+    ],
+    "postedAt": "2026-10-25T03:07:31.000Z",
+    "scrapedAt": "2026-10-25T08:19:22.352Z"
+  },
+  {
     "id": "arbeitnow:analytics-engineer-amsterdam-55461",
     "externalId": "analytics-engineer-amsterdam-55461",
     "source": "arbeitnow",
@@ -15,7 +88,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-10-24T23:40:15.000Z",
-    "scrapedAt": "2026-10-25T03:00:46.984Z"
+    "scrapedAt": "2026-10-25T08:19:22.352Z"
   },
   {
     "id": "arbeitnow:stage-data-engineer-reporting-bi-f-h-mars-2027-pouzauges-468050",
@@ -34,47 +107,7 @@
     ],
     "jobType": "Student college",
     "postedAt": "2026-10-24T17:51:47.000Z",
-    "scrapedAt": "2026-10-25T03:00:46.984Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-london-281157",
-    "externalId": "data-engineer-london-281157",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Cuspai",
-    "location": "Cambridge, UK",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/cuspai/data-engineer-london-281157",
-    "description": "About CuspAI CuspAI is the frontier AI company on a mission to solve the breakthrough materials needed to power human progress. While nature took billions of years to perfect molecules, we are harnessing AI to unlock trillion-dollar materials breakthroughs in months, not millennia. Our founding team is the most cited in the world, comprised of world-class researchers in AI, chemistry and engineering.\nWe are working on some of the hardest and most important challenges including energy, clean water, the future of compute, and carbon capture, and this is just the start of what our 'search engine' for next-generation materials will unlock.\nWe invite you to be part of a diverse, innovative team at the intersection of AI and materials science, working to create impactful partnerships that drive innovation, scalability, and industry collaboration. This work matters. Your work matters.\n We’re on the cusp of the on-demand materials era. Join us.\n The Role We are seeking a Data Engineer with strong software engineering fundamentals to own, design, develop, test, secure, and deploy data-rich tools, services, and web applications. In this role, you will build the foundational data systems and platforms that enable our materials scientists, machine learning engineers, and partners to collaborate on diverse datasets at scale.\n Your Impact As a key member of our engineering team, you will bridge the gap between complex materials science data and real-world application. You will empower researchers and machine learning models with clean, structured, and accessible data, directly accelerating our ability to discover and design breakthrough materials.\n What You Will Do Own the full software lifecycle of data-rich tools, services, and web applications from design through to deployment and security.\n Build scalable data ingestion, processing, and cleaning pipelines to handle both structured and complex unstructured data.\n Develop data-intensive Python APIs and intuitive web applicatio…",
-    "tags": [
-      "Platform & Engineering",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-10-24T17:40:13.000Z",
-    "scrapedAt": "2026-10-25T03:00:46.984Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-document-ai-pipelines-berlin-58783",
-    "externalId": "senior-data-engineer-document-ai-pipelines-berlin-58783",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer — Document & AI Pipelines",
-    "company": "Tracium GmbH",
-    "location": "Berlin",
-    "remote": true,
-    "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/senior-data-engineer-document-ai-pipelines-berlin-58783",
-    "description": "About Tracium https://www.linkedin.com/company/tracium/\n Tracium builds AI-assisted technical documentation software that turns complex manuals and engineering documents into structured, traceable information. Starting with maritime, we help technical teams extract maintenance information and create documentation through document intelligence and S1000D authoring.\n Your role You will build the data foundation connecting source documents, AI processing, human review, and downstream systems. Your focus will be reliable processing, clear data models, and traceability throughout the document lifecycle.\n What you’ll do Design document ingestion and processing pipelines for PDFs, XML, and related technical data.\n Build workflows for parsing, enrichment, validation, indexing, and export.\n Define data models for document structure, extracted entities, maintenance tasks, and source references.\n Implement document versioning, processing history, and reproducible reprocessing.\n Make pipelines resilient through retries, monitoring, automated checks, and clear failure handling.\n Work with AI engineers to productionise extraction and retrieval workflows.\n Support integrations with authoring tools, customer APIs, and ERP systems.\n What you bring Experience designing and operating production data pipelines.\n Strong Python, SQL, and data modelling skills.\n Experience with workflow orchestration, asynchronous processing, and object storage.\n A practical approach to testing, observability, and data quality.\n Experience with cloud infrastructure, containers, and infrastructure as code.\n The ability to take ownership from initial design through production support.\n Clear communication in English.\n Useful additional experience Document processing, XML.\n Search indexes, vector databases, or AI data pipelines.\n Multi-tenant platforms and private deployment environments.\n Why join Tracium? Own the data architecture of a growing product and help make complex technical information dependable…",
-    "tags": [
-      "Remote",
-      "Data Processing",
-      "Data Engineer",
-      "Freelancer / indepedent contractor",
-      "freelance",
-      "professional / experienced"
-    ],
-    "jobType": "Freelancer / indepedent contractor",
-    "postedAt": "2026-10-24T14:00:46.000Z",
-    "scrapedAt": "2026-10-25T03:00:46.984Z"
+    "scrapedAt": "2026-10-25T08:19:22.352Z"
   },
   {
     "id": "arbeitnow:senior-bi-data-engineer-amsterdam-125714",
@@ -90,55 +123,7 @@
       "IT"
     ],
     "postedAt": "2026-10-24T11:55:26.000Z",
-    "scrapedAt": "2026-10-25T03:00:46.984Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-london-444043",
-    "externalId": "senior-data-engineer-london-444043",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer",
-    "company": "sonyinteractiveentertainmentglobal",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-data-engineer-london-444043",
-    "description": "<div class=\"content-intro\"><p><strong>Why Sony Interactive Entertainment?</strong></p>\n<p>Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.</p></div><h1 style=\"line-height: 1.2;\"><span style=\"font-size: 12pt;\">Role Overview:</span></h1>\n<p style=\"line-height: 1.2;\"><span style=\"font-size: 12pt;\">We are looking for an experienced Senior Data Engineer to design, develop and operate trusted, scalable data solutions that power decision-making and transformation across Sony Interactive Entertainment (SIE). Working within Player Data Engineering, you will build reusable data pipelines, integration services and curated data products for business domains including Commerce, hardware, game play, products and services, and accounts.</span></p>\n<p style=\"line-height: 1.2;\"><span style=\"font-size: 12pt;\">This is a hands-on senior individual contributor role. You will partner with engineering, platform, product and business teams. Take end-to-end ownership of complex solutions and raise engineering standards through technical leadership and mentoring. You will help create reliable, governed and AI-ready Player data foundations.</span></p>\n<h1 style=\"line-height: 1.2;\"><span style=\"font-size: 12pt;\">What you'll be doing:</span></h1>\n<h2 style=\"line-height: 1.2;\"><span style=\"font-size: 12pt;\">Design, deliver and maintain Player data solutions</span></h2>\n<ul>\n<…",
-    "tags": [
-      "Information Capital and Data Services (ICDS)"
-    ],
-    "postedAt": "2026-10-24T11:55:25.000Z",
-    "scrapedAt": "2026-10-25T03:00:46.984Z"
-  },
-  {
-    "id": "arbeitnow:flight-dynamics-data-engineer-all-genders-munich-bavaria-123108",
-    "externalId": "flight-dynamics-data-engineer-all-genders-munich-bavaria-123108",
-    "source": "arbeitnow",
-    "title": "Flight Dynamics Data Engineer (All Genders)",
-    "company": "Skdse",
-    "location": "Munich, Bavaria",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/skdse/flight-dynamics-data-engineer-all-genders-munich-bavaria-123108",
-    "description": "<div class=\"content-intro\"><p><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">At Stark, we forge the future of European and national security through cutting-edge, AI-driven technology and unmatched engineering precision. As a premier defence technology company, our mission is clear: to equip NATO Allies and their partners &nbsp;with next-generation autonomous defence platforms and advanced AI-driven software built to perform in the world’s most demanding environments.</span></p>\n<p><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">We believe that true security stems from relentless innovation. By combining elite engineering talent with agile technology and an AI-native operational culture, Stark turns complex defence challenges into field-tested, multi-domain solutions.</span><br><br></p>\n<p><span style=\"font-size: 12pt;\"><strong><span style=\"font-family: helvetica, arial, sans-serif;\">WHY JOIN US</span></strong></span></p>\n<ul>\n<li style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\"><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">The software and systems you work on directly protect personnel and defend European and national sovereignty.</span></li>\n<li style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\"><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">You will work alongside industry-leading minds on autonomous systems, advanced propulsion, and secure cyber platforms.</span></li>\n<li style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\"><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">We foster a fast-paced, collaborative environment where bold ideas are supported by serious R&amp;D backing.</span></li>\n</ul></div><p><span style=\"font-size: 12pt;\"><strong>YOUR MISSION</strong></span></p>\n<p><span style=\"font-size: 12pt;\">As a Flight Dynamics Data / Software Engineer, you will own the end-to-en…",
-    "tags": [
-      "Flight Science"
-    ],
-    "postedAt": "2026-10-24T08:55:25.000Z",
-    "scrapedAt": "2026-10-25T03:00:46.984Z"
-  },
-  {
-    "id": "arbeitnow:data-platform-engineer-data-operations-all-genders-munich-bavaria-125008",
-    "externalId": "data-platform-engineer-data-operations-all-genders-munich-bavaria-125008",
-    "source": "arbeitnow",
-    "title": "Data Platform Engineer – Data Operations (all genders)",
-    "company": "Skdse",
-    "location": "Munich, Bavaria",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/skdse/data-platform-engineer-data-operations-all-genders-munich-bavaria-125008",
-    "description": "<div class=\"content-intro\"><p><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">At Stark, we forge the future of European and national security through cutting-edge, AI-driven technology and unmatched engineering precision. As a premier defence technology company, our mission is clear: to equip NATO Allies and their partners &nbsp;with next-generation autonomous defence platforms and advanced AI-driven software built to perform in the world’s most demanding environments.</span></p>\n<p><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">We believe that true security stems from relentless innovation. By combining elite engineering talent with agile technology and an AI-native operational culture, Stark turns complex defence challenges into field-tested, multi-domain solutions.</span><br><br></p>\n<p><span style=\"font-size: 12pt;\"><strong><span style=\"font-family: helvetica, arial, sans-serif;\">WHY JOIN US</span></strong></span></p>\n<ul>\n<li style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\"><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">The software and systems you work on directly protect personnel and defend European and national sovereignty.</span></li>\n<li style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\"><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">You will work alongside industry-leading minds on autonomous systems, advanced propulsion, and secure cyber platforms.</span></li>\n<li style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\"><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">We foster a fast-paced, collaborative environment where bold ideas are supported by serious R&amp;D backing.</span></li>\n</ul></div><p><span style=\"text-decoration: underline; font-size: 10pt;\"><strong>About the Team</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline; font-size: 10pt;\"><…",
-    "tags": [
-      "Perception Data Operations"
-    ],
-    "postedAt": "2026-10-24T08:55:25.000Z",
-    "scrapedAt": "2026-10-25T03:00:46.984Z"
+    "scrapedAt": "2026-10-25T08:19:22.352Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -154,7 +139,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:airbnb-8284841",
@@ -170,7 +155,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-10-16T16:32:46.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -186,7 +171,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -202,7 +187,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -218,7 +203,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -234,7 +219,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -250,7 +235,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -266,7 +251,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -282,7 +267,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:airbnb-8224032",
@@ -298,7 +283,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "lever:spotify-80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
@@ -318,7 +303,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-09-22T08:36:16.099Z",
-    "scrapedAt": "2026-10-25T03:03:48.649Z"
+    "scrapedAt": "2026-10-25T08:22:24.986Z"
   },
   {
     "id": "greenhouse:figma-6201407004",
@@ -334,7 +319,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-21T16:13:46.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -350,7 +335,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -366,7 +351,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -382,7 +367,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -398,7 +383,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -414,7 +399,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -430,7 +415,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -446,7 +431,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -462,7 +447,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:affirm-7916080003",
@@ -478,7 +463,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-08-20T13:43:45.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -498,7 +483,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-10-25T03:03:48.649Z"
+    "scrapedAt": "2026-10-25T08:22:24.986Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -517,7 +502,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-10-25T03:03:49.553Z"
+    "scrapedAt": "2026-10-25T08:22:27.610Z"
   },
   {
     "id": "greenhouse:stripe-8112043",
@@ -533,7 +518,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-08-06T14:27:44.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -549,7 +534,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -565,7 +550,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:affirm-7813362003",
@@ -581,7 +566,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-07-28T10:52:21.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -597,7 +582,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -613,7 +598,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:block-5281312008",
@@ -629,7 +614,7 @@
       "10109 Risk - Risk ML & DS"
     ],
     "postedAt": "2026-07-02T17:34:01.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:discord-8485884002",
@@ -645,7 +630,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-05-14T16:00:25.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -661,7 +646,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -677,7 +662,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -693,7 +678,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -709,7 +694,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -725,7 +710,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-10-25T03:00:47.572Z"
+    "scrapedAt": "2026-10-25T08:19:22.897Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -741,7 +726,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-10-25T03:00:54.608Z"
+    "scrapedAt": "2026-10-25T08:19:30.357Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -757,7 +742,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-10-25T03:00:54.608Z"
+    "scrapedAt": "2026-10-25T08:19:30.357Z"
   },
   {
     "id": "workday:nvidia-JR2027678",
@@ -771,7 +756,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-25T03:00:54.608Z"
+    "scrapedAt": "2026-10-25T08:19:30.357Z"
   },
   {
     "id": "workday:nvidia-JR2028539",
@@ -785,7 +770,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-25T03:00:54.608Z"
+    "scrapedAt": "2026-10-25T08:19:30.357Z"
   },
   {
     "id": "workday:nvidia-JR2023850",
@@ -799,7 +784,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-25T03:00:54.608Z"
+    "scrapedAt": "2026-10-25T08:19:30.357Z"
   },
   {
     "id": "workday:nvidia-JR2026497",
@@ -813,7 +798,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-25T03:00:54.608Z"
+    "scrapedAt": "2026-10-25T08:19:30.357Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -827,7 +812,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-25T03:00:54.608Z"
+    "scrapedAt": "2026-10-25T08:19:30.357Z"
   },
   {
     "id": "workday:salesforce-JR365133",
@@ -841,7 +826,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-25T03:00:54.608Z"
+    "scrapedAt": "2026-10-25T08:19:30.357Z"
   },
   {
     "id": "workday:salesforce-JR364686",
@@ -855,7 +840,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-25T03:00:54.608Z"
+    "scrapedAt": "2026-10-25T08:19:30.357Z"
   },
   {
     "id": "workday:salesforce-JR363793",
@@ -869,7 +854,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-25T03:00:54.608Z"
+    "scrapedAt": "2026-10-25T08:19:30.357Z"
   },
   {
     "id": "workday:adobe-R171875",
@@ -883,7 +868,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-25T03:00:54.608Z"
+    "scrapedAt": "2026-10-25T08:19:30.357Z"
   },
   {
     "id": "workday:adobe-R172115",
@@ -897,7 +882,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-25T03:00:54.608Z"
+    "scrapedAt": "2026-10-25T08:19:30.357Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -911,7 +896,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-25T03:00:54.608Z"
+    "scrapedAt": "2026-10-25T08:19:30.357Z"
   },
   {
     "id": "workday:autodesk-26WD101237",
@@ -925,7 +910,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-25T03:00:54.608Z"
+    "scrapedAt": "2026-10-25T08:19:30.357Z"
   },
   {
     "id": "workday:autodesk-26WD100418",
@@ -939,7 +924,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-25T03:00:54.608Z"
+    "scrapedAt": "2026-10-25T08:19:30.357Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -953,7 +938,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-25T03:00:54.608Z"
+    "scrapedAt": "2026-10-25T08:19:30.357Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -967,7 +952,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-25T03:02:01.754Z"
+    "scrapedAt": "2026-10-25T08:20:35.966Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -981,7 +966,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-25T03:02:01.754Z"
+    "scrapedAt": "2026-10-25T08:20:35.966Z"
   },
   {
     "id": "workday:salesforce-JR359930",
@@ -995,6 +980,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-25T03:02:35.262Z"
+    "scrapedAt": "2026-10-25T08:21:06.893Z"
   }
 ]
