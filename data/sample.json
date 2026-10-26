@@ -1,92 +1,87 @@
 [
   {
-    "id": "greenhouse:affirm-8040794003",
-    "externalId": "affirm:8040794003",
+    "id": "greenhouse:affirm-8040269003",
+    "externalId": "affirm:8040269003",
     "source": "greenhouse",
-    "title": "Implementation Specialist I",
+    "title": "Senior Software Engineer, Backend (AI Platform)",
+    "company": "Affirm",
+    "location": "Remote Canada",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040269003",
+    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.\n Affirm's engineering team is building a large-scale, fault-tolerant, and global infrastructure that is shared across multiple financial products, merchants, and vendors. Ensuring that our infrastructure is transparently available to all engineers is critical to the success of the business. We pride ourselves on our culture across engineering of writing blameless postmortems as well as writing detailed tech specs and gathering feedback before large changes to systems.\nThe AI Platform team owns Affirm's paved path for building, running, evaluating, and governing AI systems. Our customers are not only Affirm users, but also every engineer and a growing set of production workloads at Affirm. As a team, we are responsible for building and exposing simple, governed interfaces to models, tools, and agents, with identity, cost attribution, reliability, and security built in. Examples of components we own include the LLM Gateway that fronts every approved model (Claude, ChatGPT, and open-weight models across AWS Bedrock and other providers), the MCP Gateway that mediates and audits tool calls, the Agent Runtime that gives agentic workloads bounded execution, and the evals and observability layer that tells teams whether an AI change is better, cheaper, or safe to ship. We are early: the gateway is in daily use across engineering, the first production agent is live, and the next year takes us from developer productivity to production inference and agents.\n What You'll Do\n Plan, execute, and own technical decisions and projects within the AI Platform team, from design through launch and on-call.\n Design and build the gateway, runtime, and evaluation services that take AI workloads at Affirm from pilot to production, securely scaling across millions of users and their transactions.\n Make AI spend att…",
+    "tags": [
+      "Infrastructure Platform Eng"
+    ],
+    "postedAt": "2026-10-26T21:46:03.000Z",
+    "scrapedAt": "2026-10-26T22:14:15.861Z"
+  },
+  {
+    "id": "greenhouse:affirm-8040267003",
+    "externalId": "affirm:8040267003",
+    "source": "greenhouse",
+    "title": "Senior Software Engineer, Backend (AI Platform)",
     "company": "Affirm",
     "location": "Remote US",
     "remote": true,
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040794003",
-    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.\n About the Operations team\nThe Operations team delivers seamless customer experiences and enables new product capabilities while ensuring operational excellence. The team owns strategy, planning, technical execution, customer service, fraud operations, process design, quality, training, and program management. We drive efficiency, resolve issues quickly, and scale operations as the business grows. Our goal is to deliver seamless support while maintaining high standards and reducing risk.\n About the Role\nAs an Implementation Support Specialist I, you’ll combine your exceptional technical and communications skills to support the implementation of the Affirm solution with our growing network of retail partners. You will serve as a primary support contact for our partners’ business and technical teams throughout the integration process, while working cross-functionally with Affirm’s Engineering and Merchant Operations teams to help provide clients with quick solutions, troubleshoot account issues, and build internal processes that scale.\n What You'll Do\n Provide exemplary support to merchant partners on topics including: marketing best practices, accounting workflows, implementation guidance / troubleshooting\n Resolve technical integration issues related to partners’ ecommerce front-end platforms and back-end order management systems\n Identify and implement new operational processes to drive efficiency\n Develop detailed technical documentation\n Engage with internal stakeholders to define cross-functional workflows\n Provide product feedback from clients to the Product and Engineering teams to improve overall product performance and feature set\n What We Look For\n Bachelor’s degree or equivalent experience\n 1-3 years of experience in relevant industry (Tech, eCommerce, SaaS) and/or similar role(s…",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040267003",
+    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.\n Affirm's engineering team is building a large-scale, fault-tolerant, and global infrastructure that is shared across multiple financial products, merchants, and vendors. Ensuring that our infrastructure is transparently available to all engineers is critical to the success of the business. We pride ourselves on our culture across engineering of writing blameless postmortems as well as writing detailed tech specs and gathering feedback before large changes to systems.\nThe AI Platform team owns Affirm's paved path for building, running, evaluating, and governing AI systems. Our customers are not only Affirm users, but also every engineer and a growing set of production workloads at Affirm. As a team, we are responsible for building and exposing simple, governed interfaces to models, tools, and agents, with identity, cost attribution, reliability, and security built in. Examples of components we own include the LLM Gateway that fronts every approved model (Claude, ChatGPT, and open-weight models across AWS Bedrock and other providers), the MCP Gateway that mediates and audits tool calls, the Agent Runtime that gives agentic workloads bounded execution, and the evals and observability layer that tells teams whether an AI change is better, cheaper, or safe to ship. We are early: the gateway is in daily use across engineering, the first production agent is live, and the next year takes us from developer productivity to production inference and agents.\n What You'll Do\n Plan, execute, and own technical decisions and projects within the AI Platform team, from design through launch and on-call.\n Design and build the gateway, runtime, and evaluation services that take AI workloads at Affirm from pilot to production, securely scaling across millions of users and their transactions.\n Make AI spend att…",
     "tags": [
-      "Merchant Ops"
+      "Infrastructure Platform Eng"
     ],
-    "postedAt": "2026-10-26T15:42:35.000Z",
-    "scrapedAt": "2026-10-26T15:48:23.850Z"
+    "postedAt": "2026-10-26T21:46:01.000Z",
+    "scrapedAt": "2026-10-26T22:14:15.861Z"
   },
   {
-    "id": "greenhouse:coinbase-8311341",
-    "externalId": "coinbase:8311341",
+    "id": "greenhouse:reddit-8319536",
+    "externalId": "reddit:8319536",
     "source": "greenhouse",
-    "title": "Product Manager II, Wallets and DeFi",
-    "company": "Coinbase",
-    "location": "Remote - USA",
+    "title": "Machine Learning Engineering Manager -  Core Ads Ranking",
+    "company": "Reddit",
+    "location": "Remote - United States",
     "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8311341?gh_jid=8311341",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n The Coinbase Developer Platform (CDP) is building crypto infrastructure at scale for any business, anywhere. As the Wallets PM, you will own the Flexible Custody roadmap serving fintechs, brokers, and corporates around their custody and DeFi needs.\n What you'll do:\n Own the Unified Custody roadmap end to end\n Define the product strategy for custody model optionality, so customers choose self-custody, custodial, or hybrid per use case without rebuilding integrations.\n Partner with engineering, security, legal, and compliance to launch custody and DeFi products that meet the institutional bar for key management, controls, and regulatory posture.\n Translate customer and launch-partner needs into a prioritized roadmap tied to assets-on-platform and revenue targets.\n Measure and grow adoption: AOP and revenue, with clear funnel metrics from integration to funded accounts.\n Required Skills and Experience:\n 5+ years of product management experience shipping developer-facing or API-first products, ideally custody, wallets, or fintech infrastructure.\n Deep understanding of crypto custody models (self-custody, MPC, qualified custodian) and DeFi primitives (lending, vaults, onchain yield).\n Track record of shipping 0-to-1 products with engineering teams and taking them to production scale with enterprise customers.\n Comfort operating in regulated environments; experience partnering with…",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8319536",
+    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com .\n The Team\nThe Core Ads Ranking team advances user representation and graph learning, improves sequence modeling across ads verticals, and builds robust pipelines and state‑of‑the‑art architectures for foundational models. The team also leads core initiatives in knowledge distillation, model calibration, and heuristic improvement.\n This role offers a unique opportunity to shape and scale Reddit’s foundational modeling and deep user‑understanding roadmap, while multiplying impact through close collaboration with downstream teams including Retrieval, Shopping, Click Prediction, Video View‑Through Prediction, Conversion Prediction, and App Ads Modeling. This position is ideal for a leader with deep machine learning expertise, strong strategic vision, and a collaborative mindset capable of engaging effectively with both technical and cross‑functional partners.\n Responsibilities:\n Set Technical Vision and Strategy: Define and execute a roadmap for foundational model and user understanding, balancing high-ambuiguity long-term investments with measurable milestones.\n Collaborate Cross-Functionally: Partner with vertical customer teams, horizontal signal teams, and infrastructure/platform teams to align on direction, strategy, priorities, and constraints.\n Drive Technical Execution: Oversee the model development lifecycle from ideation to deployment, ensuring high standards of ML performance, reliability, and robustness.\n Lead and Mentor a High-Performing Team: Recruit, mentor, and retain top ML talent while fostering a culture…",
     "tags": [
-      "Product"
+      "Ads Product & Engineering"
     ],
-    "postedAt": "2026-10-26T15:08:28.000Z",
-    "scrapedAt": "2026-10-26T15:48:23.850Z"
+    "postedAt": "2026-10-26T21:41:40.000Z",
+    "scrapedAt": "2026-10-26T22:14:15.861Z"
   },
   {
-    "id": "arbeitnow:kundenberater-kundenbetreuer-fur-internationale-internatsaufenthalte-berlin-213676",
-    "externalId": "kundenberater-kundenbetreuer-fur-internationale-internatsaufenthalte-berlin-213676",
-    "source": "arbeitnow",
-    "title": "Kundenberater / Kundenbetreuer für internationale Internatsaufenthalte",
-    "company": "Akademis Internatsberatung GmbH",
-    "location": "Berlin",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/akademis-internatsberatung-gmbh/kundenberater-kundenbetreuer-fur-internationale-internatsaufenthalte-berlin-213676",
-    "description": "Für unser neues Büro in Berlin-Frohnau (Reinickendorf) suchen wir dich als Kundenberater / Kundenbetreuer für internationale Internatsaufenthalte (m/w/d). Auch Quereinsteiger sind herzlich willkommen! Wir sind Akademis Internatsberatung, eine mehrfach ausgezeichnete Bildungsagentur. Wir helfen Familien, ein passendes Internat im Ausland zu finden, und begleiten sie vom ersten Gespräch bis zur Rückkehr ihres Kindes. Dabei teilen wir ihre Vorfreude, nehmen ihre Sorgen ernst und kümmern uns um die vielen kleinen und großen Fragen unterwegs. Eine Aufgabe, die dir am Herzen liegt Unsere Familien vertrauen uns eine wichtige Entscheidung an. Deshalb suchen wir jemanden, dem gute Arbeit persönlich wichtig ist: Du möchtest Eltern und Jugendliche aufmerksam begleiten, hältst Zusagen ein und bleibst an offenen Anliegen dran. Auch bei den Details arbeitest du gewissenhaft – denn auf deine Auskünfte, Unterlagen und Absprachen sollen sich andere verlassen können. Wir wünschen uns jemanden, der die persönliche Zusammenarbeit in einem kleinen Team schätzt und selbst zu einer guten Atmosphäre beiträgt: mit Freundlichkeit, gegenseitiger Unterstützung und einem ehrlichen, respektvollen Umgang. Dafür stehen dir eine gründliche Einarbeitung und ein hilfsbereites Team zur Seite.\n Aufgaben Familien beraten und von Anfang bis Ende begleiten: Du lernst Eltern und Jugendliche kennen, berätst Interessierte zu unserem Angebot und betreust deine Familien während der Vorbereitung und des Internatsaufenthalts bis zur Rückkehr. Du hörst aufmerksam zu, gehst auf individuelle Wünsche ein und hältst von dir aus Kontakt – telefonisch und per E-Mail.\n Bewerbungen, Schulbesuche und Termine organisieren: Du koordinierst Bewerbungsunterlagen, Schulbesuche und die Vorbereitung auf Aufnahmeverfahren. Du pflegst Kundendaten sorgfältig, behältst Fristen im Blick und fasst selbstständig nach, wenn Unterlagen oder Rückmeldungen fehlen. Deine Familien wissen, welche Schritte als Nächstes anstehen.\n Beziehungen…",
+    "id": "greenhouse:coinbase-8312623",
+    "externalId": "coinbase:8312623",
+    "source": "greenhouse",
+    "title": "Regional Security Manager, APAC",
+    "company": "Coinbase",
+    "location": "Remote - Singapore",
+    "remote": true,
+    "url": "https://www.coinbase.com/careers/positions/8312623?gh_jid=8312623",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n As the Regional Security Manager, APAC, you'll lead the development and execution of Coinbase's regional security strategy on the Global Security team, protecting our people, workplaces, and operations across a diverse and rapidly evolving region. You'll own the physical security program for APAC offices, critical facilities, and data centers, partnering with business leaders and cross-functional teams to manage risk, strengthen resilience, and drive incident response across multiple countries.\n What you'll do:\n Own the APAC physical security operating plan, regional risk register, site security standards, and remediation priorities across offices, critical facilities, and data centers.\n Lead site assessments, vulnerability reviews, security hardening projects, new office openings, relocations, and security system deployments across the region.\n Serve as the regional escalation point and Incident Commander for significant security events, coordinating the GSOC, workplace teams, vendors, building management, and emergency services.\n Govern regional access control, badging, visitor management, secure area access, and audit readiness while managing contracted security providers through SLAs, KPIs, and QBRs.\n Develop and maintain regional policies, SOPs, playbooks, drills, tabletop exercises, and employee-facing security guidance informed by APAC threat intelligence and local cond…",
     "tags": [
-      "Customer Service",
-      "Unbefristeter arbeitsvertrag",
+      "Security & Privacy"
+    ],
+    "postedAt": "2026-10-26T21:31:19.000Z",
+    "scrapedAt": "2026-10-26T22:14:15.861Z"
+  },
+  {
+    "id": "arbeitnow:nageldesignerin-fusspflegerin-evtl-auch-wimpernstylistin-dusseldorf-498655",
+    "externalId": "nageldesignerin-fusspflegerin-evtl-auch-wimpernstylistin-dusseldorf-498655",
+    "source": "arbeitnow",
+    "title": "Nageldesigner*in & Fußpfleger*in (evtl. auch Wimpernstylist*in)",
+    "company": "Jessica Marciniak Skin & more",
+    "location": "Düsseldorf",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/jessica-marciniak-skin-more/nageldesignerin-fusspflegerin-evtl-auch-wimpernstylistin-dusseldorf-498655",
+    "description": "Über Jessica Marciniak Skin & more Im Studio Jessica Marciniak Skin & more in Düsseldorf-Unterbilk suchen wir Verstärkung auf Minijob-Basis. Wir bauen gerade unser zweites Studio auf und brauchen Verstärkung beim Aufbau. Anfangs brauchen wir Hilfe bei 1-2 Tagen die Woche. Langfristig suchen wir jemanden für 5 Tage die Woche.\n Ihre Aufgaben Sie sind für die professionelle Nagelpflege und Fußpflege zuständig. Bei entsprechender Eignung und Interesse kommt optional auch die Arbeit als Wimpern- & Augenbrauenstylistin hinzu.\n Das bringen Sie mit Sie bringen Erfahrung im Bereich Nageldesign und Fußpflege mit und arbeiten kundenorientiert im Studio in Düsseldorf. Voraussetzung ist, dass Sie deutsch sprechen und Ihre Arbeit professionell ausführen können. Wir freuen uns auf Ihre Bewerbung.\n Vergütung Für diese Tätigkeit auf Minijob-Basis erhalten Sie eine Vergütung von EUR 13–14 per hour. Bei guter Arbeit ist eine Steigerung natürlich gegeben.\n Ihre ersten Monate bei Jessica Marciniak Skin & more In den ersten Wochen übernehmen Sie eigenständig Behandlungen in Nageldesign und Fußpflege und betreuen unsere Kunden vor Ort in Düsseldorf. Sie lernen unsere Studioabläufe kennen und setzen Ihr Fachwissen direkt im Praxisalltag ein.\n Find Jobs in Germany on Arbeitnow",
+    "tags": [
+      "Beauty",
+      "Wellness",
+      "Minijob (geringfügige beschäftigung)",
+      "side",
       "berufserfahren"
     ],
-    "jobType": "Unbefristeter arbeitsvertrag",
-    "postedAt": "2026-10-26T15:00:52.000Z",
-    "scrapedAt": "2026-10-26T15:48:21.526Z"
-  },
-  {
-    "id": "arbeitnow:finance-intern-berlin-2474",
-    "externalId": "finance-intern-berlin-2474",
-    "source": "arbeitnow",
-    "title": "Finance Intern",
-    "company": "Cherry Ventures",
-    "location": "Berlin",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/cherry-ventures/finance-intern-berlin-2474",
-    "description": "Finance & Investor Relations Intern - Berlin\nCherry Ventures is an early-stage venture capital firm founded in 2012 and based in Berlin, London and Stockholm. We are a team of former entrepreneurs and operators with experience building fast-scaling companies such as Zalando, Spotify and Uber. We have invested in over 140 companies across Europe, including Flix, Auto1, Amboss, Manual, Numa, Moss, Swap, Tacto and The Exploration Company.\nWe are looking for an additional team member to join as a Finance & Investor Relations Intern starting January 2027 for a period of 3-6 months .\nFor this role: You would need to either have an EU passport or an existing permit to work in Germany as we are unfortunately not able to sponsor visas .\n Requirements\n As part of the Finance & Investor Relations Team, you will:\n Work closely together with a dynamic team with operational and investment banking backgrounds Assist in the preparation of strategy and marketing materials for investors Assist with various investor relations activities including preparation of advisory board deck, investor calls and quarterly reporting Be involved in fund finance activities including liaising with fund administrators, lawyers and banks Contribute to building a world-class early-stage venture capital fund by taking on additional responsibilities\n Key requirements include:\n Prior experience in a start-up, VC/PE fund, consulting, or banking Strong analytical background, extremely well-versed in working with quantitative data Proficient in Microsoft Office and with AI tools Strong organisational skills Enrolled in or concluded a Master’s Degree at a top-tier university in Business Administration, Finance, Economics, similar fields or have prior experience in the sector Basic understanding of P&L, balance sheets, and cash flows You have an international and multicultural mindset/background English working proficiency\n What can you expect?\n A very open and diverse role within a fast-paced environment surr…",
-    "tags": [
-      "Finance",
-      "Internship",
-      "professional / experienced"
-    ],
-    "jobType": "Internship",
-    "postedAt": "2026-10-26T15:00:52.000Z",
-    "scrapedAt": "2026-10-26T15:48:21.526Z"
-  },
-  {
-    "id": "arbeitnow:praktikantin-marketing-mannheim-34182",
-    "externalId": "praktikantin-marketing-mannheim-34182",
-    "source": "arbeitnow",
-    "title": "Praktikant*in (m/w/d) Marketing",
-    "company": "Talentsurf UG",
-    "location": "Mannheim",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/talentsurf-ug/praktikantin-marketing-mannheim-34182",
-    "description": "Talentsurf in Mannheim Talentsurf verbindet Unternehmen mit passenden Talenten und gestaltet den Recruiting-Prozess durch datenbasierte Ansätze effizienter. Für diesen Standort in Mannheim suchen wir Verstärkung.\n Ihre Aufgaben Unterstützung bei der Konzeption und Umsetzung von Marketingkampagnen über verschiedene Kanäle hinweg.\n Erstellung von Inhalten für Social-Media-Kanäle, Website und Newsletter.\n Durchführung von Markt- und Wettbewerbsanalysen zur Optimierung unserer Positionierung.\n Mitarbeit bei der Organisation von Events und Recruiting-Messen.\n Pflege und Aktualisierung von Marketingmaterialien und Content-Datenbanken.\n Ihr Profil Eingeschriebene/r Student/in im Bereich Wirtschaftswissenschaften, Kommunikationswissenschaften, Medien oder einem vergleichbaren Studiengang.\n Erste praktische Erfahrungen im Bereich Marketing oder Kommunikation durch Praktika oder studentische Tätigkeiten sind von Vorteil.\n Sicherer Umgang mit gängigen MS-Office-Anwendungen und erste Kenntnisse in Content-Management-Systemen oder Grafik-Tools.\n Sehr gute Deutschkenntnisse in Wort und Schrift sowie gute Englischkenntnisse.\n Eigeninitiative, Kreativität und eine strukturierte Arbeitsweise runden Ihr Profil ab.\n Ihr Arbeitsumfeld und Benefits Sie arbeiten im Hybrid-Modell mit flexiblen Arbeitszeiten und Optionen für mobiles Arbeiten von zu Hause aus. Für den Weg zur Arbeit nutzen Sie Vergünstigungen für öffentliche Verkehrsmittel oder eine Entschädigung für Reisekosten. Vor Ort erwarten Sie kostenlose Getränke und eine lockere Kleiderordnung. Zudem unterstützen wir Ihre körperliche Fitness mit einem Fitnessabo.\n Vergütung Die Vergütung für diese Position beträgt EUR 650–780 per month.\n Ihre ersten Monate In den ersten sechs Monaten bei Talentsurf unterstützen Sie aktiv unser Marketingteam bei laufenden Kampagnen und übernehmen eigene kleine Projekte im Content-Bereich. Sie lernen unsere Zielgruppen genau kennen und tragen zur sichtbaren Positionierung unserer Marke bei. Wenn Sie…",
-    "tags": [
-      "Marketing Assistant",
-      "Praktikum",
-      "internship",
-      "hilfstätigkeit / student"
-    ],
-    "jobType": "Praktikum",
-    "postedAt": "2026-10-26T15:00:52.000Z",
-    "scrapedAt": "2026-10-26T15:48:21.526Z"
+    "jobType": "Minijob (geringfügige beschäftigung)",
+    "postedAt": "2026-10-26T21:01:09.000Z",
+    "scrapedAt": "2026-10-26T22:14:13.806Z"
   }
 ]
