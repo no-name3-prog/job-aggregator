@@ -148,28 +148,6 @@
     ]
   },
   {
-    "company": "Aircall",
-    "jobCount": 3,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London Office",
-      "France Remote",
-      "Paris Office"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer - Real time analytics",
-      "Senior Data Engineer - Real time analytics",
-      "Senior Data Engineer - Real time analytics"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-110633",
-      "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-5303",
-      "https://www.arbeitnow.fr/jobs/companies/aircall/senior-data-engineer-real-time-analytics-paris-office-150542"
-    ]
-  },
-  {
     "company": "Autodesk",
     "jobCount": 3,
     "sources": [
@@ -287,24 +265,6 @@
     ]
   },
   {
-    "company": "HyPlus Technology GmbH",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Ratingen, Nordrhein-Westfalen, Germany"
-    ],
-    "sampleTitles": [
-      "Data Engineer (m/w/d)",
-      "Senior Data Engineer (m/w/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/data-engineer-ratingen-336049",
-      "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/senior-data-engineer-ratingen-28626"
-    ]
-  },
-  {
     "company": "Lyft",
     "jobCount": 2,
     "sources": [
@@ -395,6 +355,22 @@
     ]
   },
   {
+    "company": "Aircall",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London Office"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer - Real time analytics"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-110633"
+    ]
+  },
+  {
     "company": "Cloudflare",
     "jobCount": 1,
     "sources": [
@@ -424,6 +400,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/gitlab/jobs/8883003002"
+    ]
+  },
+  {
+    "company": "HyPlus Technology GmbH",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Ratingen, Nordrhein-Westfalen, Germany"
+    ],
+    "sampleTitles": [
+      "Data Engineer (m/w/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/data-engineer-ratingen-336049"
     ]
   },
   {
