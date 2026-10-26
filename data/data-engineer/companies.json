@@ -170,6 +170,27 @@
     ]
   },
   {
+    "company": "Discord",
+    "jobCount": 3,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "San Francisco Bay Area",
+      "Remote (U.S.)"
+    ],
+    "sampleTitles": [
+      "Staff Data Engineer",
+      "Senior Data Engineer",
+      "Senior Data Engineer, Ads"
+    ],
+    "officialUrls": [
+      "https://job-boards.greenhouse.io/discord/jobs/8691572002",
+      "https://job-boards.greenhouse.io/discord/jobs/8485884002",
+      "https://job-boards.greenhouse.io/discord/jobs/8299493002"
+    ]
+  },
+  {
     "company": "Affirm",
     "jobCount": 2,
     "sources": [
@@ -227,25 +248,6 @@
     ]
   },
   {
-    "company": "Discord",
-    "jobCount": 2,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "San Francisco Bay Area",
-      "Remote (U.S.)"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Senior Data Engineer, Ads"
-    ],
-    "officialUrls": [
-      "https://job-boards.greenhouse.io/discord/jobs/8485884002",
-      "https://job-boards.greenhouse.io/discord/jobs/8299493002"
-    ]
-  },
-  {
     "company": "Figma",
     "jobCount": 2,
     "sources": [
@@ -280,24 +282,6 @@
     "officialUrls": [
       "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
       "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002"
-    ]
-  },
-  {
-    "company": "Nebius",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Unknown"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/nebius/senior-data-engineer-176412",
-      "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-data-engineer-488090"
     ]
   },
   {
@@ -339,38 +323,6 @@
     ]
   },
   {
-    "company": "360Learning",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Paris, Remote"
-    ],
-    "sampleTitles": [
-      "Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/360learning/remote-analytics-engineer-136328"
-    ]
-  },
-  {
-    "company": "Agile Defense",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Stuttgart, Germany"
-    ],
-    "sampleTitles": [
-      "Data Engineer - Stuttgart"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/agile-defense/data-engineer-stuttgart-stuttgart-germany-490483"
-    ]
-  },
-  {
     "company": "Airalo",
     "jobCount": 1,
     "sources": [
@@ -384,22 +336,6 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.co.uk/jobs/companies/airalo/senior-analytics-engineer-finance-united-kingdom-59024"
-    ]
-  },
-  {
-    "company": "Aircall",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London Office"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer - Real time analytics"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-110633"
     ]
   },
   {
@@ -435,22 +371,6 @@
     ]
   },
   {
-    "company": "hellofresh",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Berlin, Berlin"
-    ],
-    "sampleTitles": [
-      "Senior Data Platform Engineer, Intelligent Platforms (all genders)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-data-platform-engineer-intelligent-platforms-all-genders-berlin-berlin-263684"
-    ]
-  },
-  {
     "company": "Linear",
     "jobCount": 1,
     "sources": [
@@ -464,6 +384,38 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
+    ]
+  },
+  {
+    "company": "Liqid Lig",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer (f/m/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/liqid-lig/senior-data-engineer-berlin-265036"
+    ]
+  },
+  {
+    "company": "Nebius",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Unknown"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-data-engineer-488090"
     ]
   },
   {
@@ -544,22 +496,6 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8112043"
-    ]
-  },
-  {
-    "company": "Tailscale",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "Canada"
-    ],
-    "sampleTitles": [
-      "Analytics Engineer, Data"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/154067-analytics-engineer-data"
     ]
   },
   {
