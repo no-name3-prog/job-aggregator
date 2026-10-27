@@ -28,35 +28,8 @@
     ]
   },
   {
-    "company": "NVIDIA",
-    "jobCount": 5,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "3 Locations",
-      "US, CA, Santa Clara",
-      "5 Locations",
-      "2 Locations"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Senior Staff Software Engineer - Data Engineering",
-      "Senior Synthetic Data Engineer - Autonomous Driving",
-      "SAP MM/PP Master Data Engineer - Enterprise Data Management",
-      "Senior Data Infrastructure Engineer, AI Performance"
-    ],
-    "officialUrls": [
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Data-Engineer_JR2027678",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-Software-Engineer---Data-Engineering_JR2028539-1",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Synthetic-Data-Engineer---Autonomous-Driving_JR2023850-1",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Gurugram/SAP-MM-PP-Master-Data-Engineer---Enterprise-Data-Management_JR2026497",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970"
-    ]
-  },
-  {
     "company": "Salesforce",
-    "jobCount": 5,
+    "jobCount": 6,
     "sources": [
       "workday"
     ],
@@ -66,6 +39,7 @@
       "Ireland - Dublin"
     ],
     "sampleTitles": [
+      "Data Engineer (SMTS / LMTS) - MDM",
       "Staff & Senior Staff Data Platform Engineer - Slack",
       "Data Engineer Senior | AI & Data",
       "Senior Data Engineer",
@@ -73,34 +47,11 @@
       "Data Engineering Senior Associate- Finance"
     ],
     "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Data-Engineer--SMTS---LMTS----MDM_JR347388",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Staff---Senior-Staff-Data-Platform-Engineer---Slack_JR365133-1",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR363793",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930"
-    ]
-  },
-  {
-    "company": "Block",
-    "jobCount": 4,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "Bay Area, CA, United States of America",
-      "New York, NY, United States of America"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer, Product",
-      "Senior Analytics Engineer, AI & DX Analytics",
-      "Senior Analytics Engineer, AI & DX Analytics",
-      "Senior Data Engineer, Risk"
-    ],
-    "officialUrls": [
-      "http://block.xyz/careers/jobs/5442647008?gh_jid=5442647008",
-      "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
-      "http://block.xyz/careers/jobs/5424561008?gh_jid=5424561008",
-      "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008"
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
     ]
   },
   {
@@ -128,6 +79,30 @@
     ]
   },
   {
+    "company": "NVIDIA",
+    "jobCount": 4,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "US, CA, Santa Clara",
+      "5 Locations",
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Staff Software Engineer - Data Engineering",
+      "Senior Synthetic Data Engineer - Autonomous Driving",
+      "SAP MM/PP Master Data Engineer - Enterprise Data Management",
+      "Senior Data Infrastructure Engineer, AI Performance"
+    ],
+    "officialUrls": [
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-Software-Engineer---Data-Engineering_JR2028539-1",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Synthetic-Data-Engineer---Autonomous-Driving_JR2023850-1",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Gurugram/SAP-MM-PP-Master-Data-Engineer---Enterprise-Data-Management_JR2026497",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970"
+    ]
+  },
+  {
     "company": "Adobe",
     "jobCount": 3,
     "sources": [
@@ -150,25 +125,24 @@
     ]
   },
   {
-    "company": "Autodesk",
+    "company": "Block",
     "jobCount": 3,
     "sources": [
-      "workday"
+      "greenhouse"
     ],
     "locations": [
-      "Toronto, ON, CAN",
-      "Kraków, POL",
-      "2 Locations"
+      "Bay Area, CA, United States of America",
+      "New York, NY, United States of America"
     ],
     "sampleTitles": [
-      "Senior Data Engineering",
-      "Data Engineer with AI",
-      "Principal Data Engineer -General application"
+      "Senior Data Engineer, Product",
+      "Senior Analytics Engineer, AI & DX Analytics",
+      "Senior Analytics Engineer, AI & DX Analytics"
     ],
     "officialUrls": [
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Data-Engineering_26WD101237",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
+      "http://block.xyz/careers/jobs/5442647008?gh_jid=5442647008",
+      "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
+      "http://block.xyz/careers/jobs/5424561008?gh_jid=5424561008"
     ]
   },
   {
@@ -228,6 +202,25 @@
     "officialUrls": [
       "https://careers.airbnb.com/positions/8284841?gh_jid=8284841",
       "https://careers.airbnb.com/positions/8224032?gh_jid=8224032"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "jobCount": 2,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Kraków, POL",
+      "2 Locations"
+    ],
+    "sampleTitles": [
+      "Data Engineer with AI",
+      "Principal Data Engineer -General application"
+    ],
+    "officialUrls": [
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Data-Engineer-with-AI_26WD100418",
+      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Principal-Data-Engineer--General-application_25WD89669"
     ]
   },
   {
@@ -373,6 +366,22 @@
     ]
   },
   {
+    "company": "Kayak",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Berlin Office"
+    ],
+    "sampleTitles": [
+      "Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/kayak/data-engineer-berlin-58843"
+    ]
+  },
+  {
     "company": "Linear",
     "jobCount": 1,
     "sources": [
@@ -402,6 +411,22 @@
     ],
     "officialUrls": [
       "https://www.pinterestcareers.com/jobs/?gh_jid=8162539"
+    ]
+  },
+  {
+    "company": "Prolificacademicltd",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Unknown"
+    ],
+    "sampleTitles": [
+      "Data Engineer - Research Participants - United Kingdom"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/prolificacademicltd/data-engineer-research-participants-united-kingdom-37980"
     ]
   },
   {
@@ -498,22 +523,6 @@
     ],
     "officialUrls": [
       "https://jobicy.com/jobs/157388-sr-manager-data-engineering-2"
-    ]
-  },
-  {
-    "company": "virtual7 GmbH",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Homeoffice"
-    ],
-    "sampleTitles": [
-      "Senior Oracle Data Engineer (m/w/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-26886"
     ]
   }
 ]
