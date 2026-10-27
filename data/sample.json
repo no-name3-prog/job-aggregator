@@ -1,67 +1,19 @@
 [
   {
-    "id": "greenhouse:affirm-8040269003",
-    "externalId": "affirm:8040269003",
+    "id": "greenhouse:twilio-8325734",
+    "externalId": "twilio:8325734",
     "source": "greenhouse",
-    "title": "Senior Software Engineer, Backend (AI Platform)",
-    "company": "Affirm",
-    "location": "Remote Canada",
+    "title": "Sr. Director, Marketing Strategy, Analytics & Innovation",
+    "company": "Twilio",
+    "location": "Remote - US",
     "remote": true,
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040269003",
-    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.\n Affirm's engineering team is building a large-scale, fault-tolerant, and global infrastructure that is shared across multiple financial products, merchants, and vendors. Ensuring that our infrastructure is transparently available to all engineers is critical to the success of the business. We pride ourselves on our culture across engineering of writing blameless postmortems as well as writing detailed tech specs and gathering feedback before large changes to systems.\nThe AI Platform team owns Affirm's paved path for building, running, evaluating, and governing AI systems. Our customers are not only Affirm users, but also every engineer and a growing set of production workloads at Affirm. As a team, we are responsible for building and exposing simple, governed interfaces to models, tools, and agents, with identity, cost attribution, reliability, and security built in. Examples of components we own include the LLM Gateway that fronts every approved model (Claude, ChatGPT, and open-weight models across AWS Bedrock and other providers), the MCP Gateway that mediates and audits tool calls, the Agent Runtime that gives agentic workloads bounded execution, and the evals and observability layer that tells teams whether an AI change is better, cheaper, or safe to ship. We are early: the gateway is in daily use across engineering, the first production agent is live, and the next year takes us from developer productivity to production inference and agents.\n What You'll Do\n Plan, execute, and own technical decisions and projects within the AI Platform team, from design through launch and on-call.\n Design and build the gateway, runtime, and evaluation services that take AI workloads at Affirm from pilot to production, securely scaling across millions of users and their transactions.\n Make AI spend att…",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8325734",
+    "description": "Who we are\n At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.\n Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.\n .\n Hiring and how we work\n We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!\n Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.\n .\n See yourself at Twilio\n Join the team as Twilio’s next Sr. Director, Marketing Strategy, & Analytics.\n About the job\n This position is needed to lead and elevate Twilio’s global marketing strategy, turning data into actionable insight that drives growth and customer engagement.\n We’re looking for a strategic thinker and data storyteller to shape marketing decisions, inspire teams, and deliver real-world results. You’ll build and lead a team that transforms millions of data points into clear direction for campaigns, and drives revenue growth and retention.\n Responsibilities\n In this role, you’ll:\n Create a forward looking point of view on the future of marketing and how we’ll drive success.\n Define and drive global marketing strategies through actionable data and deep customer insight.\n Build, mentor, and scale the marketing strategy, and data analytics team, fostering a culture of experimentation and measurable impact.\n Lead quarterly/annual planning, and target setting to guide execution acros…",
     "tags": [
-      "Infrastructure Platform Eng"
+      "Marketing"
     ],
-    "postedAt": "2026-10-26T21:46:03.000Z",
-    "scrapedAt": "2026-10-26T22:14:15.861Z"
-  },
-  {
-    "id": "greenhouse:affirm-8040267003",
-    "externalId": "affirm:8040267003",
-    "source": "greenhouse",
-    "title": "Senior Software Engineer, Backend (AI Platform)",
-    "company": "Affirm",
-    "location": "Remote US",
-    "remote": true,
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040267003",
-    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.\n Affirm's engineering team is building a large-scale, fault-tolerant, and global infrastructure that is shared across multiple financial products, merchants, and vendors. Ensuring that our infrastructure is transparently available to all engineers is critical to the success of the business. We pride ourselves on our culture across engineering of writing blameless postmortems as well as writing detailed tech specs and gathering feedback before large changes to systems.\nThe AI Platform team owns Affirm's paved path for building, running, evaluating, and governing AI systems. Our customers are not only Affirm users, but also every engineer and a growing set of production workloads at Affirm. As a team, we are responsible for building and exposing simple, governed interfaces to models, tools, and agents, with identity, cost attribution, reliability, and security built in. Examples of components we own include the LLM Gateway that fronts every approved model (Claude, ChatGPT, and open-weight models across AWS Bedrock and other providers), the MCP Gateway that mediates and audits tool calls, the Agent Runtime that gives agentic workloads bounded execution, and the evals and observability layer that tells teams whether an AI change is better, cheaper, or safe to ship. We are early: the gateway is in daily use across engineering, the first production agent is live, and the next year takes us from developer productivity to production inference and agents.\n What You'll Do\n Plan, execute, and own technical decisions and projects within the AI Platform team, from design through launch and on-call.\n Design and build the gateway, runtime, and evaluation services that take AI workloads at Affirm from pilot to production, securely scaling across millions of users and their transactions.\n Make AI spend att…",
-    "tags": [
-      "Infrastructure Platform Eng"
-    ],
-    "postedAt": "2026-10-26T21:46:01.000Z",
-    "scrapedAt": "2026-10-26T22:14:15.861Z"
-  },
-  {
-    "id": "greenhouse:reddit-8319536",
-    "externalId": "reddit:8319536",
-    "source": "greenhouse",
-    "title": "Machine Learning Engineering Manager -  Core Ads Ranking",
-    "company": "Reddit",
-    "location": "Remote - United States",
-    "remote": true,
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8319536",
-    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com .\n The Team\nThe Core Ads Ranking team advances user representation and graph learning, improves sequence modeling across ads verticals, and builds robust pipelines and state‑of‑the‑art architectures for foundational models. The team also leads core initiatives in knowledge distillation, model calibration, and heuristic improvement.\n This role offers a unique opportunity to shape and scale Reddit’s foundational modeling and deep user‑understanding roadmap, while multiplying impact through close collaboration with downstream teams including Retrieval, Shopping, Click Prediction, Video View‑Through Prediction, Conversion Prediction, and App Ads Modeling. This position is ideal for a leader with deep machine learning expertise, strong strategic vision, and a collaborative mindset capable of engaging effectively with both technical and cross‑functional partners.\n Responsibilities:\n Set Technical Vision and Strategy: Define and execute a roadmap for foundational model and user understanding, balancing high-ambuiguity long-term investments with measurable milestones.\n Collaborate Cross-Functionally: Partner with vertical customer teams, horizontal signal teams, and infrastructure/platform teams to align on direction, strategy, priorities, and constraints.\n Drive Technical Execution: Oversee the model development lifecycle from ideation to deployment, ensuring high standards of ML performance, reliability, and robustness.\n Lead and Mentor a High-Performing Team: Recruit, mentor, and retain top ML talent while fostering a culture…",
-    "tags": [
-      "Ads Product & Engineering"
-    ],
-    "postedAt": "2026-10-26T21:41:40.000Z",
-    "scrapedAt": "2026-10-26T22:14:15.861Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8312623",
-    "externalId": "coinbase:8312623",
-    "source": "greenhouse",
-    "title": "Regional Security Manager, APAC",
-    "company": "Coinbase",
-    "location": "Remote - Singapore",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8312623?gh_jid=8312623",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n As the Regional Security Manager, APAC, you'll lead the development and execution of Coinbase's regional security strategy on the Global Security team, protecting our people, workplaces, and operations across a diverse and rapidly evolving region. You'll own the physical security program for APAC offices, critical facilities, and data centers, partnering with business leaders and cross-functional teams to manage risk, strengthen resilience, and drive incident response across multiple countries.\n What you'll do:\n Own the APAC physical security operating plan, regional risk register, site security standards, and remediation priorities across offices, critical facilities, and data centers.\n Lead site assessments, vulnerability reviews, security hardening projects, new office openings, relocations, and security system deployments across the region.\n Serve as the regional escalation point and Incident Commander for significant security events, coordinating the GSOC, workplace teams, vendors, building management, and emergency services.\n Govern regional access control, badging, visitor management, secure area access, and audit readiness while managing contracted security providers through SLAs, KPIs, and QBRs.\n Develop and maintain regional policies, SOPs, playbooks, drills, tabletop exercises, and employee-facing security guidance informed by APAC threat intelligence and local cond…",
-    "tags": [
-      "Security & Privacy"
-    ],
-    "postedAt": "2026-10-26T21:31:19.000Z",
-    "scrapedAt": "2026-10-26T22:14:15.861Z"
+    "postedAt": "2026-10-27T02:37:16.000Z",
+    "scrapedAt": "2026-10-27T03:31:29.562Z"
   },
   {
     "id": "arbeitnow:nageldesignerin-fusspflegerin-evtl-auch-wimpernstylistin-dusseldorf-498655",
@@ -72,7 +24,7 @@
     "location": "Düsseldorf",
     "remote": false,
     "url": "https://www.arbeitnow.com/jobs/companies/jessica-marciniak-skin-more/nageldesignerin-fusspflegerin-evtl-auch-wimpernstylistin-dusseldorf-498655",
-    "description": "Über Jessica Marciniak Skin & more Im Studio Jessica Marciniak Skin & more in Düsseldorf-Unterbilk suchen wir Verstärkung auf Minijob-Basis. Wir bauen gerade unser zweites Studio auf und brauchen Verstärkung beim Aufbau. Anfangs brauchen wir Hilfe bei 1-2 Tagen die Woche. Langfristig suchen wir jemanden für 5 Tage die Woche.\n Ihre Aufgaben Sie sind für die professionelle Nagelpflege und Fußpflege zuständig. Bei entsprechender Eignung und Interesse kommt optional auch die Arbeit als Wimpern- & Augenbrauenstylistin hinzu.\n Das bringen Sie mit Sie bringen Erfahrung im Bereich Nageldesign und Fußpflege mit und arbeiten kundenorientiert im Studio in Düsseldorf. Voraussetzung ist, dass Sie deutsch sprechen und Ihre Arbeit professionell ausführen können. Wir freuen uns auf Ihre Bewerbung.\n Vergütung Für diese Tätigkeit auf Minijob-Basis erhalten Sie eine Vergütung von EUR 13–14 per hour. Bei guter Arbeit ist eine Steigerung natürlich gegeben.\n Ihre ersten Monate bei Jessica Marciniak Skin & more In den ersten Wochen übernehmen Sie eigenständig Behandlungen in Nageldesign und Fußpflege und betreuen unsere Kunden vor Ort in Düsseldorf. Sie lernen unsere Studioabläufe kennen und setzen Ihr Fachwissen direkt im Praxisalltag ein.\n Find Jobs in Germany on Arbeitnow",
+    "description": "Über Jessica Marciniak Skin & more Im Studio Jessica Marciniak Skin & more in Düsseldorf-Unterbilk suchen wir Verstärkung auf Minijob-Basis. Wir bauen gerade unser zweites Studio auf und brauchen Verstärkung beim Aufbau. Anfangs brauchen wir Hilfe bei 1-2 Tagen die Woche. Langfristig suchen wir jemanden für 5 Tage die Woche.\n Website: www.jessicamarciniak.de\n Instagram: www.instagram.com/jessicamarciniak.skinandmore\n Tel.: 0176 420 354 85\n Ihre Aufgaben Sie sind für die professionelle Nagelpflege und Fußpflege zuständig. Bei entsprechender Eignung und Interesse kommt optional auch die Arbeit als Wimpern- & Augenbrauenstylistin hinzu.\n Das bringen Sie mit Sie bringen Erfahrung im Bereich Nageldesign und Fußpflege mit und arbeiten kundenorientiert im Studio in Düsseldorf. Voraussetzung ist, dass Sie deutsch sprechen und Ihre Arbeit professionell ausführen können. Wir freuen uns auf Ihre Bewerbung.\n Vergütung Für diese Tätigkeit auf Minijob-Basis erhalten Sie eine Vergütung von EUR 13–14 per hour. Bei guter Arbeit ist eine Steigerung natürlich gegeben.\n Ihre ersten Monate bei Jessica Marciniak Skin & more In den ersten Wochen übernehmen Sie eigenständig Behandlungen in Nageldesign und Fußpflege und betreuen unsere Kunden vor Ort in Düsseldorf. Sie lernen unsere Studioabläufe kennen und setzen Ihr Fachwissen direkt im Praxisalltag ein.\n Find Jobs in Germany on Arbeitnow",
     "tags": [
       "Beauty",
       "Wellness",
@@ -81,7 +33,55 @@
       "berufserfahren"
     ],
     "jobType": "Minijob (geringfügige beschäftigung)",
-    "postedAt": "2026-10-26T21:01:09.000Z",
-    "scrapedAt": "2026-10-26T22:14:13.806Z"
+    "postedAt": "2026-10-27T01:17:27.000Z",
+    "scrapedAt": "2026-10-27T03:31:28.333Z"
+  },
+  {
+    "id": "arbeitnow:senior-business-development-associate-london-90837",
+    "externalId": "senior-business-development-associate-london-90837",
+    "source": "arbeitnow",
+    "title": "Senior Business Development Associate",
+    "company": "Ideo",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ideo/senior-business-development-associate-london-90837",
+    "description": "<h1><strong>Senior Business Development Associate</strong></h1>\n<h2><strong>In a Nutshell</strong></h2>\n<p>Senior Business Development Associates bring ideas, initiatives, and activities that help grow our business day in and day out. They join, support, and collaborate with teams focused on specific opportunities, ensuring that the pursuit of new business is rigorous, disciplined, and ethical. They collaborate closely to craft strategies and plans and set the standard for creative excellence in business development.</p>\n<h2><strong>About IDEO London</strong></h2>\n<p>We're a global design consultancy where curiosity, empathy, and solving complex challenges drive us. For over 40 years, we've partnered with clients to innovate in healthcare, mobility, education, retail, and beyond. Here, every challenge is a chance to grow, connect, and create impact.</p>\n<h2><strong>Why is this role important for IDEO's work?</strong></h2>\n<p>Business Development is at the heart of connecting IDEO's creative capabilities with the people and organisations who need them. It's about more than winning new work. It's about understanding our clients' challenges, building trusted relationships, and helping shape opportunities where human-centred design can make a meaningful difference.</p>\n<h2><strong>Once Here You Will</strong></h2>\n<p><strong>BUSINESS DEVELOPMENT PROCESS</strong></p>\n<ul>\n<li>Prioritize your time to collaborate and support the London Studio in landing project work - with new and returning clients.</li>\n<li>Run pipeline meetings.</li>\n<li>Act as an IDEO ambassador and be the first touch point for new potential clients, ensuring a positive initial experience with IDEO.</li>\n<li>Lead and manage opportunity qualification, owning continuity of the BD process.</li>\n<li>Involve internal leadership and designers as needed for boosts and to help determine strategic fit, frame opportunities, scope programs and articulate next steps.</li>\n<li>Pull in director-level support as neede…",
+    "tags": [
+      "Business Development"
+    ],
+    "postedAt": "2026-10-27T00:55:22.000Z",
+    "scrapedAt": "2026-10-27T03:31:28.333Z"
+  },
+  {
+    "id": "arbeitnow:mission-critical-security-engineer-threat-hunting-schiphol-rijk-484413",
+    "externalId": "mission-critical-security-engineer-threat-hunting-schiphol-rijk-484413",
+    "source": "arbeitnow",
+    "title": "Mission Critical Security Engineer – Threat Hunting",
+    "company": "Schubergphilis",
+    "location": "Schiphol-Rijk",
+    "remote": false,
+    "url": "https://www.arbeitnow.nl/jobs/companies/schubergphilis/mission-critical-security-engineer-threat-hunting-schiphol-rijk-484413",
+    "description": "<p><strong>Help protect what truly matters in our customers' most critical environments by proactively identifying threats and improving how they are detected and addressed.</strong></p>\n<p>As a Mission Critical Security Engineer with a focus on Threat Hunting, you will be part of a dedicated customer team responsible for securing and continuously improving a complex, mission-critical application landscape.</p>\n<p>Working alongside other engineers and security specialists, you will help ensure the environment remains as secure and resilient as possible. You combine a strong engineering foundation with a security mindset, taking ownership of security improvements and understanding how systems, applications, and infrastructure behave.</p>\n<p>Your specific focus will be on threat hunting and detection engineering. Using your in-depth knowledge of the customer's technology stack and application landscape, you will fine-tune existing detection use cases and develop new ones tailored to the environment. You will use our custom SIEM/SOAR-based Managed Detection and Response (MDR) platform to turn emerging threats and technical insights into actionable detection capabilities.</p>\n<p>This role bridges security engineering, detection engineering, and threat intelligence. You don't simply follow predefined playbooks. You understand system behavior, identify gaps, and develop practical solutions that strengthen the security of the customer's environment.</p>\n<h2>/ What you will do</h2>\n<p><strong>Threat intelligence &amp; continuous improvement</strong></p>\n<ul data-spread=\"false\">\n<li>\n<p>Actively follow security developments, vulnerabilities, and threat intelligence and translate these into relevant hunts and detections.</p>\n</li>\n<li>\n<p>Identify security risks and gaps in detection coverage and proactively propose improvements.</p>\n</li>\n<li>\n<p>Use your knowledge of the customer's application and infrastructure landscape to continuously strengthen its security posture.</p…",
+    "tags": [
+      "Technology"
+    ],
+    "postedAt": "2026-10-27T00:55:22.000Z",
+    "scrapedAt": "2026-10-27T03:31:28.333Z"
+  },
+  {
+    "id": "arbeitnow:junior-product-manager-it-fulfillment-amsterdam-209861",
+    "externalId": "junior-product-manager-it-fulfillment-amsterdam-209861",
+    "source": "arbeitnow",
+    "title": "Junior Product Manager – IT Fulfillment",
+    "company": "Suitsupply",
+    "location": "Amsterdam",
+    "remote": false,
+    "url": "https://www.arbeitnow.nl/jobs/companies/suitsupply/junior-product-manager-it-fulfillment-amsterdam-209861",
+    "description": "<h6>Every order a Suitsupply customer places, online, in a store, or through customer service, has to be captured, understood and carried all the way through to delivery or return. As Junior Product Manager for IT Fulfillment, you will help build and improve the services that make that happen: the order flows, data and interfaces that connect our webstore, our stores, our warehouses and our customer service teams.</h6>\n<h6>You will work in a small team inside the IT Fulfillment domain, alongside the Group Product Manager and our own engineers. The Group Product Manager shapes the functional direction with the business and sets priorities; together you turn it into clear requirements, well-defined tickets and working software, built with engineers and AI agents. This is a technical product role: we build our own services, so you will spend your time in data models, interfaces and requirements rather than managing a vendor’s roadmap. You start close to delivery, with support while you learn the domain, and grow into owning more of the roadmap.</h6>\n<h5><strong>What you will do</strong></h5>\n<ul>\n<li>Turn mapped-out functional flows into clear, buildable work: technical requirements, acceptance criteria and user stories that engineers and AI agents can pick up without coming back with questions.</li>\n<li>Own the detail as both product manager and business analyst: the data model, the way systems talk to each other, and the edge cases nobody thought of yet.</li>\n<li>Break large changes into chunks that can be built, tested and released safely, and keep the backlog in a state where work can start at any moment.</li>\n<li>Work with engineers day to day in refinement, planning, reviews and releases, and use our AI tooling to draft, structure and pressure-test the work before it reaches them.</li>\n<li>Design our order data and interfaces so that AI agents can read, reason over and act on them as reliably as our own systems do.</li>\n<li>Create visibility across the end-to-en…",
+    "tags": [
+      "IT Development"
+    ],
+    "postedAt": "2026-10-27T00:55:21.000Z",
+    "scrapedAt": "2026-10-27T03:31:28.333Z"
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "id": "greenhouse:anthropic-5462966008",
+    "externalId": "anthropic:5462966008",
+    "source": "greenhouse",
+    "title": "Security Data Engineer",
+    "company": "Anthropic",
+    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462966008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\n Claude is trained and served on hardware in data centers Anthropic operates and in sites partners build and run for us. DCSE secures that footprint: the sites, the hardware moving through them, and the people and vendors who touch it. Security at that scale runs on data, and you'll be the engineer who owns it and the systems that produce it: component-level hardware inventory and chain of custody, fed by software that runs at our sites and on hosts, and continuous control monitoring, with the posture calculations that decide what each site is cleared to run.\n You set the architecture, agree schemas and interfaces with the teams, operators and vendors that own the sources, build the pipelines, stores and tools, and run what you ship. The goal is security that runs itself: custody, access and evidence verified continuously from records, with tools and AI agents doing the reviews. We favor simple, standard controls and tools that can be verified over elaborate ones. We use Claude throughout our engineering workflow and expect you to as well.\n You'll work with the rest of DCSE, including the engineers on its security monitoring platform, with Anthropic's compute and data center operations teams, and directly with data center operators, hardware vendors and logistics providers. The role is based in San Francisco, with remote applicants in the US considered, and involves regular travel to data center sites, which are critical infrastructure.\n Key responsibilities\n Hardware inventory and chain of custody: own the component-level record of what hardware exists, where it is and who has handled it: the data model, the pipelin…",
+    "tags": [
+      "Security"
+    ],
+    "postedAt": "2026-10-26T22:47:43.000Z",
+    "scrapedAt": "2026-10-27T03:32:20.331Z"
+  },
+  {
     "id": "jobicy:157270",
     "externalId": "157270",
     "source": "jobicy",
@@ -16,43 +32,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-10-26T16:46:54.000Z",
-    "scrapedAt": "2026-10-26T22:15:19.908Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-berlin-265036",
-    "externalId": "senior-data-engineer-berlin-265036",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer (f/m/d)",
-    "company": "Liqid Lig",
-    "location": "Berlin",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/liqid-lig/senior-data-engineer-berlin-265036",
-    "description": "Your Role We are looking for a Senior Data Engineer (f/m/d) at LIQID, who will play a pivotal role in building and scaling data infrastructure that powers decision-making.\n You will design scalable, high-performance data pipelines, ensure data integrity, and drive efficient data processing across the organization. Working closely with our Head of Data, Analytics Engineers, and cross-functional teams, you will develop robust data architectures, enhance data security, and implement best practices that empower data-driven decision-making at scale.\n This is not a role where you preserve what already exists. It is a role where you build what comes next. As LIQID scales beyond €4 billion in assets under management, the demands on our data infrastructure are growing fast. You will have real ownership over how we meet that challenge, with the autonomy to propose solutions and the backing to ship them.\n   What will keep you challenged? Design, build, and optimize scalable data pipelines and storage solutions that ensure efficient, secure, and reliable data processing from source systems to our data warehouse\n Develop and manage ETL/ELT workflows to integrate data from multiple sources, ensuring seamless ingestion, transformation, and availability\n Implement and enforce data quality, validation, and monitoring processes to guarantee accuracy and integrity for analytics and operational use cases\n Ensure data security and compliance by applying best practices and industry standards for handling sensitive information\n Collaborate with analysts, product managers, and engineers to understand data needs and deliver solutions that unlock new insights\n Continuously evaluate and integrate new technologies to improve scalability, performance, and future-proof LIQID’s data infrastructure\n What you bring Over 5 years of professional experience in data engineering, data architecture, or a similar data related role\n Bachelor’s or Master’s degree in Computer Science, Data Engineering, Info…",
-    "tags": [
-      "Technology",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-10-26T12:40:10.000Z",
-    "scrapedAt": "2026-10-26T22:15:18.757Z"
-  },
-  {
-    "id": "arbeitnow:senior-analytics-engineer-finance-united-kingdom-59024",
-    "externalId": "senior-analytics-engineer-finance-united-kingdom-59024",
-    "source": "arbeitnow",
-    "title": "Senior Analytics Engineer, Finance",
-    "company": "Airalo",
-    "location": "United Kingdom",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/airalo/senior-analytics-engineer-finance-united-kingdom-59024",
-    "description": "Help Us Build The Future of Travel\n At Airalo, we're making it easier for people to stay connected wherever they travel. As the world's first eSIM store, we help millions of travelers access affordable mobile data in 200+ countries and regions around the world.\n Today, we're a team of 400+ people across 60+ countries, building a product used by travelers every day. We've grown quickly, but we've worked hard to keep what matters: trust, ownership, and the freedom for people to do great work without unnecessary layers or bureaucracy.\n We're fully remote by design, genuinely global, and united by a shared mission to make travel simpler for everyone.\n Your Next Destination\n Location: Remote, anywhere in Spain or the UK.\n Contract:\n Spain: Full-time, permanent contrato indefinido via Deel (our employer of record in Spain)\n UK: Full-time, permanent\n Benefits: Learn more about our benefits here in this link - https://airalo-public.notion.site/Benefits-25396a97ffca81fb9bc1f0be479f1be3?pvs=74\n Languages: English is our main working language day to day, so you'll need to be comfortable communicating in it both in meetings and async.\n Curious what it's actually like to work at Airalo? We've put together a guide for each of the hubs we hire from most, covering our benefits, remote culture, employment setup, and what our team values most:\n Life at Airalo · España : https://airalo-public.notion.site/life-at-airalo-espana\n Life at Airalo · United Kingdom : https://airalo-public.notion.site/life-at-airalo-united-kingdom\n We’re looking for a Senior Analytics Engineer to help shape how data is modeled and governed at Airalo, transforming first- and third-party data into clean, trusted, well-documented datasets that power decisions across product, marketing, finance, and commercial teams, serving 30+ million users and growing. This role carries particular weight in our finance and revenue domain: you’ll steward the models finance relies on directly, including order-to-revenue flows a…",
-    "tags": [
-      "Data Analytics",
-      "Full-Time"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-10-26T03:07:51.000Z",
-    "scrapedAt": "2026-10-26T22:15:18.757Z"
+    "scrapedAt": "2026-10-27T03:32:19.925Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -68,7 +48,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-10-26T22:15:20.500Z"
+    "scrapedAt": "2026-10-27T03:32:20.331Z"
   },
   {
     "id": "greenhouse:airbnb-8284841",
@@ -84,7 +64,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-10-16T16:32:46.000Z",
-    "scrapedAt": "2026-10-26T22:15:20.500Z"
+    "scrapedAt": "2026-10-27T03:32:20.331Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -100,7 +80,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-26T22:15:20.500Z"
+    "scrapedAt": "2026-10-27T03:32:20.331Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -116,7 +96,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-10-26T22:15:20.500Z"
+    "scrapedAt": "2026-10-27T03:32:20.331Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -132,7 +112,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-10-26T22:15:20.500Z"
+    "scrapedAt": "2026-10-27T03:32:20.331Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -148,7 +128,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-26T22:15:20.500Z"
+    "scrapedAt": "2026-10-27T03:32:20.331Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -164,6 +144,22 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-10-26T22:15:20.500Z"
+    "scrapedAt": "2026-10-27T03:32:20.331Z"
+  },
+  {
+    "id": "greenhouse:block-5434325008",
+    "externalId": "block:5434325008",
+    "source": "greenhouse",
+    "title": "Senior Analytics Engineer, AI & DX Analytics",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "remote": false,
+    "url": "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
+    "description": "Block builds simple, powerful tools that make progress towards an economy that’s truly open to all.\n Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Join us.\n The Role\n The AI & DX (Developer Experience) Analytics team exists to measure and improve Block's developer experience and investment in AI. We turn raw engineering signals (agent session data, pull request and CI activity, and AI spend) into reporting and analysis that shape leadership's AI investment decisions, and drive improvement in AI ROI and developer experience. Your work will be the trusted source of truth that engineers and executives use to decide where AI investment is working and where to redirect it.\n We're hiring a Senior Analytics Engineer to own parts of that pipeline end to end. This is a broad, high-visibility role with a lot of white space: you will instrument new telemetry at the source and build production pipelines that turn it into governed data, then turn that governed data into executive-facing reporting and the analysis that surfaces concrete opportunities to improve AI ROI and developer experience. You'll also help pioneer one of the most consequential open problems in the industry right now: measuring the productivity impact of an increasingly AI- and agent-augmented engineering workforce, where there is no textbook answer and real room to set the standard. You'll define new metrics and craft the visual narrative — the charts, dashboards, and presentation materials — that make them land with…",
+    "tags": [
+      "10410 Engineering - Developer Experience"
+    ],
+    "postedAt": "2026-09-24T17:40:25.000Z",
+    "scrapedAt": "2026-10-27T03:32:20.331Z"
   }
 ]
