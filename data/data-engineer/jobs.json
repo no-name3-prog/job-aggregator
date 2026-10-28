@@ -1,58 +1,38 @@
 [
   {
-    "id": "arbeitnow:data-engineering-lead-london-496391",
-    "externalId": "data-engineering-lead-london-496391",
+    "id": "arbeitnow:senior-data-engineer-uddingston-297287",
+    "externalId": "senior-data-engineer-uddingston-297287",
     "source": "arbeitnow",
-    "title": "Data Engineering Lead",
-    "company": "Plasma",
-    "location": "London Office",
+    "title": "Senior Data Engineer",
+    "company": "OLR Holdings Ltd trading as DFYNE",
+    "location": "Uddingston",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/plasma/data-engineering-lead-london-496391",
-    "description": "About Plasma Plasma is building the primary account for global money.\n Money used to belong to a country. Increasingly, it belongs to a person or business moving through many countries. People and businesses now earn, spend, save, hire and invest across borders. Traditional banks cannot serve this new world.\n Our first product, Plasma One, is a global money account: a place to receive, hold, send funds in seconds, earn yield and spend with a card in the local economy.\n Underneath is the Plasma network, built from first principles for stablecoin payments. Stablecoins make dollars faster, cheaper and more reliable to move.\n The opportunity is to become where all global money lands first: where income arrives, balances grow, payments move, businesses operate, and new financial products are built.\n The Team & Our Story We are a global team of founders, operators and engineers, obsessed with building the best products. We work at the cutting edge of financial innovation, using stablecoins to create tools for consumers and businesses.\n We operate with trust, clarity, and ambition: own your craft, move with urgency, contribute beyond your lane, back your teammates, debate rigorously, and keep raising the bar for what great means.\n The Role\n We're looking for a hands-on Data Lead to build Plasma's data function from the ground up. You'll be our first dedicated data hire, working across Consumer, Payments and Business to give the company one trusted view of its users, its money and its operations.\n At first you'll build much of the platform yourself: our Snowflake warehouse, the pipelines that feed it and the modelled layer on top. As the function grows, you'll choose the tools, set the standards and hire the team.\n The Work\n Own Plasma's data platform end to end: the Snowflake warehouse, ingestion from production systems and third-party providers, and the modelled layer the rest of the company builds on\n Define the metrics the company runs on, including funded users, activ…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/olr-holdings-ltd-trading-as-dfyne/senior-data-engineer-uddingston-297287",
+    "description": "Role: Senior Data Engineer\n Location: DFYNE HQ, 1 Forrest Gate, Uddingston, G71 5PG\n Work Location: Onsite\n About You:\nAre you the kind of Data Engineer who enjoys being the person everyone relies on when data matters most? Do you thrive on building reliable pipelines, improving data quality and ensuring critical business decisions are driven by trusted information? Are you as comfortable writing complex SQL as you are building automated monitoring, troubleshooting failures and improving data architecture? If you enjoy ownership and want to have a direct impact on how a fast-growing business operates, DFYNE could be exactly where you belong.\n About DFYNE:\nA picture paints a thousand words… and we’re sure you don’t want to sit here reading a corporate essay about who we are. Honestly, how can you really get under the skin of DFYNE from a few lines on a screen? So instead, go have a look for yourself, see what we’re about, what we stand for, and why people love us: www.dfyne.com.\n About the role — DFYNE Your Career:\nBefore I tell you more about the role, let me introduce myself. I’m Bruce, Head of Development at DFYNE, and I’m looking for our first dedicated Senior Data Engineer. This role will own the DFYNE data warehouse, helping ensure the data that powers finance reporting, forecasting, inventory management and operational decision-making remains accurate, reliable and available. You’ll take ownership of BigQuery pipelines, transformation layers, exports and integrations while working closely with teams across the business. This is a hands-on role where you’ll help define data engineering standards, improve data reliability and build the foundation of DFYNE’s future data capability.\n Attitude:\n• Ownership mentality\n• Builder mindset\n• Commercial awareness\n• Problem-solving mindset\n• Continuous improvement\n Key Responsibilities:\n• Own the performance, reliability, security and ongoing development of DFYNE’s BigQuery data warehouse and associated data pipelines.\n•…",
     "tags": [
-      "Engineering",
-      "Full Time"
+      "IT",
+      "Permanent employment contract (open-ended contract)",
+      "professional / experienced"
     ],
-    "jobType": "Full Time",
-    "postedAt": "2026-10-28T00:40:15.000Z",
-    "scrapedAt": "2026-10-28T03:48:00.134Z"
+    "jobType": "Permanent employment contract (open-ended contract)",
+    "postedAt": "2026-10-28T08:10:42.000Z",
+    "scrapedAt": "2026-10-28T12:02:52.559Z"
   },
   {
-    "id": "arbeitnow:data-engineer-berlin-58843",
-    "externalId": "data-engineer-berlin-58843",
+    "id": "arbeitnow:senior-data-engineer-enterprise-integration-data-platform-parsdorf-bavaria-150701",
+    "externalId": "senior-data-engineer-enterprise-integration-data-platform-parsdorf-bavaria-150701",
     "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Kayak",
-    "location": "Berlin Office",
+    "title": "Senior Data Engineer - Enterprise Integration & Data Platform (f/m/d)",
+    "company": "isaraerospace",
+    "location": "Parsdorf, Bavaria",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/kayak/data-engineer-berlin-58843",
-    "description": "KAYAK, part of Booking Holdings (NASDAQ: BKNG), is the world's leading travel search engine. With billions of queries across our platforms, we help people find their perfect flight, stay, rental car and vacation package. We're also transforming business travel with a new corporate travel solution, KAYAK for Business.\n As an employee of KAYAK, you will be part of a travel company that operates a portfolio of global metasearch brands including momondo, Cheapflights and HotelsCombined, among others. From start-up to industry leader, innovation is at our core and every employee has an opportunity to make their mark. Our focus is on building the best travel search engine to make it easier for everyone to experience the world.\n KAYAK is looking for a Data Engineer to build the trusted data foundation behind machine learning across the company.\n You’ll partner with data scientists to understand their modeling needs and what the available data can (and can’t) support. You’ll transform large-scale raw data into production-ready datasets and build the scalable pipelines that make them dependable and reusable. Working across Data Science, Data Engineering, and Data Platform, you’ll help address data gaps and bring new machine-learning use cases into production.\n If you’re excited to shape how teams across KAYAK use data to build and scale machine learning, we’d love to hear from you.\n This role will be required to work from our Berlin office 3 days per week.\n In this role, you will: Partner with the Data Science teams and help translate modeling needs into dataset requirements, then collaborate with Data Engineering and Data Platform to extend foundational pipelines into ML-ready datasets.\n Design scalable and efficient dataset workflows and ensure pipeline reliability through validation, monitoring, and alerting; diagnose and resolve issues.\n Ship production-ready data solutions that enable ML applications and deliver real-world impact on user experience and key business met…",
+    "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-data-engineer-enterprise-integration-data-platform-parsdorf-bavaria-150701",
+    "description": "<p><strong>Mission Brief</strong></p>\n<p>At Isar Aerospace, we are building the technology and infrastructure needed to make access to space more affordable, sustainable, and scalable.</p>\n<p>We are looking for a highly skilled, hands-on <strong>Senior Data Engineer</strong> to help design and build the foundation of our enterprise data platform.</p>\n<p>As our organization grows, so does the complexity of our systems and the data they generate. You will play a key role in connecting our enterprise applications, engineering systems, and operational data sources, enabling reliable data exchange and creating a unified foundation for analytics, automation, and internally developed software applications.</p>\n<p>You will work with systems such as SAP, Siemens Teamcenter, and other enterprise platforms to design scalable data pipelines, integration services, and a modern data lake architecture.</p>\n<p>This is a foundational engineering role with significant technical ownership. You will have the opportunity to help define our data architecture, establish engineering standards, and build the infrastructure that enables our teams to access and utilize data across the organization.</p>\n<p>We are looking for someone who enjoys solving complex integration challenges, is comfortable working with heterogeneous data sources, and combines strong engineering fundamentals with a pragmatic, hands-on approach.</p>\n<p><br><strong>Your role in our Space Mission...</strong></p>\n<p><strong>Data Platform Architecture &amp; Development</strong></p>\n<ul>\n<li>Design, develop, and maintain scalable data pipelines connecting enterprise applications, engineering systems, and operational data sources.</li>\n<li>Help establish the architecture and technical foundation of a centralized enterprise data lake or lakehouse.</li>\n<li>Independently build reliable ingestion, transformation, and data processing workflows supporting both batch and event-driven use cases.</li>\n<li>Design data storage and proc…",
     "tags": [
-      "Cost Centers",
-      "Full Time"
+      "AI & Data Transformation"
     ],
-    "jobType": "Full Time",
-    "postedAt": "2026-10-27T18:40:34.000Z",
-    "scrapedAt": "2026-10-28T03:48:00.134Z"
-  },
-  {
-    "id": "jobicy:157388",
-    "externalId": "157388",
-    "source": "jobicy",
-    "title": "Sr. Manager, Data Engineering",
-    "company": "Veracyte",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/08/1917a215-221.jpeg",
-    "location": "USA",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/157388-sr-manager-data-engineering-2",
-    "description": "At Veracyte , we offer exciting career opportunities for those interested in joining a pioneering team that is committed to transforming cancer care for patients across the globe. Working at Veracyte enables our employees to not only make a meaningful impact on the lives of patients, but to also learn and grow within a purpose driven environment. This is what we call the Veracyte way – it’s about how we work together, guided by our values, to give clinicians the insights they need to help patients make life-changing decisions.\n Our Values:\n We Seek A Better Way : We pursue bold ideas, embrace complexity, and keep pushing forward.\n We Make It Happen : We act with urgency, deliver with excellence, and always find a way.\n We Are Stronger Together : We engage with empathy, align around what's best for Veracyte, and celebrate as one team.\n We Care Deeply : We show up with integrity, kindness, and respect for one another.\n The Position\n The Senior Manager, Data Engineering will manage an engineering team responsible for building and operating Veracyte’s enterprise data platforms. This role combines people leadership with direct technical ownership and is suited for someone who can move comfortably between architecture, implementation details, production operations, and team development.\n You will guide the evolution of modern data lake and lakehouse environments, delivering trusted and actionable data to scientific, clinical, operational, and commercial teams. You will partner closely with data science, analytics, product, clinical, software engineering, Security, and IT to translate business and scientific needs into secure, scalable, and maintainable solutions.\n This position is based in our San Diego office with a hybrid working model or may be US remote.\n Manage and develop a team of data engineers, supporting talent planning, hiring, coaching, performance management, career development, and team effectiveness.\n Remain close enough to the technical work to guide arch…",
-    "tags": [
-      "Data Science & Analytics",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-10-27T13:32:16.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.084Z"
+    "postedAt": "2026-10-28T03:55:23.000Z",
+    "scrapedAt": "2026-10-28T12:02:52.559Z"
   },
   {
     "id": "greenhouse:anthropic-5462966008",
@@ -68,7 +48,7 @@
       "Security"
     ],
     "postedAt": "2026-10-26T22:47:43.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -84,7 +64,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:airbnb-8284841",
@@ -100,7 +80,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-10-16T16:32:46.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -116,7 +96,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -132,7 +112,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -148,7 +128,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -164,7 +144,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -180,7 +160,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -196,7 +176,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -212,7 +192,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:airbnb-8224032",
@@ -228,7 +208,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "lever:spotify-80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
@@ -248,7 +228,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-09-22T08:36:16.099Z",
-    "scrapedAt": "2026-10-28T03:51:08.765Z"
+    "scrapedAt": "2026-10-28T12:06:24.379Z"
   },
   {
     "id": "greenhouse:figma-6201407004",
@@ -264,7 +244,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-21T16:13:46.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -280,7 +260,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -296,7 +276,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -312,7 +292,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -328,7 +308,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -344,7 +324,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -360,7 +340,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -376,7 +356,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -392,7 +372,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:affirm-7916080003",
@@ -408,7 +388,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-08-20T13:43:45.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -428,7 +408,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-10-28T03:51:08.765Z"
+    "scrapedAt": "2026-10-28T12:06:24.379Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -447,7 +427,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-10-28T03:51:12.679Z"
+    "scrapedAt": "2026-10-28T12:06:25.016Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -463,7 +443,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:stripe-8112043",
@@ -479,7 +459,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-08-06T14:27:44.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -495,7 +475,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -511,7 +491,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:affirm-7813362003",
@@ -527,7 +507,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-07-28T10:52:21.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -543,7 +523,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -559,7 +539,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:discord-8485884002",
@@ -575,7 +555,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-05-14T16:00:25.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -591,7 +571,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -607,7 +587,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -623,7 +603,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -639,7 +619,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -655,7 +635,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-10-28T03:48:01.519Z"
+    "scrapedAt": "2026-10-28T12:02:54.731Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -671,7 +651,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T03:48:08.911Z"
+    "scrapedAt": "2026-10-28T12:03:02.425Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -687,7 +667,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T03:48:08.911Z"
+    "scrapedAt": "2026-10-28T12:03:02.425Z"
   },
   {
     "id": "workday:nvidia-JR2028539",
@@ -701,7 +681,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T03:48:08.911Z"
+    "scrapedAt": "2026-10-28T12:03:02.425Z"
   },
   {
     "id": "workday:nvidia-JR2023850",
@@ -715,7 +695,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T03:48:08.911Z"
+    "scrapedAt": "2026-10-28T12:03:02.425Z"
   },
   {
     "id": "workday:nvidia-JR2026497",
@@ -729,7 +709,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T03:48:08.911Z"
+    "scrapedAt": "2026-10-28T12:03:02.425Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -743,7 +723,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T03:48:08.911Z"
+    "scrapedAt": "2026-10-28T12:03:02.425Z"
   },
   {
     "id": "workday:salesforce-JR347388",
@@ -757,7 +737,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T03:48:08.911Z"
+    "scrapedAt": "2026-10-28T12:03:02.425Z"
   },
   {
     "id": "workday:adobe-R171875",
@@ -771,7 +751,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T03:48:08.911Z"
+    "scrapedAt": "2026-10-28T12:03:02.425Z"
   },
   {
     "id": "workday:adobe-R172115",
@@ -785,7 +765,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T03:48:08.911Z"
+    "scrapedAt": "2026-10-28T12:03:02.425Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -799,7 +779,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T03:48:08.911Z"
+    "scrapedAt": "2026-10-28T12:03:02.425Z"
   },
   {
     "id": "workday:autodesk-26WD100418",
@@ -813,7 +793,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T03:48:08.911Z"
+    "scrapedAt": "2026-10-28T12:03:02.425Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -827,7 +807,21 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T03:48:08.911Z"
+    "scrapedAt": "2026-10-28T12:03:02.425Z"
+  },
+  {
+    "id": "workday:autodesk-26WD101628",
+    "externalId": "autodesk:26WD101628",
+    "source": "workday",
+    "title": "Principal Data Engineer (PySpark, AI)",
+    "company": "Autodesk",
+    "location": "Bengaluru, IND",
+    "remote": false,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Principal-Data-Engineer--PySpark--AI-_26WD101628",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-10-28T12:03:02.425Z"
   },
   {
     "id": "workday:salesforce-JR363793",
@@ -841,7 +835,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T03:49:18.856Z"
+    "scrapedAt": "2026-10-28T12:04:20.159Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -855,7 +849,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T03:49:18.856Z"
+    "scrapedAt": "2026-10-28T12:04:20.159Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -869,7 +863,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T03:49:18.856Z"
+    "scrapedAt": "2026-10-28T12:04:20.159Z"
   },
   {
     "id": "workday:salesforce-JR359930",
@@ -883,6 +877,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T03:49:51.636Z"
+    "scrapedAt": "2026-10-28T12:04:57.434Z"
   }
 ]
