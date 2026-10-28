@@ -1,38 +1,56 @@
 [
   {
-    "id": "arbeitnow:senior-data-engineer-uddingston-297287",
-    "externalId": "senior-data-engineer-uddingston-297287",
+    "id": "arbeitnow:senior-analytics-engineer-london-156174",
+    "externalId": "senior-analytics-engineer-london-156174",
     "source": "arbeitnow",
-    "title": "Senior Data Engineer",
-    "company": "OLR Holdings Ltd trading as DFYNE",
-    "location": "Uddingston",
+    "title": "Senior Analytics Engineer",
+    "company": "Sohohouseco",
+    "location": "London",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/olr-holdings-ltd-trading-as-dfyne/senior-data-engineer-uddingston-297287",
-    "description": "Role: Senior Data Engineer\n Location: DFYNE HQ, 1 Forrest Gate, Uddingston, G71 5PG\n Work Location: Onsite\n About You:\nAre you the kind of Data Engineer who enjoys being the person everyone relies on when data matters most? Do you thrive on building reliable pipelines, improving data quality and ensuring critical business decisions are driven by trusted information? Are you as comfortable writing complex SQL as you are building automated monitoring, troubleshooting failures and improving data architecture? If you enjoy ownership and want to have a direct impact on how a fast-growing business operates, DFYNE could be exactly where you belong.\n About DFYNE:\nA picture paints a thousand words… and we’re sure you don’t want to sit here reading a corporate essay about who we are. Honestly, how can you really get under the skin of DFYNE from a few lines on a screen? So instead, go have a look for yourself, see what we’re about, what we stand for, and why people love us: www.dfyne.com.\n About the role — DFYNE Your Career:\nBefore I tell you more about the role, let me introduce myself. I’m Bruce, Head of Development at DFYNE, and I’m looking for our first dedicated Senior Data Engineer. This role will own the DFYNE data warehouse, helping ensure the data that powers finance reporting, forecasting, inventory management and operational decision-making remains accurate, reliable and available. You’ll take ownership of BigQuery pipelines, transformation layers, exports and integrations while working closely with teams across the business. This is a hands-on role where you’ll help define data engineering standards, improve data reliability and build the foundation of DFYNE’s future data capability.\n Attitude:\n• Ownership mentality\n• Builder mindset\n• Commercial awareness\n• Problem-solving mindset\n• Continuous improvement\n Key Responsibilities:\n• Own the performance, reliability, security and ongoing development of DFYNE’s BigQuery data warehouse and associated data pipelines.\n•…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/sohohouseco/senior-analytics-engineer-london-156174",
+    "description": "<p>&nbsp;</p>\n<p><span style=\"font-size: 12pt;\"><strong>The Role..</strong></span></p>\n<p><span style=\"font-size: 12pt;\">We are looking for an experienced Analytics Engineer to join our data team to enhance our data-platform. This role will develop advanced analytics features into our transformations layer, optimise performance, and work with data engineers to ensure scalability and robustness.</span></p>\n<p><span style=\"font-size: 12pt;\">Candidates for the role will have proven expertise in developing complex and performant SQL data models, with a deep understanding of dbt Core or dbt Cloud and Snowflake. The ideal candidate will have experience managing semantic layer based BI tools, such as Omni or Looker.</span></p>\n<p><span style=\"font-size: 12pt;\"><strong>Key Responsibilities..</strong></span></p>\n<ul>\n<li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Develop advanced and performant SQL transformations in dbt to support complex analytics and reporting needs, ensuring optimised performance in handling large-scale data.</span></li>\n<li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Optimise sql codebase for Snowflake credit spend and dbt build times, tune materialisations and incremental models, and report against build KPIs.</span></li>\n<li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Set up and manage dbt projects to ensure that the codebase is stable, scalable, and maintainable, adhering to best practices for long-term success.</span></li>\n<li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Administer and manage dbt Cloud (Fusion), including scheduling and job monitoring.</span></li>\n<li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Collaborate with data engineering teams to ensure our transformation layer integrates seamlessly with our ingestion layer, enabling end-to-end analytics pipelines.</span></li>\n<li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Implement and manage data observability process…",
     "tags": [
-      "IT",
-      "Permanent employment contract (open-ended contract)",
-      "professional / experienced"
+      "Digital & IT"
     ],
-    "jobType": "Permanent employment contract (open-ended contract)",
-    "postedAt": "2026-10-28T08:10:42.000Z",
-    "scrapedAt": "2026-10-28T12:02:52.559Z"
+    "postedAt": "2026-10-28T18:55:25.000Z",
+    "scrapedAt": "2026-10-28T20:03:10.180Z"
   },
   {
-    "id": "arbeitnow:senior-data-engineer-enterprise-integration-data-platform-parsdorf-bavaria-150701",
-    "externalId": "senior-data-engineer-enterprise-integration-data-platform-parsdorf-bavaria-150701",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer - Enterprise Integration & Data Platform (f/m/d)",
-    "company": "isaraerospace",
-    "location": "Parsdorf, Bavaria",
+    "id": "ashby:notion-73a71747-28d3-4dda-a718-77336056e687",
+    "externalId": "notion:73a71747-28d3-4dda-a718-77336056e687",
+    "source": "ashby",
+    "title": "Data Engineer, Product",
+    "company": "Notion",
+    "location": "San Francisco, California",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-data-engineer-enterprise-integration-data-platform-parsdorf-bavaria-150701",
-    "description": "<p><strong>Mission Brief</strong></p>\n<p>At Isar Aerospace, we are building the technology and infrastructure needed to make access to space more affordable, sustainable, and scalable.</p>\n<p>We are looking for a highly skilled, hands-on <strong>Senior Data Engineer</strong> to help design and build the foundation of our enterprise data platform.</p>\n<p>As our organization grows, so does the complexity of our systems and the data they generate. You will play a key role in connecting our enterprise applications, engineering systems, and operational data sources, enabling reliable data exchange and creating a unified foundation for analytics, automation, and internally developed software applications.</p>\n<p>You will work with systems such as SAP, Siemens Teamcenter, and other enterprise platforms to design scalable data pipelines, integration services, and a modern data lake architecture.</p>\n<p>This is a foundational engineering role with significant technical ownership. You will have the opportunity to help define our data architecture, establish engineering standards, and build the infrastructure that enables our teams to access and utilize data across the organization.</p>\n<p>We are looking for someone who enjoys solving complex integration challenges, is comfortable working with heterogeneous data sources, and combines strong engineering fundamentals with a pragmatic, hands-on approach.</p>\n<p><br><strong>Your role in our Space Mission...</strong></p>\n<p><strong>Data Platform Architecture &amp; Development</strong></p>\n<ul>\n<li>Design, develop, and maintain scalable data pipelines connecting enterprise applications, engineering systems, and operational data sources.</li>\n<li>Help establish the architecture and technical foundation of a centralized enterprise data lake or lakehouse.</li>\n<li>Independently build reliable ingestion, transformation, and data processing workflows supporting both batch and event-driven use cases.</li>\n<li>Design data storage and proc…",
+    "url": "https://jobs.ashbyhq.com/notion/73a71747-28d3-4dda-a718-77336056e687",
+    "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nNotion's mission is to make toolmaking ubiquitous—from wikis and documents to notes, tasks, and databases. Strong product intuition and user focus have driven adoption across organizations of all sizes. Millions of users now rely on Notion's building blocks to get work done.\n\nAs Notion scales, there's a unique opportunity to build the data foundations that help our product and company reach their full potential. You'll design and build reliable, trusted datasets that accelerate decision-making across product and business functions, directly impacting our roadmap and growth.\n\nThis role is based in our San Francisco Headquarters. We work from our offices on Mondays, Tuesdays and Thursdays (our Anchor Days) because we do our best thinking and building together in person. We’re looking for someone who’s excited to work alongside the team during those days. \n\n\n\n\nWHAT YOU'LL ACHIEVE:\n\n - Define ETL processes and infrastructure to make data readily available across the company\n\n - Build core datasets as single sources of truth for product and business teams (product, marke…",
     "tags": [
-      "AI & Data Transformation"
+      "Engineering",
+      "Engineering"
     ],
-    "postedAt": "2026-10-28T03:55:23.000Z",
-    "scrapedAt": "2026-10-28T12:02:52.559Z"
+    "jobType": "FullTime",
+    "postedAt": "2026-10-28T18:42:47.956Z",
+    "scrapedAt": "2026-10-28T20:06:42.264Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-paris-12389",
+    "externalId": "senior-data-engineer-paris-12389",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer",
+    "company": "PUR",
+    "location": "Paris, Île-de-France, France",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/pur/senior-data-engineer-paris-12389",
+    "description": "Job title: Senior Data Engineer\n Department: Data team\n Reports to: Lead Data Engineer\n Location: Paris, France\n Contract: Permanent, local and full-time\n Starting date: ASAP 2026\n PUR Description\n PUR is a global B Corp helping companies act for climate, nature and people through nature-based projects.\n Since 2008, we have worked with leading companies to restore ecosystems, support farmers and communities, and build more resilient supply chains. Our projects include agroforestry, regenerative agriculture, reforestation, and ecosystem restoration, across more than 30 countries.\n We work closely with local partners, farmers, cooperatives, NGOs and businesses to design projects that are adapted to each landscape and community. This local approach is key to creating long-term impact — for the climate, biodiversity, soil, water, and livelihoods.\n Today, PUR has more than 200 team members across 16 countries, with key offices in Paris and Toronto. As the world faces growing climate and biodiversity challenges, PUR is helping global companies move from ambition to action.\n About the role\n As a Senior Data Engineer, you will design, develop, and maintain scalable data pipelines and data processing solutions that power analytics, reporting, and data-driven decision making. You will play a key role in transforming raw project data into reliable, high-quality datasets through robust ETL processes, modern data architectures, and Python-based engineering practices.\n Working closely with business and technical stakeholders, you will ensure that data is accessible, trustworthy, and aligned with analytical requirements while contributing to the continuous improvement of our data platform and cloud-based ecosystem.\n Your responsibilities will be, but not limited to:\n Design, develop, and maintain scalable ETL/ELT pipelines using Python.\n Build and optimize data ingestion, transformation, and validation processes for large datasets.\n Design and maintain data models supporting repo…",
+    "tags": [
+      "Data",
+      "Manager",
+      "fulltime permanent"
+    ],
+    "jobType": "Manager",
+    "postedAt": "2026-10-28T12:31:13.000Z",
+    "scrapedAt": "2026-10-28T20:03:10.180Z"
   },
   {
     "id": "greenhouse:anthropic-5462966008",
@@ -48,7 +66,7 @@
       "Security"
     ],
     "postedAt": "2026-10-26T22:47:43.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -64,7 +82,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:airbnb-8284841",
@@ -80,7 +98,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-10-16T16:32:46.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -96,7 +114,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -112,7 +130,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -128,7 +146,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -144,7 +162,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -160,7 +178,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -176,7 +194,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -192,7 +210,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:airbnb-8224032",
@@ -208,7 +226,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "lever:spotify-80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
@@ -228,7 +246,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-09-22T08:36:16.099Z",
-    "scrapedAt": "2026-10-28T12:06:24.379Z"
+    "scrapedAt": "2026-10-28T20:06:28.348Z"
   },
   {
     "id": "greenhouse:figma-6201407004",
@@ -244,7 +262,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-21T16:13:46.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -260,7 +278,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -276,7 +294,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -292,7 +310,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -308,7 +326,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -324,7 +342,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -340,7 +358,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -356,7 +374,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -372,7 +390,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:affirm-7916080003",
@@ -388,7 +406,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-08-20T13:43:45.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -408,7 +426,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-10-28T12:06:24.379Z"
+    "scrapedAt": "2026-10-28T20:06:28.348Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -427,7 +445,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-10-28T12:06:25.016Z"
+    "scrapedAt": "2026-10-28T20:06:42.264Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -443,7 +461,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:stripe-8112043",
@@ -459,7 +477,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-08-06T14:27:44.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -475,7 +493,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -491,7 +509,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:affirm-7813362003",
@@ -507,7 +525,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-07-28T10:52:21.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -518,12 +536,12 @@
     "location": "In-Office",
     "remote": false,
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118",
-    "description": "About Us\n At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.\n At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.\n Location: Austin (Hybrid)\n About Us\n At Cloudflare, we have our eyes set on an ambitious goal: to help build a better Internet. Today the company runs one of the world’s largest networks that powers trillions of requests per month. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare have all web traffic routed through i…",
+    "description": "About Us\n At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.\n At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.\n Location: Austin (Hybrid)\n About the team\n The Data Intelligence & Analytics organization builds the core data platform and internal products that power decision-making across the company. We design and operate large-scale data systems, own the company’s data lake, ingestion infrastructure, and platform tooling, and develop end-to-end applications that transform complex datasets into fast, reliable, business-critical products used daily by go-to-mar…",
     "tags": [
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -539,7 +557,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:discord-8485884002",
@@ -555,7 +573,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-05-14T16:00:25.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -571,7 +589,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -587,7 +605,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -603,7 +621,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -619,7 +637,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "greenhouse:robinhood-4738660",
@@ -635,7 +653,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2022-12-08T18:08:49.000Z",
-    "scrapedAt": "2026-10-28T12:02:54.731Z"
+    "scrapedAt": "2026-10-28T20:03:12.349Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -651,7 +669,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T12:03:02.425Z"
+    "scrapedAt": "2026-10-28T20:03:19.061Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -667,7 +685,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T12:03:02.425Z"
+    "scrapedAt": "2026-10-28T20:03:19.061Z"
   },
   {
     "id": "workday:nvidia-JR2028539",
@@ -681,7 +699,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T12:03:02.425Z"
+    "scrapedAt": "2026-10-28T20:03:19.061Z"
   },
   {
     "id": "workday:nvidia-JR2023850",
@@ -695,7 +713,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T12:03:02.425Z"
+    "scrapedAt": "2026-10-28T20:03:19.061Z"
   },
   {
     "id": "workday:nvidia-JR2026497",
@@ -709,7 +727,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T12:03:02.425Z"
+    "scrapedAt": "2026-10-28T20:03:19.061Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -723,7 +741,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T12:03:02.425Z"
+    "scrapedAt": "2026-10-28T20:03:19.061Z"
   },
   {
     "id": "workday:salesforce-JR347388",
@@ -737,7 +755,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T12:03:02.425Z"
+    "scrapedAt": "2026-10-28T20:03:19.061Z"
   },
   {
     "id": "workday:adobe-R171875",
@@ -751,7 +769,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T12:03:02.425Z"
+    "scrapedAt": "2026-10-28T20:03:19.061Z"
   },
   {
     "id": "workday:adobe-R172115",
@@ -765,7 +783,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T12:03:02.425Z"
+    "scrapedAt": "2026-10-28T20:03:19.061Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -779,7 +797,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T12:03:02.425Z"
+    "scrapedAt": "2026-10-28T20:03:19.061Z"
   },
   {
     "id": "workday:autodesk-26WD100418",
@@ -793,7 +811,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T12:03:02.425Z"
+    "scrapedAt": "2026-10-28T20:03:19.061Z"
   },
   {
     "id": "workday:autodesk-25WD89669",
@@ -807,7 +825,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T12:03:02.425Z"
+    "scrapedAt": "2026-10-28T20:03:19.061Z"
   },
   {
     "id": "workday:autodesk-26WD101628",
@@ -821,7 +839,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T12:03:02.425Z"
+    "scrapedAt": "2026-10-28T20:03:19.061Z"
   },
   {
     "id": "workday:salesforce-JR363793",
@@ -835,7 +853,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T12:04:20.159Z"
+    "scrapedAt": "2026-10-28T20:04:31.068Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -849,7 +867,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T12:04:20.159Z"
+    "scrapedAt": "2026-10-28T20:04:31.068Z"
   },
   {
     "id": "workday:salesforce-JR347383",
@@ -863,7 +881,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T12:04:20.159Z"
+    "scrapedAt": "2026-10-28T20:04:31.068Z"
   },
   {
     "id": "workday:salesforce-JR359930",
@@ -877,6 +895,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-10-28T12:04:57.434Z"
+    "scrapedAt": "2026-10-28T20:05:07.635Z"
   }
 ]
