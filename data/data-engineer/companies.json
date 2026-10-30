@@ -28,6 +28,34 @@
     ]
   },
   {
+    "company": "Salesforce",
+    "jobCount": 6,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Mexico - Mexico City",
+      "4 Locations",
+      "Ireland - Dublin",
+      "India - Hyderabad"
+    ],
+    "sampleTitles": [
+      "Data Engineer Senior | AI & Data",
+      "Senior Data Engineer",
+      "PMTS - Principal Agentic Data Engineer",
+      "Data Engineer (SMTS / LMTS) - MDM",
+      "Data Engineering Senior Associate- Finance",
+      "Data Engineering SMTS/LMTS"
+    ],
+    "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR363793",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Data-Engineer--SMTS---LMTS----MDM_JR347388",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930"
+    ]
+  },
+  {
     "company": "Coinbase",
     "jobCount": 5,
     "sources": [
@@ -54,34 +82,8 @@
     ]
   },
   {
-    "company": "Salesforce",
-    "jobCount": 5,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "4 Locations",
-      "Mexico - Mexico City",
-      "Ireland - Dublin"
-    ],
-    "sampleTitles": [
-      "Data Engineer (SMTS / LMTS) - MDM",
-      "Data Engineer Senior | AI & Data",
-      "Senior Data Engineer",
-      "PMTS - Principal Agentic Data Engineer",
-      "Data Engineering Senior Associate- Finance"
-    ],
-    "officialUrls": [
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Data-Engineer--SMTS---LMTS----MDM_JR347388",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR363793",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930"
-    ]
-  },
-  {
     "company": "NVIDIA",
-    "jobCount": 4,
+    "jobCount": 5,
     "sources": [
       "workday"
     ],
@@ -94,13 +96,15 @@
       "Senior Staff Software Engineer - Data Engineering",
       "Senior Synthetic Data Engineer - Autonomous Driving",
       "SAP MM/PP Master Data Engineer - Enterprise Data Management",
-      "Senior Data Infrastructure Engineer, AI Performance"
+      "Senior Data Infrastructure Engineer, AI Performance",
+      "Senior Analytics Engineer, Finance"
     ],
     "officialUrls": [
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-Software-Engineer---Data-Engineering_JR2028539-1",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Synthetic-Data-Engineer---Autonomous-Driving_JR2023850-1",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Gurugram/SAP-MM-PP-Master-Data-Engineer---Enterprise-Data-Management_JR2026497",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970"
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-and-Reporting-Analyst_JR2014259"
     ]
   },
   {
@@ -338,22 +342,6 @@
     ]
   },
   {
-    "company": "Autodesk",
-    "jobCount": 1,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Bengaluru, IND"
-    ],
-    "sampleTitles": [
-      "Principal Data Engineer (PySpark, AI)"
-    ],
-    "officialUrls": [
-      "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Principal-Data-Engineer--PySpark--AI-_26WD101628"
-    ]
-  },
-  {
     "company": "Branch",
     "jobCount": 1,
     "sources": [
@@ -367,6 +355,22 @@
     ],
     "officialUrls": [
       "https://jobicy.com/jobs/157906-data-engineer-5"
+    ]
+  },
+  {
+    "company": "Carwow",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Senior BI Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-bi-analytics-engineer-london-297437"
     ]
   },
   {
@@ -434,6 +438,22 @@
     ]
   },
   {
+    "company": "Mistral.ai",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Paris"
+    ],
+    "sampleTitles": [
+      "People Tech & Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/mistralai/people-tech-analytics-engineer-paris-7349"
+    ]
+  },
+  {
     "company": "Notion",
     "jobCount": 1,
     "sources": [
@@ -447,22 +467,6 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/notion/73a71747-28d3-4dda-a718-77336056e687"
-    ]
-  },
-  {
-    "company": "Orakl Oncology",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Villejuif"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/orakl-oncology/senior-data-engineer-villejuif-140285"
     ]
   },
   {

@@ -1,5 +1,41 @@
 [
   {
+    "id": "arbeitnow:senior-bi-analytics-engineer-london-297437",
+    "externalId": "senior-bi-analytics-engineer-london-297437",
+    "source": "arbeitnow",
+    "title": "Senior BI Analytics Engineer",
+    "company": "Carwow",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-bi-analytics-engineer-london-297437",
+    "description": "OUR MISSION\n To become the car-changing destination of choice. By combining technology, media and deep automotive expertise, we've turned how people buy, sell, advertise and lease cars on its head.\n What started as a simple reviews site is now one of the largest online car-changing destinations in Europe. Last year alone we grew over 50% with nearly £3bn worth of cars bought on site, while £1.8bn of cars were listed for sale through our Sell My Car service.\n In 2024 we went big and acquired Autovia - creators of AutoExpress and Evo magazines - doubling our audience overnight. Together we now have one of the biggest YouTube channels in the world with almost 10m subscribers and over 1.1 billion annual views, while we sell 1.2 million print copies of our magazines and have an annual web content reach over 350million.\n And we’re a long way from done!\n THE ROLE\n We’re looking for a Senior Analytics Engineer / BI Analyst to bridge the gap between data engineering and business insight. You’ll take ownership of transforming raw data into trusted, well modelled datasets and deliver impactful reporting that drives decision making across the business. This role combines strong technical data modelling skills with stakeholder-facing analytics and BI development.\n   WHAT YOU'LL BE DOING\n Design, build, and maintain scalable data models using dbt on Google Cloud Platform (BigQuery)\n Create and maintain dashboards and explores in Looker , enabling self-serve analytics\n Translate business requirements into clear data models, metrics, and visualisations\n Define and maintain core business metrics and data definitions in partnership with stakeholders and the wider analytics team\n Implement data quality checks, testing, and documentation within dbt\n Partner with stakeholders across all parts of the business including commercial, product, marketing, finance, and operations\n Optimise query performance and manage cost efficiency in BigQuery\n Mentor junior analysts and promote best practi…",
+    "tags": [
+      "Technology",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-10-30T00:40:17.000Z",
+    "scrapedAt": "2026-10-30T04:10:55.381Z"
+  },
+  {
+    "id": "arbeitnow:people-tech-analytics-engineer-paris-7349",
+    "externalId": "people-tech-analytics-engineer-paris-7349",
+    "source": "arbeitnow",
+    "title": "People Tech & Analytics Engineer",
+    "company": "Mistral.ai",
+    "location": "Paris",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/people-tech-analytics-engineer-paris-7349",
+    "description": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare, and the public sector, co-creating customized AI systems that they can run on their terms.\n We are a dynamic, collaborative team passionate about AI and its potential to transform society. Our diverse workforce thrives in competitive environments and is committed to driving innovation. Our teams are distributed between Europe, North America, Asia and the Middle East. We are creative, low-ego and team-spirited.\n The Role As a People Tech & Analytics Engineer on the People team, you will build the systems, data pipelines, and automations behind how Mistral runs People Operations. Reporting to the People Tech & Analytics Lead, you will turn the roadmap into reality: wiring our HR tech stack together, making data flow reliably between systems, and automating people processes with third-party tools as well as Mistral's own models, agents, and APIs.\n This is an individual contributor role for someone who loves building. You will spend most of your time in the systems and the data, deep-diving into problems: connecting HRIS, ATS, payroll, identity, and finance tools, standing up the data layer behind our people metrics, and shipping automations that remove manual work from the People team.\n If you are a data engineer or people technology specialist who wants to deliver meaningful automation outcomes at Europe's largest AI company, this is the role for you.\n What You Will Do Build, maintain, and troubleshoot integrations and data pipelines across our HR systems (HRIS, ATS, payroll, identity and finance), run data quality checks, and fix inconsistencies at the source.\n Implement and evolve the Metabase visualisation layer of our people data lake, build the dashboards and self-serve reporting managers and People partn…",
+    "tags": [
+      "Human Resources",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-10-29T21:40:16.000Z",
+    "scrapedAt": "2026-10-30T04:10:55.381Z"
+  },
+  {
     "id": "arbeitnow:senior-data-engineer-azure-cloud-berlin-395669",
     "externalId": "senior-data-engineer-azure-cloud-berlin-395669",
     "source": "arbeitnow",
@@ -17,7 +53,7 @@
     ],
     "jobType": "Unbefristeter arbeitsvertrag",
     "postedAt": "2026-10-29T20:30:42.000Z",
-    "scrapedAt": "2026-10-29T22:35:41.410Z"
+    "scrapedAt": "2026-10-30T04:10:55.381Z"
   },
   {
     "id": "jobicy:157906",
@@ -36,25 +72,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-10-29T16:32:13.000Z",
-    "scrapedAt": "2026-10-29T22:35:42.146Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-villejuif-140285",
-    "externalId": "senior-data-engineer-villejuif-140285",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer",
-    "company": "Orakl Oncology",
-    "location": "Villejuif",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/orakl-oncology/senior-data-engineer-villejuif-140285",
-    "description": "About Orakl Oncology At Orakl Oncology, we are accelerating the development of oncology treatments. Today, fewer than 5% of new cancer drugs succeed in clinical trials. Clearly, new methods are needed. We combine cutting-edge biology and AI to build the next generation of insight platforms with the world’s largest cohort of patient tumor avatars. These avatars fuel our AI-powered predictive engine , helping to anticipate clinical trial outcomes, validate therapies, and uncover new drug candidates. By generating multimodal, real-world data, we deliver insights that consistently outperform existing solutions.\n Our mission is simple yet ambitious: to bring more effective treatments to patients who need them and to make drug development smarter, faster, and more personalized. We collaborate with top hospitals, research institutes, and pharmaceutical companies worldwide. Backed by leading investors, we are a fast-growing, mission-driven startup at the intersection of science and technology.\n The role We are looking for a curious engineering mind to lead the scaling of Orakl’s omics data within the Computational Biology team.\n Every organoid grown in our lab is sequenced (WGS and RNA-seq). Our pipelines turn the raw reads into processed molecular profiles, and our models turn those profiles into clinical trial predictions, patient segments and new target candidates. Your mission will be to make omics data available to computational biologists and research engineers in a form they can build on. You will gather their needs and, in coordination with the Data & Infra team, design the data representations, storage layouts and access patterns that make model training and experimentation fast and reproducible. As our biobank expands, this will become a massive omics corpus that must efficiently serve client contracts, strategic partnerships and internal R&D projects.\n Starting from processed omics data, you will assess how it is stored and served today, propose solutions to sca…",
-    "tags": [
-      "Computational Biology",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-10-29T12:40:39.000Z",
-    "scrapedAt": "2026-10-29T22:35:41.410Z"
+    "scrapedAt": "2026-10-30T04:10:56.161Z"
   },
   {
     "id": "ashby:notion-73a71747-28d3-4dda-a718-77336056e687",
@@ -72,7 +90,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-10-28T18:42:47.956Z",
-    "scrapedAt": "2026-10-29T22:38:47.687Z"
+    "scrapedAt": "2026-10-30T04:13:58.246Z"
   },
   {
     "id": "greenhouse:anthropic-5462966008",
@@ -88,7 +106,7 @@
       "Security"
     ],
     "postedAt": "2026-10-26T22:47:43.000Z",
-    "scrapedAt": "2026-10-29T22:35:42.584Z"
+    "scrapedAt": "2026-10-30T04:10:56.581Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -104,7 +122,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-10-29T22:35:42.584Z"
+    "scrapedAt": "2026-10-30T04:10:56.581Z"
   },
   {
     "id": "greenhouse:airbnb-8284841",
@@ -120,7 +138,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-10-16T16:32:46.000Z",
-    "scrapedAt": "2026-10-29T22:35:42.584Z"
+    "scrapedAt": "2026-10-30T04:10:56.581Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -136,7 +154,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-29T22:35:42.584Z"
+    "scrapedAt": "2026-10-30T04:10:56.581Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -152,22 +170,6 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-10-29T22:35:42.584Z"
-  },
-  {
-    "id": "greenhouse:anthropic-5450099008",
-    "externalId": "anthropic:5450099008",
-    "source": "greenhouse",
-    "title": "Data Engineer, Billing & Payments",
-    "company": "Anthropic",
-    "location": "San Francisco, CA | New York City, NY",
-    "remote": false,
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450099008",
-    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\n As a Data Engineer supporting Billing & Payments Engineering, you’ll join the Finance Data Engineering team and build the foundation for accurate, scalable billing and revenue data across Anthropic. You’ll work closely with Billing Engineering, Finance and Accounting, as well as Product and other partners, to turn billing and payments data into reliable metrics, reporting and insights. You’ll make sure teams have trustworthy data that scales with our growth, and you’ll lead your own projects to enable self-serve insights that help teams make data-driven decisions.\n Key responsibilities\n Partner with Billing Engineering, Finance and Accounting to understand their data and reporting needs, and translate them into technical requirements\n Design, build and maintain data models and pipelines in dbt that transform raw billing, usage and payments data into canonical datasets\n Own revenue data accuracy and reconciliation, making sure billing, usage and revenue data tie out across systems\n Define success metrics for billing systems, and build the data models and monitoring to track them\n Set data integrity standards and SLAs for timely, accurate delivery of billing and revenue data\n Share on-call and data operations responsibilities for Finance Data Engineering pipelines\n Build dashboards and self-serve data products that track core metrics and deliver insights across the company\n Promote best practices for dbt, data modeling and SQL\n Influence the Billing Engineering roadmap from a data systems perspective\n Build a thorough understanding of our data models and data architecture\n Minimum qualifications\n Experience as a Data…",
-    "tags": [
-      "Data Science & Analytics"
-    ],
-    "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-10-29T22:35:42.584Z"
+    "scrapedAt": "2026-10-30T04:10:56.581Z"
   }
 ]
