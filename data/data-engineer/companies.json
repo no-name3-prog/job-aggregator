@@ -1,17 +1,19 @@
 [
   {
     "company": "Anthropic",
-    "jobCount": 6,
+    "jobCount": 7,
     "sources": [
       "greenhouse"
     ],
     "locations": [
+      "San Francisco, CA | New York City, NY; Seattle, WA",
       "Remote-Friendly (Travel Required) | San Francisco, CA",
       "San Francisco, CA | New York City, NY",
       "San Francisco, CA | New York City, NY | Seattle, WA",
       "San Francisco, CA"
     ],
     "sampleTitles": [
+      "Data Engineer",
       "Security Data Engineer",
       "Data Engineer, Billing & Payments",
       "Data Engineer, Product",
@@ -20,39 +22,11 @@
       "Pre-training Data Infrastructure Engineer"
     ],
     "officialUrls": [
+      "https://job-boards.greenhouse.io/anthropic/jobs/5464234008",
       "https://job-boards.greenhouse.io/anthropic/jobs/5462966008",
       "https://job-boards.greenhouse.io/anthropic/jobs/5450099008",
       "https://job-boards.greenhouse.io/anthropic/jobs/5448481008",
-      "https://job-boards.greenhouse.io/anthropic/jobs/5424111008",
-      "https://job-boards.greenhouse.io/anthropic/jobs/5418610008"
-    ]
-  },
-  {
-    "company": "Salesforce",
-    "jobCount": 6,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "2 Locations",
-      "India - Hyderabad",
-      "Mexico - Mexico City",
-      "Ireland - Dublin"
-    ],
-    "sampleTitles": [
-      "Staff Data Engineer - Slack",
-      "Data Engineering SMTS/LMTS",
-      "Data Engineer Senior | AI & Data",
-      "Senior Data Engineer",
-      "PMTS - Principal Agentic Data Engineer",
-      "Data Engineering Senior Associate- Finance"
-    ],
-    "officialUrls": [
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Staff-Data-Engineer---Slack_JR366234-1",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Data-Engineering-SMTS-LMTS--Revenue-Analytics_JR364686",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR363793",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/PMTS---Principal-Agentic-Data-Engineer_JR347383-1"
+      "https://job-boards.greenhouse.io/anthropic/jobs/5424111008"
     ]
   },
   {
@@ -82,29 +56,30 @@
     ]
   },
   {
-    "company": "NVIDIA",
+    "company": "Salesforce",
     "jobCount": 5,
     "sources": [
       "workday"
     ],
     "locations": [
-      "US, CA, Santa Clara",
-      "5 Locations",
-      "2 Locations"
+      "2 Locations",
+      "India - Hyderabad",
+      "Mexico - Mexico City",
+      "Ireland - Dublin"
     ],
     "sampleTitles": [
-      "Senior Staff Software Engineer - Data Engineering",
-      "Senior Synthetic Data Engineer - Autonomous Driving",
-      "SAP MM/PP Master Data Engineer - Enterprise Data Management",
-      "Senior Data Infrastructure Engineer, AI Performance",
-      "Senior Analytics Engineer, Finance"
+      "Staff Data Engineer - Slack",
+      "Data Engineering SMTS/LMTS",
+      "Data Engineer Senior | AI & Data",
+      "Senior Data Engineer",
+      "Data Engineering Senior Associate- Finance"
     ],
     "officialUrls": [
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-Software-Engineer---Data-Engineering_JR2028539-1",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Synthetic-Data-Engineer---Autonomous-Driving_JR2023850-1",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Gurugram/SAP-MM-PP-Master-Data-Engineer---Enterprise-Data-Management_JR2026497",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970",
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-and-Reporting-Analyst_JR2014259"
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Staff-Data-Engineer---Slack_JR366234-1",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Data-Engineering-SMTS-LMTS--Revenue-Analytics_JR364686",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR363793",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930"
     ]
   },
   {
@@ -169,6 +144,27 @@
       "https://job-boards.greenhouse.io/discord/jobs/8691572002",
       "https://job-boards.greenhouse.io/discord/jobs/8485884002",
       "https://job-boards.greenhouse.io/discord/jobs/8299493002"
+    ]
+  },
+  {
+    "company": "NVIDIA",
+    "jobCount": 3,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "2 Locations",
+      "US, CA, Santa Clara"
+    ],
+    "sampleTitles": [
+      "SAP MM/PP Master Data Engineer - Enterprise Data Management",
+      "Senior Data Infrastructure Engineer, AI Performance",
+      "Senior Analytics Engineer, Finance"
+    ],
+    "officialUrls": [
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Gurugram/SAP-MM-PP-Master-Data-Engineer---Enterprise-Data-Management_JR2026497",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970",
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-and-Reporting-Analyst_JR2014259"
     ]
   },
   {
@@ -248,24 +244,6 @@
     ]
   },
   {
-    "company": "Fundingcircle",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Technical Lead, Data Platform Engineer",
-      "Lead Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/technical-lead-data-platform-engineer-london-418474",
-      "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/lead-analytics-engineer-london-479706"
-    ]
-  },
-  {
     "company": "Lyft",
     "jobCount": 2,
     "sources": [
@@ -300,25 +278,6 @@
     "officialUrls": [
       "https://www.pinterestcareers.com/jobs/?gh_jid=8162539",
       "https://www.pinterestcareers.com/jobs/?gh_jid=8209014"
-    ]
-  },
-  {
-    "company": "Robinhood",
-    "jobCount": 2,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "Toronto, Canada",
-      "Menlo Park, CA"
-    ],
-    "sampleTitles": [
-      "Software Developer, Data Engineering",
-      "Senior Software Engineer, Data Engineering"
-    ],
-    "officialUrls": [
-      "https://boards.greenhouse.io/robinhood/jobs/5616144?t=gh_src=&gh_jid=5616144",
-      "https://boards.greenhouse.io/robinhood/jobs/4738660?t=gh_src=&gh_jid=4738660"
     ]
   },
   {
@@ -357,22 +316,6 @@
     ]
   },
   {
-    "company": "ANGEHEUERT GmbH",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Homeoffice"
-    ],
-    "sampleTitles": [
-      "Data Engineer (m/f/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-data-engineer-frankfurt-am-main-159193"
-    ]
-  },
-  {
     "company": "Cloudflare",
     "jobCount": 1,
     "sources": [
@@ -386,6 +329,22 @@
     ],
     "officialUrls": [
       "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118"
+    ]
+  },
+  {
+    "company": "Dandy",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "Canada"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer - Data Infra (Ontario, Canada)"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/158115-senior-data-engineer-data-infra-ontario-canada"
     ]
   },
   {
@@ -437,6 +396,22 @@
     ]
   },
   {
+    "company": "PadSplit",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "USA"
+    ],
+    "sampleTitles": [
+      "Sr. Data Engineer"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/158109-sr-data-engineer-4"
+    ]
+  },
+  {
     "company": "Reddit",
     "jobCount": 1,
     "sources": [
@@ -450,6 +425,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/reddit/jobs/8282760"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "jobCount": 1,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "sampleTitles": [
+      "Software Developer, Data Engineering"
+    ],
+    "officialUrls": [
+      "https://boards.greenhouse.io/robinhood/jobs/5616144?t=gh_src=&gh_jid=5616144"
     ]
   },
   {
