@@ -17,25 +17,7 @@
     ],
     "jobType": "Unbefristeter arbeitsvertrag",
     "postedAt": "2026-10-31T19:00:41.000Z",
-    "scrapedAt": "2026-10-31T20:56:36.536Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-cloud-transfo-paris-243467",
-    "externalId": "senior-data-engineer-cloud-transfo-paris-243467",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer - Cloud Transfo",
-    "company": "MARGO",
-    "location": "Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/margo/senior-data-engineer-cloud-transfo-paris-243467",
-    "description": "Chez MARGO, nos consultants travaillent sur ce qui compte vraiment : des projets complexes qui allient challenge intellectuel et impact business réel.\n C’est pourquoi nous accompagnons les plus grands acteurs de la finance, de l’industrie et de la tech sur leurs projets les plus stratégiques en Data Science, Machine Learning et Intelligence Artificielle.\n Vos missions\n Nous recherchons un Senior Data Engineer pour participer à la construction d’une plateforme Data développée from scratch, destinée à des équipes travaillant sur des problématiques de recherche et de calcul intensif.\n L’objectif de cette plateforme est de gérer l’ensemble du cycle de vie des données : ingestion, traitements distribués, backtesting à grande échelle et mise à disposition des données pour des usages de recherche et de production.\n L’un des enjeux techniques majeurs du projet concerne le calcul distribué et l’intégration de Spark au cœur de l’architecture de la plateforme.\n Dans ce contexte, vous interviendrez notamment sur :\n le développement des composants de calcul distribué,\n la conception et l’optimisation de pipelines de données à forte volumétrie,\n les problématiques de performance et de scalabilité liées aux traitements massifs,\n l’évolution de l’architecture Data,\n la qualité et la maintenabilité du code Python utilisé en production.\n Pourquoi rejoindre la practice ?\n Vous rejoindrez une practice en pleine construction, portée par une forte ambition technologique autour des infrastructures cloud, des plateformes data et des systèmes distribués.\n L’objectif n’est pas simplement d’accompagner des projets, mais de construire une communauté d’ingénieurs capables d’intervenir sur des sujets techniques exigeants : architecture cloud, calcul distribué, plateformes data, performance et scalabilité.\n Vous évoluerez dans un environnement où l’autonomie, la profondeur technique et la capacité à prendre des responsabilités sont valorisées dès le départ.\n Profil recherché\n Vous maîtrisez Pyth…",
-    "tags": [
-      "Cloud Transformation",
-      "Permanent contract"
-    ],
-    "jobType": "Permanent contract",
-    "postedAt": "2026-10-31T03:27:16.000Z",
-    "scrapedAt": "2026-10-31T20:56:36.536Z"
+    "scrapedAt": "2026-10-31T23:57:25.466Z"
   },
   {
     "id": "greenhouse:coinbase-8047150",
@@ -51,7 +33,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-10-31T02:38:15.000Z",
-    "scrapedAt": "2026-10-31T20:56:38.059Z"
+    "scrapedAt": "2026-10-31T23:57:26.618Z"
   },
   {
     "id": "greenhouse:anthropic-5464234008",
@@ -67,7 +49,7 @@
       "Engineering & Design - Product"
     ],
     "postedAt": "2026-10-30T23:34:18.000Z",
-    "scrapedAt": "2026-10-31T20:56:38.059Z"
+    "scrapedAt": "2026-10-31T23:57:26.618Z"
   },
   {
     "id": "ashby:notion-73a71747-28d3-4dda-a718-77336056e687",
@@ -85,7 +67,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-10-28T18:42:47.956Z",
-    "scrapedAt": "2026-10-31T20:59:27.501Z"
+    "scrapedAt": "2026-11-01T00:00:18.176Z"
   },
   {
     "id": "greenhouse:anthropic-5462966008",
@@ -101,7 +83,7 @@
       "Security"
     ],
     "postedAt": "2026-10-26T22:47:43.000Z",
-    "scrapedAt": "2026-10-31T20:56:38.059Z"
+    "scrapedAt": "2026-10-31T23:57:26.618Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -117,7 +99,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-10-31T20:56:38.059Z"
+    "scrapedAt": "2026-10-31T23:57:26.618Z"
   },
   {
     "id": "greenhouse:airbnb-8284841",
@@ -133,7 +115,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-10-16T16:32:46.000Z",
-    "scrapedAt": "2026-10-31T20:56:38.059Z"
+    "scrapedAt": "2026-10-31T23:57:26.618Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -149,7 +131,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-10-31T20:56:38.059Z"
+    "scrapedAt": "2026-10-31T23:57:26.618Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -165,6 +147,22 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-10-31T20:56:38.059Z"
+    "scrapedAt": "2026-10-31T23:57:26.618Z"
+  },
+  {
+    "id": "greenhouse:anthropic-5450099008",
+    "externalId": "anthropic:5450099008",
+    "source": "greenhouse",
+    "title": "Data Engineer, Billing & Payments",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450099008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\n As a Data Engineer supporting Billing & Payments Engineering, you’ll join the Finance Data Engineering team and build the foundation for accurate, scalable billing and revenue data across Anthropic. You’ll work closely with Billing Engineering, Finance and Accounting, as well as Product and other partners, to turn billing and payments data into reliable metrics, reporting and insights. You’ll make sure teams have trustworthy data that scales with our growth, and you’ll lead your own projects to enable self-serve insights that help teams make data-driven decisions.\n Key responsibilities\n Partner with Billing Engineering, Finance and Accounting to understand their data and reporting needs, and translate them into technical requirements\n Design, build and maintain data models and pipelines in dbt that transform raw billing, usage and payments data into canonical datasets\n Own revenue data accuracy and reconciliation, making sure billing, usage and revenue data tie out across systems\n Define success metrics for billing systems, and build the data models and monitoring to track them\n Set data integrity standards and SLAs for timely, accurate delivery of billing and revenue data\n Share on-call and data operations responsibilities for Finance Data Engineering pipelines\n Build dashboards and self-serve data products that track core metrics and deliver insights across the company\n Promote best practices for dbt, data modeling and SQL\n Influence the Billing Engineering roadmap from a data systems perspective\n Build a thorough understanding of our data models and data architecture\n Minimum qualifications\n Experience as a Data…",
+    "tags": [
+      "Data Science & Analytics"
+    ],
+    "postedAt": "2026-10-12T19:03:03.000Z",
+    "scrapedAt": "2026-10-31T23:57:26.618Z"
   }
 ]
