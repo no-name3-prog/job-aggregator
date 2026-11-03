@@ -1,7 +1,7 @@
 {
-  "lastRunAt": "2026-11-02T21:21:22.855Z",
-  "durationMs": 53205,
-  "totalJobs": 3201,
+  "lastRunAt": "2026-11-03T05:10:23.852Z",
+  "durationMs": 125802,
+  "totalJobs": 3150,
   "sources": [
     {
       "source": "remotive",
@@ -15,8 +15,9 @@
     },
     {
       "source": "jobicy",
-      "fetched": 50,
-      "kept": 50
+      "fetched": 0,
+      "kept": 0,
+      "error": "terminated"
     },
     {
       "source": "remoteok",
@@ -30,8 +31,8 @@
     },
     {
       "source": "workday",
-      "fetched": 505,
-      "kept": 505
+      "fetched": 504,
+      "kept": 504
     },
     {
       "source": "lever",

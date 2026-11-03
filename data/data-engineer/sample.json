@@ -1,5 +1,23 @@
 [
   {
+    "id": "arbeitnow:analytics-engineer-uk-cards-london-494504",
+    "externalId": "analytics-engineer-uk-cards-london-494504",
+    "source": "arbeitnow",
+    "title": "Analytics Engineer (UK Cards)",
+    "company": "Lendable",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/analytics-engineer-uk-cards-london-494504",
+    "description": "About Lendable Lendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start:\n One of the UK’s most exciting unicorns with a team of over 800 people\n Among the fastest-growing tech companies in the UK\n Profitable since 2017\n Backed by top investors including Balderton Capital and Goldman Sachs\n Loved by customers with the best reviews in the market (4.9 across 10,000s of reviews on Trustpilot )\n So far, we’ve rebuilt the Big Three consumer finance products from scratch: loans, credit cards and car finance . We get money into our customers’ hands in minutes instead of days.\n We’re growing fast, and there’s a lot more to do: we’re going after the two biggest Western markets (UK and US) where trillions worth of financial products are held by big banks with dated systems and painful processes.\n Join us if you want to Take ownership: you are trusted to make decisions that drive a material impact on the direction and success of Lendable from day 1\n Work in small teams of exceptional people: Lendies are relentlessly resourceful. We challenge the status quo to solve problems and find smarter solutions\n Build the best technology in-house : we use new data sources, machine learning and AI to make machines do the heavy lifting\n About the role We're looking for an analytics engineer to contribute to the analytical foundation of the UK Cards team, a growing area of the business.\n You’ll work closely with analysts, product teams, backend engineers, and business stakeholders to improve how data is structured, transformed, and consumed across the company.\n The role is fundamentally about building a strong analytical foundation: making it easier for teams to move from question to insight quickly, while maintaining high standards around data quality, scalability, and maintainability.\n You'll contribute to the modelling layer, help improve how the busine…",
+    "tags": [
+      "Engineering & Product",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-11-03T03:40:18.000Z",
+    "scrapedAt": "2026-11-03T05:10:24.644Z"
+  },
+  {
     "id": "arbeitnow:remote-senior-data-engineer-berlin-467823",
     "externalId": "remote-senior-data-engineer-berlin-467823",
     "source": "arbeitnow",
@@ -17,64 +35,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-11-02T18:51:24.000Z",
-    "scrapedAt": "2026-11-02T21:21:23.859Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-detect-track-distillation-paris-245374",
-    "externalId": "data-engineer-detect-track-distillation-paris-245374",
-    "source": "arbeitnow",
-    "title": "Data Engineer (Detect & Track Distillation)",
-    "company": "Signal Processing Engineer (RF Processing & Analytics)",
-    "location": "Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/data-engineer-detect-track-distillation-paris-245374",
-    "description": "About Us Harmattan AI is a next-generation defense prime building autonomous and scalable defense systems. Following the close of a $200M Series B, valuing the company at $1.4 billion, we are expanding our teams and capabilities to deliver mission-critical systems to allied forces.\n Our work is guided by clear values: building technologies with real-world impact, pursuing excellence in everything we do, setting ambitious goals, and taking on the hardest technical challenges. We operate in a demanding environment where rigor, ownership, and execution are expected.\n ABOUT THE ROLE\n Our ML teams train models on datasets derived from large volumes of raw, unstructured data. Model quality depends directly on data quality, and today that data is handled largely by hand.\n As a Data Engineer, operating out of Paris, Lausanne, or Zurich, you will own the data layer that feeds the team's models, from raw field logs or public datasets through curated, versioned, training-ready datasets. You will manage terabytes of raw, unstructured data and turn it into clean, documented, versioned datasets, so that the modelers spend their time designing and training models, not waiting on data loaders or wrangling corrupted files. You join at an early stage with real influence over how field and public data gets processed for deep-learning pipelines.\n RESPONSIBILITIES\n Ingestion Pipeline: Ingest, decode, and store raw, unstructured field data (video and other sensor streams) from field logs into efficient, controlled formats.\n Multimodal Alignment: Align multiple data streams temporally and spatially so paired data is usable for training.\n Curation: Transfer both ingested data and public datasets into high-value data, including parsing, filtering, de-duplication and revision.\n Data & Labeling Requirements: Define which data to gather and what and how to label it, and own the dataset-construction workflow and labeling tooling. Coordinate with the teams responsible for data gathering and lab…",
-    "tags": [
-      "R&D",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-11-02T18:40:14.000Z",
-    "scrapedAt": "2026-11-02T21:21:23.859Z"
-  },
-  {
-    "id": "arbeitnow:alternante-expert-en-ingenierie-des-donnees-data-engineer-h-f-fontenay-sous-bois-371803",
-    "externalId": "alternante-expert-en-ingenierie-des-donnees-data-engineer-h-f-fontenay-sous-bois-371803",
-    "source": "arbeitnow",
-    "title": "Alternant(e) Expert en Ingénierie des Données / Data Engineer H/F",
-    "company": "kaischool",
-    "location": "Fontenay-sous-Bois",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/kaischool/alternante-expert-en-ingenierie-des-donnees-data-engineer-h-f-fontenay-sous-bois-371803",
-    "description": "L'école et le poste Kaischool est une école supérieure spécialisée dans les domaines de l'intelligence artificielle, du Big Data et de l'ingénierie d'affaires, proposant des formations certifiantes en mode hybride. Dans le cadre de notre développement, nous recherchons deux alternant(e)s Expert en Ingénierie des Données / Data Engineer H/F pour un contrat d'apprentissage de 24 mois à Fontenay-sous-Bois, avec la possibilité d'un rythme de travail hybride.\n Vos missions Vous concevrez, développerez et optimiserez les pipelines de données et les architectures de stockage pour accompagner les projets de l'école.\n Mettre en place des flux ETL et orchestrer les traitements de données.\n Garantir la qualité, la fiabilité et la sécurité des bases de données.\n Collaborer avec les équipes pédagogiques et techniques pour structurer les environnements analytiques.\n Votre profil Vous préparez un diplôme dans le domaine de la donnée et maîtrisez les technologies fondamentales du Big Data et de l'ingénierie des données. Si vous ne remplissez pas l'intégralité des critères mais possédez une forte appétence pour la technique, envoyez votre candidature.\n Rémunération La rémunération proposée pour ce poste est de EUR 30,340–45,000 par an.\n Vos premiers mois chez kaischool Dès votre arrivée, vous prendrez en main les flux de données existants et commencerez à structurer les nouveaux pipelines d'ingénierie. Vous intégrerez une équipe à taille humaine où vous monterez rapidement en compétences sur nos infrastructures.\n Find more English Speaking Jobs in France on Arbeitnow",
-    "tags": [
-      "Data Processing",
-      "Data Engineer",
-      "Contrat d'apprentissage",
-      "apprenticeship",
-      "aucune expérience requise / Étudiant"
-    ],
-    "jobType": "Contrat d'apprentissage",
-    "postedAt": "2026-11-02T16:00:57.000Z",
-    "scrapedAt": "2026-11-02T21:21:23.859Z"
-  },
-  {
-    "id": "arbeitnow:data-platform-engineer-london-62741",
-    "externalId": "data-platform-engineer-london-62741",
-    "source": "arbeitnow",
-    "title": "Data Platform Engineer",
-    "company": "Magentic",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/magentic/data-platform-engineer-london-62741",
-    "description": "We're looking for a Data Platform Engineer to own the data foundation our AI agents run on.\n Procurement data is messy: ERP transactions, contracts, spreadsheets, PDFs and email, spread across systems that were never designed to talk to each other. You'll build the ingestion pipelines and schemas that turn that into something autonomous agents can reason over, and set the quality and lineage standards that make it trustworthy enough for a Fortune 500 to act on.\n We’ve built the early foundations but there’s still plenty to build - you’ll shape the architecture to serve hundreds of enterprise customers.\n We're building next-generation agentic systems that can manage entire procurement workflows, with a mission to make global manufacturing supply chains more resilient to an ever-changing world. That's a $3tn market opportunity.\n We're backed by world-class investors including Sequoia Capital, and you'll be joining a team bringing together experience from OpenAI, Meta, Revolut, NASA and McKinsey.\n What You’ll Do Design, implement and operate ingestion pipelines processing high-volume data from global supply chain and procurement systems.\n Define, evolve, and manage data schemas and catalogues—from raw staging to high-quality analytics and feature stores.\n Build end-to-end monitoring and observability for your pipelines: owning data quality, latency, completeness, and lineage at every stage.\n Champion secure, governed data practices\n Collaborate closely with AI, Platform, and Product teams, provisioning data sets, feature tables, and contracts for analytics and machine learning at scale.\n You Might Be a Great Fit if You: Have experience at tech and product-driven companies, with a big focus on data quality, DataOps and data management at scale\n Have experience developing data warehouses/lakehouses\n Have used a variety of tools across the data stack and can select and implement the right ones for our use case\n Are keen to both design and implement data solutions end-to-…",
-    "tags": [
-      "Engineering",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-11-02T15:40:15.000Z",
-    "scrapedAt": "2026-11-02T21:21:23.859Z"
+    "scrapedAt": "2026-11-03T05:10:24.644Z"
   },
   {
     "id": "greenhouse:gitlab-8924923002",
@@ -90,23 +51,7 @@
       "Data"
     ],
     "postedAt": "2026-11-02T06:44:11.000Z",
-    "scrapedAt": "2026-11-02T21:21:25.329Z"
-  },
-  {
-    "id": "arbeitnow:analytics-engineer-finance-280853",
-    "externalId": "analytics-engineer-finance-280853",
-    "source": "arbeitnow",
-    "title": "Analytics Engineer - Finance",
-    "company": "mewssystems",
-    "location": "Unknown",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/mewssystems/analytics-engineer-finance-280853",
-    "description": "<div class=\"content-intro\"><h4><strong>Help make the world more hospitable </strong></h4>\n<p>The hospitality industry is uniquely human, and it deserves technology that’s just as inspiring as the people behind it. At Mews, we’re transforming the industry with a platform that helps hotels run smarter, move faster and create better guest experiences.</p>\n<p>You’ll work with smart, curious people who care deeply about what they do. You’ll have autonomy and the trust to make good decisions and move quickly. And you’ll enjoy a real sense of purpose as you see the impact of what we’re building.</p>\n<p>If you’re motivated by ownership, curiosity and meaningful impact, and are driven to deliver consistent high performance, you’ll feel at home here.</p>\n<h4><strong>About the role</strong></h4>\n<p>Let's get into the specifics. It’s impossible to capture every nuance of a role – especially at a rapidly growing company like Mews – but if we had to distil it into a job description (which we do because this is a job description), it would be this:</p></div><p>You'll be the founding analytics engineer in Finance, shaping our data infrastructure and analytical capabilities during a critical transformation. Your expertise in Python, <span data-highlighted=\"true\" data-vc=\"highlighted-text\"><span class=\"_kqswh2mm\"><span class=\"_5pioz8co _189e1dm9 _1il9buyh _19lc184f _d0altlke\" data-testid=\"definition-highlighter\">DBT</span></span></span>, SQL, and Databricks will drive operational efficiency, accelerate our month-end close, and deliver strategic insights that inform capital allocation and IPO readiness. This is a greenfield opportunity to own the analytics roadmap, work directly with Finance leadership, and build infrastructure that powers both scaling and compliance, all at a pivotal moment for Mews</p>\n<h4>What you would do</h4>\n<ul>\n<li>Design and develop analytical features that surface actionable insights for Finance leadership</li>\n<li>Build, optimise and maintain production-re…",
-    "tags": [
-      "Operations"
-    ],
-    "postedAt": "2026-11-02T03:55:21.000Z",
-    "scrapedAt": "2026-11-02T21:21:23.859Z"
+    "scrapedAt": "2026-11-03T05:10:58.939Z"
   },
   {
     "id": "arbeitnow:data-engineering-analytics-manager-amsterdam-273630",
@@ -124,7 +69,7 @@
     ],
     "jobType": "Full-time",
     "postedAt": "2026-11-01T03:07:48.000Z",
-    "scrapedAt": "2026-11-02T21:21:23.859Z"
+    "scrapedAt": "2026-11-03T05:10:24.644Z"
   },
   {
     "id": "greenhouse:coinbase-8047150",
@@ -140,7 +85,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-10-31T02:38:15.000Z",
-    "scrapedAt": "2026-11-02T21:21:25.329Z"
+    "scrapedAt": "2026-11-03T05:10:58.939Z"
   },
   {
     "id": "greenhouse:anthropic-5464234008",
@@ -156,7 +101,7 @@
       "Engineering & Design - Product"
     ],
     "postedAt": "2026-10-30T23:34:18.000Z",
-    "scrapedAt": "2026-11-02T21:21:25.329Z"
+    "scrapedAt": "2026-11-03T05:10:58.939Z"
   },
   {
     "id": "ashby:notion-73a71747-28d3-4dda-a718-77336056e687",
@@ -174,6 +119,54 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-10-28T18:42:47.956Z",
-    "scrapedAt": "2026-11-02T21:24:44.397Z"
+    "scrapedAt": "2026-11-03T05:13:50.765Z"
+  },
+  {
+    "id": "greenhouse:anthropic-5462966008",
+    "externalId": "anthropic:5462966008",
+    "source": "greenhouse",
+    "title": "Security Data Engineer",
+    "company": "Anthropic",
+    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462966008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\n Claude is trained and served on hardware in data centers Anthropic operates and in sites partners build and run for us. DCSE secures that footprint: the sites, the hardware moving through them, and the people and vendors who touch it. Security at that scale runs on data, and you'll be the engineer who owns it and the systems that produce it: component-level hardware inventory and chain of custody, fed by software that runs at our sites and on hosts, and continuous control monitoring, with the posture calculations that decide what each site is cleared to run.\n You set the architecture, agree schemas and interfaces with the teams, operators and vendors that own the sources, build the pipelines, stores and tools, and run what you ship. The goal is security that runs itself: custody, access and evidence verified continuously from records, with tools and AI agents doing the reviews. We favor simple, standard controls and tools that can be verified over elaborate ones. We use Claude throughout our engineering workflow and expect you to as well.\n You'll work with the rest of DCSE, including the engineers on its security monitoring platform, with Anthropic's compute and data center operations teams, and directly with data center operators, hardware vendors and logistics providers. The role is based in San Francisco, with remote applicants in the US considered, and involves regular travel to data center sites, which are critical infrastructure.\n Key responsibilities\n Hardware inventory and chain of custody: own the component-level record of what hardware exists, where it is and who has handled it: the data model, the pipelin…",
+    "tags": [
+      "Security"
+    ],
+    "postedAt": "2026-10-26T22:47:43.000Z",
+    "scrapedAt": "2026-11-03T05:10:58.939Z"
+  },
+  {
+    "id": "greenhouse:pinterest-8162539",
+    "externalId": "pinterest:8162539",
+    "source": "greenhouse",
+    "title": "Staff Software Engineer, Infrastructure Data Engineering",
+    "company": "Pinterest",
+    "location": "New York, NY, US; Remote, US",
+    "remote": true,
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8162539",
+    "description": "About Pinterest:\n Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.\n Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here .\n Pinterest is seeking a Staff Software Engineer to build the data systems that help teams understand and manage infrastructure usage and cost. You’ll lead the design and hands-on delivery of reliable data products, including pipelines, models, and services, that support infrastructure planning, cost attribution, and budget workflows. In this individual-contributor role, you’ll shape technical direction, navigate complex cross-team work, and make infrastructure data more accurate, consistent, and useful.\n What you’ll do:\n Set technical direction and help define a roadmap for reliable, scalable infrastructure data products\n Design, build, and operate production ingestion and transformation pipelines, data models, and services for infrastructure usage, cost, ownership, and planning\n Strengthen shared data products with clear contracts, automated qua…",
+    "tags": [
+      "Infrastructure and SRE"
+    ],
+    "postedAt": "2026-10-19T18:20:35.000Z",
+    "scrapedAt": "2026-11-03T05:10:58.939Z"
+  },
+  {
+    "id": "greenhouse:airbnb-8284841",
+    "externalId": "airbnb:8284841",
+    "source": "greenhouse",
+    "title": "Staff Data Engineer, Tech Foundations",
+    "company": "Airbnb",
+    "location": "San Francisco, CA",
+    "remote": false,
+    "url": "https://careers.airbnb.com/positions/8284841?gh_jid=8284841",
+    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n Staff Data Engineer, Enterprise Core Datasets, Tech Foundations\n The Community You Will Join:\n At Airbnb, trustworthy data powers business decisions, product innovation, and operational efficiency. The Enterprise Core Datasets team builds the technical data foundations that help Airbnb understand how the business operates, where resources are invested, and how new technologies create value.\n Our scope spans high-impact datasets across the organization: measuring AI adoption, usage, and cost; understanding revenue, costs, and profitability through Unit Economics; integrating non-platform data from Jira and other enterprise applications; and powering critical company metrics such as Gross Booking Value and Revenue.\n You will join a team that values thoughtful architecture, engineering rigor, and operational ownership. We collaborate with engineering, product, analytics, finance, and business teams to turn complex requirements into dependable, reusable data assets. We welcome strong engineers who are curious about the business and eager to solve problems across diverse domains.\n The Difference You Will Make:\n As a Staff Data Engineer, you will provide hands-on technical leadership for datasets that shape decisions across Airbnb. Your work will help the organization measure AI adoption and spending, understand the economics of its products, and connect enterprise application data to meaningful business and operational insights.\n You will lead complex initiatives from problem definition and architectural design through implementation, validation, and production operations. You will build extensible data foundation…",
+    "tags": [
+      "Engineering & Technology"
+    ],
+    "postedAt": "2026-10-16T16:32:46.000Z",
+    "scrapedAt": "2026-11-03T05:10:58.939Z"
   }
 ]
