@@ -1,40 +1,79 @@
 [
   {
-    "id": "arbeitnow:products-analytics-engineer-internship-paris-444018",
-    "externalId": "products-analytics-engineer-internship-paris-444018",
+    "id": "arbeitnow:internship-data-engineer-core-data-product-paris-paris-paris-238472",
+    "externalId": "internship-data-engineer-core-data-product-paris-paris-paris-238472",
     "source": "arbeitnow",
-    "title": "Products Analytics Engineer - Internship",
-    "company": "Ledger",
-    "location": "Paris, France",
+    "title": "Internship - Data Engineer Core Data Product (f/m/d)- Paris",
+    "company": "Decathlontechnology",
+    "location": "Paris, Paris",
     "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/ledger/products-analytics-engineer-internship-paris-444018",
-    "description": "We’re a team of experts pushing the limits of what’s possible, united by our common goal to unlock true freedom through digital ownership, making technology accessible for all. We believe in a world where users, creators and enterprises manage their value with ownership and freedom. Our curiosity drives us to innovate, empowering individuals on a global scale. We believe change is constant and our team moves forward as one, with a culture of problem-solving where every employee is empowered and supported to challenge tradition and create solutions. Our mission is simple: to make self-custody accessible and give people the keys to their own financial futures. If you want to make a true impact, we want you to join us at Ledger.\n At Ledger, we’re proud to be the global platform for digital assets and Web3, with over 20% of the world’s crypto assets secured through our Ledger devices. With our headquarters in Paris, and offices in Vierzon, Grenoble, Montpellier, London, Portland, Geneva, Zurich and Central Singapore, we have a team of around 600 professionals developing a variety of products and services to enable individuals and companies to securely buy, store, swap, grow and manage crypto assets – including the Ledger hardware wallets line with more than 7.5 millions units already sold in 200 countries.\n The team\n As a Product Analytics Engineer Intern, you will join the Product Analytics team supporting Ledger Wallet across Product, Business, and Growth/CRM teams. Reporting directly to the Product Data Analytics Manager, you will play a key role in ensuring tracking data quality, and scaling our analytics infrastructure to support company-wide data-driven decision-making.\n What you’ll be doing\n Cross-Functional Collaboration: Work closely with Product Managers, Data Engineers, and Data Scientists to deliver insights and support Growth/CRM personalization pipelines.\n Experimentation & A/B Testing: Specify and support A/B test setups, funnel evaluation, and advanced…",
+    "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/internship-data-engineer-core-data-product-paris-paris-paris-238472",
+    "description": "<h3><strong>L'équipe Core Data Product de DECATHLON recherche ses futur-e-s Data Engineers basé·e·s à Paris. </strong></h3>\n<p>Au cœur de l’entité Decathlon Digital, nous recherchons nos futur.esData Engineers pour rejoindre les équipes Core Data Products.</p>\n<p>Rejoignez l'équipe Core Data Products :</p>\n<p>Au cœur des décisions stratégiques de Decathlon Au sein de notre Data Platform, vous évoluerez sur le socle qui alimente l'ensemble des décisions stratégiques et des modèles d'IA de Decathlon.</p>\n<p>Notre mission ? Construire la Single Source of Truth transversale pour transformer les données brutes en produits de données prêts à l'emploi (Gold layer), fiables et normés.</p>\n<p>Du design produit à la supply chain, en passant par l'éco-conception et l'expérience client, nos Core Data Products permettent à chaque équipe métier d'opérer avec agilité tout en propulsant des business models circulaires, rentables et responsables.&nbsp;</p>\n<h3><strong>Ton futur terrain de jeu </strong></h3>\n<p>Les Core Data Products sont organisés en équipes expertes, chacune pilotée par un binôme Tech Lead &amp; Product Manager.</p>\n<p>Tu intégreras l' <strong>Équipe INDUSTRY SUPPLY INVENTORY</strong> dont la mission est d'unifier les données de la chaîne d'approvisionnement grâce à des produits de données prêts à évoluer à grande échelle.</p>\n<p><strong>TA FUTURE CONTRIBUTION <br></strong>Tes responsabilités comprendront () :</p>\n<h4><strong>Architecture &amp; Stratégie Technique </strong></h4>\n<ul>\n<li>Contribuer à l'élaboration de la stratégie de nos stacks techniques et garantir la CI/CD.</li>\n<li>Maintenir et repenser les datasets et pipelines existants pour servir une plus large variété de use cases.</li>\n<li>Concevoir, développer et industrialiser des modèles de données complexes pour permettre l'analyse des usages, de la qualité et de la maturité de notre patrimoine de données.</li>\n</ul>\n<h4><strong>Expertise &amp; Accompagnement </strong></h4>\n<ul>\n<li>Compréhension des…",
     "tags": [
-      "Corporate Functions",
+      "Data"
+    ],
+    "postedAt": "2026-11-03T18:55:36.000Z",
+    "scrapedAt": "2026-11-03T20:47:04.419Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-united-kingdom-16083",
+    "externalId": "senior-data-engineer-united-kingdom-16083",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer",
+    "company": "Cenosco",
+    "location": "United Kingdom",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/cenosco/senior-data-engineer-united-kingdom-16083",
+    "description": "About the Role\n At Cenosco , we build Asset Integrity Management Software trusted by global leaders in Oil & Gas, Chemicals, Energy and beyond. We are building a new data platform from the ground up, and we need a Senior Data Engineer to shape it: the architecture, the tooling, and the single source of truth our products and teams will rely on.\n You will join the Data Engineering team, make real architectural decisions, and bring a pioneering mindset. No tools are set in stone, so we expect you to propose what works best and back it with reasoning.\n What You'll Do\n Platform & Architecture\n Design and build our data platform from scratch, from ingestion to modelling to consumption\n Take part in architectural decisions and help choose the right technologies (Snowflake, Databricks, or something you propose)\n Research, evaluate, and implement a single source of truth across our data landscape\n Data Integration\n Connect and consolidate data from multiple IMS databases and other heterogeneous sources\n Design and build reliable, scalable ELT/ETL pipelines\n Develop data models that serve both product and analytical needs\n Collaboration\n Work closely with Product, Engineering, Domain Expertise, and other departments to turn business needs into solid data solutions\n Raise the quality bar through code reviews, documentation, and knowledge sharing\n Help shape engineering practices and standards as the team grows\n What You'll Need\n 8+ years of professional experience in Data Engineering\n Professional experience in a SaaS or Data-as-a-Service environment\n Solid SQL and Python\n Hands-on experience designing and building ELT/ETL pipelines\n Strong data modelling skills (dimensional and/or lakehouse)\n Production experience with at least one modern cloud data platform (Snowflake or Databricks ideal; BigQuery or Synapse also welcome)\n Experience integrating data from multiple heterogeneous sources\n Experience owning or influencing architectural and tooling decisions, and the ability t…",
+    "tags": [
+      "Product & Technology",
       "Full Time"
     ],
     "jobType": "Full Time",
-    "postedAt": "2026-11-03T12:40:16.000Z",
-    "scrapedAt": "2026-11-03T13:32:53.860Z"
+    "postedAt": "2026-11-03T18:40:38.000Z",
+    "scrapedAt": "2026-11-03T20:47:04.419Z"
   },
   {
-    "id": "jobicy:158630",
-    "externalId": "158630",
-    "source": "jobicy",
-    "title": "Staff Analytics Engineer",
-    "company": "Monzo",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/5b4c0ec3-221.jpg",
-    "location": "UK",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/158630-staff-analytics-engineer-3",
-    "description": "We’re on a mission to make money work for everyone.\n We’re waving goodbye to the complicated and confusing ways of traditional banking.\n After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint accounts , accounts for 16-17 year olds , a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save , invest and combine their pensions with us.\n With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!\n We’re not about selling products - we want to solve problems and change lives through Monzo ❤️\n Staff Analytics Engineer - Borrowing\n London/Cardiff/UK Remote | £121,600-164,600 + Incentive Awards tied to your performance and benefits | Hear from the team ✨\n ⭐ Our Borrowing Analytics Engineering Team\n Our mission in Borrowing is to help people achieve their financial goals through better borrowing. Our customers borrow money to achieve something in their lives — whether that’s making a big life event affordable, buying something they need now without affecting their monthly budget, or getting by until payday. We’re shaping this mission by building products our customers love, while safely scaling some of Monzo’s biggest revenue lines.\n Borrowing is one of Monzo’s most complex and fastest-growing domains. We operate 12+ products across multiple geographies, underpinned by 1,700+ data models and an analytics engineering team that’s scaling to match. We’re in the middle of a major data architecture transformation, expanding into new markets, and building the next generation of data infrastructure to support it all.\n We’re looking for a Staff Analytics Engineer to help shape how Borrowing builds and uses data at scale. Reporting to the Borrowing Data Direct…",
+    "id": "arbeitnow:alternante-expert-en-ingenierie-des-donnees-data-engineer-h-f-fontenay-sous-bois-427588",
+    "externalId": "alternante-expert-en-ingenierie-des-donnees-data-engineer-h-f-fontenay-sous-bois-427588",
+    "source": "arbeitnow",
+    "title": "Alternant(e) Expert en Ingénierie des Données / Data Engineer H/F",
+    "company": "kaischool",
+    "location": "Fontenay-sous-Bois",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/kaischool/alternante-expert-en-ingenierie-des-donnees-data-engineer-h-f-fontenay-sous-bois-427588",
+    "description": "Qui sommes-nous ?\nKAISCHOOL est une école supérieure spécialisée en Intelligence Artificielle, Data, Cybersécurité et Commerce IT. Elle forme du Bac+3 au Bac+5 en alternance, en mode hybride. Pour développer ses activités data, KAISCHOOL recrute un(e) alternant(e) Expert en Ingénierie des Données. Vous travaillerez sur nos propres projets et préparerez votre diplôme dans notre école. Votre formation : Expert en infrastructure de données massives (Bac+5)\nIl s’agit d’une certification de niveau 7 (Bac+5), enregistrée au RNCP sous le n° 37638 et délivrée par Simplon. Elle forme des experts capables de concevoir, déployer et gouverner des systèmes de données à grande échelle. La formation couvre toute la chaîne, de l’étude de faisabilité jusqu’au data warehouse et au data lake.\n Vous apprendrez à :\n concevoir et administrer des infrastructures de données massives ;\n construire des pipelines de collecte, de traitement et de distribution des données ;\n créer et maintenir des entrepôts de données et des data lakes ;\n industrialiser les traitements avec CI/CD et DevOps Data ;\n déployer sur des environnements cloud public, privé, multicloud ou on-premise ;\n assurer la qualité, la sécurité et la conformité RGPD des données ;\n piloter un projet data de bout en bout.\n Technologies : Python, SQL, Hadoop, Spark, Kafka, Elasticsearch, Kubernetes, cloud.\n Les + de KAISCHOOL :\n formation 100 % gratuite pour vous, financée par l’OPCO, et salaire versé pendant toute l’alternance ;\n pédagogie hybride : cours sur place à Fontenay-sous-Bois et plateforme en ligne avec replays 24h/24 ;\n 15 projets concrets par étudiant ;\n plus de 30 docteurs (PhD) en IA parmi les intervenants ;\n école certifiée Qualiopi ;\n 95 % d’insertion à 6 mois (promotion 2024, donnée déclarative de l’école).\n Vos missions :\n participer à la conception et à l’évolution de notre architecture de données ;\n développer et maintenir des pipelines d’ingestion et de transformation (ETL/ELT) ;\n intégrer des données venant de…",
     "tags": [
-      "Data Science & Analytics",
-      "Director"
+      "Data Processing",
+      "Data Engineer",
+      "Contrat d'apprentissage",
+      "apprenticeship",
+      "aucune expérience requise / Étudiant"
     ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-11-03T08:23:09.000Z",
-    "scrapedAt": "2026-11-03T13:32:54.784Z"
+    "jobType": "Contrat d'apprentissage",
+    "postedAt": "2026-11-03T16:31:07.000Z",
+    "scrapedAt": "2026-11-03T20:47:04.419Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-snowflake-iceberg-bern-283333",
+    "externalId": "senior-data-engineer-snowflake-iceberg-bern-283333",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer– Snowflake & Iceberg",
+    "company": "Coopers Group AG",
+    "location": "Bern",
+    "remote": true,
+    "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-data-engineer-snowflake-iceberg-bern-283333",
+    "description": "................\n Für unseren Kunden in Bern , suchen wir eine:n motivierte:n und aufgeschlossene:n Senior Data Engineer– Snowflake & Iceberg.\n Ziel des Projekts ist der Aufbau einer vollständigen, zuverlässigen und produktionsfähigen CDC-Lösung zur Synchronisation von TigerData nach Snowflake auf Basis von Apache Iceberg.\n Die Lösung soll hinsichtlich Zuverlässigkeit, Transparenz und Betriebsfähigkeit einen vergleichbaren Standard wie die bestehenden CDC-Prozesse mit Fivetran HVR erreichen,\n Deine Aufgaben:\n Analyse und Bewertung des von TigerData bereitgestellten CDC-Ansatzes auf Basis von Apache Iceberg Definition und Konzeption einer geeigneten Zielarchitektur für die kontinuierliche Synchronisation von TigerData nach Snowflake Konfiguration und Optimierung von Snowflake für die Verarbeitung der über Apache Iceberg bereitgestellten Daten Konzeption und Implementierung der erforderlichen Iceberg-Komponenten und Datenstrukturen Sicherstellung einer zuverlässigen Verarbeitung von Inserts, Updates und Deletes Berücksichtigung von Schema Evolution, Datenkonsistenz, Datenlatenz, Recovery und Reconciliation Aufbau von Monitoring-, Logging- und Fehlerbehandlungsmechanismen für einen stabilen Produktionsbetrieb Technische Abstimmung mit TigerData und bei Bedarf direkt mit Snowflake Unterstützung bei der Implementierung, Validierung und Produktivsetzung der End-to-End-Lösung Dokumentation der technischen Architektur sowie Wissenstransfer an das interne Team\n Dein Profil:\n Mehrjährige praktische Erfahrung in der Konzeption und Umsetzung von Datenintegrations- und Replikationslösungen Sehr gute Kenntnisse und praktische Projekterfahrung mit Snowflake Nachweisbare Projekterfahrung mit Apache Iceberg Fundiertes Verständnis von Change Data Capture (CDC), Datenreplikation und Streaming- bzw. Synchronisationsverfahren Erfahrung im Aufbau und Betrieb produktionsfähiger CDC- und Datenintegrationsplattformen Kenntnisse in den Bereichen Schema Evolution, Datenkonsistenz, Recovery,…",
+    "tags": [
+      "Remote",
+      "IT",
+      "Freiberufler / selbstständiger",
+      "freelance",
+      "berufserfahren"
+    ],
+    "jobType": "Freiberufler / selbstständiger",
+    "postedAt": "2026-11-03T14:31:16.000Z",
+    "scrapedAt": "2026-11-03T20:47:04.419Z"
   },
   {
     "id": "greenhouse:gitlab-8924923002",
@@ -50,7 +89,7 @@
       "Data"
     ],
     "postedAt": "2026-11-02T06:44:11.000Z",
-    "scrapedAt": "2026-11-03T13:32:55.278Z"
+    "scrapedAt": "2026-11-03T20:47:05.439Z"
   },
   {
     "id": "greenhouse:coinbase-8047150",
@@ -66,7 +105,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-10-31T02:38:15.000Z",
-    "scrapedAt": "2026-11-03T13:32:55.278Z"
+    "scrapedAt": "2026-11-03T20:47:05.439Z"
   },
   {
     "id": "greenhouse:anthropic-5464234008",
@@ -82,7 +121,7 @@
       "Engineering & Design - Product"
     ],
     "postedAt": "2026-10-30T23:34:18.000Z",
-    "scrapedAt": "2026-11-03T13:32:55.278Z"
+    "scrapedAt": "2026-11-03T20:47:05.439Z"
   },
   {
     "id": "ashby:notion-73a71747-28d3-4dda-a718-77336056e687",
@@ -100,7 +139,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-10-28T18:42:47.956Z",
-    "scrapedAt": "2026-11-03T13:36:02.784Z"
+    "scrapedAt": "2026-11-03T20:50:12.403Z"
   },
   {
     "id": "greenhouse:anthropic-5462966008",
@@ -116,7 +155,7 @@
       "Security"
     ],
     "postedAt": "2026-10-26T22:47:43.000Z",
-    "scrapedAt": "2026-11-03T13:32:55.278Z"
+    "scrapedAt": "2026-11-03T20:47:05.439Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -132,38 +171,6 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-11-03T13:32:55.278Z"
-  },
-  {
-    "id": "greenhouse:airbnb-8284841",
-    "externalId": "airbnb:8284841",
-    "source": "greenhouse",
-    "title": "Staff Data Engineer, Tech Foundations",
-    "company": "Airbnb",
-    "location": "San Francisco, CA",
-    "remote": false,
-    "url": "https://careers.airbnb.com/positions/8284841?gh_jid=8284841",
-    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n Staff Data Engineer, Enterprise Core Datasets, Tech Foundations\n The Community You Will Join:\n At Airbnb, trustworthy data powers business decisions, product innovation, and operational efficiency. The Enterprise Core Datasets team builds the technical data foundations that help Airbnb understand how the business operates, where resources are invested, and how new technologies create value.\n Our scope spans high-impact datasets across the organization: measuring AI adoption, usage, and cost; understanding revenue, costs, and profitability through Unit Economics; integrating non-platform data from Jira and other enterprise applications; and powering critical company metrics such as Gross Booking Value and Revenue.\n You will join a team that values thoughtful architecture, engineering rigor, and operational ownership. We collaborate with engineering, product, analytics, finance, and business teams to turn complex requirements into dependable, reusable data assets. We welcome strong engineers who are curious about the business and eager to solve problems across diverse domains.\n The Difference You Will Make:\n As a Staff Data Engineer, you will provide hands-on technical leadership for datasets that shape decisions across Airbnb. Your work will help the organization measure AI adoption and spending, understand the economics of its products, and connect enterprise application data to meaningful business and operational insights.\n You will lead complex initiatives from problem definition and architectural design through implementation, validation, and production operations. You will build extensible data foundation…",
-    "tags": [
-      "Engineering & Technology"
-    ],
-    "postedAt": "2026-10-16T16:32:46.000Z",
-    "scrapedAt": "2026-11-03T13:32:55.278Z"
-  },
-  {
-    "id": "greenhouse:reddit-8282760",
-    "externalId": "reddit:8282760",
-    "source": "greenhouse",
-    "title": "Analytics Engineer",
-    "company": "Reddit",
-    "location": "Remote - United States",
-    "remote": true,
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8282760",
-    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com .\n We are looking for a talented and driven individual to be a key part of our Analytics Engineering team within the Data Science organization. We are looking for someone who can work closely with Data Scientists and Engineers across diverse areas of the organization (Consumer, Ads, and Marketing) to curate, develop, and deploy the right data and analytic tooling to drive Reddit’s product forward and provide a data and tooling foundation that will last decades. Your work will empower thousands of your colleagues to improve the user experience and grow our consumer base.\n Successful candidates have a strong track record of understanding and deeply caring about the purpose of data to support business goals, and can act as an effective conduit between Data Producers and Data Consumers. This role sits at the intersection of Data Science and Data Engineering, and the ideal candidate has skills, experience, and passion in both areas.\n Responsibilities:\n Be a key contributor and collaborator to the success of data quality, performance, reliability, and automation initiatives.\n Manage a portfolio of data products that deliver high-quality, trustworthy data\n Develop and maintain robust data pipelines and workflows for data ingestion, processing, and transformation. Work closely with engineering to ensure the quality and reliability of these data pipelines.\n Develop and implement data quality checks, conduct QA and implement monitoring routines\n Create and manage new data integrations across internal and external systems\n Create t…",
-    "tags": [
-      "Data Science"
-    ],
-    "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-11-03T13:32:55.278Z"
+    "scrapedAt": "2026-11-03T20:47:05.439Z"
   }
 ]

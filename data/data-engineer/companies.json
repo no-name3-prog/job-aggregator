@@ -84,25 +84,22 @@
   },
   {
     "company": "Salesforce",
-    "jobCount": 5,
+    "jobCount": 4,
     "sources": [
       "workday"
     ],
     "locations": [
-      "India - Hyderabad",
       "2 Locations",
       "Mexico - Mexico City",
       "Ireland - Dublin"
     ],
     "sampleTitles": [
-      "Data Engineering SMTS/LMTS",
       "Staff Data Engineer - Slack",
       "Data Engineer Senior | AI & Data",
       "Senior Data Engineer",
       "Data Engineering Senior Associate- Finance"
     ],
     "officialUrls": [
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Data-Engineering-SMTS-LMTS--Revenue-Analytics_JR364686",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Staff-Data-Engineer---Slack_JR366234-1",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR363793",
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
@@ -150,27 +147,6 @@
       "http://block.xyz/careers/jobs/5442647008?gh_jid=5442647008",
       "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
       "http://block.xyz/careers/jobs/5424561008?gh_jid=5424561008"
-    ]
-  },
-  {
-    "company": "Discord",
-    "jobCount": 3,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "San Francisco Bay Area",
-      "Remote (U.S.)"
-    ],
-    "sampleTitles": [
-      "Staff Data Engineer",
-      "Senior Data Engineer",
-      "Senior Data Engineer, Ads"
-    ],
-    "officialUrls": [
-      "https://job-boards.greenhouse.io/discord/jobs/8691572002",
-      "https://job-boards.greenhouse.io/discord/jobs/8485884002",
-      "https://job-boards.greenhouse.io/discord/jobs/8299493002"
     ]
   },
   {
@@ -231,6 +207,25 @@
     ]
   },
   {
+    "company": "Discord",
+    "jobCount": 2,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "San Francisco Bay Area",
+      "Remote (U.S.)"
+    ],
+    "sampleTitles": [
+      "Staff Data Engineer",
+      "Senior Data Engineer, Ads"
+    ],
+    "officialUrls": [
+      "https://job-boards.greenhouse.io/discord/jobs/8691572002",
+      "https://job-boards.greenhouse.io/discord/jobs/8299493002"
+    ]
+  },
+  {
     "company": "Figma",
     "jobCount": 2,
     "sources": [
@@ -257,7 +252,7 @@
     ],
     "locations": [
       "Bangalore, India",
-      "Remote, United States"
+      "Remote, Canada; Remote, United States"
     ],
     "sampleTitles": [
       "Intermediate Data Engineer",
@@ -325,6 +320,22 @@
     ]
   },
   {
+    "company": "Cenosco",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "United Kingdom"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/cenosco/senior-data-engineer-united-kingdom-16083"
+    ]
+  },
+  {
     "company": "Cloudflare",
     "jobCount": 1,
     "sources": [
@@ -341,19 +352,51 @@
     ]
   },
   {
-    "company": "Ledger",
+    "company": "Coopers Group AG",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Paris, France"
+      "Bern"
     ],
     "sampleTitles": [
-      "Products Analytics Engineer - Internship"
+      "Senior Data Engineer– Snowflake & Iceberg"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/ledger/products-analytics-engineer-internship-paris-444018"
+      "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-data-engineer-snowflake-iceberg-bern-283333"
+    ]
+  },
+  {
+    "company": "Decathlontechnology",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Paris, Paris"
+    ],
+    "sampleTitles": [
+      "Internship - Data Engineer Core Data Product (f/m/d)- Paris"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/internship-data-engineer-core-data-product-paris-paris-paris-238472"
+    ]
+  },
+  {
+    "company": "kaischool",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Fontenay-sous-Bois"
+    ],
+    "sampleTitles": [
+      "Alternant(e) Expert en Ingénierie des Données / Data Engineer H/F"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/kaischool/alternante-expert-en-ingenierie-des-donnees-data-engineer-h-f-fontenay-sous-bois-427588"
     ]
   },
   {
@@ -370,22 +413,6 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
-    ]
-  },
-  {
-    "company": "Monzo",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "UK"
-    ],
-    "sampleTitles": [
-      "Staff Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/158630-staff-analytics-engineer-3"
     ]
   },
   {
