@@ -1,56 +1,21 @@
 [
   {
-    "id": "arbeitnow:customer-data-engineer-dundee-373669",
-    "externalId": "customer-data-engineer-dundee-373669",
+    "id": "arbeitnow:data-engineer-snowflake-finance-data-platform-zurich-385154",
+    "externalId": "data-engineer-snowflake-finance-data-platform-zurich-385154",
     "source": "arbeitnow",
-    "title": "Customer Data Engineer",
-    "company": "Optimove",
-    "location": "Dundee",
+    "title": "Data Engineer (Snowflake / Finance Data Platform)",
+    "company": "PROSTAFF Schweiz GmbH",
+    "location": "Zürich",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/optimove/customer-data-engineer-dundee-373669",
-    "description": "<div class=\"content-intro\"><p>At Optimove, we believe people are capable of more than a single job description. You’re not hired just to fill a position- you’re empowered to shape it, grow it, and make it your own.<br>We call this being Positionless.<br>And Positionless isn’t just our culture. It’s our product.<br>Optimove is the creator of Positionless Marketing, an AI-powered platform that gives every marketer the power to analyze, create, launch, and optimize independently. The result is faster execution, deeper personalization, and 88% greater campaign efficiency.<br>Recognized as a Visionary in Gartner’s Magic Quadrant, we partner with leading brands like Sephora, Staples, and Entain. Today, more than 500 Optimovers across NYC, London, Tel Aviv, Scotland, Brazil, Estonia, and beyond are building the future of marketing together, in an environment that actively encourages ownership and growth, with two out of every three managers promoted from within.<br>If you’re looking for a place where you can do more, be more, come grow with us.</p></div><p><strong>About the Role</strong></p>\n<p>As a Customer Data Engineer, you will be a part of a strong energetic and fast-growing global team. You will be an integral part of clients' ongoing data requests and projects. You will be working closely with internal CSM teams as well as interacting directly with clients’ data teams across different business verticals. Your core responsibilities will involve playing an active role in collaborating with internal teams to construct tailored data transformations and manipulations while working with top-notch technology (Cloud tech etc.) The ideal candidate is an SQL whiz with a strong work ethic, robust analytical and technical capabilities, and highly effective time management skills. We are looking for a master multi-tasker who thrives in challenging, fast-paced environments, with agility and ease.</p>\n<p>The Customer Data Engineer is a position that brings with it an excellent op…",
+    "url": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/data-engineer-snowflake-finance-data-platform-zurich-385154",
+    "description": "For our client in the financial services industry, we are looking for an experienced Data Engineer specializing in Snowflake, SQL, and Python.\n In this role, you will support the further development of a modern Finance Data Platform. The primary focus is on integrating financial data into Snowflake, enhancing existing Finance Data Marts, and building scalable, reliable data pipelines.\n Design, develop, and maintain data pipelines from various Finance applications and source systems into Snowflake\n Further develop existing Finance Data Marts and underlying data models\n Integrate new Finance data sources using modern ETL/ELT technologies and data integration patterns\n Ensure data quality, reliability, and availability across Finance data flows\n Analyze, troubleshoot, and resolve data integration issues, implementing sustainable solutions\n Support automation, deployment processes, and modern engineering practices, including CI/CD and DevOps\n Collaborate closely with Finance teams, application developers, architects, and other technical stakeholders\n Translate business requirements into scalable technical solutions\n Document data flows, data models, and implemented technical solutions\n Several years of hands-on experience in Data Engineering and Data Warehousing\n Strong expertise in Snowflake and SQL, particularly in designing and building scalable data pipelines\n Solid experience in data modelling, ideally including Data Vault\n Strong understanding of ETL/ELT processes and modern data integration architectures\n Practical experience with Python for data processing, integration, and automation\n Knowledge of CI/CD pipelines, DevOps practices, and deployment automation is an advantage\n Strong analytical, problem-solving, and communication skills\n Experience working with financial data, Accounting, or Controlling is an advantage\n Structured, independent, and solution-oriented working approach\n Find more English Speaking Jobs in Switzerland on Arbeitnow",
     "tags": [
-      "Professional Services"
+      "IT",
+      "Indefinite contract (unbefristeter arbeitsvertrag)"
     ],
-    "postedAt": "2026-11-05T18:55:29.000Z",
-    "scrapedAt": "2026-11-05T19:27:34.466Z"
-  },
-  {
-    "id": "arbeitnow:senior-bi-analytics-engineer-london-425709",
-    "externalId": "senior-bi-analytics-engineer-london-425709",
-    "source": "arbeitnow",
-    "title": "Senior BI Analytics Engineer",
-    "company": "Carwow",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-bi-analytics-engineer-london-425709",
-    "description": "OUR MISSION\n To become the car-changing destination of choice. By combining technology, media and deep automotive expertise, we've turned how people buy, sell, advertise and lease cars on its head.\n What started as a simple reviews site is now one of the largest online car-changing destinations in Europe. Last year alone we grew over 50% with nearly £3bn worth of cars bought on site, while £1.8bn of cars were listed for sale through our Sell My Car service.\n In 2024 we went big and acquired Autovia - creators of AutoExpress and Evo magazines - doubling our audience overnight. Together we now have one of the biggest YouTube channels in the world with almost 10m subscribers and over 1.1 billion annual views, while we sell 1.2 million print copies of our magazines and have an annual web content reach over 350million.\n And we’re a long way from done!\n THE ROLE\n We’re looking for a Senior Analytics Engineer / BI Analyst to bridge the gap between data engineering and business insight. You’ll take ownership of transforming raw data into trusted, well modelled datasets and deliver impactful reporting that drives decision making across the business. This role combines strong technical data modelling skills with stakeholder-facing analytics and BI development.\n   WHAT YOU'LL BE DOING\n Design, build, and maintain scalable data models using dbt on Google Cloud Platform (BigQuery)\n Create and maintain dashboards and explores in Looker , enabling self-serve analytics\n Translate business requirements into clear data models, metrics, and visualisations\n Define and maintain core business metrics and data definitions in partnership with stakeholders and the wider analytics team\n Implement data quality checks, testing, and documentation within dbt\n Partner with stakeholders across all parts of the business including commercial, product, marketing, finance, and operations\n Optimise query performance and manage cost efficiency in BigQuery\n Mentor junior analysts and promote best practi…",
-    "tags": [
-      "Technology",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-11-05T18:40:15.000Z",
-    "scrapedAt": "2026-11-05T19:27:34.466Z"
-  },
-  {
-    "id": "jobicy:159140",
-    "externalId": "159140",
-    "source": "jobicy",
-    "title": "Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services)",
-    "company": "Databricks",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/12/4e3f864ba9cf3c62d471e1c62414d098.jpg",
-    "location": "USA",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/159140-specialist-solutions-architect-data-engineering-warehousing-financial-services",
-    "description": "FEQ327R691\n As a Data Engineering and Warehousing Specialist Solutions Architect (SSA), you will lead the advanced technical strategy for your customers — owning complex architecture discussions, driving platform adoption, and serving as a trusted advisor to customer technical leads and architects. You combine deep technical expertise with strategic thinking to position Databricks as the foundation of your customers’ data and AI strategy. You are further developing a technical specialization and are recognized within the Field Engineering team for depth in the specific domain.\n This position can be remote.\n The Impact You Will Have\n Own the end-to-end technical strategy for your accounts, from discovery through production deployment and consumption growth\n Lead complex architecture discussions — designing scalable, production-grade solutions spanning data engineering and real-time analytics\n Serve as a trusted technical advisor to customer architects, engineering leads, and Directors\n Drive technical wins in competitive scenarios by demonstrating Databricks’ differentiation through custom-built solutions\n Develop and declare an emerging technical specialization (archetype) — becoming a go-to resource for your team in that domain\n Orchestrate cross-functional resources (DSAs, SAs, Partners) to deliver comprehensive solutions for complex customer needs\n Influence product direction by providing structured feedback on customer requirements and competitive gaps\n What We Look For\n 6+ years in solutions architecture, technical pre-sales, or a senior hands-on technical role in the following areas:\n Data and Software Engineering: Deep hands-on experience with Apache Spark™ ecosystem (Spark Core, Spark SQL, Spark Streaming), message queues (e.g., Kafka), batch ingestion, performance tuning, and troubleshooting complex Spark workloads\n Data Applications Engineering: Experience building or supporting data-driven use cases, predictive analytics pipelines, or customer analytics…",
-    "tags": [
-      "Sales",
-      "Director"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-11-05T13:55:15.000Z",
-    "scrapedAt": "2026-11-05T19:27:35.192Z"
+    "jobType": "Indefinite contract (unbefristeter arbeitsvertrag)",
+    "postedAt": "2026-11-05T19:30:53.000Z",
+    "scrapedAt": "2026-11-06T01:21:39.506Z"
   },
   {
     "id": "greenhouse:gitlab-8924923002",
@@ -66,7 +31,7 @@
       "Data"
     ],
     "postedAt": "2026-11-02T06:44:11.000Z",
-    "scrapedAt": "2026-11-05T19:27:35.691Z"
+    "scrapedAt": "2026-11-06T01:21:40.956Z"
   },
   {
     "id": "greenhouse:coinbase-8047150",
@@ -82,7 +47,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-10-31T02:38:15.000Z",
-    "scrapedAt": "2026-11-05T19:27:35.691Z"
+    "scrapedAt": "2026-11-06T01:21:40.956Z"
   },
   {
     "id": "greenhouse:anthropic-5464234008",
@@ -98,7 +63,7 @@
       "Engineering & Design - Product"
     ],
     "postedAt": "2026-10-30T23:34:18.000Z",
-    "scrapedAt": "2026-11-05T19:27:35.691Z"
+    "scrapedAt": "2026-11-06T01:21:40.956Z"
   },
   {
     "id": "ashby:notion-73a71747-28d3-4dda-a718-77336056e687",
@@ -116,7 +81,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-10-28T18:42:47.956Z",
-    "scrapedAt": "2026-11-05T19:30:41.114Z"
+    "scrapedAt": "2026-11-06T01:24:32.905Z"
   },
   {
     "id": "greenhouse:anthropic-5462966008",
@@ -132,7 +97,7 @@
       "Security"
     ],
     "postedAt": "2026-10-26T22:47:43.000Z",
-    "scrapedAt": "2026-11-05T19:27:35.691Z"
+    "scrapedAt": "2026-11-06T01:21:40.956Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -148,7 +113,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-11-05T19:27:35.691Z"
+    "scrapedAt": "2026-11-06T01:21:40.956Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -164,6 +129,38 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-11-05T19:27:35.691Z"
+    "scrapedAt": "2026-11-06T01:21:40.956Z"
+  },
+  {
+    "id": "greenhouse:gitlab-8883003002",
+    "externalId": "gitlab:8883003002",
+    "source": "greenhouse",
+    "title": "Director, Analytics Engineering",
+    "company": "GitLab",
+    "location": "Remote, Canada; Remote, United States",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8883003002",
+    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.\n The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software.\n * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.\n An overview of this role\n As Director, Analytics Engineering, you'll lead a team of 8 and report to the VP of Data & Insights. You set direction across the data organization, stay close enough to the work to guide technical decisions credibly, and partner with Data Engineering, Data Science, IT, and business leaders.\nYou will have three mandates:\n Build trusted, AI-ready self-service. Deliver a semantic model that answers business questions correctly, with the telemetry, evals, and model flexibility to prove it and keep costs in check.\n Set the strategy for how GitLab accesses data. Own the data models, BI tools, and AI access pat…",
+    "tags": [
+      "Data"
+    ],
+    "postedAt": "2026-10-13T14:52:13.000Z",
+    "scrapedAt": "2026-11-06T01:21:40.956Z"
+  },
+  {
+    "id": "greenhouse:anthropic-5450099008",
+    "externalId": "anthropic:5450099008",
+    "source": "greenhouse",
+    "title": "Data Engineer, Billing & Payments",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450099008",
+    "description": "About Anthropic\n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\n As a Data Engineer supporting Billing & Payments Engineering, you’ll join the Finance Data Engineering team and build the foundation for accurate, scalable billing and revenue data across Anthropic. You’ll work closely with Billing Engineering, Finance and Accounting, as well as Product and other partners, to turn billing and payments data into reliable metrics, reporting and insights. You’ll make sure teams have trustworthy data that scales with our growth, and you’ll lead your own projects to enable self-serve insights that help teams make data-driven decisions.\n Key responsibilities\n Partner with Billing Engineering, Finance and Accounting to understand their data and reporting needs, and translate them into technical requirements\n Design, build and maintain data models and pipelines in dbt that transform raw billing, usage and payments data into canonical datasets\n Own revenue data accuracy and reconciliation, making sure billing, usage and revenue data tie out across systems\n Define success metrics for billing systems, and build the data models and monitoring to track them\n Set data integrity standards and SLAs for timely, accurate delivery of billing and revenue data\n Share on-call and data operations responsibilities for Finance Data Engineering pipelines\n Build dashboards and self-serve data products that track core metrics and deliver insights across the company\n Promote best practices for dbt, data modeling and SQL\n Influence the Billing Engineering roadmap from a data systems perspective\n Build a thorough understanding of our data models and data architecture\n Minimum qualifications\n Experience as a Data…",
+    "tags": [
+      "Data Science & Analytics"
+    ],
+    "postedAt": "2026-10-12T19:03:03.000Z",
+    "scrapedAt": "2026-11-06T01:21:40.956Z"
   }
 ]
