@@ -1,5 +1,58 @@
 [
   {
+    "id": "jobicy:159470",
+    "externalId": "159470",
+    "source": "jobicy",
+    "title": "Lead Data Engineer",
+    "company": "Oddball",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/02/8c034287ffd7b6474f90645b1c72e60a.jpeg",
+    "location": "USA",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/159470-lead-data-engineer",
+    "description": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality software to the federal space.\n This position is contingent upon contract award.\n We’re looking for a Lead Data Engineer to join our VA team, setting the technical approach for moving legacy data warehouse data and pipelines onto an Azure and Databricks lakehouse.\n What you'll be doing:\n Set the technical approach for migrating data and pipelines onto the lakehouse\n Guide migration teams on patterns, reconciliation, and quality gates\n Design reusable migration pipelines using Azure Data Factory and Azure Databricks\n Define how source and target data are reconciled to confirm accuracy\n Resolve the hardest pipeline and performance problems\n Mentor data engineers and review their work\n Partner with product, QA, and platform teams\n What you’ll bring:\n Data engineering leadership on large migration or modernization programs\n Deep experience with Databricks or Spark and Azure Data Factory\n Strong SQL and Python skills\n Experience moving legacy ETL and data warehouse workloads to the cloud\n Understanding of lakehouse and medallion architecture, including Delta\n Experience in federal or regulated data environments is a plus\n Thrives in a remote, collaborative Agile environment and genuinely enjoys leading and mentoring engineers\n Communicates clearly and openly, whether setting technical direction or aligning with the customer\n Perform other related duties as assigned\n Requirements:\n Applicants must be authorized to work in the United States. In alignment with federal contract requirements, certain roles may also require U.S. citizenship and the ability to obtain and maintain a federal background investigation and/or a security clearance.\n Education:\n Bachel…",
+    "tags": [
+      "Data Science & Analytics",
+      "Senior"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-11-07T06:08:03.000Z",
+    "scrapedAt": "2026-11-07T09:34:51.361Z"
+  },
+  {
+    "id": "arbeitnow:staff-data-engineer-agentic-applications-bristol-325390",
+    "externalId": "staff-data-engineer-agentic-applications-bristol-325390",
+    "source": "arbeitnow",
+    "title": "Staff Data Engineer – Agentic Applications",
+    "company": "Graphcore",
+    "location": "Bristol",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-data-engineer-agentic-applications-bristol-325390",
+    "description": "<p><strong><span data-contrast=\"auto\">About us</span></strong><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">Graphcore is one of the world's leading innovators in Artificial Intelligence compute. It is developing hardware, software and systems infrastructure that will unlock the next generation of AI breakthroughs and power the widespread adoption of AI solutions across every industry.</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">As part of the SoftBank Group, Graphcore is a member of an elite family of companies responsible for some of the world's most transformative technologies. Together, they share a bold vision: to enable Artificial Super Intelligence and ensure its benefits are accessible to everyone.</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">Graphcore's teams are drawn from diverse backgrounds and bring a broad range of skills and perspectives. A melting pot of AI research specialists, silicon designers, software engineers and systems architects, Graphcore brings together deep expertise to solve complex problems and deliver meaningful progress in AI compute.</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><strong><span data-contrast=\"auto\">Job Summary</span></strong><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">Reporting to the Head of Data &amp; Transformation, the Staff Data Engineer – Agentic Applications is a senior individual contributor responsible for designing, building and operating Python-based web applications, agentic workflows and supporting data services for Graphcore’s business teams. The role combines strong data engineering foundations with hands-on application development, using AI agents, trusted data and business system integrations to improve decision-making and automate operational workflows.</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">Depending on the use case, you will…",
+    "tags": [
+      "Data & Strategic Projects"
+    ],
+    "postedAt": "2026-11-07T03:55:16.000Z",
+    "scrapedAt": "2026-11-07T09:34:51.280Z"
+  },
+  {
+    "id": "arbeitnow:senior-analytics-engineer-marketing-growth-berlin-317526",
+    "externalId": "senior-analytics-engineer-marketing-growth-berlin-317526",
+    "source": "arbeitnow",
+    "title": "Senior Analytics Engineer - Marketing & Growth",
+    "company": "Pergolux",
+    "location": "Berlin | Global Team",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/pergolux/senior-analytics-engineer-marketing-growth-berlin-317526",
+    "description": "Senior Analytics Engineer Marketing & Growth : You will own and architect the systems and definitions that determine how every euro of marketing spend is measured, audited, and optimized. Your work will directly shape how we understand acquisition performance, allocate budgets, and scale efficiently across markets. You will join a lean, 4 person team working on mission-critical initiatives in a fast-growing, design-driven environment.\n At PERGOLUX , we value integrity, innovation, ambition, and unity — and we build systems with the same care and precision as our products.\n What You’ll Do Build and own the Single Source of Truth for Marketing and Storefront, defining CAC, Engagement, and core performance metrics with clarity, consistency, and auditability.\n Implement Multi-Touch Attribution models and lay the groundwork for Marketing Mix Models that inform budget allocation and channel-level investment.\n Expand Semantic model with relevant context and metrics that enables conversational analytics and shortens the time to insight\n Design and build Data Health metrics that bring visibility to the quality, accuracy, freshness and completeness of our marketing and storefront data\n Partner closely with marketing, storefront, and leadership stakeholders to drive faster, smarter decisions.\n What You’ll Bring Minimum 5 years experience in analytics engineering roles\n A strong, proactive ownership mindset with the confidence to challenge requests that introduce ambiguity, technical debt, or low business impact.\n Expert proficiency in SQL, dbt, and data modeling, with experience building durable, modular systems that scale with the business. (Stack: Airbyte, Python, Snowflake, Looker)\n Prior experience building Multi-touch Attribution Models or Marketing Mix Models (MMM)\n Deep understanding of marketing analytics concepts, including ROAS, CPA, MER, attribution logic, CRM data structures, and channel mechanics.\n Professional working proficiency in English, enabling clear commu…",
+    "tags": [
+      "Data & BI",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-11-07T03:40:27.000Z",
+    "scrapedAt": "2026-11-07T09:34:51.280Z"
+  },
+  {
     "id": "arbeitnow:remote-senior-oracle-data-engineer-karlsruhe-457351",
     "externalId": "remote-senior-oracle-data-engineer-karlsruhe-457351",
     "source": "arbeitnow",
@@ -17,7 +70,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-11-06T21:31:24.000Z",
-    "scrapedAt": "2026-11-07T00:36:27.870Z"
+    "scrapedAt": "2026-11-07T09:34:51.280Z"
   },
   {
     "id": "arbeitnow:manager-customer-data-engineering-change-it-customer-services-amsterdam-6959",
@@ -36,7 +89,7 @@
     ],
     "jobType": "Manager",
     "postedAt": "2026-11-06T21:31:23.000Z",
-    "scrapedAt": "2026-11-07T00:36:27.870Z"
+    "scrapedAt": "2026-11-07T09:34:51.280Z"
   },
   {
     "id": "greenhouse:gitlab-8924923002",
@@ -52,7 +105,7 @@
       "Data"
     ],
     "postedAt": "2026-11-02T06:44:11.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:coinbase-8047150",
@@ -63,12 +116,12 @@
     "location": "Remote - USA",
     "remote": true,
     "url": "https://www.coinbase.com/careers/positions/8047150?gh_jid=8047150",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Finance Analytics builds Coinbase's financial data and reporting foundations so Finance, Accounting/Controllership, Treasury and FP&A can run accurate, timely and auditable operations. We sit at the intersection of data engineering, data science and business analytics: we own the source-of-truth financial datasets in Snowflake/Databricks, the pipelines that produce them, and the reconciliation, month-end close, safeguarding and reporting workflows built on top. We partner closely with Product Engineering to make sure upstream financial data is complete, reconciled and traceable.\n What you'll be doing:\n As the Staff Analytics Engineer on Finance Analytics, this person sets the technical direction for Coinbase's financial data layer and works side by side with Accounting, Controllership and FP&A. They need to understand how the books are closed, audited and controlled, not just how the data moves:\n Partner with Accounting and FP&A to support month-end and quarter-end close, building the datasets, reconciliations and reporting that let us close the books accurately and on time.\n Make financial data and pipelines audit-ready: SOX-compliant controls, lineage, change management and evidence for internal and external auditors.\n Design and own the architecture of curated, well-documented source-of-truth financial datasets in Snowflake/Databricks that are correct, consistent and tie ou…",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” Learn more about working at Coinbase .\n Finance Analytics builds Coinbase's financial data and reporting foundations so Finance, Accounting/Controllership, Treasury and FP&A can run accurate, timely and auditable operations. We sit at the intersection of data engineering, data science and business analytics: we own the source-of-truth financial datasets in Snowflake/Databricks, the pipelines that produce them, and the reconciliation, month-end close, safeguarding and reporting workflows built on top. We partner closely with Product Engineering to make sure upstream financial data is complete, reconciled and traceable.\n What you'll be doing:\n As the Staff Analytics Engineer on Finance Analytics, this person sets the technical direction for Coinbase's financial data layer and works side by side with Accounting, Controllership and FP&A. They need to understand how the books are closed, audited and controlled, not just how the data moves:\n Partner with Accounting and FP&A to support month-end and quarter-end close, building the datasets, reconciliations and reporting that let us close the books accurately and on time.\n Make financial data and pipelines audit-ready: SOX-compliant controls, lineage, change management and evidence for internal and external auditors.\n Design and own the architecture of curated, well-documented source-of-truth financial datasets in Snowflake/Databricks that are correct, consistent and tie ou…",
     "tags": [
       "Engineering - Data"
     ],
     "postedAt": "2026-10-31T02:38:15.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:anthropic-5464234008",
@@ -84,7 +137,7 @@
       "Engineering & Design - Product"
     ],
     "postedAt": "2026-10-30T23:34:18.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "ashby:notion-73a71747-28d3-4dda-a718-77336056e687",
@@ -102,7 +155,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-10-28T18:42:47.956Z",
-    "scrapedAt": "2026-11-07T00:39:26.049Z"
+    "scrapedAt": "2026-11-07T09:37:45.253Z"
   },
   {
     "id": "greenhouse:anthropic-5462966008",
@@ -118,7 +171,7 @@
       "Security"
     ],
     "postedAt": "2026-10-26T22:47:43.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -134,7 +187,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -150,7 +203,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -166,7 +219,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -182,7 +235,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -198,7 +251,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -214,7 +267,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -230,7 +283,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -246,7 +299,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:pinterest-8209014",
@@ -262,7 +315,7 @@
       "Oversight Engineering"
     ],
     "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:airbnb-8224032",
@@ -278,7 +331,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:figma-6201407004",
@@ -294,7 +347,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-21T16:13:46.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -310,7 +363,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -326,7 +379,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -342,7 +395,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -358,7 +411,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -369,12 +422,12 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n This is a 12-week internship during summer 2027.\n You'll join the Analytics Engineering team within Platform, which builds and maintains the trusted data infrastructure that powers decision-making across Coinbase. As an Analytics Engineer Intern, you'll model complex data, build scalable pipelines, and deliver insights that help teams across the company unlock the full potential of our data. You will gain hands-on experience building production data systems at scale, mentorship from senior analytics engineers, and exposure to how data powers decision-making across a publicly traded crypto-native company.\n What you'll do:\n Build and maintain dimensional data models that transform raw data into clean, reliable datasets used by analysts, data scientists, and product teams across the organization.\n Develop data pipelines using SQL, ensuring data quality, freshness, and documentation meet production standards.\n Partner with cross-functional stakeholders to understand their data needs and deliver well-structured datasets or dashboards that enable self-serve analytics.\n Leverage generative AI tools to streamline data development, modeling, and documentation workflows.\n Investigate and resolve data quality issues, implementing tests and monitors that catch problems before they reach downstream consumers.\n Required Skills and Experience:\n Currently pursuing a degree in computer science…",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” Learn more about working at Coinbase .\n This is a 12-week internship during summer 2027.\n You'll join the Analytics Engineering team within Platform, which builds and maintains the trusted data infrastructure that powers decision-making across Coinbase. As an Analytics Engineer Intern, you'll model complex data, build scalable pipelines, and deliver insights that help teams across the company unlock the full potential of our data. You will gain hands-on experience building production data systems at scale, mentorship from senior analytics engineers, and exposure to how data powers decision-making across a publicly traded crypto-native company.\n What you'll do:\n Build and maintain dimensional data models that transform raw data into clean, reliable datasets used by analysts, data scientists, and product teams across the organization.\n Develop data pipelines using SQL, ensuring data quality, freshness, and documentation meet production standards.\n Partner with cross-functional stakeholders to understand their data needs and deliver well-structured datasets or dashboards that enable self-serve analytics.\n Leverage generative AI tools to streamline data development, modeling, and documentation workflows.\n Investigate and resolve data quality issues, implementing tests and monitors that catch problems before they reach downstream consumers.\n Required Skills and Experience:\n Currently pursuing a degree in computer science…",
     "tags": [
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -385,12 +438,12 @@
     "location": "Hybrid - San Francisco, CA",
     "remote": false,
     "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n This is a 12-week internship during summer 2027.\n As a Data Engineer Intern within the Platform product group, you'll partner with analytics engineering to build and maintain the data pipelines and infrastructure that power insights across Coinbase. You'll work alongside senior engineers and cross-functional partners in product and engineering to ensure data accuracy, scalability, and accessibility for analytical and machine learning use cases.\n What you'll do:\n Build and maintain data pipelines that ensure data integrity and accessibility for analytics and machine learning workloads\n Support the development of scalable data infrastructure using Python and cloud-based technologies\n Integrate and manage data from multiple sources, including internal systems and external APIs\n Contribute to analytical deep dives with senior team members, translating findings into clear documentation and recommendations\n Learn and apply data engineering best practices including data governance, security, and performance optimization\n Required Skills and Experience:\n Completed or in-progress coursework in Computer Science, Data Engineering, or equivalent experience with demonstrated programming proficiency in Python, including data structures and algorithms\n Hands-on experience writing SQL for data analysis and working with relational database concepts\n Familiarity with cloud platforms (AWS, GCP,…",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” Learn more about working at Coinbase .\n This is a 12-week internship during summer 2027.\n As a Data Engineer Intern within the Platform product group, you'll partner with analytics engineering to build and maintain the data pipelines and infrastructure that power insights across Coinbase. You'll work alongside senior engineers and cross-functional partners in product and engineering to ensure data accuracy, scalability, and accessibility for analytical and machine learning use cases.\n What you'll do:\n Build and maintain data pipelines that ensure data integrity and accessibility for analytics and machine learning workloads\n Support the development of scalable data infrastructure using Python and cloud-based technologies\n Integrate and manage data from multiple sources, including internal systems and external APIs\n Contribute to analytical deep dives with senior team members, translating findings into clear documentation and recommendations\n Learn and apply data engineering best practices including data governance, security, and performance optimization\n Required Skills and Experience:\n Completed or in-progress coursework in Computer Science, Data Engineering, or equivalent experience with demonstrated programming proficiency in Python, including data structures and algorithms\n Hands-on experience writing SQL for data analysis and working with relational database concepts\n Familiarity with cloud platforms (AWS, GCP,…",
     "tags": [
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -401,12 +454,12 @@
     "location": "Remote - USA",
     "remote": true,
     "url": "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Coinbase is building the future of institutional trading as part of the Everything Exchange, powering the systems that let the world's largest financial institutions trade across markets with speed, depth, and trust. As a Senior Data Engineer, Market Data on the Institutional Markets team, you'll build and operate the systems that capture, normalize, and distribute real-time market data across Coinbase at low latency - the feed handlers, venue connectors, and distribution layer that form the backbone of a unified trading platform.\n What you'll do:\n Build and maintain market data components including feed handlers, normalization pipelines, distribution systems, and venue connectivity.\n Design and implement low-latency, high-throughput services for real-time market data consumed by trading systems across the platform.\n Drive reliability and performance improvements through observability, on-call participation, and incident response.\n Write high-quality, well-tested code and contribute to engineering standards on a lean team.\n Partner with engineers, product managers, and cross-functional stakeholders to deliver market data capabilities that support Coinbase's institutional trading roadmap.\n Required Skills and Experience:\n 3+ years of backend engineering experience building and maintaining production low-latency systems.\n Hands-on experience with at least one area of market data…",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” Learn more about working at Coinbase .\n Coinbase is building the future of institutional trading as part of the Everything Exchange, powering the systems that let the world's largest financial institutions trade across markets with speed, depth, and trust. As a Senior Data Engineer, Market Data on the Institutional Markets team, you'll build and operate the systems that capture, normalize, and distribute real-time market data across Coinbase at low latency - the feed handlers, venue connectors, and distribution layer that form the backbone of a unified trading platform.\n What you'll do:\n Build and maintain market data components including feed handlers, normalization pipelines, distribution systems, and venue connectivity.\n Design and implement low-latency, high-throughput services for real-time market data consumed by trading systems across the platform.\n Drive reliability and performance improvements through observability, on-call participation, and incident response.\n Write high-quality, well-tested code and contribute to engineering standards on a lean team.\n Partner with engineers, product managers, and cross-functional stakeholders to deliver market data capabilities that support Coinbase's institutional trading roadmap.\n Required Skills and Experience:\n 3+ years of backend engineering experience building and maintaining production low-latency systems.\n Hands-on experience with at least one area of market data…",
     "tags": [
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -417,12 +470,12 @@
     "location": "Remote - USA",
     "remote": true,
     "url": "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Coinbase is building the future of institutional trading as part of the Everything Exchange, powering the systems that let the world's largest financial institutions trade across markets with speed, depth, and trust. As a Staff Data Engineer, Market Data on the Institutional Markets team, you'll architect, build, and own the systems that generate, capture, normalize, and distribute real-time market data across Coinbase at low latency - the ticker plant and distribution backbone of a unified trading platform - while leading a lean, high-impact team. It's a rare chance to architect market data infrastructure from the ground up, with the ownership of a startup and the reach of Coinbase.\n What you'll do:\n Build and operate market data components: feed handlers, normalization, distribution, and venue connectivity.\n Design low-latency, high-throughput systems for real-time market data used by trading systems.\n Strengthen reliability and performance by contributing to observability, on-call, and incident response.\n Write high-quality, well-tested code and raise the quality bar on a lean team.\n Partner with engineers, product, and cross-functional stakeholders to deliver market data capabilities.\n Required Skills and Experience:\n 5+ years of backend engineering, with experience building and maintaining production low-latency systems.\n Hands-on experience with market data systems (feed…",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” Learn more about working at Coinbase .\n Coinbase is building the future of institutional trading as part of the Everything Exchange, powering the systems that let the world's largest financial institutions trade across markets with speed, depth, and trust. As a Staff Data Engineer, Market Data on the Institutional Markets team, you'll architect, build, and own the systems that generate, capture, normalize, and distribute real-time market data across Coinbase at low latency - the ticker plant and distribution backbone of a unified trading platform - while leading a lean, high-impact team. It's a rare chance to architect market data infrastructure from the ground up, with the ownership of a startup and the reach of Coinbase.\n What you'll do:\n Build and operate market data components: feed handlers, normalization, distribution, and venue connectivity.\n Design low-latency, high-throughput systems for real-time market data used by trading systems.\n Strengthen reliability and performance by contributing to observability, on-call, and incident response.\n Write high-quality, well-tested code and raise the quality bar on a lean team.\n Partner with engineers, product, and cross-functional stakeholders to deliver market data capabilities.\n Required Skills and Experience:\n 5+ years of backend engineering, with experience building and maintaining production low-latency systems.\n Hands-on experience with market data systems (feed…",
     "tags": [
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:affirm-7916080003",
@@ -438,7 +491,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-08-20T13:43:45.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -458,7 +511,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-11-07T00:39:25.238Z"
+    "scrapedAt": "2026-11-07T09:37:44.491Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -477,7 +530,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-11-07T00:39:26.049Z"
+    "scrapedAt": "2026-11-07T09:37:45.253Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -493,7 +546,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:stripe-8112043",
@@ -509,7 +562,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-08-06T14:27:44.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -525,7 +578,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -541,7 +594,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:affirm-7813362003",
@@ -557,7 +610,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-07-28T10:52:21.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -568,12 +621,12 @@
     "location": "Remote - USA",
     "remote": true,
     "url": "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n The Data Platform team builds and operates the systems that centralize all of Coinbase's internal and third-party data, making it easy for teams across the company to access, process, and transform that data for analytics, machine learning, and powering end-user experiences. As an engineer on the team you'll contribute across the full spectrum of our systems, from foundational processing and storage to scalable pipelines to the frameworks, tools, and internal applications that make data easily and efficiently available.\n We have a number of open roles within the Data Platform team, each with a different focus area; read on to see if you'll be a good fit as a Data Engineering Platform Engineer.\n This role sits between our platform and the analysts, data scientists, and data engineers who use it every day. You'll build the SDKs, self-service apps, and abstractions that let thousands of pipelines and analyses run without those users needing to understand the plumbing underneath.\n What you'll do:\n Build clean software abstractions and modular, reusable components that let us support thousands of pipelines and beyond as we scale.\n Build and maintain data integration and processing SDKs used by data teams and internal services across Coinbase.\n Design and build self-service applications that let analysts and data scientists create, manage, and troubleshoot their own pipelines withou…",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” Learn more about working at Coinbase .\n The Data Platform team builds and operates the systems that centralize all of Coinbase's internal and third-party data, making it easy for teams across the company to access, process, and transform that data for analytics, machine learning, and powering end-user experiences. As an engineer on the team you'll contribute across the full spectrum of our systems, from foundational processing and storage to scalable pipelines to the frameworks, tools, and internal applications that make data easily and efficiently available.\n We have a number of open roles within the Data Platform team, each with a different focus area; read on to see if you'll be a good fit as a Data Engineering Platform Engineer.\n This role sits between our platform and the analysts, data scientists, and data engineers who use it every day. You'll build the SDKs, self-service apps, and abstractions that let thousands of pipelines and analyses run without those users needing to understand the plumbing underneath.\n What you'll do:\n Build clean software abstractions and modular, reusable components that let us support thousands of pipelines and beyond as we scale.\n Build and maintain data integration and processing SDKs used by data teams and internal services across Coinbase.\n Design and build self-service applications that let analysts and data scientists create, manage, and troubleshoot their own pipelines withou…",
     "tags": [
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -589,7 +642,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -605,7 +658,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -621,7 +674,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -637,7 +690,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -653,7 +706,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -669,7 +722,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:robinhood-5616144",
@@ -685,7 +738,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2024-01-23T00:26:13.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -701,7 +754,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T00:36:35.892Z"
+    "scrapedAt": "2026-11-07T09:34:59.211Z"
   },
   {
     "id": "workday:nvidia-JR2028588",
@@ -715,7 +768,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T00:36:35.892Z"
+    "scrapedAt": "2026-11-07T09:34:59.211Z"
   },
   {
     "id": "workday:nvidia-JR2028539",
@@ -729,7 +782,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T00:36:35.892Z"
+    "scrapedAt": "2026-11-07T09:34:59.211Z"
   },
   {
     "id": "workday:nvidia-JR2023850",
@@ -743,7 +796,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T00:36:35.892Z"
+    "scrapedAt": "2026-11-07T09:34:59.211Z"
   },
   {
     "id": "workday:nvidia-JR2026497",
@@ -757,7 +810,21 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T00:36:35.892Z"
+    "scrapedAt": "2026-11-07T09:34:59.211Z"
+  },
+  {
+    "id": "workday:nvidia-JR2029192",
+    "externalId": "nvidia:JR2029192",
+    "source": "workday",
+    "title": "Senior Machine Learning Data Pipeline Engineer",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "remote": false,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Data-Pipeline-Engineer_JR2029192",
+    "description": "",
+    "tags": [],
+    "postedAt": null,
+    "scrapedAt": "2026-11-07T09:34:59.211Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -771,7 +838,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T00:36:35.892Z"
+    "scrapedAt": "2026-11-07T09:34:59.211Z"
   },
   {
     "id": "workday:nvidia-JR2014259",
@@ -785,7 +852,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T00:36:35.892Z"
+    "scrapedAt": "2026-11-07T09:34:59.211Z"
   },
   {
     "id": "workday:salesforce-JR366234",
@@ -799,7 +866,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T00:36:35.892Z"
+    "scrapedAt": "2026-11-07T09:34:59.211Z"
   },
   {
     "id": "workday:adobe-R171875",
@@ -813,7 +880,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T00:36:35.892Z"
+    "scrapedAt": "2026-11-07T09:34:59.211Z"
   },
   {
     "id": "workday:adobe-R172115",
@@ -827,7 +894,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T00:36:35.892Z"
+    "scrapedAt": "2026-11-07T09:34:59.211Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -841,7 +908,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T00:36:35.892Z"
+    "scrapedAt": "2026-11-07T09:34:59.211Z"
   },
   {
     "id": "workday:salesforce-JR363793",
@@ -855,7 +922,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T00:37:40.108Z"
+    "scrapedAt": "2026-11-07T09:36:01.942Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -869,7 +936,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T00:37:40.108Z"
+    "scrapedAt": "2026-11-07T09:36:01.942Z"
   },
   {
     "id": "workday:salesforce-JR359930",
@@ -883,6 +950,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T00:38:11.212Z"
+    "scrapedAt": "2026-11-07T09:36:31.459Z"
   }
 ]

@@ -1,5 +1,58 @@
 [
   {
+    "id": "jobicy:159470",
+    "externalId": "159470",
+    "source": "jobicy",
+    "title": "Lead Data Engineer",
+    "company": "Oddball",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/02/8c034287ffd7b6474f90645b1c72e60a.jpeg",
+    "location": "USA",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/159470-lead-data-engineer",
+    "description": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality software to the federal space.\n This position is contingent upon contract award.\n We’re looking for a Lead Data Engineer to join our VA team, setting the technical approach for moving legacy data warehouse data and pipelines onto an Azure and Databricks lakehouse.\n What you'll be doing:\n Set the technical approach for migrating data and pipelines onto the lakehouse\n Guide migration teams on patterns, reconciliation, and quality gates\n Design reusable migration pipelines using Azure Data Factory and Azure Databricks\n Define how source and target data are reconciled to confirm accuracy\n Resolve the hardest pipeline and performance problems\n Mentor data engineers and review their work\n Partner with product, QA, and platform teams\n What you’ll bring:\n Data engineering leadership on large migration or modernization programs\n Deep experience with Databricks or Spark and Azure Data Factory\n Strong SQL and Python skills\n Experience moving legacy ETL and data warehouse workloads to the cloud\n Understanding of lakehouse and medallion architecture, including Delta\n Experience in federal or regulated data environments is a plus\n Thrives in a remote, collaborative Agile environment and genuinely enjoys leading and mentoring engineers\n Communicates clearly and openly, whether setting technical direction or aligning with the customer\n Perform other related duties as assigned\n Requirements:\n Applicants must be authorized to work in the United States. In alignment with federal contract requirements, certain roles may also require U.S. citizenship and the ability to obtain and maintain a federal background investigation and/or a security clearance.\n Education:\n Bachel…",
+    "tags": [
+      "Data Science & Analytics",
+      "Senior"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-11-07T06:08:03.000Z",
+    "scrapedAt": "2026-11-07T09:34:51.361Z"
+  },
+  {
+    "id": "arbeitnow:staff-data-engineer-agentic-applications-bristol-325390",
+    "externalId": "staff-data-engineer-agentic-applications-bristol-325390",
+    "source": "arbeitnow",
+    "title": "Staff Data Engineer – Agentic Applications",
+    "company": "Graphcore",
+    "location": "Bristol",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-data-engineer-agentic-applications-bristol-325390",
+    "description": "<p><strong><span data-contrast=\"auto\">About us</span></strong><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">Graphcore is one of the world's leading innovators in Artificial Intelligence compute. It is developing hardware, software and systems infrastructure that will unlock the next generation of AI breakthroughs and power the widespread adoption of AI solutions across every industry.</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">As part of the SoftBank Group, Graphcore is a member of an elite family of companies responsible for some of the world's most transformative technologies. Together, they share a bold vision: to enable Artificial Super Intelligence and ensure its benefits are accessible to everyone.</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">Graphcore's teams are drawn from diverse backgrounds and bring a broad range of skills and perspectives. A melting pot of AI research specialists, silicon designers, software engineers and systems architects, Graphcore brings together deep expertise to solve complex problems and deliver meaningful progress in AI compute.</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><strong><span data-contrast=\"auto\">Job Summary</span></strong><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">Reporting to the Head of Data &amp; Transformation, the Staff Data Engineer – Agentic Applications is a senior individual contributor responsible for designing, building and operating Python-based web applications, agentic workflows and supporting data services for Graphcore’s business teams. The role combines strong data engineering foundations with hands-on application development, using AI agents, trusted data and business system integrations to improve decision-making and automate operational workflows.</span><span data-ccp-props=\"{}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">Depending on the use case, you will…",
+    "tags": [
+      "Data & Strategic Projects"
+    ],
+    "postedAt": "2026-11-07T03:55:16.000Z",
+    "scrapedAt": "2026-11-07T09:34:51.280Z"
+  },
+  {
+    "id": "arbeitnow:senior-analytics-engineer-marketing-growth-berlin-317526",
+    "externalId": "senior-analytics-engineer-marketing-growth-berlin-317526",
+    "source": "arbeitnow",
+    "title": "Senior Analytics Engineer - Marketing & Growth",
+    "company": "Pergolux",
+    "location": "Berlin | Global Team",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/pergolux/senior-analytics-engineer-marketing-growth-berlin-317526",
+    "description": "Senior Analytics Engineer Marketing & Growth : You will own and architect the systems and definitions that determine how every euro of marketing spend is measured, audited, and optimized. Your work will directly shape how we understand acquisition performance, allocate budgets, and scale efficiently across markets. You will join a lean, 4 person team working on mission-critical initiatives in a fast-growing, design-driven environment.\n At PERGOLUX , we value integrity, innovation, ambition, and unity — and we build systems with the same care and precision as our products.\n What You’ll Do Build and own the Single Source of Truth for Marketing and Storefront, defining CAC, Engagement, and core performance metrics with clarity, consistency, and auditability.\n Implement Multi-Touch Attribution models and lay the groundwork for Marketing Mix Models that inform budget allocation and channel-level investment.\n Expand Semantic model with relevant context and metrics that enables conversational analytics and shortens the time to insight\n Design and build Data Health metrics that bring visibility to the quality, accuracy, freshness and completeness of our marketing and storefront data\n Partner closely with marketing, storefront, and leadership stakeholders to drive faster, smarter decisions.\n What You’ll Bring Minimum 5 years experience in analytics engineering roles\n A strong, proactive ownership mindset with the confidence to challenge requests that introduce ambiguity, technical debt, or low business impact.\n Expert proficiency in SQL, dbt, and data modeling, with experience building durable, modular systems that scale with the business. (Stack: Airbyte, Python, Snowflake, Looker)\n Prior experience building Multi-touch Attribution Models or Marketing Mix Models (MMM)\n Deep understanding of marketing analytics concepts, including ROAS, CPA, MER, attribution logic, CRM data structures, and channel mechanics.\n Professional working proficiency in English, enabling clear commu…",
+    "tags": [
+      "Data & BI",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-11-07T03:40:27.000Z",
+    "scrapedAt": "2026-11-07T09:34:51.280Z"
+  },
+  {
     "id": "arbeitnow:remote-senior-oracle-data-engineer-karlsruhe-457351",
     "externalId": "remote-senior-oracle-data-engineer-karlsruhe-457351",
     "source": "arbeitnow",
@@ -17,7 +70,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-11-06T21:31:24.000Z",
-    "scrapedAt": "2026-11-07T00:36:27.870Z"
+    "scrapedAt": "2026-11-07T09:34:51.280Z"
   },
   {
     "id": "arbeitnow:manager-customer-data-engineering-change-it-customer-services-amsterdam-6959",
@@ -36,7 +89,7 @@
     ],
     "jobType": "Manager",
     "postedAt": "2026-11-06T21:31:23.000Z",
-    "scrapedAt": "2026-11-07T00:36:27.870Z"
+    "scrapedAt": "2026-11-07T09:34:51.280Z"
   },
   {
     "id": "greenhouse:gitlab-8924923002",
@@ -52,7 +105,7 @@
       "Data"
     ],
     "postedAt": "2026-11-02T06:44:11.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:coinbase-8047150",
@@ -63,12 +116,12 @@
     "location": "Remote - USA",
     "remote": true,
     "url": "https://www.coinbase.com/careers/positions/8047150?gh_jid=8047150",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .\n Finance Analytics builds Coinbase's financial data and reporting foundations so Finance, Accounting/Controllership, Treasury and FP&A can run accurate, timely and auditable operations. We sit at the intersection of data engineering, data science and business analytics: we own the source-of-truth financial datasets in Snowflake/Databricks, the pipelines that produce them, and the reconciliation, month-end close, safeguarding and reporting workflows built on top. We partner closely with Product Engineering to make sure upstream financial data is complete, reconciled and traceable.\n What you'll be doing:\n As the Staff Analytics Engineer on Finance Analytics, this person sets the technical direction for Coinbase's financial data layer and works side by side with Accounting, Controllership and FP&A. They need to understand how the books are closed, audited and controlled, not just how the data moves:\n Partner with Accounting and FP&A to support month-end and quarter-end close, building the datasets, reconciliations and reporting that let us close the books accurately and on time.\n Make financial data and pipelines audit-ready: SOX-compliant controls, lineage, change management and evidence for internal and external auditors.\n Design and own the architecture of curated, well-documented source-of-truth financial datasets in Snowflake/Databricks that are correct, consistent and tie ou…",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” Learn more about working at Coinbase .\n Finance Analytics builds Coinbase's financial data and reporting foundations so Finance, Accounting/Controllership, Treasury and FP&A can run accurate, timely and auditable operations. We sit at the intersection of data engineering, data science and business analytics: we own the source-of-truth financial datasets in Snowflake/Databricks, the pipelines that produce them, and the reconciliation, month-end close, safeguarding and reporting workflows built on top. We partner closely with Product Engineering to make sure upstream financial data is complete, reconciled and traceable.\n What you'll be doing:\n As the Staff Analytics Engineer on Finance Analytics, this person sets the technical direction for Coinbase's financial data layer and works side by side with Accounting, Controllership and FP&A. They need to understand how the books are closed, audited and controlled, not just how the data moves:\n Partner with Accounting and FP&A to support month-end and quarter-end close, building the datasets, reconciliations and reporting that let us close the books accurately and on time.\n Make financial data and pipelines audit-ready: SOX-compliant controls, lineage, change management and evidence for internal and external auditors.\n Design and own the architecture of curated, well-documented source-of-truth financial datasets in Snowflake/Databricks that are correct, consistent and tie ou…",
     "tags": [
       "Engineering - Data"
     ],
     "postedAt": "2026-10-31T02:38:15.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "greenhouse:anthropic-5464234008",
@@ -84,7 +137,7 @@
       "Engineering & Design - Product"
     ],
     "postedAt": "2026-10-30T23:34:18.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   },
   {
     "id": "ashby:notion-73a71747-28d3-4dda-a718-77336056e687",
@@ -102,7 +155,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-10-28T18:42:47.956Z",
-    "scrapedAt": "2026-11-07T00:39:26.049Z"
+    "scrapedAt": "2026-11-07T09:37:45.253Z"
   },
   {
     "id": "greenhouse:anthropic-5462966008",
@@ -118,54 +171,6 @@
       "Security"
     ],
     "postedAt": "2026-10-26T22:47:43.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
-  },
-  {
-    "id": "greenhouse:pinterest-8162539",
-    "externalId": "pinterest:8162539",
-    "source": "greenhouse",
-    "title": "Staff Software Engineer, Infrastructure Data Engineering",
-    "company": "Pinterest",
-    "location": "New York, NY, US; Remote, US",
-    "remote": true,
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8162539",
-    "description": "About Pinterest:\n Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.\n Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here .\n Pinterest is seeking a Staff Software Engineer to build the data systems that help teams understand and manage infrastructure usage and cost. You’ll lead the design and hands-on delivery of reliable data products, including pipelines, models, and services, that support infrastructure planning, cost attribution, and budget workflows. In this individual-contributor role, you’ll shape technical direction, navigate complex cross-team work, and make infrastructure data more accurate, consistent, and useful.\n What you’ll do:\n Set technical direction and help define a roadmap for reliable, scalable infrastructure data products\n Design, build, and operate production ingestion and transformation pipelines, data models, and services for infrastructure usage, cost, ownership, and planning\n Strengthen shared data products with clear contracts, automated qua…",
-    "tags": [
-      "Infrastructure and SRE"
-    ],
-    "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
-  },
-  {
-    "id": "greenhouse:reddit-8282760",
-    "externalId": "reddit:8282760",
-    "source": "greenhouse",
-    "title": "Analytics Engineer",
-    "company": "Reddit",
-    "location": "Remote - United States",
-    "remote": true,
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8282760",
-    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com .\n We are looking for a talented and driven individual to be a key part of our Analytics Engineering team within the Data Science organization. We are looking for someone who can work closely with Data Scientists and Engineers across diverse areas of the organization (Consumer, Ads, and Marketing) to curate, develop, and deploy the right data and analytic tooling to drive Reddit’s product forward and provide a data and tooling foundation that will last decades. Your work will empower thousands of your colleagues to improve the user experience and grow our consumer base.\n Successful candidates have a strong track record of understanding and deeply caring about the purpose of data to support business goals, and can act as an effective conduit between Data Producers and Data Consumers. This role sits at the intersection of Data Science and Data Engineering, and the ideal candidate has skills, experience, and passion in both areas.\n Responsibilities:\n Be a key contributor and collaborator to the success of data quality, performance, reliability, and automation initiatives.\n Manage a portfolio of data products that deliver high-quality, trustworthy data\n Develop and maintain robust data pipelines and workflows for data ingestion, processing, and transformation. Work closely with engineering to ensure the quality and reliability of these data pipelines.\n Develop and implement data quality checks, conduct QA and implement monitoring routines\n Create and manage new data integrations across internal and external systems\n Create t…",
-    "tags": [
-      "Data Science"
-    ],
-    "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
-  },
-  {
-    "id": "greenhouse:gitlab-8883003002",
-    "externalId": "gitlab:8883003002",
-    "source": "greenhouse",
-    "title": "Director, Analytics Engineering",
-    "company": "GitLab",
-    "location": "Remote, Canada; Remote, United States",
-    "remote": true,
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8883003002",
-    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.\n The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software.\n * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.\n An overview of this role\n As Director, Analytics Engineering, you'll lead a team of 8 and report to the VP of Data & Insights. You set direction across the data organization, stay close enough to the work to guide technical decisions credibly, and partner with Data Engineering, Data Science, IT, and business leaders.\nYou will have three mandates:\n Build trusted, AI-ready self-service. Deliver a semantic model that answers business questions correctly, with the telemetry, evals, and model flexibility to prove it and keep costs in check.\n Set the strategy for how GitLab accesses data. Own the data models, BI tools, and AI access pat…",
-    "tags": [
-      "Data"
-    ],
-    "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-11-07T00:36:28.522Z"
+    "scrapedAt": "2026-11-07T09:34:51.788Z"
   }
 ]
