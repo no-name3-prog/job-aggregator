@@ -1,42 +1,35 @@
 [
   {
-    "id": "arbeitnow:data-engineer-london-498959",
-    "externalId": "data-engineer-london-498959",
+    "id": "arbeitnow:senior-analytics-engineer-finance-426148",
+    "externalId": "senior-analytics-engineer-finance-426148",
     "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Solveintelligence",
-    "location": "London",
+    "title": "Senior Analytics Engineer - Finance",
+    "company": "mewssystems",
+    "location": "Unknown",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/solveintelligence/data-engineer-london-498959",
-    "description": "💡 About Us We're the fastest-growing startup transforming the IP industry.\n Traction: 20-30% MoM revenue growth; selling to 700+ global IP teams (DLA Piper, tech boutiques, and global enterprises).\n Proven Value: Users report 50-90% efficiency gains using our AI platform.\n Backing: Recently featured in Sifted following our $40M Series B announcement, bringing our total funding to $55M from elite investors including Y Combinator, 20VC, Visionaries, Microsoft and Thomson Reuters.\n 🏗️ About the role We’re hiring a data engineer to build the ingestion and search systems behind Solve Intelligence’s AI products.\n Our sources include global patent literature, case law, technical standards and contributions, scientific databases, academic papers, and content from across the web. The data spans structured records, documents, images, audio and video. You’ll work across bulk ingestion and on-demand retrieval, making this information searchable and useful in our products\n You’ll own systems from source acquisition through to serving queries. The work includes:\n Large-scale ingestion. Build and operate high-throughput, resumable pipelines for large datasets, with efficient incremental updates, monitoring and recovery from failures.\n Document processing and data quality. Extract useful content from complex documents and other formats. Handle malformed records and changing schemas, and validate outputs while preserving structure and metadata.\n Search and serving. Build keyword, vector and structured search, and design schemas, indexes and partitioning for fast queries over tens to hundreds of millions of records.\n Connecting information across sources. Link patents, scientific records and supporting documents, preserve dates and versions, and make results traceable to their original sources.\n Performance engineering. Profile parsing, ingestion, database builds and queries throughout development, testing against representative datasets at realistic scale. Diagnose CPU, memory an…",
+    "url": "https://www.arbeitnow.com/jobs/companies/mewssystems/senior-analytics-engineer-finance-426148",
+    "description": "<div class=\"content-intro\"><h4><strong>Help make the world more hospitable </strong></h4>\n<p>The hospitality industry is uniquely human, and it deserves technology that’s just as inspiring as the people behind it. At Mews, we’re transforming the industry with a platform that helps hotels run smarter, move faster and create better guest experiences.</p>\n<p>You’ll work with smart, curious people who care deeply about what they do. You’ll have autonomy and the trust to make good decisions and move quickly. And you’ll enjoy a real sense of purpose as you see the impact of what we’re building.</p>\n<p>If you’re motivated by ownership, curiosity and meaningful impact, and are driven to deliver consistent high performance, you’ll feel at home here.</p>\n<h4><strong>About the role</strong></h4>\n<p>Let's get into the specifics. It’s impossible to capture every nuance of a role – especially at a rapidly growing company like Mews – but if we had to distil it into a job description (which we do because this is a job description), it would be this:</p></div><p data-renderer-start-pos=\"11\" data-local-id=\"93795b139292\">We're looking for a Senior Analytics Engineer to lead the data architecture behind our most business-critical financial work: billing, regulatory reporting (<span data-highlighted=\"true\" data-vc=\"highlighted-text\"><span class=\"_1mT5xdRAKS\"><span class=\"_0nmozVaHVx _2V7sgO2M4S _3BoeIDwZ7G _30zrXRyxdf _0ReiIH7zJH\" data-testid=\"definition-highlighter\">EMI</span></span></span>), <span data-highlighted=\"true\" data-vc=\"highlighted-text\"><span class=\"_1mT5xdRAKS\"><span class=\"_0nmozVaHVx _2V7sgO2M4S _3BoeIDwZ7G _30zrXRyxdf _0ReiIH7zJH\" data-testid=\"definition-highlighter\">SOX</span></span></span> compliance, financial forecasting and executive reporting. You'll design the data solutions that finance, payments and audit teams depend on, set the standards for how analytics work ships, and mentor others on the team.</p>\n<p data-renderer-start-pos=\"400\" data-local-id=\"04e5a5743…",
     "tags": [
-      "Engineering",
-      "Full Time"
+      "Operations"
     ],
-    "jobType": "Full Time",
-    "postedAt": "2026-11-07T12:40:13.000Z",
-    "scrapedAt": "2026-11-07T17:21:57.773Z"
+    "postedAt": "2026-11-07T18:55:23.000Z",
+    "scrapedAt": "2026-11-07T21:24:09.685Z"
   },
   {
-    "id": "arbeitnow:remote-data-engineer-germany-76259",
-    "externalId": "remote-data-engineer-germany-76259",
+    "id": "arbeitnow:senior-analytics-engineer-finance-48422",
+    "externalId": "senior-analytics-engineer-finance-48422",
     "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Huzzle",
-    "location": "Germany",
-    "remote": true,
-    "url": "https://www.arbeitnow.com/jobs/companies/huzzle/remote-data-engineer-germany-76259",
-    "description": "About Huzzle At Huzzle, we connect exceptional talent with exciting opportunities at leading companies across the UK, US, Canada, Europe, and Australia. We work with a diverse range of clients, including startups, digital agencies, and technology-driven businesses across industries such as SaaS, MarTech, FinTech, and AI.\n Unlike traditional outsourcing agencies, we place you directly with our clients, where you become an integral, in-house member of their team.\n Job Type: Full-time\n Location: Remote\n Job Summary As a Data Engineer, you will play a key role in designing, developing, and maintaining scalable data pipelines and infrastructure. You will collaborate with data analysts, data scientists, software engineers, and business stakeholders to ensure data is reliable, accessible, and of high quality across the organisation.\n This is a great opportunity for professionals who enjoy tackling complex data challenges and building robust systems that power business intelligence, analytics, and machine learning initiatives.\n Key Responsibilities Design, build, and maintain scalable ETL and ELT data pipelines. Develop and optimize data architectures, databases, and data warehouses. Integrate data from various sources, APIs, and third-party platforms. Maintain data quality, accuracy, consistency, reliability, and security. Monitor, troubleshoot, and improve data pipelines and workflows. Work closely with analytics, engineering, and business teams to identify and meet data requirements. Establish data governance standards and best practices for data management. Improve data storage, processing speeds, and query performance. Support business intelligence, reporting, and analytics projects. Maintain documentation of data models, workflows, and technical processes. Requirements\n 2+ years of experience in data engineering, data warehousing, or a similar field. Strong SQL skills and a solid understanding of database management. Proficiency in Python, Java, Scala, or other relev…",
+    "title": "Senior Analytics Engineer - Finance",
+    "company": "mewssystems",
+    "location": "Unknown",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/mewssystems/senior-analytics-engineer-finance-48422",
+    "description": "<div class=\"content-intro\"><h4><strong>Help make the world more hospitable </strong></h4>\n<p>The hospitality industry is uniquely human, and it deserves technology that’s just as inspiring as the people behind it. At Mews, we’re transforming the industry with a platform that helps hotels run smarter, move faster and create better guest experiences.</p>\n<p>You’ll work with smart, curious people who care deeply about what they do. You’ll have autonomy and the trust to make good decisions and move quickly. And you’ll enjoy a real sense of purpose as you see the impact of what we’re building.</p>\n<p>If you’re motivated by ownership, curiosity and meaningful impact, and are driven to deliver consistent high performance, you’ll feel at home here.</p>\n<h4><strong>About the role</strong></h4>\n<p>Let's get into the specifics. It’s impossible to capture every nuance of a role – especially at a rapidly growing company like Mews – but if we had to distil it into a job description (which we do because this is a job description), it would be this:</p></div><p data-renderer-start-pos=\"11\" data-local-id=\"93795b139292\">We're looking for a Senior Analytics Engineer to lead the data architecture behind our most business-critical financial work: billing, regulatory reporting (<span data-highlighted=\"true\" data-vc=\"highlighted-text\"><span class=\"_1mT5xdRAKS\"><span class=\"_0nmozVaHVx _2V7sgO2M4S _3BoeIDwZ7G _30zrXRyxdf _0ReiIH7zJH\" data-testid=\"definition-highlighter\">EMI</span></span></span>), <span data-highlighted=\"true\" data-vc=\"highlighted-text\"><span class=\"_1mT5xdRAKS\"><span class=\"_0nmozVaHVx _2V7sgO2M4S _3BoeIDwZ7G _30zrXRyxdf _0ReiIH7zJH\" data-testid=\"definition-highlighter\">SOX</span></span></span> compliance, financial forecasting and executive reporting. You'll design the data solutions that finance, payments and audit teams depend on, set the standards for how analytics work ships, and mentor others on the team.</p>\n<p data-renderer-start-pos=\"400\" data-local-id=\"04e5a5743…",
     "tags": [
-      "Internet",
-      "Data",
-      "Remote",
-      "Full time",
-      "mid-senior"
+      "Operations"
     ],
-    "jobType": "Full time",
-    "postedAt": "2026-11-07T12:20:09.000Z",
-    "scrapedAt": "2026-11-07T17:21:57.773Z"
+    "postedAt": "2026-11-07T18:55:23.000Z",
+    "scrapedAt": "2026-11-07T21:24:09.685Z"
   },
   {
     "id": "greenhouse:gitlab-8924923002",
@@ -52,7 +45,7 @@
       "Data"
     ],
     "postedAt": "2026-11-02T06:44:11.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:coinbase-8047150",
@@ -68,7 +61,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-10-31T02:38:15.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:anthropic-5464234008",
@@ -84,7 +77,7 @@
       "Engineering & Design - Product"
     ],
     "postedAt": "2026-10-30T23:34:18.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "ashby:notion-73a71747-28d3-4dda-a718-77336056e687",
@@ -102,7 +95,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-10-28T18:42:47.956Z",
-    "scrapedAt": "2026-11-07T17:25:01.318Z"
+    "scrapedAt": "2026-11-07T21:26:59.599Z"
   },
   {
     "id": "greenhouse:anthropic-5462966008",
@@ -118,7 +111,7 @@
       "Security"
     ],
     "postedAt": "2026-10-26T22:47:43.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -134,7 +127,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -150,7 +143,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -166,7 +159,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -182,7 +175,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -198,7 +191,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -214,7 +207,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -230,7 +223,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -246,7 +239,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:pinterest-8209014",
@@ -262,7 +255,7 @@
       "Oversight Engineering"
     ],
     "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:airbnb-8224032",
@@ -278,7 +271,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:figma-6201407004",
@@ -294,7 +287,7 @@
       "Engineering"
     ],
     "postedAt": "2026-09-21T16:13:46.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -310,7 +303,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -326,7 +319,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -342,7 +335,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -358,7 +351,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -374,7 +367,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -390,7 +383,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -406,7 +399,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -422,7 +415,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:affirm-7916080003",
@@ -438,7 +431,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-08-20T13:43:45.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -458,7 +451,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-11-07T17:25:00.269Z"
+    "scrapedAt": "2026-11-07T21:26:56.354Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -477,7 +470,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-11-07T17:25:01.318Z"
+    "scrapedAt": "2026-11-07T21:26:59.599Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -493,7 +486,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:stripe-8112043",
@@ -509,7 +502,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-08-06T14:27:44.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -525,7 +518,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -541,7 +534,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:affirm-7813362003",
@@ -557,7 +550,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-07-28T10:52:21.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -573,7 +566,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -589,7 +582,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -605,7 +598,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -621,7 +614,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -637,7 +630,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -653,7 +646,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -669,7 +662,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
   },
   {
     "id": "greenhouse:robinhood-5616144",
@@ -685,7 +678,23 @@
       "ENG Data Science"
     ],
     "postedAt": "2024-01-23T00:26:13.000Z",
-    "scrapedAt": "2026-11-07T17:21:58.238Z"
+    "scrapedAt": "2026-11-07T21:24:10.422Z"
+  },
+  {
+    "id": "workday:workday-JR-0111341",
+    "externalId": "workday:JR-0111341",
+    "source": "workday",
+    "title": "Senior Software Engineer (Data Engineering)",
+    "company": "Workday",
+    "location": "3 Locations",
+    "remote": false,
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Senior-Software-Engineer--Data-Engineering-_JR-0111341",
+    "description": "",
+    "tags": [
+      "Flex"
+    ],
+    "postedAt": null,
+    "scrapedAt": "2026-11-07T21:24:17.497Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -701,7 +710,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T17:22:04.815Z"
+    "scrapedAt": "2026-11-07T21:24:17.497Z"
   },
   {
     "id": "workday:nvidia-JR2028588",
@@ -715,7 +724,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T17:22:04.815Z"
+    "scrapedAt": "2026-11-07T21:24:17.497Z"
   },
   {
     "id": "workday:nvidia-JR2028539",
@@ -729,7 +738,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T17:22:04.815Z"
+    "scrapedAt": "2026-11-07T21:24:17.497Z"
   },
   {
     "id": "workday:nvidia-JR2023850",
@@ -743,7 +752,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T17:22:04.815Z"
+    "scrapedAt": "2026-11-07T21:24:17.497Z"
   },
   {
     "id": "workday:nvidia-JR2026497",
@@ -757,7 +766,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T17:22:04.815Z"
+    "scrapedAt": "2026-11-07T21:24:17.497Z"
   },
   {
     "id": "workday:nvidia-JR2029192",
@@ -771,7 +780,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T17:22:04.815Z"
+    "scrapedAt": "2026-11-07T21:24:17.497Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -785,7 +794,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T17:22:04.815Z"
+    "scrapedAt": "2026-11-07T21:24:17.497Z"
   },
   {
     "id": "workday:nvidia-JR2014259",
@@ -799,7 +808,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T17:22:04.815Z"
+    "scrapedAt": "2026-11-07T21:24:17.497Z"
   },
   {
     "id": "workday:salesforce-JR366234",
@@ -813,7 +822,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T17:22:04.815Z"
+    "scrapedAt": "2026-11-07T21:24:17.497Z"
   },
   {
     "id": "workday:adobe-R171875",
@@ -827,7 +836,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T17:22:04.815Z"
+    "scrapedAt": "2026-11-07T21:24:17.497Z"
   },
   {
     "id": "workday:adobe-R172115",
@@ -841,7 +850,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T17:22:04.815Z"
+    "scrapedAt": "2026-11-07T21:24:17.497Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -855,7 +864,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T17:22:04.815Z"
+    "scrapedAt": "2026-11-07T21:24:17.497Z"
   },
   {
     "id": "workday:salesforce-JR363793",
@@ -869,7 +878,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T17:23:08.764Z"
+    "scrapedAt": "2026-11-07T21:25:17.837Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -883,7 +892,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T17:23:08.764Z"
+    "scrapedAt": "2026-11-07T21:25:17.837Z"
   },
   {
     "id": "workday:salesforce-JR359930",
@@ -897,6 +906,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-07T17:23:39.325Z"
+    "scrapedAt": "2026-11-07T21:25:46.961Z"
   }
 ]
