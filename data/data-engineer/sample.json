@@ -1,38 +1,40 @@
 [
   {
-    "id": "jobicy:159828",
-    "externalId": "159828",
+    "id": "jobicy:154934",
+    "externalId": "154934",
     "source": "jobicy",
-    "title": "Senior Data Engineer",
-    "company": "LendingTree",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/03/a087cb002c7df273f6942219c6d4ae5e.jpeg",
-    "location": "USA",
+    "title": "Staff Data Engineer",
+    "company": "Jobber",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/135a74b7-221.jpeg",
+    "location": "Canada",
     "remote": true,
-    "url": "https://jobicy.com/jobs/159828-senior-data-engineer-9",
-    "description": "Candidates must be legally authorized to work in the United States. LendingTree and its affiliates (“LendingTree”) will not provide or assume sponsorship for employment visas for this position, now or in the future.\n The Opportunity\nAs a Data Engineer at LendingTree, you’ll build the pipelines, models, and data services behind reporting, analytics, and data science across our lending and insurance businesses. You’ll tackle complex integration and modeling challenges, improve reliability and cost efficiency, and apply practical AI tools to help the team deliver better data solutions faster.\n How You’ll Make an Impact\n Build and operate scalable batch and real-time streaming pipelines, ETL/ELT workflows, and database applications across multiple lines of business, with clear plans for schema changes, retries, and recovery.\n Design dimensional models and reusable datasets for business, analytics, and data science needs. Perform complex data analysis to validate business rules, identify trends and anomalies, and uncover opportunities.\n Own the reliability and efficiency of your data solutions: automate quality checks, monitor freshness, tune performance and compute costs, and participate in the on-call rotation to resolve incidents and prevent recurrence.\n Create reusable frameworks and development patterns that improve delivery speed and consistency. Apply automated testing, code review, and repeatable deployments; maintain technical standards, runbooks, and learning materials.\n Partner with business users and engineering teams to clarify requirements, resolve issues, and contribute to the data engineering roadmap, including platform capabilities, priorities, technical trade-offs, and delivery estimates.\n Apply AI tools to development, testing, documentation, and troubleshooting. Validate generated code and results, protect sensitive data, and assess whether these tools improve quality and reduce delivery time.\n Who You’ll Work With\n You’ll join the Data Engineering t…",
+    "url": "https://jobicy.com/jobs/154934-staff-data-engineer-2",
+    "description": "Please note: Our Talent team at Jobber will be offline for Jobber Impact - our flagship event of the year, bringing Jobberinos together to connect, learn, and celebrate what we're building - starting October 6th and extending until October 9th. We’ll be back to go through applications and reach out with an update on your candidacy once we return next week!\n This will be updated automatically on all job posts above our What you can expect from Jobber headline.\n The automated email to candidates will have the same message as above.\n Does working with Data motivate and excite you? Do you want to make a difference cross functionally?\n Then Jobber might be the place for you! We’re looking for a new Staff Data Engineer to join our Data Platform Team.\n Jobber exists to help people in small businesses be successful. We work with small home service businesses, like your local plumbers, painters, and landscapers, to transform the way service is delivered through technology. With Jobber they can quote, schedule, invoice, and collect payments from their customers, while providing an easy and professional customer experience. Running a small business today isn’t like it used to be—the way we consume and deliver service is changing rapidly, technology is evolving, and customers expect more. That’s why we put the power and flexibility in their hands to run their businesses how, where, and when they want!\n Our culture of transparency, inclusivity, collaboration, and innovation has been recognized by Great Place to Work, Canada’s Most Admired Corporate Cultures, and more. Jobber has also been named on the Globe and Mail’s Canada’s Top Growing Companies list, and Deloitte Canada’s Technology Fast 50™, Enterprise Fast 15, and Technology Fast 500™ lists. With an Executive team that has over thirty years of industry experience of leading the way, we’ve come a long way from our first customer in 2011—but we’ve just scratched the surface of what we want to accomplish for our customers .…",
     "tags": [
       "Data Science & Analytics",
-      "Senior"
+      "Director"
     ],
     "jobType": "Full-Time",
-    "postedAt": "2026-11-08T13:56:13.000Z",
-    "scrapedAt": "2026-11-09T00:28:33.700Z"
+    "postedAt": "2026-11-09T04:35:20.000Z",
+    "scrapedAt": "2026-11-09T10:51:56.753Z"
   },
   {
-    "id": "arbeitnow:data-platform-engineer-mid-level-berlin-396788",
-    "externalId": "data-platform-engineer-mid-level-berlin-396788",
+    "id": "arbeitnow:senior-analytics-engineer-london-366713",
+    "externalId": "senior-analytics-engineer-london-366713",
     "source": "arbeitnow",
-    "title": "Data Platform Engineer (Mid-Level)",
-    "company": "sumup",
-    "location": "Berlin",
+    "title": "Senior Analytics Engineer",
+    "company": "Numan",
+    "location": "London",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/sumup/data-platform-engineer-mid-level-berlin-396788",
-    "description": "<p><span style=\"text-decoration: underline;\">Onsite Role - Office First</span></p>\n<h2><strong>Team description</strong></h2>\n<p>As part of the Platform tribe, we're building a self-service, AI-ready <strong>Data Platform</strong> that powers SumUp's next big bets: data, AI, and real-time analytics. Our team designs and runs the infrastructure that lets data engineers, analysts, and ML teams across the business ship reliable pipelines and products without reinventing the wheel each time. This role sits at the centre of that work, giving you a genuine chance to shape how thousands of SumUppers build with data every day.</p>\n<h2><strong>What you'll do</strong></h2>\n<ul>\n<li>Build and evolve the data platform's infrastructure (Terraform, Kubernetes, GCP), so every environment is reproducible, version-controlled, and auditable</li>\n<li>Take end-to-end ownership of the reliability, performance, and scalability of the Data and AI platforms</li>\n<li>Develop self-service features, including for ETL and orchestration, so teams can move faster without bespoke integrations</li>\n<li>Automate operations to keep the platform highly available and cost-efficient as demand grows</li>\n<li>Evaluate emerging technologies and shape adoption strategies that improve platform capabilities and business outcomes</li>\n<li>Partner with product, infrastructure, data engineering, analytics, and AI/ML teams to make the standard path easier and safer than one-off integrations</li>\n</ul>\n<h2><strong>You'll be great for this role if…</strong></h2>\n<ul>\n<li>More than 4 years of experience building <strong>internal platforms</strong> consumed by other teams, in a Data, Platform, or Software Engineering role</li>\n<li>Strong software engineering background in<strong> Python or Go</strong>, along with solid SQL skills</li>\n<li>Hands-on knowledge of infrastructure and containerisation, such as<strong> Terraform,</strong> Helm, Docker, and <strong>Kubernetes</strong></li>\n<li>Comfort working with observab…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/numan/senior-analytics-engineer-london-366713",
+    "description": "About Numan\n Founded in 2018, we’ve already grown to be a 300+ team distributed across the globe, united by a singular mission: empowering people to take control of their health.\n Numan is transforming health: we’ve built a cutting-edge platform that integrates diagnostics, medication, supplements, digital programmes, and doctor consultations. Giving people the tools they need to maximise life.\n To deliver on our transformative mission, we are guided by our 5 company values:\n • Patients first.\n • Learn fast.\n • Own the quality.\n • Succeed together.\n • Care deeply.\n Backed by top-tier investors, Numan is already having a positive impact on hundreds of thousands of patients here in the UK, and we want you to help us deliver this mission!\n The role\n As Numan enters an exciting new chapter of AI-powered analytics, we're looking for a Senior Analytics Engineer to sit at the core of our data platform and drive better decisions across the entire business.\n This is one of the most varied analytics engineering roles in digital health. Your work will span multiple domains - from commercial performance and marketing effectiveness through to health outcomes analytics and clinical operations - giving you a genuinely broad view of the business and the full patient journey.\n We are embarking on a strategic investment in AI-powered analytics, with a full remit to explore and adopt the latest and greatest technologies. You'll be shaping which tools, approaches, and practices Numan adopts as a company.\n Reporting to the Head of Data Engineering and collaborating closely with data scientists, analysts, and stakeholders across the business.\n You'll be:\n Designing, building, and maintaining scalable, well-tested dbt data models that power analytics across commercial, marketing, health outcomes, and clinical operations domains.\n Acting as a senior technical voice within the analytics engineering function, setting standards for data modelling, testing, documentation, and code quality.\n L…",
     "tags": [
-      "Data Engineer/Scientist"
+      "Data",
+      "Permanent"
     ],
-    "postedAt": "2026-11-08T09:55:19.000Z",
-    "scrapedAt": "2026-11-09T00:28:33.582Z"
+    "jobType": "Permanent",
+    "postedAt": "2026-11-09T03:07:38.000Z",
+    "scrapedAt": "2026-11-09T10:51:56.679Z"
   },
   {
     "id": "greenhouse:gitlab-8924923002",
@@ -48,7 +50,7 @@
       "Data"
     ],
     "postedAt": "2026-11-02T06:44:11.000Z",
-    "scrapedAt": "2026-11-09T00:28:34.665Z"
+    "scrapedAt": "2026-11-09T10:51:57.554Z"
   },
   {
     "id": "greenhouse:coinbase-8047150",
@@ -64,7 +66,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-10-31T02:38:15.000Z",
-    "scrapedAt": "2026-11-09T00:28:34.665Z"
+    "scrapedAt": "2026-11-09T10:51:57.554Z"
   },
   {
     "id": "greenhouse:anthropic-5464234008",
@@ -80,7 +82,7 @@
       "Engineering & Design - Product"
     ],
     "postedAt": "2026-10-30T23:34:18.000Z",
-    "scrapedAt": "2026-11-09T00:28:34.665Z"
+    "scrapedAt": "2026-11-09T10:51:57.554Z"
   },
   {
     "id": "ashby:notion-73a71747-28d3-4dda-a718-77336056e687",
@@ -98,7 +100,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-10-28T18:42:47.956Z",
-    "scrapedAt": "2026-11-09T00:31:22.657Z"
+    "scrapedAt": "2026-11-09T10:54:49.861Z"
   },
   {
     "id": "greenhouse:anthropic-5462966008",
@@ -114,7 +116,7 @@
       "Security"
     ],
     "postedAt": "2026-10-26T22:47:43.000Z",
-    "scrapedAt": "2026-11-09T00:28:34.665Z"
+    "scrapedAt": "2026-11-09T10:51:57.554Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -130,7 +132,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-11-09T00:28:34.665Z"
+    "scrapedAt": "2026-11-09T10:51:57.554Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -146,7 +148,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-11-09T00:28:34.665Z"
+    "scrapedAt": "2026-11-09T10:51:57.554Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -162,6 +164,6 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-11-09T00:28:34.665Z"
+    "scrapedAt": "2026-11-09T10:51:57.554Z"
   }
 ]
