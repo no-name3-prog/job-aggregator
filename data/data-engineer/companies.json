@@ -86,31 +86,6 @@
     ]
   },
   {
-    "company": "Adobe",
-    "jobCount": 4,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "2 Locations",
-      "Bangalore",
-      "San Jose",
-      "3 Locations"
-    ],
-    "sampleTitles": [
-      "Staff Security Data Engineer",
-      "Sr. Manager, Data Engineering",
-      "2027 University Graduate - Data Engineer",
-      "Principal Scientist - Data Pipeline Engineer"
-    ],
-    "officialUrls": [
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Security-Data-Engineer_R171875-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Mgr--Software-Development_R172115-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
-    ]
-  },
-  {
     "company": "Salesforce",
     "jobCount": 4,
     "sources": [
@@ -135,6 +110,70 @@
     ]
   },
   {
+    "company": "Adobe",
+    "jobCount": 3,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "2 Locations",
+      "Bangalore",
+      "3 Locations"
+    ],
+    "sampleTitles": [
+      "Staff Security Data Engineer",
+      "Sr. Manager, Data Engineering",
+      "Principal Scientist - Data Pipeline Engineer"
+    ],
+    "officialUrls": [
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Security-Data-Engineer_R171875-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Mgr--Software-Development_R172115-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
+    ]
+  },
+  {
+    "company": "Artefact",
+    "jobCount": 3,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "9th arrondissement of Paris, 75009, Paris",
+      "Lausanne, Vaud"
+    ],
+    "sampleTitles": [
+      "CDI - Senior Context & Analytics Engineer - Paris",
+      "CDI - Manager Context & Analytics Engineer - Paris",
+      "Senior Data Engineer (Databricks)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/artefact/cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-437928",
+      "https://www.arbeitnow.fr/jobs/companies/artefact/cdi-manager-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-69090",
+      "https://www.arbeitnow.ch/jobs/companies/artefact/senior-data-engineer-databricks-lausanne-vaud-249940"
+    ]
+  },
+  {
+    "company": "Artefactlinkedin",
+    "jobCount": 3,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "9th arrondissement of Paris, 75009, Paris",
+      "Lausanne, Vaud"
+    ],
+    "sampleTitles": [
+      "CDI - Senior Context & Analytics Engineer - Paris",
+      "CDI - Manager Context & Analytics Engineer - Paris",
+      "Senior Data Engineer (Databricks)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-190338",
+      "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/cdi-manager-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-337719",
+      "https://www.arbeitnow.ch/jobs/companies/artefactlinkedin/senior-data-engineer-databricks-lausanne-vaud-313508"
+    ]
+  },
+  {
     "company": "Block",
     "jobCount": 3,
     "sources": [
@@ -153,6 +192,26 @@
       "http://block.xyz/careers/jobs/5442647008?gh_jid=5442647008",
       "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
       "http://block.xyz/careers/jobs/5424561008?gh_jid=5424561008"
+    ]
+  },
+  {
+    "company": "Lyft",
+    "jobCount": 3,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "sampleTitles": [
+      "Data Engineer",
+      "Data Engineer Intern (Summer 2027)",
+      "Data Engineer"
+    ],
+    "officialUrls": [
+      "https://app.careerpuck.com/job-board/lyft/job/8931413002?gh_jid=8931413002",
+      "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
+      "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002"
     ]
   },
   {
@@ -251,24 +310,6 @@
     ]
   },
   {
-    "company": "Lyft",
-    "jobCount": 2,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "sampleTitles": [
-      "Data Engineer Intern (Summer 2027)",
-      "Data Engineer"
-    ],
-    "officialUrls": [
-      "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
-      "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002"
-    ]
-  },
-  {
     "company": "Pinterest",
     "jobCount": 2,
     "sources": [
@@ -304,22 +345,6 @@
     ]
   },
   {
-    "company": "Artefactjobs",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Lausanne, Vaud"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer (Databricks)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.ch/jobs/companies/artefactjobs/senior-data-engineer-databricks-lausanne-vaud-130127"
-    ]
-  },
-  {
     "company": "Cloudflare",
     "jobCount": 1,
     "sources": [
@@ -333,6 +358,22 @@
     ],
     "officialUrls": [
       "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118"
+    ]
+  },
+  {
+    "company": "Coopers Group AG",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Zürich"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer - Datenplattform"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-data-engineer-datenplattform-zurich-278207"
     ]
   },
   {
