@@ -288,25 +288,6 @@
     ]
   },
   {
-    "company": "Workday",
-    "jobCount": 2,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "3 Locations",
-      "Ireland, Dublin"
-    ],
-    "sampleTitles": [
-      "Senior Software Engineer (Data Engineering)",
-      "Data Platform Engineer - Cybersecurity"
-    ],
-    "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Senior-Software-Engineer--Data-Engineering-_JR-0111341",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
-    ]
-  },
-  {
     "company": "Airbnb",
     "jobCount": 1,
     "sources": [
@@ -355,22 +336,6 @@
     ]
   },
   {
-    "company": "Decathlontechnology",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Paris, Paris; Villeneuve-d'Ascq, Nord"
-    ],
-    "sampleTitles": [
-      "Data Engineer Confirmed - Core Data Product(f/m/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/data-engineer-confirmed-core-data-product-paris-paris-villeneuve-dascq-nord-349841"
-    ]
-  },
-  {
     "company": "Linear",
     "jobCount": 1,
     "sources": [
@@ -400,6 +365,22 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/notion/73a71747-28d3-4dda-a718-77336056e687"
+    ]
+  },
+  {
+    "company": "ONE-Dyas B.V.",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Amsterdam, Noord-Holland, Netherlands"
+    ],
+    "sampleTitles": [
+      "Production & ESG Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.nl/jobs/companies/one-dyas-bv/production-esg-data-engineer-amsterdam-214778"
     ]
   },
   {
@@ -435,6 +416,22 @@
     ]
   },
   {
+    "company": "Royal Den Hartogh Logistics",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Rotterdam, Zuid-Holland, Netherlands"
+    ],
+    "sampleTitles": [
+      "Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.nl/jobs/companies/royal-den-hartogh-logistics/data-engineer-rotterdam-418671"
+    ]
+  },
+  {
     "company": "Scale AI",
     "jobCount": 1,
     "sources": [
@@ -448,22 +445,6 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/scaleai/jobs/4713597005"
-    ]
-  },
-  {
-    "company": "Smarkets",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/smarkets/data-engineer-london-36017"
     ]
   },
   {
@@ -512,6 +493,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/twilio/jobs/8044650"
+    ]
+  },
+  {
+    "company": "Workday",
+    "jobCount": 1,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Ireland, Dublin"
+    ],
+    "sampleTitles": [
+      "Data Platform Engineer - Cybersecurity"
+    ],
+    "officialUrls": [
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
     ]
   }
 ]
