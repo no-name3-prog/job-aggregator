@@ -195,25 +195,6 @@
     ]
   },
   {
-    "company": "Artefactlinkedin",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "9th arrondissement of Paris, 75009, Paris",
-      "Lausanne, Vaud"
-    ],
-    "sampleTitles": [
-      "CDI - Senior Context & Analytics Engineer - Paris",
-      "Senior Data Engineer (Databricks)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-190338",
-      "https://www.arbeitnow.ch/jobs/companies/artefactlinkedin/senior-data-engineer-databricks-lausanne-vaud-313508"
-    ]
-  },
-  {
     "company": "Brex",
     "jobCount": 2,
     "sources": [
@@ -230,6 +211,24 @@
     "officialUrls": [
       "https://www.brex.com/careers/8523806002?gh_jid=8523806002",
       "https://www.brex.com/careers/8366850002?gh_jid=8366850002"
+    ]
+  },
+  {
+    "company": "capco",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Unknown"
+    ],
+    "sampleTitles": [
+      "Senior Azure Data Engineer (Databricks)",
+      "Senior Azure Data Engineer (Databricks)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-azure-data-engineer-databricks-352340",
+      "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-azure-data-engineer-databricks-159994"
     ]
   },
   {
@@ -309,6 +308,22 @@
     ]
   },
   {
+    "company": "Addepto",
+    "jobCount": 1,
+    "sources": [
+      "remoteok"
+    ],
+    "locations": [
+      "Remote"
+    ],
+    "sampleTitles": [
+      "Data Engineer"
+    ],
+    "officialUrls": [
+      "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714"
+    ]
+  },
+  {
     "company": "Airbnb",
     "jobCount": 1,
     "sources": [
@@ -325,19 +340,19 @@
     ]
   },
   {
-    "company": "Artefact",
+    "company": "ANGEHEUERT GmbH",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Lausanne, Vaud"
+      "Homeoffice"
     ],
     "sampleTitles": [
-      "Senior Data Engineer (Databricks)"
+      "Data Engineer (m/f/d)"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.ch/jobs/companies/artefact/senior-data-engineer-databricks-lausanne-vaud-249940"
+      "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-data-engineer-frankfurt-am-main-258614"
     ]
   },
   {
@@ -363,29 +378,13 @@
       "greenhouse"
     ],
     "locations": [
-      "In-Office"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118"
-    ]
-  },
-  {
-    "company": "Fanduel",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Edinburgh"
+      "Hybrid"
     ],
     "sampleTitles": [
       "Data Engineer"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/fanduel/data-engineer-edinburgh-423991"
+      "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118"
     ]
   },
   {
@@ -418,22 +417,6 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/notion/73a71747-28d3-4dda-a718-77336056e687"
-    ]
-  },
-  {
-    "company": "Quantum",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/quantum/senior-data-engineer-london-355412"
     ]
   },
   {
@@ -514,6 +497,22 @@
     ],
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8112043"
+    ]
+  },
+  {
+    "company": "The Trainee Company",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Drachten, Friesland, Nederland"
+    ],
+    "sampleTitles": [
+      "Junior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-data-engineer-drachten-370033"
     ]
   },
   {

@@ -1,37 +1,73 @@
 [
   {
-    "id": "arbeitnow:data-engineer-edinburgh-423991",
-    "externalId": "data-engineer-edinburgh-423991",
+    "id": "arbeitnow:senior-azure-data-engineer-databricks-352340",
+    "externalId": "senior-azure-data-engineer-databricks-352340",
     "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Fanduel",
-    "location": "Edinburgh",
+    "title": "Senior Azure Data Engineer (Databricks)",
+    "company": "capco",
+    "location": "Unknown",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/data-engineer-edinburgh-423991",
-    "description": "<p>FanDuel Group is a world-class team of brands and products that deliver sports betting, gaming and entertainment to millions of US sports fans every day. That’s no easy task and wouldn't be possible without a fantastic team who have helped us pioneer new products and innovative features that make us a leader in the industry. <br><br>The company is based in New York with US offices in Los Angeles, Atlanta, and Jersey City, as well as global offices in Canada and Scotland. The company’s affiliates have offices worldwide, including in Ireland, Portugal, Romania, and Australia.<br><br>FanDuel Group is a subsidiary of Flutter Entertainment, the world's largest sports betting and gaming operator with a portfolio of globally recognized brands and traded on the New York Stock Exchange (NYSE: FLUT).<br><br>THE POSITION<br><br>Our roster has an opening with your name on it<br><br>We are seeking a&nbsp;Data Engineer&nbsp;to help lead the technical design and implementation of our most critical data infrastructure and products. You’ll be responsible for designing scalable systems, setting data architecture standards, and solving complex technical challenges that power analytics, data science, and business function use cases across the company.<br><br>You will work closely with engineers, product managers, and business stakeholders to architect data solutions that are performant, reliable, and built with a long-term, customer-centric mindset.<br><br>If you’re excited by this challenge and want to work within a dynamic company, then we’d love to hear from you.<br><br>THE GAME PLAN<br>Everyone on our team has a part to play<br><br>Implement High-Impact Data Systems</p>\n<ul>\n<li>Implement and help design scalable, maintainable, and secure real-time and streaming data infrastructure and architectures that support enterprise-wide data needs</li>\n<li>Define standards for real-time system design and real-time tooling using modern tools and cloud-native technologies, and driving tec…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-azure-data-engineer-databricks-352340",
+    "description": "<p data-pm-slice=\"1 1 []\"><strong>Senior Azure Data Engineer (Databricks)</strong></p>\n<p>Location: Glasgow or Edinburgh (Hybrid) | Practice Area: Technology &amp; Engineering | Type: Permanent</p>\n<p><strong>Engineer advanced data solutions at scale in a world-class consulting environment</strong></p>\n<p><strong>The Role</strong></p>\n<p>As a Senior Azure Data Engineer (Databricks) at Capco, you will play a hands-on role in designing, building, and deploying scalable and secure data engineering pipelines using the Databricks platform on Azure. You’ll partner with clients to understand their data needs and develop innovative solutions that drive business transformation. You’ll also contribute to best practice implementation and continuous improvement within cross-functional engineering teams.</p>\n<p>This role will sit in our Scotland office, with a need to potentially work in either Edinburgh or Glasgow depending on client expectations.</p>\n<p><strong>What You’ll Do</strong></p>\n<ul data-spread=\"false\">\n<li>\n<p>Design and develop robust pipelines using DeltaLake, Spark Structured Streaming, and Unity Catalog</p>\n</li>\n<li>\n<p>Build real-time event-driven solutions with tools such as Kafka and Azure Event Hubs</p>\n</li>\n<li>\n<p>Apply DevOps principles to develop CI/CD pipelines using Azure DevOps, Jenkins, or GitHub Actions</p>\n</li>\n<li>\n<p>Collaborate with clients and stakeholders to translate data needs into strategic technical solutions</p>\n</li>\n<li>\n<p>Champion clean code, data lifecycle optimisation, and software engineering best practices</p>\n</li>\n</ul>\n<p><strong>What We’re Looking For</strong></p>\n<ul data-spread=\"false\">\n<li>\n<p>Proven hands-on experience with Databricks platform and orchestration</p>\n</li>\n<li>\n<p>Strong skills in Python, PySpark, and SQL, with knowledge of distributed data systems</p>\n</li>\n<li>\n<p>Expertise in developing full lifecycle data pipelines across ingestion, transformation, and serving layers</p>\n</li>\n<li>\n<p>Experience with…",
     "tags": [
-      "Data Engineering"
+      "Tech & Engineering"
     ],
-    "postedAt": "2026-11-11T12:55:16.000Z",
-    "scrapedAt": "2026-11-11T13:29:40.679Z"
+    "postedAt": "2026-11-11T18:55:23.000Z",
+    "scrapedAt": "2026-11-11T21:43:30.049Z"
   },
   {
-    "id": "arbeitnow:senior-data-engineer-london-355412",
-    "externalId": "senior-data-engineer-london-355412",
+    "id": "arbeitnow:senior-azure-data-engineer-databricks-159994",
+    "externalId": "senior-azure-data-engineer-databricks-159994",
     "source": "arbeitnow",
-    "title": "Senior Data Engineer",
-    "company": "Quantum",
-    "location": "London",
+    "title": "Senior Azure Data Engineer (Databricks)",
+    "company": "capco",
+    "location": "Unknown",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/senior-data-engineer-london-355412",
-    "description": "Our Company\n At Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.\n Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison service, delivering value and simplicity to millions.\n We drive growth through data-driven affiliate marketing built for performance from day one. Every campaign is measurable, optimised in real time, and designed to scale.\n With in-house tech, full-stack analytics, and a compliance-first mindset, we give our partners an edge. We drive confident decisions and growth in regulated and high-growth sectors. We’ve helped ambitious brands grow faster, smarter, and globally.\n The Role\n Our Data Engineering team is growing! We’re looking for a Senior Data Engineer to join our team in London.\n In this role you will build and run the pipelines behind QiCore, our new data warehouse. You’ll bring acquired businesses like Rewards into one platform and make sure the data the business runs on is reliable, governed and built to last.\n Key Responsibilities\n Build, test and maintain batch and streaming pipelines into QiCore to agreed engineering standards\n Migrate Rewards data into our warehouse and single customer view, keeping reporting running throughout\n Model data for analytics and reporting, working to the architecture and governance principles the team sets\n Monitor pipeline health and data quality, fixing issues at the root rather than patching symptoms\n Support future acquisitions and platform migrations, turning each one into a faster, repeatable process\n About You\n Several years of hands-on data engineering, writing production SQL and Python\n Experience building ETL or ELT pipelines on a modern cloud warehouse or big data platform\n Proven experience working with GCP and the Google ecosystem (BigQuery, Pub/Sub, Dataproc, Cloud Storage, etc.)\n Working knowledge of data governance, testing and data quality practices\n Comf…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-azure-data-engineer-databricks-159994",
+    "description": "<p data-pm-slice=\"1 1 []\"><strong>Senior Azure Data Engineer (Databricks)</strong></p>\n<p>Location: Glasgow or Edinburgh (Hybrid) | Practice Area: Technology &amp; Engineering | Type: Permanent</p>\n<p><strong>Engineer advanced data solutions at scale in a world-class consulting environment</strong></p>\n<p><strong>The Role</strong></p>\n<p>As a Senior Azure Data Engineer (Databricks) at Capco, you will play a hands-on role in designing, building, and deploying scalable and secure data engineering pipelines using the Databricks platform on Azure. You’ll partner with clients to understand their data needs and develop innovative solutions that drive business transformation. You’ll also contribute to best practice implementation and continuous improvement within cross-functional engineering teams.</p>\n<p>This role will sit in our Scotland office, with a need to potentially work in either Edinburgh or Glasgow depending on client expectations.</p>\n<p><strong>What You’ll Do</strong></p>\n<ul data-spread=\"false\">\n<li>\n<p>Design and develop robust pipelines using DeltaLake, Spark Structured Streaming, and Unity Catalog</p>\n</li>\n<li>\n<p>Build real-time event-driven solutions with tools such as Kafka and Azure Event Hubs</p>\n</li>\n<li>\n<p>Apply DevOps principles to develop CI/CD pipelines using Azure DevOps, Jenkins, or GitHub Actions</p>\n</li>\n<li>\n<p>Collaborate with clients and stakeholders to translate data needs into strategic technical solutions</p>\n</li>\n<li>\n<p>Champion clean code, data lifecycle optimisation, and software engineering best practices</p>\n</li>\n</ul>\n<p><strong>What We’re Looking For</strong></p>\n<ul data-spread=\"false\">\n<li>\n<p>Proven hands-on experience with Databricks platform and orchestration</p>\n</li>\n<li>\n<p>Strong skills in Python, PySpark, and SQL, with knowledge of distributed data systems</p>\n</li>\n<li>\n<p>Expertise in developing full lifecycle data pipelines across ingestion, transformation, and serving layers</p>\n</li>\n<li>\n<p>Experience with…",
     "tags": [
-      "Technology",
-      "Full Time"
+      "Tech & Engineering"
     ],
-    "jobType": "Full Time",
-    "postedAt": "2026-11-11T12:40:11.000Z",
-    "scrapedAt": "2026-11-11T13:29:40.679Z"
+    "postedAt": "2026-11-11T18:55:23.000Z",
+    "scrapedAt": "2026-11-11T21:43:30.049Z"
+  },
+  {
+    "id": "arbeitnow:junior-data-engineer-drachten-370033",
+    "externalId": "junior-data-engineer-drachten-370033",
+    "source": "arbeitnow",
+    "title": "Junior Data Engineer",
+    "company": "The Trainee Company",
+    "location": "Drachten, Friesland, Nederland",
+    "remote": false,
+    "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-data-engineer-drachten-370033",
+    "description": "Je bent vol energie om aan je carrière te beginnen. Het pad van data engineer klinkt als muziek in je oren, maar hoe je in die rol gaat groeien en waar je dat precies wilt doen, dat is nog een vraagteken. No worries, de opdracht Data Engineer is het antwoord! Samen gaan we ontdekken welke weg het beste bij jou past.\n Wat kan je verwachten?\n Met deze opdracht geven we jouw carrière als data engineer een flitsende start! In slechts twee jaar tijd haal jij niet alleen toffe certificaten binnen, maar krijg je ook volop trainingen op ons gezellige kantoor in Bunnik. En dat is nog niet alles – je groeit als een speer door aan de slag te gaan bij (één van) onze opdrachtgevers.\n Het traject is opgedeeld in twee fasen. Het eerste jaar geven we niet alleen je persoonlijke ontwikkeling een boost, maar dompelen we je ook onder in de verschillende facetten van een data engineer. Hoe we dit doen? In de eerste twee weken ben je te vinden op ons Bunnikse kantoor, waar je niet alleen je nieuwe collega’s ontmoet, maar ook toffe trainingen volgt om je hard en soft skills bij te schaven. Het tweede jaar is aan jou om in te vullen, uiteraard word je daarin begeleid door ons: we stellen samen jouw unieke ontwikkelplan op!\n Als data engineer ga je van technisch ontwerp, het opdelen van code in logische blokken tot het bouwen en inbouwen van controles. Jij houdt je dagelijks bezig met de ontwikkeling en het beheer van risicomodellen, dashboards en andere productfuncties. Dit doe je samen met vakspecialisten zoals datascientists, business analisten en functioneel beheerders. Je zorgt voor een soepele overgang van ontwikkeling naar productie. Elk product en elke productfase daagt je uit.\n Dit vragen wij van jou\n Een afgeronde HBO- of WO-opleiding, bij voorkeur op het gebied van IT of Data Science.\n Een vlotte babbel, oplossingsgerichtheid en professionaliteit\n Een goede beheersing van de Nederlandse taal\n Find more English Speaking Jobs in Netherlands on Arbeitnow",
+    "tags": [
+      "Data",
+      "Entry",
+      "fulltime permanent"
+    ],
+    "jobType": "Entry",
+    "postedAt": "2026-11-11T18:31:25.000Z",
+    "scrapedAt": "2026-11-11T21:43:30.049Z"
+  },
+  {
+    "id": "arbeitnow:remote-data-engineer-frankfurt-am-main-258614",
+    "externalId": "remote-data-engineer-frankfurt-am-main-258614",
+    "source": "arbeitnow",
+    "title": "Data Engineer (m/f/d)",
+    "company": "ANGEHEUERT GmbH",
+    "location": "Homeoffice",
+    "remote": true,
+    "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-data-engineer-frankfurt-am-main-258614",
+    "description": "Data Engineer\n Are you technically skilled, enjoy exploring new approaches, and want to avoid being held back by existing structures and processes? As a Data Engineer , you will join an environment where many things are being built from the ground up and where you can actively contribute your own technical ideas. From architecture and data pipelines to data quality and AI interfaces, you will have the opportunity to develop modern solutions while taking ownership of their implementation. Apply now and take advantage of the technical freedom this position offers.\n Your benefits as Data Engineer Compensation: Enjoy an attractive salary with an additional variable component that reflects your experience and technical expertise.\n Creative Freedom: Help build a central data platform from the ground up and bring your own technical ideas to the table. You will have plenty of room to explore modern solutions and actively shape the technical architecture.\n Flexibility: Organize your working day largely on your own and work flexibly from home or anywhere in Germany. At the same time, you should be willing to attend important meetings, workshops, and in person collaboration when required.\n Workation: Take up to four weeks of workation within the EU and, subject to agreement, potentially beyond the EU.\n Pension: Benefit from an occupational pension scheme with a 50% employer contribution.\n Development: Take advantage of individual training opportunities, language courses, and personal learning programs.\n International Environment: Work in an international environment where both German and English are used as business languages.\n Your tasks as Data Engineer Data Layer: Take ownership of operating and further developing the Databricks based data platform, including workspaces, jobs, and permissions.\n Data Pipelines: Develop robust ETL and ELT pipelines for banking, treasury, payments, export finance, and other data sources.\n Architecture: Design Data Lake and Lakehouse structure…",
+    "tags": [
+      "Remote",
+      "Experienced",
+      "fulltime permanent"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-11-11T18:31:20.000Z",
+    "scrapedAt": "2026-11-11T21:43:30.049Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-datenplattform-luzern-492227",
@@ -50,7 +86,40 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-11-10T21:31:15.000Z",
-    "scrapedAt": "2026-11-11T13:29:40.679Z"
+    "scrapedAt": "2026-11-11T21:43:30.049Z"
+  },
+  {
+    "id": "remoteok:1137714",
+    "externalId": "1137714",
+    "source": "remoteok",
+    "title": "Data Engineer",
+    "company": "Addepto",
+    "location": "Remote",
+    "remote": true,
+    "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
+    "description": "Addepto is a leading AI consulting ( https://addepto.com/ai-consulting/ ) and data engineering ( https://addepto.com/data-engineering-services/ ) company that builds scalable, ROI-focused AI solutions for some of the world's largest enterprises and pioneering startups, including Rolls Royce, Continental, Porsche, ABB, and WGU. With an exclusive focus on Artificial Intelligence and Big Data, Addepto helps organizations unlock the full potential of their data through systems designed for measurable business impact and long-term growth.\n The company's work extends beyond client engagements. Drawing from real-world challenges and insights, Addepto has developed its own product - ContextClue - and actively contributes open-source solutions to the AI community. This commitment to transforming practical experience into scalable innovation has earned Addepto recognition by Forbes as one of the top 10 AI consulting companies worldwide .\n As part of KMS Technology , a US-based global technology group, Addepto combines deep AI specialization with enterprise-scale delivery capabilitiesâenabling the partnership to move clients from AI experimentation to production impact, securely and at scale.\n We are looking for an experienced Data Engineer with strong skills in GCP, Snowflake, dbt, Python, SQL, and Data Analytics to join our team. You will work on international data engineering and analytics projects, focusing on building scalable data solutions, modernizing data warehouses, and supporting data-driven business decisions.\n Project areas include:\n Data Warehouse & BI Modernization â refactoring data models and supporting migrations between BI platforms (e.g., Looker to Omni).\n CRM Data Integration â developing and optimizing data models to support CRM migrations and integrations (e.g., HubSpot).\n Commercial & Growth Analytics â building analytical solutions for customer acquisition, retention, churn, revenue, and business performance.\n Data Quality & Self-Service Analy…",
+    "tags": [
+      "design",
+      "saas",
+      "salesforce",
+      "python",
+      "education",
+      "consulting",
+      "customer support",
+      "testing",
+      "marketing",
+      "dev",
+      "finance",
+      "cloud",
+      "git",
+      "stats",
+      "sys admin",
+      "engineer",
+      "apache",
+      "digital nomad"
+    ],
+    "postedAt": "2026-11-10T16:00:04.000Z",
+    "scrapedAt": "2026-11-11T21:43:30.637Z"
   },
   {
     "id": "greenhouse:lyft-8931413002",
@@ -66,55 +135,7 @@
       "Lyft Ads"
     ],
     "postedAt": "2026-11-10T15:58:08.000Z",
-    "scrapedAt": "2026-11-11T13:29:41.252Z"
-  },
-  {
-    "id": "arbeitnow:cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-190338",
-    "externalId": "cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-190338",
-    "source": "arbeitnow",
-    "title": "CDI - Senior Context & Analytics Engineer - Paris",
-    "company": "Artefactlinkedin",
-    "location": "9th arrondissement of Paris, 75009, Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-190338",
-    "description": "<p><strong>Mission</strong></p>\n<p>Un agent ne vaut que ce que valent les données et les connaissances sur lesquelles il répond. Pipelines, modèles de données, définitions de métriques, droits d’accès : vous créez et gouvernez ce socle, et les applications et les agents de nos clients s’appuient dessus. Quand un analyste ou un agent demande un chiffre, la réponse est celle de l’équipe finance, accompagnée de sa définition et de sa source.</p>\n<p><strong>Ce poste est fait pour vous si vous voulez que les métiers et les agents puissent se fier aux données, et les utilisent.</strong></p>\n<p>Artefact accompagne les plus grandes entreprises du monde dans le déploiement de l’IA : 3 000 AI makers dans plus de 30 pays, plus de 1 000 clients. En France, le département Engineering réunit environ 300 personnes sous la responsabilité du CTO ; vous y rejoignez le chapter AI Applied Engineer, archétype Context &amp; Analytics Engineer.</p>\n<p>&nbsp;</p>\n<p><strong>Activités et responsabilités</strong></p>\n<p>Avec les équipes métier et les analystes, il s’agit de définir ce que signifie chaque métrique et de vérifier que les données y correspondent. Sur ce socle, les Product Engineers et les AI Engineers construisent applications et agents.</p>\n<p>Les Platform Engineers exploitent l’infrastructure sur laquelle tournent vos pipelines. Les échanges avec les data owners et les équipes de gouvernance du client, la relecture de code entre pairs et l’accompagnement des nouvelles recrues complètent le quotidien.</p>\n<p>&nbsp;</p>\n<p><strong>Vos responsabilités :</strong></p>\n<ul>\n<li>Construire des pipelines d’ingestion et des modèles de données, avec dbt par exemple.</li>\n<li>Mettre en place des contrôles de qualité des données et maintenir le lineage.</li>\n<li>Construire la couche sémantique et les définitions de métriques, pour que les personnes et les agents utilisent les mêmes chiffres, y compris en text-to-SQL.</li>\n<li>Définir les règles de gouvernance et les droits d’accès.</li>…",
-    "tags": [
-      "Data Analytics"
-    ],
-    "postedAt": "2026-11-10T15:55:28.000Z",
-    "scrapedAt": "2026-11-11T13:29:40.679Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-databricks-lausanne-vaud-313508",
-    "externalId": "senior-data-engineer-databricks-lausanne-vaud-313508",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer (Databricks)",
-    "company": "Artefactlinkedin",
-    "location": "Lausanne, Vaud",
-    "remote": false,
-    "url": "https://www.arbeitnow.ch/jobs/companies/artefactlinkedin/senior-data-engineer-databricks-lausanne-vaud-313508",
-    "description": "<p><strong>Who is Artefact?</strong><br>Artefact is a next-generation strategy and data consulting firm that transforms organizations through data and AI. With 1,800+ consultants, data scientists, and engineers across 23 countries, we work with global leaders such as Samsung, L’Oréal, Orange, and Sanofi. From our Lausanne and Zurich offices, we help leading Swiss and international companies turn data and AI into measurable results, working with the leading data platforms, including Databricks.</p>\n<p><strong>Main Responsibilities</strong><br>You will design and deliver the data platforms our clients run their business and their AI on, combining hands-on engineering with client advisory.</p>\n<ul>\n<li><strong>Build modern data platforms:</strong> End-to-end lakehouse architectures, mainly on Databricks, built for reliability, observability, and cost.</li>\n<li><strong>Engineer pipelines:</strong> Batch and streaming pipelines with Python, Spark, and SQL, with data quality built in.</li>\n<li><strong>Migrate and modernize:</strong> Move legacy warehouses and ETL to the cloud, from assessment to cut-over.</li>\n<li><strong>Make data ready for AI:</strong> Governed data products and semantic layers that analytics and AI agents can rely on.</li>\n<li><strong>Run it properly:</strong> Data governance, CI/CD, infrastructure as code, monitoring, and cost control.</li>\n<li><strong>Advise and support:</strong> Translate business needs into roadmaps, coach junior engineers, and support proposals.</li>\n</ul>\n<p><strong>Candidate Profile</strong><br>Engineer first, consultant second, with a track record of shipping to production.</p>\n<ul>\n<li>5+ years in data engineering, including hands-on Databricks experience in production.</li>\n<li>Expert Python and SQL, with strong Spark and data modeling skills.</li>\n<li>Databricks Data Engineer Professional certification, or a commitment to obtain it within 6 months (we support you).</li>\n<li>Experience on Azure, AWS, or GCP, plus DataOps (Gi…",
-    "tags": [
-      "Data Engineering"
-    ],
-    "postedAt": "2026-11-10T15:55:28.000Z",
-    "scrapedAt": "2026-11-11T13:29:40.679Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-databricks-lausanne-vaud-249940",
-    "externalId": "senior-data-engineer-databricks-lausanne-vaud-249940",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer (Databricks)",
-    "company": "Artefact",
-    "location": "Lausanne, Vaud",
-    "remote": false,
-    "url": "https://www.arbeitnow.ch/jobs/companies/artefact/senior-data-engineer-databricks-lausanne-vaud-249940",
-    "description": "<p><strong>Who is Artefact?</strong><br>Artefact is a next-generation strategy and data consulting firm that transforms organizations through data and AI. With 1,800+ consultants, data scientists, and engineers across 23 countries, we work with global leaders. From our Lausanne and Zurich offices, we help leading Swiss and international companies turn data and AI into measurable results, working with the leading data platforms, including Databricks.</p>\n<p><strong>Main Responsibilities</strong><br>You will design and deliver the data platforms our clients run their business and their AI on, combining hands-on engineering with client advisory.</p>\n<ul>\n<li><strong>Build modern data platforms:</strong> End-to-end lakehouse architectures, mainly on Databricks, built for reliability, observability, and cost.</li>\n<li><strong>Engineer pipelines:</strong> Batch and streaming pipelines with Python, Spark, and SQL, with data quality built in.</li>\n<li><strong>Migrate and modernize:</strong> Move legacy warehouses and ETL to the cloud, from assessment to cut-over.</li>\n<li><strong>Make data ready for AI:</strong> Governed data products and semantic layers that analytics and AI agents can rely on.</li>\n<li><strong>Run it properly:</strong> Data governance, CI/CD, infrastructure as code, monitoring, and cost control.</li>\n<li><strong>Advise and support:</strong> Translate business needs into roadmaps, coach junior engineers, and support proposals.</li>\n</ul>\n<p><strong>Candidate Profile</strong><br>Engineer first, consultant second, with a track record of shipping to production.</p>\n<ul>\n<li>5+ years in data engineering, including hands-on Databricks experience in production.</li>\n<li>Expert Python and SQL, with strong Spark and data modeling skills.</li>\n<li>Databricks Data Engineer Professional certification, or a commitment to obtain it within 6 months (we support you).</li>\n<li>Experience on Azure, AWS, or GCP, plus DataOps (Git, CI/CD, Terraform, testing).</li>\n<li>Stron…",
-    "tags": [
-      "Data Engineering"
-    ],
-    "postedAt": "2026-11-10T15:55:27.000Z",
-    "scrapedAt": "2026-11-11T13:29:40.679Z"
+    "scrapedAt": "2026-11-11T21:43:30.645Z"
   },
   {
     "id": "greenhouse:gitlab-8924923002",
@@ -130,7 +151,7 @@
       "Data"
     ],
     "postedAt": "2026-11-02T06:44:11.000Z",
-    "scrapedAt": "2026-11-11T13:29:41.252Z"
+    "scrapedAt": "2026-11-11T21:43:30.645Z"
   },
   {
     "id": "greenhouse:coinbase-8047150",
@@ -146,7 +167,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-10-31T02:38:15.000Z",
-    "scrapedAt": "2026-11-11T13:29:41.252Z"
+    "scrapedAt": "2026-11-11T21:43:30.645Z"
   },
   {
     "id": "greenhouse:anthropic-5464234008",
@@ -162,6 +183,6 @@
       "Engineering & Design - Product"
     ],
     "postedAt": "2026-10-30T23:34:18.000Z",
-    "scrapedAt": "2026-11-11T13:29:41.252Z"
+    "scrapedAt": "2026-11-11T21:43:30.645Z"
   }
 ]
