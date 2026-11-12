@@ -1,5 +1,40 @@
 [
   {
+    "id": "arbeitnow:data-engineer-iii-fmx-london-844",
+    "externalId": "data-engineer-iii-fmx-london-844",
+    "source": "arbeitnow",
+    "title": "Data Engineer III - FMX",
+    "company": "Fanaticsfbg",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/data-engineer-iii-fmx-london-844",
+    "description": "<div class=\"content-intro\"><h2 class=\"job-details__description-header text-color-secondary font-family-secondary\" data-bind=\"i18n: 'job-details.employer-description-title'\">About Us</h2>\n<div class=\"job-details__description-content basic-formatter\" data-bind=\"html: pageData().job.corporateDescription\">\n<div>Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering products and services across Fanatics Commerce, Fanatics Collectibles, and Fanatics Betting &amp; Gaming, allowing sports fans to Buy, Collect, and Bet. Through the Fanatics platform, sports fans can buy licensed fan gear, jerseys, lifestyle and streetwear products, headwear, and hardgoods; collect physical and digital trading cards, sports memorabilia, and other digital assets; and bet as the company builds its Sportsbook and iGaming platform. Fanatics has an established database of over 100 million global sports fans; a global partner network with approximately 900 sports properties, including major national and international professional sports leagues, players associations, teams, colleges, college conferences and retail partners, 2,500 athletes and celebrities, and 200 exclusive athletes; and over 2,000 retail locations, including its Lids retail stores. Our more than 22,000 employees are committed to relentlessly enhancing the fan experience and delighting sports fans globally.&nbsp;</div>\n</div>\n<p>&nbsp;</p></div><div id=\"message-list_1784585771.303139\">\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div><strong><u>Data Engineer III</u></strong><br><br><strong>About the Role</strong><br>We're looking for a Data Engineer III to join our Data Engineering team, which builds and governs the data foundation that powers the business. You'll work within our stack — Python ingestion pipelines, Airflow orchestration, and Snowflake/Databricks — helping…",
+    "tags": [
+      "Gaming - Core Data"
+    ],
+    "postedAt": "2026-11-12T18:55:22.000Z",
+    "scrapedAt": "2026-11-12T21:42:56.736Z"
+  },
+  {
+    "id": "jobicy:161693",
+    "externalId": "161693",
+    "source": "jobicy",
+    "title": "FinOps Data Engineer",
+    "company": "Supabase",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/611d3bfa-221.png",
+    "location": "Anywhere",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/161693-finops-data-engineer",
+    "description": "About the Role\n We're looking for a FinOps Data Engineer to help drive cost optimization and cloud financial governance across our AWS infrastructure and GCP footprint. You'll work cross-functionally with Engineering, Finance, and Product to find and ship savings, build the tooling necessary to maximize efficiency of every dollar spent in the cloud, and cultivate a culture of cost awareness across engineering teams. This role owns the data side of that mission: the models, pipelines, and analysis that make cost, usage, and margin numbers trustworthy across the company.\n This is a hands-on engineering role, not an analyst seat. You'll do the schlep work other teams don't have time for, digging into a bucket's access pattern, writing the dbt model or Python pipeline that ships the fix, building the cost-vs-revenue mart that answers a margin question once instead of every time, and chasing a number until it reconciles. Strong communication matters as much as technical depth, you'll regularly explain a savings case or a data model's implications to an engineering team, a finance stakeholder, and a leadership audience in the same week.\n What You'll Be Responsible For\n In this role, you'll:\n Find and ship savings across AWS and GCP: Analyze billing, usage, and cost trends to identify opportunities, rightsizing, storage lifecycle policies, data transfer, and spot/auto-scaling. Take ideas from identification through to a realized dollar figure, not just a recommendation.\n Build and maintain the FinOps data pipeline: Design and run the BigQuery/dbt models that turn raw billing and usage data (CUR, Storage Lens) into reconciled, trustworthy mart tables, the foundation everything else in FinOps is built on.\n Build cost-vs-revenue and customer segmentation models: Model unit economics and margin by product line and customer segment, and extend coverage as new products and segments come online.\n Apply data science to cost and usage data: Build forecasting models, detect anomali…",
+    "tags": [
+      "Data Science & Analytics",
+      "Any"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-11-12T17:01:11.000Z",
+    "scrapedAt": "2026-11-12T21:42:56.875Z"
+  },
+  {
     "id": "arbeitnow:ai-data-engineering-praktikum-hamburg-58877",
     "externalId": "ai-data-engineering-praktikum-hamburg-58877",
     "source": "arbeitnow",
@@ -17,23 +52,7 @@
     ],
     "jobType": "Praktikum",
     "postedAt": "2026-11-12T13:01:10.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.402Z"
-  },
-  {
-    "id": "arbeitnow:senior-director-reporting-analytics-engineering-london-28066",
-    "externalId": "senior-director-reporting-analytics-engineering-london-28066",
-    "source": "arbeitnow",
-    "title": "Senior Director, Reporting & Analytics Engineering",
-    "company": "sonyinteractiveentertainmentglobal",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-director-reporting-analytics-engineering-london-28066",
-    "description": "<div class=\"content-intro\"><p><strong>Why Sony Interactive Entertainment?</strong></p>\n<p>Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.</p></div><h2><span style=\"font-size: 16px;\">Role Overview:</span></h2>\n<p><span style=\"font-size: 12pt;\">We are seeking a Senior Director to lead our Enterprise Reporting and Analytics Engineering organization, a team of analytics engineers, report developers, visualization specialists, and people leaders. This organization focuses on the last mile of the enterprise data supply chain: the semantic models, curated data products, metric definitions, and consumption experiences that turn engineered data into decisions.</span></p>\n<p><span style=\"font-size: 12pt;\">This is not a traditional reporting leadership role; the classic notion of “reporting” in the form of a myriad of dashboards and filters is racing towards obsolescence. But the need for data and insights, and the need to deliver it in a way that is digestible and actionable, is timeless. Yes, governed dashboards and trusted reporting remain the foundation, and this leader must be excellent at that foundation. But the mandate is to move the organization decisively beyond static reporting toward a proactive, intelligent analytics capability: partnering with Data Science to productize and visualize their models, enabling generative AI and LLM-based access t…",
-    "tags": [
-      "Admin (PDS)"
-    ],
-    "postedAt": "2026-11-12T12:55:16.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.402Z"
+    "scrapedAt": "2026-11-12T21:42:56.736Z"
   },
   {
     "id": "arbeitnow:senior-data-platform-engineer-hamburg-or-berlin-92902",
@@ -51,61 +70,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-11-12T12:40:31.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.402Z"
-  },
-  {
-    "id": "arbeitnow:data-platform-engineer-data-operations-all-genders-munich-bavaria-290878",
-    "externalId": "data-platform-engineer-data-operations-all-genders-munich-bavaria-290878",
-    "source": "arbeitnow",
-    "title": "Data Platform Engineer – Data Operations (all genders)",
-    "company": "Skdse",
-    "location": "Munich, Bavaria",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/skdse/data-platform-engineer-data-operations-all-genders-munich-bavaria-290878",
-    "description": "<div class=\"content-intro\"><p><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">At Stark, we forge the future of European and national security through cutting-edge, AI-driven technology and unmatched engineering precision. As a premier defence technology company, our mission is clear: to equip NATO Allies and their partners &nbsp;with next-generation autonomous defence platforms and advanced AI-driven software built to perform in the world’s most demanding environments.</span></p>\n<p><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">We believe that true security stems from relentless innovation. By combining elite engineering talent with agile technology and an AI-native operational culture, Stark turns complex defence challenges into field-tested, multi-domain solutions.</span><br><br></p>\n<p><span style=\"font-size: 12pt;\"><strong><span style=\"font-family: helvetica, arial, sans-serif;\">WHY JOIN US</span></strong></span></p>\n<ul>\n<li style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\"><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">The software and systems you work on directly protect personnel and defend European and national sovereignty.</span></li>\n<li style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\"><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">You will work alongside industry-leading minds on autonomous systems, advanced propulsion, and secure cyber platforms.</span></li>\n<li style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\"><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">We foster a fast-paced, collaborative environment where bold ideas are supported by serious R&amp;D backing.</span></li>\n</ul></div><p><strong>ABOUT THE TEAM</strong></p>\n<p>The Data Operations team owns the entire data lifecycle behind STARK's AI stack: collection, acquisition, generation, curation, and manageme…",
-    "tags": [
-      "Perception Data Operations"
-    ],
-    "postedAt": "2026-11-12T09:55:19.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.402Z"
-  },
-  {
-    "id": "jobicy:155126",
-    "externalId": "155126",
-    "source": "jobicy",
-    "title": "Senior Data Engineer, Ads",
-    "company": "Discord",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/02/WRILS-210216185819-522054.jpg",
-    "location": "USA",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/155126-senior-data-engineer-ads",
-    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.\n Discord seeks a seasoned Data Engineer, focusing on our advertising product data. In this role, you will drive technical vision and strategy for ads data engineering in support of our ML initiatives while building and maintaining sophisticated data pipelines, datasets, and analytical tools. You will lead cross-functional initiatives to transform our advertising products through data-driven insights and mentor fellow engineers to deliver exceptional results.\n This role works heavily with Data Science, Machine Learning, and product. If leading technical innovation, architecting scalable solutions, and empowering teams through data excites you, we encourage you to make a move!\n What You'll Be Doing\n Design and own core ads data models : fact/dim tables, canonical datasets, and aggregation layers that power delivery, measurement, targeting, attribution, and ML use cases.\n Build and maintain the ML data that enables ads ranking, delivery, and targeting - including feature development, label generation workflows, intra-day training, and ML input observability to catch data quality issues before they degrade model performance.\n Build conversion measurement pipelines and integrate third-party attribution data - including Conversion Attribution and Mobile Measurement Partner (MMP) integrations (Adjust, AppsFlyer, Singular) - ensuring attribution accuracy and data parity across measurement surfaces.\n Build batch and near real-time pipeline infrastructure across the ads ecosystem - pushing toward lower-latency data for ML and reporting use cases on our BigQuery + dbt + Dagster stack. Partnering with Data Platfor…",
-    "tags": [
-      "Data Science & Analytics",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-11-12T03:41:07.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.517Z"
-  },
-  {
-    "id": "arbeitnow:junior-data-engineer-drachten-370033",
-    "externalId": "junior-data-engineer-drachten-370033",
-    "source": "arbeitnow",
-    "title": "Junior Data Engineer",
-    "company": "The Trainee Company",
-    "location": "Drachten, Friesland, Nederland",
-    "remote": false,
-    "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-data-engineer-drachten-370033",
-    "description": "Je bent vol energie om aan je carrière te beginnen. Het pad van data engineer klinkt als muziek in je oren, maar hoe je in die rol gaat groeien en waar je dat precies wilt doen, dat is nog een vraagteken. No worries, de opdracht Data Engineer is het antwoord! Samen gaan we ontdekken welke weg het beste bij jou past.\n Wat kan je verwachten?\n Met deze opdracht geven we jouw carrière als data engineer een flitsende start! In slechts twee jaar tijd haal jij niet alleen toffe certificaten binnen, maar krijg je ook volop trainingen op ons gezellige kantoor in Bunnik. En dat is nog niet alles – je groeit als een speer door aan de slag te gaan bij (één van) onze opdrachtgevers.\n Het traject is opgedeeld in twee fasen. Het eerste jaar geven we niet alleen je persoonlijke ontwikkeling een boost, maar dompelen we je ook onder in de verschillende facetten van een data engineer. Hoe we dit doen? In de eerste twee weken ben je te vinden op ons Bunnikse kantoor, waar je niet alleen je nieuwe collega’s ontmoet, maar ook toffe trainingen volgt om je hard en soft skills bij te schaven. Het tweede jaar is aan jou om in te vullen, uiteraard word je daarin begeleid door ons: we stellen samen jouw unieke ontwikkelplan op!\n Als data engineer ga je van technisch ontwerp, het opdelen van code in logische blokken tot het bouwen en inbouwen van controles. Jij houdt je dagelijks bezig met de ontwikkeling en het beheer van risicomodellen, dashboards en andere productfuncties. Dit doe je samen met vakspecialisten zoals datascientists, business analisten en functioneel beheerders. Je zorgt voor een soepele overgang van ontwikkeling naar productie. Elk product en elke productfase daagt je uit.\n Dit vragen wij van jou\n Een afgeronde HBO- of WO-opleiding, bij voorkeur op het gebied van IT of Data Science.\n Een vlotte babbel, oplossingsgerichtheid en professionaliteit\n Een goede beheersing van de Nederlandse taal\n Find more English Speaking Jobs in Netherlands on Arbeitnow",
-    "tags": [
-      "Data",
-      "Entry",
-      "fulltime permanent"
-    ],
-    "jobType": "Entry",
-    "postedAt": "2026-11-11T18:31:25.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.402Z"
+    "scrapedAt": "2026-11-12T21:42:56.736Z"
   },
   {
     "id": "remoteok:1137714",
@@ -138,7 +103,7 @@
       "digital nomad"
     ],
     "postedAt": "2026-11-10T16:00:04.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.975Z"
+    "scrapedAt": "2026-11-12T21:42:57.359Z"
   },
   {
     "id": "greenhouse:lyft-8931413002",
@@ -154,7 +119,7 @@
       "Lyft Ads"
     ],
     "postedAt": "2026-11-10T15:58:08.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:gitlab-8924923002",
@@ -170,7 +135,7 @@
       "Data"
     ],
     "postedAt": "2026-11-02T06:44:11.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:coinbase-8047150",
@@ -186,7 +151,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-10-31T02:38:15.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:anthropic-5464234008",
@@ -202,7 +167,7 @@
       "Engineering & Design - Product"
     ],
     "postedAt": "2026-10-30T23:34:18.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "ashby:notion-73a71747-28d3-4dda-a718-77336056e687",
@@ -220,7 +185,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-10-28T18:42:47.956Z",
-    "scrapedAt": "2026-11-12T14:37:01.601Z"
+    "scrapedAt": "2026-11-12T21:46:03.858Z"
   },
   {
     "id": "greenhouse:anthropic-5462966008",
@@ -236,7 +201,7 @@
       "Security"
     ],
     "postedAt": "2026-10-26T22:47:43.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -252,7 +217,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -268,7 +233,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -284,7 +249,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -300,7 +265,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -316,7 +281,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -332,7 +297,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -348,7 +313,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -364,7 +329,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:pinterest-8209014",
@@ -380,7 +345,7 @@
       "Oversight Engineering"
     ],
     "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:airbnb-8224032",
@@ -396,23 +361,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
-  },
-  {
-    "id": "greenhouse:figma-6201407004",
-    "externalId": "figma:6201407004",
-    "source": "greenhouse",
-    "title": "Data Platform Engineer",
-    "company": "Figma",
-    "location": "San Francisco, CA • New York, NY • United States",
-    "remote": false,
-    "url": "https://boards.greenhouse.io/figma/jobs/6201407004?gh_jid=6201407004",
-    "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!\n We are looking for a Data Platform Engineer to join our Data Engineering team and help build the foundational systems that power Figma’s next generation of AI-driven products and data experiences.\n This is a unique opportunity to be an early engineer shaping Figma’s ML and data platform, enabling everything from self-serve analytics to production-grade AI systems. You’ll work at the intersection of data, infrastructure, and machine learning, building scalable systems that empower Data Science, unlock AI capabilities across the company, and bring data and models closer to the product experience.\n This is a full-time role that can be held from one of our US hubs or remotely in the United States.\n What you'll do at Figma:\n Build and evolve the shared data platform that powers analytics, Data Science, and data-driven product development at Figma\n Make data development faster and easier by improving local development, testing, CI/CD, staging, and deployment workflows\n Create self-service tools and clear paths for teams to build, deploy, and operate reliable data pipelines\n Improve the reliability of critical data systems through better monitoring, data quality, incident response, upgrades, and performance management\n Make trusted data easier to find and use by establishing clear definitions, ownership, lineage, and reliability expectations\n Partner across Data Engineering, Data Infrastructure, Data Science, Research, Modeling Platform, Security, and Product Engineering to define ownership boundarie…",
-    "tags": [
-      "Engineering"
-    ],
-    "postedAt": "2026-09-21T16:13:46.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -428,7 +377,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -444,7 +393,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -460,7 +409,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -476,7 +425,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -492,7 +441,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:coinbase-8175459",
@@ -508,7 +457,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:19:13.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -524,7 +473,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -540,7 +489,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:affirm-7916080003",
@@ -556,7 +505,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-08-20T13:43:45.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -576,7 +525,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-11-12T14:37:00.442Z"
+    "scrapedAt": "2026-11-12T21:46:02.991Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -595,7 +544,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-11-12T14:37:01.601Z"
+    "scrapedAt": "2026-11-12T21:46:03.858Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -611,7 +560,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:stripe-8112043",
@@ -627,7 +576,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-08-06T14:27:44.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -643,7 +592,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -659,7 +608,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:affirm-7813362003",
@@ -675,7 +624,7 @@
       "Revenue Operations & Analytics"
     ],
     "postedAt": "2026-07-28T10:52:21.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -691,23 +640,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
-  },
-  {
-    "id": "greenhouse:cloudflare-8055118",
-    "externalId": "cloudflare:8055118",
-    "source": "greenhouse",
-    "title": "Data Engineer",
-    "company": "Cloudflare",
-    "location": "Hybrid",
-    "remote": false,
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118",
-    "description": "About Us\n At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.\n At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.\n Location: Austin (Hybrid)\n About the team\n The Data Intelligence & Analytics organization builds the core data platform and internal products that power decision-making across the company. We design and operate large-scale data systems, own the company’s data lake, ingestion infrastructure, and platform tooling, and develop end-to-end applications that transform complex datasets into fast, reliable, business-critical products used daily by go-to-mar…",
-    "tags": [
-      "Business Intelligence"
-    ],
-    "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -723,7 +656,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -739,7 +672,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -755,7 +688,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -771,7 +704,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -787,7 +720,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
   },
   {
     "id": "greenhouse:robinhood-5616144",
@@ -803,7 +736,23 @@
       "ENG Data Science"
     ],
     "postedAt": "2024-01-23T00:26:13.000Z",
-    "scrapedAt": "2026-11-12T14:33:44.980Z"
+    "scrapedAt": "2026-11-12T21:42:57.370Z"
+  },
+  {
+    "id": "workday:workday-JR-0107830",
+    "externalId": "workday:JR-0107830",
+    "source": "workday",
+    "title": "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
+    "company": "Workday",
+    "location": "2 Locations",
+    "remote": false,
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
+    "description": "",
+    "tags": [
+      "Flex"
+    ],
+    "postedAt": null,
+    "scrapedAt": "2026-11-12T21:43:04.480Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -819,7 +768,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-11-12T14:33:51.646Z"
+    "scrapedAt": "2026-11-12T21:43:04.480Z"
   },
   {
     "id": "workday:nvidia-JR2028588",
@@ -833,7 +782,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-12T14:33:51.646Z"
+    "scrapedAt": "2026-11-12T21:43:04.480Z"
   },
   {
     "id": "workday:nvidia-JR2028539",
@@ -847,7 +796,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-12T14:33:51.646Z"
+    "scrapedAt": "2026-11-12T21:43:04.480Z"
   },
   {
     "id": "workday:nvidia-JR2023850",
@@ -861,7 +810,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-12T14:33:51.646Z"
+    "scrapedAt": "2026-11-12T21:43:04.480Z"
   },
   {
     "id": "workday:nvidia-JR2026497",
@@ -875,7 +824,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-12T14:33:51.646Z"
+    "scrapedAt": "2026-11-12T21:43:04.480Z"
   },
   {
     "id": "workday:nvidia-JR2029837",
@@ -889,7 +838,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-12T14:33:51.646Z"
+    "scrapedAt": "2026-11-12T21:43:04.480Z"
   },
   {
     "id": "workday:nvidia-JR2029192",
@@ -903,7 +852,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-12T14:33:51.646Z"
+    "scrapedAt": "2026-11-12T21:43:04.480Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -917,7 +866,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-12T14:33:51.646Z"
+    "scrapedAt": "2026-11-12T21:43:04.480Z"
   },
   {
     "id": "workday:nvidia-JR2014259",
@@ -931,7 +880,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-12T14:33:51.646Z"
+    "scrapedAt": "2026-11-12T21:43:04.480Z"
   },
   {
     "id": "workday:salesforce-JR364686",
@@ -945,7 +894,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-12T14:33:51.646Z"
+    "scrapedAt": "2026-11-12T21:43:04.480Z"
   },
   {
     "id": "workday:adobe-R171875",
@@ -959,7 +908,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-12T14:33:51.646Z"
+    "scrapedAt": "2026-11-12T21:43:04.480Z"
   },
   {
     "id": "workday:adobe-R172115",
@@ -973,7 +922,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-12T14:33:51.646Z"
+    "scrapedAt": "2026-11-12T21:43:04.480Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -987,7 +936,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-12T14:33:51.646Z"
+    "scrapedAt": "2026-11-12T21:43:04.480Z"
   },
   {
     "id": "workday:salesforce-JR366234",
@@ -1001,7 +950,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-12T14:35:05.267Z"
+    "scrapedAt": "2026-11-12T21:44:12.070Z"
   },
   {
     "id": "workday:salesforce-JR363793",
@@ -1015,7 +964,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-12T14:35:05.267Z"
+    "scrapedAt": "2026-11-12T21:44:12.070Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -1029,7 +978,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-12T14:35:05.267Z"
+    "scrapedAt": "2026-11-12T21:44:12.070Z"
   },
   {
     "id": "workday:salesforce-JR359930",
@@ -1043,6 +992,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-12T14:35:40.781Z"
+    "scrapedAt": "2026-11-12T21:44:43.023Z"
   }
 ]
