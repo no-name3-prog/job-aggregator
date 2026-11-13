@@ -1,12 +1,12 @@
 {
-  "lastRunAt": "2026-11-13T13:52:01.440Z",
-  "durationMs": 51553,
-  "totalJobs": 3210,
+  "lastRunAt": "2026-11-13T21:11:00.871Z",
+  "durationMs": 98678,
+  "totalJobs": 3110,
   "sources": [
     {
       "source": "remotive",
-      "fetched": 14,
-      "kept": 14
+      "fetched": 16,
+      "kept": 16
     },
     {
       "source": "arbeitnow",
@@ -25,13 +25,13 @@
     },
     {
       "source": "greenhouse",
-      "fetched": 1927,
-      "kept": 1927
+      "fetched": 1924,
+      "kept": 1924
     },
     {
       "source": "workday",
-      "fetched": 504,
-      "kept": 504
+      "fetched": 404,
+      "kept": 404
     },
     {
       "source": "lever",
