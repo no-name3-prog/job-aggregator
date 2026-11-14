@@ -166,6 +166,24 @@
     ]
   },
   {
+    "company": "eucalyptus",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Unknown"
+    ],
+    "sampleTitles": [
+      "Staff Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/eucalyptus/staff-data-engineer-252423",
+      "https://www.arbeitnow.co.uk/jobs/companies/eucalyptus/senior-data-engineer-195297"
+    ]
+  },
+  {
     "company": "GitLab",
     "jobCount": 2,
     "sources": [
@@ -204,24 +222,6 @@
     ]
   },
   {
-    "company": "PROSTAFF Schweiz GmbH",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Zürich"
-    ],
-    "sampleTitles": [
-      "Data Engineer (Databricks, Snowflake)",
-      "Big Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/data-engineer-databricks-snowflake-zurich-290301",
-      "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/big-data-engineer-zurich-377130"
-    ]
-  },
-  {
     "company": "Addepto",
     "jobCount": 1,
     "sources": [
@@ -254,38 +254,6 @@
     ]
   },
   {
-    "company": "autoscout24",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Unknown"
-    ],
-    "sampleTitles": [
-      "Senior Analytics Engineer (m/f/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-analytics-engineer-76668"
-    ]
-  },
-  {
-    "company": "Carwow",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Senior BI Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-bi-analytics-engineer-london-54674"
-    ]
-  },
-  {
     "company": "Clickhouse",
     "jobCount": 1,
     "sources": [
@@ -315,22 +283,6 @@
     ],
     "officialUrls": [
       "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118"
-    ]
-  },
-  {
-    "company": "Constructor",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Remote"
-    ],
-    "sampleTitles": [
-      "Data Engineer: Merchant Intelligence Agent"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/constructor/data-engineer-merchant-intelligence-agent-munich-364148"
     ]
   },
   {
@@ -395,6 +347,22 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/notion/73a71747-28d3-4dda-a718-77336056e687"
+    ]
+  },
+  {
+    "company": "Polarsteps",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Amsterdam"
+    ],
+    "sampleTitles": [
+      "Senior Data & Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.nl/jobs/companies/polarsteps/senior-data-analytics-engineer-amsterdam-214056"
     ]
   },
   {
