@@ -128,28 +128,6 @@
     ]
   },
   {
-    "company": "Adobe",
-    "jobCount": 3,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "2 Locations",
-      "Bangalore",
-      "3 Locations"
-    ],
-    "sampleTitles": [
-      "Staff Security Data Engineer",
-      "Sr. Manager, Data Engineering",
-      "Principal Scientist - Data Pipeline Engineer"
-    ],
-    "officialUrls": [
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Security-Data-Engineer_R171875-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Mgr--Software-Development_R172115-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
-    ]
-  },
-  {
     "company": "Brex",
     "jobCount": 2,
     "sources": [
@@ -244,43 +222,6 @@
     ]
   },
   {
-    "company": "SPECTRUM AG",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Dresden"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer (m/w/d)",
-      "Senior Data Engineer Kubernetes (m/w/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/spectrum-ag/senior-data-engineer-dresden-67919",
-      "https://www.arbeitnow.com/jobs/companies/spectrum-ag/senior-data-engineer-kubernetes-dresden-172508"
-    ]
-  },
-  {
-    "company": "Workday",
-    "jobCount": 2,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "2 Locations",
-      "Ireland, Dublin"
-    ],
-    "sampleTitles": [
-      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
-      "Data Platform Engineer - Cybersecurity"
-    ],
-    "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
-    ]
-  },
-  {
     "company": "Addepto",
     "jobCount": 1,
     "sources": [
@@ -313,6 +254,54 @@
     ]
   },
   {
+    "company": "autoscout24",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Unknown"
+    ],
+    "sampleTitles": [
+      "Senior Analytics Engineer (m/f/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-analytics-engineer-76668"
+    ]
+  },
+  {
+    "company": "Carwow",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Senior BI Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-bi-analytics-engineer-london-54674"
+    ]
+  },
+  {
+    "company": "Clickhouse",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "The Netherlands"
+    ],
+    "sampleTitles": [
+      "Data Platform Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.nl/jobs/companies/clickhouse/data-platform-engineer-amsterdam-124619"
+    ]
+  },
+  {
     "company": "Cloudflare",
     "jobCount": 1,
     "sources": [
@@ -329,6 +318,22 @@
     ]
   },
   {
+    "company": "Constructor",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Remote"
+    ],
+    "sampleTitles": [
+      "Data Engineer: Merchant Intelligence Agent"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/constructor/data-engineer-merchant-intelligence-agent-munich-364148"
+    ]
+  },
+  {
     "company": "Figma",
     "jobCount": 1,
     "sources": [
@@ -342,22 +347,6 @@
     ],
     "officialUrls": [
       "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004"
-    ]
-  },
-  {
-    "company": "ILLUIN Technology",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Paris La Défense"
-    ],
-    "sampleTitles": [
-      "Senior Software & Data Engineering (H/F)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/illuin-technology/senior-software-data-engineering-h-f-puteaux-139889"
     ]
   },
   {
@@ -390,38 +379,6 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
-    ]
-  },
-  {
-    "company": "Mirakl - Labs",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Paris, France"
-    ],
-    "sampleTitles": [
-      "Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/data-engineer-paris-469717"
-    ]
-  },
-  {
-    "company": "mirakllabs",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Paris"
-    ],
-    "sampleTitles": [
-      "Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/mirakllabs/data-engineer-paris-412753"
     ]
   },
   {
@@ -534,6 +491,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/twilio/jobs/8044650"
+    ]
+  },
+  {
+    "company": "Xebiadach",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Unknown"
+    ],
+    "sampleTitles": [
+      "Senior Data Architect / Senior Data Engineer – Azure Databricks"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.ch/jobs/companies/xebiadach/senior-data-architect-senior-data-engineer-azure-databricks-39403"
     ]
   }
 ]

@@ -1,91 +1,89 @@
 [
   {
-    "id": "arbeitnow:data-engineer-paris-469717",
-    "externalId": "data-engineer-paris-469717",
+    "id": "arbeitnow:senior-data-architect-senior-data-engineer-azure-databricks-39403",
+    "externalId": "senior-data-architect-senior-data-engineer-azure-databricks-39403",
     "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Mirakl - Labs",
-    "location": "Paris, France",
+    "title": "Senior Data Architect / Senior Data Engineer – Azure Databricks",
+    "company": "Xebiadach",
+    "location": "Unknown",
     "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/data-engineer-paris-469717",
-    "description": "About Mirakl:\n Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.\nToday, Mirakl's operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling (Mirakl Connect), retail media (Mirakl Ads) and an agentic commerce infrastructure (Mirakl Nexus).\nWith dual headquarters in Boston and Paris, Mirakl helps a global ecosystem of 450+ marketplaces (B2C and B2B) and a network of over 100k third-party marketplace sellers. Brands like Macy's, Decathlon, Carrefour, Asos, and Airbus Helicopters use Mirakl to grow their businesses in new and remarkable ways.\n For more information: www.mirakl.com .\n Mirakl in Numbers:\n 🗓️ Founded in 2012 | Member of French Tech Next40\n 👥 750+ employees in 9 offices worldwide: Paris, Barcelona, Bordeaux, Boston, London, Munich, New York, Sydney, Tokyo\n 🇫🇷 350+ Mirakl Tech teams members mainly based in France\n ⚙️ 5 Saas Solutions\n Our Values:\n Working at Mirakl means accelerating your career alongside ambitious, passionate, and supportive colleagues. We're proud of the diversity of backgrounds, perspectives, and experiences that make our teams unique.\n Our 5 values guide how we collaborate:\n 💡 Work Hard Together: Teamwork and collaboration are the foundation of our success\n 🏆 Get Things Done: We prioritize action and efficiency for impactful results\n 🚀 Go Above & Beyond: We tackle challenges proactively and always aim for excellence\n 🎓 Succeed Through Expertise: Knowledge sharing and continuous learning are core to our culture\n 🤝 Satisfy & Empower Clients: We're committed to our clients' success\n Data Engineer\n About Mirakl\n Mirakl is the leading provider of eCommerce software solutions. Mirakl's suite of solutions provides enterprises with a transformative way to drive significant growth and efficiency in…",
-    "tags": [],
-    "postedAt": "2026-11-13T16:45:26.000Z",
-    "scrapedAt": "2026-11-13T21:11:01.748Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-dresden-67919",
-    "externalId": "senior-data-engineer-dresden-67919",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer (m/w/d)",
-    "company": "SPECTRUM AG",
-    "location": "Dresden",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/spectrum-ag/senior-data-engineer-dresden-67919",
-    "description": "Senior Data Engineer (m/w/d)\n Standort: Dresden\n Start: Ab sofort\n Unternehmensprofil\n Das Unternehmen mit Hauptsitz in München ist ein global agierender Anbieter von Lösungen in den Bereichen Elektro-, Test- und Messtechnik sowie Kommunikationstechnologie. Das Unternehmen bietet ein breites Spektrum an Produkten, darunter Testgeräte für Elektronik, Funkkommunikation, Satellitenkommunikation und Netzwerke. Diese Produkte werden von Unternehmen in verschiedenen Branchen eingesetzt, darunter Luft- und Raumfahrt, Verteidigung, Telekommunikation, Automobilindustrie und Elektronik.\n Aufgaben\n Konzeption und Entwicklung einer On-Premises-Datenplattform\n Entwicklung und Integration von Komponenten für Datenorchestrierung, Deployment und Plattformautomatisierung\n Implementierung von Batch- und Streaming-Datenpipelines sowie plattformbezogenen Services\n Integration von Workloads auf Kubernetes sowie S3-kompatiblen Storage-Lösungen\n Untersuchung von Datenkatalogen und Datenversionierung sowie deren Integration in die Plattform\n Zusammenarbeit mit Lead Architekten sowie Infrastruktur- und Security-Teams\n Qualifikationen\n Abgeschlossenes Studium der Informatik oder vergleichbare Qualifikation\n Freude an Proofs of Concept, die eigenständig zum Laufen gebracht werden\n Mehrjährige Erfahrung mit Kubernetes und Kubernetes-Infrastruktur sowie mit Linux-Betriebssystemen\n Kenntnisse moderner Datenplattform-Architekturen wie Kappa oder Medallion sowie Batch- und Low-Latency-Streaming-Pipelines\n Praktische Kenntnisse in Python, Golang, SQL (MPP), Bash und Java\n Routinierter Umgang mit Linux, Linux-Containern und Kubernetes (Cloud Native) sowie eigene Ideen für Data-Management-Plattformen am Edge ohne Public-Cloud-Services\n Idealerweise mehrjährige Berufserfahrung als Data Scientist\n Analytisches Denken, agiles Mindset, ausgeprägte Problemlösungskompetenz und starke Lösungsorientierung\n Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift\n Zusätzliche Informationen & Benefits\n 4…",
+    "url": "https://www.arbeitnow.ch/jobs/companies/xebiadach/senior-data-architect-senior-data-engineer-azure-databricks-39403",
+    "description": "<p>Remote, occasionally Zurich · 80–100% · Start as soon as possible ·&nbsp;</p>\n<p><span data-teams=\"true\"><strong>Xebia</strong> pushes the boundaries of what’s possible – and you’re right in the middle of it! We’re not just consultants, but visionaries: with more than 5,000 experts worldwide, we help our clients drive their digital transformation with passion and ambition. At Xebia, it’s about more than recommendations: with innovative solutions, we create a unique combination of technology, people and processes. Our goal is to make our clients digital frontrunners – ready to turn media usage data into insights that make a difference?</span></p>\n<p><strong>About the project</strong><br>Our client, a large Swiss media company, is building a new platform on Azure Databricks for the usage data of its apps and websites. It will replace the commercial analytics tool they use today. Analysts are starting to work on the new platform now.</p>\n<p><strong>Your role</strong><br>You join the platform team of five developers through Xebia. Most of your time goes into implementing Jira tickets. You build and run the pipelines that take event data from Azure Event Hubs through the bronze, silver and gold layers into the tables analysts and dashboards use. You keep the Databricks and Azure infrastructure in code with Pulumi and ship changes through GitHub Actions. The team creates and refines tickets together and reviews each other's code. You'll also help analysts get started with Databricks and GitHub.</p>\n<p>As the senior person in the team, you can advise on anything from implementation details to the overall architecture, while the product owner sets the priorities. Today the role also covers the data model, the infrastructure and the platform costs, and there is room to take on more responsibility over time. The team uses AI coding assistants such as Claude in its daily work.</p>\n<p><strong>Must-have</strong><br>• Several years of hands-on data engineering on Databricks:…",
     "tags": [
-      "Data Processing",
-      "Data Engineer",
-      "Unbefristeter arbeitsvertrag",
-      "berufserfahren"
+      "Delivery"
     ],
-    "jobType": "Unbefristeter arbeitsvertrag",
-    "postedAt": "2026-11-13T16:00:51.000Z",
-    "scrapedAt": "2026-11-13T21:11:01.748Z"
+    "postedAt": "2026-11-14T03:55:26.000Z",
+    "scrapedAt": "2026-11-14T04:45:24.368Z"
   },
   {
-    "id": "arbeitnow:senior-data-engineer-kubernetes-dresden-172508",
-    "externalId": "senior-data-engineer-kubernetes-dresden-172508",
+    "id": "arbeitnow:data-engineer-merchant-intelligence-agent-munich-364148",
+    "externalId": "data-engineer-merchant-intelligence-agent-munich-364148",
     "source": "arbeitnow",
-    "title": "Senior Data Engineer Kubernetes (m/w/d)",
-    "company": "SPECTRUM AG",
-    "location": "Dresden",
+    "title": "Data Engineer: Merchant Intelligence Agent",
+    "company": "Constructor",
+    "location": "Remote",
     "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/spectrum-ag/senior-data-engineer-kubernetes-dresden-172508",
-    "description": "Senior Data Engineer Kubernetes (m/w/d)\n Standort: Dresden\n Start: Ab sofort\n Unternehmensprofil\n Das Unternehmen mit Hauptsitz in München ist ein global agierender Anbieter von Lösungen in den Bereichen Elektro-, Test- und Messtechnik sowie Kommunikationstechnologie. Das Unternehmen bietet ein breites Spektrum an Produkten, darunter Testgeräte für Elektronik, Funkkommunikation, Satellitenkommunikation und Netzwerke. Diese Produkte werden von Unternehmen in verschiedenen Branchen eingesetzt, darunter Luft- und Raumfahrt, Verteidigung, Telekommunikation, Automobilindustrie und Elektronik.\n Aufgaben\n Konzeption und Entwicklung einer On-Premises-Datenplattform auf Kubernetes (nicht auf AWS oder anderen Public-Cloud-Anbietern)\n Entwicklung und Integration von Komponenten für Datenorchestrierung, Deployment und Plattformautomatisierung\n Implementierung von Batch- und Streaming-Datenpipelines sowie plattformbezogenen Services\n Integration von Workloads auf Kubernetes sowie S3-kompatiblen Storage-Lösungen\n Untersuchung von Datenkatalogen und deren Integration in die Plattform\n Zusammenarbeit mit Lead Architekten sowie Infrastruktur- und Security-Teams\n Qualifikationen\n Abgeschlossenes Studium der Informatik oder vergleichbare Qualifikation\n Mehrjährige Erfahrung mit Kubernetes und Kubernetes-Infrastruktur (On-Premise, nicht nur AWS und andere Public-Cloud-Anbieter) sowie mit Linux-Betriebssystemen\n Freude an Proofs of Concept, die eigenständig zum Laufen gebracht werden\n Kenntnisse moderner Datenplattform-Architekturen wie Kappa oder Medallion sowie Batch- und Low-Latency-Streaming-Pipelines\n Praktische Kenntnisse in einigen der Sprachen Python, Golang, SQL, Rust, Bash und Java\n Routinierter Umgang mit Linux, Linux-Containern und Kubernetes (Cloud Native) sowie eigene Ideen für Data-Management-Plattformen am Edge ohne Public-Cloud-Services\n Idealerweise mehrjährige Berufserfahrung als Data Scientist\n Analytisches Denken, agiles Mindset, ausgeprägte Problemlösungskompetenz…",
+    "url": "https://www.arbeitnow.com/jobs/companies/constructor/data-engineer-merchant-intelligence-agent-munich-364148",
+    "description": "About Us\n Launched in 2019, Constructor is an AI-first e-commerce search and discovery platform that helps shoppers find the right products at the right time and enables leading global e-commerce brands to drive meaningful revenue and conversion gains.\n About the Team\n We build the AI agent that helps merchandisers, product managers, and executives grow their e-commerce business: it finds opportunities in their data, tailors insights to each person's role, and takes routine work off their plate by delivering answers where they already work. We are transforming how digital merchandising teams work: instead of digging through reports and configuring rules by hand, they ask in plain language, get answers grounded in their own data, and approve the changes the agent prepares. Customers already rely on the agent to save time and make better decisions.\n We own the agent end to end, from the first question a merchant asks to the answer they act on. We also own the analytics behind it: the pipelines and cubes for search, browse, and recommendation performance, and the metric definitions merchants rely on.\n That is why we build the agent and the Customer Dashboard as a platform that every Constructor team extends. We create the foundation that other teams build on: the agent framework, shared components, and infrastructure. On top of it, teams add their own data, tools, and skills, so the agent can answer questions in their domain and the dashboard can show their features without separate interfaces. Each new capability gives merchants more ways to grow their business.\n What you'll do\n Build and own the batch pipelines and cubes behind dashboard analytics and agent insights\n Model shopper, trend, and benchmark data so the agent can find opportunities across the shopping journey\n Shape data for each role: a merchandiser's category, a product manager's funnel step, an executive's total\n Own data quality and trust: freshness, monitoring, alerting, and metric definitions\n Work…",
     "tags": [
-      "Data Processing",
-      "Data Engineer",
-      "Unbefristeter arbeitsvertrag",
-      "berufserfahren"
-    ],
-    "jobType": "Unbefristeter arbeitsvertrag",
-    "postedAt": "2026-11-13T16:00:51.000Z",
-    "scrapedAt": "2026-11-13T21:11:01.748Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-paris-412753",
-    "externalId": "data-engineer-paris-412753",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "mirakllabs",
-    "location": "Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/data-engineer-paris-412753",
-    "description": "<div class=\"content-intro\"><p><strong>About Mirakl:</strong></p>\n<p>Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.<br><br>Today, Mirakl’s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling (Mirakl Connect), retail media (Mirakl Ads) and an agentic commerce infrastructure (Mirakl Nexus).<br><br>With dual headquarters in Boston and Paris, Mirakl helps a global ecosystem of 450+ marketplaces (B2C and B2B) and a network of over 100k third-party marketplace sellers. Brands like Macy’s, Decathlon, Carrefour, Asos, and Airbus Helicopters use Mirakl to grow their businesses in new and remarkable ways.</p>\n<p>For more information: <a href=\"http://www.mirakl.com\">www.mirakl.com</a>.</p>\n<p><strong>Mirakl in Numbers:</strong></p>\n<ul>\n<li>🗓️ Founded in 2012 | Member of French Tech Next40</li>\n<li>👥 750+ employees in 9 offices worldwide: Paris, Barcelona, Bordeaux, Boston, London, Munich, New York, Sydney, Tokyo</li>\n<li>🇫🇷 350+ Mirakl Tech teams members mainly based in France</li>\n<li>⚙️ 5 Saas Solutions</li>\n</ul>\n<p><strong>Our Values:</strong></p>\n<p>Working at Mirakl means accelerating your career alongside ambitious, passionate, and supportive colleagues. We're proud of the diversity of backgrounds, perspectives, and experiences that make our teams unique.</p>\n<p>Our 5 values guide how we collaborate:</p>\n<ul>\n<li>💡<strong> Work Hard Together:</strong> Teamwork and collaboration are the foundation of our success</li>\n<li>🏆 <strong>Get Things Done: </strong>&nbsp;We prioritize action and efficiency for impactful results</li>\n<li>🚀 <strong>Go Above &amp; Beyond:</strong>&nbsp; We tackle challenges proactively and always aim for excellence</li>\n<li>🎓 <strong>Succeed Through Expertise:</strong> Knowledge sharing and c…",
-    "tags": [
-      "Tech"
-    ],
-    "postedAt": "2026-11-13T15:55:20.000Z",
-    "scrapedAt": "2026-11-13T21:11:01.748Z"
-  },
-  {
-    "id": "arbeitnow:senior-software-data-engineering-h-f-puteaux-139889",
-    "externalId": "senior-software-data-engineering-h-f-puteaux-139889",
-    "source": "arbeitnow",
-    "title": "Senior Software & Data Engineering (H/F)",
-    "company": "ILLUIN Technology",
-    "location": "Paris La Défense",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/senior-software-data-engineering-h-f-puteaux-139889",
-    "description": "Descriptif du poste\n   → Votre mission\nEn tant que Senior Software & Data Engineer, votre rôle sera de concevoir, développer et industrialiser des solutions technologiques et data de pointe, au service de produits IA à fort impact.\nVous interviendrez à la fois sur :\n le développement de solutions software sur mesure ou produit\n la conception et l’industrialisation d’architectures data scalables\n la mise en place de systèmes IA et MLOps en environnement cloud ou on-premise\n Ces solutions s’inscrivent dans des projets clients exigeants, ainsi que dans le développement de nos produits et de notre stack interne.\n → Vos responsabilités\n Concevoir et développer des applications, APIs et architectures data robustes et scalables\n Industrialiser des pipelines de données (ingestion, transformation, streaming, batch) sur des volumes importants\n Participer à la conception de solutions IA / GenAI intégrées dans des produits clients\n Contribuer à la mise en place et à l’évolution de notre stack MLOps / Data Engineering\n Participer aux code reviews, challenger les implémentations et partager les bonnes pratiques\n Prendre part aux cérémonies agiles et sprint reviews en interaction directe avec les clients et équipes produit\n Encadrer et faire monter en compétences des profils juniors (selon séniorité)\n Contribuer à la R&D, aux projets internes transverses (OPS, sécurité, tooling, formation, innovation)\n Participer ponctuellement aux échanges techniques avec les équipes commerciales (avant-vente / cadrage)\n   Profil recherché\nNous cherchons le match parfait 💓 …mais nous croyons à la richesse des rencontres ! Alors si vous n’êtes pas certain.e de matcher notre recherche nous vous encourageons à nous contacter quand même ✉️\n   ✅ Must have\n Expérience avec un langage de programmation (Python, Java, Kotlin, Scala, TypeScript…)\n Solide compréhension du développement logiciel et du fonctionnement du Web\n Maîtrise de SQL et des bases de données (SQL / NoSQL)\n Expérience avec frameworks b…",
-    "tags": [
-      "Software Engineering",
+      "Engineering",
       "Full Time"
     ],
     "jobType": "Full Time",
-    "postedAt": "2026-11-13T15:40:18.000Z",
-    "scrapedAt": "2026-11-13T21:11:01.748Z"
+    "postedAt": "2026-11-14T00:40:14.000Z",
+    "scrapedAt": "2026-11-14T04:45:24.368Z"
+  },
+  {
+    "id": "arbeitnow:data-platform-engineer-amsterdam-124619",
+    "externalId": "data-platform-engineer-amsterdam-124619",
+    "source": "arbeitnow",
+    "title": "Data Platform Engineer",
+    "company": "Clickhouse",
+    "location": "The Netherlands",
+    "remote": false,
+    "url": "https://www.arbeitnow.nl/jobs/companies/clickhouse/data-platform-engineer-amsterdam-124619",
+    "description": "About the role\n At ClickHouse, we believe in making product decisions grounded in data, not gut feelings. To support that, we've built a comprehensive internal data warehouse — read more about it on our blog . It powers analytics, forecasting, and decision-making across every team in the company.\n Our stack centers on ClickHouse as the core storage and processing engine, complemented by dbt , Airflow , S3 , AWS , Superset , and GitHub Actions . We ingest data from 30+ distinct external sources, process over 2.5 PB of data, and deliver most data marts to business consumers with a 1-hour end-to-end latency - a standard that demands highly optimized, rock-solid transformation pipelines.\n We're looking for a Senior Data Engineer to help evolve the DWH platform, push its technical boundaries, and deliver reliable, high-performance data models to business users across the organization.\n Key Responsibilities DWH Platform Development\n Design and develop reusable Airflow components - operators, connectors, and hooks - along with custom integrations tailored to our data architecture.\n Build reusable dbt macros and abstractions: incremental strategies, ETL building blocks, and generic data quality tests, all optimized for ClickHouse-specific behavior and our data patterns.\n Develop DataOps tooling - CI pipelines, data migration frameworks, and security controls - with a strong focus on reliability, self-service usability, and scale.\n Team contributions\n Conduct thorough code reviews for team members and other team contributors.\n Actively participate in technical and architectural design discussions.\n Drive technical leadership in specific areas of our stack.\n Continuously improve the team's development environment, with a focus on automation - including AI-assisted workflows.\n Contribute to platform stability through proactive troubleshooting and timely incident resolution.\n Data modeling\n Develop, refactor, and optimize business data models in line with our modeling standard…",
+    "tags": [
+      "Engineering",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-11-14T00:40:14.000Z",
+    "scrapedAt": "2026-11-14T04:45:24.368Z"
+  },
+  {
+    "id": "arbeitnow:senior-bi-analytics-engineer-london-54674",
+    "externalId": "senior-bi-analytics-engineer-london-54674",
+    "source": "arbeitnow",
+    "title": "Senior BI Analytics Engineer",
+    "company": "Carwow",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-bi-analytics-engineer-london-54674",
+    "description": "OUR MISSION\n To become the car-changing destination of choice. By combining technology, media and deep automotive expertise, we've turned how people buy, sell, advertise and lease cars on its head.\n What started as a simple reviews site is now one of the largest online car-changing destinations in Europe. Last year alone we grew over 50% with nearly £3bn worth of cars bought on site, while £1.8bn of cars were listed for sale through our Sell My Car service.\n In 2024 we went big and acquired Autovia - creators of AutoExpress and Evo magazines - doubling our audience overnight. Together we now have one of the biggest YouTube channels in the world with almost 10m subscribers and over 1.1 billion annual views, while we sell 1.2 million print copies of our magazines and have an annual web content reach over 350million.\n And we’re a long way from done!\n THE ROLE\n We’re looking for a Senior Analytics Engineer / BI Analyst to bridge the gap between data engineering and business insight. You’ll take ownership of transforming raw data into trusted, well modelled datasets and deliver impactful reporting that drives decision making across the business. This role combines strong technical data modelling skills with stakeholder-facing analytics and BI development.\n   WHAT YOU'LL BE DOING\n Design, build, and maintain scalable data models using dbt on Google Cloud Platform (BigQuery)\n Create and maintain dashboards and explores in Looker , enabling self-serve analytics\n Translate business requirements into clear data models, metrics, and visualisations\n Define and maintain core business metrics and data definitions in partnership with stakeholders and the wider analytics team\n Implement data quality checks, testing, and documentation within dbt\n Partner with stakeholders across all parts of the business including commercial, product, marketing, finance, and operations\n Optimise query performance and manage cost efficiency in BigQuery\n Mentor junior analysts and promote best practi…",
+    "tags": [
+      "Technology",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-11-14T00:40:13.000Z",
+    "scrapedAt": "2026-11-14T04:45:24.368Z"
+  },
+  {
+    "id": "arbeitnow:senior-analytics-engineer-76668",
+    "externalId": "senior-analytics-engineer-76668",
+    "source": "arbeitnow",
+    "title": "Senior Analytics Engineer (m/f/d)",
+    "company": "autoscout24",
+    "location": "Unknown",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-analytics-engineer-76668",
+    "description": "<p><strong><span data-contrast=\"auto\">A career driven by you. </span></strong><span data-contrast=\"auto\">Join AutoScout24 Group and experience life in the fast lane. We’re not just leading the market; we’re creating it. We’re constantly innovating, evolving and transforming things for our customers. We’re driven, ambitious and determined to do our best work, together. For a career that doesn’t stand still, where you can put your ideas in the driving seat and change the way the world moves, join our international community.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"201341983\":0,\"335551550\":1,\"335551620\":1,\"335559685\":0,\"335559737\":0,\"335559738\":0,\"335559739\":160,\"335559740\":257}\">&nbsp;</span></p>\n<p><span data-contrast=\"none\">As a </span><strong><span data-contrast=\"none\">Senior Analytics Engineer</span></strong><span data-contrast=\"none\">, you will be a senior technical contributor within the Analytics Engineering team and help shape the data foundations behind reporting, self-service analytics, and AI-driven decision-making. You will own complex technical workstreams, set direction for team-level analytical systems, and help improve the standards, practices, and architecture used across the team.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335557856\":16777215,\"335559738\":240,\"335559739\":240}\">&nbsp;</span></p>\n<p><strong><span data-contrast=\"none\">What youʼll do</span></strong><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335557856\":16777215,\"335559738\":240,\"335559739\":240}\">&nbsp;</span></p>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"5\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"none\">Own complex analytics engineering workstreams from problem framing through delivery and adoption</span><span…",
+    "tags": [
+      "Engineering"
+    ],
+    "postedAt": "2026-11-13T21:55:40.000Z",
+    "scrapedAt": "2026-11-14T04:45:24.368Z"
   },
   {
     "id": "greenhouse:lyft-8940409002",
@@ -101,7 +99,7 @@
       "Marketplace"
     ],
     "postedAt": "2026-11-13T09:17:01.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "arbeitnow:data-engineer-databricks-snowflake-zurich-290301",
@@ -121,7 +119,7 @@
     ],
     "jobType": "Indefinite contract (unbefristeter arbeitsvertrag)",
     "postedAt": "2026-11-12T23:30:36.000Z",
-    "scrapedAt": "2026-11-13T21:11:01.748Z"
+    "scrapedAt": "2026-11-14T04:45:24.368Z"
   },
   {
     "id": "arbeitnow:big-data-engineer-zurich-377130",
@@ -132,7 +130,7 @@
     "location": "Zürich",
     "remote": false,
     "url": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/big-data-engineer-zurich-377130",
-    "description": "For one of our clients, we are looking for a Senior Data Engineer to design data architectures and build distributed pipelines across cloud and on-premises environments. Your work will make data ready for operational use, analytics and machine learning.\n Design and maintain scalable data architectures and pipelines across cloud and on-premises environments.\n Integrate diverse data sources and ensure processing is reliable and reproducible.\n Test and monitor distributed pipelines and estimate performance and costs for different use cases.\n Collaborate with data scientists to prepare datasets for machine learning and build dashboards that make processed data accessible to users.\n Degree in computer science, mathematics or a related field.\n Several years of experience in technical roles, with strong Python and SQL skills and a focus on maintainable software.\n Sound knowledge of big data infrastructure, scalable databases and distributed processing.\n Good understanding of public cloud services such as AWS, Azure or Google Cloud.\n Experience with or interest in tools such as Spark, Hadoop, Hive, Airflow or Kubernetes, and familiarity with relational or NoSQL databases and DevOps practices.\n Fluent German and English.\n Find Jobs in Switzerland on Arbeitnow",
+    "description": "For one of our clients, we are looking for a Senior Data Engineer to design data architectures and build distributed pipelines across cloud and on-premises environments. Your work will make data ready for operational use, analytics and machine learning.\n Design and maintain scalable data architectures and pipelines across cloud and on-premises environments.\n Integrate diverse data sources and ensure processing is reliable and reproducible.\n Test and monitor distributed pipelines and estimate performance and costs for different use cases.\n Collaborate with data scientists to prepare datasets for machine learning and build dashboards that make processed data accessible to users.\n Degree in computer science, mathematics or a related field.\n Several years of experience in technical roles, with strong Python and SQL skills and a focus on maintainable software.\n Sound knowledge of big data infrastructure, scalable databases and distributed processing.\n Good understanding of public cloud services such as AWS, Azure or Google Cloud.\n Experience with or interest in tools such as Spark, Hadoop, Hive, Airflow or Kubernetes, and familiarity with relational or NoSQL databases and DevOps practices.\n Fluent German and English.\n Find more English Speaking Jobs in Switzerland on Arbeitnow",
     "tags": [
       "Data Processing",
       "Data Engineer",
@@ -141,7 +139,7 @@
     ],
     "jobType": "Indefinite contract (unbefristeter arbeitsvertrag)",
     "postedAt": "2026-11-12T23:30:36.000Z",
-    "scrapedAt": "2026-11-13T21:11:01.748Z"
+    "scrapedAt": "2026-11-14T04:45:24.368Z"
   },
   {
     "id": "greenhouse:block-5473605008",
@@ -157,7 +155,7 @@
       "30403 Foundational - Guidance - Corporate Finance & Strategy"
     ],
     "postedAt": "2026-11-12T21:53:17.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "remotive:2091137",
@@ -224,7 +222,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-11-11T18:39:59.000Z",
-    "scrapedAt": "2026-11-13T21:11:01.532Z"
+    "scrapedAt": "2026-11-14T04:45:24.268Z"
   },
   {
     "id": "remoteok:1137714",
@@ -257,7 +255,7 @@
       "digital nomad"
     ],
     "postedAt": "2026-11-10T16:00:04.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.705Z"
+    "scrapedAt": "2026-11-14T04:45:24.826Z"
   },
   {
     "id": "greenhouse:lyft-8931413002",
@@ -273,7 +271,7 @@
       "Lyft Ads"
     ],
     "postedAt": "2026-11-10T15:58:08.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:gitlab-8924923002",
@@ -289,7 +287,7 @@
       "Data"
     ],
     "postedAt": "2026-11-02T06:44:11.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:coinbase-8047150",
@@ -305,7 +303,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-10-31T02:38:15.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:anthropic-5464234008",
@@ -321,7 +319,7 @@
       "Engineering & Design - Product"
     ],
     "postedAt": "2026-10-30T23:34:18.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "ashby:notion-73a71747-28d3-4dda-a718-77336056e687",
@@ -339,7 +337,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-10-28T18:42:47.956Z",
-    "scrapedAt": "2026-11-13T21:14:25.777Z"
+    "scrapedAt": "2026-11-14T04:46:10.129Z"
   },
   {
     "id": "greenhouse:anthropic-5462966008",
@@ -355,7 +353,7 @@
       "Security"
     ],
     "postedAt": "2026-10-26T22:47:43.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -371,7 +369,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -387,7 +385,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -403,7 +401,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -419,7 +417,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -435,7 +433,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -451,7 +449,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -467,7 +465,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -483,7 +481,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:pinterest-8209014",
@@ -499,7 +497,7 @@
       "Oversight Engineering"
     ],
     "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:airbnb-8224032",
@@ -515,7 +513,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -531,7 +529,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -547,7 +545,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -563,7 +561,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -579,7 +577,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -595,7 +593,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -611,7 +609,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -627,7 +625,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -647,7 +645,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-11-13T21:14:24.261Z"
+    "scrapedAt": "2026-11-14T04:46:09.120Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -666,7 +664,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-11-13T21:14:25.777Z"
+    "scrapedAt": "2026-11-14T04:46:10.129Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -682,7 +680,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:stripe-8112043",
@@ -698,7 +696,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-08-06T14:27:44.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -714,7 +712,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -730,7 +728,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -746,7 +744,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -762,7 +760,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -778,7 +776,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -794,7 +792,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -810,7 +808,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -826,7 +824,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -842,7 +840,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "greenhouse:robinhood-5616144",
@@ -858,39 +856,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2024-01-23T00:26:13.000Z",
-    "scrapedAt": "2026-11-13T21:11:02.716Z"
-  },
-  {
-    "id": "workday:workday-JR-0107830",
-    "externalId": "workday:JR-0107830",
-    "source": "workday",
-    "title": "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
-    "company": "Workday",
-    "location": "2 Locations",
-    "remote": false,
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
-    "description": "",
-    "tags": [
-      "Flex"
-    ],
-    "postedAt": null,
-    "scrapedAt": "2026-11-13T21:11:09.970Z"
-  },
-  {
-    "id": "workday:workday-JR-0108816",
-    "externalId": "workday:JR-0108816",
-    "source": "workday",
-    "title": "Data Platform Engineer - Cybersecurity",
-    "company": "Workday",
-    "location": "Ireland, Dublin",
-    "remote": false,
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816",
-    "description": "",
-    "tags": [
-      "Flex"
-    ],
-    "postedAt": null,
-    "scrapedAt": "2026-11-13T21:11:09.970Z"
+    "scrapedAt": "2026-11-14T04:45:24.834Z"
   },
   {
     "id": "workday:salesforce-JR364686",
@@ -904,49 +870,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-13T21:11:09.970Z"
-  },
-  {
-    "id": "workday:adobe-R171875",
-    "externalId": "adobe:R171875",
-    "source": "workday",
-    "title": "Staff Security Data Engineer",
-    "company": "Adobe",
-    "location": "2 Locations",
-    "remote": false,
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Security-Data-Engineer_R171875-1",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-11-13T21:11:09.970Z"
-  },
-  {
-    "id": "workday:adobe-R172115",
-    "externalId": "adobe:R172115",
-    "source": "workday",
-    "title": "Sr. Manager, Data Engineering",
-    "company": "Adobe",
-    "location": "Bangalore",
-    "remote": false,
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Mgr--Software-Development_R172115-1",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-11-13T21:11:09.970Z"
-  },
-  {
-    "id": "workday:adobe-R170588",
-    "externalId": "adobe:R170588",
-    "source": "workday",
-    "title": "Principal Scientist - Data Pipeline Engineer",
-    "company": "Adobe",
-    "location": "3 Locations",
-    "remote": false,
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-11-13T21:11:09.970Z"
+    "scrapedAt": "2026-11-14T04:45:31.497Z"
   },
   {
     "id": "workday:salesforce-JR366234",
@@ -960,7 +884,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-13T21:12:22.963Z"
+    "scrapedAt": "2026-11-14T04:45:43.463Z"
   },
   {
     "id": "workday:salesforce-JR363793",
@@ -974,7 +898,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-13T21:12:22.963Z"
+    "scrapedAt": "2026-11-14T04:45:43.463Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -988,7 +912,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-13T21:12:22.963Z"
+    "scrapedAt": "2026-11-14T04:45:43.463Z"
   },
   {
     "id": "workday:salesforce-JR359930",
@@ -1002,6 +926,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-13T21:13:05.915Z"
+    "scrapedAt": "2026-11-14T04:45:53.180Z"
   }
 ]
