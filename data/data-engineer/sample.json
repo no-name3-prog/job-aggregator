@@ -1,19 +1,126 @@
 [
   {
-    "id": "arbeitnow:principal-data-engineer-belfast-31609",
-    "externalId": "principal-data-engineer-belfast-31609",
+    "id": "arbeitnow:data-platform-engineer-berlin-328247",
+    "externalId": "data-platform-engineer-berlin-328247",
     "source": "arbeitnow",
-    "title": "Principal Data Engineer",
-    "company": "Blackduck",
-    "location": "Belfast",
+    "title": "Data Platform Engineer (m/f/d)",
+    "company": "Flix",
+    "location": "Berlin, Berlin, Germany",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/blackduck/principal-data-engineer-belfast-31609",
-    "description": "<div class=\"content-intro\"><p>Black Duck Software, Inc. helps organizations build secure, high-quality software, minimizing risks while maximizing speed and productivity. Black Duck, a recognized pioneer in application security, provides SAST, SCA, and DAST solutions that enable teams to quickly find and fix vulnerabilities and defects in proprietary code, open source components, and application behavior. With a combination of industry-leading tools, services, and expertise, only Black Duck helps organizations maximize security and quality in DevSecOps and throughout the software development life cycle.</p></div><p><strong>What you’ll do</strong></p>\n<ul>\n<li>Lead the design and build-out of cross-product data services for multiple product lines from one governed data plane.</li>\n<li>Define the “customer data plane” model: canonical customer identifiers, shared dimensions, and consistent facts used across products.</li>\n<li>Build and operationalize ingestion patterns for batch, streaming, and event data, with repeatable onboarding for new sources.</li>\n<li>Own the operational playbook for data reliability: data contracts, quality checks, lineage, monitoring, and incident response.</li>\n<li>Implement and run access methods that make data usable: curated datasets, secure query interfaces, and product-ready data APIs where needed.</li>\n<li>Productize customer-facing data products (datasets, metrics, exports, and feeds) with versioning, documentation, and clear ownership.</li>\n<li>Design data models that fit both operational systems (RDS) and analytics stores (columnar/OLAP), including performance and cost tuning.</li>\n<li>Ensure data products also power ML workflows: trusted training datasets, feature-ready outputs, and consistent definitions for decision-making.</li>\n<li>Enable AI automation by delivering reliable, low-latency, governed data products that can be used safely in automated workflows.</li>\n<li>Partner closely with product, engineering, and security stake…",
+    "url": "https://www.arbeitnow.com/jobs/companies/flix/data-platform-engineer-berlin-328247",
+    "description": "We're looking for a Data Platform Engineer (m/f/d) to join our team and help build and operate the data infrastructure that powers Flix's mobility platform.\n At FlixTech, our data platform enables teams across the company to process, analyze, and act on large volumes of mobility data. The platform supports critical use cases such as network planning, pricing, operations, and business analytics. You will work on scalable infrastructure that processes millions of daily events and ensures reliable data availability across the organization.\n You'll be part of a cross-functional engineering environment collaborating with data analysts, data scientists, and platform engineers. The role focuses on building reliable, scalable data systems and enabling other teams to work efficiently with data.\n About the Role\n Design, build, and maintain scalable data infrastructure running on AWS and Kubernetes\n Develop and operate streaming and data platform components using technologies such as Kafka and Snowflake\n Implement monitoring, alerting, and operational tooling to ensure platform reliability and performance\n Own features end-to-end, including development, testing, deployment, monitoring, and maintenance\n Build and maintain Infrastructure as Code using Terraform and GitLab CI/CD\n Collaborate with data analysts, data scientists, and stakeholders to support data platform use cases\n Contribute to improving platform reliability, automation, and engineering practices\n Participate in on-call rotations to support the stability of the data platform\n About You\n 3+ years of experience building or operating data infrastructure or data platforms\n Hands-on experience with streaming technologies such as Kafka and data warehouses like Snowflake\n Experience with Infrastructure as Code tools (e.g., Terraform) and CI/CD pipelines (e.g., GitLab)\n Practical experience with cloud platforms (preferably AWS) and container platforms such as Kubernetes\n Experience with monitoring and observability tools…",
+    "tags": [],
+    "postedAt": "2026-11-15T07:45:22.000Z",
+    "scrapedAt": "2026-11-15T10:21:06.710Z"
+  },
+  {
+    "id": "arbeitnow:senior-analytics-engineer-bi-analyst-collections-recoveries-london-364898",
+    "externalId": "senior-analytics-engineer-bi-analyst-collections-recoveries-london-364898",
+    "source": "arbeitnow",
+    "title": "Senior Analytics Engineer/BI Analyst (Collections & Recoveries)",
+    "company": "Zopa",
+    "location": "London",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zopa/senior-analytics-engineer-bi-analyst-collections-recoveries-london-364898",
+    "description": "Our Story\n Hello there. We’re Zopa.\n We started our journey back in 2005, building the first ever peer-to-peer lending company. Fast forward to 2020 and we launched Zopa Bank. A bank that listens to what our customers don’t like about finance and does the opposite. We’re redefining what it feels like to work in finance. Our vision for a new era of banking puts people front and centre — we’ve built a business that empowers everyone to aim high, every day, to move finance forward. Find out more about our fantastic offerings at Zopa.com !\n We’re incredibly proud of our achievements and none of it would be possible without the amazing team here. It’s not just industry awards we’re winning, we’ve also been named in the top three UK’s Most Loved Workplaces.\n If you embrace unconventional challenges, are unafraid to think differently and are driven to make an outsized impact, you’ll thrive here at Zopa, so join us, and make it count. Want to see us in action? Follow us on Instagram @zopalife\n We are hiring a Senior Analytics Engineer/BI Analyst to join our Collections & Recoveries team.\n This role is ideal for technically strong, curious analysts who enjoy using data, reporting and automation to solve meaningful business problems. You will improve access to insight, reduce manual processes and build scalable data solutions that support better decisions across the bank.\nYou’ll have the opportunity to help shape the team’s priorities, explore new ideas and build solutions that make a difference for our customers and colleagues.\n The opportunity\n In this role, you’ll work across BI, analytics and data modelling, building trusted data solutions that help teams understand performance and make better decisions. You’ll use SQL and tools such as dbt to transform and model data, define clear, consistent metrics and create self-serve reporting. Working closely with Analytics Engineering and stakeholders across the business, you’ll help make data accessible and reliable, enabling te…",
     "tags": [
-      "5010 - R&D SaaS (GQP)"
+      "BI"
     ],
-    "postedAt": "2026-11-14T18:55:18.000Z",
-    "scrapedAt": "2026-11-15T00:42:04.609Z"
+    "postedAt": "2026-11-15T06:07:18.000Z",
+    "scrapedAt": "2026-11-15T10:21:06.710Z"
+  },
+  {
+    "id": "arbeitnow:analytics-engineer-munich-de-286051",
+    "externalId": "analytics-engineer-munich-de-286051",
+    "source": "arbeitnow",
+    "title": "Analytics Engineer (m/w/d)",
+    "company": "Octopus Energy Group",
+    "location": "Munich (DE)",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/analytics-engineer-munich-de-286051",
+    "description": "Als global tätiges EnerTech-Unternehmen verbinden wir Energieversorgung, Technologie und Services. Unser Ziel ist es, mehr Menschen Zugang zu modernen Energielösungen zu ermöglichen. Dafür bieten wir Stromtarife aus 100% erneuerbaren Energien an, installieren Wärmepumpen und entwickeln smarte Tarife.\n Dabei sind unsere Ökostromtarife nur die Basis . Bereits seit 2022 installieren wir Wärmepumpen-Komplettlösungen mit eigenen Fachkräften . Außerdem arbeiten wir aktiv an der flächendeckenden Einführung von Smart Metern, Elektromobilitätslösungen und der eigenen Stromerzeugung aus Wind- und Sonnenenergie .\n Das schaffen wir allerdings nicht alleine, sondern dazu brauchen wir dich! Werde Teil unseres Teams und fordere den Status Quo heraus. Mit Energie, die gut für den Planeten ist und gut für dein Karma. 💚 Finde jetzt deinen Traumjob und werde Teil der Energierevolution von Octopus Energy Germany.\n Für unseren Bereich Costing suchen wir zum nächstmöglichen Zeitpunkt eine n engagierte n Analytics Engineer , der/die unsere Datenarchitektur im Bereich der direkten Kosten (Netzentgelte, Umlagen, Steuern) auf das nächste Level hebt. In dieser Schlüsselposition bist du das Bindeglied zwischen komplexen regulatorischen Anforderungen, energiewirtschaftlichen Forecasts und unserer Pricing-Strategie. Du liebst es, skalierbare Daten-Pipelines zu bauen, behältst bei wechselnden regulatorischen Vorgaben den Überblick und hast den Anspruch, unsere Systeme durch eine moderne Neuarchitektur zukunftssicher zu machen.\n Deine Aufgaben:\n Datenarchitektur & Pipeline Architektur\n Du verantwortest die Neuarchitektur unserer Datenlandschaft zur Abbildung der direkten Kosten im Energievertrieb.\n Du konzipierst und implementierst robuste ETL/ELT-Pipelines mittels dbt und Airflow , um Daten aus regulatorischen Quellen, Marktdaten und internen Systemen effizient zu verarbeiten.\n Du stellst die Datenqualität und -konsistenz sicher, die als direkte Entscheidungsgrundlage für unser Pricing dient.…",
+    "tags": [
+      "Data/Analytics",
+      "Full-time"
+    ],
+    "jobType": "Full-time",
+    "postedAt": "2026-11-15T06:07:14.000Z",
+    "scrapedAt": "2026-11-15T10:21:06.710Z"
+  },
+  {
+    "id": "jobicy:155397",
+    "externalId": "155397",
+    "source": "jobicy",
+    "title": "Senior Analytics Engineer",
+    "company": "Paddle",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/08/28ca3645-221.png",
+    "location": "Ireland,  Portugal,  UK",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/155397-senior-analytics-engineer-3",
+    "description": "What do we do?\n Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payment fragmentation. It’s faster, safer, cheaper, and, above all, way better.\n We’re backed by investors including KKR, FTV Capital, Kindred, Notion, and 83North and serve over 10,000 software sellers in 245 territories globally.\n The Role:\n We are seeking a Senior Analytics Engineer to drive significant business impact by shaping our data infrastructure, developing robust data models, and promoting best practices in analytics engineering (e.g., data quality, documentation, and scalable data architectures). You will collaborate closely with business stakeholders to identify and deliver high-value data solutions and provide informal mentorship to junior team members, fostering their growth and enhancing team capabilities.\n What you'll do:\n Create and maintain complex, scalable data models in Snowflake using dbt.\n Expose datasets effectively in BI tooling to enable robust self-service analytics.\n Perform simple data ingestion tasks using no-code tools and ensure streamlined data flows.\n Add comprehensive metadata to datasets, including documentation, data quality checks, and sensitive data masking.\n Activate data by pushing it from Snowflake into other operational tools.\n Proactively identify and raise data quality issues to the respective process owners for resolution.\n Lead training sessions and initiatives to drive adoption and effective use of BI tools across the organization.\n Mentor junior analytics engineers, fostering knowledge-sharing and professional growth.\n We'd love to hear from you if you:\n Extensive experience in analytics engineering or related data roles, with demonstrated expertise in advanced SQL, dbt, and Snowflake.\n Proficient in using BI tools (…",
+    "tags": [
+      "Data Science & Analytics",
+      "Senior"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-11-15T03:45:18.000Z",
+    "scrapedAt": "2026-11-15T10:21:06.801Z"
+  },
+  {
+    "id": "arbeitnow:remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-222668",
+    "externalId": "remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-222668",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer & Consultant (all genders) – Microsoft Fabric",
+    "company": "teccle group GmbH",
+    "location": "Homeoffice",
+    "remote": true,
+    "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-222668",
+    "description": "Mit über 650 Kolleg:innen an 19 Standorten in ganz Deutschland gestalten wir bei teccle die Zukunft der IT. Seit 2020 bringen wir starke IT-Unternehmen mit unterschiedlichsten Schwerpunkten unter einem Dach zusammen - und entwickeln uns so zu einem der führenden IT-Dienstleister im Land. Unser Ziel: IT-Lösungen schaffen, die wirklich weiterhelfen - verständlich, flexibel und zukunftsfähig. Für unsere Kund:innen und gemeinsam mit einem Team, das Technik genauso liebt wie neue Ideen.\n Als Teil der teccle group steht die teccle wave für ganzheitliche Cloud-Lösungen und digitale Transformation im deutschen Mittelstand. Zur Verstärkung unseres eigenständigen siebenköpfigen Data-Teams suchen wir zum nächstmöglichen Zeitpunkt engagierte Unterstützung.\n Was du bei uns bewegst Bei uns zählt nicht nur, was du kannst - sondern auch, was du bewirkst. In dieser Rolle trägst du zu folgenden Punkten bei:\n Entwicklung und Weiterentwicklung moderner Data-&-Analytics-Plattformen auf Basis von Microsoft Fabric, Azure und Power BI , um nachhaltige Mehrwerte für unsere Kund:innen zu schaffen\n Aufbau skalierbarer Datenarchitekturen, Datenmodelle und Data Pipelines , die eine effiziente Integration, Aufbereitung und Nutzung von Unternehmensdaten ermöglichen\n Verantwortung für die technische Konzeption und erfolgreiche Umsetzung anspruchsvoller Kundenprojekte – von der Analyse über Workshops bis zur Qualitätssicherung\n Sicherstellung leistungsfähiger Reporting-, BI- und Self-Service-Analytics-Lösungen , die datengetriebene Entscheidungen auf allen Ebenen unterstützen\n Steuerung der Zusammenarbeit mit Kund:innen, Stakeholdern und Projektteams , um Projekte effizient, transparent und zielgerichtet zum Erfolg zu führen\n Einsatz innovativer Technologien wie Azure AI und Microsoft Foundry zur Erweiterung moderner Datenplattformen und AI-gestützter Analytics-Lösungen\n Womit du bei uns glänzt Niemand erfüllt jede Anforderung. Wenn du neugierig bist und Lust auf die Aufgabe hast, freuen wir uns a…",
+    "tags": [
+      "Professional",
+      "Remote",
+      "Experienced",
+      "fulltime permanent"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-11-15T03:31:13.000Z",
+    "scrapedAt": "2026-11-15T10:21:06.710Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-united-kingdom-384605",
+    "externalId": "senior-data-engineer-united-kingdom-384605",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer",
+    "company": "Kpler",
+    "location": "United Kingdom",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/senior-data-engineer-united-kingdom-384605",
+    "description": "At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors.\n Since our founding in 2014, we have focused on delivering top-tier intelligence through user-friendly platforms. Our team of over 850 experts from 69 countries works tirelessly to transform intricate data into actionable strategies, ensuring our clients stay ahead in a dynamic market landscape. Join us to leverage cutting-edge innovation for impactful results and experience unparalleled support on your journey to success.\n About the Role\n As a Senior Data Engineer on our Maritime Models team, you will take technical ownership of the core data pipelines and distributed storage architectures powering Kpler's vessel tracking and predictive analytics. You will design, scale, and optimize high-throughput batch and streaming pipelines that ingest raw maritime telemetry and transform it into actionable intelligence. Working with distributed NoSQL systems like Apache HBase at scale, your work directly ensures the freshness, accuracy, and reliability of the data models our global customers depend on.\n Key Responsibilities\n Architect, build, and operate high-throughput batch and streaming data pipelines using Java, Apache Kafka, Apache Flink, and Airflow.\n Design, tune, and maintain scalable distributed NoSQL databases, prioritizing Apache HBase performance for high-volume time-series maritime telemetry.\n Drive end-to-end operational excellence across containerized cloud environments on AWS using Kubernetes, Docker, Terraform, and GitOps workflows.\n Define and enforce system reliability metrics, monitoring pipeline latency, data completeness, and uptime to meet strict operational SLAs.\n Partner with Data Scientists, Product Managers, and SRE teams to translate complex maritime modeling requirements into robust, production…",
+    "tags": [
+      "Engineering Maritime & Logistic",
+      "Full-time"
+    ],
+    "jobType": "Full-time",
+    "postedAt": "2026-11-15T03:27:10.000Z",
+    "scrapedAt": "2026-11-15T10:21:06.710Z"
+  },
+  {
+    "id": "arbeitnow:big-data-engineer-paris-332504",
+    "externalId": "big-data-engineer-paris-332504",
+    "source": "arbeitnow",
+    "title": "Big Data Engineer",
+    "company": "Odaseva",
+    "location": "Paris",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/odaseva/big-data-engineer-paris-332504",
+    "description": "Odaseva provides enterprise data management and security solutions that help organizations exercise sovereignty over their critical data.\n Companies representing 10% of global market capitalization trust Odaseva, including Schneider Electric, Volkswagen and Robert Half.\n Its Excalibur Data Platform enables customers to protect, secure, move, and use data and code independently of application vendors.\n The platform supports complex and high-volume use cases, including backup, archiving, zero-copy, BCDR & High Availability, data federation, and semantic AI orchestration.\n Customer-controlled end-to-end encryption raises the bar for enterprise security.\n With 11 patents, Odaseva manages 50 trillion records and supports 100 million users.\n Key Responsibilities\n Data Pipeline Development & Operations: Design, build, handle, and monitor Spark data pipelines for large-volume data lake ingestion (handling hundreds of TBs).\n Platform & Cost Optimization: Continuously optimize the performance, reliability, and costs of big data pipelines and infrastructure.\n Databricks, Snowflake & Cloud Engineering: Deeply leverage Databricks, Snowflake, or AWS Redshift, alongside cloud provider solutions (AWS S3, Glue/Athena, Lambda) for scalable data engineering.\n Lakehouse Architecture: Demonstrate strong expertise in managing, creating, and optimizing Delta Lake or Apache Iceberg tables.\n Secure Data Management: Apply security-by-design, data governance, and compliance best practices across storage, compute, and sharing layers.\n Required Qualifications\n 7+ years of experience in data engineering or backend data platforms, with at least 3 years of hands-on experience building and operating big data pipelines .\n Hands-on engineer background with proven track record handling large volumes of data (at least hundreds of TB).\n Deep knowledge of at least one data lake platform among Databricks, Snowflake, or AWS Redshift.\n Strong expertise in Apache Spark (creation, handling, and monitoring of…",
+    "tags": [
+      "Engineering",
+      "Full time"
+    ],
+    "jobType": "Full time",
+    "postedAt": "2026-11-15T03:27:07.000Z",
+    "scrapedAt": "2026-11-15T10:21:06.710Z"
   },
   {
     "id": "arbeitnow:senior-data-analytics-engineer-amsterdam-214056",
@@ -31,7 +138,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-11-14T06:40:35.000Z",
-    "scrapedAt": "2026-11-15T00:42:04.609Z"
+    "scrapedAt": "2026-11-15T10:21:06.710Z"
   },
   {
     "id": "arbeitnow:senior-data-architect-senior-data-engineer-azure-databricks-39403",
@@ -47,7 +154,7 @@
       "Delivery"
     ],
     "postedAt": "2026-11-14T03:55:26.000Z",
-    "scrapedAt": "2026-11-15T00:42:04.609Z"
+    "scrapedAt": "2026-11-15T10:21:06.710Z"
   },
   {
     "id": "arbeitnow:data-platform-engineer-amsterdam-124619",
@@ -65,170 +172,6 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-11-14T00:40:14.000Z",
-    "scrapedAt": "2026-11-15T00:42:04.609Z"
-  },
-  {
-    "id": "greenhouse:lyft-8940409002",
-    "externalId": "lyft:8940409002",
-    "source": "greenhouse",
-    "title": "Data Engineer, Marketplace",
-    "company": "Lyft",
-    "location": "Ukraine Anywhere",
-    "remote": true,
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8940409002?gh_jid=8940409002",
-    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n Here at Lyft, data is at the core of every decision we make. It powers our business — helping us create great transportation experiences for our customers and providing insights into the effectiveness of our product launches and features.\n As a Data Engineer on Lyft’s Marketplace – Decision Apps team, you will own and evolve the data pipelines that power our top-line financial, pricing, and driver-related metrics. You will collaborate with Analytics, Data Science, and Engineering partners to design data models and architectures — proposing innovative ideas, evaluating multiple approaches, and implementing solutions grounded in fundamental engineering principles and rigorous data analysis. Your work will provide seamless access to the insights that drive Lyft’s success.\n Responsibilities:\n Take ownership of core data pipelines, ensuring resilience, optimal performance, timely delivery, data quality, and seamless onboarding of new features\n Continuously evolve data models and schemas to meet business and engineering requirements\n Implement and maintain systems to monitor and enhance data quality and consistency\n Develop tools that support self-service management of data pipelines (ETL) and perform SQL tuning to optimize data processing performance\n Contribute to the Data Engineering team’s technical roadmap, ensuring alignment with team and stakeholder goals\n Write clean, well-tested, and maintainable code, prioritizing scalability and cost efficiency\n Conduct code reviews to uphold code quality standards and facilitate knowledge sharing\n Participate in on-call rotations to maintain high availability and reliability of workflows and data pipelines\n Collaborate with internal and external partners to remove blockers, provide support, and achieve results\n Experience:\n 5+ years of professional experience…",
-    "tags": [
-      "Marketplace"
-    ],
-    "postedAt": "2026-11-13T09:17:01.000Z",
-    "scrapedAt": "2026-11-15T00:42:05.332Z"
-  },
-  {
-    "id": "greenhouse:block-5473605008",
-    "externalId": "block:5473605008",
-    "source": "greenhouse",
-    "title": "Staff Data Engineer, Advanced Insights & Modeling",
-    "company": "Block",
-    "location": "Bay Area, CA, United States of America",
-    "remote": false,
-    "url": "http://block.xyz/careers/jobs/5473605008?gh_jid=5473605008",
-    "description": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.\nToday, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.\n The Role\n The Advanced Insights and Modeling (AIM) team is a high-impact, business-savvy group of builders: machine learning engineers, data scientists, data engineers, and business strategists who combine technical skills with deep product and financial expertise. We hold high standards, move fast, and own our models end to end. AIM runs on curiosity, bold thinking, and collaboration, and we keep the culture decidedly non-corporate. Teams across Block come to us when they need insight, speed, and real business impact.\n AIM sits within Block’s Foundational organization and is sponsored directly by the CFO, but our mandate runs well beyond Finance. We own most of the measurement and predictive modeling at Block: forecasting across Cash App, Square, and Afterpay, customer lifetime value, marketing incrementality and spend optimization, sales pipeline and prospect value, and actives and network-effect measurement. Finance, Marketing, Sales, Product, and Risk all plan against numbers we produce. We also own the data foundations those models run on, and corporate functions inclu…",
-    "tags": [
-      "30403 Foundational - Guidance - Corporate Finance & Strategy"
-    ],
-    "postedAt": "2026-11-12T21:53:17.000Z",
-    "scrapedAt": "2026-11-15T00:42:05.332Z"
-  },
-  {
-    "id": "remotive:2091137",
-    "externalId": "2091137",
-    "source": "remotive",
-    "title": "Senior Data Engineer",
-    "company": "Lemon.io",
-    "companyLogo": "https://remotive.com/job/2091137/logo",
-    "location": "LATAM, Europe, USA, Canada, APAC",
-    "remote": true,
-    "url": "https://remotive.com/remote-jobs/data/senior-data-engineer-2091137",
-    "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us.\n New roles for Senior React Full-stack Engineers come in all the time, and several are open right now.\n Two ways to work with clients\n Contract: most roles are contract-based. You join the client’s team and work as part of it.\n Direct hire: some clients hire engineers full-time, and we support you through the process.\n Because companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own.\n What you get\n Competitive rate, based on your seniority and skills\n We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences.\n Flexible schedule. Work async or with a small overlap with the team’s hours.\n No micromanagement, no screen trackers\n Direct work with clients, most of them with technical backgrounds\n Ongoing support from your application through every project, plus a community of engineers from 75+ countries\n Who we’re looking for\n Senior Data Engineers with:\n 4+ years of commercial experience as a Data Engineer\n Experience with Apache Airflow and Snowflake, or Python and SQL, is required\n Experience with AWS, GCP, or Microsoft Azure is mandatory\n You own problems end-to-end: you spot the issue in the data or pipeline, design and build the solution, and ship it to production.\n You can show the business impact of your work with concrete results (e.g., faster data processing, lower infrastructure costs, fresher data for stakeholders, fewer pipeline incidents).\n Advanced English: you discuss business tasks, explain your technical decisions, raise risks early, and present yourself and your results well on client calls.\n You work full-time remotely and deliver without supervision.…",
-    "tags": [
-      "Data and Analytics",
-      ".Net",
-      "android",
-      "apache",
-      "AWS",
-      "azure",
-      "C",
-      "C#",
-      "C++",
-      "data science",
-      "fullstack",
-      "golang",
-      "ios",
-      "java",
-      "javascript",
-      "magento",
-      "node.js",
-      "php",
-      "python",
-      "react",
-      "ruby/rails",
-      "scala",
-      "shopify",
-      "sql",
-      "swift",
-      "UI/UX",
-      "wordpress",
-      "blockchain",
-      "AI/ML",
-      "automation",
-      "project management",
-      "react native",
-      "rust",
-      "unity",
-      "electron",
-      "spring",
-      "data analysis",
-      "laravel",
-      "Ethereum",
-      "graphic design",
-      "Typescript ",
-      "angular ",
-      "GCP",
-      "firebase",
-      "Snowflake",
-      "Site Reliability",
-      "Symfony",
-      "next.js",
-      "infrastructure",
-      "flutter"
-    ],
-    "jobType": "full_time",
-    "postedAt": "2026-11-11T18:39:59.000Z",
-    "scrapedAt": "2026-11-15T00:42:04.476Z"
-  },
-  {
-    "id": "remoteok:1137714",
-    "externalId": "1137714",
-    "source": "remoteok",
-    "title": "Data Engineer",
-    "company": "Addepto",
-    "location": "Remote",
-    "remote": true,
-    "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
-    "description": "Addepto is a leading AI consulting ( https://addepto.com/ai-consulting/ ) and data engineering ( https://addepto.com/data-engineering-services/ ) company that builds scalable, ROI-focused AI solutions for some of the world's largest enterprises and pioneering startups, including Rolls Royce, Continental, Porsche, ABB, and WGU. With an exclusive focus on Artificial Intelligence and Big Data, Addepto helps organizations unlock the full potential of their data through systems designed for measurable business impact and long-term growth.\n The company's work extends beyond client engagements. Drawing from real-world challenges and insights, Addepto has developed its own product - ContextClue - and actively contributes open-source solutions to the AI community. This commitment to transforming practical experience into scalable innovation has earned Addepto recognition by Forbes as one of the top 10 AI consulting companies worldwide .\n As part of KMS Technology , a US-based global technology group, Addepto combines deep AI specialization with enterprise-scale delivery capabilitiesâenabling the partnership to move clients from AI experimentation to production impact, securely and at scale.\n We are looking for an experienced Data Engineer with strong skills in GCP, Snowflake, dbt, Python, SQL, and Data Analytics to join our team. You will work on international data engineering and analytics projects, focusing on building scalable data solutions, modernizing data warehouses, and supporting data-driven business decisions.\n Project areas include:\n Data Warehouse & BI Modernization â refactoring data models and supporting migrations between BI platforms (e.g., Looker to Omni).\n CRM Data Integration â developing and optimizing data models to support CRM migrations and integrations (e.g., HubSpot).\n Commercial & Growth Analytics â building analytical solutions for customer acquisition, retention, churn, revenue, and business performance.\n Data Quality & Self-Service Analy…",
-    "tags": [
-      "design",
-      "saas",
-      "salesforce",
-      "python",
-      "education",
-      "consulting",
-      "customer support",
-      "testing",
-      "marketing",
-      "dev",
-      "finance",
-      "cloud",
-      "git",
-      "stats",
-      "sys admin",
-      "engineer",
-      "apache",
-      "digital nomad"
-    ],
-    "postedAt": "2026-11-10T16:00:04.000Z",
-    "scrapedAt": "2026-11-15T00:42:05.326Z"
-  },
-  {
-    "id": "greenhouse:lyft-8931413002",
-    "externalId": "lyft:8931413002",
-    "source": "greenhouse",
-    "title": "Data Engineer",
-    "company": "Lyft",
-    "location": "Toronto, Canada",
-    "remote": false,
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8931413002?gh_jid=8931413002",
-    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n Lyft is looking for experienced software engineers from a scope of disciplines. We are growing our team with people who want to build, improve and incorporate technologies that make the lives of our community more enriched. As an engineer at Lyft, you'll collaborate with teams like product, data science, analytics, and operations on code that empower us to iterate quickly, while focusing on delighting our riders and drivers.\n As a Software Engineer for Lyft Ads - you will work on one of Lyft’s newest lines of business focused on building the world’s largest transportation media network. We build products that allow brands to engage with our unique audience throughout their transportation journeys and beyond. For this role we are seeking software engineers who are passionate about backend and data engineering . You will join our Ad Infra Engineering team and contribute to building the systems and pipelines powering our ad-serving, measurement and audience platform. We work on technologies that let brands engage with our unique audience throughout their transportation journeys. This role is a great opportunity for an early-career engineer to gain experience working with distributed backend systems and large-scale data workflows, collaborating closely with product, analytics, and data science teams.\n Responsibilities:\n Develop and maintain backend systems that support real-time ad serving, campaign management, and reporting.\n Design and implement scalable data models to support analytics, targeting, and measurement use cases.\n Build and maintain data pipelines that handle ingestion, transformation, and distribution of large volumes of advertising data.\n Work with orchestration frameworks (e.g., Airflow) to schedule and monitor reliable, production-grade data workflows.\n Collaborate with cross-function…",
-    "tags": [
-      "Lyft Ads"
-    ],
-    "postedAt": "2026-11-10T15:58:08.000Z",
-    "scrapedAt": "2026-11-15T00:42:05.332Z"
-  },
-  {
-    "id": "greenhouse:gitlab-8924923002",
-    "externalId": "gitlab:8924923002",
-    "source": "greenhouse",
-    "title": "Intermediate Data Engineer",
-    "company": "GitLab",
-    "location": "Bangalore, India",
-    "remote": false,
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8924923002",
-    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.\n The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software.\n * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.\n An overview of this role\n As a Data Engineer at GitLab, you'll build, run, and maintain the pipelines and infrastructure that bring data from our enterprise applications, internal systems, and GitLab's software as a service (SaaS) platform into our data platform. Your work will power company reporting, data science, and artificial intelligence (AI) self-service.\n You'll own features end to end, from source integration to tested, monitored, documented data ready for use. You'll focus on keeping the platform reliable, secure, and cost-efficient as data volumes and AI usage grow, and making governed data ready for AI tools, agents, a…",
-    "tags": [
-      "Data"
-    ],
-    "postedAt": "2026-11-02T06:44:11.000Z",
-    "scrapedAt": "2026-11-15T00:42:05.332Z"
+    "scrapedAt": "2026-11-15T10:21:06.710Z"
   }
 ]
