@@ -1,5 +1,21 @@
 [
   {
+    "id": "arbeitnow:principal-data-engineer-sydney-australia-229352",
+    "externalId": "principal-data-engineer-sydney-australia-229352",
+    "source": "arbeitnow",
+    "title": "Principal Data Engineer",
+    "company": "Firmus",
+    "location": "Sydney, Australia",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/firmus/principal-data-engineer-sydney-australia-229352",
+    "description": "<p><strong>Firmus Technologies</strong></p>\n<p><span data-contrast=\"none\"><span data-ccp-parastyle=\"FIR Body\" data-ccp-parastyle-defn=\"{\"ObjectId\":\"baa2b379-a6d3-56f4-af2b-6a08de9434e5|1\",\"ClassId\":1073872969,\"Properties\":[469777841,\"Aeonik\",469777842,\"Aeonik\",469777843,\"Aeonik\",469777844,\"Aeonik\",469769226,\"Aeonik\",201342446,\"1\",201342447,\"5\",201342448,\"1\",201342449,\"1\",201341986,\"1\",268442635,\"20\",335551500,\"197122\",335559740,\"264\",201341983,\"0\",335559738,\"145\",469775450,\"FIR Body\",201340122,\"2\",134234082,\"true\",134233614,\"true\",469778129,\"FIRBody\",335572020,\"1\",469778324,\"Body Text\"]}\">Firmus Technologies is a global&nbsp;</span><span data-ccp-parastyle=\"FIR Body\">leader</span><span data-ccp-parastyle=\"FIR Body\"> pioneering the development </span></span><span data-contrast=\"none\"><span data-ccp-parastyle=\"FIR Body\">and operation of efficient AI infrastructure across Asia Pacific.</span><span data-ccp-parastyle=\"FIR Body\">&nbsp;</span></span><span data-ccp-props=\"{\"201341983\":0,\"335559738\":145,\"335559740\":264}\">&nbsp;</span></p>\n<p><span data-contrast=\"none\"><span data-ccp-parastyle=\"FIR Body\">Founded in Australia in 2019, our mission is to create the most efficient AI infrastructure by </span></span><span data-contrast=\"none\"><span data-ccp-parastyle=\"FIR Body\">combining&nbsp;</span><span data-ccp-parastyle=\"FIR Body\">cutting-edge</span><span data-ccp-parastyle=\"FIR Body\">&nbsp;technology with a steadfast commitment to sustainability.</span></span><span data-ccp-props=\"{\"201341983\":0,\"335559738\":145,\"335559740\":264}\">&nbsp;</span></p>\n<p><span data-contrast=\"none\"><span data-ccp-parastyle=\"FIR Body\">At Firmus, we are unique in our approach. We design, build, and&nbsp;</span><span data-ccp-parastyle=\"FIR Body\">operate</span><span data-ccp-parastyle=\"FIR Body\"> a new class of digital </span></span><span data-contrast=\"none\"><span data-ccp-parastyle=\"FIR Body\">infrastructure – the AI Factory. Through our model-to-grid technology approach, we have pushed </span></sp…",
+    "tags": [
+      "Platform Engineering"
+    ],
+    "postedAt": "2026-11-15T18:55:46.000Z",
+    "scrapedAt": "2026-11-16T00:41:37.974Z"
+  },
+  {
     "id": "jobicy:162465",
     "externalId": "162465",
     "source": "jobicy",
@@ -16,7 +32,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-11-15T13:28:18.000Z",
-    "scrapedAt": "2026-11-15T18:27:15.939Z"
+    "scrapedAt": "2026-11-16T00:41:38.094Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-emerging-products-australia-408411",
@@ -32,7 +48,7 @@
       "Technology"
     ],
     "postedAt": "2026-11-15T12:55:17.000Z",
-    "scrapedAt": "2026-11-15T18:27:15.830Z"
+    "scrapedAt": "2026-11-16T00:41:37.974Z"
   },
   {
     "id": "arbeitnow:data-platform-engineer-berlin-328247",
@@ -46,23 +62,7 @@
     "description": "We're looking for a Data Platform Engineer (m/f/d) to join our team and help build and operate the data infrastructure that powers Flix's mobility platform.\n At FlixTech, our data platform enables teams across the company to process, analyze, and act on large volumes of mobility data. The platform supports critical use cases such as network planning, pricing, operations, and business analytics. You will work on scalable infrastructure that processes millions of daily events and ensures reliable data availability across the organization.\n You'll be part of a cross-functional engineering environment collaborating with data analysts, data scientists, and platform engineers. The role focuses on building reliable, scalable data systems and enabling other teams to work efficiently with data.\n About the Role\n Design, build, and maintain scalable data infrastructure running on AWS and Kubernetes\n Develop and operate streaming and data platform components using technologies such as Kafka and Snowflake\n Implement monitoring, alerting, and operational tooling to ensure platform reliability and performance\n Own features end-to-end, including development, testing, deployment, monitoring, and maintenance\n Build and maintain Infrastructure as Code using Terraform and GitLab CI/CD\n Collaborate with data analysts, data scientists, and stakeholders to support data platform use cases\n Contribute to improving platform reliability, automation, and engineering practices\n Participate in on-call rotations to support the stability of the data platform\n About You\n 3+ years of experience building or operating data infrastructure or data platforms\n Hands-on experience with streaming technologies such as Kafka and data warehouses like Snowflake\n Experience with Infrastructure as Code tools (e.g., Terraform) and CI/CD pipelines (e.g., GitLab)\n Practical experience with cloud platforms (preferably AWS) and container platforms such as Kubernetes\n Experience with monitoring and observability tools…",
     "tags": [],
     "postedAt": "2026-11-15T07:45:22.000Z",
-    "scrapedAt": "2026-11-15T18:27:15.830Z"
-  },
-  {
-    "id": "arbeitnow:senior-analytics-engineer-bi-analyst-collections-recoveries-london-364898",
-    "externalId": "senior-analytics-engineer-bi-analyst-collections-recoveries-london-364898",
-    "source": "arbeitnow",
-    "title": "Senior Analytics Engineer/BI Analyst (Collections & Recoveries)",
-    "company": "Zopa",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/zopa/senior-analytics-engineer-bi-analyst-collections-recoveries-london-364898",
-    "description": "Our Story\n Hello there. We’re Zopa.\n We started our journey back in 2005, building the first ever peer-to-peer lending company. Fast forward to 2020 and we launched Zopa Bank. A bank that listens to what our customers don’t like about finance and does the opposite. We’re redefining what it feels like to work in finance. Our vision for a new era of banking puts people front and centre — we’ve built a business that empowers everyone to aim high, every day, to move finance forward. Find out more about our fantastic offerings at Zopa.com !\n We’re incredibly proud of our achievements and none of it would be possible without the amazing team here. It’s not just industry awards we’re winning, we’ve also been named in the top three UK’s Most Loved Workplaces.\n If you embrace unconventional challenges, are unafraid to think differently and are driven to make an outsized impact, you’ll thrive here at Zopa, so join us, and make it count. Want to see us in action? Follow us on Instagram @zopalife\n We are hiring a Senior Analytics Engineer/BI Analyst to join our Collections & Recoveries team.\n This role is ideal for technically strong, curious analysts who enjoy using data, reporting and automation to solve meaningful business problems. You will improve access to insight, reduce manual processes and build scalable data solutions that support better decisions across the bank.\nYou’ll have the opportunity to help shape the team’s priorities, explore new ideas and build solutions that make a difference for our customers and colleagues.\n The opportunity\n In this role, you’ll work across BI, analytics and data modelling, building trusted data solutions that help teams understand performance and make better decisions. You’ll use SQL and tools such as dbt to transform and model data, define clear, consistent metrics and create self-serve reporting. Working closely with Analytics Engineering and stakeholders across the business, you’ll help make data accessible and reliable, enabling te…",
-    "tags": [
-      "BI"
-    ],
-    "postedAt": "2026-11-15T06:07:18.000Z",
-    "scrapedAt": "2026-11-15T18:27:15.830Z"
+    "scrapedAt": "2026-11-16T00:41:37.974Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-munich-de-286051",
@@ -80,7 +80,7 @@
     ],
     "jobType": "Full-time",
     "postedAt": "2026-11-15T06:07:14.000Z",
-    "scrapedAt": "2026-11-15T18:27:15.830Z"
+    "scrapedAt": "2026-11-16T00:41:37.974Z"
   },
   {
     "id": "arbeitnow:remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-222668",
@@ -100,7 +100,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-11-15T03:31:13.000Z",
-    "scrapedAt": "2026-11-15T18:27:15.830Z"
+    "scrapedAt": "2026-11-16T00:41:37.974Z"
   },
   {
     "id": "arbeitnow:big-data-engineer-paris-332504",
@@ -118,7 +118,7 @@
     ],
     "jobType": "Full time",
     "postedAt": "2026-11-15T03:27:07.000Z",
-    "scrapedAt": "2026-11-15T18:27:15.830Z"
+    "scrapedAt": "2026-11-16T00:41:37.974Z"
   },
   {
     "id": "arbeitnow:senior-data-analytics-engineer-amsterdam-214056",
@@ -136,7 +136,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-11-14T06:40:35.000Z",
-    "scrapedAt": "2026-11-15T18:27:15.830Z"
+    "scrapedAt": "2026-11-16T00:41:37.974Z"
   },
   {
     "id": "arbeitnow:senior-data-architect-senior-data-engineer-azure-databricks-39403",
@@ -152,7 +152,7 @@
       "Delivery"
     ],
     "postedAt": "2026-11-14T03:55:26.000Z",
-    "scrapedAt": "2026-11-15T18:27:15.830Z"
+    "scrapedAt": "2026-11-16T00:41:37.974Z"
   },
   {
     "id": "arbeitnow:data-platform-engineer-amsterdam-124619",
@@ -170,7 +170,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-11-14T00:40:14.000Z",
-    "scrapedAt": "2026-11-15T18:27:15.830Z"
+    "scrapedAt": "2026-11-16T00:41:37.974Z"
   },
   {
     "id": "greenhouse:lyft-8940409002",
@@ -186,7 +186,7 @@
       "Marketplace"
     ],
     "postedAt": "2026-11-13T09:17:01.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:block-5473605008",
@@ -202,7 +202,7 @@
       "30403 Foundational - Guidance - Corporate Finance & Strategy"
     ],
     "postedAt": "2026-11-12T21:53:17.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "remotive:2091137",
@@ -269,7 +269,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-11-11T18:39:59.000Z",
-    "scrapedAt": "2026-11-15T18:27:15.654Z"
+    "scrapedAt": "2026-11-16T00:41:37.819Z"
   },
   {
     "id": "remoteok:1137714",
@@ -302,7 +302,7 @@
       "digital nomad"
     ],
     "postedAt": "2026-11-10T16:00:04.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.469Z"
+    "scrapedAt": "2026-11-16T00:41:38.868Z"
   },
   {
     "id": "greenhouse:lyft-8931413002",
@@ -318,7 +318,7 @@
       "Lyft Ads"
     ],
     "postedAt": "2026-11-10T15:58:08.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:gitlab-8924923002",
@@ -334,7 +334,7 @@
       "Data"
     ],
     "postedAt": "2026-11-02T06:44:11.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:coinbase-8047150",
@@ -350,7 +350,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-10-31T02:38:15.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "ashby:notion-73a71747-28d3-4dda-a718-77336056e687",
@@ -368,7 +368,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-10-28T18:42:47.956Z",
-    "scrapedAt": "2026-11-15T18:29:59.230Z"
+    "scrapedAt": "2026-11-16T00:44:19.432Z"
   },
   {
     "id": "greenhouse:anthropic-5462966008",
@@ -384,7 +384,7 @@
       "Security"
     ],
     "postedAt": "2026-10-26T22:47:43.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -400,7 +400,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -416,7 +416,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -432,7 +432,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -448,7 +448,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -464,7 +464,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -480,7 +480,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -496,7 +496,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -512,7 +512,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:pinterest-8209014",
@@ -528,7 +528,7 @@
       "Oversight Engineering"
     ],
     "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:airbnb-8224032",
@@ -544,7 +544,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -560,7 +560,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -576,7 +576,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -592,7 +592,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -608,7 +608,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -624,7 +624,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -640,7 +640,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -656,7 +656,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -676,7 +676,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-11-15T18:29:58.109Z"
+    "scrapedAt": "2026-11-16T00:44:18.761Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -695,7 +695,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-11-15T18:29:59.230Z"
+    "scrapedAt": "2026-11-16T00:44:19.432Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -711,7 +711,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:stripe-8112043",
@@ -727,7 +727,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-08-06T14:27:44.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -743,7 +743,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -759,7 +759,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -775,7 +775,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -791,7 +791,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -807,7 +807,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -823,7 +823,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -839,7 +839,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -855,7 +855,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -871,7 +871,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "greenhouse:robinhood-5616144",
@@ -887,7 +887,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2024-01-23T00:26:13.000Z",
-    "scrapedAt": "2026-11-15T18:27:16.477Z"
+    "scrapedAt": "2026-11-16T00:41:38.872Z"
   },
   {
     "id": "workday:workday-JR-0111625",
@@ -903,7 +903,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-11-15T18:27:23.709Z"
+    "scrapedAt": "2026-11-16T00:41:46.220Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -919,7 +919,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-11-15T18:27:23.709Z"
+    "scrapedAt": "2026-11-16T00:41:46.220Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -935,7 +935,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-11-15T18:27:23.709Z"
+    "scrapedAt": "2026-11-16T00:41:46.220Z"
   },
   {
     "id": "workday:nvidia-JR2028588",
@@ -949,7 +949,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-15T18:27:23.709Z"
+    "scrapedAt": "2026-11-16T00:41:46.220Z"
   },
   {
     "id": "workday:nvidia-JR2028539",
@@ -963,7 +963,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-15T18:27:23.709Z"
+    "scrapedAt": "2026-11-16T00:41:46.220Z"
   },
   {
     "id": "workday:nvidia-JR2023850",
@@ -977,7 +977,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-15T18:27:23.709Z"
+    "scrapedAt": "2026-11-16T00:41:46.220Z"
   },
   {
     "id": "workday:nvidia-JR2026497",
@@ -991,7 +991,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-15T18:27:23.709Z"
+    "scrapedAt": "2026-11-16T00:41:46.220Z"
   },
   {
     "id": "workday:nvidia-JR2029837",
@@ -1005,7 +1005,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-15T18:27:23.709Z"
+    "scrapedAt": "2026-11-16T00:41:46.220Z"
   },
   {
     "id": "workday:nvidia-JR2029192",
@@ -1019,7 +1019,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-15T18:27:23.709Z"
+    "scrapedAt": "2026-11-16T00:41:46.220Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -1033,7 +1033,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-15T18:27:23.709Z"
+    "scrapedAt": "2026-11-16T00:41:46.220Z"
   },
   {
     "id": "workday:nvidia-JR2014259",
@@ -1047,21 +1047,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-15T18:27:23.709Z"
-  },
-  {
-    "id": "workday:salesforce-JR364686",
-    "externalId": "salesforce:JR364686",
-    "source": "workday",
-    "title": "Data Engineering SMTS/LMTS",
-    "company": "Salesforce",
-    "location": "India - Hyderabad",
-    "remote": false,
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Data-Engineering-SMTS-LMTS--Revenue-Analytics_JR364686",
-    "description": "",
-    "tags": [],
-    "postedAt": null,
-    "scrapedAt": "2026-11-15T18:27:23.709Z"
+    "scrapedAt": "2026-11-16T00:41:46.220Z"
   },
   {
     "id": "workday:adobe-R171875",
@@ -1075,7 +1061,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-15T18:27:23.709Z"
+    "scrapedAt": "2026-11-16T00:41:46.220Z"
   },
   {
     "id": "workday:adobe-R172115",
@@ -1089,7 +1075,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-15T18:27:23.709Z"
+    "scrapedAt": "2026-11-16T00:41:46.220Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -1103,7 +1089,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-15T18:27:23.709Z"
+    "scrapedAt": "2026-11-16T00:41:46.220Z"
   },
   {
     "id": "workday:salesforce-JR366234",
@@ -1117,7 +1103,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-15T18:28:24.149Z"
+    "scrapedAt": "2026-11-16T00:42:44.566Z"
   },
   {
     "id": "workday:salesforce-JR363793",
@@ -1131,7 +1117,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-15T18:28:24.149Z"
+    "scrapedAt": "2026-11-16T00:42:44.566Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -1145,7 +1131,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-15T18:28:24.149Z"
+    "scrapedAt": "2026-11-16T00:42:44.566Z"
   },
   {
     "id": "workday:salesforce-JR359930",
@@ -1159,6 +1145,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-15T18:28:51.015Z"
+    "scrapedAt": "2026-11-16T00:43:11.118Z"
   }
 ]
