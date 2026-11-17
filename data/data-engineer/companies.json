@@ -85,7 +85,7 @@
   },
   {
     "company": "Block",
-    "jobCount": 4,
+    "jobCount": 5,
     "sources": [
       "greenhouse"
     ],
@@ -94,12 +94,14 @@
       "New York, NY, United States of America"
     ],
     "sampleTitles": [
+      "Sales Compensation Systems & Data Engineer",
       "Staff Data Engineer, Advanced Insights & Modeling",
       "Senior Data Engineer, Product",
       "Senior Analytics Engineer, AI & DX Analytics",
       "Senior Analytics Engineer, AI & DX Analytics"
     ],
     "officialUrls": [
+      "http://block.xyz/careers/jobs/5485151008?gh_jid=5485151008",
       "http://block.xyz/careers/jobs/5473605008?gh_jid=5473605008",
       "http://block.xyz/careers/jobs/5442647008?gh_jid=5442647008",
       "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
@@ -176,28 +178,6 @@
     ]
   },
   {
-    "company": "Workday",
-    "jobCount": 3,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "Costa Rica",
-      "2 Locations",
-      "Ireland, Dublin"
-    ],
-    "sampleTitles": [
-      "Data Engineer Intern",
-      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
-      "Data Platform Engineer - Cybersecurity"
-    ],
-    "officialUrls": [
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Data-Engineer-Intern_JR-0111625",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
-      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
-    ]
-  },
-  {
     "company": "Brex",
     "jobCount": 2,
     "sources": [
@@ -255,6 +235,25 @@
     ]
   },
   {
+    "company": "Workday",
+    "jobCount": 2,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "2 Locations",
+      "Ireland, Dublin"
+    ],
+    "sampleTitles": [
+      "Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME",
+      "Data Platform Engineer - Cybersecurity"
+    ],
+    "officialUrls": [
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830",
+      "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Platform-Engineer---Cybersecurity_JR-0108816"
+    ]
+  },
+  {
     "company": "Addepto",
     "jobCount": 1,
     "sources": [
@@ -284,38 +283,6 @@
     ],
     "officialUrls": [
       "https://careers.airbnb.com/positions/8224032?gh_jid=8224032"
-    ]
-  },
-  {
-    "company": "Amo",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Paris"
-    ],
-    "sampleTitles": [
-      "Location Data engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/amo/location-data-engineer-paris-221661"
-    ]
-  },
-  {
-    "company": "Clickhouse",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "The Netherlands"
-    ],
-    "sampleTitles": [
-      "Data Platform Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.nl/jobs/companies/clickhouse/data-platform-engineer-amsterdam-124619"
     ]
   },
   {
@@ -399,6 +366,38 @@
     ]
   },
   {
+    "company": "Mirakl - Labs",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Bordeaux, France"
+    ],
+    "sampleTitles": [
+      "Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/data-engineer-bordeaux-337933"
+    ]
+  },
+  {
+    "company": "mirakllabs",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Bordeaux"
+    ],
+    "sampleTitles": [
+      "Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/mirakllabs/data-engineer-bordeaux-35606"
+    ]
+  },
+  {
     "company": "Notion",
     "jobCount": 1,
     "sources": [
@@ -412,54 +411,6 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/notion/73a71747-28d3-4dda-a718-77336056e687"
-    ]
-  },
-  {
-    "company": "Ostrom",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Berlin / Remote"
-    ],
-    "sampleTitles": [
-      "Analytics Engineer - Power Trading"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/ostrom/analytics-engineer-power-trading-berlin-243378"
-    ]
-  },
-  {
-    "company": "PerfectServe",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "USA"
-    ],
-    "sampleTitles": [
-      "Data Engineer - US Remote"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/155602-data-engineer-us-remote"
-    ]
-  },
-  {
-    "company": "Polarsteps",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Amsterdam"
-    ],
-    "sampleTitles": [
-      "Senior Data & Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.nl/jobs/companies/polarsteps/senior-data-analytics-engineer-amsterdam-214056"
     ]
   },
   {
