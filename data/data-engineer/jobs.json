@@ -1,5 +1,58 @@
 [
   {
+    "id": "jobicy:155602",
+    "externalId": "155602",
+    "source": "jobicy",
+    "title": "Data Engineer - US Remote",
+    "company": "PerfectServe",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/04/7e6f5669fc8c9ea0aa484ce7c3058599.jpg",
+    "location": "USA",
+    "remote": true,
+    "url": "https://jobicy.com/jobs/155602-data-engineer-us-remote",
+    "description": "What is PerfectServe?\n PerfectServe is a leading provider of clinical communication and physician scheduling solutions in the health IT space. The company was founded in 1997 and has grown steadily since then, with a notable jump after several major acquisitions were announced in 2019. PerfectServe now has 400+ employees, 30,000+ customers — spanning medical practices, hospitals, and health systems — and $100 million+ in annual revenue.\n PerfectServe’s mission is to accelerate speed to care by optimizing provider schedules and routing communications — including messages, pages, calls, and alerts — to the right place at the right time in any care setting. By facilitating real-time information sharing, building better schedules, and automating important clinical workflows, we believe we can help our customers advance patient care and improve the well-being of their clinicians.\n Leading analyst firms like Gartner® and KLAS Research have consistently validated our approach:\n In 2026, PerfectServe was named highest in execution and furthest in vision in the Gartner Magic Quadrant™ for Clinical Communication and Collaboration — the clear segment leader.\n PerfectServe also received two Best in KLAS awards in 2026 — one for physician scheduling and another for ambulatory clinical communications. That makes for 11 Best in KLAS awards over the past 9 years.\n At PerfectServe, you'll have a unique opportunity to join a collaborative team with decades of experience that finds new ways to delight our customers every day. This involves consistent efforts to stay on the cutting edge of product development, which includes everything from implementing AI in new and existing solutions to brainstorming with customers about novel workflows. But you don't have to be in product to make in impact — everybody at PerfectServe contributes to important work that moves the business forward.\n If you're looking for a well-established, tech-forward company full of smart people doing meaningful wo…",
+    "tags": [
+      "Data Science & Analytics",
+      "Senior"
+    ],
+    "jobType": "Full-Time",
+    "postedAt": "2026-11-17T03:00:35.000Z",
+    "scrapedAt": "2026-11-17T06:19:46.088Z"
+  },
+  {
+    "id": "arbeitnow:analytics-engineer-power-trading-berlin-243378",
+    "externalId": "analytics-engineer-power-trading-berlin-243378",
+    "source": "arbeitnow",
+    "title": "Analytics Engineer - Power Trading",
+    "company": "Ostrom",
+    "location": "Berlin / Remote",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/ostrom/analytics-engineer-power-trading-berlin-243378",
+    "description": "🌐 We are on the mission to build Europe’s leading energy management platform to provide fair, clean energy to everyone. ⚡\n We’re a diverse team of 50+ employees , with 46% being female and from 16+ nationalities , and steadily growing. Having raised of over €40 M in total, we are looking for passionate people to join us on our mission! 🚀\n 🇩🇪 Wir haben eine klare Mission: Wir bauen Europas führende Plattform für Energiemanagement, um faire und saubere Energie für alle zugänglich zu machen. ⚡\n Unser Team ist vielfältig – wir sind über 50 Personen aus mehr als 16 Nationalitäten , mit einem Frauenanteil von 46 % . Und wir wachsen weiter!\nMit über 40 Mio. € an Finanzierung suchen wir nach motivierten Menschen, die gemeinsam mit uns die Energiezukunft gestalten wollen. 🚀\n Your mission\n We are looking for a motivated Analytics Engineer (m/f/d) to support us in the green revolution of the electricity market as a digital and smart electricity provider.\n As a key member of our Trading team, you will take ownership of the data behind our trading, from pipelines and models to the analyses and dashboards that guide our decisions. Your work helps us shape how we trade energy and build a smarter, more flexible energy system.\n Your tasks\n Build and own our ETL pipelines for all data sources, including smart meter measurements, weather data, energy market data, home energy management system (HEMS) data, and trade data\n Own data modeling and data infrastructure, including orchestration, data quality checks, and monitoring\n Understand our business logic and provide clean, ready-to-use data for our trading algorithms and ML models\n Analyze trading, portfolio, and energy market data to find patterns and explain what drives our results\n Build and own our Python-based dashboards, so the team can track performance, positions, and data quality\n Your profile\n Degree in Computer Science or similar and 4+ years of experience in analytics engineering, data engineering, or a related field…",
+    "tags": [
+      "Finance",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-11-17T00:40:11.000Z",
+    "scrapedAt": "2026-11-17T06:19:45.951Z"
+  },
+  {
+    "id": "greenhouse:coinbase-8394402",
+    "externalId": "coinbase:8394402",
+    "source": "greenhouse",
+    "title": "Senior Analytics Engineer",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "remote": true,
+    "url": "https://www.coinbase.com/careers/positions/8394402?gh_jid=8394402",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” Learn more about working at Coinbase .\n The Compliance Data team owns the foundational data layer that every regulatory obligation at Coinbase depends on. We are a centralized team within Coinbase's Platform organization, and we build the trusted, certified data that the rest of the company relies on to answer regulators with confidence.\n At the center of our work is the Compliance Data Mart (CDM), Coinbase's canonical source of truth for user, transaction, and compliance data. Our focus is the data foundations beneath every regulatory report, making sure they are accurate, consistent, well-modeled, and trustworthy. When a number is wrong in a regulatory filing, the root cause usually traces back to the data layer. We own that layer, and we make sure it holds.\n While building durable foundations is our core mission, we also support live regulatory exams, audits, and time-sensitive data requests. You should be comfortable balancing long-term foundational work with occasional reactive, deadline-driven asks. Regulators operate on their timelines, not ours.\n Analytics Engineer is a hybrid role that blends data engineering and data science. You'll bring the engineering discipline to build durable, production-grade pipelines and data models, and the analytical instincts to understand what the data means, where it breaks, and how stakeholders will use it. The details matter here, because everything built on top of our foun…",
+    "tags": [
+      "Data Science"
+    ],
+    "postedAt": "2026-11-16T23:29:14.000Z",
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
+  },
+  {
     "id": "arbeitnow:location-data-engineer-paris-221661",
     "externalId": "location-data-engineer-paris-221661",
     "source": "arbeitnow",
@@ -15,7 +68,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-11-16T06:40:18.000Z",
-    "scrapedAt": "2026-11-16T21:36:04.375Z"
+    "scrapedAt": "2026-11-17T06:19:45.951Z"
   },
   {
     "id": "arbeitnow:senior-data-analytics-engineer-amsterdam-214056",
@@ -33,7 +86,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-11-14T06:40:35.000Z",
-    "scrapedAt": "2026-11-16T21:36:04.375Z"
+    "scrapedAt": "2026-11-17T06:19:45.951Z"
   },
   {
     "id": "arbeitnow:data-platform-engineer-amsterdam-124619",
@@ -51,7 +104,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-11-14T00:40:14.000Z",
-    "scrapedAt": "2026-11-16T21:36:04.375Z"
+    "scrapedAt": "2026-11-17T06:19:45.951Z"
   },
   {
     "id": "greenhouse:lyft-8940409002",
@@ -67,7 +120,7 @@
       "Marketplace"
     ],
     "postedAt": "2026-11-13T09:17:01.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:block-5473605008",
@@ -83,7 +136,7 @@
       "30403 Foundational - Guidance - Corporate Finance & Strategy"
     ],
     "postedAt": "2026-11-12T21:53:17.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "remotive:2091137",
@@ -150,7 +203,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-11-11T18:39:59.000Z",
-    "scrapedAt": "2026-11-16T21:36:04.208Z"
+    "scrapedAt": "2026-11-17T06:19:45.750Z"
   },
   {
     "id": "remoteok:1137714",
@@ -183,7 +236,7 @@
       "digital nomad"
     ],
     "postedAt": "2026-11-10T16:00:04.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.028Z"
+    "scrapedAt": "2026-11-17T06:19:46.536Z"
   },
   {
     "id": "greenhouse:lyft-8931413002",
@@ -199,7 +252,7 @@
       "Lyft Ads"
     ],
     "postedAt": "2026-11-10T15:58:08.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:coinbase-8047150",
@@ -215,7 +268,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-10-31T02:38:15.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "ashby:notion-73a71747-28d3-4dda-a718-77336056e687",
@@ -233,7 +286,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-10-28T18:42:47.956Z",
-    "scrapedAt": "2026-11-16T21:39:00.561Z"
+    "scrapedAt": "2026-11-17T06:22:35.175Z"
   },
   {
     "id": "greenhouse:anthropic-5462966008",
@@ -249,7 +302,7 @@
       "Security"
     ],
     "postedAt": "2026-10-26T22:47:43.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -265,7 +318,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -281,7 +334,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -297,7 +350,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -313,7 +366,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -329,7 +382,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -345,7 +398,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -361,7 +414,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -377,7 +430,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:pinterest-8209014",
@@ -393,7 +446,7 @@
       "Oversight Engineering"
     ],
     "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:airbnb-8224032",
@@ -409,7 +462,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -425,7 +478,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -441,7 +494,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -457,7 +510,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -473,7 +526,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -489,7 +542,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -505,7 +558,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -521,7 +574,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -541,7 +594,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-11-16T21:38:59.492Z"
+    "scrapedAt": "2026-11-17T06:22:34.460Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -560,7 +613,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-11-16T21:39:00.561Z"
+    "scrapedAt": "2026-11-17T06:22:35.175Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -576,7 +629,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:stripe-8112043",
@@ -592,7 +645,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-08-06T14:27:44.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -608,7 +661,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -624,7 +677,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -640,7 +693,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -656,7 +709,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -672,7 +725,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -688,7 +741,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -704,7 +757,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -720,7 +773,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -736,7 +789,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "greenhouse:robinhood-5616144",
@@ -752,7 +805,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2024-01-23T00:26:13.000Z",
-    "scrapedAt": "2026-11-16T21:36:05.034Z"
+    "scrapedAt": "2026-11-17T06:19:46.544Z"
   },
   {
     "id": "workday:workday-JR-0111625",
@@ -768,7 +821,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-11-16T21:36:11.793Z"
+    "scrapedAt": "2026-11-17T06:19:54.301Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -784,7 +837,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-11-16T21:36:11.793Z"
+    "scrapedAt": "2026-11-17T06:19:54.301Z"
   },
   {
     "id": "workday:workday-JR-0108816",
@@ -800,7 +853,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-11-16T21:36:11.793Z"
+    "scrapedAt": "2026-11-17T06:19:54.301Z"
   },
   {
     "id": "workday:nvidia-JR2028588",
@@ -814,7 +867,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-16T21:36:11.793Z"
+    "scrapedAt": "2026-11-17T06:19:54.301Z"
   },
   {
     "id": "workday:nvidia-JR2028539",
@@ -828,7 +881,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-16T21:36:11.793Z"
+    "scrapedAt": "2026-11-17T06:19:54.301Z"
   },
   {
     "id": "workday:nvidia-JR2023850",
@@ -842,7 +895,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-16T21:36:11.793Z"
+    "scrapedAt": "2026-11-17T06:19:54.301Z"
   },
   {
     "id": "workday:nvidia-JR2026497",
@@ -856,7 +909,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-16T21:36:11.793Z"
+    "scrapedAt": "2026-11-17T06:19:54.301Z"
   },
   {
     "id": "workday:nvidia-JR2029837",
@@ -870,7 +923,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-16T21:36:11.793Z"
+    "scrapedAt": "2026-11-17T06:19:54.301Z"
   },
   {
     "id": "workday:nvidia-JR2029192",
@@ -884,7 +937,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-16T21:36:11.793Z"
+    "scrapedAt": "2026-11-17T06:19:54.301Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -898,7 +951,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-16T21:36:11.793Z"
+    "scrapedAt": "2026-11-17T06:19:54.301Z"
   },
   {
     "id": "workday:nvidia-JR2014259",
@@ -912,7 +965,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-16T21:36:11.793Z"
+    "scrapedAt": "2026-11-17T06:19:54.301Z"
   },
   {
     "id": "workday:adobe-R171875",
@@ -926,7 +979,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-16T21:36:11.793Z"
+    "scrapedAt": "2026-11-17T06:19:54.301Z"
   },
   {
     "id": "workday:adobe-R172115",
@@ -940,7 +993,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-16T21:36:11.793Z"
+    "scrapedAt": "2026-11-17T06:19:54.301Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -954,7 +1007,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-16T21:36:11.793Z"
+    "scrapedAt": "2026-11-17T06:19:54.301Z"
   },
   {
     "id": "workday:salesforce-JR366234",
@@ -968,7 +1021,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-16T21:37:15.412Z"
+    "scrapedAt": "2026-11-17T06:20:56.129Z"
   },
   {
     "id": "workday:salesforce-JR363793",
@@ -982,7 +1035,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-16T21:37:15.412Z"
+    "scrapedAt": "2026-11-17T06:20:56.129Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -996,7 +1049,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-16T21:37:15.412Z"
+    "scrapedAt": "2026-11-17T06:20:56.129Z"
   },
   {
     "id": "workday:salesforce-JR359930",
@@ -1010,6 +1063,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-16T21:37:47.406Z"
+    "scrapedAt": "2026-11-17T06:21:24.745Z"
   }
 ]
