@@ -1,19 +1,78 @@
 [
   {
-    "id": "arbeitnow:lead-data-engineer-147978",
-    "externalId": "lead-data-engineer-147978",
+    "id": "arbeitnow:analytics-engineer-london-188869",
+    "externalId": "analytics-engineer-london-188869",
     "source": "arbeitnow",
-    "title": "Lead Data Engineer",
-    "company": "Xdesign",
-    "location": "Unknown",
+    "title": "Analytics Engineer",
+    "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
+    "location": "London",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/xdesign/lead-data-engineer-147978",
-    "description": "<p><strong>Working at CreateFuture</strong><br><br><a href=\"https://createfuture.com/\" target=\"_blank\">CreateFuture</a> is an&nbsp;<strong>AI-native consulting partner&nbsp;</strong>where people do work that matters and are supported to do it well. We work alongside organisations such as PayPal, adidas, NatWest, FanDuel and Money Saving Expert, building digital products and services that make a difference&nbsp; while always putting people first.</p>\n<p>We’re a team of creators. We write code, shape delivery, build go-to-market strategies, develop AI solutions and create the practices that support our people. We work side by side with our clients, challenging what’s not working and helping them to build the future. Our commitment to craft, quality, and culture has helped us scale to over 600 people in just a few years.<br><br>CreateFuture is a <a href=\"https://www.greatplacetowork.co.uk/certified-company/1572759\" target=\"_blank\">Great Place to Work-Certified™ company </a>and has won Best Workplaces UK multiple years in a row.<br><br></p>\n<p><strong>Join us on our journey. Let’s create tomorrow, together, today.<br><br></strong></p>\n<div class=\"_1bsb1osq _18s8y1gf _p12fukw8\" data-testid=\"view-page-labels-container\">\n<div class=\"styles--2BkR3\" data-ui=\"job-description\">\n<h3><strong>About the role and team:</strong></h3>\n<p>We are looking for a Lead Data Engineer to own the technical direction of a data engagement, working with AWS data services, platforms like Snowflake and Databricks, Python, and PySpark across our data team. You’ll lead a team of data engineers, setting the standards for how pipelines and architecture are designed, built, and operated, while staying hands-on with the most complex technical challenges. You’ll work closely with client stakeholders and CreateFuture’s wider engineering capability to make sure delivery is both technically excellent and commercially sound.</p>\n<h3><strong>What you'll be doing:</strong></h3>\n<ul>\n<li>Own the technical dire…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/analytics-engineer-london-188869",
+    "description": "<div class=\"content-intro\"><p>&nbsp;</p>\n<p><span style=\"color: rgb(0, 4, 67);\"><img style=\"max-width: 100%;\" src=\"https://www.rightmove.co.uk/careers/content/uploads/2026/09/Untitled-30-July-2026-at-10.03.05-3-8.png\" alt=\"\" width=\"1001\"><strong><br><br></strong></span></p>\n<p>Our vision is to give everyone the belief they can make their move. We aim to make moving simpler,&nbsp;by giving everyone the best place to turn to and return to for access to the tools, expertise, trust, and belief to make it happen.</p>\n<p>We’re home to the UK’s largest choice of properties and are the go-to destination for millions&nbsp;of people planning their next move, reading the latest industry news, or just browsing what’s on the market.&nbsp;</p>\n<hr>\n<p>&nbsp;</p></div><p>Millions of people visit the Rightmove website every month. We have a huge amount of data about how people use the site,&nbsp;and what this means to our customers. You’ll be at the centre of our analytics platform to help drive this, modelling and productionising high‑quality data assets in&nbsp;DBT on BigQuery, and maintaining the semantic layer to power the insights that will impact millions of users.<br><br>Working closely with a highly collaborative and high-performing team of data engineers, analysts, and product teams, you&nbsp;will help standardise metrics, elevate data quality, and enable self‑serve analytics so teams can move faster and smarter to&nbsp;drive real business impact.<br><br>Ultimately, this role would suit an analytics engineer who’s ready to take ownership of building high-quality, well-documented data models, contribute to the development of a scalable analytics layer of a modern data stack, and help&nbsp;shape how data is used across the UK’s favourite property site.<br><br><strong>What You’ll Be Doing</strong><br>- Model, build, and productionise robust data assets using dbt and BigQuery<br>- Maintain and evolve the semantic layer in Looker to support consistent, self-serve analytics<br>…",
     "tags": [
-      "Data"
+      "Analytics Engineering"
     ],
-    "postedAt": "2026-11-18T06:55:21.000Z",
-    "scrapedAt": "2026-11-18T11:02:28.109Z"
+    "postedAt": "2026-11-18T18:55:19.000Z",
+    "scrapedAt": "2026-11-18T19:55:07.850Z"
+  },
+  {
+    "id": "arbeitnow:working-student-data-engineer-python-sql-cloud-platforms-berlin-454463",
+    "externalId": "working-student-data-engineer-python-sql-cloud-platforms-berlin-454463",
+    "source": "arbeitnow",
+    "title": "Working Student Data Engineer – Python, SQL & Cloud Platforms",
+    "company": "AgentixLake GmbH",
+    "location": "Berlin",
+    "remote": true,
+    "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-data-engineer-python-sql-cloud-platforms-berlin-454463",
+    "description": "IMPORTANT Application note Please apply only through this job portal. Kindly do not send applications or recruitment messages by email or LinkedIn. Only applications submitted through the portal will be considered. Thank you.\n About AgentixLake\n AgentixLake GmbH is a Data and AI engineering consultancy based in Hamburg, Germany. We design, build and operate production-grade data platforms and AI systems in our customers’ cloud accounts or on-premises environments. We are an AWS Services Partner and a Certified Services Partner in Anthropic’s Claude Partner Network. Our commercial focus is DACH and the Gulf region, alongside selected international opportunities.\n Your role\n Build the pipelines and data models that people can depend on. You will own defined components of our data engineering projects, from understanding a source system to delivering tested transformations and monitoring how they run.\n Our data platform engineering work connects operational systems with analytics and AI applications. Depending on the project, you will work with cloud warehouses, lakehouse architectures and the data quality and reliability practices that support production use.\n What you will do\n Build Python and SQL pipelines to ingest and transform data from APIs, databases, files or event sources.\n Develop data models and dbt transformations with clear definitions, tests and documentation.\n Implement incremental processing, schema checks and reconciliation so changes and data issues are visible.\n Configure orchestration and monitoring; investigate failed runs and improve recovery and troubleshooting.\n Contribute to cloud data platform components, infrastructure configuration and deployment workflows.\n Use Git, pull requests and code review to deliver maintainable changes and explain their impact on downstream users.\n What you bring\n Current university enrolment in computer science, data science, business informatics or a related technical discipline.\n Strong SQL and practical Python…",
+    "tags": [
+      "Remote",
+      "Data Processing",
+      "Data Engineer",
+      "Working student",
+      "working student",
+      "no experience required / student"
+    ],
+    "jobType": "Working student",
+    "postedAt": "2026-11-18T17:00:45.000Z",
+    "scrapedAt": "2026-11-18T19:55:07.850Z"
+  },
+  {
+    "id": "arbeitnow:explore-ingenieur-data-senior-senior-data-engineer-h-f-cdi-carquefou-240177",
+    "externalId": "explore-ingenieur-data-senior-senior-data-engineer-h-f-cdi-carquefou-240177",
+    "source": "arbeitnow",
+    "title": "EXPLORE - Ingénieur DATA sénior / Senior DATA Engineer (H/F) - CDI",
+    "company": "INTESCIA GROUP",
+    "location": "CARQUEFOU, Pays de la Loire, France",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/explore-ingenieur-data-senior-senior-data-engineer-h-f-cdi-carquefou-240177",
+    "description": "Ingénieur DATA sénior / Senior DATA Engineer (H/F)\n CDI\n Rejoignez le Groupe INTESCIA, leader de la Business Intelligence en Europe !\n Qui sommes-nous ?\n EXPLORE, filiale d’INTESCIA GROUP, est un acteur leader dans le développement de solutions de data intelligence BtoB. Nous produisons des données à forte valeur ajoutée pour accompagner le développement commercial des entreprises, faciliter leurs analyses de marchés et optimiser leur connaissance clients. Nous comptons aujourd’hui plus de 1 500 clients et près de 35 000 utilisateurs dans les univers de l’Immobilier, la Construction, l’Énergie, l’Environnement et des Services à l’entreprise.\n Nos atouts ?\n Un groupe en pleine expansion, reconnu pour son expertise et ses solutions à forte valeur ajoutée.\n Une culture d’innovation, où la créativité et l’amélioration continue sont au cœur de notre ADN.\n Des équipes passionnées et engagées, évoluant dans un environnement stimulant et collaboratif.\n Votre mission :\n Vous intégrerez l'équipe Data Engineer qui joue un rôle central chez Intescia : ingérer, structurer, fiabiliser et valoriser la donnée vendue aux clients. Vous intégrerez une entreprise en pleine transformation data : migration de la donnée dans Databricks.\n En tant que Senior Data Engineer vous aurez un rôle clé dans la mise en place de cette transformation : conception et développement des pipelines de données, mise en place et diffusion des bonnes pratiques de développement et optimisation des performances.\n Un des axes majeurs de la donnée traitée par Intescia est l’axe géographique. Vous prenez le relais de notre géomaticien qui évolue vers une autre équipe : vous avez de l’appétence et de l’expérience dans le traitement de la donnée géographique.\n Vos activités :\n Construire et industrialiser les pipelines de données\n · Concevoir, développer et maintenir les pipelines d'ingestion et de transformation de données.\n · Garantir la fiabilité, la fraîcheur, la qualité et la traçabilité des données produites.…",
+    "tags": [
+      "Data & IA",
+      "Experienced",
+      "fulltime permanent"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-11-18T15:31:25.000Z",
+    "scrapedAt": "2026-11-18T19:55:07.850Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-paris-france-145398",
+    "externalId": "data-engineer-paris-france-145398",
+    "source": "arbeitnow",
+    "title": "Data Engineer",
+    "company": "Alan",
+    "location": "Paris, France",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/alan/data-engineer-paris-france-145398",
+    "description": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t.\n Alan exists to end the wait.\n Health is a universal right, and we believe this right can only become real when it’s coupled with prevention. We need to stop treating health as something we repair and start treating it as something we build, every day. It’s not solely a question of willpower. It’s the healthcare system itself that needs to work for everyone, in a sustainable way.\n So we are building the new standard in prevention insurance. Alan is the first company that integrates insurance, prevention, and care into a single, acclaimed user experience.\n We are on an incredible journey to build a global leading company, with a unique culture . We already partner with 40K+ companies of all sizes, serving more than 1M+ members, and have reached €800M+ in ARR.\n Prevention as the new norm. That's what we're building with our team of 1000+ people. If it speaks to you: we're hiring across France, Spain, Belgium, and Canada. And beyond.\n ⭐️ The Data Foundations team ⭐ At Alan, every decision we make about our members' care, contracts and claims is a data decision. The Data Foundations team builds the platform that makes those decisions possible in a safe way.\n Being part of the Data Foundations team means you’ll build, maintain, and improve the Data Platform used by everyone at Alan.\n We enable Alan’s data-driven nature and help our colleagues make the most of their data.\n Partner closely with people across Alan (technical and non-technical) to understand their needs and build data solutions they can trust and use effectively.\n We own and manage all data-related tools that power Alan.\n AI is changing the way companies work with data: agents are becoming first-class users of our data warehouse. It opens a world of new usage and exciting features, as well as concerns around security, data…",
+    "tags": [
+      "Data",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-11-18T12:40:15.000Z",
+    "scrapedAt": "2026-11-18T19:55:07.850Z"
   },
   {
     "id": "arbeitnow:data-engineer-aws-recrutement-international-montreal-france-451354",
@@ -33,7 +92,7 @@
     ],
     "jobType": "Mid",
     "postedAt": "2026-11-18T06:31:33.000Z",
-    "scrapedAt": "2026-11-18T11:02:28.109Z"
+    "scrapedAt": "2026-11-18T19:55:07.850Z"
   },
   {
     "id": "arbeitnow:data-engineer-databricks-azure-recrutement-international-montreal-france-67412",
@@ -53,7 +112,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-11-18T06:31:33.000Z",
-    "scrapedAt": "2026-11-18T11:02:28.109Z"
+    "scrapedAt": "2026-11-18T19:55:07.850Z"
   },
   {
     "id": "greenhouse:cloudflare-8395358",
@@ -69,7 +128,7 @@
       "Security"
     ],
     "postedAt": "2026-11-17T21:48:13.000Z",
-    "scrapedAt": "2026-11-18T11:02:28.572Z"
+    "scrapedAt": "2026-11-18T19:55:09.069Z"
   },
   {
     "id": "greenhouse:airbnb-8396777",
@@ -85,7 +144,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-11-17T19:22:59.000Z",
-    "scrapedAt": "2026-11-18T11:02:28.572Z"
+    "scrapedAt": "2026-11-18T19:55:09.069Z"
   },
   {
     "id": "greenhouse:block-5485151008",
@@ -101,7 +160,7 @@
       "20408 S&M - Sales - Square RevOps & Enablement"
     ],
     "postedAt": "2026-11-17T15:46:55.000Z",
-    "scrapedAt": "2026-11-18T11:02:28.572Z"
+    "scrapedAt": "2026-11-18T19:55:09.069Z"
   },
   {
     "id": "greenhouse:lyft-8940409002",
@@ -117,122 +176,6 @@
       "Marketplace"
     ],
     "postedAt": "2026-11-13T09:17:01.000Z",
-    "scrapedAt": "2026-11-18T11:02:28.572Z"
-  },
-  {
-    "id": "greenhouse:block-5473605008",
-    "externalId": "block:5473605008",
-    "source": "greenhouse",
-    "title": "Staff Data Engineer, Advanced Insights & Modeling",
-    "company": "Block",
-    "location": "Bay Area, CA, United States of America",
-    "remote": false,
-    "url": "http://block.xyz/careers/jobs/5473605008?gh_jid=5473605008",
-    "description": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.\nToday, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.\n The Role\n The Advanced Insights and Modeling (AIM) team is a high-impact, business-savvy group of builders: machine learning engineers, data scientists, data engineers, and business strategists who combine technical skills with deep product and financial expertise. We hold high standards, move fast, and own our models end to end. AIM runs on curiosity, bold thinking, and collaboration, and we keep the culture decidedly non-corporate. Teams across Block come to us when they need insight, speed, and real business impact.\n AIM sits within Block’s Foundational organization and is sponsored directly by the CFO, but our mandate runs well beyond Finance. We own most of the measurement and predictive modeling at Block: forecasting across Cash App, Square, and Afterpay, customer lifetime value, marketing incrementality and spend optimization, sales pipeline and prospect value, and actives and network-effect measurement. Finance, Marketing, Sales, Product, and Risk all plan against numbers we produce. We also own the data foundations those models run on, and corporate functions inclu…",
-    "tags": [
-      "30403 Foundational - Guidance - Corporate Finance & Strategy"
-    ],
-    "postedAt": "2026-11-12T21:53:17.000Z",
-    "scrapedAt": "2026-11-18T11:02:28.572Z"
-  },
-  {
-    "id": "remotive:2091137",
-    "externalId": "2091137",
-    "source": "remotive",
-    "title": "Senior Data Engineer",
-    "company": "Lemon.io",
-    "companyLogo": "https://remotive.com/job/2091137/logo",
-    "location": "LATAM, Europe, USA, Canada, APAC",
-    "remote": true,
-    "url": "https://remotive.com/remote-jobs/data/senior-data-engineer-2091137",
-    "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us.\n New roles for Senior React Full-stack Engineers come in all the time, and several are open right now.\n Two ways to work with clients\n Contract: most roles are contract-based. You join the client’s team and work as part of it.\n Direct hire: some clients hire engineers full-time, and we support you through the process.\n Because companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own.\n What you get\n Competitive rate, based on your seniority and skills\n We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences.\n Flexible schedule. Work async or with a small overlap with the team’s hours.\n No micromanagement, no screen trackers\n Direct work with clients, most of them with technical backgrounds\n Ongoing support from your application through every project, plus a community of engineers from 75+ countries\n Who we’re looking for\n Senior Data Engineers with:\n 4+ years of commercial experience as a Data Engineer\n Experience with Apache Airflow and Snowflake, or Python and SQL, is required\n Experience with AWS, GCP, or Microsoft Azure is mandatory\n You own problems end-to-end: you spot the issue in the data or pipeline, design and build the solution, and ship it to production.\n You can show the business impact of your work with concrete results (e.g., faster data processing, lower infrastructure costs, fresher data for stakeholders, fewer pipeline incidents).\n Advanced English: you discuss business tasks, explain your technical decisions, raise risks early, and present yourself and your results well on client calls.\n You work full-time remotely and deliver without supervision.…",
-    "tags": [
-      "Data and Analytics",
-      ".Net",
-      "android",
-      "apache",
-      "AWS",
-      "azure",
-      "C",
-      "C#",
-      "C++",
-      "data science",
-      "fullstack",
-      "golang",
-      "ios",
-      "java",
-      "javascript",
-      "magento",
-      "node.js",
-      "php",
-      "python",
-      "react",
-      "ruby/rails",
-      "scala",
-      "shopify",
-      "sql",
-      "swift",
-      "UI/UX",
-      "wordpress",
-      "blockchain",
-      "AI/ML",
-      "automation",
-      "project management",
-      "react native",
-      "rust",
-      "unity",
-      "electron",
-      "spring",
-      "data analysis",
-      "laravel",
-      "Ethereum",
-      "graphic design",
-      "Typescript ",
-      "angular ",
-      "GCP",
-      "firebase",
-      "Snowflake",
-      "Site Reliability",
-      "Symfony",
-      "next.js",
-      "infrastructure",
-      "flutter"
-    ],
-    "jobType": "full_time",
-    "postedAt": "2026-11-11T18:39:59.000Z",
-    "scrapedAt": "2026-11-18T11:02:28.015Z"
-  },
-  {
-    "id": "remoteok:1137714",
-    "externalId": "1137714",
-    "source": "remoteok",
-    "title": "Data Engineer",
-    "company": "Addepto",
-    "location": "Remote",
-    "remote": true,
-    "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
-    "description": "Addepto is a leading AI consulting ( https://addepto.com/ai-consulting/ ) and data engineering ( https://addepto.com/data-engineering-services/ ) company that builds scalable, ROI-focused AI solutions for some of the world's largest enterprises and pioneering startups, including Rolls Royce, Continental, Porsche, ABB, and WGU. With an exclusive focus on Artificial Intelligence and Big Data, Addepto helps organizations unlock the full potential of their data through systems designed for measurable business impact and long-term growth.\n The company's work extends beyond client engagements. Drawing from real-world challenges and insights, Addepto has developed its own product - ContextClue - and actively contributes open-source solutions to the AI community. This commitment to transforming practical experience into scalable innovation has earned Addepto recognition by Forbes as one of the top 10 AI consulting companies worldwide .\n As part of KMS Technology , a US-based global technology group, Addepto combines deep AI specialization with enterprise-scale delivery capabilitiesâenabling the partnership to move clients from AI experimentation to production impact, securely and at scale.\n We are looking for an experienced Data Engineer with strong skills in GCP, Snowflake, dbt, Python, SQL, and Data Analytics to join our team. You will work on international data engineering and analytics projects, focusing on building scalable data solutions, modernizing data warehouses, and supporting data-driven business decisions.\n Project areas include:\n Data Warehouse & BI Modernization â refactoring data models and supporting migrations between BI platforms (e.g., Looker to Omni).\n CRM Data Integration â developing and optimizing data models to support CRM migrations and integrations (e.g., HubSpot).\n Commercial & Growth Analytics â building analytical solutions for customer acquisition, retention, churn, revenue, and business performance.\n Data Quality & Self-Service Analy…",
-    "tags": [
-      "design",
-      "saas",
-      "salesforce",
-      "python",
-      "education",
-      "consulting",
-      "customer support",
-      "testing",
-      "marketing",
-      "dev",
-      "finance",
-      "cloud",
-      "git",
-      "stats",
-      "sys admin",
-      "engineer",
-      "apache",
-      "digital nomad"
-    ],
-    "postedAt": "2026-11-10T16:00:04.000Z",
-    "scrapedAt": "2026-11-18T11:02:28.564Z"
+    "scrapedAt": "2026-11-18T19:55:09.069Z"
   }
 ]
