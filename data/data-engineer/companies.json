@@ -105,6 +105,33 @@
     ]
   },
   {
+    "company": "Salesforce",
+    "jobCount": 5,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "India - Hyderabad",
+      "2 Locations",
+      "Mexico - Mexico City",
+      "Ireland - Dublin"
+    ],
+    "sampleTitles": [
+      "Data Engineering SMTS/LMTS",
+      "Staff Data Engineer - Slack",
+      "Data Engineer Senior | AI & Data",
+      "Senior Data Engineer",
+      "Data Engineering Senior Associate- Finance"
+    ],
+    "officialUrls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Data-Engineering-SMTS-LMTS--Revenue-Analytics_JR364686",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Staff-Data-Engineer---Slack_JR366234-1",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR363793",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930"
+    ]
+  },
+  {
     "company": "Lyft",
     "jobCount": 4,
     "sources": [
@@ -128,30 +155,6 @@
     ]
   },
   {
-    "company": "Salesforce",
-    "jobCount": 4,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "2 Locations",
-      "Mexico - Mexico City",
-      "Ireland - Dublin"
-    ],
-    "sampleTitles": [
-      "Staff Data Engineer - Slack",
-      "Data Engineer Senior | AI & Data",
-      "Senior Data Engineer",
-      "Data Engineering Senior Associate- Finance"
-    ],
-    "officialUrls": [
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Staff-Data-Engineer---Slack_JR366234-1",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Data-Engineer-Senior_JR363793",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Engineering-Senior-Associate_JR359930"
-    ]
-  },
-  {
     "company": "Adobe",
     "jobCount": 3,
     "sources": [
@@ -171,6 +174,24 @@
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Security-Data-Engineer_R171875-1",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Mgr--Software-Development_R172115-1",
       "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
+    ]
+  },
+  {
+    "company": "agileDSS",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "France, Île-de-France, France"
+    ],
+    "sampleTitles": [
+      "Data Engineer AWS - Recrutement international (Montréal)",
+      "Data Engineer Databricks (Azure) - Recrutement international (Montréal)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/agiledss/data-engineer-aws-recrutement-international-montreal-france-451354",
+      "https://www.arbeitnow.fr/jobs/companies/agiledss/data-engineer-databricks-azure-recrutement-international-montreal-france-67412"
     ]
   },
   {
@@ -300,22 +321,6 @@
     ],
     "officialUrls": [
       "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714"
-    ]
-  },
-  {
-    "company": "Decathlontechnology",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Paris, Paris; Villeneuve-d'Ascq, Nord"
-    ],
-    "sampleTitles": [
-      "Senior BI & Analytics Engineer - Circularity"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-bi-analytics-engineer-circularity-paris-paris-villeneuve-dascq-nord-157451"
     ]
   },
   {
@@ -495,19 +500,19 @@
     ]
   },
   {
-    "company": "Wellhub",
+    "company": "Xdesign",
     "jobCount": 1,
     "sources": [
-      "jobicy"
+      "arbeitnow"
     ],
     "locations": [
-      "Brazil"
+      "Unknown"
     ],
     "sampleTitles": [
-      "Analytics Engineer (AI) | Martech"
+      "Lead Data Engineer"
     ],
     "officialUrls": [
-      "https://jobicy.com/jobs/162992-analytics-engineer-ai-martech"
+      "https://www.arbeitnow.co.uk/jobs/companies/xdesign/lead-data-engineer-147978"
     ]
   }
 ]
