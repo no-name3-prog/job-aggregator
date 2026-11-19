@@ -1,5 +1,21 @@
 [
   {
+    "id": "arbeitnow:senior-data-engineer-28215",
+    "externalId": "senior-data-engineer-28215",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer",
+    "company": "Distrokid",
+    "location": "Unknown",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/distrokid/senior-data-engineer-28215",
+    "description": "<p>At DistroKid, we help artists share their music with the world. Around 40-50% of the world's new music is released through DistroKid today.</p>\n<p><strong>Summary:</strong></p>\n<p>We are seeking a Senior Data Engineer to join our team at DistroKid. The successful candidate will play a crucial role in designing, developing, and maintaining our data infrastructure, ensuring the seamless flow of data across various teams and platforms. This role will partner with our current data engineers, data analysts, data scientists, and work closely with database administrators, software developers, security, devops, system operations and AI enablement peers. This is a fantastic opportunity to have a significant impact across our entire business, and there is broad scope for the successful candidate to bring new approaches and best practices into our existing infrastructure.</p>\n<p>If you have a strong background in data engineering and a passion for music and the entertainment industry, we encourage you to apply for this exciting opportunity to make a significant impact on the global music distribution landscape.</p>\n<hr>\n<p><strong>What You’ll Do:</strong></p>\n<ol>\n<li>Individual contributor ownership within an existing small team of data analytics, science and engineering, reporting into the VP of Data. Furthermore, broader collaboration with software developers, database administrators, security, devops, system operations and AI enablement teams to design, develop, and maintain scalable and reliable data pipelines and ETL processes. Your work will shape and help scale critical infrastructure that is core to the experience of millions of our artists.&nbsp;</li>\n<li>Work closely with the data science and backend services teams to assist with their needs, including aiding robust data pipelines and designing, deploying and maintaining critical machine learning and AI infrastructure.</li>\n<li>Ensure data quality and consistency by implementing robust data validation, transform…",
+    "tags": [
+      "Engineering"
+    ],
+    "postedAt": "2026-11-19T09:55:17.000Z",
+    "scrapedAt": "2026-11-19T11:04:33.322Z"
+  },
+  {
     "id": "arbeitnow:data-engineer-amsterdam-351444",
     "externalId": "data-engineer-amsterdam-351444",
     "source": "arbeitnow",
@@ -16,7 +32,7 @@
     ],
     "jobType": "Mid",
     "postedAt": "2026-11-18T21:51:39.000Z",
-    "scrapedAt": "2026-11-19T02:14:36.144Z"
+    "scrapedAt": "2026-11-19T11:04:33.322Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-client-reporting-amsterdam-263892",
@@ -35,139 +51,7 @@
     ],
     "jobType": "Mid",
     "postedAt": "2026-11-18T21:51:39.000Z",
-    "scrapedAt": "2026-11-19T02:14:36.144Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-de-meern-448217",
-    "externalId": "senior-data-engineer-de-meern-448217",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer",
-    "company": "LINKIT B.V.",
-    "location": "De Meern, Utrecht, Nederland",
-    "remote": false,
-    "url": "https://www.arbeitnow.nl/jobs/companies/linkit-bv/senior-data-engineer-de-meern-448217",
-    "description": "Data die het verschil maakt Data is pas waardevol als een organisatie erop kan bouwen. Als Senior Data Engineer bij LINKIT zorg jij daarvoor: je ontwerpt platformen die schaalbaar, betrouwbaar en toekomstbestendig zijn, en je kijkt verder dan de losse pipeline. Klinkt dat als jouw volgende stap?\n De uitdaging Als Senior Data Engineer kom je in dienst bij LINKIT en ga je aan het werk bij toonaangevende opdrachtgevers in mobiliteit, energie en financiële dienstverlening. Je draagt bij aan platformen die er echt toe doen: data-oplossingen voor internationale treinreizen bij NS, moderne beleggingsplatformen bij Robeco en schaalbare data ecosystemen bij EDSN en Stedin. Je ontwerpt en bouwt schaalbare data pipelines in Cloud omgevingen, ontwikkelt betrouwbare datamodellen die organisatiebreed worden gebruikt en denkt actief mee over architectuur, performance en onderhoudbaarheid. Je werkt nauw samen met analytics- en data science-teams om data ML-ready te maken en verbetert bestaande oplossingen waar dat waarde toevoegt. Als Senior Data Engineer maak je zo het verschil op zowel technisch als strategisch niveau.\n Je plek binnen LINKIT Je werkt in de Data Engineering squad: een groep Explorers (zo noemen wij onze collega’s) die elkaar scherp houdt op vakmanschap en samen bouwt aan oplossingen voor complexe dataomgevingen. Kennis delen is de norm, niet de uitzondering. Om de twee weken kom je op vrijdag terug naar het hoofdkantoor in De Meern voor de clubdag, waarin we tijd investeren in leren, verbinden en vooruitkijken.\n Lees hier meer over de Data Engineering squad.\n Wat we vragen 5+ jaar ervaring in data engineering binnen complexe omgevingen.\n Sterke programmeervaardigheden in talen zoals Python, Scala en SQL.\n Kennis van of ervaring met distributed data processing frameworks/datalakes/orchestrators zoals Spark, Flink, Delta Lake, Iceberg, Airflow, dbt, etc.\n Ruime ervaring met production ELT/ETL-pipelines.\n Ervaring met batch/streaming dataverwerking.\n Ervaring met CI…",
-    "tags": [
-      "AI & Data Engineering",
-      "Experienced",
-      "fulltime permanent"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-11-18T21:51:37.000Z",
-    "scrapedAt": "2026-11-19T02:14:36.144Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-de-meern-35730",
-    "externalId": "data-engineer-de-meern-35730",
-    "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "LINKIT B.V.",
-    "location": "De Meern, Utrecht, Nederland",
-    "remote": false,
-    "url": "https://www.arbeitnow.nl/jobs/companies/linkit-bv/data-engineer-de-meern-35730",
-    "description": "Bouwen is pas de helft van het werk Data draait nooit om de tool, maar om de vraag erachter. Als Data Engineer bij LINKIT ga je die vraag niet uit de weg, je zoekt hem juist op.\n De uitdaging Als Data Engineer werk je aan dataplatformen die er in de praktijk toe doen: bij NS aan data-oplossingen voor internationale treinreizen, bij Robeco aan moderne beleggingsplatformen, en bij EDSN en Stedin aan schaalbare data-ecosystemen in de energiesector. Je bouwt en onderhoudt data pipelines in de Cloud, ontwikkelt datatransformaties en datamodellen met SQL en Python, en werkt met tools als Snowflake, Databricks of Fabric en orchestration tools zoals Airflow, dbt of ADF. Je komt in dienst bij LINKIT en gaat aan het werk bij toonaangevende opdrachtgevers in mobiliteit, energie en financiële dienstverlening.\n Je hebt een goede basis als Data Engineer en bent klaar voor de volgende stap: niet alleen bouwen, maar ook doorgronden waarom een platform zo is ingericht als het is. Je denkt mee met analytics-, BI- en data-science teams, en ziet feedback als brandstof voor groei.\n Je plek: de Data Engineering squad Je maakt onderdeel uit van de Data Engineering squad: vakinhoudelijke collega's die net als jij nieuwsgierig zijn naar het waarom achter elke oplossing. Kennis delen zit in het DNA van de squad, niet alleen tijdens projecten, maar ook op de clubdag, de tweewekelijkse vrijdag op ons hoofdkantoor in De Meern waarop we tijd vrijmaken voor leren en verbinden. Benieuwd wie je toekomstige collega's zijn?\n Lees hier meer over de Data squad.\n Wat we vragen 3+ jaar ervaring in een Data Engineer rol of vergelijkbare functie.\n Een stevige basiskennis van SQL.\n Ervaring met Python, Java of Scala als programmeertaal.\n Kennis van of ervaring met distributed dataprocessing frameworks/datalakes zoals Spark, Flink, Delta Lake, Iceberg, etc.\n Ervaring met een cloudplatform zoals Azure, AWS of GCP.\n Leergierig, open voor feedback en gericht op inhoudelijke/technische groei.\n Je communiceert g…",
-    "tags": [
-      "AI & Data Engineering",
-      "Mid",
-      "fulltime permanent"
-    ],
-    "jobType": "Mid",
-    "postedAt": "2026-11-18T21:51:37.000Z",
-    "scrapedAt": "2026-11-19T02:14:36.144Z"
-  },
-  {
-    "id": "arbeitnow:principal-data-engineer-de-meern-424683",
-    "externalId": "principal-data-engineer-de-meern-424683",
-    "source": "arbeitnow",
-    "title": "Principal Data Engineer",
-    "company": "LINKIT B.V.",
-    "location": "De Meern, Utrecht, Nederland",
-    "remote": false,
-    "url": "https://www.arbeitnow.nl/jobs/companies/linkit-bv/principal-data-engineer-de-meern-424683",
-    "description": "Wie durft het fundament onder AI écht op orde te zetten? Iedereen praat over AI. Weinigen hebben het data-fundament eronder al staan. Als Principal Data Engineer bepaal jij hoe dat fundament wordt gebouwd: schaalbaar, soeverein en klaar voor wat er nog komt.\n De uitdaging In een wereld die wordt gevormd door technologische ontwikkeling en geopolitieke spanningen, helpt LINKIT organisaties met IT-oplossingen die bijdragen aan een duurzame toekomst. Data en AI engineering komen daarbij steeds vaker samen in één platform, vaak gerealiseerd op een soevereine manier: op een private cloud of een Europese cloud zoals STACKIT.\n Als Principal Data Engineer ben je de rechterhand van de business lead Data & AI en neem je het voortouw in het ontwerpen en moderniseren van schaalbare, toekomstbestendige data-oplossingen. Je komt in dienst bij LINKIT en gaat aan het werk bij toonaangevende opdrachtgevers in overheid en enterprise, waar data engineering een centrale positie inneemt in de technologische stack.\n Je bouwt niet alleen, je geeft ook richting en advies. Je bewaakt kwaliteit, stimuleert verbetering en zorgt met je team voor duurzame oplossingen. Daarnaast werk je actief mee aan de Data & AI platformpropositie van LINKIT: samen met de directie en collega-leads (waaronder de Platform Lead en de AI Lead) zorg je voor een aanbod dat relevant blijft in een snel veranderend technologisch en geopolitiek landschap.\n Concreet ga je aan de slag met:\n Ontwerpen en bouwen van data-oplossingen en platforms op schaalbare, cloud native en soevereine architecturen, samen met Platform, AI en Software engineers uit andere squads.\n Implementeren van data engineering oplossingen (ingestion, storage en warehousing, pipelines) als integraal onderdeel van een modern data en AI-platform.\n Vertalen van businessvraagstukken bij overheid en enterprise naar productieklare data en AI-oplossingen binnen klantprojecten, PoC's en presalestrajecten.\n Verkennen van nieuwe technologieën, producten en part…",
-    "tags": [
-      "AI & Data Engineering",
-      "Experienced",
-      "fulltime permanent"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-11-18T21:51:37.000Z",
-    "scrapedAt": "2026-11-19T02:14:36.144Z"
-  },
-  {
-    "id": "arbeitnow:experienced-analytics-engineer-customer-experience-bordeaux-448932",
-    "externalId": "experienced-analytics-engineer-customer-experience-bordeaux-448932",
-    "source": "arbeitnow",
-    "title": "Experienced Analytics Engineer - Customer Experience",
-    "company": "Backmarket",
-    "location": "Bordeaux",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/experienced-analytics-engineer-customer-experience-bordeaux-448932",
-    "description": "Hi, we’re Back Market. We’re here to help make tech reliable, affordable, and better than new . We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon emissions than new.\n Yep, you read that right. Turns out refurbished tech is way better for the planet than new. In fact, With every device purchased on Back Market, our positive impact on the planet grows. From our Customer Care representatives to our software engineer, every individual at Back Market cuts the planet — and consumers — a break. Our mission is simple: to do more with what we already have.\n Are you ready to join us?\n Join our Customer Experience Analytics team and help build the data foundation behind a better customer journey at Back Market. You'll be working with a crew of analysts to serve data-driven decisions across the customer experience. We collect trustworthy behavioural data, build analyses, and help teams use data in their day-to-day decisions.\n   As a Customer Experience Analytics Engineer, you will turn messy data into reliable, scalable models that drive real business decisions. You'll partner closely with our customer journey, engagement and service team to make sure they can answer important questions about customer behaviour, engagement, retention and the impact of product and CRM initiatives.\n This role combines hands-on data modelling with a strong understanding of business needs. You will help define the metrics, datasets and tools that allow the Customer Experience teams to move quickly while keeping a high level of trust in the data.\n Your mission You will own and develop the analytics engineering foundations for the Customer Experience vertical.\n Build trusted data foundations Build, maintain and improve production-grade data models using dbt and BigQuery.\n Transform data from Amplitude, customer systems, experimentation tools and Braze into clean, reusable datasets.\n Def…",
-    "tags": [
-      "DATA",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-11-18T21:40:14.000Z",
-    "scrapedAt": "2026-11-19T02:14:36.144Z"
-  },
-  {
-    "id": "arbeitnow:analytics-engineer-london-188869",
-    "externalId": "analytics-engineer-london-188869",
-    "source": "arbeitnow",
-    "title": "Analytics Engineer",
-    "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/analytics-engineer-london-188869",
-    "description": "<div class=\"content-intro\"><p>&nbsp;</p>\n<p><span style=\"color: rgb(0, 4, 67);\"><img style=\"max-width: 100%;\" src=\"https://www.rightmove.co.uk/careers/content/uploads/2026/09/Untitled-30-July-2026-at-10.03.05-3-8.png\" alt=\"\" width=\"1001\"><strong><br><br></strong></span></p>\n<p>Our vision is to give everyone the belief they can make their move. We aim to make moving simpler,&nbsp;by giving everyone the best place to turn to and return to for access to the tools, expertise, trust, and belief to make it happen.</p>\n<p>We’re home to the UK’s largest choice of properties and are the go-to destination for millions&nbsp;of people planning their next move, reading the latest industry news, or just browsing what’s on the market.&nbsp;</p>\n<hr>\n<p>&nbsp;</p></div><p>Millions of people visit the Rightmove website every month. We have a huge amount of data about how people use the site,&nbsp;and what this means to our customers. You’ll be at the centre of our analytics platform to help drive this, modelling and productionising high‑quality data assets in&nbsp;DBT on BigQuery, and maintaining the semantic layer to power the insights that will impact millions of users.<br><br>Working closely with a highly collaborative and high-performing team of data engineers, analysts, and product teams, you&nbsp;will help standardise metrics, elevate data quality, and enable self‑serve analytics so teams can move faster and smarter to&nbsp;drive real business impact.<br><br>Ultimately, this role would suit an analytics engineer who’s ready to take ownership of building high-quality, well-documented data models, contribute to the development of a scalable analytics layer of a modern data stack, and help&nbsp;shape how data is used across the UK’s favourite property site.<br><br><strong>What You’ll Be Doing</strong><br>- Model, build, and productionise robust data assets using dbt and BigQuery<br>- Maintain and evolve the semantic layer in Looker to support consistent, self-serve analytics<br>…",
-    "tags": [
-      "Analytics Engineering"
-    ],
-    "postedAt": "2026-11-18T18:55:19.000Z",
-    "scrapedAt": "2026-11-19T02:14:36.144Z"
-  },
-  {
-    "id": "arbeitnow:working-student-data-engineer-python-sql-cloud-platforms-berlin-454463",
-    "externalId": "working-student-data-engineer-python-sql-cloud-platforms-berlin-454463",
-    "source": "arbeitnow",
-    "title": "Working Student Data Engineer – Python, SQL & Cloud Platforms",
-    "company": "AgentixLake GmbH",
-    "location": "Berlin",
-    "remote": true,
-    "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-data-engineer-python-sql-cloud-platforms-berlin-454463",
-    "description": "IMPORTANT Application note Please apply only through this job portal. Kindly do not send applications or recruitment messages by email or LinkedIn. Only applications submitted through the portal will be considered. Thank you.\n About AgentixLake\n AgentixLake GmbH is a Data and AI engineering consultancy based in Hamburg, Germany. We design, build and operate production-grade data platforms and AI systems in our customers’ cloud accounts or on-premises environments. We are an AWS Services Partner and a Certified Services Partner in Anthropic’s Claude Partner Network. Our commercial focus is DACH and the Gulf region, alongside selected international opportunities.\n Your role\n Build the pipelines and data models that people can depend on. You will own defined components of our data engineering projects, from understanding a source system to delivering tested transformations and monitoring how they run.\n Our data platform engineering work connects operational systems with analytics and AI applications. Depending on the project, you will work with cloud warehouses, lakehouse architectures and the data quality and reliability practices that support production use.\n What you will do\n Build Python and SQL pipelines to ingest and transform data from APIs, databases, files or event sources.\n Develop data models and dbt transformations with clear definitions, tests and documentation.\n Implement incremental processing, schema checks and reconciliation so changes and data issues are visible.\n Configure orchestration and monitoring; investigate failed runs and improve recovery and troubleshooting.\n Contribute to cloud data platform components, infrastructure configuration and deployment workflows.\n Use Git, pull requests and code review to deliver maintainable changes and explain their impact on downstream users.\n What you bring\n Current university enrolment in computer science, data science, business informatics or a related technical discipline.\n Strong SQL and practical Python…",
-    "tags": [
-      "Remote",
-      "Data Processing",
-      "Data Engineer",
-      "Working student",
-      "working student",
-      "no experience required / student"
-    ],
-    "jobType": "Working student",
-    "postedAt": "2026-11-18T17:00:45.000Z",
-    "scrapedAt": "2026-11-19T02:14:36.144Z"
-  },
-  {
-    "id": "arbeitnow:explore-ingenieur-data-senior-senior-data-engineer-h-f-cdi-carquefou-240177",
-    "externalId": "explore-ingenieur-data-senior-senior-data-engineer-h-f-cdi-carquefou-240177",
-    "source": "arbeitnow",
-    "title": "EXPLORE - Ingénieur DATA sénior / Senior DATA Engineer (H/F) - CDI",
-    "company": "INTESCIA GROUP",
-    "location": "CARQUEFOU, Pays de la Loire, France",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/explore-ingenieur-data-senior-senior-data-engineer-h-f-cdi-carquefou-240177",
-    "description": "Ingénieur DATA sénior / Senior DATA Engineer (H/F)\n CDI\n Rejoignez le Groupe INTESCIA, leader de la Business Intelligence en Europe !\n Qui sommes-nous ?\n EXPLORE, filiale d’INTESCIA GROUP, est un acteur leader dans le développement de solutions de data intelligence BtoB. Nous produisons des données à forte valeur ajoutée pour accompagner le développement commercial des entreprises, faciliter leurs analyses de marchés et optimiser leur connaissance clients. Nous comptons aujourd’hui plus de 1 500 clients et près de 35 000 utilisateurs dans les univers de l’Immobilier, la Construction, l’Énergie, l’Environnement et des Services à l’entreprise.\n Nos atouts ?\n Un groupe en pleine expansion, reconnu pour son expertise et ses solutions à forte valeur ajoutée.\n Une culture d’innovation, où la créativité et l’amélioration continue sont au cœur de notre ADN.\n Des équipes passionnées et engagées, évoluant dans un environnement stimulant et collaboratif.\n Votre mission :\n Vous intégrerez l'équipe Data Engineer qui joue un rôle central chez Intescia : ingérer, structurer, fiabiliser et valoriser la donnée vendue aux clients. Vous intégrerez une entreprise en pleine transformation data : migration de la donnée dans Databricks.\n En tant que Senior Data Engineer vous aurez un rôle clé dans la mise en place de cette transformation : conception et développement des pipelines de données, mise en place et diffusion des bonnes pratiques de développement et optimisation des performances.\n Un des axes majeurs de la donnée traitée par Intescia est l’axe géographique. Vous prenez le relais de notre géomaticien qui évolue vers une autre équipe : vous avez de l’appétence et de l’expérience dans le traitement de la donnée géographique.\n Vos activités :\n Construire et industrialiser les pipelines de données\n · Concevoir, développer et maintenir les pipelines d'ingestion et de transformation de données.\n · Garantir la fiabilité, la fraîcheur, la qualité et la traçabilité des données produites.…",
-    "tags": [
-      "Data & IA",
-      "Experienced",
-      "fulltime permanent"
-    ],
-    "jobType": "Experienced",
-    "postedAt": "2026-11-18T15:31:25.000Z",
-    "scrapedAt": "2026-11-19T02:14:36.144Z"
+    "scrapedAt": "2026-11-19T11:04:33.322Z"
   },
   {
     "id": "greenhouse:cloudflare-8395358",
@@ -183,7 +67,7 @@
       "Security"
     ],
     "postedAt": "2026-11-17T21:48:13.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:airbnb-8396777",
@@ -199,7 +83,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-11-17T19:22:59.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:block-5485151008",
@@ -215,7 +99,7 @@
       "20408 S&M - Sales - Square RevOps & Enablement"
     ],
     "postedAt": "2026-11-17T15:46:55.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:lyft-8940409002",
@@ -231,7 +115,7 @@
       "Marketplace"
     ],
     "postedAt": "2026-11-13T09:17:01.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:block-5473605008",
@@ -247,7 +131,7 @@
       "30403 Foundational - Guidance - Corporate Finance & Strategy"
     ],
     "postedAt": "2026-11-12T21:53:17.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "remotive:2091137",
@@ -314,7 +198,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-11-11T18:39:59.000Z",
-    "scrapedAt": "2026-11-19T02:14:35.859Z"
+    "scrapedAt": "2026-11-19T11:04:32.935Z"
   },
   {
     "id": "remoteok:1137714",
@@ -347,7 +231,7 @@
       "digital nomad"
     ],
     "postedAt": "2026-11-10T16:00:04.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.180Z"
+    "scrapedAt": "2026-11-19T11:04:33.831Z"
   },
   {
     "id": "greenhouse:lyft-8931413002",
@@ -363,7 +247,7 @@
       "Lyft Ads"
     ],
     "postedAt": "2026-11-10T15:58:08.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:coinbase-8047150",
@@ -379,7 +263,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-10-31T02:38:15.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "ashby:notion-73a71747-28d3-4dda-a718-77336056e687",
@@ -397,7 +281,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-10-28T18:42:47.956Z",
-    "scrapedAt": "2026-11-19T02:17:16.733Z"
+    "scrapedAt": "2026-11-19T11:07:29.635Z"
   },
   {
     "id": "greenhouse:anthropic-5462966008",
@@ -413,7 +297,7 @@
       "Security"
     ],
     "postedAt": "2026-10-26T22:47:43.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -429,7 +313,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -445,7 +329,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -461,7 +345,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -477,7 +361,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -493,7 +377,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -509,7 +393,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -525,7 +409,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -541,7 +425,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:pinterest-8209014",
@@ -557,7 +441,7 @@
       "Oversight Engineering"
     ],
     "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:airbnb-8224032",
@@ -573,7 +457,7 @@
       "Software Engineering"
     ],
     "postedAt": "2026-09-22T18:58:28.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -589,7 +473,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -605,7 +489,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -621,7 +505,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -637,7 +521,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -653,7 +537,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -669,7 +553,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -685,7 +569,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -705,7 +589,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-11-19T02:17:16.285Z"
+    "scrapedAt": "2026-11-19T11:07:28.823Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -724,7 +608,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-11-19T02:17:16.733Z"
+    "scrapedAt": "2026-11-19T11:07:29.635Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -740,7 +624,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:stripe-8112043",
@@ -756,7 +640,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-08-06T14:27:44.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -772,7 +656,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -788,7 +672,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -804,7 +688,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -820,7 +704,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -836,7 +720,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -852,7 +736,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -868,7 +752,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -884,7 +768,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -900,7 +784,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "greenhouse:robinhood-5616144",
@@ -916,7 +800,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2024-01-23T00:26:13.000Z",
-    "scrapedAt": "2026-11-19T02:14:37.189Z"
+    "scrapedAt": "2026-11-19T11:04:33.836Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -932,7 +816,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-11-19T02:14:44.071Z"
+    "scrapedAt": "2026-11-19T11:04:41.186Z"
   },
   {
     "id": "workday:nvidia-JR2028588",
@@ -946,7 +830,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-19T02:14:44.071Z"
+    "scrapedAt": "2026-11-19T11:04:41.186Z"
   },
   {
     "id": "workday:nvidia-JR2028539",
@@ -960,7 +844,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-19T02:14:44.071Z"
+    "scrapedAt": "2026-11-19T11:04:41.186Z"
   },
   {
     "id": "workday:nvidia-JR2023850",
@@ -974,7 +858,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-19T02:14:44.071Z"
+    "scrapedAt": "2026-11-19T11:04:41.186Z"
   },
   {
     "id": "workday:nvidia-JR2026497",
@@ -988,7 +872,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-19T02:14:44.071Z"
+    "scrapedAt": "2026-11-19T11:04:41.186Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -1002,7 +886,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-19T02:14:44.071Z"
+    "scrapedAt": "2026-11-19T11:04:41.186Z"
   },
   {
     "id": "workday:salesforce-JR364686",
@@ -1016,7 +900,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-19T02:14:44.071Z"
+    "scrapedAt": "2026-11-19T11:04:41.186Z"
   },
   {
     "id": "workday:adobe-R171875",
@@ -1030,7 +914,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-19T02:14:44.071Z"
+    "scrapedAt": "2026-11-19T11:04:41.186Z"
   },
   {
     "id": "workday:adobe-R172115",
@@ -1044,7 +928,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-19T02:14:44.071Z"
+    "scrapedAt": "2026-11-19T11:04:41.186Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -1058,7 +942,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-19T02:14:44.071Z"
+    "scrapedAt": "2026-11-19T11:04:41.186Z"
   },
   {
     "id": "workday:salesforce-JR366234",
@@ -1072,7 +956,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-19T02:15:43.097Z"
+    "scrapedAt": "2026-11-19T11:05:45.356Z"
   },
   {
     "id": "workday:salesforce-JR363793",
@@ -1086,7 +970,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-19T02:15:43.097Z"
+    "scrapedAt": "2026-11-19T11:05:45.356Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -1100,7 +984,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-19T02:15:43.097Z"
+    "scrapedAt": "2026-11-19T11:05:45.356Z"
   },
   {
     "id": "workday:salesforce-JR359930",
@@ -1114,6 +998,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-19T02:16:10.603Z"
+    "scrapedAt": "2026-11-19T11:06:15.721Z"
   }
 ]
