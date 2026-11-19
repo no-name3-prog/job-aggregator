@@ -1,19 +1,19 @@
 [
   {
-    "id": "arbeitnow:senior-data-engineer-28215",
-    "externalId": "senior-data-engineer-28215",
+    "id": "arbeitnow:analytics-engineer-hatfield-263205",
+    "externalId": "analytics-engineer-hatfield-263205",
     "source": "arbeitnow",
-    "title": "Senior Data Engineer",
-    "company": "Distrokid",
-    "location": "Unknown",
+    "title": "Analytics Engineer",
+    "company": "ocadogroup",
+    "location": "Hatfield",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/distrokid/senior-data-engineer-28215",
-    "description": "<p>At DistroKid, we help artists share their music with the world. Around 40-50% of the world's new music is released through DistroKid today.</p>\n<p><strong>Summary:</strong></p>\n<p>We are seeking a Senior Data Engineer to join our team at DistroKid. The successful candidate will play a crucial role in designing, developing, and maintaining our data infrastructure, ensuring the seamless flow of data across various teams and platforms. This role will partner with our current data engineers, data analysts, data scientists, and work closely with database administrators, software developers, security, devops, system operations and AI enablement peers. This is a fantastic opportunity to have a significant impact across our entire business, and there is broad scope for the successful candidate to bring new approaches and best practices into our existing infrastructure.</p>\n<p>If you have a strong background in data engineering and a passion for music and the entertainment industry, we encourage you to apply for this exciting opportunity to make a significant impact on the global music distribution landscape.</p>\n<hr>\n<p><strong>What You’ll Do:</strong></p>\n<ol>\n<li>Individual contributor ownership within an existing small team of data analytics, science and engineering, reporting into the VP of Data. Furthermore, broader collaboration with software developers, database administrators, security, devops, system operations and AI enablement teams to design, develop, and maintain scalable and reliable data pipelines and ETL processes. Your work will shape and help scale critical infrastructure that is core to the experience of millions of our artists.&nbsp;</li>\n<li>Work closely with the data science and backend services teams to assist with their needs, including aiding robust data pipelines and designing, deploying and maintaining critical machine learning and AI infrastructure.</li>\n<li>Ensure data quality and consistency by implementing robust data validation, transform…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ocadogroup/analytics-engineer-hatfield-263205",
+    "description": "<p><strong>Analytics Engineer | Tech Ops | Hybrid Working | Hatfield</strong></p>\n<p><strong>Introduction:</strong></p>\n<p>We are Ocado Group, and we're bringing world-class automation to online grocery. Our Ocado Smart Platform (OSP) combines cutting-edge robotics, AI, and IoT within our advanced CFCs (Customer Fulfilment Centres). We've mastered the single pick, transforming online delivery for our global partners. Join us and be part of a team pushing the boundaries of retail technology.</p>\n<p><strong>About the Role:</strong></p>\n<p>As an Analytics Engineer for Tech Ops and OMRS, you will bridge the gap between data producers and data consumers, transforming complex data from our robotics and automated systems into trusted, certified data foundations. Focusing on bot, grid, and maintenance telemetry, you will design reporting layers in dbt and implement standardized definitions in the semantic layer to ensure metrics remain consistent across all dashboards, analysts, and AI tools.</p>\n<p>In this role, you will act as the key liaison between Data Engineering and business analysts, establishing robust data models and governing metric changes. You will play a pivotal role in enabling self-service analytics, triaging domain requests, and using modern AI-assisted engineering tools to build reliable, high-performing data pipelines that support our global operations.</p>\n<p><strong>Key Responsibilities:</strong></p>\n<ul>\n<li>Build and maintain layered dbt models in BigQuery, balancing query performance with long-term maintainability.</li>\n<li>Implement and govern standardized business metrics within the dbt semantic layer (MetricFlow).</li>\n<li>Migrate existing metric logic into the semantic layer while resolving data duplication.</li>\n<li>Elevate analyst workflows into certified, production-ready reporting marts with full documentation and lineage.</li>\n<li>Implement automated data quality testing and monitoring, escalating issues to upstream data producers.</li>\n<li…",
     "tags": [
-      "Engineering"
+      "Global Technology Services (Business Unit)"
     ],
-    "postedAt": "2026-11-19T09:55:17.000Z",
-    "scrapedAt": "2026-11-19T11:04:33.322Z"
+    "postedAt": "2026-11-19T18:55:30.000Z",
+    "scrapedAt": "2026-11-19T19:55:02.205Z"
   },
   {
     "id": "arbeitnow:data-engineer-amsterdam-351444",
@@ -32,7 +32,7 @@
     ],
     "jobType": "Mid",
     "postedAt": "2026-11-18T21:51:39.000Z",
-    "scrapedAt": "2026-11-19T11:04:33.322Z"
+    "scrapedAt": "2026-11-19T19:55:02.205Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-client-reporting-amsterdam-263892",
@@ -51,7 +51,7 @@
     ],
     "jobType": "Mid",
     "postedAt": "2026-11-18T21:51:39.000Z",
-    "scrapedAt": "2026-11-19T11:04:33.322Z"
+    "scrapedAt": "2026-11-19T19:55:02.205Z"
   },
   {
     "id": "greenhouse:cloudflare-8395358",
@@ -67,7 +67,7 @@
       "Security"
     ],
     "postedAt": "2026-11-17T21:48:13.000Z",
-    "scrapedAt": "2026-11-19T11:04:33.836Z"
+    "scrapedAt": "2026-11-19T19:55:03.172Z"
   },
   {
     "id": "greenhouse:airbnb-8396777",
@@ -83,7 +83,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-11-17T19:22:59.000Z",
-    "scrapedAt": "2026-11-19T11:04:33.836Z"
+    "scrapedAt": "2026-11-19T19:55:03.172Z"
   },
   {
     "id": "greenhouse:block-5485151008",
@@ -99,7 +99,7 @@
       "20408 S&M - Sales - Square RevOps & Enablement"
     ],
     "postedAt": "2026-11-17T15:46:55.000Z",
-    "scrapedAt": "2026-11-19T11:04:33.836Z"
+    "scrapedAt": "2026-11-19T19:55:03.172Z"
   },
   {
     "id": "greenhouse:lyft-8940409002",
@@ -115,7 +115,7 @@
       "Marketplace"
     ],
     "postedAt": "2026-11-13T09:17:01.000Z",
-    "scrapedAt": "2026-11-19T11:04:33.836Z"
+    "scrapedAt": "2026-11-19T19:55:03.172Z"
   },
   {
     "id": "greenhouse:block-5473605008",
@@ -131,7 +131,7 @@
       "30403 Foundational - Guidance - Corporate Finance & Strategy"
     ],
     "postedAt": "2026-11-12T21:53:17.000Z",
-    "scrapedAt": "2026-11-19T11:04:33.836Z"
+    "scrapedAt": "2026-11-19T19:55:03.172Z"
   },
   {
     "id": "remotive:2091137",
@@ -198,7 +198,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-11-11T18:39:59.000Z",
-    "scrapedAt": "2026-11-19T11:04:32.935Z"
+    "scrapedAt": "2026-11-19T19:55:01.972Z"
   },
   {
     "id": "remoteok:1137714",
@@ -231,6 +231,6 @@
       "digital nomad"
     ],
     "postedAt": "2026-11-10T16:00:04.000Z",
-    "scrapedAt": "2026-11-19T11:04:33.831Z"
+    "scrapedAt": "2026-11-19T19:55:03.164Z"
   }
 ]
