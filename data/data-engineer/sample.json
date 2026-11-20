@@ -1,57 +1,89 @@
 [
   {
-    "id": "arbeitnow:analytics-engineer-hatfield-263205",
-    "externalId": "analytics-engineer-hatfield-263205",
+    "id": "arbeitnow:cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-437471",
+    "externalId": "cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-437471",
     "source": "arbeitnow",
-    "title": "Analytics Engineer",
-    "company": "ocadogroup",
-    "location": "Hatfield",
+    "title": "CDI - Senior Context & Analytics Engineer - Paris",
+    "company": "Artefactjobs",
+    "location": "9th arrondissement of Paris, 75009, Paris",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/ocadogroup/analytics-engineer-hatfield-263205",
-    "description": "<p><strong>Analytics Engineer | Tech Ops | Hybrid Working | Hatfield</strong></p>\n<p><strong>Introduction:</strong></p>\n<p>We are Ocado Group, and we're bringing world-class automation to online grocery. Our Ocado Smart Platform (OSP) combines cutting-edge robotics, AI, and IoT within our advanced CFCs (Customer Fulfilment Centres). We've mastered the single pick, transforming online delivery for our global partners. Join us and be part of a team pushing the boundaries of retail technology.</p>\n<p><strong>About the Role:</strong></p>\n<p>As an Analytics Engineer for Tech Ops and OMRS, you will bridge the gap between data producers and data consumers, transforming complex data from our robotics and automated systems into trusted, certified data foundations. Focusing on bot, grid, and maintenance telemetry, you will design reporting layers in dbt and implement standardized definitions in the semantic layer to ensure metrics remain consistent across all dashboards, analysts, and AI tools.</p>\n<p>In this role, you will act as the key liaison between Data Engineering and business analysts, establishing robust data models and governing metric changes. You will play a pivotal role in enabling self-service analytics, triaging domain requests, and using modern AI-assisted engineering tools to build reliable, high-performing data pipelines that support our global operations.</p>\n<p><strong>Key Responsibilities:</strong></p>\n<ul>\n<li>Build and maintain layered dbt models in BigQuery, balancing query performance with long-term maintainability.</li>\n<li>Implement and govern standardized business metrics within the dbt semantic layer (MetricFlow).</li>\n<li>Migrate existing metric logic into the semantic layer while resolving data duplication.</li>\n<li>Elevate analyst workflows into certified, production-ready reporting marts with full documentation and lineage.</li>\n<li>Implement automated data quality testing and monitoring, escalating issues to upstream data producers.</li>\n<li…",
+    "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-437471",
+    "description": "<p><strong>Mission</strong></p>\n<p>Un agent ne vaut que ce que valent les données et les connaissances sur lesquelles il répond. Pipelines, modèles de données, définitions de métriques, droits d’accès : vous créez et gouvernez ce socle, et les applications et les agents de nos clients s’appuient dessus. Quand un analyste ou un agent demande un chiffre, la réponse est celle de l’équipe finance, accompagnée de sa définition et de sa source.</p>\n<p><strong>Ce poste est fait pour vous si vous voulez que les métiers et les agents puissent se fier aux données, et les utilisent.</strong></p>\n<p>Artefact accompagne les plus grandes entreprises du monde dans le déploiement de l’IA : 3 000 AI makers dans plus de 30 pays, plus de 1 000 clients. En France, le département Engineering réunit environ 300 personnes sous la responsabilité du CTO ; vous y rejoignez le chapter AI Applied Engineer, archétype Context &amp; Analytics Engineer.</p>\n<p>&nbsp;</p>\n<p><strong>Activités et responsabilités</strong></p>\n<p>Avec les équipes métier et les analystes, il s’agit de définir ce que signifie chaque métrique et de vérifier que les données y correspondent. Sur ce socle, les Product Engineers et les AI Engineers construisent applications et agents.</p>\n<p>Les Platform Engineers exploitent l’infrastructure sur laquelle tournent vos pipelines. Les échanges avec les data owners et les équipes de gouvernance du client, la relecture de code entre pairs et l’accompagnement des nouvelles recrues complètent le quotidien.</p>\n<p>&nbsp;</p>\n<p><strong>Vos responsabilités :</strong></p>\n<ul>\n<li>Construire des pipelines d’ingestion et des modèles de données, avec dbt par exemple.</li>\n<li>Mettre en place des contrôles de qualité des données et maintenir le lineage.</li>\n<li>Construire la couche sémantique et les définitions de métriques, pour que les personnes et les agents utilisent les mêmes chiffres, y compris en text-to-SQL.</li>\n<li>Définir les règles de gouvernance et les droits d’accès.</li>…",
     "tags": [
-      "Global Technology Services (Business Unit)"
+      "AI Applied Engineer"
     ],
-    "postedAt": "2026-11-19T18:55:30.000Z",
-    "scrapedAt": "2026-11-19T19:55:02.205Z"
+    "postedAt": "2026-11-20T00:55:32.000Z",
+    "scrapedAt": "2026-11-20T02:00:22.864Z"
   },
   {
-    "id": "arbeitnow:data-engineer-amsterdam-351444",
-    "externalId": "data-engineer-amsterdam-351444",
+    "id": "arbeitnow:cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-390194",
+    "externalId": "cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-390194",
     "source": "arbeitnow",
-    "title": "Data Engineer",
-    "company": "Studytube",
-    "location": "Amsterdam, Noord-Holland, Nederland",
+    "title": "CDI - Context & Analytics Engineer Manager - Paris",
+    "company": "Artefactjobs",
+    "location": "9th arrondissement of Paris, 75009, Paris",
     "remote": false,
-    "url": "https://www.arbeitnow.nl/jobs/companies/studytube/data-engineer-amsterdam-351444",
-    "description": "Studytube maakt professionele ontwikkeling toegankelijk. Achter het platform zit een groeiende stroom leerdata. Die moet klanten, de business en de AI-features die we bouwen écht verder helpen. Daar zoeken we een Data Engineer voor die de datalaag bezit.\n De rol\n Je komt in een klein datateam binnen Product & Tech en rapporteert aan de Head of Engineering. Je werk bedient twee takken. Business: rapportages voor commerce, management en investeerders. Product: de inzichten die klanten in het platform zien, zoals voortgang en budget. Collega’s bouwen de dashboards, jij zorgt dat de data eronder klopt en meebeweegt met het product.\n Je werkt dagelijks samen met een businessanalist en een productanalist, die ook met Looker en dbt werkt. Er komt nog een analist bij. Een ervaren data engineer sluit één dag per week aan en een Data Lead staat op de planning.\n Wat je doet\n Je bent eigenaar van het Snowflake-platform: rollen en rechten, warehouse sizing en provisioning, tasks en kosten.\n Je beheert GitHub voor het dataplatform: branches, environments en automatisering met GitHub Actions.\n Je neemt Databricks, opgezet voor een high-security omgeving, over van een externe partij en bereidt de migratie van Snowflake naar Databricks voor, gepland voor volgend jaar.\n Je bouwt pipelines die incrementeel, idempotent, getest en gedocumenteerd zijn, en ontsluit bronnen via Fivetran of custom connectors.\n Je zorgt dat dbt Cloud betrouwbaar draait: afhankelijkheden, scheduling en failure handling.\n Je bewaakt freshness, volume en schema drift, en zoekt de root cause als iets breekt.\n Je ruimt de architectuur op, maakt het platform uitbreidbaar en bouwt GDPR-bewust: toegang, retentie en verwijdering zitten in het ontwerp.\n Je legt het fundament voor metrics waar sales, marketing en product op sturen, in plaats van handmatige Excels.\n Wie je bent\n Je hebt 3 tot 6 jaar productie-ervaring als data engineer. Je hebt de valkuilen al eens gezien en levert zonder platformteam achter je een get…",
+    "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-390194",
+    "description": "<p><strong>Mission</strong></p>\n<p>Un agent ne vaut que ce que valent les données et les connaissances sur lesquelles il répond. Pipelines, modèles de données, définitions de métriques, droits d’accès : vous créez et gouvernez ce socle, et les applications et les agents de nos clients s’appuient dessus. Quand un analyste ou un agent demande un chiffre, la réponse est celle de l’équipe finance, accompagnée de sa définition et de sa source.</p>\n<p><strong>Ce poste est fait pour vous si vous voulez que les métiers et les agents puissent se fier aux données, et les utilisent.</strong></p>\n<p>Artefact accompagne les plus grandes entreprises du monde dans le déploiement de l’IA : 3 000 AI makers dans plus de 30 pays, plus de 1 000 clients. En France, le département Engineering réunit environ 300 personnes sous la responsabilité du CTO ; vous y rejoignez le chapter AI Applied Engineer, archétype Context &amp; Analytics Engineer.</p>\n<p>&nbsp;</p>\n<p><strong>Activités et responsabilités</strong></p>\n<p>Avec les équipes métier et les analystes, il s’agit de définir ce que signifie chaque métrique et de vérifier que les données y correspondent. Sur ce socle, les Product Engineers et les AI Engineers construisent applications et agents.</p>\n<p>Les Platform Engineers exploitent l’infrastructure sur laquelle tournent vos pipelines. Les échanges avec les data owners et les équipes de gouvernance du client, la relecture de code entre pairs et l’accompagnement des nouvelles recrues complètent le quotidien.</p>\n<p>&nbsp;</p>\n<p><strong>Vos responsabilités :</strong></p>\n<ul>\n<li>Construire des pipelines d’ingestion et des modèles de données, avec dbt par exemple.</li>\n<li>Mettre en place des contrôles de qualité des données et maintenir le lineage.</li>\n<li>Construire la couche sémantique et les définitions de métriques, pour que les personnes et les agents utilisent les mêmes chiffres, y compris en text-to-SQL.</li>\n<li>Définir les règles de gouvernance et les droits d’accès.</li>…",
     "tags": [
-      "Product & Technology",
-      "Mid",
-      "fulltime fixed term"
+      "AI Applied Engineer"
     ],
-    "jobType": "Mid",
-    "postedAt": "2026-11-18T21:51:39.000Z",
-    "scrapedAt": "2026-11-19T19:55:02.205Z"
+    "postedAt": "2026-11-20T00:55:32.000Z",
+    "scrapedAt": "2026-11-20T02:00:22.864Z"
   },
   {
-    "id": "arbeitnow:analytics-engineer-client-reporting-amsterdam-263892",
-    "externalId": "analytics-engineer-client-reporting-amsterdam-263892",
+    "id": "arbeitnow:senior-analytics-engineer-london-360313",
+    "externalId": "senior-analytics-engineer-london-360313",
     "source": "arbeitnow",
-    "title": "Analytics Engineer – Client Reporting",
-    "company": "Studytube",
-    "location": "Amsterdam, Noord-Holland, Nederland",
+    "title": "Senior Analytics Engineer",
+    "company": "Accurx",
+    "location": "London (Shoreditch)",
     "remote": false,
-    "url": "https://www.arbeitnow.nl/jobs/companies/studytube/analytics-engineer-client-reporting-amsterdam-263892",
-    "description": "Studytube makes professional development accessible. Our customers use client reporting, the insights they see in the platform, to understand how their people learn and to show the impact of their learning programmes. Those numbers have to be right, every time.\n We are looking for an Analytics Engineer dedicated to client reporting. You build and maintain the dbt models and Looker reports behind it. Over the coming year we are moving from Snowflake to Databricks, and you help bring client reporting to the new platform.\n What you'll do Build and maintain the dbt models behind client reporting, following our layered structure from source to report.\n Develop Looker reporting end to end: LookML views and explores, dashboards embedded in our platform, and the client-specific logic behind them.\n Turn client and Customer Success requests into reports, and push back when a definition or requirement is unclear.\n Keep client reporting reliable: tests, monitoring, documentation, code review and CI as the standard.\n Protect client data: access per client, privacy and GDPR built into every model and report.\n Work with our data engineer on the ingestion syncs (today Fivetran) that feed client reporting.\n Help migrate client reporting models from Snowflake to Databricks, including clients with specific data residency needs.\n Align client metrics with the shared definitions in our central data foundation, so customers and internal teams see the same numbers.\n Your team You join the Client Reporting team, where client reporting is your full-time focus. The team includes a Product Manager, a dedicated QA engineer and another analytics engineer.\n You work closely with the Product department, Customer Success and our central data team, so client reporting fits the product and answers what our customers need.\n Who you are You have 2 to 5 years of experience in analytics engineering or BI development, or grew into it from analysis or data engineering. You think in models and definitions…",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/accurx/senior-analytics-engineer-london-360313",
+    "description": "💬 Accurx is where conversations happen with and about patients. For decades, the NHS has struggled with fragmented systems that make simple tasks feel impossible. We’re changing that by building a single, system-wide platform that connects everyone through communication.\n What started as a way for GPs to text a patient has now evolved into an all-in-one digital toolkit used by 98% of GP practices.\n   Our platform now powers Total Triage to manage patient demand, and Self-Book, which lets patients schedule their own appointments in seconds. We’ve automated routine care with Patient Questionnaires for long-term conditions, while Accumail finally allows staff-to-staff communication to happen instantly across different care settings. We’re now pushing the boundaries of the consultation itself with Accurx Scribe , our AI-powered note-taker that drafts medical notes in real-time.\n The team We are a mission-driven team of 80 engineers based in London and the surrounding areas, united by the challenge of fixing healthcare communication. We are innovating for the NHS at a scale and depth that has never been done before, solving the real-world problems that stand between millions of patients and the care they need.\n We are a highly cross-functional group where engineering, product, data, and security collaborate as true peers. We foster a low-ego, high-impact environment that values expertise and new ideas, maintaining the high standards required to build and scale a national healthcare communication platform. Within this ecosystem, our teams operate with high autonomy, owning everything from initial system design to long-term service stability.\n As a Senior Analytics Engineer, you'll sit at the intersection of our Data Engineering, Product, and BI teams, expanding our data modelling and self-serve capabilities, and building the foundations that turn data from a support function into a strategic asset.\n   Challenges you'll solve… You will own and evolve the presentation lay…",
     "tags": [
       "Product & Technology",
-      "Mid",
-      "fulltime fixed term"
+      "Full Time"
     ],
-    "jobType": "Mid",
-    "postedAt": "2026-11-18T21:51:39.000Z",
-    "scrapedAt": "2026-11-19T19:55:02.205Z"
+    "jobType": "Full Time",
+    "postedAt": "2026-11-20T00:40:18.000Z",
+    "scrapedAt": "2026-11-20T02:00:22.864Z"
+  },
+  {
+    "id": "arbeitnow:finance-data-engineer-paris-482328",
+    "externalId": "finance-data-engineer-paris-482328",
+    "source": "arbeitnow",
+    "title": "Finance Data Engineer",
+    "company": "Voodoo",
+    "location": "Paris",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/finance-data-engineer-paris-482328",
+    "description": "About Voodoo Voodoo is a consumer tech company founded in Paris in 2013, with one mission: entertain the world. Today we are 1,000 people, generating $1b+ in annual revenue, profitably. Our games and apps have passed 7 billion downloads and reach 200 million+ active users every month, making Voodoo the #3 mobile publisher worldwide in downloads, after Google and Meta. We were backed by Goldman Sachs, Tencent and GBL along the way.\n Team Our Corporate teams support the company's performance and growth whilst putting people at the core of everything they do. As a French tech leader and global successful company, our Corporate teams are constantly looking for ways to innovate and increase organisation efficiency to keep Voodoo ahead of the market. Voodoo's Corporate function is composed of three teams: HR, Legal and Finance, working together to drive Voodoo's success.\n As Voodoo continues to grow, we are transforming the way Finance uses data and technology. Our ambition is to move from fragmented, spreadsheet-heavy workflows to a modern, reliable, and increasingly automated Finance data platform.\n   Role We're looking for a Finance Data Engineer to join our Corporate team. In this role, you'll own the technical transformation of Finance by building the data foundations, pipelines, and internal tools that enable Finance teams to operate more efficiently and make better decisions.\n Reporting to the CFO, you will work closely with Finance stakeholders and Voodoo's central Data team, combining data engineering, business understanding, and product thinking to turn complex Finance needs into reliable and maintainable solutions.\n Define and drive the roadmap for Finance data, automation, and internal tooling\n Build and progressively scale Voodoo's Finance data platform, prioritising the use cases that create the greatest business value\n Migrate critical data transformations and workflows from spreadsheets and legacy tools to tested, documented, code-based solutions\n Create…",
+    "tags": [
+      "Corporate",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-11-20T00:40:17.000Z",
+    "scrapedAt": "2026-11-20T02:00:22.864Z"
+  },
+  {
+    "id": "arbeitnow:staff-data-engineer-geneva-369322",
+    "externalId": "staff-data-engineer-geneva-369322",
+    "source": "arbeitnow",
+    "title": "Staff Data Engineer",
+    "company": "Sonarsource",
+    "location": "Geneva",
+    "remote": false,
+    "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/staff-data-engineer-geneva-369322",
+    "description": "Who is Sonar?\n Sonar enables organizations to ship agentic code with confidence. Code creation is abundant, but confidence is scarce. Our core platform, SonarQube, verifies over 750 billion lines of code every day, delivering agentic verification and governance for all code. Trusted by more than 7 million developers and 75% of the Fortune 100, including teams at Nvidia, ServiceNow, Booking.com , Goldman Sachs, AstraZeneca, and Ford Motor Company, Sonar enables organizations to reduce outages, improve security, and lower the cost and risk of agentic software development.\nFounded in Geneva and now headquartered in Austin, Texas, Sonar has a global team working across offices and hubs, including Silicon Valley, London, Bochum, Barcelona, Singapore, Tokyo, and the Washington, D.C. area. At Sonar, we’re enabling enterprises to build agentic software factories that can move quickly while maintaining the control, consistency and evidence required to ship with confidence.\n Position description:\n We want to make the best decisions possible for our products and to do that, we need to make data-driven decisions.\n To achieve this goal, we are looking for a talented Data Engineer - you! - to join the Data & ML Platform team.\n Together, we will make Sonar’s products the undisputed world-leading code remediation solution!\n What you will do\n You will design and develop the data platform to support the functional domains in handling their data and help them in their journey to data ownership. This means:\n Design and implement data storage, transformation, and load capabilities of our pipelines.\n Continuously enhance the data platform. Propose, implement and manage data handling services according to stakeholders needs (Product Managers, Marketing, Sales, engineering teams, ...)\n Establish top-class end-to-end pipelines including data cleaning and modelling.\n Develop and deploy connectors to data sources of interest.\n Maintain evergreen data flow documentation across systems.\n Colla…",
+    "tags": [
+      "Data & Agentic",
+      "Employee / Full-Time"
+    ],
+    "jobType": "Employee / Full-Time",
+    "postedAt": "2026-11-20T00:26:59.000Z",
+    "scrapedAt": "2026-11-20T02:00:22.864Z"
   },
   {
     "id": "greenhouse:cloudflare-8395358",
@@ -67,7 +99,7 @@
       "Security"
     ],
     "postedAt": "2026-11-17T21:48:13.000Z",
-    "scrapedAt": "2026-11-19T19:55:03.172Z"
+    "scrapedAt": "2026-11-20T02:00:23.676Z"
   },
   {
     "id": "greenhouse:airbnb-8396777",
@@ -83,7 +115,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-11-17T19:22:59.000Z",
-    "scrapedAt": "2026-11-19T19:55:03.172Z"
+    "scrapedAt": "2026-11-20T02:00:23.676Z"
   },
   {
     "id": "greenhouse:block-5485151008",
@@ -99,7 +131,7 @@
       "20408 S&M - Sales - Square RevOps & Enablement"
     ],
     "postedAt": "2026-11-17T15:46:55.000Z",
-    "scrapedAt": "2026-11-19T19:55:03.172Z"
+    "scrapedAt": "2026-11-20T02:00:23.676Z"
   },
   {
     "id": "greenhouse:lyft-8940409002",
@@ -115,7 +147,7 @@
       "Marketplace"
     ],
     "postedAt": "2026-11-13T09:17:01.000Z",
-    "scrapedAt": "2026-11-19T19:55:03.172Z"
+    "scrapedAt": "2026-11-20T02:00:23.676Z"
   },
   {
     "id": "greenhouse:block-5473605008",
@@ -131,106 +163,6 @@
       "30403 Foundational - Guidance - Corporate Finance & Strategy"
     ],
     "postedAt": "2026-11-12T21:53:17.000Z",
-    "scrapedAt": "2026-11-19T19:55:03.172Z"
-  },
-  {
-    "id": "remotive:2091137",
-    "externalId": "2091137",
-    "source": "remotive",
-    "title": "Senior Data Engineer",
-    "company": "Lemon.io",
-    "companyLogo": "https://remotive.com/job/2091137/logo",
-    "location": "LATAM, Europe, USA, Canada, APAC",
-    "remote": true,
-    "url": "https://remotive.com/remote-jobs/data/senior-data-engineer-2091137",
-    "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us.\n New roles for Senior React Full-stack Engineers come in all the time, and several are open right now.\n Two ways to work with clients\n Contract: most roles are contract-based. You join the client’s team and work as part of it.\n Direct hire: some clients hire engineers full-time, and we support you through the process.\n Because companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own.\n What you get\n Competitive rate, based on your seniority and skills\n We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences.\n Flexible schedule. Work async or with a small overlap with the team’s hours.\n No micromanagement, no screen trackers\n Direct work with clients, most of them with technical backgrounds\n Ongoing support from your application through every project, plus a community of engineers from 75+ countries\n Who we’re looking for\n Senior Data Engineers with:\n 4+ years of commercial experience as a Data Engineer\n Experience with Apache Airflow and Snowflake, or Python and SQL, is required\n Experience with AWS, GCP, or Microsoft Azure is mandatory\n You own problems end-to-end: you spot the issue in the data or pipeline, design and build the solution, and ship it to production.\n You can show the business impact of your work with concrete results (e.g., faster data processing, lower infrastructure costs, fresher data for stakeholders, fewer pipeline incidents).\n Advanced English: you discuss business tasks, explain your technical decisions, raise risks early, and present yourself and your results well on client calls.\n You work full-time remotely and deliver without supervision.…",
-    "tags": [
-      "Data and Analytics",
-      ".Net",
-      "android",
-      "apache",
-      "AWS",
-      "azure",
-      "C",
-      "C#",
-      "C++",
-      "data science",
-      "fullstack",
-      "golang",
-      "ios",
-      "java",
-      "javascript",
-      "magento",
-      "node.js",
-      "php",
-      "python",
-      "react",
-      "ruby/rails",
-      "scala",
-      "shopify",
-      "sql",
-      "swift",
-      "UI/UX",
-      "wordpress",
-      "blockchain",
-      "AI/ML",
-      "automation",
-      "project management",
-      "react native",
-      "rust",
-      "unity",
-      "electron",
-      "spring",
-      "data analysis",
-      "laravel",
-      "Ethereum",
-      "graphic design",
-      "Typescript ",
-      "angular ",
-      "GCP",
-      "firebase",
-      "Snowflake",
-      "Site Reliability",
-      "Symfony",
-      "next.js",
-      "infrastructure",
-      "flutter"
-    ],
-    "jobType": "full_time",
-    "postedAt": "2026-11-11T18:39:59.000Z",
-    "scrapedAt": "2026-11-19T19:55:01.972Z"
-  },
-  {
-    "id": "remoteok:1137714",
-    "externalId": "1137714",
-    "source": "remoteok",
-    "title": "Data Engineer",
-    "company": "Addepto",
-    "location": "Remote",
-    "remote": true,
-    "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
-    "description": "Addepto is a leading AI consulting ( https://addepto.com/ai-consulting/ ) and data engineering ( https://addepto.com/data-engineering-services/ ) company that builds scalable, ROI-focused AI solutions for some of the world's largest enterprises and pioneering startups, including Rolls Royce, Continental, Porsche, ABB, and WGU. With an exclusive focus on Artificial Intelligence and Big Data, Addepto helps organizations unlock the full potential of their data through systems designed for measurable business impact and long-term growth.\n The company's work extends beyond client engagements. Drawing from real-world challenges and insights, Addepto has developed its own product - ContextClue - and actively contributes open-source solutions to the AI community. This commitment to transforming practical experience into scalable innovation has earned Addepto recognition by Forbes as one of the top 10 AI consulting companies worldwide .\n As part of KMS Technology , a US-based global technology group, Addepto combines deep AI specialization with enterprise-scale delivery capabilitiesâenabling the partnership to move clients from AI experimentation to production impact, securely and at scale.\n We are looking for an experienced Data Engineer with strong skills in GCP, Snowflake, dbt, Python, SQL, and Data Analytics to join our team. You will work on international data engineering and analytics projects, focusing on building scalable data solutions, modernizing data warehouses, and supporting data-driven business decisions.\n Project areas include:\n Data Warehouse & BI Modernization â refactoring data models and supporting migrations between BI platforms (e.g., Looker to Omni).\n CRM Data Integration â developing and optimizing data models to support CRM migrations and integrations (e.g., HubSpot).\n Commercial & Growth Analytics â building analytical solutions for customer acquisition, retention, churn, revenue, and business performance.\n Data Quality & Self-Service Analy…",
-    "tags": [
-      "design",
-      "saas",
-      "salesforce",
-      "python",
-      "education",
-      "consulting",
-      "customer support",
-      "testing",
-      "marketing",
-      "dev",
-      "finance",
-      "cloud",
-      "git",
-      "stats",
-      "sys admin",
-      "engineer",
-      "apache",
-      "digital nomad"
-    ],
-    "postedAt": "2026-11-10T16:00:04.000Z",
-    "scrapedAt": "2026-11-19T19:55:03.164Z"
+    "scrapedAt": "2026-11-20T02:00:23.676Z"
   }
 ]

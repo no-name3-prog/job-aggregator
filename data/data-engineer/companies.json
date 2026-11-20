@@ -177,6 +177,24 @@
     ]
   },
   {
+    "company": "Artefactjobs",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "9th arrondissement of Paris, 75009, Paris"
+    ],
+    "sampleTitles": [
+      "CDI - Senior Context & Analytics Engineer - Paris",
+      "CDI - Context & Analytics Engineer Manager - Paris"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-437471",
+      "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-390194"
+    ]
+  },
+  {
     "company": "Brex",
     "jobCount": 2,
     "sources": [
@@ -252,21 +270,19 @@
     ]
   },
   {
-    "company": "Studytube",
-    "jobCount": 2,
+    "company": "Accurx",
+    "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Amsterdam, Noord-Holland, Nederland"
+      "London (Shoreditch)"
     ],
     "sampleTitles": [
-      "Data Engineer",
-      "Analytics Engineer – Client Reporting"
+      "Senior Analytics Engineer"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.nl/jobs/companies/studytube/data-engineer-amsterdam-351444",
-      "https://www.arbeitnow.nl/jobs/companies/studytube/analytics-engineer-client-reporting-amsterdam-263892"
+      "https://www.arbeitnow.co.uk/jobs/companies/accurx/senior-analytics-engineer-london-360313"
     ]
   },
   {
@@ -382,22 +398,6 @@
     ]
   },
   {
-    "company": "ocadogroup",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Hatfield"
-    ],
-    "sampleTitles": [
-      "Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/ocadogroup/analytics-engineer-hatfield-263205"
-    ]
-  },
-  {
     "company": "Reddit",
     "jobCount": 1,
     "sources": [
@@ -446,6 +446,22 @@
     ]
   },
   {
+    "company": "Sonarsource",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Geneva"
+    ],
+    "sampleTitles": [
+      "Staff Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.ch/jobs/companies/sonarsource/staff-data-engineer-geneva-369322"
+    ]
+  },
+  {
     "company": "Spotify",
     "jobCount": 1,
     "sources": [
@@ -491,6 +507,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/twilio/jobs/8044650"
+    ]
+  },
+  {
+    "company": "Voodoo",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Paris"
+    ],
+    "sampleTitles": [
+      "Finance Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/voodoo/finance-data-engineer-paris-482328"
     ]
   },
   {
