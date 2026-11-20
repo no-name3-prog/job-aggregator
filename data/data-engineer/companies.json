@@ -177,6 +177,24 @@
     ]
   },
   {
+    "company": "Artefact",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "9th arrondissement of Paris, 75009, Paris"
+    ],
+    "sampleTitles": [
+      "CDI - Senior Context & Analytics Engineer - Paris",
+      "CDI - Context & Analytics Engineer Manager - Paris"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/artefact/cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-200208",
+      "https://www.arbeitnow.fr/jobs/companies/artefact/cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-480508"
+    ]
+  },
+  {
     "company": "Artefactjobs",
     "jobCount": 2,
     "sources": [
@@ -192,6 +210,24 @@
     "officialUrls": [
       "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-437471",
       "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-390194"
+    ]
+  },
+  {
+    "company": "Artefactlinkedin",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "9th arrondissement of Paris, 75009, Paris"
+    ],
+    "sampleTitles": [
+      "CDI - Senior Context & Analytics Engineer - Paris",
+      "CDI - Context & Analytics Engineer Manager - Paris"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-454263",
+      "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-389200"
     ]
   },
   {
@@ -270,19 +306,23 @@
     ]
   },
   {
-    "company": "Accurx",
-    "jobCount": 1,
+    "company": "Reddit",
+    "jobCount": 2,
     "sources": [
-      "arbeitnow"
+      "greenhouse",
+      "jobicy"
     ],
     "locations": [
-      "London (Shoreditch)"
+      "USA",
+      "Remote - United States"
     ],
     "sampleTitles": [
-      "Senior Analytics Engineer"
+      "Analytics Engineer",
+      "Analytics Engineer"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/accurx/senior-analytics-engineer-london-360313"
+      "https://jobicy.com/jobs/156010-analytics-engineer-5",
+      "https://job-boards.greenhouse.io/reddit/jobs/8282760"
     ]
   },
   {
@@ -318,6 +358,22 @@
     ]
   },
   {
+    "company": "BetterHelp",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "USA"
+    ],
+    "sampleTitles": [
+      "Senior Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/163386-senior-analytics-engineer-4"
+    ]
+  },
+  {
     "company": "Figma",
     "jobCount": 1,
     "sources": [
@@ -334,6 +390,22 @@
     ]
   },
   {
+    "company": "Foundational",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Backend / Data Platform Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/foundational/backend-data-platform-engineer-london-371576"
+    ]
+  },
+  {
     "company": "GitLab",
     "jobCount": 1,
     "sources": [
@@ -347,6 +419,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/gitlab/jobs/8883003002"
+    ]
+  },
+  {
+    "company": "KnowBe4, Inc.",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "Brazil"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer (Remote in Brazil)"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/163406-senior-data-engineer-remote-in-brazil"
     ]
   },
   {
@@ -398,19 +486,35 @@
     ]
   },
   {
-    "company": "Reddit",
+    "company": "Point72",
     "jobCount": 1,
     "sources": [
-      "greenhouse"
+      "arbeitnow"
     ],
     "locations": [
-      "Remote - United States"
+      "Unknown"
     ],
     "sampleTitles": [
-      "Analytics Engineer"
+      "Senior Data Engineer, Mi-Platform"
     ],
     "officialUrls": [
-      "https://job-boards.greenhouse.io/reddit/jobs/8282760"
+      "https://www.arbeitnow.co.uk/jobs/companies/point72/senior-data-engineer-mi-platform-166224"
+    ]
+  },
+  {
+    "company": "Rewire",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Heidelberg, Baden-Württemberg, Germany"
+    ],
+    "sampleTitles": [
+      "Data Engineer (m/w/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/rewire/data-engineer-heidelberg-460922"
     ]
   },
   {
@@ -494,6 +598,38 @@
     ]
   },
   {
+    "company": "Tebra",
+    "jobCount": 1,
+    "sources": [
+      "remoteok"
+    ],
+    "locations": [
+      "US Only"
+    ],
+    "sampleTitles": [
+      "Senior Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://remoteOK.com/remote-jobs/remote-senior-analytics-engineer-tebra-1137809"
+    ]
+  },
+  {
+    "company": "Truelogic",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "Brazil"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer - Advertising"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/163404-senior-data-engineer-advertising"
+    ]
+  },
+  {
     "company": "Twilio",
     "jobCount": 1,
     "sources": [
@@ -510,19 +646,19 @@
     ]
   },
   {
-    "company": "Voodoo",
+    "company": "Vivenu",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Paris"
+      "Frankfurt/Düsseldorf"
     ],
     "sampleTitles": [
-      "Finance Data Engineer"
+      "Data Engineering Lead, Agentic Infrastructure"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/voodoo/finance-data-engineer-paris-482328"
+      "https://www.arbeitnow.com/jobs/companies/vivenu/data-engineering-lead-agentic-infrastructure-frankfurt-dusseldorf-384892"
     ]
   },
   {
