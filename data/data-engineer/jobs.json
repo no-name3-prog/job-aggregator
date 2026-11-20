@@ -1,265 +1,19 @@
 [
   {
-    "id": "arbeitnow:senior-data-engineer-mi-platform-166224",
-    "externalId": "senior-data-engineer-mi-platform-166224",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer, Mi-Platform",
-    "company": "Point72",
-    "location": "Unknown",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/point72/senior-data-engineer-mi-platform-166224",
-    "description": "<p>Senior Data Engineer, Proprietary Research</p>\n<p>London</p>\n<p><strong>A Career with Point72's Market Intelligence team</strong></p>\n<p>On our proprietary research team—Market Intelligence— you will uncover insights about markets and the broader economy through deep compliant fundamental research and applying data science and engineering techniques to alternative data sets. In partnership with our investment professionals and Compliance team, our team of analysts, data scientists and engineers work together to produce compliant research and build tools that inform our firm’s investments. We look for other bright, motivated, and collaborative people to join our team and grow with us—a majority of the leaders in our group were promoted from within.</p>\n<p><strong>WHAT YOU'LL DO</strong></p>\n<ul>\n<li>Work closely with investment professionals, researchers, and data scientists to design, build, and launch robust end-to-end business solutions including data pipelines, products and tools.</li>\n</ul>\n<ul>\n<li>Design and develop big data processing pipelines including but not limited to ingestion, transformation, trends creation to deliver AI-ready data assets &amp; products.</li>\n<li>Develop reusable software components, libraries, and APIs that enable rapid experimentation and production deployment</li>\n<li>Implement data quality, lineage, and governance controls to ensure datasets are reliable, auditable, and compliant with compliance policies</li>\n<li>Build scalable AI-native cloud-based infrastructure using distributed systems techniques, to deliver efficient data-driven business solutions</li>\n<li>Optimize performance, cost, and reliability of software systems through benchmarking and iterative improvements</li>\n</ul>\n<p><strong>WHAT’S REQUIRED&nbsp;</strong>&nbsp;</p>\n<ul>\n<li>5+ years of experience in Data Engineering, Software Engineering or related field</li>\n<li>2+ years of strong experience in Python development</li>\n<li>Experience with system design and le…",
-    "tags": [
-      "MI - Proprietary Research"
-    ],
-    "postedAt": "2026-11-20T09:55:16.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.450Z"
-  },
-  {
-    "id": "arbeitnow:backend-data-platform-engineer-london-371576",
-    "externalId": "backend-data-platform-engineer-london-371576",
-    "source": "arbeitnow",
-    "title": "Backend / Data Platform Engineer",
-    "company": "Foundational",
-    "location": "London",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/foundational/backend-data-platform-engineer-london-371576",
-    "description": "Backend / Data Platform Engineer This is a future role. We're building a shortlist now and will contact you when it opens.\n About us\n Foundational is building the most precise picture of Earth and orbit, using lasers fired from the ground. We call it ground truth for orbit.\n We design and run low-cost, autonomous satellite laser ranging stations. They measure the distance to satellites with extreme precision, day and night. Our data platform turns those measurements into tracking data and orbit products for satellite operators, space agencies and governments. We also build our own flight-proven laser retroreflector arrays, so any satellite can be tracked.\n Our station network is expanding across continents. The data supports resilient navigation, Earth observation and the safe, sustainable use of space.\n We're a small, fast-moving team of engineers, scientists and operators in London. We're backed by venture investors and supported by ESA, the UK Space Agency, and Innovate UK.\n Position Overview\n London · Full time · On-site\n You'll build the platform that ingests, processes and serves our tracking data, all the way from station to customer API.\n What you'll do\n Build ingest pipelines from our stations and from third-party data sources\n Design data models and storage for high-volume, time-series scientific data\n Build and maintain customer APIs and data delivery in standard formats\n Make pipelines reliable, observable and secure, including for customers with strict data-handling requirements\n Work closely with front-end, geodesy and orbit determination engineers\n What you'll bring\n Extensive experience building backend systems in production\n Strong Python (or Go or Rust) and SQL\n Experience with data pipelines, message queues and time-series storage\n Cloud infrastructure and containers (Docker, Kubernetes)\n Care for testing, security and documentation\n Nice to have\n Scientific or geospatial data\n Space data standards (CCSDS, CRD)\n Streaming platforms such as Kafka…",
-    "tags": [
-      "Software",
-      "Data & Astrodynamics",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-11-20T06:40:11.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.450Z"
-  },
-  {
-    "id": "jobicy:163406",
-    "externalId": "163406",
-    "source": "jobicy",
-    "title": "Senior Data Engineer (Remote in Brazil)",
-    "company": "KnowBe4, Inc.",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/2c207958-221.jpg",
-    "location": "Brazil",
+    "id": "remoteok:1137846",
+    "externalId": "1137846",
+    "source": "remoteok",
+    "title": "Senior Data Engineer Tech Foundations",
+    "company": "Airbnb",
+    "location": "US Only",
     "remote": true,
-    "url": "https://jobicy.com/jobs/163406-senior-data-engineer-remote-in-brazil",
-    "description": "KnowBe4 empowers the modern workforce to make smarter security decisions every day. Trusted by more than 70,000 organizations worldwide, KnowBe4 is the pioneer of digital workforce security, securing both AI agents and humans. The KnowBe4 Platform provides attack simulation and training, collaboration security, and agent security powered by AIDA (Artificial Intelligence Defense Agents) and a proprietary Risk Score. The platform leverages 15-years of behavioral data to combat advanced threats including social engineering, prompt injection, and shadow AI. By securing humans and agents, KnowBe4 leads the industry in workforce trust and defense.\n Position open to candidates located in Brazil . Please submit your resume in English.\n To learn more about our team and office culture in São Paulo, Brazil, visit the following links.\n Careers Page: https://www.knowbe4.com/careers/locations/sao-paulo\n Glassdoor : https://www.glassdoor.com/Location/KnowBe4-S%C3%A3o-Paulo-Location-EI_IE969384.0,7_IL[…]M_-C1lsxoZq7Cx8IriVE8MkrzuTmnJzqego77RAWZz9sqGt_55BflwYKpQeg\n LinkedIn : https://www.linkedin.com/company/knowbe4/life/brazil/\n This is a Data Platform Engineering seat. Your mission is to build the tooling, infrastructure, and pipelines that allow engineering and product teams to self-serve while reliably delivering high-integrity data to customer-facing applications, internal reporting, ML models, and autonomous AI agents.\n You will join the core team behind our data platform: an event-driven lakehouse on AWS handling tens of thousands of events per second. You will design, build, and operate the near-real-time pipelines that model product and service events through medallion layers using open table formats and analytical engines, delivered as strictly tested, peer-reviewed, and version-controlled software.\n We build with agents, for agents: Our platform is itself agentic. We actively develop and maintain skills and AI agents that scaffold new pipelines, monitor upstream reposito…",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-tech-foundations-airbnb-1137846",
+    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n Senior Data Engineer, Enterprise Core Datasets, Tech Foundations\n The Community You Will Join\n At Airbnb, trustworthy data powers business decisions, product innovation, and operational efficiency. The Enterprise Core Datasets team builds the technical data foundations that help Airbnb understand how the business operates, where resources are invested, and how new technologies create value.\n Our scope spans high-impact datasets across the organization: measuring AI adoption, usage, and cost; understanding revenue, costs, and profitability through Unit Economics; integrating non-platform data from Jira and other enterprise applications; and powering critical company metrics such as Gross Booking Value and Revenue.\n You will join a team that values thoughtful architecture, engineering rigor, and operational ownership. We collaborate with engineering, product, analytics, finance, and business teams to turn complex requirements into dependable, reusable data assets. We welcome strong engineers who are curious about the business and eager to solve problems across diverse domains.\n The Difference You Will Make\n As a Senior Data Engineer, you will design, build, and operate datasets that shape decisions across Airbnb. Your work will help the organization measure AI adoption and spending, understand the economics of its products, and connect enterprise application data to meaningful business and operational insights.\n You will own complex data engineering projects from requirements gathering and technical design through implementation, validation, and production operations. Working closely with stakeholders and engin…",
     "tags": [
-      "Data Science & Analytics",
-      "Senior"
+      "programming"
     ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-11-20T06:28:25.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.534Z"
-  },
-  {
-    "id": "jobicy:163404",
-    "externalId": "163404",
-    "source": "jobicy",
-    "title": "Senior Data Engineer - Advertising",
-    "company": "Truelogic",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/e7ae6cb6-221-1.png",
-    "location": "Brazil",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/163404-senior-data-engineer-advertising",
-    "description": "About Truelogic\n At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.\n Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference.\n By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future.\n Our Client\n Our client is a global technology and creative network that brings together engineering and creative expertise in equal measure to help businesses drive innovation, digital transformation, and long-term growth. As part of a leading global marketing and communications group, the company combines strategy, design, and technology to deliver end-to-end digital experiences and solutions. Its portfolio includes partnerships with some of the world's most recognized brands across industries such as technology, finance, media, sports, and consumer goods.\n Job Summary\n We are seeking a hands-on Senior Data Engineer to build scalable data infrastructure to support data-driven insights and predictive and generative AI models. The Senior Data Engineer will lead technical workstreams, contribute to defining data engineering best practices, and mentor other engineers while collaborating closely with Machine Learning Engineering teams and cross-functional stakeholders to solve complex data challenges.\n Responsibilities\n Design, build, and scale data pipelines and infrastructure f…",
-    "tags": [
-      "Data Science & Analytics",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-11-20T06:28:06.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.534Z"
-  },
-  {
-    "id": "jobicy:163386",
-    "externalId": "163386",
-    "source": "jobicy",
-    "title": "Senior Analytics Engineer",
-    "company": "BetterHelp",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/0b48fde8-221.jpeg",
-    "location": "USA",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/163386-senior-analytics-engineer-4",
-    "description": "Who are we and why should you join us?\n BetterHelp is on a mission to remove the traditional barriers to therapy and make mental health care more accessible to everyone. Founded in 2013, we are now the world’s largest online therapy service, providing affordable and convenient therapy across the globe. Our network of over 30,000 licensed therapists has helped millions of people take ownership of their mental health and change their lives forever. And we’re not stopping there – as the unmet need for mental health services continues to grow, BetterHelp is committed to being part of the solution.\n As a Senior Analytics Engineer at BetterHelp, you’ll join a diverse team of licensed clinicians, engineers, product pros, creatives, marketers, and business leaders who share a passion for expanding access to therapy. And as a mental health company, we take employee mental health just as seriously as we do our mission. We deeply invest in our team’s well-being and professional development, because we know that business and individual growth go hand-in-hand. At BetterHelp, you’ll carve your own path, make an immediate impact, and be challenged every day – with a supportive community behind you the whole way.\n What are we looking for?\n We are looking for a Senior Analytics Engineer to help us build best-in-class data products that deliver high-quality, trustworthy data and keep pace with our accelerated growth. These products must be built and maintained using best practices so they stay scalable and earn stakeholder trust as we grow in both size and scope. This person will work cross-functionally with technical and business stakeholders across the company, and will optimize our data stack to deliver trustworthy, discoverable, impactful data, served to both people and the AI tools they increasingly rely on.\n What will you do?\n Employ your strong SQL and data modeling skills to propose, design, and build trusted tables in our data warehouse via dbt, serving as a single source o…",
-    "tags": [
-      "Data Science & Analytics",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-11-20T06:21:21.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.534Z"
-  },
-  {
-    "id": "jobicy:156010",
-    "externalId": "156010",
-    "source": "jobicy",
-    "title": "Analytics Engineer",
-    "company": "Reddit",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/10/Reddit.jpg",
-    "location": "USA",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/156010-analytics-engineer-5",
-    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com .\n We are looking for a talented and driven individual to be a key part of our Analytics Engineering team within the Data Science organization. We are looking for someone who can work closely with Data Scientists and Engineers across diverse areas of the organization (Consumer, Ads, and Marketing) to curate, develop, and deploy the right data and analytic tooling to drive Reddit’s product forward and provide a data and tooling foundation that will last decades. Your work will empower thousands of your colleagues to improve the user experience and grow our consumer base.\n Successful candidates have a strong track record of understanding and deeply caring about the purpose of data to support business goals, and can act as an effective conduit between Data Producers and Data Consumers. This role sits at the intersection of Data Science and Data Engineering, and the ideal candidate has skills, experience, and passion in both areas.\n Responsibilities:\n Be a key contributor and collaborator to the success of data quality, performance, reliability, and automation initiatives.\n Manage a portfolio of data products that deliver high-quality, trustworthy data\n Develop and maintain robust data pipelines and workflows for data ingestion, processing, and transformation. Work closely with engineering to ensure the quality and reliability of these data pipelines.\n Develop and implement data quality checks, conduct QA and implement monitoring routines\n Create and manage new data integrations across internal and external systems\n Create t…",
-    "tags": [
-      "Data Science & Analytics",
-      "Any"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-11-20T05:45:16.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.534Z"
-  },
-  {
-    "id": "arbeitnow:cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-454263",
-    "externalId": "cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-454263",
-    "source": "arbeitnow",
-    "title": "CDI - Senior Context & Analytics Engineer - Paris",
-    "company": "Artefactlinkedin",
-    "location": "9th arrondissement of Paris, 75009, Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-454263",
-    "description": "<p><strong>Mission</strong></p>\n<p>Un agent ne vaut que ce que valent les données et les connaissances sur lesquelles il répond. Pipelines, modèles de données, définitions de métriques, droits d’accès : vous créez et gouvernez ce socle, et les applications et les agents de nos clients s’appuient dessus. Quand un analyste ou un agent demande un chiffre, la réponse est celle de l’équipe finance, accompagnée de sa définition et de sa source.</p>\n<p><strong>Ce poste est fait pour vous si vous voulez que les métiers et les agents puissent se fier aux données, et les utilisent.</strong></p>\n<p>Artefact accompagne les plus grandes entreprises du monde dans le déploiement de l’IA : 3 000 AI makers dans plus de 30 pays, plus de 1 000 clients. En France, le département Engineering réunit environ 300 personnes sous la responsabilité du CTO ; vous y rejoignez le chapter AI Applied Engineer, archétype Context &amp; Analytics Engineer.</p>\n<p>&nbsp;</p>\n<p><strong>Activités et responsabilités</strong></p>\n<p>Avec les équipes métier et les analystes, il s’agit de définir ce que signifie chaque métrique et de vérifier que les données y correspondent. Sur ce socle, les Product Engineers et les AI Engineers construisent applications et agents.</p>\n<p>Les Platform Engineers exploitent l’infrastructure sur laquelle tournent vos pipelines. Les échanges avec les data owners et les équipes de gouvernance du client, la relecture de code entre pairs et l’accompagnement des nouvelles recrues complètent le quotidien.</p>\n<p>&nbsp;</p>\n<p><strong>Vos responsabilités :</strong></p>\n<ul>\n<li>Construire des pipelines d’ingestion et des modèles de données, avec dbt par exemple.</li>\n<li>Mettre en place des contrôles de qualité des données et maintenir le lineage.</li>\n<li>Construire la couche sémantique et les définitions de métriques, pour que les personnes et les agents utilisent les mêmes chiffres, y compris en text-to-SQL.</li>\n<li>Définir les règles de gouvernance et les droits d’accès.</li>…",
-    "tags": [
-      "AI Applied Engineer"
-    ],
-    "postedAt": "2026-11-20T03:55:25.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.450Z"
-  },
-  {
-    "id": "arbeitnow:cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-389200",
-    "externalId": "cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-389200",
-    "source": "arbeitnow",
-    "title": "CDI - Context & Analytics Engineer Manager - Paris",
-    "company": "Artefactlinkedin",
-    "location": "9th arrondissement of Paris, 75009, Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-389200",
-    "description": "<p><strong>Mission</strong></p>\n<p>Un agent ne vaut que ce que valent les données et les connaissances sur lesquelles il répond. Pipelines, modèles de données, définitions de métriques, droits d’accès : vous créez et gouvernez ce socle, et les applications et les agents de nos clients s’appuient dessus. Quand un analyste ou un agent demande un chiffre, la réponse est celle de l’équipe finance, accompagnée de sa définition et de sa source.</p>\n<p><strong>Ce poste est fait pour vous si vous voulez que les métiers et les agents puissent se fier aux données, et les utilisent.</strong></p>\n<p>Artefact accompagne les plus grandes entreprises du monde dans le déploiement de l’IA : 3 000 AI makers dans plus de 30 pays, plus de 1 000 clients. En France, le département Engineering réunit environ 300 personnes sous la responsabilité du CTO ; vous y rejoignez le chapter AI Applied Engineer, archétype Context &amp; Analytics Engineer.</p>\n<p>&nbsp;</p>\n<p><strong>Activités et responsabilités</strong></p>\n<p>Avec les équipes métier et les analystes, il s’agit de définir ce que signifie chaque métrique et de vérifier que les données y correspondent. Sur ce socle, les Product Engineers et les AI Engineers construisent applications et agents.</p>\n<p>Les Platform Engineers exploitent l’infrastructure sur laquelle tournent vos pipelines. Les échanges avec les data owners et les équipes de gouvernance du client, la relecture de code entre pairs et l’accompagnement des nouvelles recrues complètent le quotidien.</p>\n<p>&nbsp;</p>\n<p><strong>Vos responsabilités :</strong></p>\n<ul>\n<li>Construire des pipelines d’ingestion et des modèles de données, avec dbt par exemple.</li>\n<li>Mettre en place des contrôles de qualité des données et maintenir le lineage.</li>\n<li>Construire la couche sémantique et les définitions de métriques, pour que les personnes et les agents utilisent les mêmes chiffres, y compris en text-to-SQL.</li>\n<li>Définir les règles de gouvernance et les droits d’accès.</li>…",
-    "tags": [
-      "AI Applied Engineer"
-    ],
-    "postedAt": "2026-11-20T03:55:25.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.450Z"
-  },
-  {
-    "id": "arbeitnow:cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-200208",
-    "externalId": "cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-200208",
-    "source": "arbeitnow",
-    "title": "CDI - Senior Context & Analytics Engineer - Paris",
-    "company": "Artefact",
-    "location": "9th arrondissement of Paris, 75009, Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/artefact/cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-200208",
-    "description": "<p><strong>Mission</strong></p>\n<p>Un agent ne vaut que ce que valent les données et les connaissances sur lesquelles il répond. Pipelines, modèles de données, définitions de métriques, droits d’accès : vous créez et gouvernez ce socle, et les applications et les agents de nos clients s’appuient dessus. Quand un analyste ou un agent demande un chiffre, la réponse est celle de l’équipe finance, accompagnée de sa définition et de sa source.</p>\n<p><strong>Ce poste est fait pour vous si vous voulez que les métiers et les agents puissent se fier aux données, et les utilisent.</strong></p>\n<p>Artefact accompagne les plus grandes entreprises du monde dans le déploiement de l’IA : 3 000 AI makers dans plus de 30 pays, plus de 1 000 clients. En France, le département Engineering réunit environ 300 personnes sous la responsabilité du CTO ; vous y rejoignez le chapter AI Applied Engineer, archétype Context &amp; Analytics Engineer.</p>\n<p>&nbsp;</p>\n<p><strong>Activités et responsabilités</strong></p>\n<p>Avec les équipes métier et les analystes, il s’agit de définir ce que signifie chaque métrique et de vérifier que les données y correspondent. Sur ce socle, les Product Engineers et les AI Engineers construisent applications et agents.</p>\n<p>Les Platform Engineers exploitent l’infrastructure sur laquelle tournent vos pipelines. Les échanges avec les data owners et les équipes de gouvernance du client, la relecture de code entre pairs et l’accompagnement des nouvelles recrues complètent le quotidien.</p>\n<p>&nbsp;</p>\n<p><strong>Vos responsabilités :</strong></p>\n<ul>\n<li>Construire des pipelines d’ingestion et des modèles de données, avec dbt par exemple.</li>\n<li>Mettre en place des contrôles de qualité des données et maintenir le lineage.</li>\n<li>Construire la couche sémantique et les définitions de métriques, pour que les personnes et les agents utilisent les mêmes chiffres, y compris en text-to-SQL.</li>\n<li>Définir les règles de gouvernance et les droits d’accès.</li>…",
-    "tags": [
-      "AI Applied Engineer"
-    ],
-    "postedAt": "2026-11-20T03:55:23.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.450Z"
-  },
-  {
-    "id": "arbeitnow:cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-480508",
-    "externalId": "cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-480508",
-    "source": "arbeitnow",
-    "title": "CDI - Context & Analytics Engineer Manager - Paris",
-    "company": "Artefact",
-    "location": "9th arrondissement of Paris, 75009, Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/artefact/cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-480508",
-    "description": "<p><strong>Mission</strong></p>\n<p>Un agent ne vaut que ce que valent les données et les connaissances sur lesquelles il répond. Pipelines, modèles de données, définitions de métriques, droits d’accès : vous créez et gouvernez ce socle, et les applications et les agents de nos clients s’appuient dessus. Quand un analyste ou un agent demande un chiffre, la réponse est celle de l’équipe finance, accompagnée de sa définition et de sa source.</p>\n<p><strong>Ce poste est fait pour vous si vous voulez que les métiers et les agents puissent se fier aux données, et les utilisent.</strong></p>\n<p>Artefact accompagne les plus grandes entreprises du monde dans le déploiement de l’IA : 3 000 AI makers dans plus de 30 pays, plus de 1 000 clients. En France, le département Engineering réunit environ 300 personnes sous la responsabilité du CTO ; vous y rejoignez le chapter AI Applied Engineer, archétype Context &amp; Analytics Engineer.</p>\n<p>&nbsp;</p>\n<p><strong>Activités et responsabilités</strong></p>\n<p>Avec les équipes métier et les analystes, il s’agit de définir ce que signifie chaque métrique et de vérifier que les données y correspondent. Sur ce socle, les Product Engineers et les AI Engineers construisent applications et agents.</p>\n<p>Les Platform Engineers exploitent l’infrastructure sur laquelle tournent vos pipelines. Les échanges avec les data owners et les équipes de gouvernance du client, la relecture de code entre pairs et l’accompagnement des nouvelles recrues complètent le quotidien.</p>\n<p>&nbsp;</p>\n<p><strong>Vos responsabilités :</strong></p>\n<ul>\n<li>Construire des pipelines d’ingestion et des modèles de données, avec dbt par exemple.</li>\n<li>Mettre en place des contrôles de qualité des données et maintenir le lineage.</li>\n<li>Construire la couche sémantique et les définitions de métriques, pour que les personnes et les agents utilisent les mêmes chiffres, y compris en text-to-SQL.</li>\n<li>Définir les règles de gouvernance et les droits d’accès.</li>…",
-    "tags": [
-      "AI Applied Engineer"
-    ],
-    "postedAt": "2026-11-20T03:55:23.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.450Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-heidelberg-460922",
-    "externalId": "data-engineer-heidelberg-460922",
-    "source": "arbeitnow",
-    "title": "Data Engineer (m/w/d)",
-    "company": "Rewire",
-    "location": "Heidelberg, Baden-Württemberg, Germany",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/rewire/data-engineer-heidelberg-460922",
-    "description": "Make impact. Be human. Stay curious.\n Who we are Founded in 2006, Rewire is an applied AI company helping organizations reinvent how they work with data and AI. We partner with leading organizations across industries to create scalable business impact by solving complex challenges through data, AI, and technology. Our team of 100+ data scientists, engineers, and change agents operates across Europe from offices in the Netherlands and Germany. Strategic in intent and pragmatic in execution, we combine deep Data & AI expertise with close, committed collaboration.\n Collaboration, knowledge sharing, and continuous learning are at the heart of our culture. Through topic communities, expert colleagues, and our internal academy, GAIN, you'll have plenty of opportunities to develop your skills in areas such as Agentic AI, Data Strategy, AI Product Development, and Technology Platforms, while helping clients achieve measurable results.\n Join a team that loves learning, solving challenges together, and having fun along the way. Ready to join the ride?\n Where you’ll make a difference Build robust data & AI infrastructure – design and develop the pipelines, platforms, and systems that power our clients' data-driven ambitions\n Advise clients on technical best practices – translate business needs into sound engineering decisions, bridging the gap between strategy and implementation\n Develop scalable software solutions – write clean, maintainable code that turns complex requirements into reliable, production-ready systems\n Contribute to organizational change – implement data & AI innovations supported by GAIN®, our certified education and training portfolio\n Use technical expertise and communication skills – build scalable data & AI solutions that drive value across the organization\n Collaborate with cross-functional teams from both the client and Rewire – contribute from day one while learning from experienced leaders\n What makes us the right choice for you Be part of groundbrea…",
-    "tags": [
-      "Data Engineering",
-      "Entry",
-      "fulltime permanent"
-    ],
-    "jobType": "Entry",
-    "postedAt": "2026-11-20T03:31:18.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.450Z"
-  },
-  {
-    "id": "arbeitnow:data-engineering-lead-agentic-infrastructure-frankfurt-dusseldorf-384892",
-    "externalId": "data-engineering-lead-agentic-infrastructure-frankfurt-dusseldorf-384892",
-    "source": "arbeitnow",
-    "title": "Data Engineering Lead, Agentic Infrastructure",
-    "company": "Vivenu",
-    "location": "Frankfurt/Düsseldorf",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/vivenu/data-engineering-lead-agentic-infrastructure-frankfurt-dusseldorf-384892",
-    "description": "Redefine the future of live entertainment tech\n Welcome to vivenu, the global leader in event ticketing tech and one of the world’s fastest-growing live entertainment tech firms. We are transforming event ticketing for global leaders like the Grammys, the Golden Globes, Stanford University and the Hockenheimring turning what was once a simple transaction into a strategic business advantage. Backed by over $65 million in funding, our platform empowers event organizers to own their brand experience, unlock deep data insights, and seamlessly integrate ticketing into their digital infrastructure.\n With six offices worldwide and growing, we deliver a customizable, intuitive solution and industry-leading support that simplify even the most complex ticketing challenges – helping organizers deliver exceptional experiences and drive real growth.\n Join us and build the future of live entertainment.\n With over 10 million end users and usage quadrupling annually, our infrastructure now handles over 1 billion requests per month — and counting. Our API-first platform solves complex system challenges at scale — delivering performance, flexibility, and reliability for the world’s leading live entertainment brands.\n As a Data Engineering Lead, Agentic Infrastructure, you will be the foundational technical leader of our data organization, guiding a dedicated pod of engineers in the future. You will act as the technical authority and central hub for all data initiatives across the company, ensuring a cohesive, secure, and scalable data strategy.\nBy building this scalable technical foundation, you will pave the way for company-wide AI adoption. As the internal platform matures, your scope will likely expand to drive robust data and AI capabilities directly into our customer-facing products.\n As a Data Engineering Lead, Agentic Infrastructure (d/f/m) your responsibilities will include:\n Build the foundation: Design, architect, and build our highly scalable internal data platform and co…",
-    "tags": [
-      "Product & Development",
-      "Full time"
-    ],
-    "jobType": "Full time",
-    "postedAt": "2026-11-20T03:08:34.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.450Z"
-  },
-  {
-    "id": "arbeitnow:cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-437471",
-    "externalId": "cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-437471",
-    "source": "arbeitnow",
-    "title": "CDI - Senior Context & Analytics Engineer - Paris",
-    "company": "Artefactjobs",
-    "location": "9th arrondissement of Paris, 75009, Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-437471",
-    "description": "<p><strong>Mission</strong></p>\n<p>Un agent ne vaut que ce que valent les données et les connaissances sur lesquelles il répond. Pipelines, modèles de données, définitions de métriques, droits d’accès : vous créez et gouvernez ce socle, et les applications et les agents de nos clients s’appuient dessus. Quand un analyste ou un agent demande un chiffre, la réponse est celle de l’équipe finance, accompagnée de sa définition et de sa source.</p>\n<p><strong>Ce poste est fait pour vous si vous voulez que les métiers et les agents puissent se fier aux données, et les utilisent.</strong></p>\n<p>Artefact accompagne les plus grandes entreprises du monde dans le déploiement de l’IA : 3 000 AI makers dans plus de 30 pays, plus de 1 000 clients. En France, le département Engineering réunit environ 300 personnes sous la responsabilité du CTO ; vous y rejoignez le chapter AI Applied Engineer, archétype Context &amp; Analytics Engineer.</p>\n<p>&nbsp;</p>\n<p><strong>Activités et responsabilités</strong></p>\n<p>Avec les équipes métier et les analystes, il s’agit de définir ce que signifie chaque métrique et de vérifier que les données y correspondent. Sur ce socle, les Product Engineers et les AI Engineers construisent applications et agents.</p>\n<p>Les Platform Engineers exploitent l’infrastructure sur laquelle tournent vos pipelines. Les échanges avec les data owners et les équipes de gouvernance du client, la relecture de code entre pairs et l’accompagnement des nouvelles recrues complètent le quotidien.</p>\n<p>&nbsp;</p>\n<p><strong>Vos responsabilités :</strong></p>\n<ul>\n<li>Construire des pipelines d’ingestion et des modèles de données, avec dbt par exemple.</li>\n<li>Mettre en place des contrôles de qualité des données et maintenir le lineage.</li>\n<li>Construire la couche sémantique et les définitions de métriques, pour que les personnes et les agents utilisent les mêmes chiffres, y compris en text-to-SQL.</li>\n<li>Définir les règles de gouvernance et les droits d’accès.</li>…",
-    "tags": [
-      "AI Applied Engineer"
-    ],
-    "postedAt": "2026-11-20T00:55:32.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.450Z"
-  },
-  {
-    "id": "arbeitnow:cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-390194",
-    "externalId": "cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-390194",
-    "source": "arbeitnow",
-    "title": "CDI - Context & Analytics Engineer Manager - Paris",
-    "company": "Artefactjobs",
-    "location": "9th arrondissement of Paris, 75009, Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-390194",
-    "description": "<p><strong>Mission</strong></p>\n<p>Un agent ne vaut que ce que valent les données et les connaissances sur lesquelles il répond. Pipelines, modèles de données, définitions de métriques, droits d’accès : vous créez et gouvernez ce socle, et les applications et les agents de nos clients s’appuient dessus. Quand un analyste ou un agent demande un chiffre, la réponse est celle de l’équipe finance, accompagnée de sa définition et de sa source.</p>\n<p><strong>Ce poste est fait pour vous si vous voulez que les métiers et les agents puissent se fier aux données, et les utilisent.</strong></p>\n<p>Artefact accompagne les plus grandes entreprises du monde dans le déploiement de l’IA : 3 000 AI makers dans plus de 30 pays, plus de 1 000 clients. En France, le département Engineering réunit environ 300 personnes sous la responsabilité du CTO ; vous y rejoignez le chapter AI Applied Engineer, archétype Context &amp; Analytics Engineer.</p>\n<p>&nbsp;</p>\n<p><strong>Activités et responsabilités</strong></p>\n<p>Avec les équipes métier et les analystes, il s’agit de définir ce que signifie chaque métrique et de vérifier que les données y correspondent. Sur ce socle, les Product Engineers et les AI Engineers construisent applications et agents.</p>\n<p>Les Platform Engineers exploitent l’infrastructure sur laquelle tournent vos pipelines. Les échanges avec les data owners et les équipes de gouvernance du client, la relecture de code entre pairs et l’accompagnement des nouvelles recrues complètent le quotidien.</p>\n<p>&nbsp;</p>\n<p><strong>Vos responsabilités :</strong></p>\n<ul>\n<li>Construire des pipelines d’ingestion et des modèles de données, avec dbt par exemple.</li>\n<li>Mettre en place des contrôles de qualité des données et maintenir le lineage.</li>\n<li>Construire la couche sémantique et les définitions de métriques, pour que les personnes et les agents utilisent les mêmes chiffres, y compris en text-to-SQL.</li>\n<li>Définir les règles de gouvernance et les droits d’accès.</li>…",
-    "tags": [
-      "AI Applied Engineer"
-    ],
-    "postedAt": "2026-11-20T00:55:32.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.450Z"
-  },
-  {
-    "id": "arbeitnow:staff-data-engineer-geneva-369322",
-    "externalId": "staff-data-engineer-geneva-369322",
-    "source": "arbeitnow",
-    "title": "Staff Data Engineer",
-    "company": "Sonarsource",
-    "location": "Geneva",
-    "remote": false,
-    "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/staff-data-engineer-geneva-369322",
-    "description": "Who is Sonar?\n Sonar enables organizations to ship agentic code with confidence. Code creation is abundant, but confidence is scarce. Our core platform, SonarQube, verifies over 750 billion lines of code every day, delivering agentic verification and governance for all code. Trusted by more than 7 million developers and 75% of the Fortune 100, including teams at Nvidia, ServiceNow, Booking.com , Goldman Sachs, AstraZeneca, and Ford Motor Company, Sonar enables organizations to reduce outages, improve security, and lower the cost and risk of agentic software development.\nFounded in Geneva and now headquartered in Austin, Texas, Sonar has a global team working across offices and hubs, including Silicon Valley, London, Bochum, Barcelona, Singapore, Tokyo, and the Washington, D.C. area. At Sonar, we’re enabling enterprises to build agentic software factories that can move quickly while maintaining the control, consistency and evidence required to ship with confidence.\n Position description:\n We want to make the best decisions possible for our products and to do that, we need to make data-driven decisions.\n To achieve this goal, we are looking for a talented Data Engineer - you! - to join the Data & ML Platform team.\n Together, we will make Sonar’s products the undisputed world-leading code remediation solution!\n What you will do\n You will design and develop the data platform to support the functional domains in handling their data and help them in their journey to data ownership. This means:\n Design and implement data storage, transformation, and load capabilities of our pipelines.\n Continuously enhance the data platform. Propose, implement and manage data handling services according to stakeholders needs (Product Managers, Marketing, Sales, engineering teams, ...)\n Establish top-class end-to-end pipelines including data cleaning and modelling.\n Develop and deploy connectors to data sources of interest.\n Maintain evergreen data flow documentation across systems.\n Colla…",
-    "tags": [
-      "Data & Agentic",
-      "Employee / Full-Time"
-    ],
-    "jobType": "Employee / Full-Time",
-    "postedAt": "2026-11-20T00:26:59.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.450Z"
+    "postedAt": "2026-11-19T17:45:24.000Z",
+    "scrapedAt": "2026-11-20T19:34:36.028Z"
   },
   {
     "id": "remoteok:1137809",
@@ -275,7 +29,7 @@
       "programming"
     ],
     "postedAt": "2026-11-19T09:58:02.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.928Z"
+    "scrapedAt": "2026-11-20T19:34:36.028Z"
   },
   {
     "id": "greenhouse:cloudflare-8395358",
@@ -291,23 +45,23 @@
       "Security"
     ],
     "postedAt": "2026-11-17T21:48:13.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:airbnb-8396777",
     "externalId": "airbnb:8396777",
     "source": "greenhouse",
-    "title": "Senior Data Engineer Tech Foundations",
+    "title": "Data Engineer Tech Foundations",
     "company": "Airbnb",
     "location": "US - Remote",
     "remote": true,
     "url": "https://careers.airbnb.com/positions/8396777?gh_jid=8396777",
-    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n Senior Data Engineer, Enterprise Core Datasets, Tech Foundations\n The Community You Will Join\n At Airbnb, trustworthy data powers business decisions, product innovation, and operational efficiency. The Enterprise Core Datasets team builds the technical data foundations that help Airbnb understand how the business operates, where resources are invested, and how new technologies create value.\n Our scope spans high-impact datasets across the organization: measuring AI adoption, usage, and cost; understanding revenue, costs, and profitability through Unit Economics; integrating non-platform data from Jira and other enterprise applications; and powering critical company metrics such as Gross Booking Value and Revenue.\n You will join a team that values thoughtful architecture, engineering rigor, and operational ownership. We collaborate with engineering, product, analytics, finance, and business teams to turn complex requirements into dependable, reusable data assets. We welcome strong engineers who are curious about the business and eager to solve problems across diverse domains.\n The Difference You Will Make\n As a Senior Data Engineer, you will design, build, and operate datasets that shape decisions across Airbnb. Your work will help the organization measure AI adoption and spending, understand the economics of its products, and connect enterprise application data to meaningful business and operational insights.\n You will own complex data engineering projects from requirements gathering and technical design through implementation, validation, and production operations. Working closely with stakeholders and engin…",
+    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n Data Engineer, Enterprise Core Datasets, Tech Foundations\n The Community You Will Join\n At Airbnb, trustworthy data powers business decisions, product innovation, and operational efficiency. The Enterprise Core Datasets team builds the technical data foundations that help Airbnb understand how the business operates, where resources are invested, and how new technologies create value.\n Our scope spans high-impact datasets across the organization: measuring AI adoption, usage, and cost; understanding revenue, costs, and profitability through Unit Economics; integrating non-platform data from Jira and other enterprise applications; and powering critical company metrics such as Gross Booking Value and Revenue.\n You will join a team that values thoughtful architecture, engineering rigor, and operational ownership. We collaborate with engineering, product, analytics, finance, and business teams to turn complex requirements into dependable, reusable data assets. We welcome engineers who are curious about the business and eager to learn and solve problems across diverse domains.\n The Difference You Will Make\n As a Data Engineer, you will build and operate datasets that shape decisions across Airbnb. Your work will help the organization measure AI adoption and spending, understand the economics of its products, and connect enterprise application data to meaningful business and operational insights.\n You will deliver well-scoped data engineering projects, from requirements through design, implementation, validation, and production operations. You will work closely with teammates and stakeholders, with guidance from sen…",
     "tags": [
       "Engineering & Technology"
     ],
     "postedAt": "2026-11-17T19:22:59.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:block-5485151008",
@@ -323,7 +77,7 @@
       "20408 S&M - Sales - Square RevOps & Enablement"
     ],
     "postedAt": "2026-11-17T15:46:55.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:lyft-8940409002",
@@ -339,7 +93,7 @@
       "Marketplace"
     ],
     "postedAt": "2026-11-13T09:17:01.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:block-5473605008",
@@ -355,7 +109,7 @@
       "30403 Foundational - Guidance - Corporate Finance & Strategy"
     ],
     "postedAt": "2026-11-12T21:53:17.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "remotive:2091137",
@@ -422,7 +176,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-11-11T18:39:59.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.346Z"
+    "scrapedAt": "2026-11-20T19:34:35.156Z"
   },
   {
     "id": "remoteok:1137714",
@@ -455,7 +209,7 @@
       "digital nomad"
     ],
     "postedAt": "2026-11-10T16:00:04.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.928Z"
+    "scrapedAt": "2026-11-20T19:34:36.028Z"
   },
   {
     "id": "greenhouse:lyft-8931413002",
@@ -471,7 +225,7 @@
       "Lyft Ads"
     ],
     "postedAt": "2026-11-10T15:58:08.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:coinbase-8047150",
@@ -487,7 +241,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-10-31T02:38:15.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "ashby:notion-73a71747-28d3-4dda-a718-77336056e687",
@@ -505,7 +259,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-10-28T18:42:47.956Z",
-    "scrapedAt": "2026-11-20T10:55:25.065Z"
+    "scrapedAt": "2026-11-20T19:37:39.697Z"
   },
   {
     "id": "greenhouse:anthropic-5462966008",
@@ -521,7 +275,7 @@
       "Security"
     ],
     "postedAt": "2026-10-26T22:47:43.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -537,7 +291,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -553,7 +307,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -569,7 +323,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -585,7 +339,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -601,7 +355,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -617,7 +371,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -633,7 +387,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -649,7 +403,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:pinterest-8209014",
@@ -665,7 +419,7 @@
       "Oversight Engineering"
     ],
     "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -681,7 +435,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -697,7 +451,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -713,7 +467,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -729,7 +483,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -745,7 +499,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -761,7 +515,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -777,7 +531,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -797,7 +551,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-11-20T10:55:24.006Z"
+    "scrapedAt": "2026-11-20T19:37:37.451Z"
   },
   {
     "id": "ashby:linear-f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -816,7 +570,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-08-11T00:36:47.459Z",
-    "scrapedAt": "2026-11-20T10:55:25.065Z"
+    "scrapedAt": "2026-11-20T19:37:39.697Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -832,7 +586,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:stripe-8112043",
@@ -848,7 +602,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-08-06T14:27:44.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -864,7 +618,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -880,7 +634,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -896,7 +650,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -912,7 +666,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -928,7 +682,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -944,7 +698,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -960,7 +714,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -976,7 +730,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -992,7 +746,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "greenhouse:robinhood-5616144",
@@ -1008,7 +762,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2024-01-23T00:26:13.000Z",
-    "scrapedAt": "2026-11-20T10:52:40.936Z"
+    "scrapedAt": "2026-11-20T19:34:36.037Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -1024,7 +778,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-11-20T10:52:47.445Z"
+    "scrapedAt": "2026-11-20T19:34:42.676Z"
   },
   {
     "id": "workday:nvidia-JR2028588",
@@ -1038,7 +792,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-20T10:52:47.445Z"
+    "scrapedAt": "2026-11-20T19:34:42.676Z"
   },
   {
     "id": "workday:nvidia-JR2028539",
@@ -1052,7 +806,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-20T10:52:47.445Z"
+    "scrapedAt": "2026-11-20T19:34:42.676Z"
   },
   {
     "id": "workday:nvidia-JR2023850",
@@ -1066,7 +820,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-20T10:52:47.445Z"
+    "scrapedAt": "2026-11-20T19:34:42.676Z"
   },
   {
     "id": "workday:nvidia-JR2026497",
@@ -1080,7 +834,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-20T10:52:47.445Z"
+    "scrapedAt": "2026-11-20T19:34:42.676Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -1094,7 +848,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-20T10:52:47.445Z"
+    "scrapedAt": "2026-11-20T19:34:42.676Z"
   },
   {
     "id": "workday:salesforce-JR364686",
@@ -1108,7 +862,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-20T10:52:47.445Z"
+    "scrapedAt": "2026-11-20T19:34:42.676Z"
   },
   {
     "id": "workday:adobe-R171875",
@@ -1122,7 +876,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-20T10:52:47.445Z"
+    "scrapedAt": "2026-11-20T19:34:42.676Z"
   },
   {
     "id": "workday:adobe-R172115",
@@ -1136,7 +890,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-20T10:52:47.445Z"
+    "scrapedAt": "2026-11-20T19:34:42.676Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -1150,7 +904,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-20T10:52:47.445Z"
+    "scrapedAt": "2026-11-20T19:34:42.676Z"
   },
   {
     "id": "workday:salesforce-JR366234",
@@ -1164,7 +918,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-20T10:53:48.529Z"
+    "scrapedAt": "2026-11-20T19:35:53.450Z"
   },
   {
     "id": "workday:salesforce-JR363793",
@@ -1178,7 +932,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-20T10:53:48.529Z"
+    "scrapedAt": "2026-11-20T19:35:53.450Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -1192,7 +946,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-20T10:53:48.529Z"
+    "scrapedAt": "2026-11-20T19:35:53.450Z"
   },
   {
     "id": "workday:salesforce-JR359930",
@@ -1206,6 +960,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-20T10:54:16.362Z"
+    "scrapedAt": "2026-11-20T19:36:22.843Z"
   }
 ]

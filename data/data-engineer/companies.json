@@ -177,57 +177,23 @@
     ]
   },
   {
-    "company": "Artefact",
+    "company": "Airbnb",
     "jobCount": 2,
     "sources": [
-      "arbeitnow"
+      "greenhouse",
+      "remoteok"
     ],
     "locations": [
-      "9th arrondissement of Paris, 75009, Paris"
+      "US Only",
+      "US - Remote"
     ],
     "sampleTitles": [
-      "CDI - Senior Context & Analytics Engineer - Paris",
-      "CDI - Context & Analytics Engineer Manager - Paris"
+      "Senior Data Engineer Tech Foundations",
+      "Data Engineer Tech Foundations"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/artefact/cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-200208",
-      "https://www.arbeitnow.fr/jobs/companies/artefact/cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-480508"
-    ]
-  },
-  {
-    "company": "Artefactjobs",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "9th arrondissement of Paris, 75009, Paris"
-    ],
-    "sampleTitles": [
-      "CDI - Senior Context & Analytics Engineer - Paris",
-      "CDI - Context & Analytics Engineer Manager - Paris"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-437471",
-      "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-390194"
-    ]
-  },
-  {
-    "company": "Artefactlinkedin",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "9th arrondissement of Paris, 75009, Paris"
-    ],
-    "sampleTitles": [
-      "CDI - Senior Context & Analytics Engineer - Paris",
-      "CDI - Context & Analytics Engineer Manager - Paris"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-454263",
-      "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-389200"
+      "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-tech-foundations-airbnb-1137846",
+      "https://careers.airbnb.com/positions/8396777?gh_jid=8396777"
     ]
   },
   {
@@ -306,26 +272,6 @@
     ]
   },
   {
-    "company": "Reddit",
-    "jobCount": 2,
-    "sources": [
-      "greenhouse",
-      "jobicy"
-    ],
-    "locations": [
-      "USA",
-      "Remote - United States"
-    ],
-    "sampleTitles": [
-      "Analytics Engineer",
-      "Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/156010-analytics-engineer-5",
-      "https://job-boards.greenhouse.io/reddit/jobs/8282760"
-    ]
-  },
-  {
     "company": "Addepto",
     "jobCount": 1,
     "sources": [
@@ -339,38 +285,6 @@
     ],
     "officialUrls": [
       "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714"
-    ]
-  },
-  {
-    "company": "Airbnb",
-    "jobCount": 1,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "US - Remote"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer Tech Foundations"
-    ],
-    "officialUrls": [
-      "https://careers.airbnb.com/positions/8396777?gh_jid=8396777"
-    ]
-  },
-  {
-    "company": "BetterHelp",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "USA"
-    ],
-    "sampleTitles": [
-      "Senior Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/163386-senior-analytics-engineer-4"
     ]
   },
   {
@@ -390,22 +304,6 @@
     ]
   },
   {
-    "company": "Foundational",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Backend / Data Platform Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/foundational/backend-data-platform-engineer-london-371576"
-    ]
-  },
-  {
     "company": "GitLab",
     "jobCount": 1,
     "sources": [
@@ -419,22 +317,6 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/gitlab/jobs/8883003002"
-    ]
-  },
-  {
-    "company": "KnowBe4, Inc.",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "Brazil"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer (Remote in Brazil)"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/163406-senior-data-engineer-remote-in-brazil"
     ]
   },
   {
@@ -486,35 +368,19 @@
     ]
   },
   {
-    "company": "Point72",
+    "company": "Reddit",
     "jobCount": 1,
     "sources": [
-      "arbeitnow"
+      "greenhouse"
     ],
     "locations": [
-      "Unknown"
+      "Remote - United States"
     ],
     "sampleTitles": [
-      "Senior Data Engineer, Mi-Platform"
+      "Analytics Engineer"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/point72/senior-data-engineer-mi-platform-166224"
-    ]
-  },
-  {
-    "company": "Rewire",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Heidelberg, Baden-Württemberg, Germany"
-    ],
-    "sampleTitles": [
-      "Data Engineer (m/w/d)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/rewire/data-engineer-heidelberg-460922"
+      "https://job-boards.greenhouse.io/reddit/jobs/8282760"
     ]
   },
   {
@@ -547,22 +413,6 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/scaleai/jobs/4713597005"
-    ]
-  },
-  {
-    "company": "Sonarsource",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Geneva"
-    ],
-    "sampleTitles": [
-      "Staff Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.ch/jobs/companies/sonarsource/staff-data-engineer-geneva-369322"
     ]
   },
   {
@@ -614,22 +464,6 @@
     ]
   },
   {
-    "company": "Truelogic",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "Brazil"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer - Advertising"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/163404-senior-data-engineer-advertising"
-    ]
-  },
-  {
     "company": "Twilio",
     "jobCount": 1,
     "sources": [
@@ -643,22 +477,6 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/twilio/jobs/8044650"
-    ]
-  },
-  {
-    "company": "Vivenu",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Frankfurt/Düsseldorf"
-    ],
-    "sampleTitles": [
-      "Data Engineering Lead, Agentic Infrastructure"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/vivenu/data-engineering-lead-agentic-infrastructure-frankfurt-dusseldorf-384892"
     ]
   },
   {
