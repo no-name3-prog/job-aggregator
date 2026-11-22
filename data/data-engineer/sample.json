@@ -16,7 +16,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-11-21T15:03:14.000Z",
-    "scrapedAt": "2026-11-21T18:39:29.072Z"
+    "scrapedAt": "2026-11-22T00:54:59.120Z"
   },
   {
     "id": "remoteok:1137846",
@@ -32,23 +32,7 @@
       "programming"
     ],
     "postedAt": "2026-11-19T17:45:24.000Z",
-    "scrapedAt": "2026-11-21T18:39:29.434Z"
-  },
-  {
-    "id": "remoteok:1137809",
-    "externalId": "1137809",
-    "source": "remoteok",
-    "title": "Senior Analytics Engineer",
-    "company": "Tebra",
-    "location": "US Only",
-    "remote": true,
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-analytics-engineer-tebra-1137809",
-    "description": "Tebra only initiates contact with candidates via email from an official Tebra email address (@ tebra.com , @ patientpop.com , or @ kareo.com ) or through our applicant tracking system, Greenhouse.Â We will only ask you to provide sensitive personal information through our official application portal â not via social media or text message. We do not conduct interviews via instant messaging.\n About the Role\n Tebra helps private practices bring modernized care to patients everywhere. To run our own business well, every team needs numbers it can trust.\n We're looking for a Senior Analytics Engineer to help build Tebra's new internal analytics platform. You'll turn data from Salesforce, NetSuite, Stripe, our product, and other systems into one shared, tested set of business data and metrics that Finance, Customer Success, Growth, and Payments all use. You'll lead projects end to end, set the standards others build on, and partner with business leaders to define the metrics that matter most.\n Your Area of Focus\n Â  Data Modeling & Shared Datasets: Design, build, and maintain enterprise-wide business data that teams across Finance, Customer Success, Growth, and Payments build on. Apply dimensional modeling and layered design (staging, intermediate, and marts) so business logic lives in one place and isn't rebuilt by each team.\n Metric Definition & Semantic Layer: Partner with metric owners in Finance and the business to define each key metric once, with a named owner and documented logic. Publish governed metrics in a semantic layer that Tableau, AI assistants, and other tools query, and reconcile them to current reporting and the general ledger before teams switch over.\n Self-Service Enablement: Build easy-to-use datasets that let non-technical teammates and analysts answer their own questions without writing complex joins.\n Platform Migration: Lead projects end to end on the new internal analytics platform, from source data to dashboards. Move each team's reporting ov…",
-    "tags": [
-      "programming"
-    ],
-    "postedAt": "2026-11-19T09:58:02.000Z",
-    "scrapedAt": "2026-11-21T18:39:29.434Z"
+    "scrapedAt": "2026-11-22T00:54:59.945Z"
   },
   {
     "id": "greenhouse:cloudflare-8395358",
@@ -64,7 +48,7 @@
       "Security"
     ],
     "postedAt": "2026-11-17T21:48:13.000Z",
-    "scrapedAt": "2026-11-21T18:39:29.444Z"
+    "scrapedAt": "2026-11-22T00:54:59.954Z"
   },
   {
     "id": "greenhouse:airbnb-8396777",
@@ -80,7 +64,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-11-17T19:22:59.000Z",
-    "scrapedAt": "2026-11-21T18:39:29.444Z"
+    "scrapedAt": "2026-11-22T00:54:59.954Z"
   },
   {
     "id": "greenhouse:block-5485151008",
@@ -96,7 +80,7 @@
       "20408 S&M - Sales - Square RevOps & Enablement"
     ],
     "postedAt": "2026-11-17T15:46:55.000Z",
-    "scrapedAt": "2026-11-21T18:39:29.444Z"
+    "scrapedAt": "2026-11-22T00:54:59.954Z"
   },
   {
     "id": "greenhouse:lyft-8940409002",
@@ -112,7 +96,7 @@
       "Marketplace"
     ],
     "postedAt": "2026-11-13T09:17:01.000Z",
-    "scrapedAt": "2026-11-21T18:39:29.444Z"
+    "scrapedAt": "2026-11-22T00:54:59.954Z"
   },
   {
     "id": "greenhouse:block-5473605008",
@@ -128,7 +112,7 @@
       "30403 Foundational - Guidance - Corporate Finance & Strategy"
     ],
     "postedAt": "2026-11-12T21:53:17.000Z",
-    "scrapedAt": "2026-11-21T18:39:29.444Z"
+    "scrapedAt": "2026-11-22T00:54:59.954Z"
   },
   {
     "id": "remotive:2091137",
@@ -195,7 +179,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-11-11T18:39:59.000Z",
-    "scrapedAt": "2026-11-21T18:39:28.876Z"
+    "scrapedAt": "2026-11-22T00:54:58.887Z"
   },
   {
     "id": "greenhouse:lyft-8931413002",
@@ -211,6 +195,22 @@
       "Lyft Ads"
     ],
     "postedAt": "2026-11-10T15:58:08.000Z",
-    "scrapedAt": "2026-11-21T18:39:29.444Z"
+    "scrapedAt": "2026-11-22T00:54:59.954Z"
+  },
+  {
+    "id": "greenhouse:coinbase-8047150",
+    "externalId": "coinbase:8047150",
+    "source": "greenhouse",
+    "title": "Staff Analytics Engineer",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "remote": true,
+    "url": "https://www.coinbase.com/careers/positions/8047150?gh_jid=8047150",
+    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” Learn more about working at Coinbase .\n Finance Analytics builds Coinbase's financial data and reporting foundations so Finance, Accounting/Controllership, Treasury and FP&A can run accurate, timely and auditable operations. We sit at the intersection of data engineering, data science and business analytics: we own the source-of-truth financial datasets in Snowflake/Databricks, the pipelines that produce them, and the reconciliation, month-end close, safeguarding and reporting workflows built on top. We partner closely with Product Engineering to make sure upstream financial data is complete, reconciled and traceable.\n What you'll be doing:\n As the Staff Analytics Engineer on Finance Analytics, this person sets the technical direction for Coinbase's financial data layer and works side by side with Accounting, Controllership and FP&A. They need to understand how the books are closed, audited and controlled, not just how the data moves:\n Partner with Accounting and FP&A to support month-end and quarter-end close, building the datasets, reconciliations and reporting that let us close the books accurately and on time.\n Make financial data and pipelines audit-ready: SOX-compliant controls, lineage, change management and evidence for internal and external auditors.\n Design and own the architecture of curated, well-documented source-of-truth financial datasets in Snowflake/Databricks that are correct, consistent and tie ou…",
+    "tags": [
+      "Engineering - Data"
+    ],
+    "postedAt": "2026-10-31T02:38:15.000Z",
+    "scrapedAt": "2026-11-22T00:54:59.954Z"
   }
 ]
