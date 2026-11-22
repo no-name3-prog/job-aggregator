@@ -1,7 +1,7 @@
 {
-  "lastRunAt": "2026-11-22T10:40:35.562Z",
-  "durationMs": 47013,
-  "totalJobs": 3227,
+  "lastRunAt": "2026-11-22T18:59:39.998Z",
+  "durationMs": 43890,
+  "totalJobs": 3228,
   "sources": [
     {
       "source": "remotive",
@@ -30,8 +30,8 @@
     },
     {
       "source": "workday",
-      "fetched": 505,
-      "kept": 505
+      "fetched": 506,
+      "kept": 506
     },
     {
       "source": "lever",
