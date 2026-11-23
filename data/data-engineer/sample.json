@@ -1,5 +1,79 @@
 [
   {
+    "id": "arbeitnow:master-data-engineer-utrecht-309006",
+    "externalId": "master-data-engineer-utrecht-309006",
+    "source": "arbeitnow",
+    "title": "Master Data Engineer",
+    "company": "Vitestro",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "remote": false,
+    "url": "https://www.arbeitnow.nl/jobs/companies/vitestro/master-data-engineer-utrecht-309006",
+    "description": "About Vitestro\n Founded in 2017 in Utrecht, Vitestro is pioneering the future of blood collection with the Aletta® Autonomous Robotic Phlebotomy Device™ (ARPD™) . This groundbreaking medical device combines advanced multi-modal imaging (near-infrared, ultrasound, and Doppler ultrasound) with robotics and AI to perform the entire diagnostic blood draw procedure autonomously.\n By addressing critical healthcare staffing shortages and improving patient experience, Vitestro is transforming one of the most common and essential medical procedures. With more than 130 team members and growing rapidly, we are scaling our impact. As we placed our first devices with customers, we are now expanding our team to ensure successful implementation and long-term reliability.\n At Vitestro, we are committed to continuous innovation and improvement.\n Master Data Engineer\n As our Master Data Engineer, you own the accuracy and integrity of the master data behind every Aletta we build: items, bills of materials (BOMs), revisions and routings in our ERP system. You translate the engineering BOM released by R&D into the manufacturing BOM for products, sub-assemblies and spare parts. You also own the change control process between Engineering, Operations and Supply Chain, from the first change request to the verified change in the build. This is a newly created role in our Operations team.\n First months at Vitestro\n In your first months, your focus will be on two things. First, you set up the change process end to end: from an engineering change to its implementation in the build, including the impact on time and cost. You register changes, organize the impact assessment with Operations, Supply Chain and Quality, chair the change review board, and define effectivity and the disposition of existing stock. Second, you build the manufacturing BOMs for our products from the engineering BOMs. You structure sub-assemblies to match the assembly sequence, add consumables, packaging, labels, kitting a…",
+    "tags": [
+      "Software",
+      "Mid",
+      "fulltime fixed term"
+    ],
+    "jobType": "Mid",
+    "postedAt": "2026-11-23T06:31:42.000Z",
+    "scrapedAt": "2026-11-23T11:44:29.055Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-united-kingdom-208895",
+    "externalId": "senior-data-engineer-united-kingdom-208895",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer",
+    "company": "Kpler",
+    "location": "United Kingdom",
+    "remote": false,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/senior-data-engineer-united-kingdom-208895",
+    "description": "At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors.\n Since our founding in 2014, we have focused on delivering top-tier intelligence through user-friendly platforms. Our team of over 850 experts from 69 countries works tirelessly to transform intricate data into actionable strategies, ensuring our clients stay ahead in a dynamic market landscape. Join us to leverage cutting-edge innovation for impactful results and experience unparalleled support on your journey to success.\n About the Role\n As a Senior Data Engineer joining our new Marine Insurance initiative, you will play a central role in shapin g the systems that power Kpler’s global market intelligence platform . You will lead the end-to-end design and delivery of complex data pipelines and cloud infrastructure, ingesting, processing, and serving large-scale data to our global customers . Acting as a technical leader, you will set data architecture directions and mentor peer engineers, ensuring our platform reliably scales as our datasets and product offerings expand .\n Key Responsibilities\n Design and own end-to-end data pipelines: Build, deploy, and operate production-grade data pipelines and infrastructure from initial architecture through deployment, monitoring, and maintenance .\n Deploy containerized AWS services: Develop and containerize applications within AWS using Python, Docker, Kubernetes, Airflow, and Infrastructure as Code (Terraform) .\n Ensure data integrity and event streaming: Architect robust PostgreSQL database structures and event-streaming flows (Kafka/Flink) to guarantee seamless data flow and integrity .\n Set technical direction and standards: Lead complex pipeline design, peer reviews, and logging, monitoring, and alerting frameworks to maintain pipeline resilience .\n Partner cross-func…",
+    "tags": [
+      "Engineering Maritime & Logistic",
+      "Full-time"
+    ],
+    "jobType": "Full-time",
+    "postedAt": "2026-11-23T06:26:58.000Z",
+    "scrapedAt": "2026-11-23T11:44:29.055Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-financial-flows-france-494969",
+    "externalId": "senior-data-engineer-financial-flows-france-494969",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer - Financial Flows",
+    "company": "Kpler",
+    "location": "France",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/kpler/senior-data-engineer-financial-flows-france-494969",
+    "description": "At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors.\n Since our founding in 2014, we have focused on delivering top-tier intelligence through user-friendly platforms. Our team of over 850 experts from 69 countries works tirelessly to transform intricate data into actionable strategies, ensuring our clients stay ahead in a dynamic market landscape. Join us to leverage cutting-edge innovation for impactful results and experience unparalleled support on your journey to success.\n About the Role\n As a Senior Data Engineer on the Financial Flows team, you will take full technical ownership of the end-to-end data pipelines, predictive models, and cloud infrastructure powering Kpler’s commodity finance analytics . You will lead the modernization of our data foundation, spearheading the migration of production services to AWS and re-architecting legacy calculation engines into clean, performant Python services . Operating at the crossroads of quantitative research and cloud infrastructure, your work will directly ensure that market participants receive real-time, mission-critical insights across global commodities markets .\n Key Responsibilities\n Design, build, and operate resilient batch and real-time streaming data ingestion pipelines connecting to external financial market data providers via APIs and WebSockets .\n Lead the architectural migration of legacy backend infrastructure to modern cloud-native environments on AWS, establishing high standards for system reliability and scalability .\n Drive the refactoring and rewrite of the CTA positioning indicator calculation blocks from PHP to Python, ensuring strict mathematical output parity, comprehensive test coverage, and optimized latency .\n Ingest and model complex financial datasets—including futures pricing, open inter…",
+    "tags": [
+      "Engineering Market Pricing & Transactions",
+      "Full-time"
+    ],
+    "jobType": "Full-time",
+    "postedAt": "2026-11-23T06:26:57.000Z",
+    "scrapedAt": "2026-11-23T11:44:29.055Z"
+  },
+  {
+    "id": "arbeitnow:explore-ingenieur-data-senior-senior-data-engineer-h-f-cdi-carquefou-3364",
+    "externalId": "explore-ingenieur-data-senior-senior-data-engineer-h-f-cdi-carquefou-3364",
+    "source": "arbeitnow",
+    "title": "EXPLORE - Ingénieur DATA sénior / Senior DATA Engineer (H/F) - CDI",
+    "company": "INTESCIA GROUP",
+    "location": "CARQUEFOU, Pays de la Loire, France",
+    "remote": false,
+    "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/explore-ingenieur-data-senior-senior-data-engineer-h-f-cdi-carquefou-3364",
+    "description": "Ingénieur DATA sénior / Senior DATA Engineer (H/F)\n CDI\n Rejoignez le Groupe INTESCIA, leader de la Business Intelligence en Europe !\n Qui sommes-nous ?\n EXPLORE, filiale d’INTESCIA GROUP, est un acteur leader dans le développement de solutions de data intelligence BtoB. Nous produisons des données à forte valeur ajoutée pour accompagner le développement commercial des entreprises, faciliter leurs analyses de marchés et optimiser leur connaissance clients. Nous comptons aujourd’hui plus de 1 500 clients et près de 35 000 utilisateurs dans les univers de l’Immobilier, la Construction, l’Énergie, l’Environnement et des Services à l’entreprise.\n Nos atouts ?\n Un groupe en pleine expansion, reconnu pour son expertise et ses solutions à forte valeur ajoutée.\n Une culture d’innovation, où la créativité et l’amélioration continue sont au cœur de notre ADN.\n Des équipes passionnées et engagées, évoluant dans un environnement stimulant et collaboratif.\n Votre mission :\n Vous intégrerez l'équipe Data Engineer qui joue un rôle central chez Intescia : ingérer, structurer, fiabiliser et valoriser la donnée vendue aux clients. Vous intégrerez une entreprise en pleine transformation data : migration de la donnée dans Databricks.\n En tant que Senior Data Engineer vous aurez un rôle clé dans la mise en place de cette transformation : conception et développement des pipelines de données, mise en place et diffusion des bonnes pratiques de développement et optimisation des performances.\n Un des axes majeurs de la donnée traitée par Intescia est l’axe géographique. Vous prenez le relais de notre géomaticien qui évolue vers une autre équipe : vous avez de l’appétence et de l’expérience dans le traitement de la donnée géographique.\n Vos activités :\n Construire et industrialiser les pipelines de données\n · Concevoir, développer et maintenir les pipelines d'ingestion et de transformation de données.\n · Garantir la fiabilité, la fraîcheur, la qualité et la traçabilité des données produites.…",
+    "tags": [
+      "Data & IA",
+      "Experienced",
+      "fulltime permanent"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-11-23T00:31:23.000Z",
+    "scrapedAt": "2026-11-23T11:44:29.055Z"
+  },
+  {
     "id": "arbeitnow:data-engineering-intern-amsterdam-200037",
     "externalId": "data-engineering-intern-amsterdam-200037",
     "source": "arbeitnow",
@@ -16,7 +90,7 @@
     ],
     "jobType": "Entry",
     "postedAt": "2026-11-22T09:51:50.000Z",
-    "scrapedAt": "2026-11-23T01:23:11.630Z"
+    "scrapedAt": "2026-11-23T11:44:29.055Z"
   },
   {
     "id": "remoteok:1137970",
@@ -32,7 +106,7 @@
       "devops"
     ],
     "postedAt": "2026-11-22T01:00:07.000Z",
-    "scrapedAt": "2026-11-23T01:23:12.057Z"
+    "scrapedAt": "2026-11-23T11:44:29.589Z"
   },
   {
     "id": "greenhouse:cloudflare-8395358",
@@ -48,7 +122,7 @@
       "Security"
     ],
     "postedAt": "2026-11-17T21:48:13.000Z",
-    "scrapedAt": "2026-11-23T01:23:12.066Z"
+    "scrapedAt": "2026-11-23T11:44:29.607Z"
   },
   {
     "id": "greenhouse:airbnb-8396777",
@@ -64,7 +138,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-11-17T19:22:59.000Z",
-    "scrapedAt": "2026-11-23T01:23:12.066Z"
+    "scrapedAt": "2026-11-23T11:44:29.607Z"
   },
   {
     "id": "greenhouse:block-5485151008",
@@ -80,7 +154,7 @@
       "20408 S&M - Sales - Square RevOps & Enablement"
     ],
     "postedAt": "2026-11-17T15:46:55.000Z",
-    "scrapedAt": "2026-11-23T01:23:12.066Z"
+    "scrapedAt": "2026-11-23T11:44:29.607Z"
   },
   {
     "id": "greenhouse:lyft-8940409002",
@@ -96,121 +170,6 @@
       "Marketplace"
     ],
     "postedAt": "2026-11-13T09:17:01.000Z",
-    "scrapedAt": "2026-11-23T01:23:12.066Z"
-  },
-  {
-    "id": "greenhouse:block-5473605008",
-    "externalId": "block:5473605008",
-    "source": "greenhouse",
-    "title": "Staff Data Engineer, Advanced Insights & Modeling",
-    "company": "Block",
-    "location": "Bay Area, CA, United States of America",
-    "remote": false,
-    "url": "http://block.xyz/careers/jobs/5473605008?gh_jid=5473605008",
-    "description": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.\nToday, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.\n The Role\n The Advanced Insights and Modeling (AIM) team is a high-impact, business-savvy group of builders: machine learning engineers, data scientists, data engineers, and business strategists who combine technical skills with deep product and financial expertise. We hold high standards, move fast, and own our models end to end. AIM runs on curiosity, bold thinking, and collaboration, and we keep the culture decidedly non-corporate. Teams across Block come to us when they need insight, speed, and real business impact.\n AIM sits within Block’s Foundational organization and is sponsored directly by the CFO, but our mandate runs well beyond Finance. We own most of the measurement and predictive modeling at Block: forecasting across Cash App, Square, and Afterpay, customer lifetime value, marketing incrementality and spend optimization, sales pipeline and prospect value, and actives and network-effect measurement. Finance, Marketing, Sales, Product, and Risk all plan against numbers we produce. We also own the data foundations those models run on, and corporate functions inclu…",
-    "tags": [
-      "30403 Foundational - Guidance - Corporate Finance & Strategy"
-    ],
-    "postedAt": "2026-11-12T21:53:17.000Z",
-    "scrapedAt": "2026-11-23T01:23:12.066Z"
-  },
-  {
-    "id": "remotive:2091137",
-    "externalId": "2091137",
-    "source": "remotive",
-    "title": "Senior Data Engineer",
-    "company": "Lemon.io",
-    "companyLogo": "https://remotive.com/job/2091137/logo",
-    "location": "LATAM, Europe, USA, Canada, APAC",
-    "remote": true,
-    "url": "https://remotive.com/remote-jobs/data/senior-data-engineer-2091137",
-    "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us.\n New roles for Senior React Full-stack Engineers come in all the time, and several are open right now.\n Two ways to work with clients\n Contract: most roles are contract-based. You join the client’s team and work as part of it.\n Direct hire: some clients hire engineers full-time, and we support you through the process.\n Because companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own.\n What you get\n Competitive rate, based on your seniority and skills\n We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences.\n Flexible schedule. Work async or with a small overlap with the team’s hours.\n No micromanagement, no screen trackers\n Direct work with clients, most of them with technical backgrounds\n Ongoing support from your application through every project, plus a community of engineers from 75+ countries\n Who we’re looking for\n Senior Data Engineers with:\n 4+ years of commercial experience as a Data Engineer\n Experience with Apache Airflow and Snowflake, or Python and SQL, is required\n Experience with AWS, GCP, or Microsoft Azure is mandatory\n You own problems end-to-end: you spot the issue in the data or pipeline, design and build the solution, and ship it to production.\n You can show the business impact of your work with concrete results (e.g., faster data processing, lower infrastructure costs, fresher data for stakeholders, fewer pipeline incidents).\n Advanced English: you discuss business tasks, explain your technical decisions, raise risks early, and present yourself and your results well on client calls.\n You work full-time remotely and deliver without supervision.…",
-    "tags": [
-      "Data and Analytics",
-      ".Net",
-      "android",
-      "apache",
-      "AWS",
-      "azure",
-      "C",
-      "C#",
-      "C++",
-      "data science",
-      "fullstack",
-      "golang",
-      "ios",
-      "java",
-      "javascript",
-      "magento",
-      "node.js",
-      "php",
-      "python",
-      "react",
-      "ruby/rails",
-      "scala",
-      "shopify",
-      "sql",
-      "swift",
-      "UI/UX",
-      "wordpress",
-      "blockchain",
-      "AI/ML",
-      "automation",
-      "project management",
-      "react native",
-      "rust",
-      "unity",
-      "electron",
-      "spring",
-      "data analysis",
-      "laravel",
-      "Ethereum",
-      "graphic design",
-      "Typescript ",
-      "angular ",
-      "GCP",
-      "firebase",
-      "Snowflake",
-      "Site Reliability",
-      "Symfony",
-      "next.js",
-      "infrastructure",
-      "flutter"
-    ],
-    "jobType": "full_time",
-    "postedAt": "2026-11-11T18:39:59.000Z",
-    "scrapedAt": "2026-11-23T01:23:11.394Z"
-  },
-  {
-    "id": "greenhouse:lyft-8931413002",
-    "externalId": "lyft:8931413002",
-    "source": "greenhouse",
-    "title": "Data Engineer",
-    "company": "Lyft",
-    "location": "Toronto, Canada",
-    "remote": false,
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8931413002?gh_jid=8931413002",
-    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n Lyft is looking for experienced software engineers from a scope of disciplines. We are growing our team with people who want to build, improve and incorporate technologies that make the lives of our community more enriched. As an engineer at Lyft, you'll collaborate with teams like product, data science, analytics, and operations on code that empower us to iterate quickly, while focusing on delighting our riders and drivers.\n As a Software Engineer for Lyft Ads - you will work on one of Lyft’s newest lines of business focused on building the world’s largest transportation media network. We build products that allow brands to engage with our unique audience throughout their transportation journeys and beyond. For this role we are seeking software engineers who are passionate about backend and data engineering . You will join our Ad Infra Engineering team and contribute to building the systems and pipelines powering our ad-serving, measurement and audience platform. We work on technologies that let brands engage with our unique audience throughout their transportation journeys. This role is a great opportunity for an early-career engineer to gain experience working with distributed backend systems and large-scale data workflows, collaborating closely with product, analytics, and data science teams.\n Responsibilities:\n Develop and maintain backend systems that support real-time ad serving, campaign management, and reporting.\n Design and implement scalable data models to support analytics, targeting, and measurement use cases.\n Build and maintain data pipelines that handle ingestion, transformation, and distribution of large volumes of advertising data.\n Work with orchestration frameworks (e.g., Airflow) to schedule and monitor reliable, production-grade data workflows.\n Collaborate with cross-function…",
-    "tags": [
-      "Lyft Ads"
-    ],
-    "postedAt": "2026-11-10T15:58:08.000Z",
-    "scrapedAt": "2026-11-23T01:23:12.066Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8047150",
-    "externalId": "coinbase:8047150",
-    "source": "greenhouse",
-    "title": "Staff Analytics Engineer",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8047150?gh_jid=8047150",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” Learn more about working at Coinbase .\n Finance Analytics builds Coinbase's financial data and reporting foundations so Finance, Accounting/Controllership, Treasury and FP&A can run accurate, timely and auditable operations. We sit at the intersection of data engineering, data science and business analytics: we own the source-of-truth financial datasets in Snowflake/Databricks, the pipelines that produce them, and the reconciliation, month-end close, safeguarding and reporting workflows built on top. We partner closely with Product Engineering to make sure upstream financial data is complete, reconciled and traceable.\n What you'll be doing:\n As the Staff Analytics Engineer on Finance Analytics, this person sets the technical direction for Coinbase's financial data layer and works side by side with Accounting, Controllership and FP&A. They need to understand how the books are closed, audited and controlled, not just how the data moves:\n Partner with Accounting and FP&A to support month-end and quarter-end close, building the datasets, reconciliations and reporting that let us close the books accurately and on time.\n Make financial data and pipelines audit-ready: SOX-compliant controls, lineage, change management and evidence for internal and external auditors.\n Design and own the architecture of curated, well-documented source-of-truth financial datasets in Snowflake/Databricks that are correct, consistent and tie ou…",
-    "tags": [
-      "Engineering - Data"
-    ],
-    "postedAt": "2026-10-31T02:38:15.000Z",
-    "scrapedAt": "2026-11-23T01:23:12.066Z"
+    "scrapedAt": "2026-11-23T11:44:29.607Z"
   }
 ]
