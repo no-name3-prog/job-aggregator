@@ -28,31 +28,6 @@
     ]
   },
   {
-    "company": "Block",
-    "jobCount": 5,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "Bay Area, CA, United States of America",
-      "New York, NY, United States of America"
-    ],
-    "sampleTitles": [
-      "Sales Compensation Systems & Data Engineer",
-      "Staff Data Engineer, Advanced Insights & Modeling",
-      "Senior Data Engineer, Product",
-      "Senior Analytics Engineer, AI & DX Analytics",
-      "Senior Analytics Engineer, AI & DX Analytics"
-    ],
-    "officialUrls": [
-      "http://block.xyz/careers/jobs/5485151008?gh_jid=5485151008",
-      "http://block.xyz/careers/jobs/5473605008?gh_jid=5473605008",
-      "http://block.xyz/careers/jobs/5442647008?gh_jid=5442647008",
-      "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
-      "http://block.xyz/careers/jobs/5424561008?gh_jid=5424561008"
-    ]
-  },
-  {
     "company": "Coinbase",
     "jobCount": 5,
     "sources": [
@@ -102,6 +77,29 @@
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Synthetic-Data-Engineer---Autonomous-Driving_JR2023850-1",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Gurugram/SAP-MM-PP-Master-Data-Engineer---Enterprise-Data-Management_JR2026497",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970"
+    ]
+  },
+  {
+    "company": "Block",
+    "jobCount": 4,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "Bay Area, CA, United States of America",
+      "New York, NY, United States of America"
+    ],
+    "sampleTitles": [
+      "Staff Data Engineer, Advanced Insights & Modeling",
+      "Senior Data Engineer, Product",
+      "Senior Analytics Engineer, AI & DX Analytics",
+      "Senior Analytics Engineer, AI & DX Analytics"
+    ],
+    "officialUrls": [
+      "http://block.xyz/careers/jobs/5473605008?gh_jid=5473605008",
+      "http://block.xyz/careers/jobs/5442647008?gh_jid=5442647008",
+      "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
+      "http://block.xyz/careers/jobs/5424561008?gh_jid=5424561008"
     ]
   },
   {
@@ -174,6 +172,27 @@
     ]
   },
   {
+    "company": "Pinterest",
+    "jobCount": 3,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "New York, NY, US; Remote, US",
+      "San Francisco, CA, US; Remote, US"
+    ],
+    "sampleTitles": [
+      "Staff Software Engineer, Infrastructure Data Engineering",
+      "Staff Technical Program Manager, Data Engineering",
+      "Data Analytics Engineer II"
+    ],
+    "officialUrls": [
+      "https://www.pinterestcareers.com/jobs/?gh_jid=8162539",
+      "https://www.pinterestcareers.com/jobs/?gh_jid=8209014",
+      "https://www.pinterestcareers.com/jobs/?gh_jid=8213988"
+    ]
+  },
+  {
     "company": "Brex",
     "jobCount": 2,
     "sources": [
@@ -230,44 +249,6 @@
     ]
   },
   {
-    "company": "Kpler",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "United Kingdom",
-      "France"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer",
-      "Senior Data Engineer - Financial Flows"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/kpler/senior-data-engineer-united-kingdom-208895",
-      "https://www.arbeitnow.fr/jobs/companies/kpler/senior-data-engineer-financial-flows-france-494969"
-    ]
-  },
-  {
-    "company": "Pinterest",
-    "jobCount": 2,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "New York, NY, US; Remote, US",
-      "San Francisco, CA, US; Remote, US"
-    ],
-    "sampleTitles": [
-      "Staff Software Engineer, Infrastructure Data Engineering",
-      "Staff Technical Program Manager, Data Engineering"
-    ],
-    "officialUrls": [
-      "https://www.pinterestcareers.com/jobs/?gh_jid=8162539",
-      "https://www.pinterestcareers.com/jobs/?gh_jid=8209014"
-    ]
-  },
-  {
     "company": "Airbnb",
     "jobCount": 1,
     "sources": [
@@ -281,6 +262,22 @@
     ],
     "officialUrls": [
       "https://careers.airbnb.com/positions/8396777?gh_jid=8396777"
+    ]
+  },
+  {
+    "company": "CoreWeave",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "USA"
+    ],
+    "sampleTitles": [
+      "Senior Data Platform Engineer - Weights & Biases"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/163981-senior-data-platform-engineer-weights-biases"
     ]
   },
   {
@@ -316,19 +313,19 @@
     ]
   },
   {
-    "company": "INTESCIA GROUP",
+    "company": "Kpler",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "CARQUEFOU, Pays de la Loire, France"
+      "France"
     ],
     "sampleTitles": [
-      "EXPLORE - Ingénieur DATA sénior / Senior DATA Engineer (H/F) - CDI"
+      "Senior Data Engineer - Financial Flows"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/intescia-group/explore-ingenieur-data-senior-senior-data-engineer-h-f-cdi-carquefou-3364"
+      "https://www.arbeitnow.fr/jobs/companies/kpler/senior-data-engineer-financial-flows-france-494969"
     ]
   },
   {
@@ -345,22 +342,6 @@
     ],
     "officialUrls": [
       "https://remotive.com/remote-jobs/data/senior-data-engineer-2091137"
-    ]
-  },
-  {
-    "company": "Linear",
-    "jobCount": 1,
-    "sources": [
-      "ashby"
-    ],
-    "locations": [
-      "North America"
-    ],
-    "sampleTitles": [
-      "Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
     ]
   },
   {
@@ -393,6 +374,22 @@
     ],
     "officialUrls": [
       "https://remoteOK.com/remote-jobs/remote-sr-forward-deployed-data-engineer-natera-1137970"
+    ]
+  },
+  {
+    "company": "nearform",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Unknown"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/nearform/senior-data-engineer-178033"
     ]
   },
   {
@@ -537,6 +534,38 @@
     ],
     "officialUrls": [
       "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830"
+    ]
+  },
+  {
+    "company": "wppmedia",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Associate, Data Engineering, UK"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/associate-data-engineering-uk-london-130846"
+    ]
+  },
+  {
+    "company": "Wurl",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "Canada,  USA"
+    ],
+    "sampleTitles": [
+      "Data Engineering Intern"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/163972-data-engineering-intern"
     ]
   }
 ]
