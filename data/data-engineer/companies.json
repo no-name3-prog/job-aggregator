@@ -55,6 +55,31 @@
     ]
   },
   {
+    "company": "Adobe",
+    "jobCount": 4,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "2 Locations",
+      "Bangalore",
+      "Noida",
+      "3 Locations"
+    ],
+    "sampleTitles": [
+      "Staff Security Data Engineer",
+      "Sr. Manager, Data Engineering",
+      "Data Engineer 3 -  PySpark, Databricks (Data & AI Governance)",
+      "Principal Scientist - Data Pipeline Engineer"
+    ],
+    "officialUrls": [
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Security-Data-Engineer_R171875-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Mgr--Software-Development_R172115-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Engineer-3----PySpark--Databricks--Data---AI-Governance-_R173685",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
+    ]
+  },
+  {
     "company": "Block",
     "jobCount": 4,
     "sources": [
@@ -148,28 +173,6 @@
     ]
   },
   {
-    "company": "Adobe",
-    "jobCount": 3,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "2 Locations",
-      "Bangalore",
-      "3 Locations"
-    ],
-    "sampleTitles": [
-      "Staff Security Data Engineer",
-      "Sr. Manager, Data Engineering",
-      "Principal Scientist - Data Pipeline Engineer"
-    ],
-    "officialUrls": [
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Security-Data-Engineer_R171875-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Mgr--Software-Development_R172115-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
-    ]
-  },
-  {
     "company": "Pinterest",
     "jobCount": 3,
     "sources": [
@@ -188,6 +191,24 @@
       "https://www.pinterestcareers.com/jobs/?gh_jid=8162539",
       "https://www.pinterestcareers.com/jobs/?gh_jid=8209014",
       "https://www.pinterestcareers.com/jobs/?gh_jid=8213988"
+    ]
+  },
+  {
+    "company": "Belmont Lavan Ltd",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Amsterdam, Netherlands"
+    ],
+    "sampleTitles": [
+      "Mainframe Data Engineer - 3 to 6 Months Contract",
+      "Data Engineer - 3 Months Contract"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.nl/jobs/companies/belmont-lavan-ltd/mainframe-data-engineer-3-to-6-months-contract-amsterdam-446165",
+      "https://www.arbeitnow.nl/jobs/companies/belmont-lavan-ltd/data-engineer-3-months-contract-amsterdam-59061"
     ]
   },
   {
@@ -279,6 +300,22 @@
     ]
   },
   {
+    "company": "Dymatrix",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Stuttgart"
+    ],
+    "sampleTitles": [
+      "Junior Inhouse Consultant Data Engineering (all genders)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/dymatrix/junior-inhouse-consultant-data-engineering-all-genders-stuttgart-113292"
+    ]
+  },
+  {
     "company": "Figma",
     "jobCount": 1,
     "sources": [
@@ -327,22 +364,6 @@
     ]
   },
   {
-    "company": "Metyis AG",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Amsterdam, Noord-Holland, Netherlands"
-    ],
-    "sampleTitles": [
-      "Data Engineering Intern"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.nl/jobs/companies/metyis-ag/data-engineering-intern-amsterdam-200037"
-    ]
-  },
-  {
     "company": "Natera",
     "jobCount": 1,
     "sources": [
@@ -359,6 +380,22 @@
     ]
   },
   {
+    "company": "Nebius",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "Europe,  Israel"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/164169-senior-data-engineer-10"
+    ]
+  },
+  {
     "company": "Notion",
     "jobCount": 1,
     "sources": [
@@ -372,22 +409,6 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/notion/73a71747-28d3-4dda-a718-77336056e687"
-    ]
-  },
-  {
-    "company": "PerfectServe",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "USA"
-    ],
-    "sampleTitles": [
-      "Staff Data Engineer - US Remote"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/156760-staff-data-engineer-us-remote"
     ]
   },
   {
@@ -471,6 +492,22 @@
     ]
   },
   {
+    "company": "Talk360",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Amsterdam, Noord-Holland, Netherlands"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.nl/jobs/companies/talk360/analytics-engineer-amsterdam-343474"
+    ]
+  },
+  {
     "company": "Twilio",
     "jobCount": 1,
     "sources": [
@@ -487,35 +524,19 @@
     ]
   },
   {
-    "company": "TYTAN Technologies GmbH",
+    "company": "Walker Sands",
     "jobCount": 1,
     "sources": [
-      "arbeitnow"
+      "jobicy"
     ],
     "locations": [
-      "Munich, Bayern, Germany"
+      "USA"
     ],
     "sampleTitles": [
-      "Working Student – Data Engineering & MLOps (m/f/d)"
+      "Lead Data Engineer"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/working-student-data-engineering-mlops-munich-264532"
-    ]
-  },
-  {
-    "company": "Vitestro",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Utrecht, Utrecht, Netherlands"
-    ],
-    "sampleTitles": [
-      "Master Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.nl/jobs/companies/vitestro/master-data-engineer-utrecht-309006"
+      "https://jobicy.com/jobs/164157-lead-data-engineer-2"
     ]
   },
   {
