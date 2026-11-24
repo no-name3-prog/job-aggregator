@@ -1,73 +1,60 @@
 [
   {
-    "id": "arbeitnow:associate-data-engineering-uk-london-130846",
-    "externalId": "associate-data-engineering-uk-london-130846",
+    "id": "arbeitnow:data-engineer-h-f-lyon-376194",
+    "externalId": "data-engineer-h-f-lyon-376194",
     "source": "arbeitnow",
-    "title": "Associate, Data Engineering, UK",
-    "company": "wppmedia",
-    "location": "London",
+    "title": "DATA ENGINEER - H/F - LYON",
+    "company": "AVISIA",
+    "location": "LYON, Auvergne-Rhône-Alpes, France",
     "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/associate-data-engineering-uk-london-130846",
-    "description": "<div class=\"content-intro\"><p><strong>About WPP Media</strong></p>\n<p>WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigate change, capture opportunity, and deliver transformational growth. </p>\n<p>WPP Media is WPP's AI-driven media operating unit, bringing together media, data, and partnerships to deliver creative personalisation at scale. Connected through WPP Open and powered by Open Intelligence, clients see exactly where, how, and why their media investment is working.</p>\n<p>For more information, visit <a href=\"wppmedia.com\">wppmedia.com</a>.</p></div><p><strong>3777 - Associate, Data Engineering, UK</strong></p>\n<p><strong>Role Summary and Impact</strong></p>\n<p>DTA is WPP’s global data products and technology arm. We’re on a mission to transform marketing by building the fastest, most connected data platform that bridges marketing strategy to scaled activation.</p>\n<p>We work with agencies and clients to transform the value of data by bringing together technology, data and analytics capabilities. We deliver this through the Open Media Studio, an AI-enabled media and data platform for the next era of advertising.</p>\n<p>We’re endlessly curious. Our team of thinkers, builders, creators and problem solvers are over 1,000 strong, across 20 markets around the world.</p>\n<p>&nbsp;As <strong>Associate, Data Engineering</strong><strong> </strong>you will be joining the WPP Media BI and Data Management team.</p>\n<p>You will work with the Measure data platform – a unified system for data connection, ingestion, transformation, and reporting – built on a robust technology stack including Adverity, GCP, and PowerBI. In this role, you will support client projects that aggregate diverse data sources into a single, unified view, helping to ensure data integrity and consistency to enab…",
+    "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-engineer-h-f-lyon-376194",
+    "description": "Intégré(e) au sein de la practice Data Engineering à Lyon, vous intervenez sur des projets à fort enjeu pour nos clients de la région Auvergne-Rhône-Alpes :\n Architecture et ingestion : concevoir, développer et maintenir des pipelines de données robustes et scalables (batch et temps réel).\n Modern Data Stack : déployer et administrer des environnements Cloud (GCP, AWS ou Azure) et des entrepôts de données modernes (Snowflake, BigQuery, Databricks).\n Transformation et qualité : modéliser les données, automatiser les flux (dbt, Airflow) et garantir la gouvernance, la sécurité et la fiabilité des livrables.\n Conseil et transmission : accompagner les équipes métiers et techniques de nos clients, animer des ateliers et contribuer aux communautés internes AVISIA (veille, retours d'expérience, R&D).\n Formation : diplômé(e) d'une école d'ingénieurs ou d'un Master 2 en informatique / Data.\n Expérience : vous justifiez d'au moins 2 ans d'expérience en Data Engineering (les profils confirmés et seniors sont également les bienvenus).\n Stack technique :\n Maîtrise de Python et SQL .\n Expérience significative sur au moins un environnement Cloud ( GCP , AWS ou Azure ).\n Connaissance des outils d'orchestration et de transformation ( Airflow , dbt , Spark ).\n Sensibilité aux bonnes pratiques CI/CD , Git , Docker et Infrastructure as Code (Terraform).\n Savoir être : curiosité technique, esprit d'équipe, sens du service et capacité à vulgariser des sujets complexes auprès d'interlocuteurs variés.\n Find Jobs in France on Arbeitnow",
     "tags": [
-      "Technology & Data"
+      "Data",
+      "Mid",
+      "fulltime permanent"
     ],
-    "postedAt": "2026-11-23T18:55:29.000Z",
-    "scrapedAt": "2026-11-23T23:20:02.068Z"
+    "jobType": "Mid",
+    "postedAt": "2026-11-24T06:31:25.000Z",
+    "scrapedAt": "2026-11-24T08:10:57.493Z"
   },
   {
-    "id": "jobicy:163981",
-    "externalId": "163981",
+    "id": "arbeitnow:working-student-data-engineering-mlops-munich-264532",
+    "externalId": "working-student-data-engineering-mlops-munich-264532",
+    "source": "arbeitnow",
+    "title": "Working Student – Data Engineering & MLOps (m/f/d)",
+    "company": "TYTAN Technologies GmbH",
+    "location": "Munich, Bayern, Germany",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/working-student-data-engineering-mlops-munich-264532",
+    "description": "The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything we do, and we're looking for people who are driven by ownership, embrace challenges, and are energized by meaningful work. If you're motivated by impact and thrive in dynamic environments, you'll fit right in.\n At TYTAN , we aim to set a global standard in autonomous air defense with AI-driven, cost-efficient systems that counter unmanned aerial threats at scale. We protect people. We protect critical infrastructure. We protect European sovereignty.\n We are looking for a working student who wants hands-on experience with real data infrastructure. Your developments will enable engineers to get valuable insights from the product operations in a way which is efficient, scalable and reliable. You can expect a lot of ambitious prototyping, participation in system design rounds and hands-on flight testing operations.\n Your roadmap to make an impact Build and test the tooling that creates, collects and aggregates our data, working alongside engineers in a small, hands-on team\n Develop and test pipelines for data creation, collection and aggregation, from devices in the field to storage\n Write Python tools for ingesting, validating, converting and processing sensor data, logs and video\n Improve and automate our DataOps workflows: data versioning, quality checks, metadata and dataset management\n Containerize tools with Docker and help run them reliably on Linux hosts and edge devices\n Support MLOps tasks such as preparing training datasets, tracking experiments and automating evaluation runs\n Write tests and documentation so your tools can be used and maintained by the whole team\n Currently enrolled in a bachelor’s or master’s programme in Computer Science, Data Science, Electrical Engineering or a related field\n Solid Python skills: yo…",
+    "tags": [
+      "Engineering",
+      "Student college",
+      "parttime fixed term"
+    ],
+    "jobType": "Student college",
+    "postedAt": "2026-11-24T06:31:23.000Z",
+    "scrapedAt": "2026-11-24T08:10:57.493Z"
+  },
+  {
+    "id": "jobicy:156760",
+    "externalId": "156760",
     "source": "jobicy",
-    "title": "Senior Data Platform Engineer - Weights & Biases",
-    "company": "CoreWeave",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/8084e46e-221.png",
+    "title": "Staff Data Engineer - US Remote",
+    "company": "PerfectServe",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2022/04/7e6f5669fc8c9ea0aa484ce7c3058599.jpg",
     "location": "USA",
     "remote": true,
-    "url": "https://jobicy.com/jobs/163981-senior-data-platform-engineer-weights-biases",
-    "description": "CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave combines superior infrastructure performance with deep technical expertise to accelerate breakthroughs and turn compute into capability. Founded in 2017, CoreWeave became a publicly traded company (Nasdaq: CRWV) in March 2025. Learn more at www.coreweave.com .\n Weights & Biases at CoreWeave\n CoreWeave acquired Weights & Biases to create the most powerful end-to-end platform to develop, deploy, and iterate AI faster. CoreWeave operates a growing footprint of data centers covering every region of the US and across Europe, and was ranked as one of the TIME100 most influential companies of 2024. By bringing together CoreWeave’s industry-leading cloud infrastructure with the best-in-class tools AI practitioners know and love from Weights & Biases, we’re setting a new standard for how AI is built, trained, and scaled.\n The integration of our teams and technologies is accelerating our shared mission: to empower developers with the tools and infrastructure they need to push the boundaries of what AI can do. From experiment tracking and model optimization to high-performance training clusters, agent building, and inference at scale, we’re combining forces to serve the full AI lifecycle — all in one seamless platform.\n Weights & Biases has long been trusted by over 1,500 organizations — including AstraZeneca, Canva, Cohere, OpenAI, Meta, Snowflake, Square, Toyota, and Wayve — to build better models, AI agents and applications. Now, as part of CoreWeave, that impact is amplified across a broader ecosystem of AI innovators, researchers, and enterprises.\n As we unite under one vision, we’re looking for bold thinkers and agile builders who are excited to shape the future of AI alongside us. If you’re passionate a…",
-    "tags": [
-      "Software Engineering",
-      "Senior"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-11-23T17:53:03.000Z",
-    "scrapedAt": "2026-11-23T23:20:02.173Z"
-  },
-  {
-    "id": "jobicy:163972",
-    "externalId": "163972",
-    "source": "jobicy",
-    "title": "Data Engineering Intern",
-    "company": "Wurl",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/11/64fbf796b5d3-221.webp",
-    "location": "Canada,  USA",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/163972-data-engineering-intern",
-    "description": "About Wurl , LLC.\n At Wurl, our mission is to create innovative technologies and services that help accelerate the shift to streaming. At our core, we are innovators focused on driving the streaming industry forward with technologies that help connect viewers to the right content and ads. Our technology and data-driven solutions help companies reach new audiences, engage high-value viewers, and ultimately increase their revenue.\n In 2022, Wurl was acquired by AppLovin (Nasdaq: APP), a leading marketing platform, giving our employees the best of both worlds: the dynamic environment of a 150+ person startup as well as the stability of a high-growth public tech company. We invest in providing a culture that fosters passion, drives excellence, and encourages collaboration to drive innovation. Wurl is a fully-remote company that has been globally recognized for our people and technology, having been named a Great Place to Work by Fortune in 2022, 2023, and 2024; an Ad Tech Company of the Year finalist by the UK Business Tech Awards in 2023; a BIG Innovation Awards winner in 2024 and 2025; and the “Innovation in Advertising” winner by the StreamTV Awards in 2024.\n We’re looking for a Data Engineering Intern to assist in enhancing the quality and reliability of our data collection platform. This role will provide hands-on experience in data engineering, security operations, and cloud infrastructure, with guidance from experienced engineers and cross-functional teams.\n What You’ll Do\n Review and validate ETL processes for completeness and data consistency.\n Improve our data-consistency validation processes by migrating legacy and semi-manual validation processes to our new framework.\n Assist in developing monitoring and alerting systems for data consistency and configuration integrity.\n Work with the data team to analyze, streamline, automate, and improve ETL processes, including ingestion of new data sources. In particular, you’ll focus on improving the automation of our…",
+    "url": "https://jobicy.com/jobs/156760-staff-data-engineer-us-remote",
+    "description": "What is PerfectServe?\n PerfectServe is a leading provider of clinical communication and physician scheduling solutions in the health IT space. The company was founded in 1997 and has grown steadily since then, with a notable jump after several major acquisitions were announced in 2019. PerfectServe now has 400+ employees, 30,000+ customers — spanning medical practices, hospitals, and health systems — and $100 million+ in annual revenue.\n PerfectServe’s mission is to accelerate speed to care by optimizing provider schedules and routing communications — including messages, pages, calls, and alerts — to the right place at the right time in any care setting. By facilitating real-time information sharing, building better schedules, and automating important clinical workflows, we believe we can help our customers advance patient care and improve the well-being of their clinicians.\n Leading analyst firms like Gartner® and KLAS Research have consistently validated our approach:\n In 2026, PerfectServe was named highest in execution and furthest in vision in the Gartner Magic Quadrant™ for Clinical Communication and Collaboration — the clear segment leader.\n PerfectServe also received two Best in KLAS awards in 2026 — one for physician scheduling and another for ambulatory clinical communications. That makes for 11 Best in KLAS awards over the past 9 years.\n At PerfectServe, you'll have a unique opportunity to join a collaborative team with decades of experience that finds new ways to delight our customers every day. This involves consistent efforts to stay on the cutting edge of product development, which includes everything from implementing AI in new and existing solutions to brainstorming with customers about novel workflows. But you don't have to be in product to make in impact — everybody at PerfectServe contributes to important work that moves the business forward.\n If you're looking for a well-established, tech-forward company full of smart people doing meaningful wo…",
     "tags": [
       "Data Science & Analytics",
       "Senior"
     ],
-    "jobType": "Internship",
-    "postedAt": "2026-11-23T17:26:19.000Z",
-    "scrapedAt": "2026-11-23T23:20:02.173Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-178033",
-    "externalId": "senior-data-engineer-178033",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer",
-    "company": "nearform",
-    "location": "Unknown",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/nearform/senior-data-engineer-178033",
-    "description": "<p><em>This is a permanent full-time opportunity for those based in the UK.&nbsp;</em></p>\n<p><strong>About Nearform<br></strong>Nearform is an independent team of data &amp; AI experts, engineers, and designers who build intelligent digital solutions and capability at pace. We create AI-enabled solutions that enhance digital experiences, empower developers, and deliver measurable results. In these ways, we partner with ambitious enterprises to deliver enduring impact.</p>\n<p>Our deep expertise in solving the world’s most complex digital problems, along with our collaborative, people-first approach, enables enterprises to build breakthrough products and modernise legacy systems by unleashing the power of AI.</p>\n<p>Today, our team of 500 experts in 20+ countries is trusted by leading enterprises including Lululemon, Puma, Sun Life, Starbucks, Travelex, Virgin Media 02, and Walmart.&nbsp;&nbsp;</p>\n<p>As part of our Engineering function, you will work closely with clients to translate complex business requirements into innovative digital products.&nbsp;Whether you are a Senior Engineer, Tech Lead, or DevOps Engineer, you will collaborate with distributed teams, leveraging cutting-edge technologies to build secure, high-performance applications. Our Nearform engineers are known for building high quality, scalable solutions that solve real world problems.</p>\n<p>&nbsp;</p>\n<p><strong>About the Senior Data Engineer role</strong></p>\n<p>As a Senior Data Engineer at Nearform your main task will be designing, building, and maintaining scalable data platforms, pipelines, and warehouses using SQL, Python, Spark, and other relevant technologies. You will play a key role in building efficient data solutions, optimizing performance, and ensuring seamless data integration. However as you’ll likely work on a variety of projects your responsibilities may also include:</p>\n<ul>\n<li>Designing, building, and optimizing data pipelines and ETL processes for large-scale data ingestion…",
-    "tags": [
-      "Software Development"
-    ],
-    "postedAt": "2026-11-23T15:55:26.000Z",
-    "scrapedAt": "2026-11-23T23:20:02.068Z"
+    "jobType": "Full-Time",
+    "postedAt": "2026-11-24T04:30:43.000Z",
+    "scrapedAt": "2026-11-24T08:10:57.568Z"
   },
   {
     "id": "arbeitnow:master-data-engineer-utrecht-309006",
@@ -86,25 +73,7 @@
     ],
     "jobType": "Mid",
     "postedAt": "2026-11-23T06:31:42.000Z",
-    "scrapedAt": "2026-11-23T23:20:02.068Z"
-  },
-  {
-    "id": "arbeitnow:senior-data-engineer-financial-flows-france-494969",
-    "externalId": "senior-data-engineer-financial-flows-france-494969",
-    "source": "arbeitnow",
-    "title": "Senior Data Engineer - Financial Flows",
-    "company": "Kpler",
-    "location": "France",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/kpler/senior-data-engineer-financial-flows-france-494969",
-    "description": "At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors.\n Since our founding in 2014, we have focused on delivering top-tier intelligence through user-friendly platforms. Our team of over 850 experts from 69 countries works tirelessly to transform intricate data into actionable strategies, ensuring our clients stay ahead in a dynamic market landscape. Join us to leverage cutting-edge innovation for impactful results and experience unparalleled support on your journey to success.\n About the Role\n As a Senior Data Engineer on the Financial Flows team, you will take full technical ownership of the end-to-end data pipelines, predictive models, and cloud infrastructure powering Kpler’s commodity finance analytics . You will lead the modernization of our data foundation, spearheading the migration of production services to AWS and re-architecting legacy calculation engines into clean, performant Python services . Operating at the crossroads of quantitative research and cloud infrastructure, your work will directly ensure that market participants receive real-time, mission-critical insights across global commodities markets .\n Key Responsibilities\n Design, build, and operate resilient batch and real-time streaming data ingestion pipelines connecting to external financial market data providers via APIs and WebSockets .\n Lead the architectural migration of legacy backend infrastructure to modern cloud-native environments on AWS, establishing high standards for system reliability and scalability .\n Drive the refactoring and rewrite of the CTA positioning indicator calculation blocks from PHP to Python, ensuring strict mathematical output parity, comprehensive test coverage, and optimized latency .\n Ingest and model complex financial datasets—including futures pricing, open inter…",
-    "tags": [
-      "Engineering Market Pricing & Transactions",
-      "Full-time"
-    ],
-    "jobType": "Full-time",
-    "postedAt": "2026-11-23T06:26:57.000Z",
-    "scrapedAt": "2026-11-23T23:20:02.068Z"
+    "scrapedAt": "2026-11-24T08:10:57.493Z"
   },
   {
     "id": "arbeitnow:data-engineering-intern-amsterdam-200037",
@@ -123,7 +92,7 @@
     ],
     "jobType": "Entry",
     "postedAt": "2026-11-22T09:51:50.000Z",
-    "scrapedAt": "2026-11-23T23:20:02.068Z"
+    "scrapedAt": "2026-11-24T08:10:57.493Z"
   },
   {
     "id": "remoteok:1137970",
@@ -139,7 +108,7 @@
       "devops"
     ],
     "postedAt": "2026-11-22T01:00:07.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.218Z"
+    "scrapedAt": "2026-11-24T08:10:57.960Z"
   },
   {
     "id": "greenhouse:cloudflare-8395358",
@@ -155,7 +124,7 @@
       "Security"
     ],
     "postedAt": "2026-11-17T21:48:13.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:airbnb-8396777",
@@ -171,7 +140,7 @@
       "Engineering & Technology"
     ],
     "postedAt": "2026-11-17T19:22:59.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:lyft-8940409002",
@@ -187,7 +156,7 @@
       "Marketplace"
     ],
     "postedAt": "2026-11-13T09:17:01.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:block-5473605008",
@@ -203,7 +172,7 @@
       "30403 Foundational - Guidance - Corporate Finance & Strategy"
     ],
     "postedAt": "2026-11-12T21:53:17.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "remotive:2091137",
@@ -270,7 +239,7 @@
     ],
     "jobType": "full_time",
     "postedAt": "2026-11-11T18:39:59.000Z",
-    "scrapedAt": "2026-11-23T23:20:01.935Z"
+    "scrapedAt": "2026-11-24T08:10:57.388Z"
   },
   {
     "id": "greenhouse:lyft-8931413002",
@@ -286,23 +255,7 @@
       "Lyft Ads"
     ],
     "postedAt": "2026-11-10T15:58:08.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
-  },
-  {
-    "id": "greenhouse:coinbase-8047150",
-    "externalId": "coinbase:8047150",
-    "source": "greenhouse",
-    "title": "Staff Analytics Engineer",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "remote": true,
-    "url": "https://www.coinbase.com/careers/positions/8047150?gh_jid=8047150",
-    "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” Learn more about working at Coinbase .\n Finance Analytics builds Coinbase's financial data and reporting foundations so Finance, Accounting/Controllership, Treasury and FP&A can run accurate, timely and auditable operations. We sit at the intersection of data engineering, data science and business analytics: we own the source-of-truth financial datasets in Snowflake/Databricks, the pipelines that produce them, and the reconciliation, month-end close, safeguarding and reporting workflows built on top. We partner closely with Product Engineering to make sure upstream financial data is complete, reconciled and traceable.\n What you'll be doing:\n As the Staff Analytics Engineer on Finance Analytics, this person sets the technical direction for Coinbase's financial data layer and works side by side with Accounting, Controllership and FP&A. They need to understand how the books are closed, audited and controlled, not just how the data moves:\n Partner with Accounting and FP&A to support month-end and quarter-end close, building the datasets, reconciliations and reporting that let us close the books accurately and on time.\n Make financial data and pipelines audit-ready: SOX-compliant controls, lineage, change management and evidence for internal and external auditors.\n Design and own the architecture of curated, well-documented source-of-truth financial datasets in Snowflake/Databricks that are correct, consistent and tie ou…",
-    "tags": [
-      "Engineering - Data"
-    ],
-    "postedAt": "2026-10-31T02:38:15.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "ashby:notion-73a71747-28d3-4dda-a718-77336056e687",
@@ -320,7 +273,7 @@
     ],
     "jobType": "FullTime",
     "postedAt": "2026-10-28T18:42:47.956Z",
-    "scrapedAt": "2026-11-23T23:22:57.195Z"
+    "scrapedAt": "2026-11-24T08:13:50.546Z"
   },
   {
     "id": "greenhouse:anthropic-5462966008",
@@ -336,7 +289,7 @@
       "Security"
     ],
     "postedAt": "2026-10-26T22:47:43.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:pinterest-8162539",
@@ -352,7 +305,7 @@
       "Infrastructure and SRE"
     ],
     "postedAt": "2026-10-19T18:20:35.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:reddit-8282760",
@@ -368,7 +321,7 @@
       "Data Science"
     ],
     "postedAt": "2026-10-14T22:03:16.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:gitlab-8883003002",
@@ -384,7 +337,7 @@
       "Data"
     ],
     "postedAt": "2026-10-13T14:52:13.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:anthropic-5450099008",
@@ -400,7 +353,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-12T19:03:03.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:anthropic-5448481008",
@@ -416,7 +369,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-10-09T17:00:40.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:block-5442647008",
@@ -432,7 +385,7 @@
       "10418 Engineering - Data & Data Science"
     ],
     "postedAt": "2026-10-08T21:28:47.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:block-5434325008",
@@ -448,7 +401,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-24T17:40:25.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:figma-6178851004",
@@ -464,7 +417,7 @@
       "Early Career"
     ],
     "postedAt": "2026-09-23T19:30:27.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:pinterest-8209014",
@@ -480,7 +433,7 @@
       "Oversight Engineering"
     ],
     "postedAt": "2026-09-23T18:04:05.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:pinterest-8213988",
@@ -496,7 +449,7 @@
       "Consumer Engineering"
     ],
     "postedAt": "2026-09-19T00:32:32.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:block-5424561008",
@@ -512,7 +465,7 @@
       "10410 Engineering - Developer Experience"
     ],
     "postedAt": "2026-09-17T16:08:50.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:anthropic-5424111008",
@@ -528,7 +481,7 @@
       "People"
     ],
     "postedAt": "2026-09-15T01:14:53.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:lyft-8797376002",
@@ -544,7 +497,7 @@
       "Early Talent"
     ],
     "postedAt": "2026-09-11T16:48:58.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:anthropic-5418610008",
@@ -560,7 +513,7 @@
       "Data Science & Analytics"
     ],
     "postedAt": "2026-09-09T02:30:44.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:coinbase-8175471",
@@ -576,7 +529,7 @@
       "Internships & Emerging Talent Positions"
     ],
     "postedAt": "2026-09-08T22:20:56.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:coinbase-8180833",
@@ -592,7 +545,7 @@
       "Engineering - Data"
     ],
     "postedAt": "2026-09-04T21:31:02.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:coinbase-8144836",
@@ -608,7 +561,7 @@
       "Engineering"
     ],
     "postedAt": "2026-08-20T21:05:21.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "lever:spotify-204f6cd7-98a3-4360-87e3-8876adf087da",
@@ -628,7 +581,7 @@
     ],
     "jobType": "Permanent",
     "postedAt": "2026-08-12T15:06:09.753Z",
-    "scrapedAt": "2026-11-23T23:22:55.662Z"
+    "scrapedAt": "2026-11-24T08:13:49.204Z"
   },
   {
     "id": "greenhouse:discord-8691572002",
@@ -644,7 +597,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-08-10T17:56:48.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:stripe-8112043",
@@ -660,7 +613,7 @@
       "8122 Data Foundations"
     ],
     "postedAt": "2026-08-06T14:27:44.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:lyft-8662205002",
@@ -676,7 +629,7 @@
       "SCC Tech"
     ],
     "postedAt": "2026-08-06T00:02:08.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:twilio-8044650",
@@ -692,7 +645,7 @@
       "Ops (Fraud, Compliance, Biz, Prod, Analyst)"
     ],
     "postedAt": "2026-07-28T16:12:27.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:coinbase-8082199",
@@ -708,7 +661,7 @@
       "Engineering - Backend"
     ],
     "postedAt": "2026-07-24T19:33:43.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:cloudflare-8055118",
@@ -724,7 +677,7 @@
       "Business Intelligence"
     ],
     "postedAt": "2026-07-14T14:54:05.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:scaleai-4713597005",
@@ -740,7 +693,7 @@
       "Data, Technology & Systems"
     ],
     "postedAt": "2026-07-11T02:29:10.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:brex-8523806002",
@@ -756,7 +709,7 @@
       "Finance"
     ],
     "postedAt": "2026-04-24T20:47:23.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:brex-8366850002",
@@ -772,7 +725,7 @@
       "Finance"
     ],
     "postedAt": "2026-01-08T22:13:05.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:discord-8299493002",
@@ -788,7 +741,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2025-11-19T18:20:53.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:anthropic-4973067008",
@@ -804,7 +757,7 @@
       "AI Research & Engineering"
     ],
     "postedAt": "2025-11-03T20:48:18.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "greenhouse:robinhood-5616144",
@@ -820,7 +773,7 @@
       "ENG Data Science"
     ],
     "postedAt": "2024-01-23T00:26:13.000Z",
-    "scrapedAt": "2026-11-23T23:20:03.229Z"
+    "scrapedAt": "2026-11-24T08:10:57.972Z"
   },
   {
     "id": "workday:workday-JR-0107830",
@@ -836,7 +789,7 @@
       "Flex"
     ],
     "postedAt": null,
-    "scrapedAt": "2026-11-23T23:20:10.591Z"
+    "scrapedAt": "2026-11-24T08:11:04.504Z"
   },
   {
     "id": "workday:nvidia-JR2028588",
@@ -850,7 +803,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-23T23:20:10.591Z"
+    "scrapedAt": "2026-11-24T08:11:04.504Z"
   },
   {
     "id": "workday:nvidia-JR2028539",
@@ -864,7 +817,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-23T23:20:10.591Z"
+    "scrapedAt": "2026-11-24T08:11:04.504Z"
   },
   {
     "id": "workday:nvidia-JR2023850",
@@ -878,7 +831,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-23T23:20:10.591Z"
+    "scrapedAt": "2026-11-24T08:11:04.504Z"
   },
   {
     "id": "workday:nvidia-JR2026497",
@@ -892,7 +845,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-23T23:20:10.591Z"
+    "scrapedAt": "2026-11-24T08:11:04.504Z"
   },
   {
     "id": "workday:nvidia-JR2022970",
@@ -906,7 +859,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-23T23:20:10.591Z"
+    "scrapedAt": "2026-11-24T08:11:04.504Z"
   },
   {
     "id": "workday:adobe-R171875",
@@ -920,7 +873,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-23T23:20:10.591Z"
+    "scrapedAt": "2026-11-24T08:11:04.504Z"
   },
   {
     "id": "workday:adobe-R172115",
@@ -934,7 +887,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-23T23:20:10.591Z"
+    "scrapedAt": "2026-11-24T08:11:04.504Z"
   },
   {
     "id": "workday:adobe-R170588",
@@ -948,7 +901,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-23T23:20:10.591Z"
+    "scrapedAt": "2026-11-24T08:11:04.504Z"
   },
   {
     "id": "workday:salesforce-JR366234",
@@ -962,7 +915,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-23T23:21:12.691Z"
+    "scrapedAt": "2026-11-24T08:12:07.240Z"
   },
   {
     "id": "workday:salesforce-JR363793",
@@ -976,7 +929,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-23T23:21:12.691Z"
+    "scrapedAt": "2026-11-24T08:12:07.240Z"
   },
   {
     "id": "workday:salesforce-JR336657",
@@ -990,7 +943,7 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-23T23:21:12.691Z"
+    "scrapedAt": "2026-11-24T08:12:07.240Z"
   },
   {
     "id": "workday:salesforce-JR359930",
@@ -1004,6 +957,6 @@
     "description": "",
     "tags": [],
     "postedAt": null,
-    "scrapedAt": "2026-11-23T23:21:43.550Z"
+    "scrapedAt": "2026-11-24T08:12:38.246Z"
   }
 ]

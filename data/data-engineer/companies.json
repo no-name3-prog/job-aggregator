@@ -28,31 +28,6 @@
     ]
   },
   {
-    "company": "Coinbase",
-    "jobCount": 5,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "Remote - USA",
-      "Hybrid - New York, NY"
-    ],
-    "sampleTitles": [
-      "Staff Analytics Engineer",
-      "Analytics Engineer Intern",
-      "Senior Market Data Engineer",
-      "Staff Data Engineer, Market Data",
-      "Senior Software Engineer, Data Engineering Platform"
-    ],
-    "officialUrls": [
-      "https://www.coinbase.com/careers/positions/8047150?gh_jid=8047150",
-      "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
-      "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
-      "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
-      "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199"
-    ]
-  },
-  {
     "company": "NVIDIA",
     "jobCount": 5,
     "sources": [
@@ -100,6 +75,29 @@
       "http://block.xyz/careers/jobs/5442647008?gh_jid=5442647008",
       "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
       "http://block.xyz/careers/jobs/5424561008?gh_jid=5424561008"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "jobCount": 4,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "Hybrid - New York, NY",
+      "Remote - USA"
+    ],
+    "sampleTitles": [
+      "Analytics Engineer Intern",
+      "Senior Market Data Engineer",
+      "Staff Data Engineer, Market Data",
+      "Senior Software Engineer, Data Engineering Platform"
+    ],
+    "officialUrls": [
+      "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
+      "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
+      "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
+      "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199"
     ]
   },
   {
@@ -265,19 +263,19 @@
     ]
   },
   {
-    "company": "CoreWeave",
+    "company": "AVISIA",
     "jobCount": 1,
     "sources": [
-      "jobicy"
+      "arbeitnow"
     ],
     "locations": [
-      "USA"
+      "LYON, Auvergne-Rhône-Alpes, France"
     ],
     "sampleTitles": [
-      "Senior Data Platform Engineer - Weights & Biases"
+      "DATA ENGINEER - H/F - LYON"
     ],
     "officialUrls": [
-      "https://jobicy.com/jobs/163981-senior-data-platform-engineer-weights-biases"
+      "https://www.arbeitnow.fr/jobs/companies/avisia/data-engineer-h-f-lyon-376194"
     ]
   },
   {
@@ -310,22 +308,6 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/gitlab/jobs/8883003002"
-    ]
-  },
-  {
-    "company": "Kpler",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "France"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer - Financial Flows"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/kpler/senior-data-engineer-financial-flows-france-494969"
     ]
   },
   {
@@ -377,22 +359,6 @@
     ]
   },
   {
-    "company": "nearform",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Unknown"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/nearform/senior-data-engineer-178033"
-    ]
-  },
-  {
     "company": "Notion",
     "jobCount": 1,
     "sources": [
@@ -406,6 +372,22 @@
     ],
     "officialUrls": [
       "https://jobs.ashbyhq.com/notion/73a71747-28d3-4dda-a718-77336056e687"
+    ]
+  },
+  {
+    "company": "PerfectServe",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "USA"
+    ],
+    "sampleTitles": [
+      "Staff Data Engineer - US Remote"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/156760-staff-data-engineer-us-remote"
     ]
   },
   {
@@ -505,6 +487,22 @@
     ]
   },
   {
+    "company": "TYTAN Technologies GmbH",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Munich, Bayern, Germany"
+    ],
+    "sampleTitles": [
+      "Working Student – Data Engineering & MLOps (m/f/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/working-student-data-engineering-mlops-munich-264532"
+    ]
+  },
+  {
     "company": "Vitestro",
     "jobCount": 1,
     "sources": [
@@ -534,38 +532,6 @@
     ],
     "officialUrls": [
       "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830"
-    ]
-  },
-  {
-    "company": "wppmedia",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "London"
-    ],
-    "sampleTitles": [
-      "Associate, Data Engineering, UK"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/associate-data-engineering-uk-london-130846"
-    ]
-  },
-  {
-    "company": "Wurl",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "Canada,  USA"
-    ],
-    "sampleTitles": [
-      "Data Engineering Intern"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/163972-data-engineering-intern"
     ]
   }
 ]
