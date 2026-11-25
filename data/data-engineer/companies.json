@@ -28,6 +28,33 @@
     ]
   },
   {
+    "company": "Adobe",
+    "jobCount": 5,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "2 Locations",
+      "Bangalore",
+      "Noida",
+      "3 Locations"
+    ],
+    "sampleTitles": [
+      "Data Engineer",
+      "Staff Security Data Engineer",
+      "Sr. Manager, Data Engineering",
+      "Data Engineer 3 -  PySpark, Databricks (Data & AI Governance)",
+      "Principal Scientist - Data Pipeline Engineer"
+    ],
+    "officialUrls": [
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-Engineer_R173786-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Security-Data-Engineer_R171875-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Mgr--Software-Development_R172115-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Engineer-3----PySpark--Databricks--Data---AI-Governance-_R173685",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
+    ]
+  },
+  {
     "company": "NVIDIA",
     "jobCount": 5,
     "sources": [
@@ -52,31 +79,6 @@
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Synthetic-Data-Engineer---Autonomous-Driving_JR2023850-1",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Gurugram/SAP-MM-PP-Master-Data-Engineer---Enterprise-Data-Management_JR2026497",
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970"
-    ]
-  },
-  {
-    "company": "Adobe",
-    "jobCount": 4,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "2 Locations",
-      "Bangalore",
-      "Noida",
-      "3 Locations"
-    ],
-    "sampleTitles": [
-      "Staff Security Data Engineer",
-      "Sr. Manager, Data Engineering",
-      "Data Engineer 3 -  PySpark, Databricks (Data & AI Governance)",
-      "Principal Scientist - Data Pipeline Engineer"
-    ],
-    "officialUrls": [
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Security-Data-Engineer_R171875-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Mgr--Software-Development_R172115-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Engineer-3----PySpark--Databricks--Data---AI-Governance-_R173685",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
     ]
   },
   {
@@ -194,24 +196,6 @@
     ]
   },
   {
-    "company": "Belmont Lavan Ltd",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Amsterdam, Netherlands"
-    ],
-    "sampleTitles": [
-      "Mainframe Data Engineer - 3 to 6 Months Contract",
-      "Data Engineer - 3 Months Contract"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.nl/jobs/companies/belmont-lavan-ltd/mainframe-data-engineer-3-to-6-months-contract-amsterdam-446165",
-      "https://www.arbeitnow.nl/jobs/companies/belmont-lavan-ltd/data-engineer-3-months-contract-amsterdam-59061"
-    ]
-  },
-  {
     "company": "Brex",
     "jobCount": 2,
     "sources": [
@@ -246,6 +230,24 @@
     "officialUrls": [
       "https://boards.greenhouse.io/cloudflare/jobs/8395358?gh_jid=8395358",
       "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118"
+    ]
+  },
+  {
+    "company": "dataiku",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Remote"
+    ],
+    "sampleTitles": [
+      "Sr Data Platform Engineer",
+      "Sr Data Platform Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-sr-data-platform-engineer-85741",
+      "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-sr-data-platform-engineer-377566"
     ]
   },
   {
@@ -319,22 +321,6 @@
     ]
   },
   {
-    "company": "KnowWay GmbH",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Duisburg"
-    ],
-    "sampleTitles": [
-      "AI & Data Platform Engineer (GCP) (all levels)"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/knowway-gmbh/ai-data-platform-engineer-gcp-all-levels-duisburg-42970"
-    ]
-  },
-  {
     "company": "Lemon.io",
     "jobCount": 1,
     "sources": [
@@ -367,22 +353,6 @@
     ]
   },
   {
-    "company": "Nebius",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "Europe,  Israel"
-    ],
-    "sampleTitles": [
-      "Senior Data Engineer"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/164169-senior-data-engineer-10"
-    ]
-  },
-  {
     "company": "Notion",
     "jobCount": 1,
     "sources": [
@@ -399,19 +369,19 @@
     ]
   },
   {
-    "company": "Reactive Markets",
+    "company": "ONE-Dyas B.V.",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Remote"
+      "Amsterdam, Noord-Holland, Netherlands"
     ],
     "sampleTitles": [
-      "AI & Data Engineer"
+      "Data Engineer (tbv Productie & ESG)"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/ai-data-engineer-united-kingdom-492838"
+      "https://www.arbeitnow.nl/jobs/companies/one-dyas-bv/data-engineer-tbv-productie-esg-amsterdam-369187"
     ]
   },
   {
@@ -444,6 +414,22 @@
     ],
     "officialUrls": [
       "https://boards.greenhouse.io/robinhood/jobs/5616144?t=gh_src=&gh_jid=5616144"
+    ]
+  },
+  {
+    "company": "Royal Den Hartogh Logistics",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Rotterdam, Zuid-Holland, Netherlands"
+    ],
+    "sampleTitles": [
+      "Data Engineer Logistics"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.nl/jobs/companies/royal-den-hartogh-logistics/data-engineer-logistics-rotterdam-317897"
     ]
   },
   {
@@ -488,10 +474,10 @@
       "Amsterdam, Noord-Holland, Netherlands"
     ],
     "sampleTitles": [
-      "Analytics Engineer"
+      "Senior Analytics Engineer"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.nl/jobs/companies/talk360/analytics-engineer-amsterdam-343474"
+      "https://www.arbeitnow.nl/jobs/companies/talk360/senior-analytics-engineer-amsterdam-396595"
     ]
   },
   {
@@ -508,22 +494,6 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/twilio/jobs/8044650"
-    ]
-  },
-  {
-    "company": "Walker Sands",
-    "jobCount": 1,
-    "sources": [
-      "jobicy"
-    ],
-    "locations": [
-      "USA"
-    ],
-    "sampleTitles": [
-      "Lead Data Engineer"
-    ],
-    "officialUrls": [
-      "https://jobicy.com/jobs/164157-lead-data-engineer-2"
     ]
   },
   {
