@@ -1,5 +1,58 @@
 [
   {
+    "id": "arbeitnow:ai-data-engineer-united-kingdom-492838",
+    "externalId": "ai-data-engineer-united-kingdom-492838",
+    "source": "arbeitnow",
+    "title": "AI & Data Engineer",
+    "company": "Reactive Markets",
+    "location": "Remote",
+    "remote": true,
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/ai-data-engineer-united-kingdom-492838",
+    "description": "AI & Data Engineer Remote (UK-based) | Full-Time\n About Us Reactive Markets is the 2026 OTC Trading Platform of the Year ( Risk.net ). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 60+ of the world's leading liquidity providers.\n We build trading systems that operate at the edge of what's technically possible — where nanoseconds matter and a dropped message costs real money. Our engineering team is small, senior, and deeply invested in the craft of building cutting edge, reliable, high-performance systems.\n The Role We're looking for a polyglot engineer who is comfortable across the data stack. This is someone who can build AI-powered tools and data infrastructure that make our platform smarter, our people more effective, and our operations more scalable.\n This is not a research role. You'll build real systems that people use every day — Slack bots that investigate production incidents, data pipelines that surface anomalies before clients notice them, and AI agents that turn hours of manual trawling into seconds of guided investigation. You'll work across the full stack: Python and TypeScript for AI tooling and integrations, Go for backend services, and SQL for data analysis and pipeline work.\n The person we're looking for ships working software, cares about making people's lives easier, and is energised by the pace of the AI landscape. You don't need to have built LLM applications before — but you should be curious, practical, and comfortable learning fast.\n You'll work closely with our TechOps, Connectivity, and Data teams to understand their workflows, pain points, and knowledge gaps — then build the tools and infrastructure that solve them. This is a high-leverage role: the systems you build will multiply the effectiveness of every engineer and operator in the company.\n What You'll Work On AI-powered investigation tools — Slack-based bots and agents that automatically analyse support tickets, q…",
+    "tags": [
+      "Engineering",
+      "Full Time"
+    ],
+    "jobType": "Full Time",
+    "postedAt": "2026-11-25T00:40:11.000Z",
+    "scrapedAt": "2026-11-25T03:56:29.476Z"
+  },
+  {
+    "id": "greenhouse:stripe-8415333",
+    "externalId": "stripe:8415333",
+    "source": "greenhouse",
+    "title": "Analytics Engineer",
+    "company": "Stripe",
+    "location": "New York",
+    "remote": false,
+    "url": "https://stripe.com/jobs/search?gh_jid=8415333",
+    "description": "Who we are\n About Privy\n Our mission is to make privacy and user ownership the default online. We build simple, flexible developer tooling that make it easy to build products that put users first. By leveraging modern cryptography, we shift the status quo around digital ownership and protect the accounts and assets of millions of users.\n Learn more about Privy: Privy and Stripe: Bringing crypto to everyone\n About the Team\n Data at Privy is not just about running queries or building reports. We transform messy, high-volume data into scalable systems and clear insights that guide product decisions and business strategy. We design pipelines that are resilient, models that are intuitive, and tools that make data accessible and trustworthy for everyone across the company. We believe in clean abstractions, transparency, and sharing our work so teammates can build on top of it. We push each other to ask sharper questions, test bold ideas, and follow the signal in the data so we can shape better products and empower our customers.\n What you’ll do\n In this role you’ll partner deeply with product, engineering, and GTM teams across Privy to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You’ll work daily with partners across the Privy business to extract insights and build pipelines from the rich and complex Privy data set which is a unique combination of SaaS and blockchain data. You’ll build data products, metrics, scalable data pipelines, dashboards and reports to inform and run the business. You’ll deliver actionable business recommendations through analyses and data storytelling while also providing data infrastructure that allows users and stakeholders to self serve their own analyses.\n Who you are\n 5+ years in an analytics engineering or data analyst role, preferably in a SaaS or developer tools environment.\n Proficiency in SQL and data modeling techniques.\n Experience wi…",
+    "tags": [
+      "9003 Privy - S&O"
+    ],
+    "postedAt": "2026-11-24T22:35:42.000Z",
+    "scrapedAt": "2026-11-25T03:56:29.931Z"
+  },
+  {
+    "id": "arbeitnow:ai-data-platform-engineer-gcp-all-levels-duisburg-42970",
+    "externalId": "ai-data-platform-engineer-gcp-all-levels-duisburg-42970",
+    "source": "arbeitnow",
+    "title": "AI & Data Platform Engineer (GCP) (all levels)",
+    "company": "KnowWay GmbH",
+    "location": "Duisburg",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/knowway-gmbh/ai-data-platform-engineer-gcp-all-levels-duisburg-42970",
+    "description": "Über KnowWay KnowWay entwickelt KI-Agenten für kritische Infrastruktur: Energie, Telekommunikation und öffentlicher Sektor. Wir automatisieren Geschäftsprozesse mit autonomen Agenten, und zwar für Kunden, bei denen Compliance, Nachvollziehbarkeit und Datensouveränität Pflicht sind.\n Wir begleiten unsere Kunden über den gesamten Daten- und KI-Lebenszyklus. Wir sammeln und speichern die Daten, verarbeiten sie mit und für KI, sichern ihre Qualität und integrieren die Ergebnisse in produktive Systeme.\n Das Projekt Für einen führenden Telekommunikationskonzern in Deutschland setzen wir Daten- und KI-Projekte auf der Google Cloud um. Wir kennen die gesamte Prozess- und Systemlandschaft des Kunden, arbeiten darin und bauen mehrere Plattformen, auf denen die Fachbereiche ihre Anwendungsfälle betreiben. Mehrere Anwendungsfälle laufen parallel und stehen an unterschiedlichen Punkten zwischen Discovery und Live-Betrieb.\n Unser Delivery-Team deckt dabei ungewöhnlich viel ab: Business-Analyse und die Definition der eigentlichen Anforderungen, Solution Design, schnelle PoCs und die Produktivsetzung. Wo es passt, verwenden wir vorhandene Plattform-Capabilities wieder, und wo etwas fehlt, entwickeln wir es neu.\n Der Stack läuft bereits produktiv. Dazu gehören LLM-Extraktionspipelines über einen gemanagten AI-Service mit vorgeschaltetem Compliance-Proxy, agentische Systeme mit Vector Search, Batch-Verarbeitung und Orchestrierung, ein zentrales Data Warehouse und containerisierte Services. Die Infrastruktur ist komplett als Code beschrieben und läuft in einer streng abgeschotteten Umgebung mit mehreren Freigabestufen. Auf der Roadmap stehen unter anderem der Umbau des Query-Layers, die Anbindung von On-Premise-Systemen an Cloud-Worker und die Integration weiterer Quellsysteme.\n Die Rolle Du arbeitest mit uns dort, wo Datenpipelines, KI-Modelle und Cloud-Infrastruktur zusammenkommen. Gemeinsam mit dem Team sorgst Du dafür, dass das Ergebnis im Produktivbetrieb zuverlässig läuft, und…",
+    "tags": [
+      "Data Scientist",
+      "Unbefristeter arbeitsvertrag",
+      "berufserfahren"
+    ],
+    "jobType": "Unbefristeter arbeitsvertrag",
+    "postedAt": "2026-11-24T21:30:31.000Z",
+    "scrapedAt": "2026-11-25T03:56:29.476Z"
+  },
+  {
     "id": "arbeitnow:mainframe-data-engineer-3-to-6-months-contract-amsterdam-446165",
     "externalId": "mainframe-data-engineer-3-to-6-months-contract-amsterdam-446165",
     "source": "arbeitnow",
@@ -17,7 +70,7 @@
     ],
     "jobType": "Contract",
     "postedAt": "2026-11-24T16:20:18.000Z",
-    "scrapedAt": "2026-11-24T19:55:09.445Z"
+    "scrapedAt": "2026-11-25T03:56:29.476Z"
   },
   {
     "id": "arbeitnow:data-engineer-3-months-contract-amsterdam-59061",
@@ -37,26 +90,7 @@
     ],
     "jobType": "Contract",
     "postedAt": "2026-11-24T16:20:18.000Z",
-    "scrapedAt": "2026-11-24T19:55:09.445Z"
-  },
-  {
-    "id": "arbeitnow:junior-inhouse-consultant-data-engineering-all-genders-stuttgart-113292",
-    "externalId": "junior-inhouse-consultant-data-engineering-all-genders-stuttgart-113292",
-    "source": "arbeitnow",
-    "title": "Junior Inhouse Consultant Data Engineering (all genders)",
-    "company": "Dymatrix",
-    "location": "Stuttgart",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/dymatrix/junior-inhouse-consultant-data-engineering-all-genders-stuttgart-113292",
-    "description": "Tech Stack: Sprachen: C# .NET, Python, PySpark , SQL Komponenten aus dem Azure Stack wie beispielsweise Log Analytics, Key Vault, ADLS Gen2, Functions , Databricks , DataFactory , Container Unternehmenseigener OpenAI-basierter KI-Assistent und Claude Code Projektverwaltung in Jira und Confluence\n Deine Aufgaben: Unterstützung bei Projektreviews zur Prüfung der Compliance von Projekten Ausarbeitung von Product Requirements , Durchführung von Acceptance Tests und Bewertung der Praxistauglichkeit von Produktentwicklungen Erstellung von Dokumentationen, Schulungsunterlagen und -videos, auch mit KI-Technologien wie Gemini Notebook Durchführung von Partner-Onboardings und internen Schulungen Weiterentwicklung der Extension-Templates mit C# .NET, Databricks , ADF und Evaluierung neuer Technologien Support für Consulting und Implementierungspartner bei technischen Fragestellungen\n Das bringst du idealerweise mit: Du besitzt erste Programmierkenntnisse (idealerweise in SQL, C#, Python oder PySpark ) Gleichzeitig hast Du ein Verständnis für Cloud-Architekturen und Datenverarbeitungsprozesse Du bringst die Bereitschaft zur Weiterentwicklung in neue Technologien mit Du hast eine gute technische Auffassungsgabe und grundlegende didaktische Fähigkeiten Wenn du Interesse an Marketing, CRM, Kampagnenmanagement und dem Arbeiten mit Customer Data hast - bist du bei uns genau richtig! Du sprichst sehr gut Deutsch und gut Englisch\n Find Jobs in Germany on Arbeitnow",
-    "tags": [
-      "Entry",
-      "Permanent",
-      "Full time"
-    ],
-    "jobType": "Entry",
-    "postedAt": "2026-11-24T15:32:52.000Z",
-    "scrapedAt": "2026-11-24T19:55:09.445Z"
+    "scrapedAt": "2026-11-25T03:56:29.476Z"
   },
   {
     "id": "jobicy:164169",
@@ -75,7 +109,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-11-24T15:25:36.000Z",
-    "scrapedAt": "2026-11-24T19:55:09.764Z"
+    "scrapedAt": "2026-11-25T03:56:29.543Z"
   },
   {
     "id": "jobicy:164157",
@@ -94,7 +128,7 @@
     ],
     "jobType": "Full-Time",
     "postedAt": "2026-11-24T15:19:20.000Z",
-    "scrapedAt": "2026-11-24T19:55:09.764Z"
+    "scrapedAt": "2026-11-25T03:56:29.543Z"
   },
   {
     "id": "arbeitnow:analytics-engineer-amsterdam-343474",
@@ -113,26 +147,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-11-24T09:31:40.000Z",
-    "scrapedAt": "2026-11-24T19:55:09.445Z"
-  },
-  {
-    "id": "arbeitnow:data-engineer-h-f-lyon-376194",
-    "externalId": "data-engineer-h-f-lyon-376194",
-    "source": "arbeitnow",
-    "title": "DATA ENGINEER - H/F - LYON",
-    "company": "AVISIA",
-    "location": "LYON, Auvergne-Rhône-Alpes, France",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-engineer-h-f-lyon-376194",
-    "description": "Intégré(e) au sein de la practice Data Engineering à Lyon, vous intervenez sur des projets à fort enjeu pour nos clients de la région Auvergne-Rhône-Alpes :\n Architecture et ingestion : concevoir, développer et maintenir des pipelines de données robustes et scalables (batch et temps réel).\n Modern Data Stack : déployer et administrer des environnements Cloud (GCP, AWS ou Azure) et des entrepôts de données modernes (Snowflake, BigQuery, Databricks).\n Transformation et qualité : modéliser les données, automatiser les flux (dbt, Airflow) et garantir la gouvernance, la sécurité et la fiabilité des livrables.\n Conseil et transmission : accompagner les équipes métiers et techniques de nos clients, animer des ateliers et contribuer aux communautés internes AVISIA (veille, retours d'expérience, R&D).\n Formation : diplômé(e) d'une école d'ingénieurs ou d'un Master 2 en informatique / Data.\n Expérience : vous justifiez d'au moins 2 ans d'expérience en Data Engineering (les profils confirmés et seniors sont également les bienvenus).\n Stack technique :\n Maîtrise de Python et SQL .\n Expérience significative sur au moins un environnement Cloud ( GCP , AWS ou Azure ).\n Connaissance des outils d'orchestration et de transformation ( Airflow , dbt , Spark ).\n Sensibilité aux bonnes pratiques CI/CD , Git , Docker et Infrastructure as Code (Terraform).\n Savoir être : curiosité technique, esprit d'équipe, sens du service et capacité à vulgariser des sujets complexes auprès d'interlocuteurs variés.\n Find Jobs in France on Arbeitnow",
-    "tags": [
-      "Data",
-      "Mid",
-      "fulltime permanent"
-    ],
-    "jobType": "Mid",
-    "postedAt": "2026-11-24T06:31:25.000Z",
-    "scrapedAt": "2026-11-24T19:55:09.445Z"
+    "scrapedAt": "2026-11-25T03:56:29.476Z"
   },
   {
     "id": "remoteok:1137970",
@@ -148,7 +163,7 @@
       "devops"
     ],
     "postedAt": "2026-11-22T01:00:07.000Z",
-    "scrapedAt": "2026-11-24T19:55:10.272Z"
+    "scrapedAt": "2026-11-25T03:56:29.923Z"
   },
   {
     "id": "greenhouse:cloudflare-8395358",
@@ -164,22 +179,6 @@
       "Security"
     ],
     "postedAt": "2026-11-17T21:48:13.000Z",
-    "scrapedAt": "2026-11-24T19:55:10.281Z"
-  },
-  {
-    "id": "greenhouse:airbnb-8396777",
-    "externalId": "airbnb:8396777",
-    "source": "greenhouse",
-    "title": "Data Engineer Tech Foundations",
-    "company": "Airbnb",
-    "location": "US - Remote",
-    "remote": true,
-    "url": "https://careers.airbnb.com/positions/8396777?gh_jid=8396777",
-    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n Data Engineer, Enterprise Core Datasets, Tech Foundations\n The Community You Will Join\n At Airbnb, trustworthy data powers business decisions, product innovation, and operational efficiency. The Enterprise Core Datasets team builds the technical data foundations that help Airbnb understand how the business operates, where resources are invested, and how new technologies create value.\n Our scope spans high-impact datasets across the organization: measuring AI adoption, usage, and cost; understanding revenue, costs, and profitability through Unit Economics; integrating non-platform data from Jira and other enterprise applications; and powering critical company metrics such as Gross Booking Value and Revenue.\n You will join a team that values thoughtful architecture, engineering rigor, and operational ownership. We collaborate with engineering, product, analytics, finance, and business teams to turn complex requirements into dependable, reusable data assets. We welcome engineers who are curious about the business and eager to learn and solve problems across diverse domains.\n The Difference You Will Make\n As a Data Engineer, you will build and operate datasets that shape decisions across Airbnb. Your work will help the organization measure AI adoption and spending, understand the economics of its products, and connect enterprise application data to meaningful business and operational insights.\n You will deliver well-scoped data engineering projects, from requirements through design, implementation, validation, and production operations. You will work closely with teammates and stakeholders, with guidance from sen…",
-    "tags": [
-      "Engineering & Technology"
-    ],
-    "postedAt": "2026-11-17T19:22:59.000Z",
-    "scrapedAt": "2026-11-24T19:55:10.281Z"
+    "scrapedAt": "2026-11-25T03:56:29.931Z"
   }
 ]
