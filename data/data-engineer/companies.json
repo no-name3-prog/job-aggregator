@@ -1,5 +1,33 @@
 [
   {
+    "company": "Adobe",
+    "jobCount": 6,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "2 Locations",
+      "Bangalore",
+      "Noida",
+      "3 Locations"
+    ],
+    "sampleTitles": [
+      "Data Engineer",
+      "Senior Data Engineer",
+      "Staff Security Data Engineer",
+      "Sr. Manager, Data Engineering",
+      "Data Engineer 3 -  PySpark, Databricks (Data & AI Governance)",
+      "Principal Scientist - Data Pipeline Engineer"
+    ],
+    "officialUrls": [
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-Engineer_R173786-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Professional-Services-Consultant-4_R173706-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Security-Data-Engineer_R171875-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Mgr--Software-Development_R172115-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Engineer-3----PySpark--Databricks--Data---AI-Governance-_R173685"
+    ]
+  },
+  {
     "company": "Anthropic",
     "jobCount": 6,
     "sources": [
@@ -25,33 +53,6 @@
       "https://job-boards.greenhouse.io/anthropic/jobs/5448481008",
       "https://job-boards.greenhouse.io/anthropic/jobs/5424111008",
       "https://job-boards.greenhouse.io/anthropic/jobs/5418610008"
-    ]
-  },
-  {
-    "company": "Adobe",
-    "jobCount": 5,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "2 Locations",
-      "Bangalore",
-      "Noida",
-      "3 Locations"
-    ],
-    "sampleTitles": [
-      "Data Engineer",
-      "Staff Security Data Engineer",
-      "Sr. Manager, Data Engineering",
-      "Data Engineer 3 -  PySpark, Databricks (Data & AI Governance)",
-      "Principal Scientist - Data Pipeline Engineer"
-    ],
-    "officialUrls": [
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-Engineer_R173786-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Security-Data-Engineer_R171875-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Mgr--Software-Development_R172115-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Engineer-3----PySpark--Databricks--Data---AI-Governance-_R173685",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
     ]
   },
   {
@@ -254,6 +255,25 @@
     ]
   },
   {
+    "company": "Jobgether",
+    "jobCount": 2,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Netherlands",
+      "Switzerland"
+    ],
+    "sampleTitles": [
+      "Azure Data Engineer with Databricks & PySpark",
+      "Azure Data Engineer with Databricks & PySpark"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.nl/jobs/companies/jobgether/azure-data-engineer-with-databricks-pyspark-netherlands-367179",
+      "https://www.arbeitnow.ch/jobs/companies/jobgether/azure-data-engineer-with-databricks-pyspark-switzerland-287961"
+    ]
+  },
+  {
     "company": "Stripe",
     "jobCount": 2,
     "sources": [
@@ -273,51 +293,54 @@
     ]
   },
   {
-    "company": "Bursonglobalcareers",
-    "jobCount": 1,
+    "company": "Twilio",
+    "jobCount": 2,
     "sources": [
-      "arbeitnow"
+      "greenhouse"
     ],
     "locations": [
-      "London"
+      "Remote - Ireland",
+      "Remote - US"
     ],
     "sampleTitles": [
-      "Senior Data Engineer"
+      "Staff Data Engineer",
+      "Senior Analytics Engineer"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/bursonglobalcareers/senior-data-engineer-london-215470"
+      "https://job-boards.greenhouse.io/twilio/jobs/8393933",
+      "https://job-boards.greenhouse.io/twilio/jobs/8044650"
     ]
   },
   {
-    "company": "dataiku",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Remote"
-    ],
-    "sampleTitles": [
-      "Sr Data Platform Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-sr-data-platform-engineer-377566"
-    ]
-  },
-  {
-    "company": "Dataiku",
+    "company": "Bloomreach",
     "jobCount": 1,
     "sources": [
       "jobicy"
     ],
     "locations": [
-      "France,  Spain,  UK"
+      "Czechia"
     ],
     "sampleTitles": [
-      "Sr Data Platform Engineer"
+      "Senior Data Engineer, Datacraft team"
     ],
     "officialUrls": [
-      "https://jobicy.com/jobs/164302-sr-data-platform-engineer"
+      "https://jobicy.com/jobs/157270-senior-data-engineer-datacraft-team"
+    ]
+  },
+  {
+    "company": "Everfield",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Netherlands - Amsterdam | Hybrid"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.nl/jobs/companies/everfield/senior-data-engineer-amsterdam-area-421741"
     ]
   },
   {
@@ -401,19 +424,19 @@
     ]
   },
   {
-    "company": "ONE-Dyas B.V.",
+    "company": "Oowlish Technology",
     "jobCount": 1,
     "sources": [
-      "arbeitnow"
+      "jobicy"
     ],
     "locations": [
-      "Amsterdam, Noord-Holland, Netherlands"
+      "Brazil"
     ],
     "sampleTitles": [
-      "Data Engineer (tbv Productie & ESG)"
+      "Senior Forward Deployed Engineer — Data Engineering & AI"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.nl/jobs/companies/one-dyas-bv/data-engineer-tbv-productie-esg-amsterdam-369187"
+      "https://jobicy.com/jobs/164328-senior-forward-deployed-engineer-data-engineering-ai"
     ]
   },
   {
@@ -465,6 +488,22 @@
     ]
   },
   {
+    "company": "Skailark",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Munich"
+    ],
+    "sampleTitles": [
+      "Aviation Data Engineer (Finance & Cost)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/skailark/aviation-data-engineer-finance-cost-munich-346663"
+    ]
+  },
+  {
     "company": "Spotify",
     "jobCount": 1,
     "sources": [
@@ -494,38 +533,6 @@
     ],
     "officialUrls": [
       "https://www.arbeitnow.nl/jobs/companies/talk360/senior-analytics-engineer-amsterdam-396595"
-    ]
-  },
-  {
-    "company": "Twilio",
-    "jobCount": 1,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "Remote - US"
-    ],
-    "sampleTitles": [
-      "Senior Analytics Engineer"
-    ],
-    "officialUrls": [
-      "https://job-boards.greenhouse.io/twilio/jobs/8044650"
-    ]
-  },
-  {
-    "company": "Wayve",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Leonberg, Germany"
-    ],
-    "sampleTitles": [
-      "Data Engineer, Data Quality & Provenance"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/wayve/data-engineer-data-quality-provenance-baden-wurttemberg-209509"
     ]
   },
   {
