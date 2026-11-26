@@ -175,6 +175,27 @@
     ]
   },
   {
+    "company": "Discord",
+    "jobCount": 3,
+    "sources": [
+      "greenhouse"
+    ],
+    "locations": [
+      "San Francisco Bay Area",
+      "Remote (U.S.)"
+    ],
+    "sampleTitles": [
+      "Data Engineer",
+      "Staff Data Engineer",
+      "Senior Data Engineer, Ads"
+    ],
+    "officialUrls": [
+      "https://job-boards.greenhouse.io/discord/jobs/8942144002",
+      "https://job-boards.greenhouse.io/discord/jobs/8691572002",
+      "https://job-boards.greenhouse.io/discord/jobs/8299493002"
+    ]
+  },
+  {
     "company": "Pinterest",
     "jobCount": 3,
     "sources": [
@@ -233,43 +254,6 @@
     ]
   },
   {
-    "company": "dataiku",
-    "jobCount": 2,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Remote"
-    ],
-    "sampleTitles": [
-      "Sr Data Platform Engineer",
-      "Sr Data Platform Engineer"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-sr-data-platform-engineer-85741",
-      "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-sr-data-platform-engineer-377566"
-    ]
-  },
-  {
-    "company": "Discord",
-    "jobCount": 2,
-    "sources": [
-      "greenhouse"
-    ],
-    "locations": [
-      "San Francisco Bay Area",
-      "Remote (U.S.)"
-    ],
-    "sampleTitles": [
-      "Staff Data Engineer",
-      "Senior Data Engineer, Ads"
-    ],
-    "officialUrls": [
-      "https://job-boards.greenhouse.io/discord/jobs/8691572002",
-      "https://job-boards.greenhouse.io/discord/jobs/8299493002"
-    ]
-  },
-  {
     "company": "Stripe",
     "jobCount": 2,
     "sources": [
@@ -286,6 +270,54 @@
     "officialUrls": [
       "https://stripe.com/jobs/search?gh_jid=8415333",
       "https://stripe.com/jobs/search?gh_jid=8112043"
+    ]
+  },
+  {
+    "company": "Bursonglobalcareers",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "London"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/bursonglobalcareers/senior-data-engineer-london-215470"
+    ]
+  },
+  {
+    "company": "dataiku",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Remote"
+    ],
+    "sampleTitles": [
+      "Sr Data Platform Engineer"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-sr-data-platform-engineer-377566"
+    ]
+  },
+  {
+    "company": "Dataiku",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "France,  Spain,  UK"
+    ],
+    "sampleTitles": [
+      "Sr Data Platform Engineer"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/164302-sr-data-platform-engineer"
     ]
   },
   {
@@ -417,22 +449,6 @@
     ]
   },
   {
-    "company": "Royal Den Hartogh Logistics",
-    "jobCount": 1,
-    "sources": [
-      "arbeitnow"
-    ],
-    "locations": [
-      "Rotterdam, Zuid-Holland, Netherlands"
-    ],
-    "sampleTitles": [
-      "Data Engineer Logistics"
-    ],
-    "officialUrls": [
-      "https://www.arbeitnow.nl/jobs/companies/royal-den-hartogh-logistics/data-engineer-logistics-rotterdam-317897"
-    ]
-  },
-  {
     "company": "Scale AI",
     "jobCount": 1,
     "sources": [
@@ -494,6 +510,22 @@
     ],
     "officialUrls": [
       "https://job-boards.greenhouse.io/twilio/jobs/8044650"
+    ]
+  },
+  {
+    "company": "Wayve",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Leonberg, Germany"
+    ],
+    "sampleTitles": [
+      "Data Engineer, Data Quality & Provenance"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/wayve/data-engineer-data-quality-provenance-baden-wurttemberg-209509"
     ]
   },
   {

@@ -1,82 +1,85 @@
 [
   {
-    "id": "greenhouse:block-5460774008",
-    "externalId": "block:5460774008",
+    "id": "greenhouse:discord-8942144002",
+    "externalId": "discord:8942144002",
     "source": "greenhouse",
-    "title": "Principal AI Research Engineer, Customer World Model & Proactive Intelligence",
-    "company": "Block",
-    "location": "Toronto, Ontario, Canada",
-    "remote": false,
-    "url": "http://block.xyz/careers/jobs/5460774008?gh_jid=5460774008",
-    "description": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.\nToday, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.\n The Team\n Apollo leads Block's work on the Customer World Model : a continuously evolving representation of each customer's goals, context, history, constraints, and likely future needs. The Customer World Model powers Proactive Intelligence across Block's ecosystem, including Square, Cash App, and Afterpay. Instead of customers searching through products for the feature they need, the system understands what matters to them, anticipates what comes next, and takes timely action that improves their outcomes. Both are top priorities for Block.\n The Role\n We're hiring exceptional AI Researchers to take Customer World Model and Proactive Intelligence from promising research to reliable production systems. You'll set the technical direction, solve the hardest research and engineering problems, and own delivery all the way through production integration. The scope covers customer representations, forecasts, decision models, evaluation, real-time serving, and integration into the products customers use every day.\n You'll shape problems that span several teams, connect applied rese…",
-    "tags": [
-      "[Confidential] Executive "
-    ],
-    "postedAt": "2026-11-25T16:31:58.000Z",
-    "scrapedAt": "2026-11-25T16:43:34.704Z"
-  },
-  {
-    "id": "greenhouse:block-5460772008",
-    "externalId": "block:5460772008",
-    "source": "greenhouse",
-    "title": "Principal AI Research Engineer, Customer World Model & Proactive Intelligence",
-    "company": "Block",
-    "location": "Bay Area, CA, United States of America",
-    "remote": false,
-    "url": "http://block.xyz/careers/jobs/5460772008?gh_jid=5460772008",
-    "description": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.\nToday, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.\n The Team\n Apollo leads Block's work on the Customer World Model : a continuously evolving representation of each customer's goals, context, history, constraints, and likely future needs. The Customer World Model powers Proactive Intelligence across Block's ecosystem, including Square, Cash App, and Afterpay. Instead of customers searching through products for the feature they need, the system understands what matters to them, anticipates what comes next, and takes timely action that improves their outcomes. Both are top priorities for Block.\n The Role\n We're hiring exceptional AI Researchers to take Customer World Model and Proactive Intelligence from promising research to reliable production systems. You'll set the technical direction, solve the hardest research and engineering problems, and own delivery all the way through production integration. The scope covers customer representations, forecasts, decision models, evaluation, real-time serving, and integration into the products customers use every day.\n You'll shape problems that span several teams, connect applied rese…",
-    "tags": [
-      "[Confidential] Executive "
-    ],
-    "postedAt": "2026-11-25T16:31:56.000Z",
-    "scrapedAt": "2026-11-25T16:43:34.704Z"
-  },
-  {
-    "id": "greenhouse:discord-8871293002",
-    "externalId": "discord:8871293002",
-    "source": "greenhouse",
-    "title": "Director of User Experience (UX) Research",
+    "title": "Data Engineer",
     "company": "Discord",
-    "location": "Remote (U.S.)",
-    "remote": true,
-    "url": "https://job-boards.greenhouse.io/discord/jobs/8871293002",
-    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.\n Discord is hiring a Director of User Experience Research to lead our research team, drive a user-centered understanding of Players (the people who use Discord), and turn that understanding into a better product. You'll own the research strategy for Discord, build and lead a team of researchers, and make sure a deep, evidence-based understanding of user needs shapes what we build before decisions are made.\n You'll uncover and forecast the problems our users face and the opportunities that will add the most value to Discord. You'll deepen our understanding of every user cohort, from longtime gamers to new communities, creators, moderators, and teens. And you'll make sure what we ship results in user value for them. As Discord brings more AI-powered experiences to users, you'll ensure they're grounded in real needs and held to a clear, user-centered quality bar. You'll also modernize how research gets done, using AI to increase our speed and reach without losing rigor.\n You'll partner closely with Product, Design, Engineering, Data Science, and Safety. This person will report to the VP of Product Design and Insights.\n What You'll Be Doing\n Set the research vision and make research a strategic partner. Own the research roadmap across Discord, balancing foundational, generative, and evaluative work and prioritizing by user impact, business impact, and risk. Deliver clear, compelling readouts that shape prioritization and go/no-go calls, and measure research's impact on product outcomes.\n Uncover opportunities and build a shared understanding of our users. Lead foundational and generative research that surf…",
+    "location": "San Francisco Bay Area",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8942144002",
+    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.\n Discord is looking for a Data Engineer to join our Data Engineering team and help build the trusted data foundations that power decisions across the company. Data Engineering is the foundational layer between Discord's raw data and the teams that depend on it: Data Science, ML, Product, Engineering, and business stakeholders. You'll design, build, and maintain clean, tested, well-documented datasets that those teams can discover, trust, and self-serve from.\n You'll join one of two squads, Gaming or Ads , working alongside experienced data engineers and data scientists. This is a growth role: you'll take on well-scoped problems with guidance from senior teammates, and build toward owning a data domain end to end.\n If you enjoy data modeling, SQL, and making reliable data easy for other teams to use, read on.\n What You Will Be Doing\n Build and maintain well-modeled, tested, and documented datasets in BigQuery using dbt, with guidance from senior data engineers\n Take ownership of scoped pipelines, tables, and metric improvements within your squad, from requirements through delivery and documentation\n Write accurate, efficient SQL and Python to transform structured and unstructured data into curated datasets for analytics, experimentation, and ML\n Improve the reliability, freshness, and quality of existing datasets by adding tests, monitoring, and documentation\n Partner with data scientists, product managers, and engineers to turn clear requests into concrete data models, and ask good questions when requests are ambiguous\n Follow team standards for modeling, naming, version control, and CI/CD, and contrib…",
     "tags": [
-      "Product Design"
+      "Data Science & Engineering"
     ],
-    "postedAt": "2026-11-25T16:12:13.000Z",
-    "scrapedAt": "2026-11-25T16:43:34.704Z"
+    "postedAt": "2026-11-26T01:13:44.000Z",
+    "scrapedAt": "2026-11-26T01:29:20.502Z"
   },
   {
-    "id": "greenhouse:dropbox-8366661",
-    "externalId": "dropbox:8366661",
+    "id": "greenhouse:discord-8958889002",
+    "externalId": "discord:8958889002",
     "source": "greenhouse",
-    "title": "Marketing Operations Manager",
-    "company": "Dropbox",
-    "location": "Remote - Canada: Select locations",
+    "title": "Senior Software Engineer, Enterprise Platform",
+    "company": "Discord",
+    "location": "San Francisco Bay Area or Remote (West Coast)",
     "remote": true,
-    "url": "https://jobs.dropbox.com/listing/8366661?gh_jid=8366661",
-    "description": "Role Description\n As the Marketing Operations Manager , you will serve as a deeply embedded, data-oriented partner to the Marketing team and help the business understand and driv e performance across the Marketing-to-Revenue funnel.\n You will analyze the funnel from marketing engagement through qualification, pipeline, and revenue. You’re focused on identifying growth opportunities, conversion gaps, leakage, handoff issues and translating those findings into clear recommendations for Marketing, SDR, Sales, and RevOps leaders.\n This is not a traditional reporting or martech administration role. Your primary value will be your ability to frame ambiguous business questions, diagnose the underlying drivers of performance, distinguish signal from noise, and help cross-functional teams make better operating and investment decisions.\n You will also be expected to use AI and automation extensively to reduce repetitive analytical work, accelerate insight generation, and spend more time on interpretation, problem solving, and decision support.\n Responsibilities\n Own analysis of the Marketing-to-Revenue funnel from engagement and qualification through pipeline progression and revenue.\n Identify opportunities, conversion gaps, funnel leakage, performance anomalies, and handoff issues across Marketing, SDR, and Sales.\n Connect marketing activity to downstream pipeline and revenue outcomes to help inform investment and prioritization decisions.\n Build clear analyses and reporting that surface meaningful trends, risks, opportunities, and recommended actions.\n Collaborate with cross-functional partners to i mprove lifecycle definitions, lead scoring, routing, SLAs, and measurement frameworks where funnel analysis identifies opportunities.\n Partner with Marketing SLG, RevOps, SDR, Sales, Analytics, and Systems teams to resolve cross-functional funnel and data-quality issues.\n Use AI and automation to accelerate query development, recurring reporting, anomaly detection, synthesis, a…",
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8958889002",
+    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.\n Discord's Enterprise Technology org is building a software engineering discipline from the ground up, and this is one of its first engineering hires. The Enterprise Platform team is brand new. You will not be inheriting a mature system or a long backlog: you will own core domains of the platform that turns the internal systems enabling Discordians into self-service software.\n Discord's mission is to cultivate belonging, and doing that at scale requires internal systems that move as fast as the product itself. The mission of this role is to turn our enterprise infrastructure into self-service software. Your job is to replace manual consoles and tickets with a platform of reusable primitives, building blocks like \"provision a device\" or \"push an IAM policy or app integration through code,\" exposed through clean APIs and self-service portals. As a code-forward Senior engineer, you will design abstractions that hide the messy reality of Okta, Jamf, and Terraform (our identity, device management, and infrastructure-as-code tools) behind interfaces people actually want to use, operating with a platform-as-a-product mindset.\n What You'll Do\n Manage the device fleet as code: Move device configuration off consoles and into versioned, API-driven infrastructure for endpoint management and hardware provisioning.\n Automate the identity layer: Manage identity systems and their connections to downstream apps as code, from SSO and SCIM integrations to account workflows, so changes ship through version control and CI/CD instead of an admin console.\n Own app delivery and Infrastructure-as-Code (IaC): Build deployment p…",
     "tags": [
-      "Marketing Strategy and Operations (Sub Team)"
+      "IT & Corporate Security"
     ],
-    "postedAt": "2026-11-25T15:13:29.000Z",
-    "scrapedAt": "2026-11-25T16:43:34.704Z"
+    "postedAt": "2026-11-26T00:39:44.000Z",
+    "scrapedAt": "2026-11-26T01:29:20.502Z"
   },
   {
-    "id": "greenhouse:dropbox-8366660",
-    "externalId": "dropbox:8366660",
+    "id": "greenhouse:airbnb-8360678",
+    "externalId": "airbnb:8360678",
     "source": "greenhouse",
-    "title": "Marketing Operations Manager",
-    "company": "Dropbox",
-    "location": "Remote - US: Select locations",
-    "remote": true,
-    "url": "https://jobs.dropbox.com/listing/8366660?gh_jid=8366660",
-    "description": "Role Description\n As the Marketing Operations Manager, you will serve as a deeply embedded, data-oriented partner to the Marketing team and help the business understand and driv e performance across the Marketing-to-Revenue funnel.\n You will analyze the funnel from marketing engagement through qualification, pipeline, and revenue. You’re focused on identifying growth opportunities, conversion gaps, leakage, handoff issues and translating those findings into clear recommendations for Marketing, SDR, Sales, and RevOps leaders.\n This is not a traditional reporting or martech administration role. Your primary value will be your ability to frame ambiguous business questions, diagnose the underlying drivers of performance, distinguish signal from noise, and help cross-functional teams make better operating and investment decisions.\n You will also be expected to use AI and automation extensively to reduce repetitive analytical work, accelerate insight generation, and spend more time on interpretation, problem solving, and decision support.\n Responsibilities\n Own analysis of the Marketing-to-Revenue funnel from engagement and qualification through pipeline progression and revenue.\n Identify opportunities, conversion gaps, funnel leakage, performance anomalies, and handoff issues across Marketing, SDR, and Sales.\n Connect marketing activity to downstream pipeline and revenue outcomes to help inform investment and prioritization decisions.\n Build clear analyses and reporting that surface meaningful trends, risks, opportunities, and recommended actions.\n Collaborate with cross-functional partners to i mprove lifecycle definitions, lead scoring, routing, SLAs, and measurement frameworks where funnel analysis identifies opportunities.\n Partner with Marketing SLG, RevOps, SDR, Sales, Analytics, and Systems teams to resolve cross-functional funnel and data-quality issues.\n Use AI and automation to accelerate query development, recurring reporting, anomaly detection, synthesis, an…",
+    "title": "Creative Lead, Design",
+    "company": "Airbnb",
+    "location": "San Francisco, CA",
+    "remote": false,
+    "url": "https://careers.airbnb.com/positions/8360678?gh_jid=8360678",
+    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n The community you will join:\n Creative Studio is a multi-disciplinary creative team within Airbnb’s Marketing group, spanning visual design, brand identity, copywriting, art direction, motion and interactive. In partnership with Advertising and Product Design, we are stewards of the brand whose objective is to help current and future Guests and Hosts understand what Airbnb offers, and why it’s meaningful in their lives.\n The difference you will make:\n We are looking for a Creative Lead who can ensure creative excellence on our Creative Studio team.\n Reporting to the Creative Director, and working in partnership with copywriters, product directors, product marketing leads, and business stakeholders, they are responsible for developing creative solutions that define and enhance creative ideas from concept through execution. This role requires strong design expertise, excellent typographic skills, art direction, and deep understanding of design systems, and brand design.\n You'll be entrusted with the Airbnb brand and expected to push forward the way it’s expressed through launch events and materials, brand campaigns, in-product merchandising, product experiences, and other communications. You will be able to translate business and marketing purposes into big ideas that can be executed brilliantly across various initiatives and mediums.\n A typical day:\n Hands-on execution of world-class communications—from strategy and concept to point and pixel perfect artwork.\n Champion the craft of design and visual storytelling, and help elevate them throughout the department’s output.\n Partner with Cross functional teammates…",
     "tags": [
-      "Marketing Strategy and Operations (Sub Team)"
+      "Marketing & Creative"
     ],
-    "postedAt": "2026-11-25T15:13:27.000Z",
-    "scrapedAt": "2026-11-25T16:43:34.704Z"
+    "postedAt": "2026-11-26T00:39:23.000Z",
+    "scrapedAt": "2026-11-26T01:29:20.502Z"
+  },
+  {
+    "id": "greenhouse:reddit-8411910",
+    "externalId": "reddit:8411910",
+    "source": "greenhouse",
+    "title": "Senior Client Account Manager, Large Customer Sales (Financial Services)",
+    "company": "Reddit",
+    "location": "New York City, NY",
+    "remote": false,
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8411910",
+    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com .\n We're looking for a Client Account Manager for the Financial Services vertical of Large Customer Sales. This person will closely collaborate with Client Partner on campaign execution and optimizations to help agencies and advertisers achieve their marketing objectives on the fast-growing Reddit platform.\n Please note that this role is required to be based out of New York City.\n Responsibilities:\n Collaborate closely with Client Partners to meet and exceed clients’ marketing goals.\n Proactively manage and deepen relationships with existing advertising partners, both with agencies and directly with Fortune 500 clients to drive year-on-year Reddit revenue growth.\n Lead and execute campaign launches from start to finish and deliver insightful optimizations to agency and client partners\n Ongoing management of internal account operations (revenue delivery and troubleshooting issues)\n Educate brands and media agencies, effectively communicate value proposition and best practices\n Consult clients on their awareness and direct response objectives, and partner closely with Client Partners to craft thoughtful and creative media plans\n Collaborate with Ad Ops to ensure effective campaign delivery and resolve any technical hurdles\n Proactively seek and represent client needs and asks to cross-functional stakeholders\n Shape Reddit’s native ads product roadmap, for mobile and in general, by aggregating and sharing client feedback and campaign metrics with cross-functional stakeholders\n Proactively and continually identify areas of i…",
+    "tags": [
+      "Sales"
+    ],
+    "postedAt": "2026-11-26T00:07:28.000Z",
+    "scrapedAt": "2026-11-26T01:29:20.502Z"
+  },
+  {
+    "id": "arbeitnow:social-media-campaign-manager-berlin-413435",
+    "externalId": "social-media-campaign-manager-berlin-413435",
+    "source": "arbeitnow",
+    "title": "Social Media & Campaign Manager",
+    "company": "Cell Labs",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/cell-labs/social-media-campaign-manager-berlin-413435",
+    "description": "Über Cell Labs Wir bauen humanoide Systeme: Full Stack, von Hardware und Elektronik über Software bis zur Fertigung, alles in-house in Berlin.\n Bei Cell Labs verschieben wir die Grenze dessen, was Robotik leisten kann. Unser Ziel ist klar: Systeme bauen, die Menschen stärken statt sie zu ersetzen. Unsere Technologie ist bereits bei führenden Industriekunden und Partnern im Einsatz. Jetzt steht unser eigenes Produkt kurz vor dem Launch.\n Die leise Phase ist vorbei. Wir suchen Menschen, die früh dabei sein wollen, Verantwortung übernehmen und das bauen, worüber andere nur reden.\n Ort: Berlin · Start: Ab sofort · Arbeitsmodell: Vor Ort · Anstellung : Vollzeit\n Deine Aufgaben Content-Produktion: Du produzierst Shorts, Reels und Posts für LinkedIn, Instagram und YouTube, vor und hinter der Kamera. Vom ersten Konzept über den Dreh bis zum fertigen Schnitt.\n Social-Media-Redaktion: Du verantwortest unseren Redaktionsplan und entscheidest, welches Thema auf welchem Kanal läuft. Du machst aus einem Engineering-Fortschritt einen LinkedIn-Post, aus einem Testlauf ein Video und aus einem Meilenstein einen Moment, über den geredet wird.\n Community Management: Du sichtest Kommentare und Nachrichten, antwortest im Tagesgeschäft und erkennst, wann ein Thema an das Team oder die Gründer:innen geflaggt werden muss.\n Kampagnen & Launch: Du setzt Kampagnen operativ um, insbesondere die Kommunikation rund um unseren Produktlaunch: von Teasern über Content vor Ort bis zum Recap. Mit Creator:innen und Partnern arbeitest du dabei eng zusammen.\n Founder-Content: Du recherchierst Themen und schreibst Entwürfe für LinkedIn-Beiträge, die unsere Gründer:innen aus ihrer eigenen Perspektive veröffentlichen.\n Du entwickelst eigene Formate aus unserem Material: Unser Videograf kümmert sich um Dokumentation und aufwendige Produktionen. Du machst daraus eigene Formate, schneidest Snippets und organisierst kleinere Drehs selbst.\n Reporting: Du misst Reichweite, Engagement und Profilbesuche, wertest a…",
+    "tags": [
+      "Social Media Manager",
+      "Unbefristeter arbeitsvertrag",
+      "teamleitung"
+    ],
+    "jobType": "Unbefristeter arbeitsvertrag",
+    "postedAt": "2026-11-25T23:47:33.000Z",
+    "scrapedAt": "2026-11-26T01:29:19.761Z"
   }
 ]
