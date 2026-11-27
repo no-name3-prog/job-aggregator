@@ -1,33 +1,5 @@
 [
   {
-    "company": "Adobe",
-    "jobCount": 6,
-    "sources": [
-      "workday"
-    ],
-    "locations": [
-      "2 Locations",
-      "Bangalore",
-      "Noida",
-      "3 Locations"
-    ],
-    "sampleTitles": [
-      "Data Engineer",
-      "Senior Data Engineer",
-      "Staff Security Data Engineer",
-      "Sr. Manager, Data Engineering",
-      "Data Engineer 3 -  PySpark, Databricks (Data & AI Governance)",
-      "Principal Scientist - Data Pipeline Engineer"
-    ],
-    "officialUrls": [
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-Engineer_R173786-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Professional-Services-Consultant-4_R173706-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Security-Data-Engineer_R171875-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Mgr--Software-Development_R172115-1",
-      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Engineer-3----PySpark--Databricks--Data---AI-Governance-_R173685"
-    ]
-  },
-  {
     "company": "Anthropic",
     "jobCount": 6,
     "sources": [
@@ -53,6 +25,33 @@
       "https://job-boards.greenhouse.io/anthropic/jobs/5448481008",
       "https://job-boards.greenhouse.io/anthropic/jobs/5424111008",
       "https://job-boards.greenhouse.io/anthropic/jobs/5418610008"
+    ]
+  },
+  {
+    "company": "Adobe",
+    "jobCount": 5,
+    "sources": [
+      "workday"
+    ],
+    "locations": [
+      "Bangalore",
+      "2 Locations",
+      "Noida",
+      "3 Locations"
+    ],
+    "sampleTitles": [
+      "Senior Data Engineer",
+      "Staff Security Data Engineer",
+      "Sr. Manager, Data Engineering",
+      "Data Engineer 3 -  PySpark, Databricks (Data & AI Governance)",
+      "Principal Scientist - Data Pipeline Engineer"
+    ],
+    "officialUrls": [
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Professional-Services-Consultant-4_R173706-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Security-Data-Engineer_R171875-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Mgr--Software-Development_R172115-1",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Engineer-3----PySpark--Databricks--Data---AI-Governance-_R173685",
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Scientist---Data-Pipeline-Engineer_R170588"
     ]
   },
   {
@@ -293,6 +292,22 @@
     ]
   },
   {
+    "company": "Airalo",
+    "jobCount": 1,
+    "sources": [
+      "jobicy"
+    ],
+    "locations": [
+      "Spain,  UK"
+    ],
+    "sampleTitles": [
+      "Senior Analytics Engineer, Finance"
+    ],
+    "officialUrls": [
+      "https://jobicy.com/jobs/164543-senior-analytics-engineer-finance"
+    ]
+  },
+  {
     "company": "Coopers Group AG",
     "jobCount": 1,
     "sources": [
@@ -357,6 +372,22 @@
     ]
   },
   {
+    "company": "GreenTech Hub GmbH",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Memmingen"
+    ],
+    "sampleTitles": [
+      "Automotive Data Engineer / Vehicle Data Engineer (m/w/d)"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.com/jobs/companies/greentech-hub-gmbh/automotive-data-engineer-vehicle-data-engineer-memmingen-214777"
+    ]
+  },
+  {
     "company": "Jobgether",
     "jobCount": 1,
     "sources": [
@@ -389,22 +420,6 @@
     ]
   },
   {
-    "company": "Natera",
-    "jobCount": 1,
-    "sources": [
-      "remoteok"
-    ],
-    "locations": [
-      "US Only"
-    ],
-    "sampleTitles": [
-      "Sr. Forward Deployed Data Engineer"
-    ],
-    "officialUrls": [
-      "https://remoteOK.com/remote-jobs/remote-sr-forward-deployed-data-engineer-natera-1137970"
-    ]
-  },
-  {
     "company": "Notion",
     "jobCount": 1,
     "sources": [
@@ -421,19 +436,35 @@
     ]
   },
   {
-    "company": "Peec AI",
+    "company": "Outsight",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Berlin"
+      "Paris"
     ],
     "sampleTitles": [
-      "Visiting Analytics Engineer"
+      "Senior Data Engineer"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.com/jobs/companies/peec-ai/visiting-analytics-engineer-berlin-296396"
+      "https://www.arbeitnow.fr/jobs/companies/outsight/senior-data-engineer-paris-176559"
+    ]
+  },
+  {
+    "company": "Quantexa",
+    "jobCount": 1,
+    "sources": [
+      "arbeitnow"
+    ],
+    "locations": [
+      "Manchester"
+    ],
+    "sampleTitles": [
+      "Lead Data Engineer - Manchester"
+    ],
+    "officialUrls": [
+      "https://www.arbeitnow.co.uk/jobs/companies/quantexa/lead-data-engineer-manchester-108909"
     ]
   },
   {
@@ -501,19 +532,19 @@
     ]
   },
   {
-    "company": "Talk360",
+    "company": "Uforce",
     "jobCount": 1,
     "sources": [
       "arbeitnow"
     ],
     "locations": [
-      "Amsterdam, Noord-Holland, Netherlands"
+      "United Kingdom - London"
     ],
     "sampleTitles": [
-      "Senior Analytics Engineer"
+      "Staff Data Engineer (AI Data Platform)"
     ],
     "officialUrls": [
-      "https://www.arbeitnow.nl/jobs/companies/talk360/senior-analytics-engineer-amsterdam-396595"
+      "https://www.arbeitnow.co.uk/jobs/companies/uforce/staff-data-engineer-ai-data-platform-london-222143"
     ]
   },
   {
