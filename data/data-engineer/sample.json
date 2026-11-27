@@ -1,5 +1,23 @@
 [
   {
+    "id": "arbeitnow:visiting-analytics-engineer-berlin-296396",
+    "externalId": "visiting-analytics-engineer-berlin-296396",
+    "source": "arbeitnow",
+    "title": "Visiting Analytics Engineer",
+    "company": "Peec AI",
+    "location": "Berlin",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/peec-ai/visiting-analytics-engineer-berlin-296396",
+    "description": "Peec AI is the analytics platform for AI search. People increasingly discover products and make buying decisions through ChatGPT, Claude, Gemini, and Google's AI Overviews instead of traditional search, and most brands have no idea where they show up in those answers. Peec gives marketing, SEO, and growth teams the data to see exactly that: how visible their brand is across AI platforms, how they compare to competitors, and where to win.\nWe are defining this category, and the market is moving with us. Peec is a Series A company backed by 20VC and Singular, past $15M ARR, with a 80+ person team across our Berlin HQ and our new New York office.\n About the Role\n We're building the data foundation that powers how Peec AI understands its business, customers, and products.\n As we scale, we're bringing data from business systems across Finance, Sales and Growth, into one reliable analytics platform, making trusted data accessible to everyone, including Product and Engineering\n We're looking for an Analytics Engineer Intern who loves solving problems, building things, and turning raw data into something useful.\n You’ll drive speed and AI-adoption in the business teams, by building an AI-first analytics platform that brings data together in a governed warehouse and lets teams explore it through a conversational analytics tool, then create dashboards and apps from the results.\n You'll build from day one. Your work will go into production, help teams make better decisions, and directly contribute to Peec's growth. You'll help make data and insights accessible to business leaders, and steer commercial decision making, at scale.\n What You'll Do\n Build our data foundation: Integrate product, billing, CRM, and business data into data warehouse to create a reliable source of truth\n Develop analytics models: Write SQL and dbt models to transform raw data into clean, reusable datasets\n Connect systems and automate workflows : Build data pipelines and integrations using APIs, Fivetra…",
+    "tags": [
+      "Finance",
+      "Intern"
+    ],
+    "jobType": "Intern",
+    "postedAt": "2026-11-26T21:40:10.000Z",
+    "scrapedAt": "2026-11-27T03:28:00.621Z"
+  },
+  {
     "id": "arbeitnow:data-engineer-zurich-454143",
     "externalId": "data-engineer-zurich-454143",
     "source": "arbeitnow",
@@ -8,7 +26,7 @@
     "location": "Zürich",
     "remote": false,
     "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/data-engineer-zurich-454143",
-    "description": "................\n Für unseren Kunden in Zürich, suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n Data Engineer - Python / PySpark.\n Deine Aufgaben:\n Integration und Anbindung verschiedener Quellsysteme an die zentrale Azure Cloud-Datenplattform Entwicklung und Optimierung skalierbarer Datenpipelines mit Python und PySpark Aufbau und Weiterentwicklung von Data Products auf Basis integrierter und standardisierter Daten Durchführung von Datenmodellierung, Datentransformation und Datenverarbeitung zur Sicherstellung einer hohen Datenqualität Bereitstellung strukturierter und zuverlässiger Datengrundlagen für Power BI Dashboards und Self-Service-Reporting Zusammenarbeit mit verschiedenen Fachbereichen wie Operations, Retail, Finance und Real Estate zur Umsetzung datengetriebener Anforderungen\n Dein Profil:\n Mehrjährige Erfahrung im Data Engineering, insbesondere in der Entwicklung und Verarbeitung komplexer Datenpipelines Fundierte Kenntnisse in Python und PySpark Erfahrung in der Integration heterogener Datenquellen sowie in der Datenmodellierung und Datentransformation Gute Kenntnisse im Aufbau und in der Bereitstellung strukturierter Data Products Erfahrung mit Microsoft Azure Cloud und Databricks von Vorteil Verständnis für moderne Datenarchitekturen, Data Warehousing und Analytics-Plattformen Analytische, strukturierte und selbstständige Arbeitsweise sowie ausgeprägte Problemlösungskompetenz Teamfähigkeit und Freude an der Zusammenarbeit mit technischen und fachlichen Stakeholdern Fliessende Deutsch- und Englischkenntnisse Find more English Speaking Jobs in Switzerland on Arbeitnow",
+    "description": "................\n Für unseren Kunden in Zürich, suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n Data Engineer - Python / PySpark.\n Deine Aufgaben:\n Integration und Anbindung verschiedener Quellsysteme an die zentrale Azure Cloud-Datenplattform Entwicklung und Optimierung skalierbarer Datenpipelines mit Python und PySpark Aufbau und Weiterentwicklung von Data Products auf Basis integrierter und standardisierter Daten Durchführung von Datenmodellierung, Datentransformation und Datenverarbeitung zur Sicherstellung einer hohen Datenqualität Bereitstellung strukturierter und zuverlässiger Datengrundlagen für Power BI Dashboards und Self-Service-Reporting Zusammenarbeit mit verschiedenen Fachbereichen wie Operations, Retail, Finance und Real Estate zur Umsetzung datengetriebener Anforderungen\n Dein Profil:\n Mehrjährige Erfahrung im Data Engineering, insbesondere in der Entwicklung und Verarbeitung komplexer Datenpipelines Fundierte Kenntnisse in Python und PySpark Erfahrung in der Integration heterogener Datenquellen sowie in der Datenmodellierung und Datentransformation Gute Kenntnisse im Aufbau und in der Bereitstellung strukturierter Data Products Erfahrung mit Microsoft Azure Cloud und Databricks von Vorteil Verständnis für moderne Datenarchitekturen, Data Warehousing und Analytics-Plattformen Analytische, strukturierte und selbstständige Arbeitsweise sowie ausgeprägte Problemlösungskompetenz Teamfähigkeit und Freude an der Zusammenarbeit mit technischen und fachlichen Stakeholdern Fliessende Deutsch- und Englischkenntnisse Find Jobs in Switzerland on Arbeitnow",
     "tags": [
       "Data Processing",
       "Data Engineer",
@@ -18,25 +36,7 @@
     ],
     "jobType": "Befristeter arbeitsvertrag",
     "postedAt": "2026-11-26T15:30:48.000Z",
-    "scrapedAt": "2026-11-26T20:53:02.726Z"
-  },
-  {
-    "id": "arbeitnow:analytics-engineer-data-platform-hamburg-or-berlin-437592",
-    "externalId": "analytics-engineer-data-platform-hamburg-or-berlin-437592",
-    "source": "arbeitnow",
-    "title": "Analytics Engineer - Data Platform (m/f/d)",
-    "company": "Statista",
-    "location": "Hamburg or Berlin",
-    "remote": false,
-    "url": "https://www.arbeitnow.com/jobs/companies/statista/analytics-engineer-data-platform-hamburg-or-berlin-437592",
-    "description": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions.\n Founded in Hamburg in 2007, we have quickly grown into a global company with offices in major cities such as London, New York, Berlin and Tokyo. And we still have a lot of plans. Our constant growth does not only prove our success, but also keeps creating new development and career opportunities for our employees.\n We value and celebrate our diverse culture. You are welcome here for who you are, no matter where you come from, what you look like, or whether you prefer bar graphs to pie charts. Your story matters – keep writing it as part of our team.\n Are you ready to join us?\n You’ll join Statista’s newly formed Data Platform team. We’re building a central platform that brings together data—from market statistics to consumer surveys—under consistent standards for quality, documentation, and access. This gives product teams and AI agents a trusted foundation to build new applications and features without duplicating data or setting up separate pipelines.\n Your role\n Design, implement, and maintain backend services in Python that power our data access and distribution layer\n Build and operate automated build, test, and deployment pipelines following CI/CD and GitOps practices, running on AWS and Kubernetes\n Design and maintain data models and schemas (Avro, SQL) for our data pipelines and services, and publish them to downstream consumers via our Kafka-based distribution platform and schema registry\n Build access-layer data models in our analytics environment (e.g., Snowflake) so applications can work with the data directly, including via API\n Act as the coordination interface between the Data and Tech divisions, aligning priorities, schemas, and timelines across upstream and downstream teams\n Your profile\n 4+ y…",
-    "tags": [
-      "Tech",
-      "Full Time"
-    ],
-    "jobType": "Full Time",
-    "postedAt": "2026-11-26T12:40:13.000Z",
-    "scrapedAt": "2026-11-26T20:53:02.726Z"
+    "scrapedAt": "2026-11-27T03:28:00.621Z"
   },
   {
     "id": "greenhouse:twilio-8393933",
@@ -52,7 +52,7 @@
       "Engineering"
     ],
     "postedAt": "2026-11-26T07:20:26.000Z",
-    "scrapedAt": "2026-11-26T20:53:03.453Z"
+    "scrapedAt": "2026-11-27T03:28:01.279Z"
   },
   {
     "id": "arbeitnow:senior-data-engineer-amsterdam-area-421741",
@@ -70,7 +70,7 @@
     ],
     "jobType": "Full Time",
     "postedAt": "2026-11-26T03:43:07.000Z",
-    "scrapedAt": "2026-11-26T20:53:02.726Z"
+    "scrapedAt": "2026-11-27T03:28:00.621Z"
   },
   {
     "id": "arbeitnow:azure-data-engineer-with-databricks-pyspark-netherlands-367179",
@@ -88,25 +88,7 @@
     ],
     "jobType": "Full-time",
     "postedAt": "2026-11-26T03:26:56.000Z",
-    "scrapedAt": "2026-11-26T20:53:02.726Z"
-  },
-  {
-    "id": "arbeitnow:azure-data-engineer-with-databricks-pyspark-switzerland-287961",
-    "externalId": "azure-data-engineer-with-databricks-pyspark-switzerland-287961",
-    "source": "arbeitnow",
-    "title": "Azure Data Engineer with Databricks & PySpark",
-    "company": "Jobgether",
-    "location": "Switzerland",
-    "remote": false,
-    "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/azure-data-engineer-with-databricks-pyspark-switzerland-287961",
-    "description": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for an Azure Data Engineer with Databricks & PySpark based in Switzerland.\n We are seeking an experienced Azure Data Engineer to design and deliver scalable, reliable data integration solutions in a fully remote European environment.\nYou will build and optimise modern ETL/ELT pipelines, transforming data from multiple sources into enterprise data warehouses.\nWorking extensively with Azure Databricks, PySpark, SQL and Delta Lake, you will contribute to robust, high-performing data platforms.\nThe role combines hands-on engineering, data modelling, automation and production support.\nYou will collaborate with data analysts, reporting specialists and software developers to translate business needs into effective technical solutions.\nThis is an opportunity to apply modern cloud data engineering practices, improve data quality and contribute to the evolution of enterprise data solutions.\n Accountabilities\n Design, develop and maintain ETL/ELT pipelines that extract, transform and load data from multiple sources into enterprise data warehouses.\n Build, optimise and maintain data processing workflows using Azure Databricks, PySpark, Spark SQL, Delta Lake and Databricks Workflows.\n Develop and manage data pipelines using Lakeflow Declarative Pipelines, formerly Delta Live Tables, and organise data assets through Unity Catalog.\n Design and optimise SQL queries, data transformations and dimensional data models to improve processing efficiency and data accessibility.\n Integrate data from APIs, files and Azure Data Lake Storage Gen2, working with formats such as Delta, Parquet and JSON.\n Implement automated testing and quality assurance processes, debug issues and troubleshoot production pipelines to ensure data accuracy and reliability.\n Apply Git, Azure DevOps and CI/CD practices to manage development, testing, deployment and promotion of data solutions…",
-    "tags": [
-      "IT",
-      "Full-time"
-    ],
-    "jobType": "Full-time",
-    "postedAt": "2026-11-26T03:26:55.000Z",
-    "scrapedAt": "2026-11-26T20:53:02.726Z"
+    "scrapedAt": "2026-11-27T03:28:00.621Z"
   },
   {
     "id": "greenhouse:discord-8942144002",
@@ -122,7 +104,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-11-26T01:13:44.000Z",
-    "scrapedAt": "2026-11-26T20:53:03.453Z"
+    "scrapedAt": "2026-11-27T03:28:01.279Z"
   },
   {
     "id": "arbeitnow:senior-analytics-engineer-amsterdam-396595",
@@ -141,7 +123,7 @@
     ],
     "jobType": "Experienced",
     "postedAt": "2026-11-25T15:31:31.000Z",
-    "scrapedAt": "2026-11-26T20:53:02.726Z"
+    "scrapedAt": "2026-11-27T03:28:00.621Z"
   },
   {
     "id": "greenhouse:stripe-8415333",
@@ -157,7 +139,7 @@
       "9003 Privy - S&O"
     ],
     "postedAt": "2026-11-24T22:35:42.000Z",
-    "scrapedAt": "2026-11-26T20:53:03.453Z"
+    "scrapedAt": "2026-11-27T03:28:01.279Z"
   },
   {
     "id": "remoteok:1137970",
@@ -173,6 +155,22 @@
       "devops"
     ],
     "postedAt": "2026-11-22T01:00:07.000Z",
-    "scrapedAt": "2026-11-26T20:53:03.444Z"
+    "scrapedAt": "2026-11-27T03:28:01.267Z"
+  },
+  {
+    "id": "greenhouse:cloudflare-8395358",
+    "externalId": "cloudflare:8395358",
+    "source": "greenhouse",
+    "title": "Senior Data Engineer, Cloudforce One",
+    "company": "Cloudflare",
+    "location": "Hybrid",
+    "remote": false,
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8395358?gh_jid=8395358",
+    "description": "About Us\n At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.\n At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.\n Available Locations: London, UK\n About the role\n Cloudforce One is Cloudflare’s threat operations and research team, responsible for identifying and disrupting cyber threats ranging from sophisticated cyber criminal activity to nation-state sponsored advanced persistent threats (APTs). Members of Cloudforce One are at the helm of leveraging an incredibly vast and varied set of data points that only one of the world’s largest global networks can prov…",
+    "tags": [
+      "Security"
+    ],
+    "postedAt": "2026-11-17T21:48:13.000Z",
+    "scrapedAt": "2026-11-27T03:28:01.279Z"
   }
 ]
