@@ -1,41 +1,75 @@
 [
   {
-    "id": "jobicy:164581",
-    "externalId": "164581",
+    "id": "jobicy:164604",
+    "externalId": "164604",
     "source": "jobicy",
-    "title": "Lead Data Engineer",
-    "company": "UpGuard",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/474a12c7-221.png",
-    "location": "Australia",
+    "title": "Staff Data Engineer",
+    "company": "Twilio",
+    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/10/WRILS-201023175858-722503.jpg",
+    "location": "Ireland",
     "remote": true,
-    "url": "https://jobicy.com/jobs/164581-lead-data-engineer-3",
-    "description": "Who are we?\n At UpGuard , we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process around 10 billion risk signals daily. This isn’t just growth; it’s a total reimagining of how the world manages cyber risk.\n We build the Risk Operations Center, the AI platform where lean security teams run cyber risk end to end. It combines security ratings, threat intelligence and AI agents to give teams one view of risk across their vendors, attack surface and workforce.\n We aren’t just building another tool; we’re defining a category. We provide the autonomy to ship world-class technology and the resources to do it at a global scale.\n Where does this role fit in?\n UpGuard has recently replatformed its analytics stack onto a greenfield foundation built on BigQuery, dbt, infrastructure as code in OpenTofu, CI/CD through GitHub, and a governed semantic layer that both people and AI agents query. We are seeking an experienced data engineer to help take that platform to the next level.\n Reporting to the Director of Data Engineering, this role is the strong technical lead within the data engineering team. You will work under the Director's guidance to evolve the platform and raise its engineering standards, and you will set the example for how the team builds, reviews and ships.\n The platform has a broad contributor and consumer base. Analysts, data scientists and business teams build on it, query it and increasingly reach it through AI agents. Keeping those stakeholders well served and satisfied is a central measure of success in this role.\n What will you do?\n Technical Leadership: Act as the senior technical voice within the data engineering team by guiding design decisions, reviewing code, mentoring engineers and contributing to the platform roadmap set by the team.\n Platform Evolution: Help take UpGuard's recently built GCP data platform to its next stage, proposing and delivering improvements…",
-    "tags": [
-      "Data Science & Analytics",
-      "Director"
-    ],
-    "jobType": "Full-Time",
-    "postedAt": "2026-11-27T16:26:38.000Z",
-    "scrapedAt": "2026-11-28T01:01:05.994Z"
-  },
-  {
-    "id": "jobicy:164543",
-    "externalId": "164543",
-    "source": "jobicy",
-    "title": "Senior Analytics Engineer, Finance",
-    "company": "Airalo",
-    "companyLogo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/11/6970acbe26d0-221.webp",
-    "location": "Spain,  UK",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/164543-senior-analytics-engineer-finance",
-    "description": "Help Us Build The Future of Travel\n At Airalo , we're making it easier for people to stay connected wherever they travel. As the world's first eSIM store, we help millions of travelers access affordable mobile data in 200+ countries and regions around the world.\n Today, we're a team of 400+ people across 60+ countries, building a product used by travelers every day. We've grown quickly, but we've worked hard to keep what matters: trust, ownership, and the freedom for people to do great work without unnecessary layers or bureaucracy.\n We're fully remote by design, genuinely global, and united by a shared mission to make travel simpler for everyone.\n Your Next Destination\n Location: Remote, anywhere in Spain or the UK.\n Contract:\n Spain: Full-time, permanent contrato indefinido via Deel (our employer of record in Spain)\n UK: Full-time, permanent\n Benefits: Learn more about our benefits here in this link - https://airalo-public.notion.site/Benefits-25396a97ffca81fb9bc1f0be479f1be3?pvs=74\n Languages: English is our main working language day to day, so you'll need to be comfortable communicating in it both in meetings and async.\n Curious what it's actually like to work at Airalo? We've put together a guide for each of the hubs we hire from most, covering our benefits, remote culture, employment setup, and what our team values most:\n Life at Airalo · España : https://airalo-public.notion.site/life-at-airalo-espana\n Life at Airalo · United Kingdom : https://airalo-public.notion.site/life-at-airalo-united-kingdom\n We’re looking for a Senior Analytics Engineer to help shape how data is modeled and governed at Airalo, transforming first- and third-party data into clean, trusted, well-documented datasets that power decisions across product, marketing, finance, and commercial teams, serving 30+ million users and growing. This role carries particular weight in our finance and revenue domain: you’ll steward the models finance relies on directly, including order-to-revenue flows…",
+    "url": "https://jobicy.com/jobs/164604-staff-data-engineer-6",
+    "description": "Who we are\n At Twilio , we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.\n Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.\n.\n Hiring and how we work\n We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!\n Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.\n.\n See yourself at Twilio\n Join the team as Twilio’s next Staff Data Engineer.\n About the job\n This position is needed to design, build, and optimize Twilio's next-generation unified data platforms and services to power strategic, data-driven business decisions.\n As a senior technical leader on our Enterprise Data Engineering team, you will drive a massive, highly visible transformation to unify disparate data lakes into a single, high-performance platform. By combining classic dimensional modeling with cutting-edge AI, you will accelerate data delivery at an immense scale. This is your chance to solve complex architectural challenges, mentor rising talent, and directly influence Twilio’s strategic direction.\n Responsibilities\n In this role, you’ll:\n Architect and scale high-performance data platforms to unify acquired data lakes, improving delivery speed by leveraging AI-driven workflows.\n Design robust ETL pipelines and data integration frameworks using Spark, dbt, and AWS to support rapidly grow…",
     "tags": [
       "Data Science & Analytics",
       "Senior"
     ],
     "jobType": "Full-Time",
-    "postedAt": "2026-11-27T12:51:13.000Z",
-    "scrapedAt": "2026-11-28T01:01:05.994Z"
+    "postedAt": "2026-11-28T04:08:14.000Z",
+    "scrapedAt": "2026-11-28T11:18:34.811Z"
+  },
+  {
+    "id": "arbeitnow:interim-senior-analytics-engineer-powerbi-databricks-leiden-36214",
+    "externalId": "interim-senior-analytics-engineer-powerbi-databricks-leiden-36214",
+    "source": "arbeitnow",
+    "title": "[Interim] Senior Analytics Engineer (PowerBI & Databricks)",
+    "company": "Riverflex",
+    "location": "Leiden, Zuid-Holland, Netherlands",
+    "remote": false,
+    "url": "https://www.arbeitnow.nl/jobs/companies/riverflex/interim-senior-analytics-engineer-powerbi-databricks-leiden-36214",
+    "description": "Job Title: Senior Analytics Engineer\n Location: Leiden, Netherlands (Hybrid: 3 days on-site, 2 remote)\n Engagement: Full-time, 5 days a week\n Contract duration: 3 months + extension\n Start date: ASAP (mid-December preferred, early January at the latest)\n We're looking for a hands-on Senior Analytics Engineer to join one of our client projects and help deliver practical data solutions on Databricks . You'll work at the intersection of data engineering and application development, building simple web applications that let business users view, enter and correct data. You'll also model the data behind them and support analytics in Power BI . This role suits a builder who is comfortable working with business users and turning their needs into working tools.\n What you'll do\n Build data apps – develop simple web applications for data entry, validation and commenting that read from and write back to the lakehouse, replacing manual Excel/CSV uploads and Microsoft Lists.\n Model for insight – design data models and lakehouse tables that keep data trusted, sustainable and easy to connect across use cases.\n Contribute to the ETL life-cycle – build and schedule simple transformation pipelines in Azure Databricks / Spark (SQL and Python), with support from the wider team.\n Apply DataOps/DevOps best practices – version control, CI/CD and promotion of applications and pipelines across development, test and production environments.\n Support analytics – create and maintain Power BI reports alongside the business-facing analytics lead.\n Engage with the business – validate requirements directly with users, and spot when a new request is really a separate use case that should be captured on its own.\n Collaborate on strategy – work together with the Data & Analytics team to align technical choices with the wider data-platform roadmap.\n What you bring\n Bachelor's degree in Computer Science, Engineering, Information Systems, or equivalent practical experience.\n 5+ years in data engineering…",
+    "tags": [
+      "Experienced",
+      "contract"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-11-28T03:31:23.000Z",
+    "scrapedAt": "2026-11-28T11:18:34.568Z"
+  },
+  {
+    "id": "arbeitnow:senior-data-engineer-berlin-334230",
+    "externalId": "senior-data-engineer-berlin-334230",
+    "source": "arbeitnow",
+    "title": "Senior Data Engineer (w/m/d)",
+    "company": "Arsipa GmbH",
+    "location": "Berlin, Berlin, Deutschland",
+    "remote": false,
+    "url": "https://www.arbeitnow.com/jobs/companies/arsipa-gmbh/senior-data-engineer-berlin-334230",
+    "description": "Du möchtest moderne Datenplattformen entwickeln, skalierbare Datenarchitekturen gestalten und die datengetriebene Weiterentwicklung einer wachsenden Unternehmensgruppe aktiv vorantreiben? Dann suchen wir Dich zum nächstmöglichen Zeitpunkt als:\n Senior Data Engineer (w/m/d)\n Als Senior Data Engineer (w/m/d) übernimmst Du eine zentrale Rolle beim Aufbau und der Weiterentwicklung unserer gruppenweiten Datenplattform. Du entwickelst stabile und skalierbare Datenpipelines, stellst eine hohe Datenqualität sicher und schaffst die technische Grundlage für datenbasierte Entscheidungen. Dabei arbeitest Du eng mit unseren Analytics-, Product- und Engineering-Teams zusammen und gestaltest die Weiterentwicklung unserer Datenarchitektur und Datenstrategie aktiv mit.\n Die Arsipa Gruppe ist eine schnell wachsende, PE-backed Unternehmensgruppe im Bereich Health, Safety & Environment, unterstützt von Warburg Pincus. Mit über 1.000 Mitarbeitenden, 20+ Tochtergesellschaften und 90 Standorten in Deutschland und Österreich bauen wir im Rahmen einer klaren Buy-&-Build-Strategie eine skalierbare Plattform mit nachhaltiger Wertschöpfung. Unser Ziel: eine der führenden Anbieterinnen im deutschsprachigen Markt - unterstützt durch zentrale Funktionen wie Finance, People, Marketing und IT am Standort Berlin.\n Deine Aufgaben:\n Datenplattform & Architektur\n Den Aufbau, Betrieb und die Weiterentwicklung unserer skalierbaren Datenplattform auf Basis moderner Warehouse-, Data-Lake- oder Lakehouse-Architekturen verantwortest Du eigenständig.\n Robuste ETL- und ELT-Pipelines zur Integration unterschiedlicher Datenquellen entwickelst, optimierst und wartest Du kontinuierlich.\n Moderne Datenarchitekturen und Datenmodelle gestaltest Du mit Blick auf Performance, Skalierbarkeit und eine effiziente Verarbeitung großer Datenmengen.\n Bestehende Datenarchitekturen analysierst und optimierst Du hinsichtlich Stabilität, Wirtschaftlichkeit und zukünftiger Anforderungen.\n Data Engineering & Quality Management\n Di…",
+    "tags": [
+      "Arsipa GmbH",
+      "Experienced",
+      "fulltime permanent"
+    ],
+    "jobType": "Experienced",
+    "postedAt": "2026-11-28T03:31:18.000Z",
+    "scrapedAt": "2026-11-28T11:18:34.568Z"
+  },
+  {
+    "id": "arbeitnow:data-engineer-intern-zurich-496199",
+    "externalId": "data-engineer-intern-zurich-496199",
+    "source": "arbeitnow",
+    "title": "Data Engineer Intern",
+    "company": "Gravis Robotics",
+    "location": "Zurich",
+    "remote": false,
+    "url": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/data-engineer-intern-zurich-496199",
+    "description": "Gravis Robotics is a high-growth Series A start-up backed by SoftBank, bringing Physical AI to the construction industry, turning heavy construction machines into autonomous robots.\n Gravis began as an ETH Zurich spin-out, and our unique combination of learning-based automation and augmented remote control lets one operator safely conduct a fleet of earthmoving machines in a gamified environment.\n Backed by deep robotics research and now deployed across multiple countries with leading construction and equipment partners, our team is rapidly growing to bring this technology to a trillion-dollar industry.\n About the role\n The MLOps team at Gravis builds the data flow that turns raw recordings from our autonomous earthmoving machines (LiDAR point clouds, camera images, GNSS positions and hydraulic signals) into clean, searchable, training-ready datasets for our autonomy models.\n As an intern, you will learn how data moves through Gravis today, explore data pipeline tools and try the most promising ones on real fleet data, and have the opportunity to help build a pipeline that runs in production on our GPU clusters and is used by our ML and robotics engineers every day, with direct mentorship from senior engineers.\n We are looking for a motivated student or recent graduate with a background in computer science, data science or a related field and a solid foundation in Python and data processing, available to start in early 2027.\n What you will do\n Data pipeline\n Get to know how data is collected, stored, processed and labelled at Gravis today, map the current data flows, and suggest ways to improve them\n Explore the data pipeline and orchestration tools available today (e.g., Dagster, Flyte, Argo Workflows, Airflow, Ray Data) and compare them against our requirements: data volume, multimodal sensor data, CPU and GPU processing steps, reproducibility and ease of use\n Help build small prototypes of the most promising options and test them on real fleet data, from raw mac…",
+    "tags": [
+      "Platform"
+    ],
+    "postedAt": "2026-11-28T03:07:39.000Z",
+    "scrapedAt": "2026-11-28T11:18:34.568Z"
   },
   {
     "id": "greenhouse:twilio-8393933",
@@ -51,7 +85,7 @@
       "Engineering"
     ],
     "postedAt": "2026-11-26T07:20:26.000Z",
-    "scrapedAt": "2026-11-28T01:01:06.972Z"
+    "scrapedAt": "2026-11-28T11:18:35.282Z"
   },
   {
     "id": "greenhouse:discord-8942144002",
@@ -67,7 +101,7 @@
       "Data Science & Engineering"
     ],
     "postedAt": "2026-11-26T01:13:44.000Z",
-    "scrapedAt": "2026-11-28T01:01:06.972Z"
+    "scrapedAt": "2026-11-28T11:18:35.282Z"
   },
   {
     "id": "greenhouse:stripe-8415333",
@@ -83,7 +117,7 @@
       "9003 Privy - S&O"
     ],
     "postedAt": "2026-11-24T22:35:42.000Z",
-    "scrapedAt": "2026-11-28T01:01:06.972Z"
+    "scrapedAt": "2026-11-28T11:18:35.282Z"
   },
   {
     "id": "greenhouse:cloudflare-8395358",
@@ -99,7 +133,7 @@
       "Security"
     ],
     "postedAt": "2026-11-17T21:48:13.000Z",
-    "scrapedAt": "2026-11-28T01:01:06.972Z"
+    "scrapedAt": "2026-11-28T11:18:35.282Z"
   },
   {
     "id": "greenhouse:lyft-8940409002",
@@ -115,7 +149,7 @@
       "Marketplace"
     ],
     "postedAt": "2026-11-13T09:17:01.000Z",
-    "scrapedAt": "2026-11-28T01:01:06.972Z"
+    "scrapedAt": "2026-11-28T11:18:35.282Z"
   },
   {
     "id": "greenhouse:block-5473605008",
@@ -131,89 +165,6 @@
       "30403 Foundational - Guidance - Corporate Finance & Strategy"
     ],
     "postedAt": "2026-11-12T21:53:17.000Z",
-    "scrapedAt": "2026-11-28T01:01:06.972Z"
-  },
-  {
-    "id": "remotive:2091137",
-    "externalId": "2091137",
-    "source": "remotive",
-    "title": "Senior Data Engineer",
-    "company": "Lemon.io",
-    "companyLogo": "https://remotive.com/job/2091137/logo",
-    "location": "LATAM, Europe, USA, Canada, APAC",
-    "remote": true,
-    "url": "https://remotive.com/remote-jobs/data/senior-data-engineer-2091137",
-    "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us.\n New roles for Senior React Full-stack Engineers come in all the time, and several are open right now.\n Two ways to work with clients\n Contract: most roles are contract-based. You join the client’s team and work as part of it.\n Direct hire: some clients hire engineers full-time, and we support you through the process.\n Because companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own.\n What you get\n Competitive rate, based on your seniority and skills\n We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences.\n Flexible schedule. Work async or with a small overlap with the team’s hours.\n No micromanagement, no screen trackers\n Direct work with clients, most of them with technical backgrounds\n Ongoing support from your application through every project, plus a community of engineers from 75+ countries\n Who we’re looking for\n Senior Data Engineers with:\n 4+ years of commercial experience as a Data Engineer\n Experience with Apache Airflow and Snowflake, or Python and SQL, is required\n Experience with AWS, GCP, or Microsoft Azure is mandatory\n You own problems end-to-end: you spot the issue in the data or pipeline, design and build the solution, and ship it to production.\n You can show the business impact of your work with concrete results (e.g., faster data processing, lower infrastructure costs, fresher data for stakeholders, fewer pipeline incidents).\n Advanced English: you discuss business tasks, explain your technical decisions, raise risks early, and present yourself and your results well on client calls.\n You work full-time remotely and deliver without supervision.…",
-    "tags": [
-      "Data and Analytics",
-      ".Net",
-      "android",
-      "apache",
-      "AWS",
-      "azure",
-      "C",
-      "C#",
-      "C++",
-      "data science",
-      "fullstack",
-      "golang",
-      "ios",
-      "java",
-      "javascript",
-      "magento",
-      "node.js",
-      "php",
-      "python",
-      "react",
-      "ruby/rails",
-      "scala",
-      "shopify",
-      "sql",
-      "swift",
-      "UI/UX",
-      "wordpress",
-      "blockchain",
-      "AI/ML",
-      "automation",
-      "project management",
-      "react native",
-      "rust",
-      "unity",
-      "electron",
-      "spring",
-      "data analysis",
-      "laravel",
-      "Ethereum",
-      "graphic design",
-      "Typescript ",
-      "angular ",
-      "GCP",
-      "firebase",
-      "Snowflake",
-      "Site Reliability",
-      "Symfony",
-      "next.js",
-      "infrastructure",
-      "flutter"
-    ],
-    "jobType": "full_time",
-    "postedAt": "2026-11-11T18:39:59.000Z",
-    "scrapedAt": "2026-11-28T01:01:05.620Z"
-  },
-  {
-    "id": "greenhouse:lyft-8931413002",
-    "externalId": "lyft:8931413002",
-    "source": "greenhouse",
-    "title": "Data Engineer",
-    "company": "Lyft",
-    "location": "Toronto, Canada",
-    "remote": false,
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8931413002?gh_jid=8931413002",
-    "description": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.\n Lyft is looking for experienced software engineers from a scope of disciplines. We are growing our team with people who want to build, improve and incorporate technologies that make the lives of our community more enriched. As an engineer at Lyft, you'll collaborate with teams like product, data science, analytics, and operations on code that empower us to iterate quickly, while focusing on delighting our riders and drivers.\n As a Software Engineer for Lyft Ads - you will work on one of Lyft’s newest lines of business focused on building the world’s largest transportation media network. We build products that allow brands to engage with our unique audience throughout their transportation journeys and beyond. For this role we are seeking software engineers who are passionate about backend and data engineering . You will join our Ad Infra Engineering team and contribute to building the systems and pipelines powering our ad-serving, measurement and audience platform. We work on technologies that let brands engage with our unique audience throughout their transportation journeys. This role is a great opportunity for an early-career engineer to gain experience working with distributed backend systems and large-scale data workflows, collaborating closely with product, analytics, and data science teams.\n Responsibilities:\n Develop and maintain backend systems that support real-time ad serving, campaign management, and reporting.\n Design and implement scalable data models to support analytics, targeting, and measurement use cases.\n Build and maintain data pipelines that handle ingestion, transformation, and distribution of large volumes of advertising data.\n Work with orchestration frameworks (e.g., Airflow) to schedule and monitor reliable, production-grade data workflows.\n Collaborate with cross-function…",
-    "tags": [
-      "Lyft Ads"
-    ],
-    "postedAt": "2026-11-10T15:58:08.000Z",
-    "scrapedAt": "2026-11-28T01:01:06.972Z"
+    "scrapedAt": "2026-11-28T11:18:35.282Z"
   }
 ]
